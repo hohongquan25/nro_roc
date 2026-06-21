@@ -1,0 +1,431 @@
+BAG:tdbrovip add 1xGiáp tập luyện cấp 2 lydo: Mua từ cửa hàng at 03/04/2023 1:03 AM
+BAG:tdbrovip add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/04/2023 1:05 AM
+BAG:tdbrovip add 5xVệ tinh trí tuệ lydo: Lấy từ rương qua người at 03/04/2023 1:05 AM
+BAG:tdbrovip add 5xSao pha lê lydo: Lấy từ rương qua người at 03/04/2023 1:05 AM
+BAG:tdbrovip add 1xGiày vàng Zealot lydo: Lấy từ rương qua người at 03/04/2023 1:05 AM
+BAG:tdbrovip add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 1:06 AM
+BAG:tdbrovip add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 1:07 AM
+BAG:tdbrovip add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 1:07 AM
+BAG:tdbrovip add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 1:08 AM
+BAG:tdbrovip add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 1:08 AM
+BAG:tdbrovip add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 1:08 AM
+BAG:tdbrovip add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 1:10 AM
+BAG:tdbrovip add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:tdbrovip add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:tdbrovip add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:tdbrovip add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:tdbrovip add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:tdbrovip add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:tdbrovip add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:tdbrovip add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:tdbrovip add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:tdbrovip add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:tdbrovip add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/04/2023 1:12 AM
+BAG:tdbrovip add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/04/2023 1:12 AM
+BAG:tdbrovip add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/04/2023 1:12 AM
+BAG:tdbrovip add 1xAvatar VIP lydo: Lấy từ rương qua người at 03/04/2023 6:14 AM
+BAG:tdbrovip add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/04/2023 6:16 AM
+BAG:tdbrovip add 1xCải Trang Cumber lydo: Lấy từ body vào hành trang at 03/04/2023 6:24 AM
+BAG:tdbrovip add 1xCải trang Đôrêmon lydo: Lấy từ rương qua người at 03/04/2023 6:25 AM
+BAG:tdbrovip add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/04/2023 6:25 AM
+BAG:tdbrovip add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/04/2023 6:25 AM
+BAG:tdbrovip add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/04/2023 6:25 AM
+BAG:tdbrovip add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/04/2023 6:25 AM
+BAG:tdbrovip add 1xCải Trang Cumber lydo: Lấy từ rương qua người at 03/04/2023 7:54 AM
+BAG:tdbrovip add 1xCải Trang Cumber lydo: Lấy từ rương qua người at 03/04/2023 7:54 AM
+BAG:tdbrovip add 5xNgọc Rồng 1 sao lydo: Lấy từ rương qua người at 03/04/2023 7:55 AM
+BAG:tdbrovip add 5xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 03/04/2023 7:55 AM
+BAG:tdbrovip add 96xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/04/2023 7:55 AM
+BAG:tdbrovip add 70xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/04/2023 7:55 AM
+BAG:tdbrovip add 3xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/04/2023 7:55 AM
+BAG:tdbrovip add 73xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/04/2023 7:55 AM
+BAG:tdbrovip add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 7:55 AM
+BAG:tdbrovip add 1xGăng Thiên Sứ lydo: Lấy từ body vào hành trang at 03/04/2023 12:29 PM
+BAG:tdbrovip add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 12:29 PM
+BAG:tdbrovip add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 12:29 PM
+BAG:tdbrovip add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 12:30 PM
+BAG:tdbrovip add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 12:31 PM
+BAG:tdbrovip add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 12:31 PM
+BAG:tdbrovip add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 12:31 PM
+BAG:tdbrovip add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 12:31 PM
+BAG:tdbrovip add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 12:31 PM
+BAG:tdbrovip add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 12:31 PM
+BAG:tdbrovip add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 12:31 PM
+BAG:tdbrovip add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 12:31 PM
+BAG:tdbrovip add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 12:31 PM
+BAG:tdbrovip add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 12:31 PM
+BAG:tdbrovip add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 12:31 PM
+BAG:tdbrovip add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 12:31 PM
+BAG:tdbrovip add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 12:31 PM
+BAG:tdbrovip add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 12:32 PM
+BAG:tdbrovip add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 12:32 PM
+BAG:tdbrovip add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 12:32 PM
+BAG:tdbrovip add 1xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/04/2023 12:37 PM
+BAG:tdbrovip add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 12:37 PM
+BAG:tdbrovip add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 12:38 PM
+BAG:tdbrovip add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 12:38 PM
+BAG:tdbrovip add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 12:38 PM
+BAG:tdbrovip add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 12:38 PM
+BAG:tdbrovip add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 12:39 PM
+BAG:tdbrovip add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:47 PM
+BAG:tdbrovip add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 12:48 PM
+BAG:tdbrovip add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 12:52 PM
+BAG:tdbrovip add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 12:52 PM
+BAG:tdbrovip add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 12:52 PM
+BAG:tdbrovip add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 16xNgọc Rồng 2 sao (old: 15) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 17xNgọc Rồng 2 sao (old: 16) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 18xNgọc Rồng 2 sao (old: 17) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 19xNgọc Rồng 2 sao (old: 18) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 20xNgọc Rồng 2 sao (old: 19) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 21xNgọc Rồng 2 sao (old: 20) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 22xNgọc Rồng 2 sao (old: 21) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 23xNgọc Rồng 2 sao (old: 22) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 24xNgọc Rồng 2 sao (old: 23) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 25xNgọc Rồng 2 sao (old: 24) lydo: Nhập ngọc at 03/04/2023 12:53 PM
+BAG:tdbrovip add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 7xNgọc Rồng 5 sao (old: 6) lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 8xNgọc Rồng 5 sao (old: 7) lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 9xNgọc Rồng 5 sao (old: 8) lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 8xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:55 PM
+BAG:tdbrovip add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/04/2023 12:57 PM
+BAG:tdbrovip add 2xNgọc Rồng 1 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 12:57 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 8xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 12:59 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 8xNgọc Rồng 5 sao (old: 7) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 9xNgọc Rồng 6 sao (old: 8) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 9xNgọc Rồng 5 sao (old: 8) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 92xNgọc Rồng 7 sao (old: 91) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 93xNgọc Rồng 7 sao (old: 92) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 10xNgọc Rồng 5 sao (old: 9) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:00 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 93xNgọc Rồng 7 sao (old: 92) lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 1:02 PM
+BAG:tdbrovip add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 1:03 PM
+BAG:tdbrovip add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 1:03 PM
+BAG:tdbrovip add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 1:03 PM
+BAG:tdbrovip add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 1:03 PM
+BAG:tdbrovip add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 1:03 PM
+BAG:tdbrovip add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 1:03 PM
+BAG:tdbrovip add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 1:03 PM
+BAG:tdbrovip add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 1:03 PM
+BAG:tdbrovip add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 1:04 PM
+BAG:tdbrovip add 1xQuần jean Calic lydo: Cường Hóa trang bị at 03/04/2023 1:04 PM
+BAG:tdbrovip add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 1:04 PM
+BAG:tdbrovip add 1xQuần Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 1:05 PM
+BAG:tdbrovip add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 1:05 PM
+BAG:tdbrovip add 1xQuần Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 1:06 PM
+BAG:tdbrovip add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/04/2023 1:06 PM
+BAG:tdbrovip add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/04/2023 1:06 PM
+BAG:tdbrovip add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/04/2023 1:06 PM
+BAG:tdbrovip add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/04/2023 1:07 PM
+BAG:tdbrovip add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 1:07 PM
+BAG:tdbrovip add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 1:08 PM
+BAG:tdbrovip add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 1:09 PM
+BAG:tdbrovip add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 1:09 PM
+BAG:tdbrovip add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 1:09 PM
+BAG:tdbrovip add 1xÁo jean Calic lydo: Cường Hóa trang bị at 03/04/2023 1:09 PM
+BAG:tdbrovip add 1xÁo Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 1:09 PM
+BAG:tdbrovip add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 1:09 PM
+BAG:tdbrovip add 20xNgọc Rồng 3 sao lydo: (GD) Nhận từ l7androi at 03/04/2023 4:33 PM
+BAG:tdbrovip add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/04/2023 4:33 PM
+BAG:tdbrovip add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 4:41 PM
+BAG:tdbrovip add 1xGăng Hủy Diệt lydo: Lấy từ rương qua người at 03/04/2023 10:41 PM
+BAG:tdbrovip add 1xÁo Thần Namếc lydo: Lấy từ rương qua người at 03/04/2023 10:41 PM
+BAG:tdbrovip add 1xÁo Thần Linh lydo: Lấy từ rương qua người at 03/04/2023 10:41 PM
+BAG:tdbrovip add 3xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/04/2023 10:41 PM
+BAG:tdbrovip add 5xNgọc Rồng 1 sao lydo: Lấy từ rương qua người at 03/04/2023 11:15 PM
+BAG:tdbrovip add 70xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/04/2023 11:15 PM
+BAG:tdbrovip add 96xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/04/2023 11:15 PM
+BAG:tdbrovip add 5xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 03/04/2023 11:15 PM
+BAG:tdbrovip add 73xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/04/2023 11:15 PM
+BAG:tdbrovip add 1xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/04/2023 11:15 PM
+BAG:tdbrovip add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 11:15 PM
+BAG:tdbrovip add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 11:15 PM
+BAG:tdbrovip add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 11:15 PM
+BAG:tdbrovip add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 11:15 PM
+BAG:tdbrovip add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 11:15 PM
+BAG:tdbrovip add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 11:15 PM
+BAG:tdbrovip add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhập ngọc at 03/04/2023 11:15 PM
+BAG:tdbrovip add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhập ngọc at 03/04/2023 11:15 PM
+BAG:tdbrovip add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhập ngọc at 03/04/2023 11:15 PM
+BAG:tdbrovip add 1xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/04/2023 11:17 PM
+BAG:tdbrovip add 1xNgọc Rồng 6 sao lydo: Nhập ngọc at 03/04/2023 11:18 PM
+BAG:tdbrovip add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhập ngọc at 03/04/2023 11:19 PM
+BAG:tdbrovip add 1xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/04/2023 11:20 PM
+BAG:tdbrovip add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 11:20 PM
+BAG:tdbrovip add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 11:20 PM
+BAG:tdbrovip add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 11:21 PM
+BAG:tdbrovip add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 11:22 PM
+BAG:tdbrovip add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 11:22 PM
+BAG:tdbrovip add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 11:22 PM
+BAG:tdbrovip add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 11:22 PM
+BAG:tdbrovip add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 11:22 PM
+BAG:tdbrovip add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 11:22 PM
+BAG:tdbrovip add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 11:22 PM
+BAG:tdbrovip add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 11:22 PM
+BAG:tdbrovip add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 11:22 PM
+BAG:tdbrovip add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 11:22 PM
+BAG:tdbrovip add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 11:22 PM
+BAG:tdbrovip add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 11:22 PM
+BAG:tdbrovip add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 11:22 PM
+BAG:tdbrovip add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 11:22 PM

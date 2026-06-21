@@ -1,0 +1,566 @@
+BAG:unuunu add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/28/2023 3:46 AM
+BAG:unuunu add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/28/2023 3:46 AM
+BAG:unuunu add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/28/2023 3:46 AM
+BAG:unuunu add 20xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/28/2023 3:47 AM
+BAG:unuunu add 40xĐậu thần cấp 10 (old: 20) lydo: Lấy từ rương qua người at 03/28/2023 3:47 AM
+BAG:unuunu add 60xĐậu thần cấp 10 (old: 40) lydo: Lấy từ rương qua người at 03/28/2023 3:47 AM
+BAG:unuunu add 80xĐậu thần cấp 10 (old: 60) lydo: Lấy từ rương qua người at 03/28/2023 3:47 AM
+BAG:unuunu add 92xĐậu thần cấp 10 (old: 80) lydo: Lấy từ rương qua người at 03/28/2023 3:48 AM
+BAG:unuunu add 13xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/28/2023 3:48 AM
+BAG:unuunu add 99xĐậu thần cấp 10 (old: 92) lydo: Lấy từ rương qua người at 03/28/2023 3:48 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 3:49 AM
+BAG:unuunu add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 3:52 AM
+BAG:unuunu add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 3:52 AM
+BAG:unuunu add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách Masenko lv1 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách Masenko lv2 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách Masenko lv3 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách Masenko lv4 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách Masenko lv5 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách Masenko lv6 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách Masenko lv7 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách học Trị thương lv3 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách học Trị thương lv4 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách học Trị thương lv5 lydo: Mua từ cửa hàng at 03/28/2023 3:54 AM
+BAG:unuunu add 1xSách học Trị thương lv6 lydo: Mua từ cửa hàng at 03/28/2023 3:55 AM
+BAG:unuunu add 1xSách học Trị thương lv7 lydo: Mua từ cửa hàng at 03/28/2023 3:55 AM
+BAG:unuunu add 1xCột nhà lydo: Mua từ cửa hàng at 03/28/2023 3:55 AM
+BAG:unuunu add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 3:55 AM
+BAG:unuunu add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 3:55 AM
+BAG:unuunu add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 3:57 AM
+BAG:unuunu add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 3:57 AM
+BAG:unuunu add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/28/2023 3:58 AM
+BAG:unuunu add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/28/2023 3:58 AM
+BAG:unuunu add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 3:58 AM
+BAG:unuunu add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/28/2023 3:58 AM
+BAG:unuunu add 10xNgọc Rồng 5 sao lydo: Giftcode at 03/28/2023 3:58 AM
+BAG:unuunu add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/28/2023 3:58 AM
+BAG:unuunu add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/28/2023 3:58 AM
+BAG:unuunu add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 3:59 AM
+BAG:unuunu add 1xPhóng lợn lydo: Mua từ cửa hàng at 03/28/2023 3:59 AM
+BAG:unuunu add 1xAvatar VIP lydo: Ước NR at 03/28/2023 4:11 AM
+BAG:unuunu add 1xAvatar VIP lydo: Lấy từ body vào hành trang at 03/28/2023 4:12 AM
+BAG:unuunu add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 4:13 AM
+BAG:unuunu add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 4:13 AM
+BAG:unuunu add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 4:13 AM
+BAG:unuunu add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 4:13 AM
+BAG:unuunu add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 4:13 AM
+BAG:unuunu add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 4:13 AM
+BAG:unuunu add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 4:13 AM
+BAG:unuunu add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 4:13 AM
+BAG:unuunu add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 4:13 AM
+BAG:unuunu add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 4:14 AM
+BAG:unuunu add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 4:14 AM
+BAG:unuunu add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 4:14 AM
+BAG:unuunu add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 4:14 AM
+BAG:unuunu add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 4:15 AM
+BAG:unuunu add 1xMèo mun lydo: Mua từ cửa hàng at 03/28/2023 4:16 AM
+BAG:unuunu add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 4:18 AM
+BAG:unuunu add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 4:18 AM
+BAG:unuunu add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 4:18 AM
+BAG:unuunu add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 4:18 AM
+BAG:unuunu add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 4:18 AM
+BAG:unuunu add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 4:18 AM
+BAG:unuunu add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 4:18 AM
+BAG:unuunu add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 4:18 AM
+BAG:unuunu add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 4:18 AM
+BAG:unuunu add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 4:18 AM
+BAG:unuunu add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 4:18 AM
+BAG:unuunu add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 4:18 AM
+BAG:unuunu add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 4:19 AM
+BAG:unuunu add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 4:19 AM
+BAG:unuunu add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 4:19 AM
+BAG:unuunu add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 4:19 AM
+BAG:unuunu add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/28/2023 4:19 AM
+BAG:unuunu add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/28/2023 4:19 AM
+BAG:unuunu add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/28/2023 4:19 AM
+BAG:unuunu add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 4:21 AM
+BAG:unuunu add 1xCột nhà lydo: Lấy từ rương qua người at 03/28/2023 4:21 AM
+BAG:unuunu add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 4:22 AM
+BAG:unuunu add 1xNgọc Rồng 6 sao lydo: HQT at 03/28/2023 4:22 AM
+BAG:unuunu add 1xNgọc Rồng 7 sao lydo: HQT at 03/28/2023 4:22 AM
+BAG:unuunu add 1xNgọc Rồng 4 sao lydo: HQT at 03/28/2023 4:22 AM
+BAG:unuunu add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 4:23 AM
+BAG:unuunu add 1xCuồng nộ lydo: HQT at 03/28/2023 4:23 AM
+BAG:unuunu add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/28/2023 4:23 AM
+BAG:unuunu add 1xNgọc Rồng 5 sao lydo: HQT at 03/28/2023 4:23 AM
+BAG:unuunu add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/28/2023 4:23 AM
+BAG:unuunu add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 4:23 AM
+BAG:unuunu add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 4:25 AM
+BAG:unuunu add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/28/2023 4:25 AM
+BAG:unuunu add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 4:25 AM
+BAG:unuunu add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 4:27 AM
+BAG:unuunu add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 4:27 AM
+BAG:unuunu add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 4:27 AM
+BAG:unuunu add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 4:27 AM
+BAG:unuunu add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 4:27 AM
+BAG:unuunu add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 4:27 AM
+BAG:unuunu add 1xGăng vàng Zealot lydo: Mua từ cửa hàng at 03/28/2023 4:31 AM
+BAG:unuunu add 1xGiầy sợi len lydo: Mua từ cửa hàng at 03/28/2023 4:31 AM
+BAG:unuunu add 1xBổ huyết lydo: HQT at 03/28/2023 4:33 AM
+BAG:unuunu add 1xGiáp Xên bọ hung lydo: HQT at 03/28/2023 4:33 AM
+BAG:unuunu add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/28/2023 4:33 AM
+BAG:unuunu add 1xBổ khí lydo: HQT at 03/28/2023 4:33 AM
+BAG:unuunu add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/28/2023 4:33 AM
+BAG:unuunu add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/28/2023 4:33 AM
+BAG:unuunu add 1xCải trang lydo: Mua từ cửa hàng at 03/28/2023 4:34 AM
+BAG:unuunu add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 4:36 AM
+BAG:unuunu add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/28/2023 4:36 AM
+BAG:unuunu add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 4:36 AM
+BAG:unuunu add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 4:37 AM
+BAG:unuunu add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 4:37 AM
+BAG:unuunu add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 4:37 AM
+BAG:unuunu add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 4:37 AM
+BAG:unuunu add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 4:37 AM
+BAG:unuunu add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 4:37 AM
+BAG:unuunu add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/28/2023 4:37 AM
+BAG:unuunu add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 4:42 AM
+BAG:unuunu add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 4:42 AM
+BAG:unuunu add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 4:42 AM
+BAG:unuunu add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 4:42 AM
+BAG:unuunu add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 4:42 AM
+BAG:unuunu add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 4:42 AM
+BAG:unuunu add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 4:42 AM
+BAG:unuunu add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 4:44 AM
+BAG:unuunu add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:44 AM
+BAG:unuunu add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 4:45 AM
+BAG:unuunu add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 4:45 AM
+BAG:unuunu add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 4:45 AM
+BAG:unuunu add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 4:45 AM
+BAG:unuunu add 1xSao pha lê lydo: Nhặt từ map at 03/28/2023 4:45 AM
+BAG:unuunu add 1xSao pha lê lydo: Nhặt từ map at 03/28/2023 4:45 AM
+BAG:unuunu add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/28/2023 4:45 AM
+BAG:unuunu add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 4:45 AM
+BAG:unuunu add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 4:45 AM
+BAG:unuunu add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 1xSao pha lê lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 1xSao pha lê lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/28/2023 4:46 AM
+BAG:unuunu add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 4:47 AM
+BAG:unuunu add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/28/2023 4:47 AM
+BAG:unuunu add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 4:47 AM
+BAG:unuunu add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 4:47 AM
+BAG:unuunu add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/28/2023 4:47 AM
+BAG:unuunu add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 4:47 AM
+BAG:unuunu add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 1xSao pha lê lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 6xMảnh Thằn lằn bay (old: 5) lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 7xMảnh Thằn lằn bay (old: 6) lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/28/2023 4:48 AM
+BAG:unuunu add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/28/2023 4:49 AM
+BAG:unuunu add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/28/2023 4:49 AM
+BAG:unuunu add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/28/2023 4:49 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 4:49 AM
+BAG:unuunu add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/28/2023 4:49 AM
+BAG:unuunu add 8xMảnh Thằn lằn bay (old: 7) lydo: Nhặt từ map at 03/28/2023 4:49 AM
+BAG:unuunu add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 4:49 AM
+BAG:unuunu add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/28/2023 4:49 AM
+BAG:unuunu add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/28/2023 4:50 AM
+BAG:unuunu add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/28/2023 4:50 AM
+BAG:unuunu add 1xSao pha lê lydo: Nhặt từ map at 03/28/2023 4:50 AM
+BAG:unuunu add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/28/2023 4:50 AM
+BAG:unuunu add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 4:50 AM
+BAG:unuunu add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/28/2023 4:50 AM
+BAG:unuunu add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/28/2023 4:50 AM
+BAG:unuunu add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/28/2023 4:50 AM
+BAG:unuunu add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/28/2023 4:50 AM
+BAG:unuunu add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/28/2023 4:51 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 4:51 AM
+BAG:unuunu add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/28/2023 4:51 AM
+BAG:unuunu add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/28/2023 4:51 AM
+BAG:unuunu add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/28/2023 4:51 AM
+BAG:unuunu add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 4:51 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 4:51 AM
+BAG:unuunu add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/28/2023 4:51 AM
+BAG:unuunu add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/28/2023 4:51 AM
+BAG:unuunu add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 4:51 AM
+BAG:unuunu add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/28/2023 4:51 AM
+BAG:unuunu add 9xMảnh Thằn lằn bay (old: 8) lydo: Nhặt từ map at 03/28/2023 4:52 AM
+BAG:unuunu add 10xMảnh Thằn lằn bay (old: 9) lydo: Nhặt từ map at 03/28/2023 4:52 AM
+BAG:unuunu add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/28/2023 4:52 AM
+BAG:unuunu add 1xSao pha lê lydo: Nhặt từ map at 03/28/2023 4:52 AM
+BAG:unuunu add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/28/2023 4:52 AM
+BAG:unuunu add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/28/2023 4:53 AM
+BAG:unuunu add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 4:53 AM
+BAG:unuunu add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/28/2023 4:53 AM
+BAG:unuunu add 11xMảnh Thằn lằn bay (old: 10) lydo: Nhặt từ map at 03/28/2023 4:53 AM
+BAG:unuunu add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/28/2023 4:53 AM
+BAG:unuunu add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 4:54 AM
+BAG:unuunu add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/28/2023 4:54 AM
+BAG:unuunu add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 4:54 AM
+BAG:unuunu add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/28/2023 4:54 AM
+BAG:unuunu add 12xMảnh Thằn lằn bay (old: 11) lydo: Nhặt từ map at 03/28/2023 4:54 AM
+BAG:unuunu add 13xMảnh Thằn lằn bay (old: 12) lydo: Nhặt từ map at 03/28/2023 4:54 AM
+BAG:unuunu add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/28/2023 4:54 AM
+BAG:unuunu add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 4:54 AM
+BAG:unuunu add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 4:55 AM
+BAG:unuunu add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 4:55 AM
+BAG:unuunu add 14xMảnh Thằn lằn bay (old: 13) lydo: Nhặt từ map at 03/28/2023 4:55 AM
+BAG:unuunu add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 4:55 AM
+BAG:unuunu add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/28/2023 4:55 AM
+BAG:unuunu add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/28/2023 4:55 AM
+BAG:unuunu add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 4:55 AM
+BAG:unuunu add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 4:55 AM
+BAG:unuunu add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/28/2023 4:55 AM
+BAG:unuunu add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 4:55 AM
+BAG:unuunu add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 15xMảnh Thằn lằn bay (old: 14) lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 16xMảnh Thằn lằn bay (old: 15) lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/28/2023 4:56 AM
+BAG:unuunu add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/28/2023 4:57 AM
+BAG:unuunu add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/28/2023 4:57 AM
+BAG:unuunu add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/28/2023 4:57 AM
+BAG:unuunu add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 4:57 AM
+BAG:unuunu add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/28/2023 4:57 AM
+BAG:unuunu add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/28/2023 4:57 AM
+BAG:unuunu add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/28/2023 4:57 AM
+BAG:unuunu add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 4:57 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 4:57 AM
+BAG:unuunu add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 4:57 AM
+BAG:unuunu add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/28/2023 4:57 AM
+BAG:unuunu add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/28/2023 5:48 AM
+BAG:unuunu add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/28/2023 5:48 AM
+BAG:unuunu add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/28/2023 5:48 AM
+BAG:unuunu add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 5:48 AM
+BAG:unuunu add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/28/2023 5:48 AM
+BAG:unuunu add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/28/2023 5:48 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 5:49 AM
+BAG:unuunu add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/28/2023 5:49 AM
+BAG:unuunu add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/28/2023 5:49 AM
+BAG:unuunu add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 5:49 AM
+BAG:unuunu add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/28/2023 5:49 AM
+BAG:unuunu add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 5:50 AM
+BAG:unuunu add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 5:50 AM
+BAG:unuunu add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 5:50 AM
+BAG:unuunu add 17xMảnh Thằn lằn bay (old: 16) lydo: Nhặt từ map at 03/28/2023 5:50 AM
+BAG:unuunu add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/28/2023 5:50 AM
+BAG:unuunu add 18xMảnh Thằn lằn bay (old: 17) lydo: Nhặt từ map at 03/28/2023 5:50 AM
+BAG:unuunu add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 5:50 AM
+BAG:unuunu add 19xMảnh Thằn lằn bay (old: 18) lydo: Nhặt từ map at 03/28/2023 5:50 AM
+BAG:unuunu add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 5:54 AM
+BAG:unuunu add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/28/2023 5:55 AM
+BAG:unuunu add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/28/2023 5:55 AM
+BAG:unuunu add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 5:55 AM
+BAG:unuunu add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/28/2023 5:55 AM
+BAG:unuunu add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/28/2023 5:58 AM
+BAG:unuunu add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/28/2023 5:59 AM
+BAG:unuunu add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/28/2023 5:59 AM
+BAG:unuunu add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/28/2023 5:59 AM
+BAG:unuunu add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/28/2023 5:59 AM
+BAG:unuunu add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 5:59 AM
+BAG:unuunu add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 5:59 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 5:59 AM
+BAG:unuunu add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/28/2023 5:59 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:00 AM
+BAG:unuunu add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/28/2023 6:00 AM
+BAG:unuunu add 20xMảnh Thằn lằn bay (old: 19) lydo: Nhặt từ map at 03/28/2023 6:00 AM
+BAG:unuunu add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/28/2023 6:00 AM
+BAG:unuunu add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/28/2023 6:00 AM
+BAG:unuunu add 21xMảnh Thằn lằn bay (old: 20) lydo: Nhặt từ map at 03/28/2023 6:00 AM
+BAG:unuunu add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/28/2023 6:00 AM
+BAG:unuunu add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/28/2023 6:00 AM
+BAG:unuunu add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 6:00 AM
+BAG:unuunu add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 6:01 AM
+BAG:unuunu add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/28/2023 6:01 AM
+BAG:unuunu add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/28/2023 6:01 AM
+BAG:unuunu add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 6:01 AM
+BAG:unuunu add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/28/2023 6:02 AM
+BAG:unuunu add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/28/2023 6:02 AM
+BAG:unuunu add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/28/2023 6:02 AM
+BAG:unuunu add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/28/2023 6:02 AM
+BAG:unuunu add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/28/2023 6:02 AM
+BAG:unuunu add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/28/2023 6:02 AM
+BAG:unuunu add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/28/2023 6:02 AM
+BAG:unuunu add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 6:02 AM
+BAG:unuunu add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 6:02 AM
+BAG:unuunu add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/28/2023 6:03 AM
+BAG:unuunu add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/28/2023 6:03 AM
+BAG:unuunu add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 6:03 AM
+BAG:unuunu add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/28/2023 6:03 AM
+BAG:unuunu add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/28/2023 6:03 AM
+BAG:unuunu add 22xMảnh Thằn lằn bay (old: 21) lydo: Nhặt từ map at 03/28/2023 6:03 AM
+BAG:unuunu add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/28/2023 6:03 AM
+BAG:unuunu add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/28/2023 6:03 AM
+BAG:unuunu add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/28/2023 6:03 AM
+BAG:unuunu add 1xCải trang lydo: Lấy từ body vào hành trang at 03/28/2023 6:03 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:04 AM
+BAG:unuunu add 23xMảnh Thằn lằn bay (old: 22) lydo: Nhặt từ map at 03/28/2023 6:04 AM
+BAG:unuunu add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/28/2023 6:04 AM
+BAG:unuunu add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/28/2023 6:05 AM
+BAG:unuunu add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/28/2023 6:05 AM
+BAG:unuunu add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/28/2023 6:05 AM
+BAG:unuunu add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/28/2023 6:05 AM
+BAG:unuunu add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/28/2023 6:05 AM
+BAG:unuunu add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 6:06 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 6:06 AM
+BAG:unuunu add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/28/2023 6:06 AM
+BAG:unuunu add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/28/2023 6:07 AM
+BAG:unuunu add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/28/2023 6:07 AM
+BAG:unuunu add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/28/2023 6:08 AM
+BAG:unuunu add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/28/2023 6:08 AM
+BAG:unuunu add 24xMảnh Thằn lằn bay (old: 23) lydo: Nhặt từ map at 03/28/2023 6:08 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:09 AM
+BAG:unuunu add 25xMảnh Thằn lằn bay (old: 24) lydo: Nhặt từ map at 03/28/2023 6:09 AM
+BAG:unuunu add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 6:09 AM
+BAG:unuunu add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/28/2023 6:09 AM
+BAG:unuunu add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 6:10 AM
+BAG:unuunu add 26xMảnh Thằn lằn bay (old: 25) lydo: Nhặt từ map at 03/28/2023 6:10 AM
+BAG:unuunu add 27xMảnh Thằn lằn bay (old: 26) lydo: Nhặt từ map at 03/28/2023 6:10 AM
+BAG:unuunu add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/28/2023 6:10 AM
+BAG:unuunu add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 6:11 AM
+BAG:unuunu add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 6:11 AM
+BAG:unuunu add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 6:11 AM
+BAG:unuunu add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/28/2023 6:11 AM
+BAG:unuunu add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 6:12 AM
+BAG:unuunu add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/28/2023 6:12 AM
+BAG:unuunu add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 6:12 AM
+BAG:unuunu add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 6:13 AM
+BAG:unuunu add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/28/2023 6:13 AM
+BAG:unuunu add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:14 AM
+BAG:unuunu add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/28/2023 6:14 AM
+BAG:unuunu add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/28/2023 6:14 AM
+BAG:unuunu add 27xMảnh Khủng long (old: 26) lydo: Nhặt từ map at 03/28/2023 6:14 AM
+BAG:unuunu add 28xMảnh Khủng long (old: 27) lydo: Nhặt từ map at 03/28/2023 6:14 AM
+BAG:unuunu add 29xMảnh Khủng long (old: 28) lydo: Nhặt từ map at 03/28/2023 6:14 AM
+BAG:unuunu add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 6:15 AM
+BAG:unuunu add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/28/2023 6:15 AM
+BAG:unuunu add 8xMảnh Khủng long mẹ (old: 7) lydo: Nhặt từ map at 03/28/2023 6:15 AM
+BAG:unuunu add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 6:16 AM
+BAG:unuunu add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 6:16 AM
+BAG:unuunu add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/28/2023 6:16 AM
+BAG:unuunu add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 6:16 AM
+BAG:unuunu add 30xMảnh Khủng long (old: 29) lydo: Nhặt từ map at 03/28/2023 6:16 AM
+BAG:unuunu add 9xMảnh Khủng long mẹ (old: 8) lydo: Nhặt từ map at 03/28/2023 6:16 AM
+BAG:unuunu add 28xMảnh Thằn lằn bay (old: 27) lydo: Nhặt từ map at 03/28/2023 6:17 AM
+BAG:unuunu add 31xMảnh Khủng long (old: 30) lydo: Nhặt từ map at 03/28/2023 6:17 AM
+BAG:unuunu add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/28/2023 6:17 AM
+BAG:unuunu add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/28/2023 6:17 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 6:17 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:17 AM
+BAG:unuunu add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 6:18 AM
+BAG:unuunu add 29xMảnh Thằn lằn bay (old: 28) lydo: Nhặt từ map at 03/28/2023 6:18 AM
+BAG:unuunu add 30xMảnh Thằn lằn bay (old: 29) lydo: Nhặt từ map at 03/28/2023 6:18 AM
+BAG:unuunu add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 6:19 AM
+BAG:unuunu add 32xMảnh Khủng long (old: 31) lydo: Nhặt từ map at 03/28/2023 6:19 AM
+BAG:unuunu add 33xMảnh Khủng long (old: 32) lydo: Nhặt từ map at 03/28/2023 6:19 AM
+BAG:unuunu add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 6:19 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 6:19 AM
+BAG:unuunu add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 6:19 AM
+BAG:unuunu add 34xMảnh Khủng long (old: 33) lydo: Nhặt từ map at 03/28/2023 6:19 AM
+BAG:unuunu add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/28/2023 6:20 AM
+BAG:unuunu add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 6:20 AM
+BAG:unuunu add 35xMảnh Khủng long (old: 34) lydo: Nhặt từ map at 03/28/2023 6:20 AM
+BAG:unuunu add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/28/2023 6:20 AM
+BAG:unuunu add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 6:21 AM
+BAG:unuunu add 31xMảnh Thằn lằn bay (old: 30) lydo: Nhặt từ map at 03/28/2023 6:21 AM
+BAG:unuunu add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 6:21 AM
+BAG:unuunu add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 6:21 AM
+BAG:unuunu add 36xMảnh Khủng long (old: 35) lydo: Nhặt từ map at 03/28/2023 6:21 AM
+BAG:unuunu add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/28/2023 6:22 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 6:22 AM
+BAG:unuunu add 32xMảnh Thằn lằn bay (old: 31) lydo: Nhặt từ map at 03/28/2023 6:22 AM
+BAG:unuunu add 37xMảnh Khủng long (old: 36) lydo: Nhặt từ map at 03/28/2023 6:22 AM
+BAG:unuunu add 33xMảnh Thằn lằn bay (old: 32) lydo: Nhặt từ map at 03/28/2023 6:22 AM
+BAG:unuunu add 38xMảnh Khủng long (old: 37) lydo: Nhặt từ map at 03/28/2023 6:23 AM
+BAG:unuunu add 10xMảnh Khủng long mẹ (old: 9) lydo: Nhặt từ map at 03/28/2023 6:23 AM
+BAG:unuunu add 34xMảnh Thằn lằn bay (old: 33) lydo: Nhặt từ map at 03/28/2023 6:25 AM
+BAG:unuunu add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/28/2023 6:25 AM
+BAG:unuunu add 11xMảnh Khủng long mẹ (old: 10) lydo: Nhặt từ map at 03/28/2023 6:25 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:25 AM
+BAG:unuunu add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/28/2023 6:25 AM
+BAG:unuunu add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/28/2023 6:25 AM
+BAG:unuunu add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/28/2023 6:25 AM
+BAG:unuunu add 35xMảnh Thằn lằn bay (old: 34) lydo: Nhặt từ map at 03/28/2023 6:26 AM
+BAG:unuunu add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 6:26 AM
+BAG:unuunu add 36xMảnh Thằn lằn bay (old: 35) lydo: Nhặt từ map at 03/28/2023 6:27 AM
+BAG:unuunu add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 6:27 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:27 AM
+BAG:unuunu add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/28/2023 6:27 AM
+BAG:unuunu add 39xMảnh Khủng long (old: 38) lydo: Nhặt từ map at 03/28/2023 6:27 AM
+BAG:unuunu add 40xMảnh Khủng long (old: 39) lydo: Nhặt từ map at 03/28/2023 6:28 AM
+BAG:unuunu add 12xMảnh Khủng long mẹ (old: 11) lydo: Nhặt từ map at 03/28/2023 6:28 AM
+BAG:unuunu add 41xMảnh Khủng long (old: 40) lydo: Nhặt từ map at 03/28/2023 6:28 AM
+BAG:unuunu add 42xMảnh Khủng long (old: 41) lydo: Nhặt từ map at 03/28/2023 6:28 AM
+BAG:unuunu add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 6:30 AM
+BAG:unuunu add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/28/2023 6:30 AM
+BAG:unuunu add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 6:30 AM
+BAG:unuunu add 13xMảnh Khủng long mẹ (old: 12) lydo: Nhặt từ map at 03/28/2023 6:30 AM
+BAG:unuunu add 14xMảnh Khủng long mẹ (old: 13) lydo: Nhặt từ map at 03/28/2023 6:30 AM
+BAG:unuunu add 15xMảnh Khủng long mẹ (old: 14) lydo: Nhặt từ map at 03/28/2023 6:30 AM
+BAG:unuunu add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/28/2023 6:31 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:32 AM
+BAG:unuunu add 16xMảnh Khủng long mẹ (old: 15) lydo: Nhặt từ map at 03/28/2023 6:32 AM
+BAG:unuunu add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/28/2023 6:32 AM
+BAG:unuunu add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/28/2023 6:33 AM
+BAG:unuunu add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 6:33 AM
+BAG:unuunu add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/28/2023 6:33 AM
+BAG:unuunu add 43xMảnh Khủng long (old: 42) lydo: Nhặt từ map at 03/28/2023 6:33 AM
+BAG:unuunu add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/28/2023 6:33 AM
+BAG:unuunu add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/28/2023 6:34 AM
+BAG:unuunu add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/28/2023 6:34 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:34 AM
+BAG:unuunu add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:35 AM
+BAG:unuunu add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 6:35 AM
+BAG:unuunu add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 6:35 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:36 AM
+BAG:unuunu add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 6:36 AM
+BAG:unuunu add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 6:37 AM
+BAG:unuunu add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/28/2023 6:37 AM
+BAG:unuunu add 17xMảnh Khủng long mẹ (old: 16) lydo: Nhặt từ map at 03/28/2023 6:37 AM
+BAG:unuunu add 44xMảnh Khủng long (old: 43) lydo: Nhặt từ map at 03/28/2023 6:37 AM
+BAG:unuunu add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/28/2023 6:37 AM
+BAG:unuunu add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 6:37 AM
+BAG:unuunu add 45xMảnh Khủng long (old: 44) lydo: Nhặt từ map at 03/28/2023 6:37 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 6:38 AM
+BAG:unuunu add 18xMảnh Khủng long mẹ (old: 17) lydo: Nhặt từ map at 03/28/2023 6:38 AM
+BAG:unuunu add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/28/2023 6:38 AM
+BAG:unuunu add 19xMảnh Khủng long mẹ (old: 18) lydo: Nhặt từ map at 03/28/2023 6:38 AM
+BAG:unuunu add 46xMảnh Khủng long (old: 45) lydo: Nhặt từ map at 03/28/2023 6:38 AM
+BAG:unuunu add 47xMảnh Khủng long (old: 46) lydo: Nhặt từ map at 03/28/2023 6:39 AM
+BAG:unuunu add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/28/2023 6:39 AM
+BAG:unuunu add 20xMảnh Khủng long mẹ (old: 19) lydo: Nhặt từ map at 03/28/2023 6:39 AM
+BAG:unuunu add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/28/2023 6:39 AM
+BAG:unuunu add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/28/2023 6:40 AM
+BAG:unuunu add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/28/2023 6:40 AM
+BAG:unuunu add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/28/2023 6:40 AM
+BAG:unuunu add 21xMảnh Khủng long mẹ (old: 20) lydo: Nhặt từ map at 03/28/2023 6:40 AM
+BAG:unuunu add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/28/2023 6:41 AM
+BAG:unuunu add 22xMảnh Khủng long mẹ (old: 21) lydo: Nhặt từ map at 03/28/2023 6:41 AM
+BAG:unuunu add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 6:42 AM
+BAG:unuunu add 23xMảnh Khủng long mẹ (old: 22) lydo: Nhặt từ map at 03/28/2023 6:42 AM
+BAG:unuunu add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/28/2023 6:42 AM
+BAG:unuunu add 48xMảnh Khủng long (old: 47) lydo: Nhặt từ map at 03/28/2023 6:42 AM
+BAG:unuunu add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/28/2023 6:43 AM
+BAG:unuunu add 24xMảnh Khủng long mẹ (old: 23) lydo: Nhặt từ map at 03/28/2023 6:43 AM
+BAG:unuunu add 49xMảnh Khủng long (old: 48) lydo: Nhặt từ map at 03/28/2023 6:43 AM
+BAG:unuunu add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/28/2023 6:43 AM
+BAG:unuunu add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:43 AM
+BAG:unuunu add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/28/2023 6:43 AM
+BAG:unuunu add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/28/2023 6:43 AM
+BAG:unuunu add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/28/2023 6:43 AM
+BAG:unuunu add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/28/2023 6:43 AM
+BAG:unuunu add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/28/2023 6:46 AM
+BAG:unuunu add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/28/2023 6:46 AM
+BAG:unuunu add 25xMảnh Khủng long mẹ (old: 24) lydo: Nhặt từ map at 03/28/2023 6:46 AM
+BAG:unuunu add 50xMảnh Khủng long (old: 49) lydo: Nhặt từ map at 03/28/2023 6:46 AM
+BAG:unuunu add 26xMảnh Khủng long mẹ (old: 25) lydo: Nhặt từ map at 03/28/2023 6:46 AM
+BAG:unuunu add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/28/2023 6:46 AM
+BAG:unuunu add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/28/2023 6:47 AM
+BAG:unuunu add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/28/2023 6:47 AM
+BAG:unuunu add 27xMảnh Khủng long mẹ (old: 26) lydo: Nhặt từ map at 03/28/2023 6:47 AM
+BAG:unuunu add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/28/2023 6:47 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 6:48 AM
+BAG:unuunu add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/28/2023 6:48 AM
+BAG:unuunu add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:48 AM
+BAG:unuunu add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/28/2023 6:48 AM
+BAG:unuunu add 28xMảnh Khủng long mẹ (old: 27) lydo: Nhặt từ map at 03/28/2023 6:49 AM
+BAG:unuunu add 51xMảnh Khủng long (old: 50) lydo: Nhặt từ map at 03/28/2023 6:49 AM
+BAG:unuunu add 52xMảnh Khủng long (old: 51) lydo: Nhặt từ map at 03/28/2023 6:49 AM
+BAG:unuunu add 29xMảnh Khủng long mẹ (old: 28) lydo: Nhặt từ map at 03/28/2023 6:49 AM
+BAG:unuunu add 53xMảnh Khủng long (old: 52) lydo: Nhặt từ map at 03/28/2023 6:49 AM
+BAG:unuunu add 54xMảnh Khủng long (old: 53) lydo: Nhặt từ map at 03/28/2023 6:49 AM
+BAG:unuunu add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 6:50 AM
+BAG:unuunu add 30xMảnh Khủng long mẹ (old: 29) lydo: Nhặt từ map at 03/28/2023 6:50 AM
+BAG:unuunu add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 6:50 AM
+BAG:unuunu add 55xMảnh Khủng long (old: 54) lydo: Nhặt từ map at 03/28/2023 6:50 AM
+BAG:unuunu add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/28/2023 6:50 AM
+BAG:unuunu add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/28/2023 6:50 AM
+BAG:unuunu add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/28/2023 6:50 AM
+BAG:unuunu add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/28/2023 6:50 AM
+BAG:unuunu add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/28/2023 6:50 AM
+BAG:unuunu add 56xMảnh Khủng long (old: 55) lydo: Nhặt từ map at 03/28/2023 6:50 AM
+BAG:unuunu add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/28/2023 6:50 AM
+BAG:unuunu add 57xMảnh Khủng long (old: 56) lydo: Nhặt từ map at 03/28/2023 6:51 AM
+BAG:unuunu add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/28/2023 6:51 AM
+BAG:unuunu add 58xMảnh Khủng long (old: 57) lydo: Nhặt từ map at 03/28/2023 6:51 AM
+BAG:unuunu add 31xMảnh Khủng long mẹ (old: 30) lydo: Nhặt từ map at 03/28/2023 6:51 AM
+BAG:unuunu add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/28/2023 6:52 AM
+BAG:unuunu add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 6:52 AM
+BAG:unuunu add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:52 AM
+BAG:unuunu add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:53 AM
+BAG:unuunu add 59xMảnh Khủng long (old: 58) lydo: Nhặt từ map at 03/28/2023 6:53 AM
+BAG:unuunu add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/28/2023 6:53 AM
+BAG:unuunu add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/28/2023 6:54 AM
+BAG:unuunu add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/28/2023 6:54 AM
+BAG:unuunu add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:55 AM
+BAG:unuunu add 32xMảnh Khủng long mẹ (old: 31) lydo: Nhặt từ map at 03/28/2023 6:55 AM
+BAG:unuunu add 33xMảnh Khủng long mẹ (old: 32) lydo: Nhặt từ map at 03/28/2023 6:56 AM
+BAG:unuunu add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/28/2023 6:57 AM
+BAG:unuunu add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 9:24 PM
+BAG:unuunu add 60xSao pha lê (old: 10) lydo: Giftcode at 03/28/2023 9:24 PM
+BAG:unuunu add 50xSao pha lê lydo: Giftcode at 03/28/2023 9:24 PM
+BAG:unuunu add 99xCuồng nộ lydo: Giftcode at 03/28/2023 9:24 PM
+BAG:unuunu add 4953xMảnh vỡ bông tai lydo: Giftcode at 03/28/2023 9:24 PM
+BAG:unuunu add 91xĐậu thần cấp 10 (old: 81) lydo: Lấy từ rương qua người at 03/28/2023 9:29 PM
+BAG:unuunu add 25xThỏi vàng lydo: Đổi vàng at 03/28/2023 9:37 PM
+BAG:unuunu add 1xCải trang lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:26 PM
+BAG:unuunu add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 10:27 PM
+BAG:unuunu add 5025xThỏi vàng (old: 25) lydo: Đổi vàng at 03/28/2023 10:27 PM
+BAG:unuunu add 1xCá heo lydo: Mua từ bill at 03/28/2023 10:28 PM
+BAG:unuunu add 1xNezuko lydo: Mua từ bill at 03/28/2023 10:28 PM
+BAG:unuunu add 1xNezuko lydo: Mua từ bill at 03/28/2023 10:28 PM
+BAG:unuunu add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xMakankosappo lv1 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xMakankosappo lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xMakankosappo lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xMakankosappo lv4 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xMakankosappo lv5 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xMakankosappo lv6 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xMakankosappo lv7 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xĐẻ trứng lv1 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xĐẻ trứng lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xĐẻ trứng lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xĐẻ trứng lv4 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xĐẻ trứng lv5 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xĐẻ trứng lv6 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xĐẻ trứng lv7 lydo: Mua từ cửa hàng at 03/28/2023 11:08 PM
+BAG:unuunu add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xSách Biến Sôcôla lv1 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xSách Biến Sôcôla lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xSách Biến Sôcôla lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xSách Biến Sôcôla lv4 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xSách Biến Sôcôla lv5 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xSách Biến Sôcôla lv6 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM
+BAG:unuunu add 1xSách Biến Sôcôla lv7 lydo: Mua từ cửa hàng at 03/28/2023 11:09 PM

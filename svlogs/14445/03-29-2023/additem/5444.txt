@@ -1,0 +1,807 @@
+BAG:gamegg add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/29/2023 11:18 AM
+BAG:gamegg add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/29/2023 11:19 AM
+BAG:gamegg add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/29/2023 11:19 AM
+BAG:gamegg add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/29/2023 11:19 AM
+BAG:gamegg add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:gamegg add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:gamegg add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:gamegg add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:gamegg add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:gamegg add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:gamegg add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:gamegg add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:gamegg add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:gamegg add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:gamegg add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:gamegg add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:gamegg add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:gamegg add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:gamegg add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:gamegg add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:gamegg add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:gamegg add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:gamegg add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:gamegg add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:gamegg add 1xĐậu thần cấp 10 lydo: Clan cho đậu at 03/29/2023 11:33 AM
+BAG:gamegg add 2xĐậu thần cấp 10 (old: 1) lydo: Clan cho đậu at 03/29/2023 11:33 AM
+BAG:gamegg add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:gamegg add 3xĐậu thần cấp 10 (old: 2) lydo: Clan cho đậu at 03/29/2023 11:33 AM
+BAG:gamegg add 4xĐậu thần cấp 10 (old: 3) lydo: Clan cho đậu at 03/29/2023 11:33 AM
+BAG:gamegg add 5xĐậu thần cấp 10 (old: 4) lydo: Clan cho đậu at 03/29/2023 11:33 AM
+BAG:gamegg add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 03/29/2023 11:34 AM
+BAG:gamegg add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/29/2023 11:35 AM
+BAG:gamegg add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/29/2023 11:35 AM
+BAG:gamegg add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/29/2023 11:35 AM
+BAG:gamegg add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 03/29/2023 11:35 AM
+BAG:gamegg add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/29/2023 11:35 AM
+BAG:gamegg add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 03/29/2023 11:35 AM
+BAG:gamegg add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 03/29/2023 11:35 AM
+BAG:gamegg add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/29/2023 11:36 AM
+BAG:gamegg add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/29/2023 11:36 AM
+BAG:gamegg add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:gamegg add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:gamegg add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:gamegg add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:gamegg add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:gamegg add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:gamegg add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:gamegg add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:gamegg add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:gamegg add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:gamegg add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:gamegg add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:gamegg add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:gamegg add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:gamegg add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:gamegg add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:gamegg add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:gamegg add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:gamegg add 1xGiáp Xên bọ hung lydo: HQT at 03/29/2023 11:42 AM
+BAG:gamegg add 1xBổ huyết lydo: HQT at 03/29/2023 11:43 AM
+BAG:gamegg add 1xNgọc Rồng 7 sao lydo: HQT at 03/29/2023 11:43 AM
+BAG:gamegg add 1xBổ khí lydo: HQT at 03/29/2023 11:43 AM
+BAG:gamegg add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 11:43 AM
+BAG:gamegg add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/29/2023 11:43 AM
+BAG:gamegg add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/29/2023 11:43 AM
+BAG:gamegg add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:gamegg add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:gamegg add 11xPháo hoa (old: 6) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:gamegg add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:gamegg add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:gamegg add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:gamegg add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:gamegg add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:gamegg add 16xPháo hoa (old: 11) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:gamegg add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:gamegg add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:gamegg add 21xPháo hoa (old: 16) lydo: Nhặt từ map at 03/29/2023 11:51 AM
+BAG:gamegg add 26xPháo hoa (old: 21) lydo: Nhặt từ map at 03/29/2023 11:52 AM
+BAG:gamegg add 31xPháo hoa (old: 26) lydo: Nhặt từ map at 03/29/2023 11:53 AM
+BAG:gamegg add 36xPháo hoa (old: 31) lydo: Nhặt từ map at 03/29/2023 11:54 AM
+BAG:gamegg add 41xPháo hoa (old: 36) lydo: Nhặt từ map at 03/29/2023 11:56 AM
+BAG:gamegg add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/29/2023 11:57 AM
+BAG:gamegg add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/29/2023 11:57 AM
+BAG:gamegg add 46xPháo hoa (old: 41) lydo: Nhặt từ map at 03/29/2023 11:57 AM
+BAG:gamegg add 51xPháo hoa (old: 46) lydo: Nhặt từ map at 03/29/2023 11:57 AM
+BAG:gamegg add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/29/2023 11:57 AM
+BAG:gamegg add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/29/2023 11:58 AM
+BAG:gamegg add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/29/2023 11:58 AM
+BAG:gamegg add 56xPháo hoa (old: 51) lydo: Nhặt từ map at 03/29/2023 11:59 AM
+BAG:gamegg add 61xPháo hoa (old: 56) lydo: Nhặt từ map at 03/29/2023 12:00 PM
+BAG:gamegg add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/29/2023 12:00 PM
+BAG:gamegg add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/29/2023 12:01 PM
+BAG:gamegg add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/29/2023 12:07 PM
+BAG:gamegg add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/29/2023 12:08 PM
+BAG:gamegg add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/29/2023 12:08 PM
+BAG:gamegg add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/29/2023 12:09 PM
+BAG:gamegg add 1xCuồng nộ lydo: HQT at 03/29/2023 12:10 PM
+BAG:gamegg add 2xBổ khí (old: 1) lydo: HQT at 03/29/2023 12:10 PM
+BAG:gamegg add 3xBổ khí (old: 2) lydo: HQT at 03/29/2023 12:10 PM
+BAG:gamegg add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/29/2023 12:11 PM
+BAG:gamegg add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 12:12 PM
+BAG:gamegg add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/29/2023 12:12 PM
+BAG:gamegg add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/29/2023 12:12 PM
+BAG:gamegg add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/29/2023 12:12 PM
+BAG:gamegg add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/29/2023 12:12 PM
+BAG:gamegg add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/29/2023 12:12 PM
+BAG:gamegg add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/29/2023 12:12 PM
+BAG:gamegg add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/29/2023 12:12 PM
+BAG:gamegg add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/29/2023 12:13 PM
+BAG:gamegg add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/29/2023 12:13 PM
+BAG:gamegg add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/29/2023 12:13 PM
+BAG:gamegg add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/29/2023 12:13 PM
+BAG:gamegg add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/29/2023 12:14 PM
+BAG:gamegg add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/29/2023 12:14 PM
+BAG:gamegg add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/29/2023 12:14 PM
+BAG:gamegg add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/29/2023 12:15 PM
+BAG:gamegg add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/29/2023 12:15 PM
+BAG:gamegg add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/29/2023 12:15 PM
+BAG:gamegg add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/29/2023 12:15 PM
+BAG:gamegg add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/29/2023 12:15 PM
+BAG:gamegg add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/29/2023 12:16 PM
+BAG:gamegg add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/29/2023 12:16 PM
+BAG:gamegg add 8xMảnh Khủng long mẹ (old: 7) lydo: Nhặt từ map at 03/29/2023 12:16 PM
+BAG:gamegg add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/29/2023 12:17 PM
+BAG:gamegg add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 12:17 PM
+BAG:gamegg add 9xMảnh Khủng long mẹ (old: 8) lydo: Nhặt từ map at 03/29/2023 12:18 PM
+BAG:gamegg add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 12:18 PM
+BAG:gamegg add 10xMảnh Khủng long mẹ (old: 9) lydo: Nhặt từ map at 03/29/2023 12:18 PM
+BAG:gamegg add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/29/2023 12:18 PM
+BAG:gamegg add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/29/2023 12:19 PM
+BAG:gamegg add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/29/2023 12:20 PM
+BAG:gamegg add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/29/2023 12:20 PM
+BAG:gamegg add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 12:20 PM
+BAG:gamegg add 11xMảnh Khủng long mẹ (old: 10) lydo: Nhặt từ map at 03/29/2023 12:20 PM
+BAG:gamegg add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/29/2023 12:21 PM
+BAG:gamegg add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/29/2023 12:21 PM
+BAG:gamegg add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/29/2023 12:21 PM
+BAG:gamegg add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/29/2023 12:22 PM
+BAG:gamegg add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/29/2023 12:22 PM
+BAG:gamegg add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/29/2023 12:22 PM
+BAG:gamegg add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 12:23 PM
+BAG:gamegg add 12xMảnh Khủng long mẹ (old: 11) lydo: Nhặt từ map at 03/29/2023 12:23 PM
+BAG:gamegg add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 12:23 PM
+BAG:gamegg add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 12:23 PM
+BAG:gamegg add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/29/2023 12:24 PM
+BAG:gamegg add 13xMảnh Khủng long mẹ (old: 12) lydo: Nhặt từ map at 03/29/2023 12:24 PM
+BAG:gamegg add 14xMảnh Khủng long mẹ (old: 13) lydo: Nhặt từ map at 03/29/2023 12:24 PM
+BAG:gamegg add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/29/2023 12:24 PM
+BAG:gamegg add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/29/2023 12:25 PM
+BAG:gamegg add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/29/2023 12:25 PM
+BAG:gamegg add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 12:25 PM
+BAG:gamegg add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/29/2023 12:25 PM
+BAG:gamegg add 15xMảnh Khủng long mẹ (old: 14) lydo: Nhặt từ map at 03/29/2023 12:25 PM
+BAG:gamegg add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/29/2023 12:26 PM
+BAG:gamegg add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/29/2023 12:27 PM
+BAG:gamegg add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/29/2023 12:27 PM
+BAG:gamegg add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/29/2023 12:27 PM
+BAG:gamegg add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/29/2023 12:28 PM
+BAG:gamegg add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/29/2023 12:28 PM
+BAG:gamegg add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/29/2023 12:28 PM
+BAG:gamegg add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/29/2023 12:28 PM
+BAG:gamegg add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/29/2023 12:28 PM
+BAG:gamegg add 16xMảnh Khủng long mẹ (old: 15) lydo: Nhặt từ map at 03/29/2023 12:28 PM
+BAG:gamegg add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/29/2023 12:29 PM
+BAG:gamegg add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 12:29 PM
+BAG:gamegg add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/29/2023 12:29 PM
+BAG:gamegg add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/29/2023 12:29 PM
+BAG:gamegg add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/29/2023 12:29 PM
+BAG:gamegg add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/29/2023 12:29 PM
+BAG:gamegg add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 12:29 PM
+BAG:gamegg add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/29/2023 12:29 PM
+BAG:gamegg add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/29/2023 12:30 PM
+BAG:gamegg add 17xMảnh Khủng long mẹ (old: 16) lydo: Nhặt từ map at 03/29/2023 12:30 PM
+BAG:gamegg add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/29/2023 12:30 PM
+BAG:gamegg add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/29/2023 12:30 PM
+BAG:gamegg add 18xMảnh Khủng long mẹ (old: 17) lydo: Nhặt từ map at 03/29/2023 12:30 PM
+BAG:gamegg add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:30 PM
+BAG:gamegg add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/29/2023 12:30 PM
+BAG:gamegg add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/29/2023 12:32 PM
+BAG:gamegg add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:45 PM
+BAG:gamegg add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:45 PM
+BAG:gamegg add 1xInosuke Hashibira lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:45 PM
+BAG:gamegg add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/29/2023 12:46 PM
+BAG:gamegg add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/29/2023 12:47 PM
+BAG:gamegg add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/29/2023 12:47 PM
+BAG:gamegg add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/29/2023 12:47 PM
+BAG:gamegg add 19xMảnh Khủng long mẹ (old: 18) lydo: Nhặt từ map at 03/29/2023 12:47 PM
+BAG:gamegg add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/29/2023 12:47 PM
+BAG:gamegg add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/29/2023 12:48 PM
+BAG:gamegg add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 12:48 PM
+BAG:gamegg add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/29/2023 12:48 PM
+BAG:gamegg add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/29/2023 12:48 PM
+BAG:gamegg add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/29/2023 12:49 PM
+BAG:gamegg add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 12:49 PM
+BAG:gamegg add 20xMảnh Khủng long mẹ (old: 19) lydo: Nhặt từ map at 03/29/2023 12:50 PM
+BAG:gamegg add 21xMảnh Khủng long mẹ (old: 20) lydo: Nhặt từ map at 03/29/2023 12:50 PM
+BAG:gamegg add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/29/2023 12:50 PM
+BAG:gamegg add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/29/2023 12:51 PM
+BAG:gamegg add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 12:51 PM
+BAG:gamegg add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/29/2023 12:52 PM
+BAG:gamegg add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/29/2023 12:52 PM
+BAG:gamegg add 22xMảnh Khủng long mẹ (old: 21) lydo: Nhặt từ map at 03/29/2023 12:52 PM
+BAG:gamegg add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/29/2023 12:52 PM
+BAG:gamegg add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/29/2023 12:52 PM
+BAG:gamegg add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/29/2023 12:52 PM
+BAG:gamegg add 23xMảnh Khủng long mẹ (old: 22) lydo: Nhặt từ map at 03/29/2023 12:52 PM
+BAG:gamegg add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/29/2023 12:52 PM
+BAG:gamegg add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/29/2023 12:53 PM
+BAG:gamegg add 24xMảnh Khủng long mẹ (old: 23) lydo: Nhặt từ map at 03/29/2023 12:53 PM
+BAG:gamegg add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/29/2023 12:53 PM
+BAG:gamegg add 25xMảnh Khủng long mẹ (old: 24) lydo: Nhặt từ map at 03/29/2023 12:53 PM
+BAG:gamegg add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/29/2023 12:54 PM
+BAG:gamegg add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/29/2023 12:55 PM
+BAG:gamegg add 26xMảnh Khủng long mẹ (old: 25) lydo: Nhặt từ map at 03/29/2023 12:55 PM
+BAG:gamegg add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/29/2023 12:56 PM
+BAG:gamegg add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/29/2023 12:56 PM
+BAG:gamegg add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 12:56 PM
+BAG:gamegg add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/29/2023 12:56 PM
+BAG:gamegg add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/29/2023 12:56 PM
+BAG:gamegg add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 12:57 PM
+BAG:gamegg add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/29/2023 12:57 PM
+BAG:gamegg add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 12:57 PM
+BAG:gamegg add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/29/2023 12:57 PM
+BAG:gamegg add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/29/2023 12:58 PM
+BAG:gamegg add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/29/2023 12:58 PM
+BAG:gamegg add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/29/2023 12:59 PM
+BAG:gamegg add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 12:59 PM
+BAG:gamegg add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/29/2023 1:00 PM
+BAG:gamegg add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 1:01 PM
+BAG:gamegg add 27xMảnh Khủng long mẹ (old: 26) lydo: Nhặt từ map at 03/29/2023 1:01 PM
+BAG:gamegg add 28xMảnh Khủng long mẹ (old: 27) lydo: Nhặt từ map at 03/29/2023 1:01 PM
+BAG:gamegg add 29xMảnh Khủng long mẹ (old: 28) lydo: Nhặt từ map at 03/29/2023 1:01 PM
+BAG:gamegg add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/29/2023 1:01 PM
+BAG:gamegg add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/29/2023 1:02 PM
+BAG:gamegg add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/29/2023 1:02 PM
+BAG:gamegg add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 1:02 PM
+BAG:gamegg add 27xMảnh Khủng long (old: 26) lydo: Nhặt từ map at 03/29/2023 1:02 PM
+BAG:gamegg add 30xMảnh Khủng long mẹ (old: 29) lydo: Nhặt từ map at 03/29/2023 1:02 PM
+BAG:gamegg add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:gamegg add 28xMảnh Khủng long (old: 27) lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:gamegg add 29xMảnh Khủng long (old: 28) lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:gamegg add 30xMảnh Khủng long (old: 29) lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:gamegg add 31xMảnh Khủng long mẹ (old: 30) lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:gamegg add 31xMảnh Khủng long (old: 30) lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:gamegg add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:gamegg add 32xMảnh Khủng long (old: 31) lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:gamegg add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:gamegg add 32xMảnh Khủng long mẹ (old: 31) lydo: Nhặt từ map at 03/29/2023 1:04 PM
+BAG:gamegg add 33xMảnh Khủng long (old: 32) lydo: Nhặt từ map at 03/29/2023 1:04 PM
+BAG:gamegg add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/29/2023 1:04 PM
+BAG:gamegg add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/29/2023 1:04 PM
+BAG:gamegg add 33xMảnh Khủng long mẹ (old: 32) lydo: Nhặt từ map at 03/29/2023 1:04 PM
+BAG:gamegg add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 1:05 PM
+BAG:gamegg add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/29/2023 1:05 PM
+BAG:gamegg add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/29/2023 1:05 PM
+BAG:gamegg add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/29/2023 1:06 PM
+BAG:gamegg add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/29/2023 1:06 PM
+BAG:gamegg add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/29/2023 1:06 PM
+BAG:gamegg add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/29/2023 1:06 PM
+BAG:gamegg add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/29/2023 1:07 PM
+BAG:gamegg add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/29/2023 1:07 PM
+BAG:gamegg add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/29/2023 1:07 PM
+BAG:gamegg add 34xMảnh Khủng long mẹ (old: 33) lydo: Nhặt từ map at 03/29/2023 1:07 PM
+BAG:gamegg add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/29/2023 1:07 PM
+BAG:gamegg add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/29/2023 1:07 PM
+BAG:gamegg add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/29/2023 1:08 PM
+BAG:gamegg add 34xMảnh Khủng long (old: 33) lydo: Nhặt từ map at 03/29/2023 1:08 PM
+BAG:gamegg add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/29/2023 1:08 PM
+BAG:gamegg add 35xMảnh Khủng long (old: 34) lydo: Nhặt từ map at 03/29/2023 1:08 PM
+BAG:gamegg add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 1:08 PM
+BAG:gamegg add 35xMảnh Khủng long mẹ (old: 34) lydo: Nhặt từ map at 03/29/2023 1:09 PM
+BAG:gamegg add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/29/2023 1:09 PM
+BAG:gamegg add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/29/2023 1:09 PM
+BAG:gamegg add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/29/2023 1:09 PM
+BAG:gamegg add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 1:09 PM
+BAG:gamegg add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:gamegg add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:gamegg add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:gamegg add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 1:11 PM
+BAG:gamegg add 36xMảnh Khủng long mẹ (old: 35) lydo: Nhặt từ map at 03/29/2023 1:11 PM
+BAG:gamegg add 36xMảnh Khủng long (old: 35) lydo: Nhặt từ map at 03/29/2023 1:11 PM
+BAG:gamegg add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 03/29/2023 1:11 PM
+BAG:gamegg add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 1:11 PM
+BAG:gamegg add 37xMảnh Khủng long (old: 36) lydo: Nhặt từ map at 03/29/2023 1:12 PM
+BAG:gamegg add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/29/2023 1:12 PM
+BAG:gamegg add 38xMảnh Khủng long (old: 37) lydo: Nhặt từ map at 03/29/2023 1:12 PM
+BAG:gamegg add 39xMảnh Khủng long (old: 38) lydo: Nhặt từ map at 03/29/2023 1:12 PM
+BAG:gamegg add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/29/2023 1:13 PM
+BAG:gamegg add 40xMảnh Khủng long (old: 39) lydo: Nhặt từ map at 03/29/2023 1:13 PM
+BAG:gamegg add 37xMảnh Khủng long mẹ (old: 36) lydo: Nhặt từ map at 03/29/2023 1:13 PM
+BAG:gamegg add 41xMảnh Khủng long (old: 40) lydo: Nhặt từ map at 03/29/2023 1:13 PM
+BAG:gamegg add 42xMảnh Khủng long (old: 41) lydo: Nhặt từ map at 03/29/2023 1:17 PM
+BAG:gamegg add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/29/2023 1:18 PM
+BAG:gamegg add 62xPháo hoa (old: 57) lydo: Nhặt từ map at 03/29/2023 1:18 PM
+BAG:gamegg add 67xPháo hoa (old: 62) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:gamegg add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:gamegg add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:gamegg add 72xPháo hoa (old: 67) lydo: Nhặt từ map at 03/29/2023 1:22 PM
+BAG:gamegg add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/29/2023 1:23 PM
+BAG:gamegg add 77xPháo hoa (old: 72) lydo: Nhặt từ map at 03/29/2023 1:23 PM
+BAG:gamegg add 82xPháo hoa (old: 77) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:gamegg add 87xPháo hoa (old: 82) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:gamegg add 92xPháo hoa (old: 87) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:gamegg add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/29/2023 1:29 PM
+BAG:gamegg add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/29/2023 1:30 PM
+BAG:gamegg add 97xPháo hoa (old: 92) lydo: Nhặt từ map at 03/29/2023 1:30 PM
+BAG:gamegg add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/29/2023 1:30 PM
+BAG:gamegg add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/29/2023 1:30 PM
+BAG:gamegg add 2xBổ huyết (old: 1) lydo: HQT at 03/29/2023 1:30 PM
+BAG:gamegg add 3xBổ huyết (old: 2) lydo: HQT at 03/29/2023 1:30 PM
+BAG:gamegg add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/29/2023 1:30 PM
+BAG:gamegg add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/29/2023 1:30 PM
+BAG:gamegg add 4xBổ khí (old: 3) lydo: HQT at 03/29/2023 1:31 PM
+BAG:gamegg add 89xPháo hoa (old: 84) lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:gamegg add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:gamegg add 2xCuồng nộ (old: 1) lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 1xNgọc Rồng 4 sao lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 4xBổ huyết (old: 3) lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 80xPháo hoa (old: 75) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:gamegg add 5xBổ huyết (old: 4) lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 6xBổ huyết (old: 5) lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 80xPháo hoa (old: 75) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:gamegg add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 3xCuồng nộ (old: 2) lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 21xNgọc Rồng 6 sao (old: 20) lydo: HQT at 03/29/2023 1:32 PM
+BAG:gamegg add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:gamegg add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/29/2023 1:35 PM
+BAG:gamegg add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:gamegg add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:gamegg add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/29/2023 1:50 PM
+BAG:gamegg add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 03/29/2023 1:50 PM
+BAG:gamegg add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:gamegg add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:gamegg add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:gamegg add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/29/2023 3:47 PM
+BAG:gamegg add 50xSao pha lê lydo: Lấy từ rương qua người at 03/29/2023 3:47 PM
+BAG:gamegg add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/29/2023 3:47 PM
+BAG:gamegg add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/29/2023 3:47 PM
+BAG:gamegg add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/29/2023 3:47 PM
+BAG:gamegg add 12xNgọc Rồng 4 sao (old: 2) lydo: Giftcode at 03/29/2023 3:47 PM
+BAG:gamegg add 22xNgọc Rồng 5 sao (old: 12) lydo: Giftcode at 03/29/2023 3:47 PM
+BAG:gamegg add 32xNgọc Rồng 6 sao (old: 22) lydo: Giftcode at 03/29/2023 3:47 PM
+BAG:gamegg add 15xNgọc Rồng 7 sao (old: 5) lydo: Giftcode at 03/29/2023 3:47 PM
+BAG:gamegg add 67xPháo hoa (old: 62) lydo: Nhặt từ map at 03/29/2023 3:47 PM
+BAG:gamegg add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/29/2023 3:47 PM
+BAG:gamegg add 72xPháo hoa (old: 67) lydo: Nhặt từ map at 03/29/2023 3:51 PM
+BAG:gamegg add 77xPháo hoa (old: 72) lydo: Nhặt từ map at 03/29/2023 3:52 PM
+BAG:gamegg add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/29/2023 3:52 PM
+BAG:gamegg add 82xPháo hoa (old: 77) lydo: Nhặt từ map at 03/29/2023 3:52 PM
+BAG:gamegg add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/29/2023 3:52 PM
+BAG:gamegg add 87xPháo hoa (old: 82) lydo: Nhặt từ map at 03/29/2023 3:52 PM
+BAG:gamegg add 92xPháo hoa (old: 87) lydo: Nhặt từ map at 03/29/2023 3:52 PM
+BAG:gamegg add 33xNgọc Rồng 6 sao (old: 32) lydo: Nhặt từ map at 03/29/2023 3:54 PM
+BAG:gamegg add 97xPháo hoa (old: 92) lydo: Nhặt từ map at 03/29/2023 3:54 PM
+BAG:gamegg add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:gamegg add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:gamegg add 3xPháo hoa lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:gamegg add 99xPháo hoa (old: 97) lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:gamegg add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:gamegg add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:gamegg add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/29/2023 3:57 PM
+BAG:gamegg add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/29/2023 3:57 PM
+BAG:gamegg add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/29/2023 3:57 PM
+BAG:gamegg add 8xPháo hoa (old: 3) lydo: Nhặt từ map at 03/29/2023 3:59 PM
+BAG:gamegg add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/29/2023 4:00 PM
+BAG:gamegg add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 03/29/2023 4:01 PM
+BAG:gamegg add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/29/2023 4:01 PM
+BAG:gamegg add 13xPháo hoa (old: 8) lydo: Nhặt từ map at 03/29/2023 4:01 PM
+BAG:gamegg add 18xPháo hoa (old: 13) lydo: Nhặt từ map at 03/29/2023 4:04 PM
+BAG:gamegg add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/29/2023 4:04 PM
+BAG:gamegg add 23xPháo hoa (old: 18) lydo: Nhặt từ map at 03/29/2023 4:05 PM
+BAG:gamegg add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/29/2023 4:06 PM
+BAG:gamegg add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/29/2023 4:08 PM
+BAG:gamegg add 28xPháo hoa (old: 23) lydo: Nhặt từ map at 03/29/2023 4:09 PM
+BAG:gamegg add 33xPháo hoa (old: 28) lydo: Nhặt từ map at 03/29/2023 4:09 PM
+BAG:gamegg add 38xPháo hoa (old: 33) lydo: Nhặt từ map at 03/29/2023 4:12 PM
+BAG:gamegg add 43xPháo hoa (old: 38) lydo: Nhặt từ map at 03/29/2023 4:12 PM
+BAG:gamegg add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/29/2023 4:13 PM
+BAG:gamegg add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/29/2023 4:13 PM
+BAG:gamegg add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/29/2023 4:15 PM
+BAG:gamegg add 48xPháo hoa (old: 43) lydo: Nhặt từ map at 03/29/2023 4:20 PM
+BAG:gamegg add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/29/2023 4:21 PM
+BAG:gamegg add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 03/29/2023 4:22 PM
+BAG:gamegg add 53xPháo hoa (old: 48) lydo: Nhặt từ map at 03/29/2023 4:23 PM
+BAG:gamegg add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/29/2023 4:25 PM
+BAG:gamegg add 58xPháo hoa (old: 53) lydo: Nhặt từ map at 03/29/2023 4:25 PM
+BAG:gamegg add 63xPháo hoa (old: 58) lydo: Nhặt từ map at 03/29/2023 4:26 PM
+BAG:gamegg add 68xPháo hoa (old: 63) lydo: Nhặt từ map at 03/29/2023 4:26 PM
+BAG:gamegg add 34xNgọc Rồng 6 sao (old: 33) lydo: Nhặt từ map at 03/29/2023 4:29 PM
+BAG:gamegg add 73xPháo hoa (old: 68) lydo: Nhặt từ map at 03/29/2023 4:29 PM
+BAG:gamegg add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/29/2023 4:29 PM
+BAG:gamegg add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/29/2023 4:30 PM
+BAG:gamegg add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/29/2023 4:32 PM
+BAG:gamegg add 78xPháo hoa (old: 73) lydo: Nhặt từ map at 03/29/2023 4:34 PM
+BAG:gamegg add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/29/2023 4:34 PM
+BAG:gamegg add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/29/2023 4:34 PM
+BAG:gamegg add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/29/2023 4:34 PM
+BAG:gamegg add 83xPháo hoa (old: 78) lydo: Nhặt từ map at 03/29/2023 4:34 PM
+BAG:gamegg add 88xPháo hoa (old: 83) lydo: Nhặt từ map at 03/29/2023 4:35 PM
+BAG:gamegg add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/29/2023 4:36 PM
+BAG:gamegg add 93xPháo hoa (old: 88) lydo: Nhặt từ map at 03/29/2023 4:36 PM
+BAG:gamegg add 98xPháo hoa (old: 93) lydo: Nhặt từ map at 03/29/2023 4:37 PM
+BAG:gamegg add 4xPháo hoa lydo: Nhặt từ map at 03/29/2023 4:38 PM
+BAG:gamegg add 99xPháo hoa (old: 98) lydo: Nhặt từ map at 03/29/2023 4:38 PM
+BAG:gamegg add 9xPháo hoa (old: 4) lydo: Nhặt từ map at 03/29/2023 4:38 PM
+BAG:gamegg add 14xPháo hoa (old: 9) lydo: Nhặt từ map at 03/29/2023 4:39 PM
+BAG:gamegg add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/29/2023 4:40 PM
+BAG:gamegg add 19xPháo hoa (old: 14) lydo: Nhặt từ map at 03/29/2023 4:41 PM
+BAG:gamegg add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/29/2023 4:43 PM
+BAG:gamegg add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/29/2023 4:44 PM
+BAG:gamegg add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/29/2023 4:44 PM
+BAG:gamegg add 24xPháo hoa (old: 19) lydo: Nhặt từ map at 03/29/2023 4:45 PM
+BAG:gamegg add 29xPháo hoa (old: 24) lydo: Nhặt từ map at 03/29/2023 4:46 PM
+BAG:gamegg add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/29/2023 4:47 PM
+BAG:gamegg add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 03/29/2023 4:48 PM
+BAG:gamegg add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/29/2023 4:49 PM
+BAG:gamegg add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/29/2023 4:49 PM
+BAG:gamegg add 34xPháo hoa (old: 29) lydo: Nhặt từ map at 03/29/2023 4:49 PM
+BAG:gamegg add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 03/29/2023 4:50 PM
+BAG:gamegg add 39xPháo hoa (old: 34) lydo: Nhặt từ map at 03/29/2023 4:50 PM
+BAG:gamegg add 44xPháo hoa (old: 39) lydo: Nhặt từ map at 03/29/2023 4:51 PM
+BAG:gamegg add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/29/2023 4:51 PM
+BAG:gamegg add 49xPháo hoa (old: 44) lydo: Nhặt từ map at 03/29/2023 4:52 PM
+BAG:gamegg add 54xPháo hoa (old: 49) lydo: Nhặt từ map at 03/29/2023 4:52 PM
+BAG:gamegg add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 03/29/2023 4:55 PM
+BAG:gamegg add 59xPháo hoa (old: 54) lydo: Nhặt từ map at 03/29/2023 4:56 PM
+BAG:gamegg add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/29/2023 4:56 PM
+BAG:gamegg add 64xPháo hoa (old: 59) lydo: Nhặt từ map at 03/29/2023 4:58 PM
+BAG:gamegg add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/29/2023 5:00 PM
+BAG:gamegg add 69xPháo hoa (old: 64) lydo: Nhặt từ map at 03/29/2023 8:45 PM
+BAG:gamegg add 74xPháo hoa (old: 69) lydo: Nhặt từ map at 03/29/2023 8:46 PM
+BAG:gamegg add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 03/29/2023 8:47 PM
+BAG:gamegg add 79xPháo hoa (old: 74) lydo: Nhặt từ map at 03/29/2023 8:47 PM
+BAG:gamegg add 5xBổ khí (old: 4) lydo: HQT at 03/29/2023 8:48 PM
+BAG:gamegg add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/29/2023 8:48 PM
+BAG:gamegg add 7xBổ huyết (old: 6) lydo: HQT at 03/29/2023 8:48 PM
+BAG:gamegg add 6xBổ khí (old: 5) lydo: HQT at 03/29/2023 8:48 PM
+BAG:gamegg add 7xBổ khí (old: 6) lydo: HQT at 03/29/2023 8:48 PM
+BAG:gamegg add 1xNgọc Rồng 5 sao lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 1xNgọc Rồng 4 sao lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 8xBổ khí (old: 7) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 1xNgọc Rồng 6 sao lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 1xNgọc Rồng 7 sao lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 4xCuồng nộ (old: 3) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 5xCuồng nộ (old: 4) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 8xBổ huyết (old: 7) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 9xBổ khí (old: 8) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 10xBổ khí (old: 9) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/29/2023 8:49 PM
+BAG:gamegg add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 6xCuồng nộ (old: 5) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 11xBổ khí (old: 10) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/29/2023 8:50 PM
+BAG:gamegg add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 12xBổ khí (old: 11) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 9xBổ huyết (old: 8) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 10xBổ huyết (old: 9) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 11xBổ huyết (old: 10) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 7xCuồng nộ (old: 6) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 8xCuồng nộ (old: 7) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/29/2023 8:51 PM
+BAG:gamegg add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 12xBổ huyết (old: 11) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 9xCuồng nộ (old: 8) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 13xBổ khí (old: 12) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 14xBổ khí (old: 13) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 13xBổ huyết (old: 12) lydo: HQT at 03/29/2023 8:52 PM
+BAG:gamegg add 15xBổ khí (old: 14) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 16xBổ khí (old: 15) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 14xBổ huyết (old: 13) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 17xBổ khí (old: 16) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 15xBổ huyết (old: 14) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 18xBổ khí (old: 17) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 7xPháo hoa (old: 2) lydo: Nhặt từ map at 03/29/2023 8:53 PM
+BAG:gamegg add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 6xPháo hoa (old: 1) lydo: Nhặt từ map at 03/29/2023 8:53 PM
+BAG:gamegg add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/29/2023 8:53 PM
+BAG:gamegg add 19xBổ khí (old: 18) lydo: HQT at 03/29/2023 8:54 PM
+BAG:gamegg add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/29/2023 8:54 PM
+BAG:gamegg add 16xBổ huyết (old: 15) lydo: HQT at 03/29/2023 8:54 PM
+BAG:gamegg add 9xGiáp Xên bọ hung (old: 8) lydo: HQT at 03/29/2023 8:54 PM
+BAG:gamegg add 10xGiáp Xên bọ hung (old: 9) lydo: HQT at 03/29/2023 8:54 PM
+BAG:gamegg add 94xPháo hoa (old: 89) lydo: Nhặt từ map at 03/29/2023 8:54 PM
+BAG:gamegg add 98xPháo hoa (old: 93) lydo: Nhặt từ map at 03/29/2023 8:54 PM
+BAG:gamegg add 20xBổ khí (old: 19) lydo: HQT at 03/29/2023 8:54 PM
+BAG:gamegg add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/29/2023 8:54 PM
+BAG:gamegg add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/29/2023 8:54 PM
+BAG:gamegg add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 03/29/2023 8:54 PM
+BAG:gamegg add 10xCuồng nộ (old: 9) lydo: HQT at 03/29/2023 8:54 PM
+BAG:gamegg add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/29/2023 8:54 PM
+BAG:gamegg add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/29/2023 8:55 PM
+BAG:gamegg add 11xCuồng nộ (old: 10) lydo: HQT at 03/29/2023 8:55 PM
+BAG:gamegg add 92xPháo hoa (old: 87) lydo: Nhặt từ map at 03/29/2023 8:55 PM
+BAG:gamegg add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/29/2023 8:55 PM
+BAG:gamegg add 17xBổ huyết (old: 16) lydo: HQT at 03/29/2023 8:55 PM
+BAG:gamegg add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 03/29/2023 8:55 PM
+BAG:gamegg add 21xBổ khí (old: 20) lydo: HQT at 03/29/2023 8:55 PM
+BAG:gamegg add 12xCuồng nộ (old: 11) lydo: HQT at 03/29/2023 8:55 PM
+BAG:gamegg add 18xBổ huyết (old: 17) lydo: HQT at 03/29/2023 8:55 PM
+BAG:gamegg add 22xBổ khí (old: 21) lydo: HQT at 03/29/2023 8:55 PM
+BAG:gamegg add 23xBổ khí (old: 22) lydo: HQT at 03/29/2023 8:55 PM
+BAG:gamegg add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/29/2023 8:56 PM
+BAG:gamegg add 24xBổ khí (old: 23) lydo: HQT at 03/29/2023 8:56 PM
+BAG:gamegg add 25xBổ khí (old: 24) lydo: HQT at 03/29/2023 8:56 PM
+BAG:gamegg add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/29/2023 8:56 PM
+BAG:gamegg add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/29/2023 8:56 PM
+BAG:gamegg add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/29/2023 8:57 PM
+BAG:gamegg add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/29/2023 8:57 PM
+BAG:gamegg add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/29/2023 8:57 PM
+BAG:gamegg add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 03/29/2023 8:57 PM
+BAG:gamegg add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/29/2023 8:57 PM
+BAG:gamegg add 26xBổ khí (old: 25) lydo: HQT at 03/29/2023 8:57 PM
+BAG:gamegg add 27xBổ khí (old: 26) lydo: HQT at 03/29/2023 8:57 PM
+BAG:gamegg add 19xBổ huyết (old: 18) lydo: HQT at 03/29/2023 8:57 PM
+BAG:gamegg add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/29/2023 8:57 PM
+BAG:gamegg add 13xCuồng nộ (old: 12) lydo: HQT at 03/29/2023 8:57 PM
+BAG:gamegg add 28xBổ khí (old: 27) lydo: HQT at 03/29/2023 8:58 PM
+BAG:gamegg add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/29/2023 8:58 PM
+BAG:gamegg add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/29/2023 8:58 PM
+BAG:gamegg add 29xBổ khí (old: 28) lydo: HQT at 03/29/2023 8:58 PM
+BAG:gamegg add 20xBổ huyết (old: 19) lydo: HQT at 03/29/2023 8:58 PM
+BAG:gamegg add 42xPháo hoa (old: 37) lydo: Nhặt từ map at 03/29/2023 8:58 PM
+BAG:gamegg add 21xBổ huyết (old: 20) lydo: HQT at 03/29/2023 8:58 PM
+BAG:gamegg add 14xCuồng nộ (old: 13) lydo: HQT at 03/29/2023 8:58 PM
+BAG:gamegg add 42xPháo hoa (old: 37) lydo: Nhặt từ map at 03/29/2023 8:58 PM
+BAG:gamegg add 30xBổ khí (old: 29) lydo: HQT at 03/29/2023 8:58 PM
+BAG:gamegg add 19xNgọc Rồng 5 sao (old: 18) lydo: HQT at 03/29/2023 8:58 PM
+BAG:gamegg add 15xCuồng nộ (old: 14) lydo: HQT at 03/29/2023 8:59 PM
+BAG:gamegg add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/29/2023 8:59 PM
+BAG:gamegg add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/29/2023 8:59 PM
+BAG:gamegg add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/29/2023 8:59 PM
+BAG:gamegg add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/29/2023 8:59 PM
+BAG:gamegg add 16xCuồng nộ (old: 15) lydo: HQT at 03/29/2023 8:59 PM
+BAG:gamegg add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/29/2023 8:59 PM
+BAG:gamegg add 31xBổ khí (old: 30) lydo: HQT at 03/29/2023 8:59 PM
+BAG:gamegg add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/29/2023 8:59 PM
+BAG:gamegg add 22xBổ huyết (old: 21) lydo: HQT at 03/29/2023 9:00 PM
+BAG:gamegg add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/29/2023 9:00 PM
+BAG:gamegg add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/29/2023 9:00 PM
+BAG:gamegg add 32xBổ khí (old: 31) lydo: HQT at 03/29/2023 9:00 PM
+BAG:gamegg add 24xPháo hoa (old: 19) lydo: Nhặt từ map at 03/29/2023 9:00 PM
+BAG:gamegg add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/29/2023 9:00 PM
+BAG:gamegg add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/29/2023 9:00 PM
+BAG:gamegg add 18xNgọc Rồng 7 sao (old: 17) lydo: HQT at 03/29/2023 9:00 PM
+BAG:gamegg add 17xCuồng nộ (old: 16) lydo: HQT at 03/29/2023 9:00 PM
+BAG:gamegg add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/29/2023 9:00 PM
+BAG:gamegg add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/29/2023 9:01 PM
+BAG:gamegg add 18xCuồng nộ (old: 17) lydo: HQT at 03/29/2023 9:01 PM
+BAG:gamegg add 21xNgọc Rồng 5 sao (old: 20) lydo: HQT at 03/29/2023 9:01 PM
+BAG:gamegg add 33xBổ khí (old: 32) lydo: HQT at 03/29/2023 9:01 PM
+BAG:gamegg add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/29/2023 9:01 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:03 PM
+BAG:gamegg add 22xNgọc Rồng 5 sao (old: 21) lydo: HQT at 03/29/2023 9:03 PM
+BAG:gamegg add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/29/2023 9:03 PM
+BAG:gamegg add 6xPháo hoa (old: 1) lydo: Nhặt từ map at 03/29/2023 9:03 PM
+BAG:gamegg add 19xNgọc Rồng 7 sao (old: 18) lydo: HQT at 03/29/2023 9:03 PM
+BAG:gamegg add 19xCuồng nộ (old: 18) lydo: HQT at 03/29/2023 9:03 PM
+BAG:gamegg add 20xNgọc Rồng 7 sao (old: 19) lydo: HQT at 03/29/2023 9:03 PM
+BAG:gamegg add 23xNgọc Rồng 5 sao (old: 22) lydo: HQT at 03/29/2023 9:03 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:04 PM
+BAG:gamegg add 21xNgọc Rồng 7 sao (old: 20) lydo: HQT at 03/29/2023 9:04 PM
+BAG:gamegg add 23xBổ huyết (old: 22) lydo: HQT at 03/29/2023 9:04 PM
+BAG:gamegg add 24xBổ huyết (old: 23) lydo: HQT at 03/29/2023 9:04 PM
+BAG:gamegg add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/29/2023 9:04 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:05 PM
+BAG:gamegg add 17xGiáp Xên bọ hung (old: 16) lydo: HQT at 03/29/2023 9:05 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:06 PM
+BAG:gamegg add 24xNgọc Rồng 5 sao (old: 23) lydo: HQT at 03/29/2023 9:06 PM
+BAG:gamegg add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/29/2023 9:06 PM
+BAG:gamegg add 34xBổ khí (old: 33) lydo: HQT at 03/29/2023 9:06 PM
+BAG:gamegg add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/29/2023 9:06 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:07 PM
+BAG:gamegg add 22xNgọc Rồng 7 sao (old: 21) lydo: HQT at 03/29/2023 9:07 PM
+BAG:gamegg add 25xNgọc Rồng 5 sao (old: 24) lydo: HQT at 03/29/2023 9:07 PM
+BAG:gamegg add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/29/2023 9:07 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:07 PM
+BAG:gamegg add 26xNgọc Rồng 5 sao (old: 25) lydo: HQT at 03/29/2023 9:07 PM
+BAG:gamegg add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/29/2023 9:10 PM
+BAG:gamegg add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/29/2023 9:12 PM
+BAG:gamegg add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/29/2023 9:12 PM
+BAG:gamegg add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/29/2023 9:12 PM
+BAG:gamegg add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/29/2023 9:12 PM
+BAG:gamegg add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/29/2023 9:12 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:15 PM
+BAG:gamegg add 35xBổ khí (old: 34) lydo: HQT at 03/29/2023 9:15 PM
+BAG:gamegg add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/29/2023 9:15 PM
+BAG:gamegg add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/29/2023 9:17 PM
+BAG:gamegg add 1xGăng bạc Goku lydo: Mua từ cửa hàng at 03/29/2023 9:20 PM
+BAG:gamegg add 1xÁo vàng Goku lydo: Mua từ cửa hàng at 03/29/2023 9:21 PM
+BAG:gamegg add 1xQuần vàng Goku lydo: Mua từ cửa hàng at 03/29/2023 9:21 PM
+BAG:gamegg add 1xGiày vàng Goku lydo: Mua từ cửa hàng at 03/29/2023 9:21 PM
+BAG:gamegg add 1xRada cấp 9 lydo: Mua từ cửa hàng at 03/29/2023 9:21 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:22 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:22 PM
+BAG:gamegg add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/29/2023 9:22 PM
+BAG:gamegg add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/29/2023 9:22 PM
+BAG:gamegg add 27xNgọc Rồng 5 sao (old: 26) lydo: Nhặt từ map at 03/29/2023 9:24 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:24 PM
+BAG:gamegg add 20xCuồng nộ (old: 19) lydo: HQT at 03/29/2023 9:24 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:gamegg add 18xGiáp Xên bọ hung (old: 17) lydo: HQT at 03/29/2023 9:28 PM
+BAG:gamegg add 25xBổ huyết (old: 24) lydo: HQT at 03/29/2023 9:28 PM
+BAG:gamegg add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/29/2023 9:28 PM
+BAG:gamegg add 19xGiáp Xên bọ hung (old: 18) lydo: HQT at 03/29/2023 9:29 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:29 PM
+BAG:gamegg add 8xPháo hoa (old: 3) lydo: Nhặt từ map at 03/29/2023 9:29 PM
+BAG:gamegg add 21xCuồng nộ (old: 20) lydo: HQT at 03/29/2023 9:29 PM
+BAG:gamegg add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/29/2023 9:29 PM
+BAG:gamegg add 26xBổ huyết (old: 25) lydo: HQT at 03/29/2023 9:29 PM
+BAG:gamegg add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:gamegg add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/29/2023 9:30 PM
+BAG:gamegg add 20xGiáp Xên bọ hung (old: 19) lydo: HQT at 03/29/2023 9:30 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:31 PM
+BAG:gamegg add 8xPháo hoa (old: 3) lydo: Nhặt từ map at 03/29/2023 9:32 PM
+BAG:gamegg add 27xBổ huyết (old: 26) lydo: HQT at 03/29/2023 9:32 PM
+BAG:gamegg add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/29/2023 9:32 PM
+BAG:gamegg add 22xCuồng nộ (old: 21) lydo: HQT at 03/29/2023 9:32 PM
+BAG:gamegg add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/29/2023 9:32 PM
+BAG:gamegg add 28xBổ huyết (old: 27) lydo: HQT at 03/29/2023 9:32 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:32 PM
+BAG:gamegg add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 03/29/2023 9:32 PM
+BAG:gamegg add 47xSao pha lê lydo: (GD) Nhận từ gameff at 03/29/2023 9:33 PM
+BAG:gamegg add 15xNgọc Rồng 6 sao (old: 14) lydo: HQT at 03/29/2023 9:33 PM
+BAG:gamegg add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/29/2023 9:33 PM
+BAG:gamegg add 50xSao pha lê lydo: (GD) Nhận từ gamevv at 03/29/2023 9:33 PM
+BAG:gamegg add 96xSao pha lê lydo: Lấy từ rương qua người at 03/29/2023 9:35 PM
+BAG:gamegg add 43xĐậu thần cấp 9 lydo: Lấy từ rương qua người at 03/29/2023 9:35 PM
+BAG:gamegg add 1xBông tai Porata lydo: Lấy từ rương qua người at 03/29/2023 9:35 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:35 PM
+BAG:gamegg add 1xNgọc Rồng 5 sao lydo: HQT at 03/29/2023 9:35 PM
+BAG:gamegg add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 9:36 PM
+BAG:gamegg add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 9:36 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:37 PM
+BAG:gamegg add 1xNgọc Rồng 7 sao lydo: HQT at 03/29/2023 9:37 PM
+BAG:gamegg add 1xNgọc Rồng 4 sao lydo: HQT at 03/29/2023 9:37 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:37 PM
+BAG:gamegg add 1xBổ huyết lydo: HQT at 03/29/2023 9:37 PM
+BAG:gamegg add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/29/2023 9:37 PM
+BAG:gamegg add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 9:39 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:39 PM
+BAG:gamegg add 2xBổ huyết (old: 1) lydo: HQT at 03/29/2023 9:39 PM
+BAG:gamegg add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/29/2023 9:39 PM
+BAG:gamegg add 1xBổ khí lydo: HQT at 03/29/2023 9:39 PM
+BAG:gamegg add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/29/2023 9:39 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:40 PM
+BAG:gamegg add 2xBổ khí (old: 1) lydo: HQT at 03/29/2023 9:40 PM
+BAG:gamegg add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/29/2023 9:40 PM
+BAG:gamegg add 3xBổ khí (old: 2) lydo: HQT at 03/29/2023 9:40 PM
+BAG:gamegg add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 9:40 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:42 PM
+BAG:gamegg add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/29/2023 9:42 PM
+BAG:gamegg add 1xGiáp Xên bọ hung lydo: HQT at 03/29/2023 9:42 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:43 PM
+BAG:gamegg add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/29/2023 9:43 PM
+BAG:gamegg add 8xPháo hoa (old: 3) lydo: Nhặt từ map at 03/29/2023 9:43 PM
+BAG:gamegg add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/29/2023 9:43 PM
+BAG:gamegg add 11xPháo hoa (old: 6) lydo: Nhặt từ map at 03/29/2023 9:43 PM
+BAG:gamegg add 4xBổ khí (old: 3) lydo: HQT at 03/29/2023 9:43 PM
+BAG:gamegg add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/29/2023 9:44 PM
+BAG:gamegg add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 9:44 PM
+BAG:gamegg add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/29/2023 9:44 PM
+BAG:gamegg add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/29/2023 9:44 PM
+BAG:gamegg add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/29/2023 9:44 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:44 PM
+BAG:gamegg add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/29/2023 9:44 PM
+BAG:gamegg add 5xBổ khí (old: 4) lydo: HQT at 03/29/2023 9:44 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:44 PM
+BAG:gamegg add 6xBổ khí (old: 5) lydo: HQT at 03/29/2023 9:44 PM
+BAG:gamegg add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:44 PM
+BAG:gamegg add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 9xNâng cấp kỹ năng 1 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 10xNâng cấp kỹ năng 1 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 11xNâng cấp kỹ năng 1 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 12xNâng cấp kỹ năng 1 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 13xNâng cấp kỹ năng 1 đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 14xNâng cấp kỹ năng 1 đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 15xNâng cấp kỹ năng 1 đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/29/2023 9:45 PM
+BAG:gamegg add 1xCuồng nộ lydo: HQT at 03/29/2023 9:45 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:45 PM
+BAG:gamegg add 7xBổ khí (old: 6) lydo: HQT at 03/29/2023 9:45 PM
+BAG:gamegg add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/29/2023 9:45 PM
+BAG:gamegg add 3xBổ huyết (old: 2) lydo: HQT at 03/29/2023 9:45 PM
+BAG:gamegg add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 7xNâng cấp kỹ năng 2 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 8xNâng cấp kỹ năng 2 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 9xNâng cấp kỹ năng 2 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 10xNâng cấp kỹ năng 2 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 11xNâng cấp kỹ năng 2 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 12xNâng cấp kỹ năng 2 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 13xNâng cấp kỹ năng 2 đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 14xNâng cấp kỹ năng 2 đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/29/2023 9:46 PM
+BAG:gamegg add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:gamegg add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/29/2023 9:46 PM
+BAG:gamegg add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/29/2023 9:46 PM
+BAG:gamegg add 2xCuồng nộ (old: 1) lydo: HQT at 03/29/2023 9:46 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:47 PM
+BAG:gamegg add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/29/2023 9:47 PM
+BAG:gamegg add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/29/2023 9:48 PM
+BAG:gamegg add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:48 PM
+BAG:gamegg add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:48 PM
+BAG:gamegg add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 9:48 PM
+BAG:gamegg add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 9:48 PM
+BAG:gamegg add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 9:48 PM
+BAG:gamegg add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 9:48 PM
+BAG:gamegg add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 9:48 PM
+BAG:gamegg add 7xNâng cấp kỹ năng 3 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 9:48 PM
+BAG:gamegg add 8xNâng cấp kỹ năng 3 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 9xNâng cấp kỹ năng 3 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 10xNâng cấp kỹ năng 3 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 11xNâng cấp kỹ năng 3 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 12xNâng cấp kỹ năng 3 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 13xNâng cấp kỹ năng 3 đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 14xNâng cấp kỹ năng 3 đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 9:49 PM
+BAG:gamegg add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 7xNâng cấp kỹ năng 4 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 8xNâng cấp kỹ năng 4 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 9xNâng cấp kỹ năng 4 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 10xNâng cấp kỹ năng 4 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 11xNâng cấp kỹ năng 4 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 12xNâng cấp kỹ năng 4 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 13xNâng cấp kỹ năng 4 đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 14xNâng cấp kỹ năng 4 đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 15xNâng cấp kỹ năng 4 đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/29/2023 9:49 PM
+BAG:gamegg add 16xNâng cấp kỹ năng 4 đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/29/2023 9:50 PM
+BAG:gamegg add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 9:50 PM
+BAG:gamegg add 67xĐậu thần cấp 9 (old: 37) lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 97xĐậu thần cấp 9 (old: 67) lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 28xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 99xĐậu thần cấp 9 (old: 97) lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 58xĐậu thần cấp 9 (old: 28) lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 88xĐậu thần cấp 9 (old: 58) lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 19xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 99xĐậu thần cấp 9 (old: 88) lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 49xĐậu thần cấp 9 (old: 19) lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 79xĐậu thần cấp 9 (old: 49) lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 10xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 99xĐậu thần cấp 9 (old: 79) lydo: Mua từ cửa hàng at 03/29/2023 9:57 PM
+BAG:gamegg add 40xĐậu thần cấp 9 (old: 10) lydo: Mua từ cửa hàng at 03/29/2023 9:58 PM
+BAG:gamegg add 70xĐậu thần cấp 9 (old: 40) lydo: Mua từ cửa hàng at 03/29/2023 9:58 PM
+BAG:gamegg add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:gamegg add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 9:59 PM
+BAG:gamegg add 1xCải trang lydo: Mua từ cửa hàng at 03/29/2023 10:00 PM
+BAG:gamegg add 4957xThỏi vàng lydo: Lấy từ rương qua người at 03/29/2023 10:32 PM
+BAG:gamegg add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 10:47 PM
+BAG:gamegg add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 10:48 PM
+BAG:gamegg add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/29/2023 10:48 PM

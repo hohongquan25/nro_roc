@@ -1,0 +1,284 @@
+BAG:onekill add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/27/2023 10:49 PM
+BAG:onekill add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/27/2023 10:50 PM
+BAG:onekill add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/27/2023 10:50 PM
+BAG:onekill add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/27/2023 10:50 PM
+BAG:onekill add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/27/2023 10:50 PM
+BAG:onekill add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/27/2023 10:50 PM
+BAG:onekill add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/27/2023 10:50 PM
+BAG:onekill add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/27/2023 10:50 PM
+BAG:onekill add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/27/2023 10:54 PM
+BAG:onekill add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/27/2023 10:54 PM
+BAG:onekill add 1xMảnh Phi long lydo: Nhặt từ map at 03/27/2023 10:56 PM
+BAG:onekill add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 03/27/2023 10:56 PM
+BAG:onekill add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/27/2023 10:57 PM
+BAG:onekill add 1xĐá lục bảo lydo: Nhặt từ map at 03/27/2023 10:57 PM
+BAG:onekill add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/27/2023 10:57 PM
+BAG:onekill add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/27/2023 10:58 PM
+BAG:onekill add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/27/2023 11:00 PM
+BAG:onekill add 1xKiếm ánh sáng lydo: Mua từ cửa hàng at 03/27/2023 11:01 PM
+BAG:onekill add 25xThỏi vàng lydo: Đổi vàng at 03/27/2023 11:01 PM
+BAG:onekill add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/27/2023 11:01 PM
+BAG:onekill add 5025xThỏi vàng (old: 25) lydo: Đổi vàng at 03/27/2023 11:01 PM
+BAG:onekill add 10025xThỏi vàng (old: 5025) lydo: Đổi vàng at 03/27/2023 11:01 PM
+BAG:onekill add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/27/2023 11:02 PM
+BAG:onekill add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/27/2023 11:02 PM
+BAG:onekill add 1xCá heo lydo: Mua từ bill at 03/27/2023 11:02 PM
+BAG:onekill add 1xZenitsu lydo: Mua từ bill at 03/27/2023 11:03 PM
+BAG:onekill add 1xNezuko lydo: Mua từ bill at 03/27/2023 11:03 PM
+BAG:onekill add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/27/2023 11:04 PM
+BAG:onekill add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/27/2023 11:04 PM
+BAG:onekill add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/27/2023 11:05 PM
+BAG:onekill add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/27/2023 11:06 PM
+BAG:onekill add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/27/2023 11:06 PM
+BAG:onekill add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/27/2023 11:06 PM
+BAG:onekill add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/27/2023 11:06 PM
+BAG:onekill add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/27/2023 11:06 PM
+BAG:onekill add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/27/2023 11:06 PM
+BAG:onekill add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/27/2023 11:08 PM
+BAG:onekill add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/27/2023 11:08 PM
+BAG:onekill add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 03/27/2023 11:08 PM
+BAG:onekill add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 03/27/2023 11:08 PM
+BAG:onekill add 1xĐẻ trứng lv1 lydo: Mua từ cửa hàng at 03/27/2023 11:08 PM
+BAG:onekill add 1xĐẻ trứng lv2 lydo: Mua từ cửa hàng at 03/27/2023 11:08 PM
+BAG:onekill add 1xĐẻ trứng lv3 lydo: Mua từ cửa hàng at 03/27/2023 11:08 PM
+BAG:onekill add 1xĐẻ trứng lv4 lydo: Mua từ cửa hàng at 03/27/2023 11:08 PM
+BAG:onekill add 1xĐẻ trứng lv5 lydo: Mua từ cửa hàng at 03/27/2023 11:08 PM
+BAG:onekill add 1xĐẻ trứng lv6 lydo: Mua từ cửa hàng at 03/27/2023 11:08 PM
+BAG:onekill add 1xĐẻ trứng lv7 lydo: Mua từ cửa hàng at 03/27/2023 11:08 PM
+BAG:onekill add 1xĐá Ruby lydo: Nhặt từ map at 03/27/2023 11:13 PM
+BAG:onekill add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/27/2023 11:16 PM
+BAG:onekill add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/27/2023 11:16 PM
+BAG:onekill add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/27/2023 11:16 PM
+BAG:onekill add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/27/2023 11:16 PM
+BAG:onekill add 10xNgọc Rồng 5 sao lydo: Giftcode at 03/27/2023 11:16 PM
+BAG:onekill add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/27/2023 11:16 PM
+BAG:onekill add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/27/2023 11:16 PM
+BAG:onekill add 1xĐá Saphia lydo: Nhặt từ map at 03/27/2023 11:22 PM
+BAG:onekill add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/27/2023 11:22 PM
+BAG:onekill add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/27/2023 11:22 PM
+BAG:onekill add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/27/2023 11:23 PM
+BAG:onekill add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/27/2023 11:23 PM
+BAG:onekill add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/27/2023 11:23 PM
+BAG:onekill add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/27/2023 11:23 PM
+BAG:onekill add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/27/2023 11:23 PM
+BAG:onekill add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/27/2023 11:23 PM
+BAG:onekill add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 03/27/2023 11:23 PM
+BAG:onekill add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/27/2023 11:24 PM
+BAG:onekill add 5xMảnh Quỷ bay (old: 4) lydo: Nhặt từ map at 03/27/2023 11:24 PM
+BAG:onekill add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/27/2023 11:24 PM
+BAG:onekill add 6xMảnh Quỷ bay (old: 5) lydo: Nhặt từ map at 03/27/2023 11:24 PM
+BAG:onekill add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/27/2023 11:25 PM
+BAG:onekill add 7xMảnh Quỷ bay (old: 6) lydo: Nhặt từ map at 03/27/2023 11:25 PM
+BAG:onekill add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/27/2023 11:25 PM
+BAG:onekill add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/27/2023 11:25 PM
+BAG:onekill add 8xMảnh Quỷ bay (old: 7) lydo: Nhặt từ map at 03/27/2023 11:25 PM
+BAG:onekill add 1xGăng sợi len lydo: Nhặt từ map at 03/27/2023 11:25 PM
+BAG:onekill add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/27/2023 11:25 PM
+BAG:onekill add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/27/2023 11:26 PM
+BAG:onekill add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/27/2023 11:26 PM
+BAG:onekill add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/27/2023 11:26 PM
+BAG:onekill add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/27/2023 11:26 PM
+BAG:onekill add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/27/2023 11:26 PM
+BAG:onekill add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/27/2023 11:26 PM
+BAG:onekill add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/27/2023 11:27 PM
+BAG:onekill add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/27/2023 11:27 PM
+BAG:onekill add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/27/2023 11:27 PM
+BAG:onekill add 1xĐá Titan lydo: Nhặt từ map at 03/27/2023 11:27 PM
+BAG:onekill add 9xMảnh Quỷ bay (old: 8) lydo: Nhặt từ map at 03/27/2023 11:27 PM
+BAG:onekill add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/27/2023 11:27 PM
+BAG:onekill add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/27/2023 11:28 PM
+BAG:onekill add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/27/2023 11:28 PM
+BAG:onekill add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/27/2023 11:28 PM
+BAG:onekill add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/27/2023 11:28 PM
+BAG:onekill add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/27/2023 11:28 PM
+BAG:onekill add 10xMảnh Quỷ bay (old: 9) lydo: Nhặt từ map at 03/27/2023 11:28 PM
+BAG:onekill add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/27/2023 11:28 PM
+BAG:onekill add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 03/27/2023 11:28 PM
+BAG:onekill add 1xÁo sợi len lydo: Nhặt từ map at 03/27/2023 11:29 PM
+BAG:onekill add 1xÁo sợi len lydo: Nhặt từ map at 03/27/2023 11:29 PM
+BAG:onekill add 1xÁo sợi len lydo: Nhặt từ map at 03/27/2023 11:29 PM
+BAG:onekill add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/27/2023 11:29 PM
+BAG:onekill add 1xÁo sợi len lydo: Nhặt từ map at 03/27/2023 11:29 PM
+BAG:onekill add 11xMảnh Quỷ bay (old: 10) lydo: Nhặt từ map at 03/27/2023 11:30 PM
+BAG:onekill add 12xMảnh Quỷ bay (old: 11) lydo: Nhặt từ map at 03/27/2023 11:30 PM
+BAG:onekill add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/27/2023 11:30 PM
+BAG:onekill add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/27/2023 11:30 PM
+BAG:onekill add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/27/2023 11:30 PM
+BAG:onekill add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/27/2023 11:31 PM
+BAG:onekill add 13xMảnh Quỷ bay (old: 12) lydo: Nhặt từ map at 03/27/2023 11:31 PM
+BAG:onekill add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/27/2023 11:31 PM
+BAG:onekill add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/27/2023 11:31 PM
+BAG:onekill add 14xMảnh Quỷ bay (old: 13) lydo: Nhặt từ map at 03/27/2023 11:31 PM
+BAG:onekill add 15xMảnh Quỷ bay (old: 14) lydo: Nhặt từ map at 03/27/2023 11:31 PM
+BAG:onekill add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/27/2023 11:31 PM
+BAG:onekill add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/27/2023 11:31 PM
+BAG:onekill add 16xMảnh Quỷ bay (old: 15) lydo: Nhặt từ map at 03/27/2023 11:31 PM
+BAG:onekill add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/27/2023 11:31 PM
+BAG:onekill add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/27/2023 11:31 PM
+BAG:onekill add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/27/2023 11:32 PM
+BAG:onekill add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/27/2023 11:32 PM
+BAG:onekill add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/27/2023 11:32 PM
+BAG:onekill add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/27/2023 11:33 PM
+BAG:onekill add 1xGiầy sợi len lydo: Nhặt từ map at 03/27/2023 11:33 PM
+BAG:onekill add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/27/2023 11:33 PM
+BAG:onekill add 1xÁo sợi len lydo: Nhặt từ map at 03/27/2023 11:33 PM
+BAG:onekill add 3xMảnh Quỷ đất mẹ (old: 2) lydo: Nhặt từ map at 03/27/2023 11:33 PM
+BAG:onekill add 17xMảnh Quỷ bay (old: 16) lydo: Nhặt từ map at 03/27/2023 11:33 PM
+BAG:onekill add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/27/2023 11:33 PM
+BAG:onekill add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/27/2023 11:34 PM
+BAG:onekill add 18xMảnh Quỷ bay (old: 17) lydo: Nhặt từ map at 03/27/2023 11:34 PM
+BAG:onekill add 19xMảnh Quỷ bay (old: 18) lydo: Nhặt từ map at 03/27/2023 11:34 PM
+BAG:onekill add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/27/2023 11:34 PM
+BAG:onekill add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/27/2023 11:34 PM
+BAG:onekill add 1xGăng sợi len lydo: Nhặt từ map at 03/27/2023 11:34 PM
+BAG:onekill add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/27/2023 11:35 PM
+BAG:onekill add 4xMảnh Quỷ đất mẹ (old: 3) lydo: Nhặt từ map at 03/27/2023 11:35 PM
+BAG:onekill add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/27/2023 11:37 PM
+BAG:onekill add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/27/2023 11:38 PM
+BAG:onekill add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/27/2023 11:38 PM
+BAG:onekill add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/27/2023 11:38 PM
+BAG:onekill add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/27/2023 11:38 PM
+BAG:onekill add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/27/2023 11:38 PM
+BAG:onekill add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/27/2023 11:38 PM
+BAG:onekill add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/27/2023 11:38 PM
+BAG:onekill add 1xÁo sợi len lydo: Nhặt từ map at 03/27/2023 11:38 PM
+BAG:onekill add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:onekill add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:onekill add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:onekill add 1xQuần sợi len lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:onekill add 5xMảnh Quỷ đất mẹ (old: 4) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:onekill add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:onekill add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 03/27/2023 11:40 PM
+BAG:onekill add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/27/2023 11:40 PM
+BAG:onekill add 1xGăng sợi len lydo: Nhặt từ map at 03/27/2023 11:40 PM
+BAG:onekill add 20xMảnh Quỷ bay (old: 19) lydo: Nhặt từ map at 03/27/2023 11:40 PM
+BAG:onekill add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 03/27/2023 11:40 PM
+BAG:onekill add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/27/2023 11:40 PM
+BAG:onekill add 6xMảnh Quỷ đất mẹ (old: 5) lydo: Nhặt từ map at 03/27/2023 11:40 PM
+BAG:onekill add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:onekill add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:onekill add 7xMảnh Quỷ đất mẹ (old: 6) lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:onekill add 1xGiầy sợi len lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:onekill add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:onekill add 1xQuần sợi len lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:onekill add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:onekill add 21xMảnh Quỷ bay (old: 20) lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:onekill add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:onekill add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:onekill add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:onekill add 1xGăng sợi len lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:onekill add 24xMảnh Quỷ đất (old: 23) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:onekill add 22xMảnh Quỷ bay (old: 21) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:onekill add 25xMảnh Quỷ đất (old: 24) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:onekill add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:onekill add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:onekill add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:onekill add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:onekill add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:onekill add 23xMảnh Quỷ bay (old: 22) lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:onekill add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:onekill add 26xMảnh Quỷ đất (old: 25) lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:onekill add 27xMảnh Quỷ đất (old: 26) lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:onekill add 28xMảnh Quỷ đất (old: 27) lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:onekill add 8xMảnh Quỷ đất mẹ (old: 7) lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:onekill add 45xĐậu thần cấp 10 (old: 37) lydo: Lấy từ rương qua người at 03/27/2023 11:44 PM
+BAG:onekill add 9xMảnh Quỷ đất mẹ (old: 8) lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:onekill add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:onekill add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:onekill add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/27/2023 11:44 PM
+BAG:onekill add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:onekill add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:onekill add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:onekill add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:onekill add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:onekill add 24xMảnh Quỷ bay (old: 23) lydo: Nhặt từ map at 03/27/2023 11:45 PM
+BAG:onekill add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/27/2023 11:45 PM
+BAG:onekill add 25xMảnh Quỷ bay (old: 24) lydo: Nhặt từ map at 03/27/2023 11:45 PM
+BAG:onekill add 29xMảnh Quỷ đất (old: 28) lydo: Nhặt từ map at 03/27/2023 11:45 PM
+BAG:onekill add 26xMảnh Quỷ bay (old: 25) lydo: Nhặt từ map at 03/27/2023 11:45 PM
+BAG:onekill add 1xQuần sợi len lydo: Nhặt từ map at 03/27/2023 11:45 PM
+BAG:onekill add 27xMảnh Quỷ bay (old: 26) lydo: Nhặt từ map at 03/27/2023 11:46 PM
+BAG:onekill add 10xMảnh Quỷ đất mẹ (old: 9) lydo: Nhặt từ map at 03/27/2023 11:46 PM
+BAG:onekill add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/27/2023 11:46 PM
+BAG:onekill add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/27/2023 11:46 PM
+BAG:onekill add 1xQuần sợi len lydo: Nhặt từ map at 03/27/2023 11:46 PM
+BAG:onekill add 30xMảnh Quỷ đất (old: 29) lydo: Nhặt từ map at 03/27/2023 11:47 PM
+BAG:onekill add 28xMảnh Quỷ bay (old: 27) lydo: Nhặt từ map at 03/27/2023 11:47 PM
+BAG:onekill add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/27/2023 11:47 PM
+BAG:onekill add 1xÁo sợi len lydo: Nhặt từ map at 03/27/2023 11:48 PM
+BAG:onekill add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/27/2023 11:48 PM
+BAG:onekill add 1xGăng sợi len lydo: Nhặt từ map at 03/27/2023 11:48 PM
+BAG:onekill add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/27/2023 11:48 PM
+BAG:onekill add 11xMảnh Quỷ đất mẹ (old: 10) lydo: Nhặt từ map at 03/27/2023 11:48 PM
+BAG:onekill add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/27/2023 11:48 PM
+BAG:onekill add 31xMảnh Quỷ đất (old: 30) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:onekill add 29xMảnh Quỷ bay (old: 28) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:onekill add 32xMảnh Quỷ đất (old: 31) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:onekill add 33xMảnh Quỷ đất (old: 32) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:onekill add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:onekill add 34xMảnh Quỷ đất (old: 33) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:onekill add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:onekill add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:onekill add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:onekill add 30xMảnh Quỷ bay (old: 29) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:onekill add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:onekill add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:onekill add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:onekill add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:onekill add 35xMảnh Quỷ đất (old: 34) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:onekill add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:onekill add 1xGiầy sợi len lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:onekill add 36xMảnh Quỷ đất (old: 35) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:onekill add 31xMảnh Quỷ bay (old: 30) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:onekill add 37xMảnh Quỷ đất (old: 36) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:onekill add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:onekill add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:onekill add 1xGiầy sợi len lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:onekill add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:onekill add 1xQuần sợi len lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:onekill add 12xMảnh Quỷ đất mẹ (old: 11) lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:onekill add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:onekill add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/27/2023 11:52 PM
+BAG:onekill add 32xMảnh Quỷ bay (old: 31) lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:onekill add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:onekill add 33xMảnh Quỷ bay (old: 32) lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:onekill add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:onekill add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/27/2023 11:53 PM
+BAG:onekill add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 03/27/2023 11:53 PM
+BAG:onekill add 38xMảnh Quỷ đất (old: 37) lydo: Nhặt từ map at 03/27/2023 11:53 PM
+BAG:onekill add 34xMảnh Quỷ bay (old: 33) lydo: Nhặt từ map at 03/27/2023 11:53 PM
+BAG:onekill add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 03/27/2023 11:53 PM
+BAG:onekill add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/27/2023 11:53 PM
+BAG:onekill add 39xMảnh Quỷ đất (old: 38) lydo: Nhặt từ map at 03/27/2023 11:53 PM
+BAG:onekill add 35xMảnh Quỷ bay (old: 34) lydo: Nhặt từ map at 03/27/2023 11:53 PM
+BAG:onekill add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/27/2023 11:54 PM
+BAG:onekill add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/27/2023 11:54 PM
+BAG:onekill add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/27/2023 11:54 PM
+BAG:onekill add 1xGiầy sợi len lydo: Nhặt từ map at 03/27/2023 11:54 PM
+BAG:onekill add 36xMảnh Quỷ bay (old: 35) lydo: Nhặt từ map at 03/27/2023 11:54 PM
+BAG:onekill add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/27/2023 11:54 PM
+BAG:onekill add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/27/2023 11:54 PM
+BAG:onekill add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/27/2023 11:54 PM
+BAG:onekill add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/27/2023 11:55 PM
+BAG:onekill add 40xMảnh Quỷ đất (old: 39) lydo: Nhặt từ map at 03/27/2023 11:55 PM
+BAG:onekill add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/27/2023 11:55 PM
+BAG:onekill add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/27/2023 11:55 PM
+BAG:onekill add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/27/2023 11:55 PM
+BAG:onekill add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/27/2023 11:55 PM
+BAG:onekill add 13xMảnh Quỷ đất mẹ (old: 12) lydo: Nhặt từ map at 03/27/2023 11:55 PM
+BAG:onekill add 1xÁo sợi len lydo: Nhặt từ map at 03/27/2023 11:55 PM
+BAG:onekill add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/27/2023 11:55 PM
+BAG:onekill add 41xMảnh Quỷ đất (old: 40) lydo: Nhặt từ map at 03/27/2023 11:55 PM
+BAG:onekill add 42xMảnh Quỷ đất (old: 41) lydo: Nhặt từ map at 03/27/2023 11:56 PM
+BAG:onekill add 37xMảnh Quỷ bay (old: 36) lydo: Nhặt từ map at 03/27/2023 11:56 PM
+BAG:onekill add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/27/2023 11:56 PM
+BAG:onekill add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/27/2023 11:56 PM
+BAG:onekill add 1xÁo sợi len lydo: Nhặt từ map at 03/27/2023 11:56 PM
+BAG:onekill add 1xRada cấp 1 lydo: Nhặt từ map at 03/27/2023 11:56 PM
+BAG:onekill add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/27/2023 11:56 PM
+BAG:onekill add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/27/2023 11:57 PM
+BAG:onekill add 1xQuần sợi len lydo: Nhặt từ map at 03/27/2023 11:57 PM
+BAG:onekill add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 03/27/2023 11:59 PM
+BAG:onekill add 38xMảnh Quỷ bay (old: 37) lydo: Nhặt từ map at 03/27/2023 11:59 PM
+BAG:onekill add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/27/2023 11:59 PM
+BAG:onekill add 39xMảnh Quỷ bay (old: 38) lydo: Nhặt từ map at 03/27/2023 11:59 PM

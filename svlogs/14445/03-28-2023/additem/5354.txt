@@ -1,0 +1,536 @@
+BAG:vincen add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/28/2023 1:01 PM
+BAG:vincen add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/28/2023 1:05 PM
+BAG:vincen add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 1:09 PM
+BAG:vincen add 1xMảnh Phi long lydo: Nhặt từ map at 03/28/2023 1:11 PM
+BAG:vincen add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 03/28/2023 2:30 PM
+BAG:vincen add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 2:31 PM
+BAG:vincen add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 03/28/2023 2:32 PM
+BAG:vincen add 25xThỏi vàng lydo: Đổi vàng at 03/28/2023 2:33 PM
+BAG:vincen add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 2:33 PM
+BAG:vincen add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 2:33 PM
+BAG:vincen add 5025xThỏi vàng (old: 25) lydo: Đổi vàng at 03/28/2023 2:35 PM
+BAG:vincen add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 2:37 PM
+BAG:vincen add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 2:37 PM
+BAG:vincen add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/28/2023 2:37 PM
+BAG:vincen add 1xTanjiro lydo: Mua từ bill at 03/28/2023 2:39 PM
+BAG:vincen add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 2:39 PM
+BAG:vincen add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/28/2023 2:40 PM
+BAG:vincen add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/28/2023 2:40 PM
+BAG:vincen add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 2:40 PM
+BAG:vincen add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/28/2023 2:40 PM
+BAG:vincen add 10xNgọc Rồng 5 sao lydo: Giftcode at 03/28/2023 2:40 PM
+BAG:vincen add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/28/2023 2:40 PM
+BAG:vincen add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/28/2023 2:40 PM
+BAG:vincen add 1xAvatar VIP lydo: Ước NR at 03/28/2023 4:47 PM
+BAG:vincen add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 4:56 PM
+BAG:vincen add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 4:56 PM
+BAG:vincen add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 5:03 PM
+BAG:vincen add 1xNho tím lydo: Mua từ cửa hàng at 03/28/2023 5:11 PM
+BAG:vincen add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 5:24 PM
+BAG:vincen add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 5:25 PM
+BAG:vincen add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 5:25 PM
+BAG:vincen add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 5:25 PM
+BAG:vincen add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 5:25 PM
+BAG:vincen add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 5:25 PM
+BAG:vincen add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 5:25 PM
+BAG:vincen add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 5:25 PM
+BAG:vincen add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 5:25 PM
+BAG:vincen add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 5:25 PM
+BAG:vincen add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 5:25 PM
+BAG:vincen add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 03/28/2023 5:27 PM
+BAG:vincen add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 03/28/2023 5:27 PM
+BAG:vincen add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 5:33 PM
+BAG:vincen add 22xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 5:34 PM
+BAG:vincen add 34xĐậu thần cấp 10 (old: 22) lydo: Lấy từ rương qua người at 03/28/2023 5:34 PM
+BAG:vincen add 45xĐậu thần cấp 10 (old: 34) lydo: Lấy từ rương qua người at 03/28/2023 5:34 PM
+BAG:vincen add 57xĐậu thần cấp 10 (old: 45) lydo: Lấy từ rương qua người at 03/28/2023 5:34 PM
+BAG:vincen add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 5:43 PM
+BAG:vincen add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 5:44 PM
+BAG:vincen add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 5:45 PM
+BAG:vincen add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 5:47 PM
+BAG:vincen add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 5:48 PM
+BAG:vincen add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 5:52 PM
+BAG:vincen add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 5:53 PM
+BAG:vincen add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/28/2023 5:55 PM
+BAG:vincen add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 6:01 PM
+BAG:vincen add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/28/2023 6:05 PM
+BAG:vincen add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 6:06 PM
+BAG:vincen add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xĐẻ trứng lv1 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xĐẻ trứng lv2 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xĐẻ trứng lv3 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xĐẻ trứng lv4 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xĐẻ trứng lv5 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xĐẻ trứng lv6 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xĐẻ trứng lv7 lydo: Mua từ cửa hàng at 03/28/2023 6:09 PM
+BAG:vincen add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/28/2023 6:10 PM
+BAG:vincen add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/28/2023 6:10 PM
+BAG:vincen add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/28/2023 6:10 PM
+BAG:vincen add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/28/2023 6:10 PM
+BAG:vincen add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/28/2023 6:10 PM
+BAG:vincen add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/28/2023 6:10 PM
+BAG:vincen add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/28/2023 6:10 PM
+BAG:vincen add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 6:11 PM
+BAG:vincen add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 6:11 PM
+BAG:vincen add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 6:12 PM
+BAG:vincen add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 6:12 PM
+BAG:vincen add 1xMảnh Phi long lydo: Nhặt từ map at 03/28/2023 6:12 PM
+BAG:vincen add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 6:12 PM
+BAG:vincen add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 6:13 PM
+BAG:vincen add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 6:13 PM
+BAG:vincen add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 6:15 PM
+BAG:vincen add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:16 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 6:16 PM
+BAG:vincen add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:16 PM
+BAG:vincen add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 6:17 PM
+BAG:vincen add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 6:17 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 6:17 PM
+BAG:vincen add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/28/2023 6:18 PM
+BAG:vincen add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 6:18 PM
+BAG:vincen add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 6:20 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 6:20 PM
+BAG:vincen add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 6:20 PM
+BAG:vincen add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 6:20 PM
+BAG:vincen add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 6:20 PM
+BAG:vincen add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 6:21 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 6:21 PM
+BAG:vincen add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 6:21 PM
+BAG:vincen add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 6:21 PM
+BAG:vincen add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 6:21 PM
+BAG:vincen add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 6:21 PM
+BAG:vincen add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 6:21 PM
+BAG:vincen add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/28/2023 6:21 PM
+BAG:vincen add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 6:21 PM
+BAG:vincen add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 6:22 PM
+BAG:vincen add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 6:23 PM
+BAG:vincen add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 6:25 PM
+BAG:vincen add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 6:25 PM
+BAG:vincen add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 6:25 PM
+BAG:vincen add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/28/2023 6:25 PM
+BAG:vincen add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 6:26 PM
+BAG:vincen add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 03/28/2023 6:28 PM
+BAG:vincen add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 03/28/2023 6:28 PM
+BAG:vincen add 1xSách học Trị thương lv3 lydo: Mua từ cửa hàng at 03/28/2023 6:28 PM
+BAG:vincen add 1xSách học Trị thương lv4 lydo: Mua từ cửa hàng at 03/28/2023 6:28 PM
+BAG:vincen add 1xSách học Trị thương lv5 lydo: Mua từ cửa hàng at 03/28/2023 6:28 PM
+BAG:vincen add 1xSách học Trị thương lv6 lydo: Mua từ cửa hàng at 03/28/2023 6:28 PM
+BAG:vincen add 1xSách học Trị thương lv7 lydo: Mua từ cửa hàng at 03/28/2023 6:28 PM
+BAG:vincen add 1xZenitsu lydo: Mua từ bill at 03/28/2023 6:36 PM
+BAG:vincen add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 6:37 PM
+BAG:vincen add 16xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 6:37 PM
+BAG:vincen add 28xĐậu thần cấp 10 (old: 16) lydo: Lấy từ rương qua người at 03/28/2023 6:37 PM
+BAG:vincen add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 6:37 PM
+BAG:vincen add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 6:37 PM
+BAG:vincen add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 6:38 PM
+BAG:vincen add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 6:38 PM
+BAG:vincen add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 6:39 PM
+BAG:vincen add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 6:39 PM
+BAG:vincen add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 6:39 PM
+BAG:vincen add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 6:39 PM
+BAG:vincen add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/28/2023 6:39 PM
+BAG:vincen add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/28/2023 6:40 PM
+BAG:vincen add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 6:41 PM
+BAG:vincen add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 6:42 PM
+BAG:vincen add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/28/2023 6:42 PM
+BAG:vincen add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/28/2023 6:42 PM
+BAG:vincen add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/28/2023 6:43 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:43 PM
+BAG:vincen add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/28/2023 6:43 PM
+BAG:vincen add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 03/28/2023 6:43 PM
+BAG:vincen add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 03/28/2023 6:43 PM
+BAG:vincen add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 6:43 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:43 PM
+BAG:vincen add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:44 PM
+BAG:vincen add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 6:44 PM
+BAG:vincen add 12xMảnh Lợn lòi (old: 11) lydo: Nhặt từ map at 03/28/2023 6:44 PM
+BAG:vincen add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/28/2023 6:44 PM
+BAG:vincen add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:vincen add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:vincen add 13xMảnh Lợn lòi (old: 12) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:vincen add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:vincen add 14xMảnh Lợn lòi (old: 13) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:vincen add 15xMảnh Lợn lòi (old: 14) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:vincen add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:vincen add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/28/2023 6:47 PM
+BAG:vincen add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 6:47 PM
+BAG:vincen add 16xMảnh Lợn lòi (old: 15) lydo: Nhặt từ map at 03/28/2023 6:48 PM
+BAG:vincen add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 6:48 PM
+BAG:vincen add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 6:49 PM
+BAG:vincen add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 6:49 PM
+BAG:vincen add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 6:49 PM
+BAG:vincen add 17xMảnh Lợn lòi (old: 16) lydo: Nhặt từ map at 03/28/2023 6:49 PM
+BAG:vincen add 18xMảnh Lợn lòi (old: 17) lydo: Nhặt từ map at 03/28/2023 6:49 PM
+BAG:vincen add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 6:49 PM
+BAG:vincen add 19xMảnh Lợn lòi (old: 18) lydo: Nhặt từ map at 03/28/2023 6:49 PM
+BAG:vincen add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/28/2023 6:49 PM
+BAG:vincen add 20xMảnh Lợn lòi (old: 19) lydo: Nhặt từ map at 03/28/2023 6:50 PM
+BAG:vincen add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/28/2023 6:50 PM
+BAG:vincen add 21xMảnh Lợn lòi (old: 20) lydo: Nhặt từ map at 03/28/2023 6:51 PM
+BAG:vincen add 22xMảnh Lợn lòi (old: 21) lydo: Nhặt từ map at 03/28/2023 6:51 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:51 PM
+BAG:vincen add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 6:51 PM
+BAG:vincen add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 6:51 PM
+BAG:vincen add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 6:51 PM
+BAG:vincen add 23xMảnh Lợn lòi (old: 22) lydo: Nhặt từ map at 03/28/2023 6:52 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 6:52 PM
+BAG:vincen add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 6:53 PM
+BAG:vincen add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 6:54 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:55 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 6:55 PM
+BAG:vincen add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 6:56 PM
+BAG:vincen add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 6:56 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 6:56 PM
+BAG:vincen add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 6:56 PM
+BAG:vincen add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 6:57 PM
+BAG:vincen add 1xDiều rồng lydo: Mua từ cửa hàng at 03/28/2023 7:17 PM
+BAG:vincen add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 7:18 PM
+BAG:vincen add 1xGăng vàng Zealot lydo: Mua từ cửa hàng at 03/28/2023 7:20 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 7:30 PM
+BAG:vincen add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 7:31 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 7:31 PM
+BAG:vincen add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 7:31 PM
+BAG:vincen add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 7:31 PM
+BAG:vincen add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 7:31 PM
+BAG:vincen add 1xCá heo lydo: Mua từ bill at 03/28/2023 7:35 PM
+BAG:vincen add 1xPhóng lợn lydo: Mua từ cửa hàng at 03/28/2023 7:36 PM
+BAG:vincen add 96xNgọc Rồng 3 sao (old: 46) lydo: Giftcode at 03/28/2023 9:24 PM
+BAG:vincen add 50xSao pha lê lydo: Giftcode at 03/28/2023 9:24 PM
+BAG:vincen add 50xSao pha lê lydo: Giftcode at 03/28/2023 9:24 PM
+BAG:vincen add 99xCuồng nộ lydo: Giftcode at 03/28/2023 9:24 PM
+BAG:vincen add 4953xMảnh vỡ bông tai lydo: Giftcode at 03/28/2023 9:24 PM
+BAG:vincen add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 9:31 PM
+BAG:vincen add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 9:34 PM
+BAG:vincen add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 9:35 PM
+BAG:vincen add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 9:36 PM
+BAG:vincen add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 9:36 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 9:36 PM
+BAG:vincen add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 9:36 PM
+BAG:vincen add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/28/2023 9:37 PM
+BAG:vincen add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/28/2023 9:37 PM
+BAG:vincen add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 9:38 PM
+BAG:vincen add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 9:38 PM
+BAG:vincen add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 9:38 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 9:39 PM
+BAG:vincen add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/28/2023 9:39 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 9:39 PM
+BAG:vincen add 1xMảnh Phi long lydo: Nhặt từ map at 03/28/2023 9:40 PM
+BAG:vincen add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 9:40 PM
+BAG:vincen add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 9:40 PM
+BAG:vincen add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 03/28/2023 9:40 PM
+BAG:vincen add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/28/2023 9:40 PM
+BAG:vincen add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/28/2023 9:40 PM
+BAG:vincen add 1xGhế bay lydo: Mua từ cửa hàng at 03/28/2023 9:41 PM
+BAG:vincen add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 9:45 PM
+BAG:vincen add 3xMảnh Phi long (old: 2) lydo: Nhặt từ map at 03/28/2023 9:46 PM
+BAG:vincen add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/28/2023 9:46 PM
+BAG:vincen add 4xMảnh Phi long (old: 3) lydo: Nhặt từ map at 03/28/2023 9:47 PM
+BAG:vincen add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/28/2023 9:47 PM
+BAG:vincen add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 9:47 PM
+BAG:vincen add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/28/2023 9:47 PM
+BAG:vincen add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/28/2023 9:48 PM
+BAG:vincen add 5xMảnh Phi long (old: 4) lydo: Nhặt từ map at 03/28/2023 9:48 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 9:48 PM
+BAG:vincen add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 9:48 PM
+BAG:vincen add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:vincen add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:vincen add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:vincen add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:vincen add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:vincen add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:vincen add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:vincen add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 9:50 PM
+BAG:vincen add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 9:50 PM
+BAG:vincen add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/28/2023 9:50 PM
+BAG:vincen add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/28/2023 9:50 PM
+BAG:vincen add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 9:51 PM
+BAG:vincen add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/28/2023 9:51 PM
+BAG:vincen add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/28/2023 9:52 PM
+BAG:vincen add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/28/2023 9:52 PM
+BAG:vincen add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 9:52 PM
+BAG:vincen add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/28/2023 9:52 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 9:52 PM
+BAG:vincen add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:vincen add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:vincen add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:vincen add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:vincen add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:vincen add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:vincen add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 9:54 PM
+BAG:vincen add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 9:54 PM
+BAG:vincen add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 9:54 PM
+BAG:vincen add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/28/2023 9:54 PM
+BAG:vincen add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/28/2023 9:55 PM
+BAG:vincen add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 9:55 PM
+BAG:vincen add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/28/2023 9:56 PM
+BAG:vincen add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/28/2023 9:56 PM
+BAG:vincen add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 9:56 PM
+BAG:vincen add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/28/2023 9:56 PM
+BAG:vincen add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/28/2023 9:56 PM
+BAG:vincen add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/28/2023 9:56 PM
+BAG:vincen add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/28/2023 9:57 PM
+BAG:vincen add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/28/2023 9:57 PM
+BAG:vincen add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/28/2023 9:58 PM
+BAG:vincen add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/28/2023 9:59 PM
+BAG:vincen add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 9:59 PM
+BAG:vincen add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/28/2023 9:59 PM
+BAG:vincen add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/28/2023 9:59 PM
+BAG:vincen add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/28/2023 10:00 PM
+BAG:vincen add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 10:00 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:00 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:00 PM
+BAG:vincen add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 10:00 PM
+BAG:vincen add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 10:00 PM
+BAG:vincen add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 10:01 PM
+BAG:vincen add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 10:01 PM
+BAG:vincen add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/28/2023 10:01 PM
+BAG:vincen add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/28/2023 10:01 PM
+BAG:vincen add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:02 PM
+BAG:vincen add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/28/2023 10:02 PM
+BAG:vincen add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 10:02 PM
+BAG:vincen add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/28/2023 10:02 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:03 PM
+BAG:vincen add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/28/2023 10:03 PM
+BAG:vincen add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/28/2023 10:03 PM
+BAG:vincen add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 10:03 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:05 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:05 PM
+BAG:vincen add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 10:05 PM
+BAG:vincen add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/28/2023 10:06 PM
+BAG:vincen add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/28/2023 10:06 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 10:06 PM
+BAG:vincen add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 10:06 PM
+BAG:vincen add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/28/2023 10:06 PM
+BAG:vincen add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 10:06 PM
+BAG:vincen add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 10:07 PM
+BAG:vincen add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/28/2023 10:07 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:07 PM
+BAG:vincen add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 10:08 PM
+BAG:vincen add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/28/2023 10:08 PM
+BAG:vincen add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/28/2023 10:08 PM
+BAG:vincen add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 10:09 PM
+BAG:vincen add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 10:09 PM
+BAG:vincen add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/28/2023 10:09 PM
+BAG:vincen add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 10:09 PM
+BAG:vincen add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/28/2023 10:10 PM
+BAG:vincen add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/28/2023 10:10 PM
+BAG:vincen add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 10:10 PM
+BAG:vincen add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 10:10 PM
+BAG:vincen add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:13 PM
+BAG:vincen add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 10:16 PM
+BAG:vincen add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 10:16 PM
+BAG:vincen add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 10:16 PM
+BAG:vincen add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 10:16 PM
+BAG:vincen add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 10:16 PM
+BAG:vincen add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 10:16 PM
+BAG:vincen add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:16 PM
+BAG:vincen add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 10:17 PM
+BAG:vincen add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 10:17 PM
+BAG:vincen add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 10:17 PM
+BAG:vincen add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 10:17 PM
+BAG:vincen add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 10:17 PM
+BAG:vincen add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 10:17 PM
+BAG:vincen add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 10:17 PM
+BAG:vincen add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 10:17 PM
+BAG:vincen add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 10:17 PM
+BAG:vincen add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 10:17 PM
+BAG:vincen add 1xGiày vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:17 PM
+BAG:vincen add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:17 PM
+BAG:vincen add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:18 PM
+BAG:vincen add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 10:18 PM
+BAG:vincen add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 10:18 PM
+BAG:vincen add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 10:19 PM
+BAG:vincen add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 10:19 PM
+BAG:vincen add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 10:19 PM
+BAG:vincen add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 10:19 PM
+BAG:vincen add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:19 PM
+BAG:vincen add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 10:19 PM
+BAG:vincen add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 10:19 PM
+BAG:vincen add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 10:19 PM
+BAG:vincen add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 10:19 PM
+BAG:vincen add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 10:19 PM
+BAG:vincen add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 10:19 PM
+BAG:vincen add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/28/2023 10:20 PM
+BAG:vincen add 1xGiầy Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 10:20 PM
+BAG:vincen add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/28/2023 10:21 PM
+BAG:vincen add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:23 PM
+BAG:vincen add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:23 PM
+BAG:vincen add 1xGăng vàng Zealot lydo: Lấy từ body vào hành trang at 03/28/2023 10:23 PM
+BAG:vincen add 1xGiày vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:24 PM
+BAG:vincen add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 10:24 PM
+BAG:vincen add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 10:24 PM
+BAG:vincen add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:25 PM
+BAG:vincen add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 10:26 PM
+BAG:vincen add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:26 PM
+BAG:vincen add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:27 PM
+BAG:vincen add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:27 PM
+BAG:vincen add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 10:27 PM
+BAG:vincen add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 10:27 PM
+BAG:vincen add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 10:27 PM
+BAG:vincen add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 10:27 PM
+BAG:vincen add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 10:27 PM
+BAG:vincen add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 10:27 PM
+BAG:vincen add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 10:27 PM
+BAG:vincen add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 10:27 PM
+BAG:vincen add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:28 PM
+BAG:vincen add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 10:28 PM
+BAG:vincen add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 10:28 PM
+BAG:vincen add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 10:28 PM
+BAG:vincen add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 10:28 PM
+BAG:vincen add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 10:28 PM
+BAG:vincen add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 10:28 PM
+BAG:vincen add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 10:28 PM
+BAG:vincen add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 10:28 PM
+BAG:vincen add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 1xGăng Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 10:29 PM
+BAG:vincen add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 10:29 PM
+BAG:vincen add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/28/2023 10:30 PM
+BAG:vincen add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 10:30 PM
+BAG:vincen add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/28/2023 10:31 PM
+BAG:vincen add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:35 PM
+BAG:vincen add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:35 PM
+BAG:vincen add 1xGiày vàng Zealot lydo: Lấy từ body vào hành trang at 03/28/2023 10:35 PM
+BAG:vincen add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 10:35 PM
+BAG:vincen add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/28/2023 10:36 PM
+BAG:vincen add 1xGăng vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:41 PM
+BAG:vincen add 1xGăng vàng Zealot lydo: Lấy từ body vào hành trang at 03/28/2023 10:41 PM
+BAG:vincen add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 10:41 PM
+BAG:vincen add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 10:41 PM
+BAG:vincen add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/28/2023 10:41 PM
+BAG:vincen add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/28/2023 10:41 PM
+BAG:vincen add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/28/2023 10:41 PM
+BAG:vincen add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/28/2023 10:41 PM
+BAG:vincen add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/28/2023 10:42 PM
+BAG:vincen add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/28/2023 10:43 PM
+BAG:vincen add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/28/2023 10:43 PM
+BAG:vincen add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/28/2023 10:43 PM
+BAG:vincen add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/28/2023 10:43 PM
+BAG:vincen add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:43 PM
+BAG:vincen add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/28/2023 10:43 PM
+BAG:vincen add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:44 PM
+BAG:vincen add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/28/2023 10:44 PM
+BAG:vincen add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:45 PM
+BAG:vincen add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:45 PM
+BAG:vincen add 1xGăng Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 10:46 PM
+BAG:vincen add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 10:46 PM
+BAG:vincen add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/28/2023 10:47 PM

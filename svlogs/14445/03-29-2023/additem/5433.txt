@@ -1,0 +1,679 @@
+BAG:erzanek add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 03/29/2023 6:15 AM
+BAG:erzanek add 4xMảnh Quỷ đất mẹ (old: 3) lydo: Nhặt từ map at 03/29/2023 10:07 AM
+BAG:erzanek add 5xMảnh Quỷ bay (old: 4) lydo: Nhặt từ map at 03/29/2023 10:08 AM
+BAG:erzanek add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:erzanek add 6xMảnh Quỷ bay (old: 5) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:erzanek add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:erzanek add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:erzanek add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:erzanek add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:erzanek add 7xMảnh Quỷ bay (old: 6) lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:erzanek add 8xMảnh Quỷ bay (old: 7) lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:erzanek add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:erzanek add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/29/2023 11:51 AM
+BAG:erzanek add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/29/2023 11:51 AM
+BAG:erzanek add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 11:52 AM
+BAG:erzanek add 5xMảnh Quỷ đất mẹ (old: 4) lydo: Nhặt từ map at 03/29/2023 11:53 AM
+BAG:erzanek add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/29/2023 11:53 AM
+BAG:erzanek add 9xMảnh Quỷ bay (old: 8) lydo: Nhặt từ map at 03/29/2023 11:53 AM
+BAG:erzanek add 10xMảnh Quỷ bay (old: 9) lydo: Nhặt từ map at 03/29/2023 11:53 AM
+BAG:erzanek add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/29/2023 11:54 AM
+BAG:erzanek add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:54 AM
+BAG:erzanek add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/29/2023 11:55 AM
+BAG:erzanek add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/29/2023 11:56 AM
+BAG:erzanek add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 11:56 AM
+BAG:erzanek add 11xMảnh Quỷ bay (old: 10) lydo: Nhặt từ map at 03/29/2023 11:57 AM
+BAG:erzanek add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/29/2023 11:57 AM
+BAG:erzanek add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/29/2023 12:00 PM
+BAG:erzanek add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/29/2023 12:01 PM
+BAG:erzanek add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/29/2023 6:05 PM
+BAG:erzanek add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/29/2023 6:06 PM
+BAG:erzanek add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 6:06 PM
+BAG:erzanek add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 6:06 PM
+BAG:erzanek add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 6:06 PM
+BAG:erzanek add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/29/2023 6:07 PM
+BAG:erzanek add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 03/29/2023 6:07 PM
+BAG:erzanek add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 6:08 PM
+BAG:erzanek add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/29/2023 6:08 PM
+BAG:erzanek add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/29/2023 6:08 PM
+BAG:erzanek add 12xMảnh Quỷ bay (old: 11) lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:erzanek add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:erzanek add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:erzanek add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:erzanek add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:erzanek add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:erzanek add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:erzanek add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:erzanek add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/29/2023 6:10 PM
+BAG:erzanek add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/29/2023 6:10 PM
+BAG:erzanek add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 6:10 PM
+BAG:erzanek add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/29/2023 6:10 PM
+BAG:erzanek add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 03/29/2023 6:10 PM
+BAG:erzanek add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/29/2023 6:10 PM
+BAG:erzanek add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/29/2023 6:11 PM
+BAG:erzanek add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/29/2023 6:11 PM
+BAG:erzanek add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/29/2023 6:11 PM
+BAG:erzanek add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/29/2023 6:11 PM
+BAG:erzanek add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/29/2023 6:11 PM
+BAG:erzanek add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 03/29/2023 6:11 PM
+BAG:erzanek add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/29/2023 6:12 PM
+BAG:erzanek add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/29/2023 6:12 PM
+BAG:erzanek add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/29/2023 6:12 PM
+BAG:erzanek add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/29/2023 6:12 PM
+BAG:erzanek add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/29/2023 6:12 PM
+BAG:erzanek add 10080xThỏi vàng (old: 5080) lydo: Đổi vàng at 03/29/2023 6:15 PM
+BAG:erzanek add 99xThỏi vàng lydo: Tách thỏi vàng at 03/29/2023 6:17 PM
+BAG:erzanek add 99xThỏi vàng lydo: Tách thỏi vàng at 03/29/2023 6:17 PM
+BAG:erzanek add 99xThỏi vàng lydo: Tách thỏi vàng at 03/29/2023 6:17 PM
+BAG:erzanek add 99xThỏi vàng lydo: Tách thỏi vàng at 03/29/2023 6:17 PM
+BAG:erzanek add 13xNgọc Rồng 4 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:19 PM
+BAG:erzanek add 20xNgọc Rồng 5 sao (old: 19) lydo: Lấy từ lucky box at 03/29/2023 6:19 PM
+BAG:erzanek add 23xNgọc Rồng 6 sao (old: 22) lydo: Lấy từ lucky box at 03/29/2023 6:19 PM
+BAG:erzanek add 14xNgọc Rồng 4 sao (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:19 PM
+BAG:erzanek add 21xNgọc Rồng 5 sao (old: 20) lydo: Lấy từ lucky box at 03/29/2023 6:19 PM
+BAG:erzanek add 15xNgọc Rồng 4 sao (old: 14) lydo: Lấy từ lucky box at 03/29/2023 6:19 PM
+BAG:erzanek add 24xNgọc Rồng 6 sao (old: 23) lydo: Lấy từ lucky box at 03/29/2023 6:19 PM
+BAG:erzanek add 25xNgọc Rồng 6 sao (old: 24) lydo: Lấy từ lucky box at 03/29/2023 6:19 PM
+BAG:erzanek add 22xNgọc Rồng 5 sao (old: 21) lydo: Lấy từ lucky box at 03/29/2023 6:20 PM
+BAG:erzanek add 13xNgọc Rồng 7 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:20 PM
+BAG:erzanek add 14xNgọc Rồng 7 sao (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:20 PM
+BAG:erzanek add 15xNgọc Rồng 7 sao (old: 14) lydo: Lấy từ lucky box at 03/29/2023 6:22 PM
+BAG:erzanek add 16xNgọc Rồng 7 sao (old: 15) lydo: Lấy từ lucky box at 03/29/2023 6:22 PM
+BAG:erzanek add 17xNgọc Rồng 7 sao (old: 16) lydo: Lấy từ lucky box at 03/29/2023 6:23 PM
+BAG:erzanek add 26xNgọc Rồng 6 sao (old: 25) lydo: Lấy từ lucky box at 03/29/2023 6:23 PM
+BAG:erzanek add 27xNgọc Rồng 6 sao (old: 26) lydo: Lấy từ lucky box at 03/29/2023 6:23 PM
+BAG:erzanek add 28xNgọc Rồng 6 sao (old: 27) lydo: Lấy từ lucky box at 03/29/2023 6:25 PM
+BAG:erzanek add 18xNgọc Rồng 7 sao (old: 17) lydo: Lấy từ lucky box at 03/29/2023 6:25 PM
+BAG:erzanek add 29xNgọc Rồng 6 sao (old: 28) lydo: Lấy từ lucky box at 03/29/2023 6:25 PM
+BAG:erzanek add 30xNgọc Rồng 6 sao (old: 29) lydo: Lấy từ lucky box at 03/29/2023 6:25 PM
+BAG:erzanek add 19xNgọc Rồng 7 sao (old: 18) lydo: Lấy từ lucky box at 03/29/2023 6:25 PM
+BAG:erzanek add 20xNgọc Rồng 7 sao (old: 19) lydo: Lấy từ lucky box at 03/29/2023 6:25 PM
+BAG:erzanek add 21xNgọc Rồng 7 sao (old: 20) lydo: Lấy từ lucky box at 03/29/2023 6:27 PM
+BAG:erzanek add 31xNgọc Rồng 6 sao (old: 30) lydo: Lấy từ lucky box at 03/29/2023 6:27 PM
+BAG:erzanek add 32xNgọc Rồng 6 sao (old: 31) lydo: Lấy từ lucky box at 03/29/2023 6:28 PM
+BAG:erzanek add 22xNgọc Rồng 7 sao (old: 21) lydo: Lấy từ lucky box at 03/29/2023 6:28 PM
+BAG:erzanek add 99xThỏi vàng lydo: Tách thỏi vàng at 03/29/2023 6:28 PM
+BAG:erzanek add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/29/2023 6:29 PM
+BAG:erzanek add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/29/2023 6:30 PM
+BAG:erzanek add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/29/2023 6:30 PM
+BAG:erzanek add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/29/2023 6:30 PM
+BAG:erzanek add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/29/2023 6:30 PM
+BAG:erzanek add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/29/2023 6:30 PM
+BAG:erzanek add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/29/2023 6:30 PM
+BAG:erzanek add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/29/2023 6:30 PM
+BAG:erzanek add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/29/2023 6:30 PM
+BAG:erzanek add 5xMảnh Quỷ bay (old: 4) lydo: Nhặt từ map at 03/29/2023 6:30 PM
+BAG:erzanek add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/29/2023 6:30 PM
+BAG:erzanek add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/29/2023 6:31 PM
+BAG:erzanek add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/29/2023 6:31 PM
+BAG:erzanek add 33xNgọc Rồng 6 sao (old: 32) lydo: Nhặt từ map at 03/29/2023 6:31 PM
+BAG:erzanek add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 6:31 PM
+BAG:erzanek add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 6xMảnh Quỷ bay (old: 5) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 7xMảnh Quỷ bay (old: 6) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 8xMảnh Quỷ bay (old: 7) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 9xMảnh Quỷ bay (old: 8) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 10xMảnh Quỷ bay (old: 9) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:erzanek add 11xMảnh Quỷ bay (old: 10) lydo: Nhặt từ map at 03/29/2023 6:33 PM
+BAG:erzanek add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/29/2023 6:33 PM
+BAG:erzanek add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/29/2023 6:33 PM
+BAG:erzanek add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 6:33 PM
+BAG:erzanek add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/29/2023 6:33 PM
+BAG:erzanek add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/29/2023 6:33 PM
+BAG:erzanek add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:erzanek add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:erzanek add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:erzanek add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:erzanek add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:erzanek add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:erzanek add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:erzanek add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:erzanek add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:erzanek add 5xMảnh Quỷ bay (old: 4) lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:erzanek add 34xNgọc Rồng 6 sao (old: 33) lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:erzanek add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:erzanek add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:erzanek add 6xMảnh Quỷ bay (old: 5) lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:erzanek add 7xMảnh Quỷ bay (old: 6) lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:erzanek add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:erzanek add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:erzanek add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:erzanek add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:erzanek add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:erzanek add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/29/2023 6:36 PM
+BAG:erzanek add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 6:36 PM
+BAG:erzanek add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 6:36 PM
+BAG:erzanek add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 6:36 PM
+BAG:erzanek add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 6:36 PM
+BAG:erzanek add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 6:37 PM
+BAG:erzanek add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 6:37 PM
+BAG:erzanek add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/29/2023 6:38 PM
+BAG:erzanek add 35xNgọc Rồng 6 sao (old: 34) lydo: Nhặt từ map at 03/29/2023 6:39 PM
+BAG:erzanek add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/29/2023 6:39 PM
+BAG:erzanek add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/29/2023 6:39 PM
+BAG:erzanek add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/29/2023 6:40 PM
+BAG:erzanek add 23xNgọc Rồng 7 sao (old: 22) lydo: Lấy từ lucky box at 03/29/2023 7:03 PM
+BAG:erzanek add 10xNgọc Rồng 7 sao lydo: (GD) Nhận từ holora at 03/29/2023 7:07 PM
+BAG:erzanek add 34xNgọc Rồng 7 sao (old: 33) lydo: Lấy từ lucky box at 03/29/2023 7:17 PM
+BAG:erzanek add 35xNgọc Rồng 7 sao (old: 34) lydo: Lấy từ lucky box at 03/29/2023 7:17 PM
+BAG:erzanek add 36xNgọc Rồng 7 sao (old: 35) lydo: Lấy từ lucky box at 03/29/2023 7:17 PM
+BAG:erzanek add 37xNgọc Rồng 7 sao (old: 36) lydo: Lấy từ lucky box at 03/29/2023 7:17 PM
+BAG:erzanek add 38xNgọc Rồng 7 sao (old: 37) lydo: Lấy từ lucky box at 03/29/2023 7:22 PM
+BAG:erzanek add 39xNgọc Rồng 7 sao (old: 38) lydo: Lấy từ lucky box at 03/29/2023 7:22 PM
+BAG:erzanek add 36xNgọc Rồng 6 sao (old: 35) lydo: Lấy từ lucky box at 03/29/2023 7:22 PM
+BAG:erzanek add 37xNgọc Rồng 6 sao (old: 36) lydo: Lấy từ lucky box at 03/29/2023 7:22 PM
+BAG:erzanek add 38xNgọc Rồng 6 sao (old: 37) lydo: Lấy từ lucky box at 03/29/2023 7:22 PM
+BAG:erzanek add 39xNgọc Rồng 6 sao (old: 38) lydo: Lấy từ lucky box at 03/29/2023 7:22 PM
+BAG:erzanek add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/29/2023 7:27 PM
+BAG:erzanek add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 7:27 PM
+BAG:erzanek add 99xThỏi vàng lydo: Tách thỏi vàng at 03/29/2023 7:29 PM
+BAG:erzanek add 99xThỏi vàng lydo: Tách thỏi vàng at 03/29/2023 7:29 PM
+BAG:erzanek add 99xThỏi vàng lydo: Tách thỏi vàng at 03/29/2023 7:30 PM
+BAG:erzanek add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 7:32 PM
+BAG:erzanek add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/29/2023 7:32 PM
+BAG:erzanek add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 7:32 PM
+BAG:erzanek add 31xNgọc Rồng 7 sao lydo: (GD) Nhận từ holorai at 03/29/2023 7:41 PM
+BAG:erzanek add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 7:49 PM
+BAG:erzanek add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/29/2023 7:49 PM
+BAG:erzanek add 1xGiày lông đỏ lydo: Lấy từ body đệ vào hành trang at 03/29/2023 7:49 PM
+BAG:erzanek add 1xNhẫn Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/29/2023 7:49 PM
+BAG:erzanek add 1xÁo lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 7:49 PM
+BAG:erzanek add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/29/2023 7:51 PM
+BAG:erzanek add 99xThỏi vàng lydo: Tách thỏi vàng at 03/29/2023 7:51 PM
+BAG:erzanek add 99xThỏi vàng lydo: Tách thỏi vàng at 03/29/2023 7:51 PM
+BAG:erzanek add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/29/2023 7:52 PM
+BAG:erzanek add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/29/2023 7:58 PM
+BAG:erzanek add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/29/2023 7:58 PM
+BAG:erzanek add 10xNgọc Rồng 7 sao lydo: (GD) Nhận từ conngang at 03/29/2023 8:06 PM
+BAG:erzanek add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 8:06 PM
+BAG:erzanek add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 8:07 PM
+BAG:erzanek add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 8:07 PM
+BAG:erzanek add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/29/2023 8:08 PM
+BAG:erzanek add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:08 PM
+BAG:erzanek add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:09 PM
+BAG:erzanek add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:10 PM
+BAG:erzanek add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:10 PM
+BAG:erzanek add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:10 PM
+BAG:erzanek add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:10 PM
+BAG:erzanek add 8xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:12 PM
+BAG:erzanek add 9xNgọc Rồng 7 sao (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:12 PM
+BAG:erzanek add 10xNgọc Rồng 7 sao (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:12 PM
+BAG:erzanek add 11xNgọc Rồng 7 sao (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:14 PM
+BAG:erzanek add 12xNgọc Rồng 7 sao (old: 11) lydo: Lấy từ lucky box at 03/29/2023 8:14 PM
+BAG:erzanek add 13xNgọc Rồng 7 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 8:14 PM
+BAG:erzanek add 14xNgọc Rồng 7 sao (old: 13) lydo: Lấy từ lucky box at 03/29/2023 8:15 PM
+BAG:erzanek add 15xNgọc Rồng 7 sao (old: 14) lydo: Lấy từ lucky box at 03/29/2023 8:15 PM
+BAG:erzanek add 16xNgọc Rồng 7 sao (old: 15) lydo: Lấy từ lucky box at 03/29/2023 8:15 PM
+BAG:erzanek add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 8:15 PM
+BAG:erzanek add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/29/2023 8:16 PM
+BAG:erzanek add 1xÁo lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 8:16 PM
+BAG:erzanek add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/29/2023 8:17 PM
+BAG:erzanek add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/29/2023 8:36 PM
+BAG:erzanek add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/29/2023 8:39 PM
+BAG:erzanek add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/29/2023 8:39 PM
+BAG:erzanek add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/29/2023 8:40 PM
+BAG:erzanek add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/29/2023 8:40 PM
+BAG:erzanek add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/29/2023 8:40 PM
+BAG:erzanek add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/29/2023 8:42 PM
+BAG:erzanek add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/29/2023 8:42 PM
+BAG:erzanek add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/29/2023 8:44 PM
+BAG:erzanek add 40xNgọc Rồng 6 sao (old: 39) lydo: Nhặt từ map at 03/29/2023 8:45 PM
+BAG:erzanek add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/29/2023 8:45 PM
+BAG:erzanek add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/29/2023 8:46 PM
+BAG:erzanek add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/29/2023 8:47 PM
+BAG:erzanek add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/29/2023 8:47 PM
+BAG:erzanek add 23xNgọc Rồng 5 sao (old: 22) lydo: HQT at 03/29/2023 8:48 PM
+BAG:erzanek add 6xBổ huyết (old: 5) lydo: HQT at 03/29/2023 8:48 PM
+BAG:erzanek add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/29/2023 8:48 PM
+BAG:erzanek add 3xCuồng nộ (old: 2) lydo: HQT at 03/29/2023 8:48 PM
+BAG:erzanek add 41xNgọc Rồng 6 sao (old: 40) lydo: HQT at 03/29/2023 8:48 PM
+BAG:erzanek add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/29/2023 8:49 PM
+BAG:erzanek add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/29/2023 8:49 PM
+BAG:erzanek add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/29/2023 8:49 PM
+BAG:erzanek add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/29/2023 8:50 PM
+BAG:erzanek add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/29/2023 8:50 PM
+BAG:erzanek add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/29/2023 8:50 PM
+BAG:erzanek add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/29/2023 8:51 PM
+BAG:erzanek add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/29/2023 8:51 PM
+BAG:erzanek add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/29/2023 8:51 PM
+BAG:erzanek add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/29/2023 8:55 PM
+BAG:erzanek add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:55 PM
+BAG:erzanek add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:56 PM
+BAG:erzanek add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:56 PM
+BAG:erzanek add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:erzanek add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:58 PM
+BAG:erzanek add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:58 PM
+BAG:erzanek add 8xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:58 PM
+BAG:erzanek add 9xNgọc Rồng 7 sao (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:59 PM
+BAG:erzanek add 10xNgọc Rồng 7 sao (old: 9) lydo: Lấy từ lucky box at 03/29/2023 9:01 PM
+BAG:erzanek add 11xNgọc Rồng 7 sao (old: 10) lydo: Lấy từ lucky box at 03/29/2023 9:01 PM
+BAG:erzanek add 12xNgọc Rồng 7 sao (old: 11) lydo: Lấy từ lucky box at 03/29/2023 9:01 PM
+BAG:erzanek add 13xNgọc Rồng 7 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 9:02 PM
+BAG:erzanek add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:erzanek add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/29/2023 9:06 PM
+BAG:erzanek add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 24xNgọc Rồng 5 sao (old: 23) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 42xNgọc Rồng 6 sao (old: 41) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 16xNgọc Rồng 4 sao (old: 15) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 43xNgọc Rồng 6 sao (old: 42) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 44xNgọc Rồng 6 sao (old: 43) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 17xNgọc Rồng 4 sao (old: 16) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 8xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 45xNgọc Rồng 6 sao (old: 44) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 18xNgọc Rồng 4 sao (old: 17) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 9xNgọc Rồng 7 sao (old: 8) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 10xNgọc Rồng 7 sao (old: 9) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 11xNgọc Rồng 7 sao (old: 10) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 25xNgọc Rồng 5 sao (old: 24) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 46xNgọc Rồng 6 sao (old: 45) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 47xNgọc Rồng 6 sao (old: 46) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 26xNgọc Rồng 5 sao (old: 25) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 12xNgọc Rồng 7 sao (old: 11) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 27xNgọc Rồng 5 sao (old: 26) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 13xNgọc Rồng 7 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 48xNgọc Rồng 6 sao (old: 47) lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:09 PM
+BAG:erzanek add 14xNgọc Rồng 7 sao (old: 13) lydo: Lấy từ lucky box at 03/29/2023 9:12 PM
+BAG:erzanek add 15xNgọc Rồng 7 sao (old: 14) lydo: Lấy từ lucky box at 03/29/2023 9:12 PM
+BAG:erzanek add 16xNgọc Rồng 7 sao (old: 15) lydo: Lấy từ lucky box at 03/29/2023 9:12 PM
+BAG:erzanek add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 9:14 PM
+BAG:erzanek add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/29/2023 9:14 PM
+BAG:erzanek add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 9:14 PM
+BAG:erzanek add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/29/2023 9:15 PM
+BAG:erzanek add 1xNhẫn Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/29/2023 9:15 PM
+BAG:erzanek add 1xGiày lông đỏ lydo: Lấy từ body đệ vào hành trang at 03/29/2023 9:15 PM
+BAG:erzanek add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/29/2023 9:22 PM
+BAG:erzanek add 8xNgọc Rồng 7 sao lydo: (GD) Nhận từ holorai at 03/29/2023 9:23 PM
+BAG:erzanek add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/29/2023 9:24 PM
+BAG:erzanek add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:25 PM
+BAG:erzanek add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:25 PM
+BAG:erzanek add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 9:25 PM
+BAG:erzanek add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:25 PM
+BAG:erzanek add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:25 PM
+BAG:erzanek add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:25 PM
+BAG:erzanek add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:26 PM
+BAG:erzanek add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:26 PM
+BAG:erzanek add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 9:26 PM
+BAG:erzanek add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 9:26 PM
+BAG:erzanek add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 9:26 PM
+BAG:erzanek add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 9:26 PM
+BAG:erzanek add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:26 PM
+BAG:erzanek add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:26 PM
+BAG:erzanek add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:26 PM
+BAG:erzanek add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:26 PM
+BAG:erzanek add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 9:26 PM
+BAG:erzanek add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:26 PM
+BAG:erzanek add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:erzanek add 28xNgọc Rồng 5 sao (old: 27) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:erzanek add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:erzanek add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:erzanek add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:erzanek add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:erzanek add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:erzanek add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/29/2023 9:29 PM
+BAG:erzanek add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/29/2023 9:29 PM
+BAG:erzanek add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/29/2023 9:29 PM
+BAG:erzanek add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/29/2023 9:29 PM
+BAG:erzanek add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:erzanek add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:erzanek add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:erzanek add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/29/2023 9:31 PM
+BAG:erzanek add 10xĐậu thần cấp 10 (old: 1) lydo: Thu hoạch đậu at 03/29/2023 9:31 PM
+BAG:erzanek add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/29/2023 9:31 PM
+BAG:erzanek add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/29/2023 9:31 PM
+BAG:erzanek add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/29/2023 9:32 PM
+BAG:erzanek add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/29/2023 9:32 PM
+BAG:erzanek add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/29/2023 9:33 PM
+BAG:erzanek add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/29/2023 9:36 PM
+BAG:erzanek add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/29/2023 9:36 PM
+BAG:erzanek add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/29/2023 9:36 PM
+BAG:erzanek add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/29/2023 9:36 PM
+BAG:erzanek add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/29/2023 9:37 PM
+BAG:erzanek add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/29/2023 9:43 PM
+BAG:erzanek add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/29/2023 9:43 PM
+BAG:erzanek add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/29/2023 9:44 PM
+BAG:erzanek add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/29/2023 9:44 PM
+BAG:erzanek add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/29/2023 9:44 PM
+BAG:erzanek add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/29/2023 9:44 PM
+BAG:erzanek add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/29/2023 9:44 PM
+BAG:erzanek add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/29/2023 9:44 PM
+BAG:erzanek add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/29/2023 9:44 PM
+BAG:erzanek add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/29/2023 9:45 PM
+BAG:erzanek add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/29/2023 9:45 PM
+BAG:erzanek add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/29/2023 9:45 PM
+BAG:erzanek add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:erzanek add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:erzanek add 29xNgọc Rồng 5 sao (old: 28) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:erzanek add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:erzanek add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:erzanek add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:erzanek add 49xNgọc Rồng 6 sao (old: 48) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:erzanek add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/29/2023 9:47 PM
+BAG:erzanek add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 03/29/2023 9:47 PM
+BAG:erzanek add 30xNgọc Rồng 5 sao (old: 29) lydo: Nhặt từ map at 03/29/2023 9:47 PM
+BAG:erzanek add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/29/2023 9:47 PM
+BAG:erzanek add 31xNgọc Rồng 5 sao (old: 30) lydo: Nhặt từ map at 03/29/2023 9:47 PM
+BAG:erzanek add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/29/2023 9:47 PM
+BAG:erzanek add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/29/2023 9:48 PM
+BAG:erzanek add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/29/2023 9:48 PM
+BAG:erzanek add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/29/2023 9:49 PM
+BAG:erzanek add 32xNgọc Rồng 5 sao (old: 31) lydo: Nhặt từ map at 03/29/2023 9:49 PM
+BAG:erzanek add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 03/29/2023 9:49 PM
+BAG:erzanek add 33xNgọc Rồng 5 sao (old: 32) lydo: Nhặt từ map at 03/29/2023 9:49 PM
+BAG:erzanek add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/29/2023 9:49 PM
+BAG:erzanek add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/29/2023 9:50 PM
+BAG:erzanek add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/29/2023 9:50 PM
+BAG:erzanek add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/29/2023 9:51 PM
+BAG:erzanek add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 03/29/2023 9:52 PM
+BAG:erzanek add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/29/2023 9:52 PM
+BAG:erzanek add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/29/2023 9:52 PM
+BAG:erzanek add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/29/2023 9:52 PM
+BAG:erzanek add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 03/29/2023 9:53 PM
+BAG:erzanek add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 03/29/2023 9:53 PM
+BAG:erzanek add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/29/2023 9:53 PM
+BAG:erzanek add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/29/2023 9:53 PM
+BAG:erzanek add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 03/29/2023 9:53 PM
+BAG:erzanek add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 03/29/2023 9:53 PM
+BAG:erzanek add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/29/2023 9:54 PM
+BAG:erzanek add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/29/2023 9:54 PM
+BAG:erzanek add 34xNgọc Rồng 5 sao (old: 33) lydo: Nhặt từ map at 03/29/2023 9:54 PM
+BAG:erzanek add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/29/2023 9:54 PM
+BAG:erzanek add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/29/2023 9:55 PM
+BAG:erzanek add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/29/2023 9:55 PM
+BAG:erzanek add 35xNgọc Rồng 5 sao (old: 34) lydo: Nhặt từ map at 03/29/2023 9:55 PM
+BAG:erzanek add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/29/2023 9:56 PM
+BAG:erzanek add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/29/2023 9:56 PM
+BAG:erzanek add 36xNgọc Rồng 5 sao (old: 35) lydo: Nhặt từ map at 03/29/2023 9:56 PM
+BAG:erzanek add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/29/2023 9:56 PM
+BAG:erzanek add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/29/2023 9:56 PM
+BAG:erzanek add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/29/2023 9:57 PM
+BAG:erzanek add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 03/29/2023 9:57 PM
+BAG:erzanek add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/29/2023 9:57 PM
+BAG:erzanek add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/29/2023 9:57 PM
+BAG:erzanek add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/29/2023 9:57 PM
+BAG:erzanek add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:erzanek add 37xNgọc Rồng 5 sao (old: 36) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:erzanek add 38xNgọc Rồng 5 sao (old: 37) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:erzanek add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:erzanek add 50xNgọc Rồng 6 sao (old: 49) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:erzanek add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/29/2023 9:59 PM
+BAG:erzanek add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/29/2023 9:59 PM
+BAG:erzanek add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/29/2023 9:59 PM
+BAG:erzanek add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/29/2023 9:59 PM
+BAG:erzanek add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 03/29/2023 10:00 PM
+BAG:erzanek add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/29/2023 10:00 PM
+BAG:erzanek add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/29/2023 10:00 PM
+BAG:erzanek add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 03/29/2023 10:00 PM
+BAG:erzanek add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/29/2023 10:00 PM
+BAG:erzanek add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/29/2023 10:00 PM
+BAG:erzanek add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/29/2023 10:01 PM
+BAG:erzanek add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/29/2023 10:01 PM
+BAG:erzanek add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/29/2023 10:01 PM
+BAG:erzanek add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/29/2023 10:01 PM
+BAG:erzanek add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/29/2023 10:01 PM
+BAG:erzanek add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/29/2023 10:02 PM
+BAG:erzanek add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/29/2023 10:02 PM
+BAG:erzanek add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/29/2023 10:02 PM
+BAG:erzanek add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/29/2023 10:02 PM
+BAG:erzanek add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 03/29/2023 10:02 PM
+BAG:erzanek add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/29/2023 10:03 PM
+BAG:erzanek add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/29/2023 10:03 PM
+BAG:erzanek add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/29/2023 10:03 PM
+BAG:erzanek add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 03/29/2023 10:03 PM
+BAG:erzanek add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/29/2023 10:03 PM
+BAG:erzanek add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/29/2023 10:03 PM
+BAG:erzanek add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 03/29/2023 10:03 PM
+BAG:erzanek add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/29/2023 10:04 PM
+BAG:erzanek add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/29/2023 10:04 PM
+BAG:erzanek add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/29/2023 10:04 PM
+BAG:erzanek add 39xNgọc Rồng 5 sao (old: 38) lydo: Nhặt từ map at 03/29/2023 10:04 PM
+BAG:erzanek add 40xNgọc Rồng 5 sao (old: 39) lydo: Nhặt từ map at 03/29/2023 10:04 PM
+BAG:erzanek add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/29/2023 10:04 PM
+BAG:erzanek add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 03/29/2023 10:04 PM
+BAG:erzanek add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/29/2023 10:04 PM
+BAG:erzanek add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/29/2023 10:04 PM
+BAG:erzanek add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 03/29/2023 10:05 PM
+BAG:erzanek add 70xĐá lục bảo (old: 69) lydo: Nhặt từ map at 03/29/2023 10:05 PM
+BAG:erzanek add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/29/2023 10:05 PM
+BAG:erzanek add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 03/29/2023 10:05 PM
+BAG:erzanek add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/29/2023 10:05 PM
+BAG:erzanek add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/29/2023 10:06 PM
+BAG:erzanek add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/29/2023 10:06 PM
+BAG:erzanek add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/29/2023 10:06 PM
+BAG:erzanek add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/29/2023 10:06 PM
+BAG:erzanek add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 03/29/2023 10:06 PM
+BAG:erzanek add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:erzanek add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:erzanek add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:erzanek add 71xĐá lục bảo (old: 70) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:erzanek add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:erzanek add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:erzanek add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:erzanek add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:erzanek add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:erzanek add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/29/2023 10:08 PM
+BAG:erzanek add 51xNgọc Rồng 6 sao (old: 50) lydo: Nhặt từ map at 03/29/2023 10:08 PM
+BAG:erzanek add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/29/2023 10:09 PM
+BAG:erzanek add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 03/29/2023 10:09 PM
+BAG:erzanek add 72xĐá lục bảo (old: 71) lydo: Nhặt từ map at 03/29/2023 10:09 PM
+BAG:erzanek add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/29/2023 10:09 PM
+BAG:erzanek add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/29/2023 10:09 PM
+BAG:erzanek add 52xNgọc Rồng 6 sao (old: 51) lydo: Nhặt từ map at 03/29/2023 10:10 PM
+BAG:erzanek add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/29/2023 10:10 PM
+BAG:erzanek add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/29/2023 10:10 PM
+BAG:erzanek add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 03/29/2023 10:10 PM
+BAG:erzanek add 73xĐá lục bảo (old: 72) lydo: Nhặt từ map at 03/29/2023 10:10 PM
+BAG:erzanek add 74xĐá lục bảo (old: 73) lydo: Nhặt từ map at 03/29/2023 10:11 PM
+BAG:erzanek add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/29/2023 10:11 PM
+BAG:erzanek add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/29/2023 10:11 PM
+BAG:erzanek add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/29/2023 10:11 PM
+BAG:erzanek add 53xNgọc Rồng 6 sao (old: 52) lydo: Nhặt từ map at 03/29/2023 10:11 PM
+BAG:erzanek add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/29/2023 10:11 PM
+BAG:erzanek add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/29/2023 10:11 PM
+BAG:erzanek add 41xNgọc Rồng 5 sao (old: 40) lydo: Nhặt từ map at 03/29/2023 10:12 PM
+BAG:erzanek add 54xNgọc Rồng 6 sao (old: 53) lydo: Nhặt từ map at 03/29/2023 10:12 PM
+BAG:erzanek add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 03/29/2023 10:12 PM
+BAG:erzanek add 75xĐá lục bảo (old: 74) lydo: Nhặt từ map at 03/29/2023 10:12 PM
+BAG:erzanek add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 03/29/2023 10:13 PM
+BAG:erzanek add 55xNgọc Rồng 6 sao (old: 54) lydo: Nhặt từ map at 03/29/2023 10:13 PM
+BAG:erzanek add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 03/29/2023 10:13 PM
+BAG:erzanek add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 03/29/2023 10:13 PM
+BAG:erzanek add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 03/29/2023 10:13 PM
+BAG:erzanek add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 03/29/2023 10:14 PM
+BAG:erzanek add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 03/29/2023 10:14 PM
+BAG:erzanek add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 03/29/2023 10:14 PM
+BAG:erzanek add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 03/29/2023 10:14 PM
+BAG:erzanek add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 03/29/2023 10:15 PM
+BAG:erzanek add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 03/29/2023 10:15 PM
+BAG:erzanek add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 03/29/2023 10:15 PM
+BAG:erzanek add 56xNgọc Rồng 6 sao (old: 55) lydo: Nhặt từ map at 03/29/2023 10:15 PM
+BAG:erzanek add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 03/29/2023 10:15 PM
+BAG:erzanek add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 03/29/2023 10:15 PM
+BAG:erzanek add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 03/29/2023 10:15 PM
+BAG:erzanek add 57xNgọc Rồng 6 sao (old: 56) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:erzanek add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:erzanek add 76xĐá lục bảo (old: 75) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:erzanek add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:erzanek add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:erzanek add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:erzanek add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:erzanek add 42xNgọc Rồng 5 sao (old: 41) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:erzanek add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:erzanek add 77xĐá lục bảo (old: 76) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:erzanek add 78xĐá lục bảo (old: 77) lydo: Nhặt từ map at 03/29/2023 10:17 PM
+BAG:erzanek add 79xĐá lục bảo (old: 78) lydo: Nhặt từ map at 03/29/2023 10:17 PM
+BAG:erzanek add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 03/29/2023 10:17 PM
+BAG:erzanek add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 03/29/2023 10:18 PM
+BAG:erzanek add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 03/29/2023 10:18 PM
+BAG:erzanek add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 03/29/2023 10:18 PM
+BAG:erzanek add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 03/29/2023 10:19 PM
+BAG:erzanek add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/29/2023 10:19 PM
+BAG:erzanek add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/29/2023 10:19 PM
+BAG:erzanek add 43xNgọc Rồng 5 sao (old: 42) lydo: Nhặt từ map at 03/29/2023 10:19 PM
+BAG:erzanek add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 03/29/2023 10:19 PM
+BAG:erzanek add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 03/29/2023 10:19 PM
+BAG:erzanek add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 03/29/2023 10:19 PM
+BAG:erzanek add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 03/29/2023 10:20 PM
+BAG:erzanek add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 03/29/2023 10:20 PM
+BAG:erzanek add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 03/29/2023 10:20 PM
+BAG:erzanek add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 03/29/2023 10:20 PM
+BAG:erzanek add 44xNgọc Rồng 5 sao (old: 43) lydo: Nhặt từ map at 03/29/2023 10:21 PM
+BAG:erzanek add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 03/29/2023 10:21 PM
+BAG:erzanek add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 03/29/2023 10:21 PM
+BAG:erzanek add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 03/29/2023 10:22 PM
+BAG:erzanek add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 03/29/2023 10:22 PM
+BAG:erzanek add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 03/29/2023 10:22 PM
+BAG:erzanek add 63xĐá Saphia (old: 62) lydo: Nhặt từ map at 03/29/2023 10:22 PM
+BAG:erzanek add 64xĐá Saphia (old: 63) lydo: Nhặt từ map at 03/29/2023 10:22 PM
+BAG:erzanek add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 03/29/2023 10:22 PM
+BAG:erzanek add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 03/29/2023 10:22 PM
+BAG:erzanek add 65xĐá Saphia (old: 64) lydo: Nhặt từ map at 03/29/2023 10:23 PM
+BAG:erzanek add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 03/29/2023 10:23 PM
+BAG:erzanek add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 03/29/2023 10:23 PM
+BAG:erzanek add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhặt từ map at 03/29/2023 10:23 PM
+BAG:erzanek add 80xĐá lục bảo (old: 79) lydo: Nhặt từ map at 03/29/2023 10:24 PM
+BAG:erzanek add 58xNgọc Rồng 6 sao (old: 57) lydo: Nhặt từ map at 03/29/2023 10:24 PM
+BAG:erzanek add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/29/2023 10:24 PM
+BAG:erzanek add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 03/29/2023 10:24 PM
+BAG:erzanek add 66xĐá Saphia (old: 65) lydo: Nhặt từ map at 03/29/2023 10:24 PM
+BAG:erzanek add 81xĐá lục bảo (old: 80) lydo: Nhặt từ map at 03/29/2023 10:25 PM
+BAG:erzanek add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhặt từ map at 03/29/2023 10:25 PM
+BAG:erzanek add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 03/29/2023 10:25 PM
+BAG:erzanek add 55xNgọc Rồng 4 sao (old: 54) lydo: Nhặt từ map at 03/29/2023 10:25 PM
+BAG:erzanek add 67xĐá Titan (old: 66) lydo: Nhặt từ map at 03/29/2023 10:27 PM
+BAG:erzanek add 82xĐá lục bảo (old: 81) lydo: Nhặt từ map at 03/29/2023 10:27 PM
+BAG:erzanek add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 03/29/2023 10:27 PM
+BAG:erzanek add 59xNgọc Rồng 6 sao (old: 58) lydo: Nhặt từ map at 03/29/2023 10:27 PM
+BAG:erzanek add 83xĐá lục bảo (old: 82) lydo: Nhặt từ map at 03/29/2023 10:27 PM
+BAG:erzanek add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 03/29/2023 10:27 PM
+BAG:erzanek add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 03/29/2023 10:27 PM
+BAG:erzanek add 68xĐá Titan (old: 67) lydo: Nhặt từ map at 03/29/2023 10:28 PM
+BAG:erzanek add 70xĐá Ruby (old: 69) lydo: Nhặt từ map at 03/29/2023 10:28 PM
+BAG:erzanek add 71xĐá Ruby (old: 70) lydo: Nhặt từ map at 03/29/2023 10:29 PM
+BAG:erzanek add 72xĐá Ruby (old: 71) lydo: Nhặt từ map at 03/29/2023 10:30 PM
+BAG:erzanek add 67xĐá Saphia (old: 66) lydo: Nhặt từ map at 03/29/2023 10:30 PM
+BAG:erzanek add 84xĐá lục bảo (old: 83) lydo: Nhặt từ map at 03/29/2023 10:31 PM
+BAG:erzanek add 58xNgọc Rồng 4 sao (old: 57) lydo: Nhặt từ map at 03/29/2023 10:31 PM
+BAG:erzanek add 59xNgọc Rồng 4 sao (old: 58) lydo: Nhặt từ map at 03/29/2023 10:31 PM
+BAG:erzanek add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 03/29/2023 10:31 PM
+BAG:erzanek add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 03/29/2023 10:31 PM
+BAG:erzanek add 85xĐá lục bảo (old: 84) lydo: Nhặt từ map at 03/29/2023 10:32 PM
+BAG:erzanek add 68xĐá Saphia (old: 67) lydo: Nhặt từ map at 03/29/2023 10:32 PM
+BAG:erzanek add 86xĐá lục bảo (old: 85) lydo: Nhặt từ map at 03/29/2023 10:33 PM
+BAG:erzanek add 60xNgọc Rồng 4 sao (old: 59) lydo: Nhặt từ map at 03/29/2023 10:33 PM
+BAG:erzanek add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 03/29/2023 10:33 PM
+BAG:erzanek add 69xĐá Titan (old: 68) lydo: Nhặt từ map at 03/29/2023 10:35 PM
+BAG:erzanek add 61xNgọc Rồng 4 sao (old: 60) lydo: Nhặt từ map at 03/29/2023 10:36 PM
+BAG:erzanek add 62xNgọc Rồng 4 sao (old: 61) lydo: Nhặt từ map at 03/29/2023 10:36 PM
+BAG:erzanek add 73xĐá Ruby (old: 72) lydo: Nhặt từ map at 03/29/2023 10:36 PM
+BAG:erzanek add 70xĐá Titan (old: 69) lydo: Nhặt từ map at 03/29/2023 10:37 PM
+BAG:erzanek add 63xNgọc Rồng 4 sao (old: 62) lydo: Nhặt từ map at 03/29/2023 10:37 PM
+BAG:erzanek add 64xNgọc Rồng 4 sao (old: 63) lydo: Nhặt từ map at 03/29/2023 10:38 PM
+BAG:erzanek add 71xĐá Titan (old: 70) lydo: Nhặt từ map at 03/29/2023 10:38 PM
+BAG:erzanek add 69xĐá Saphia (old: 68) lydo: Nhặt từ map at 03/29/2023 10:38 PM
+BAG:erzanek add 65xNgọc Rồng 4 sao (old: 64) lydo: Nhặt từ map at 03/29/2023 10:38 PM
+BAG:erzanek add 87xĐá lục bảo (old: 86) lydo: Nhặt từ map at 03/29/2023 10:38 PM

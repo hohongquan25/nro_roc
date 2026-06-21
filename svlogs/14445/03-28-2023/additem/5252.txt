@@ -1,0 +1,650 @@
+BAG:damer add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/28/2023 7:44 AM
+BAG:damer add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/28/2023 7:44 AM
+BAG:damer add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 7:46 AM
+BAG:damer add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:46 AM
+BAG:damer add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 7:46 AM
+BAG:damer add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:46 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:damer add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:damer add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:damer add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:damer add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:damer add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:damer add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:damer add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:damer add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:damer add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 7:50 AM
+BAG:damer add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 7:50 AM
+BAG:damer add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 7:52 AM
+BAG:damer add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 7:52 AM
+BAG:damer add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 7:52 AM
+BAG:damer add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:damer add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:damer add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:damer add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:damer add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:damer add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:damer add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:damer add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 7:54 AM
+BAG:damer add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 7:54 AM
+BAG:damer add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 7:54 AM
+BAG:damer add 1xGhế bay lydo: Mua từ cửa hàng at 03/28/2023 7:54 AM
+BAG:damer add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 7:54 AM
+BAG:damer add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 7:55 AM
+BAG:damer add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/28/2023 7:57 AM
+BAG:damer add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/28/2023 7:57 AM
+BAG:damer add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 7:57 AM
+BAG:damer add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/28/2023 7:57 AM
+BAG:damer add 11xNgọc Rồng 5 sao (old: 1) lydo: Giftcode at 03/28/2023 7:57 AM
+BAG:damer add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/28/2023 7:57 AM
+BAG:damer add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/28/2023 7:57 AM
+BAG:damer add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 7:57 AM
+BAG:damer add 1xKiếm ánh sáng lydo: Mua từ cửa hàng at 03/28/2023 7:58 AM
+BAG:damer add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/28/2023 7:59 AM
+BAG:damer add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 7:59 AM
+BAG:damer add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 8:00 AM
+BAG:damer add 1xCải trang Mighty Mask lydo: Mua từ cửa hàng at 03/28/2023 8:00 AM
+BAG:damer add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 8:32 AM
+BAG:damer add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/28/2023 8:33 AM
+BAG:damer add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 8:34 AM
+BAG:damer add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:34 AM
+BAG:damer add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 8:34 AM
+BAG:damer add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/28/2023 8:36 AM
+BAG:damer add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:36 AM
+BAG:damer add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 8:36 AM
+BAG:damer add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 8:36 AM
+BAG:damer add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 8:38 AM
+BAG:damer add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 8:39 AM
+BAG:damer add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/28/2023 8:39 AM
+BAG:damer add 1xCuồng nộ lydo: HQT at 03/28/2023 8:39 AM
+BAG:damer add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 8:39 AM
+BAG:damer add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/28/2023 8:40 AM
+BAG:damer add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/28/2023 8:41 AM
+BAG:damer add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/28/2023 8:41 AM
+BAG:damer add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 8:42 AM
+BAG:damer add 2xCuồng nộ (old: 1) lydo: HQT at 03/28/2023 8:42 AM
+BAG:damer add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/28/2023 8:42 AM
+BAG:damer add 1xBổ huyết lydo: HQT at 03/28/2023 8:42 AM
+BAG:damer add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/28/2023 8:42 AM
+BAG:damer add 2xBổ huyết (old: 1) lydo: HQT at 03/28/2023 8:42 AM
+BAG:damer add 3xBổ huyết (old: 2) lydo: HQT at 03/28/2023 8:42 AM
+BAG:damer add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 8:42 AM
+BAG:damer add 1xGiáp Xên bọ hung lydo: HQT at 03/28/2023 8:42 AM
+BAG:damer add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/28/2023 8:42 AM
+BAG:damer add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/28/2023 8:42 AM
+BAG:damer add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 8:43 AM
+BAG:damer add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 8:44 AM
+BAG:damer add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 8:44 AM
+BAG:damer add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 8:44 AM
+BAG:damer add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 8:45 AM
+BAG:damer add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 8:45 AM
+BAG:damer add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 8:45 AM
+BAG:damer add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 8:45 AM
+BAG:damer add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:50 AM
+BAG:damer add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 8:50 AM
+BAG:damer add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 8:51 AM
+BAG:damer add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/28/2023 8:51 AM
+BAG:damer add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:52 AM
+BAG:damer add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 8:52 AM
+BAG:damer add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 8:52 AM
+BAG:damer add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 8:53 AM
+BAG:damer add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 8:53 AM
+BAG:damer add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/28/2023 8:53 AM
+BAG:damer add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 8:53 AM
+BAG:damer add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 8:53 AM
+BAG:damer add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 8:54 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 8:54 AM
+BAG:damer add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 8:54 AM
+BAG:damer add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 8:54 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 8:55 AM
+BAG:damer add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 8:55 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 8:55 AM
+BAG:damer add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 8:55 AM
+BAG:damer add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/28/2023 8:56 AM
+BAG:damer add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/28/2023 8:56 AM
+BAG:damer add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 8:56 AM
+BAG:damer add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/28/2023 8:56 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 8:57 AM
+BAG:damer add 1xCải trang Mighty Mask lydo: Lấy từ body vào hành trang at 03/28/2023 8:57 AM
+BAG:damer add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/28/2023 8:57 AM
+BAG:damer add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:57 AM
+BAG:damer add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 8:58 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 8:59 AM
+BAG:damer add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 9:00 AM
+BAG:damer add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 03/28/2023 9:00 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 9:01 AM
+BAG:damer add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 9:01 AM
+BAG:damer add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:damer add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:damer add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:damer add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:damer add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 9:03 AM
+BAG:damer add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 9:03 AM
+BAG:damer add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 9:04 AM
+BAG:damer add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/28/2023 9:04 AM
+BAG:damer add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 9:04 AM
+BAG:damer add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 9:04 AM
+BAG:damer add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/28/2023 9:05 AM
+BAG:damer add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 9:05 AM
+BAG:damer add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 9:05 AM
+BAG:damer add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 9:05 AM
+BAG:damer add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 9:05 AM
+BAG:damer add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 9:05 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 9:05 AM
+BAG:damer add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 9:06 AM
+BAG:damer add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 9:06 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 9:06 AM
+BAG:damer add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 9:07 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 9:08 AM
+BAG:damer add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 9:08 AM
+BAG:damer add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 9:08 AM
+BAG:damer add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 9:09 AM
+BAG:damer add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 9:09 AM
+BAG:damer add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 9:09 AM
+BAG:damer add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 9:09 AM
+BAG:damer add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 9:09 AM
+BAG:damer add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/28/2023 9:10 AM
+BAG:damer add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 9:10 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 9:10 AM
+BAG:damer add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 9:10 AM
+BAG:damer add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 9:11 AM
+BAG:damer add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 9:11 AM
+BAG:damer add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 9:18 AM
+BAG:damer add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/28/2023 9:19 AM
+BAG:damer add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 9:19 AM
+BAG:damer add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/28/2023 9:19 AM
+BAG:damer add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 9:20 AM
+BAG:damer add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/28/2023 9:20 AM
+BAG:damer add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/28/2023 9:20 AM
+BAG:damer add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/28/2023 9:24 AM
+BAG:damer add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/28/2023 9:24 AM
+BAG:damer add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/28/2023 9:24 AM
+BAG:damer add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/28/2023 9:24 AM
+BAG:damer add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/28/2023 9:28 AM
+BAG:damer add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/28/2023 9:28 AM
+BAG:damer add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 9:28 AM
+BAG:damer add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/28/2023 9:28 AM
+BAG:damer add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/28/2023 9:28 AM
+BAG:damer add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/28/2023 9:28 AM
+BAG:damer add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 9:28 AM
+BAG:damer add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/28/2023 9:38 AM
+BAG:damer add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/28/2023 9:41 AM
+BAG:damer add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 9:42 AM
+BAG:damer add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/28/2023 9:43 AM
+BAG:damer add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/28/2023 9:43 AM
+BAG:damer add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/28/2023 9:46 AM
+BAG:damer add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/28/2023 9:47 AM
+BAG:damer add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/28/2023 9:49 AM
+BAG:damer add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/28/2023 9:51 AM
+BAG:damer add 99xThỏi vàng lydo: Admin at 03/28/2023 9:53 AM
+BAG:damer add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/28/2023 9:54 AM
+BAG:damer add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 10:00 AM
+BAG:damer add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/28/2023 10:01 AM
+BAG:damer add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/28/2023 10:02 AM
+BAG:damer add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:03 AM
+BAG:damer add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 03/28/2023 10:05 AM
+BAG:damer add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/28/2023 10:05 AM
+BAG:damer add 12xMảnh Lợn lòi (old: 11) lydo: Nhặt từ map at 03/28/2023 10:05 AM
+BAG:damer add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/28/2023 10:06 AM
+BAG:damer add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/28/2023 10:06 AM
+BAG:damer add 13xMảnh Lợn lòi (old: 12) lydo: Nhặt từ map at 03/28/2023 10:06 AM
+BAG:damer add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/28/2023 10:07 AM
+BAG:damer add 198xThỏi vàng (old: 99) lydo: Admin at 03/28/2023 10:09 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 10:09 AM
+BAG:damer add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:09 AM
+BAG:damer add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 10:09 AM
+BAG:damer add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 10:10 AM
+BAG:damer add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:10 AM
+BAG:damer add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/28/2023 10:10 AM
+BAG:damer add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/28/2023 10:10 AM
+BAG:damer add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/28/2023 10:11 AM
+BAG:damer add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/28/2023 10:11 AM
+BAG:damer add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/28/2023 10:11 AM
+BAG:damer add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 10:11 AM
+BAG:damer add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 10:11 AM
+BAG:damer add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 10:12 AM
+BAG:damer add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 10:17 AM
+BAG:damer add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/28/2023 10:18 AM
+BAG:damer add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/28/2023 10:18 AM
+BAG:damer add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/28/2023 10:18 AM
+BAG:damer add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:18 AM
+BAG:damer add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/28/2023 10:19 AM
+BAG:damer add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/28/2023 10:19 AM
+BAG:damer add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/28/2023 10:19 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 10:20 AM
+BAG:damer add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:20 AM
+BAG:damer add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 10:20 AM
+BAG:damer add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/28/2023 10:20 AM
+BAG:damer add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 10:20 AM
+BAG:damer add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/28/2023 10:21 AM
+BAG:damer add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/28/2023 10:21 AM
+BAG:damer add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/28/2023 10:21 AM
+BAG:damer add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 10:21 AM
+BAG:damer add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/28/2023 10:21 AM
+BAG:damer add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 10:21 AM
+BAG:damer add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/28/2023 10:23 AM
+BAG:damer add 14xMảnh Lợn lòi (old: 13) lydo: Nhặt từ map at 03/28/2023 10:23 AM
+BAG:damer add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 10:23 AM
+BAG:damer add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:damer add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:damer add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:damer add 15xMảnh Lợn lòi (old: 14) lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:damer add 16xMảnh Lợn lòi (old: 15) lydo: Nhặt từ map at 03/28/2023 10:25 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 10:25 AM
+BAG:damer add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 10:25 AM
+BAG:damer add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 10:25 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 10:25 AM
+BAG:damer add 17xMảnh Lợn lòi (old: 16) lydo: Nhặt từ map at 03/28/2023 10:25 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 10:25 AM
+BAG:damer add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/28/2023 10:29 AM
+BAG:damer add 1xPháo hoa lydo: Nhặt từ map at 03/28/2023 10:36 AM
+BAG:damer add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:37 AM
+BAG:damer add 1xGăng sợi len lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:37 AM
+BAG:damer add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:37 AM
+BAG:damer add 1xGăng sợi len lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:42 AM
+BAG:damer add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:42 AM
+BAG:damer add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:42 AM
+BAG:damer add 99xĐá Vĩnh Hằng lydo: Admin at 03/28/2023 10:43 AM
+BAG:damer add 99xĐá Hắc Hóa lydo: Admin at 03/28/2023 10:44 AM
+BAG:damer add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 10:46 AM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:46 AM
+BAG:damer add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/28/2023 10:46 AM
+BAG:damer add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:46 AM
+BAG:damer add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:46 AM
+BAG:damer add 1xÁo sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:46 AM
+BAG:damer add 1xÁo sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:47 AM
+BAG:damer add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:47 AM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:47 AM
+BAG:damer add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:47 AM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:47 AM
+BAG:damer add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:47 AM
+BAG:damer add 1xQuần vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:47 AM
+BAG:damer add 1xÁo vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:48 AM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:48 AM
+BAG:damer add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 10:48 AM
+BAG:damer add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:48 AM
+BAG:damer add 1xÁo vàng Zealot lydo: Lấy từ body vào hành trang at 03/28/2023 10:48 AM
+BAG:damer add 1xQuần Thần namếc lydo: Cường Hóa trang bị at 03/28/2023 10:49 AM
+BAG:damer add 1xGăng Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 10:49 AM
+BAG:damer add 1xQuần vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:49 AM
+BAG:damer add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:49 AM
+BAG:damer add 1xQuần vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:50 AM
+BAG:damer add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 10:50 AM
+BAG:damer add 1xQuần Thần namếc lydo: Cường Hóa trang bị at 03/28/2023 10:51 AM
+BAG:damer add 1xGăng Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 10:51 AM
+BAG:damer add 1xGăng Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 10:51 AM
+BAG:damer add 1xQuần Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 10:51 AM
+BAG:damer add 5xĐá Vĩnh Hằng lydo: Admin at 03/28/2023 10:54 AM
+BAG:damer add 99xĐá Vĩnh Hằng (old: 5) lydo: Admin at 03/28/2023 10:54 AM
+BAG:damer add 5xĐá Hắc Hóa lydo: Admin at 03/28/2023 10:54 AM
+BAG:damer add 99xĐá Hắc Hóa (old: 5) lydo: Admin at 03/28/2023 10:54 AM
+BAG:damer add 1xGăng Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 10:56 AM
+BAG:damer add 1xGăng Thần Namếc lydo: Lấy từ body vào hành trang at 03/28/2023 10:56 AM
+BAG:damer add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/28/2023 10:58 AM
+BAG:damer add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/28/2023 10:58 AM
+BAG:damer add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/28/2023 10:58 AM
+BAG:damer add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/28/2023 10:59 AM
+BAG:damer add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/28/2023 10:59 AM
+BAG:damer add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/28/2023 10:59 AM
+BAG:damer add 18xMảnh Lợn lòi (old: 17) lydo: Nhặt từ map at 03/28/2023 10:59 AM
+BAG:damer add 19xMảnh Lợn lòi (old: 18) lydo: Nhặt từ map at 03/28/2023 10:59 AM
+BAG:damer add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/28/2023 10:59 AM
+BAG:damer add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:00 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 11:01 AM
+BAG:damer add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 11:01 AM
+BAG:damer add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 03/28/2023 11:01 AM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 11:02 AM
+BAG:damer add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 11:02 AM
+BAG:damer add 1xÁo sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 11:02 AM
+BAG:damer add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 11:02 AM
+BAG:damer add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/28/2023 11:02 AM
+BAG:damer add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/28/2023 11:03 AM
+BAG:damer add 1xGiày vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 11:03 AM
+BAG:damer add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 11:03 AM
+BAG:damer add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 11:03 AM
+BAG:damer add 1xÁo vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 11:03 AM
+BAG:damer add 1xQuần vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 11:03 AM
+BAG:damer add 1xGăng Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 11:03 AM
+BAG:damer add 1xGiầy Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 11:03 AM
+BAG:damer add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/28/2023 11:04 AM
+BAG:damer add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/28/2023 11:04 AM
+BAG:damer add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 11:04 AM
+BAG:damer add 1xGăng Thần Namếc lydo: Lấy từ body vào hành trang at 03/28/2023 11:04 AM
+BAG:damer add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/28/2023 11:05 AM
+BAG:damer add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/28/2023 11:06 AM
+BAG:damer add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:damer add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:damer add 20xMảnh Lợn lòi (old: 19) lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:damer add 21xMảnh Lợn lòi (old: 20) lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:damer add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:damer add 22xMảnh Lợn lòi (old: 21) lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:damer add 23xMảnh Lợn lòi (old: 22) lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:damer add 24xMảnh Lợn lòi (old: 23) lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:damer add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:damer add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:damer add 7xMảnh Lợn lòi mẹ (old: 6) lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:damer add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:damer add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/28/2023 11:09 AM
+BAG:damer add 25xMảnh Lợn lòi (old: 24) lydo: Nhặt từ map at 03/28/2023 11:09 AM
+BAG:damer add 8xMảnh Lợn lòi mẹ (old: 7) lydo: Nhặt từ map at 03/28/2023 11:09 AM
+BAG:damer add 9xMảnh Lợn lòi mẹ (old: 8) lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:damer add 26xMảnh Lợn lòi (old: 25) lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:damer add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:damer add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:damer add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:damer add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/28/2023 11:11 AM
+BAG:damer add 10xMảnh Lợn lòi mẹ (old: 9) lydo: Nhặt từ map at 03/28/2023 11:12 AM
+BAG:damer add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/28/2023 11:12 AM
+BAG:damer add 27xMảnh Lợn lòi (old: 26) lydo: Nhặt từ map at 03/28/2023 11:12 AM
+BAG:damer add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/28/2023 11:12 AM
+BAG:damer add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/28/2023 11:12 AM
+BAG:damer add 28xMảnh Lợn lòi (old: 27) lydo: Nhặt từ map at 03/28/2023 11:12 AM
+BAG:damer add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 11:12 AM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 11:13 AM
+BAG:damer add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 11:13 AM
+BAG:damer add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 11:13 AM
+BAG:damer add 1xGiày vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 11:13 AM
+BAG:damer add 1xGăng Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 11:13 AM
+BAG:damer add 1xGiầy Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 11:13 AM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 11:13 AM
+BAG:damer add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 11:13 AM
+BAG:damer add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 11:14 AM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 11:14 AM
+BAG:damer add 1xGiày vàng Zealot lydo: Cường Hóa trang bị at 03/28/2023 11:14 AM
+BAG:damer add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 03/28/2023 11:18 AM
+BAG:damer add 18xNgọc Rồng 5 sao (old: 17) lydo: Lấy từ lucky box at 03/28/2023 11:18 AM
+BAG:damer add 29xMảnh Lợn lòi (old: 28) lydo: Nhặt từ map at 03/28/2023 11:19 AM
+BAG:damer add 30xMảnh Lợn lòi (old: 29) lydo: Nhặt từ map at 03/28/2023 11:20 AM
+BAG:damer add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/28/2023 11:20 AM
+BAG:damer add 11xMảnh Lợn lòi mẹ (old: 10) lydo: Nhặt từ map at 03/28/2023 11:20 AM
+BAG:damer add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 11:20 AM
+BAG:damer add 12xMảnh Lợn lòi mẹ (old: 11) lydo: Nhặt từ map at 03/28/2023 11:20 AM
+BAG:damer add 31xMảnh Lợn lòi (old: 30) lydo: Nhặt từ map at 03/28/2023 11:20 AM
+BAG:damer add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/28/2023 11:20 AM
+BAG:damer add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/28/2023 11:21 AM
+BAG:damer add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/28/2023 11:21 AM
+BAG:damer add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/28/2023 11:21 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 11:22 AM
+BAG:damer add 32xMảnh Lợn lòi (old: 31) lydo: Nhặt từ map at 03/28/2023 11:22 AM
+BAG:damer add 33xMảnh Lợn lòi (old: 32) lydo: Nhặt từ map at 03/28/2023 11:22 AM
+BAG:damer add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/28/2023 11:22 AM
+BAG:damer add 34xMảnh Lợn lòi (old: 33) lydo: Nhặt từ map at 03/28/2023 11:22 AM
+BAG:damer add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/28/2023 11:22 AM
+BAG:damer add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/28/2023 11:22 AM
+BAG:damer add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/28/2023 11:22 AM
+BAG:damer add 35xMảnh Lợn lòi (old: 34) lydo: Nhặt từ map at 03/28/2023 11:23 AM
+BAG:damer add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/28/2023 11:23 AM
+BAG:damer add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/28/2023 11:23 AM
+BAG:damer add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/28/2023 11:23 AM
+BAG:damer add 36xMảnh Lợn lòi (old: 35) lydo: Nhặt từ map at 03/28/2023 11:24 AM
+BAG:damer add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/28/2023 11:24 AM
+BAG:damer add 37xMảnh Lợn lòi (old: 36) lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:damer add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:damer add 38xMảnh Lợn lòi (old: 37) lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:damer add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:damer add 13xMảnh Lợn lòi mẹ (old: 12) lydo: Nhặt từ map at 03/28/2023 11:26 AM
+BAG:damer add 39xMảnh Lợn lòi (old: 38) lydo: Nhặt từ map at 03/28/2023 11:26 AM
+BAG:damer add 14xMảnh Lợn lòi mẹ (old: 13) lydo: Nhặt từ map at 03/28/2023 11:26 AM
+BAG:damer add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 11:27 AM
+BAG:damer add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/28/2023 11:27 AM
+BAG:damer add 40xMảnh Lợn lòi (old: 39) lydo: Nhặt từ map at 03/28/2023 11:27 AM
+BAG:damer add 41xMảnh Lợn lòi (old: 40) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:damer add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:damer add 42xMảnh Lợn lòi (old: 41) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:damer add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:damer add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:damer add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:damer add 43xMảnh Lợn lòi (old: 42) lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:damer add 44xMảnh Lợn lòi (old: 43) lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:damer add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:damer add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:damer add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:damer add 45xMảnh Lợn lòi (old: 44) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:damer add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:damer add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:damer add 15xMảnh Lợn lòi mẹ (old: 14) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:damer add 46xMảnh Lợn lòi (old: 45) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:damer add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:damer add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:damer add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:damer add 16xMảnh Lợn lòi mẹ (old: 15) lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:damer add 47xMảnh Lợn lòi (old: 46) lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:damer add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:damer add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:damer add 48xMảnh Lợn lòi (old: 47) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:damer add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:damer add 49xMảnh Lợn lòi (old: 48) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:damer add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:damer add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:damer add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/28/2023 11:33 AM
+BAG:damer add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/28/2023 11:33 AM
+BAG:damer add 50xMảnh Lợn lòi (old: 49) lydo: Nhặt từ map at 03/28/2023 11:33 AM
+BAG:damer add 17xMảnh Lợn lòi mẹ (old: 16) lydo: Nhặt từ map at 03/28/2023 11:33 AM
+BAG:damer add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:34 AM
+BAG:damer add 18xMảnh Lợn lòi mẹ (old: 17) lydo: Nhặt từ map at 03/28/2023 11:34 AM
+BAG:damer add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/28/2023 11:34 AM
+BAG:damer add 51xMảnh Lợn lòi (old: 50) lydo: Nhặt từ map at 03/28/2023 11:34 AM
+BAG:damer add 19xMảnh Lợn lòi mẹ (old: 18) lydo: Nhặt từ map at 03/28/2023 11:35 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 11:35 AM
+BAG:damer add 52xMảnh Lợn lòi (old: 51) lydo: Nhặt từ map at 03/28/2023 11:35 AM
+BAG:damer add 53xMảnh Lợn lòi (old: 52) lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:damer add 54xMảnh Lợn lòi (old: 53) lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:damer add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:damer add 55xMảnh Lợn lòi (old: 54) lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:damer add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:damer add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:damer add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/28/2023 11:37 AM
+BAG:damer add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/28/2023 11:37 AM
+BAG:damer add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:37 AM
+BAG:damer add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:37 AM
+BAG:damer add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 11:37 AM
+BAG:damer add 20xMảnh Lợn lòi mẹ (old: 19) lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:damer add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:damer add 21xMảnh Lợn lòi mẹ (old: 20) lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:damer add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:damer add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:damer add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:damer add 56xMảnh Lợn lòi (old: 55) lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:damer add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:damer add 57xMảnh Lợn lòi (old: 56) lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:damer add 58xMảnh Lợn lòi (old: 57) lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:damer add 59xMảnh Lợn lòi (old: 58) lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:damer add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:damer add 22xMảnh Lợn lòi mẹ (old: 21) lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:damer add 60xMảnh Lợn lòi (old: 59) lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:damer add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:damer add 61xMảnh Lợn lòi (old: 60) lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:damer add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:damer add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:damer add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:damer add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:damer add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:damer add 62xMảnh Lợn lòi (old: 61) lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:damer add 63xMảnh Lợn lòi (old: 62) lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:damer add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:damer add 23xMảnh Lợn lòi mẹ (old: 22) lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:damer add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/28/2023 11:43 AM
+BAG:damer add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 11:43 AM
+BAG:damer add 21xNgọc Rồng 5 sao (old: 20) lydo: Lấy từ lucky box at 03/28/2023 11:44 AM
+BAG:damer add 1xSao pha lê lydo: Lấy từ lucky box at 03/28/2023 11:44 AM
+BAG:damer add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/28/2023 11:44 AM
+BAG:damer add 1xGăng vàng Zealot lydo: Lấy từ body vào hành trang at 03/28/2023 11:45 AM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 11:46 AM
+BAG:damer add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:46 AM
+BAG:damer add 1xRada cấp 9 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:46 AM
+BAG:damer add 1xRada cấp 9 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:48 AM
+BAG:damer add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/28/2023 11:49 AM
+BAG:damer add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/28/2023 11:50 AM
+BAG:damer add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/28/2023 11:51 AM
+BAG:damer add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/28/2023 11:51 AM
+BAG:damer add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:damer add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/28/2023 11:53 AM
+BAG:damer add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/28/2023 11:54 AM
+BAG:damer add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/28/2023 11:54 AM
+BAG:damer add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:damer add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:55 AM
+BAG:damer add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/28/2023 11:56 AM
+BAG:damer add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 11:56 AM
+BAG:damer add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 11:56 AM
+BAG:damer add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 11:56 AM
+BAG:damer add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/28/2023 11:56 AM
+BAG:damer add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 11:56 AM
+BAG:damer add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 11:56 AM
+BAG:damer add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 11:56 AM
+BAG:damer add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 11:56 AM
+BAG:damer add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 11:56 AM
+BAG:damer add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 11:56 AM
+BAG:damer add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 11:56 AM
+BAG:damer add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 11:56 AM
+BAG:damer add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 11:57 AM
+BAG:damer add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 11:57 AM
+BAG:damer add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/28/2023 11:57 AM
+BAG:damer add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/28/2023 11:57 AM
+BAG:damer add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/28/2023 11:57 AM
+BAG:damer add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/28/2023 11:57 AM
+BAG:damer add 3xCuồng nộ (old: 2) lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 1xBổ khí lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 23xNgọc Rồng 5 sao (old: 22) lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 24xNgọc Rồng 5 sao (old: 23) lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 4xBổ huyết (old: 3) lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 25xNgọc Rồng 5 sao (old: 24) lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 4xCuồng nộ (old: 3) lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 5xCuồng nộ (old: 4) lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 2xBổ khí (old: 1) lydo: HQT at 03/28/2023 12:38 PM
+BAG:damer add 1xGăng vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/28/2023 12:41 PM
+BAG:damer add 1xGiày sắt Tron lydo: Lấy từ body đệ vào hành trang at 03/28/2023 12:41 PM
+BAG:damer add 1xRada cấp 9 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 12:41 PM
+BAG:damer add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 12:41 PM
+BAG:damer add 191xThỏi vàng (old: 166) lydo: Đổi vàng at 03/28/2023 12:42 PM
+BAG:damer add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:42 PM
+BAG:damer add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:42 PM
+BAG:damer add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 12:42 PM
+BAG:damer add 1xTanjiro lydo: Mua từ bill at 03/28/2023 12:43 PM
+BAG:damer add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 12:43 PM
+BAG:damer add 1xNezuko lydo: Mua từ bill at 03/28/2023 12:43 PM
+BAG:damer add 1xCá heo lydo: Mua từ bill at 03/28/2023 12:43 PM
+BAG:damer add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:44 PM
+BAG:damer add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:44 PM
+BAG:damer add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:damer add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 12:45 PM
+BAG:damer add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/28/2023 12:45 PM
+BAG:damer add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:damer add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:damer add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/28/2023 12:45 PM
+BAG:damer add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:damer add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:damer add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/28/2023 12:45 PM
+BAG:damer add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:damer add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:damer add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/28/2023 12:46 PM
+BAG:damer add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:damer add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:damer add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:damer add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:damer add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/28/2023 12:51 PM
+BAG:damer add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/28/2023 12:52 PM
+BAG:damer add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/28/2023 12:52 PM
+BAG:damer add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/28/2023 12:54 PM
+BAG:damer add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/28/2023 12:55 PM
+BAG:damer add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/28/2023 1:00 PM
+BAG:damer add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 03/28/2023 1:01 PM
+BAG:damer add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/28/2023 1:02 PM
+BAG:damer add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/28/2023 1:05 PM
+BAG:damer add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/28/2023 1:08 PM
+BAG:damer add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/28/2023 1:09 PM
+BAG:damer add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/28/2023 1:09 PM
+BAG:damer add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/28/2023 1:10 PM
+BAG:damer add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/28/2023 1:10 PM
+BAG:damer add 1xGiầy Thần Namếc lydo: Cường Hóa trang bị at 03/28/2023 1:10 PM
+BAG:damer add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/28/2023 1:10 PM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 1:10 PM
+BAG:damer add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 1:10 PM
+BAG:damer add 1xÁo sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 1:10 PM
+BAG:damer add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/28/2023 1:10 PM
+BAG:damer add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/28/2023 1:10 PM
+BAG:damer add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/28/2023 1:14 PM
+BAG:damer add 5xBổ huyết (old: 4) lydo: HQT at 03/28/2023 1:14 PM
+BAG:damer add 6xBổ huyết (old: 5) lydo: HQT at 03/28/2023 1:14 PM
+BAG:damer add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/28/2023 1:14 PM
+BAG:damer add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/28/2023 1:14 PM
+BAG:damer add 27xNgọc Rồng 5 sao (old: 26) lydo: HQT at 03/28/2023 1:14 PM
+BAG:damer add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 1:14 PM
+BAG:damer add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 1:14 PM
+BAG:damer add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 1:14 PM
+BAG:damer add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 1:14 PM
+BAG:damer add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 1:14 PM
+BAG:damer add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 1:14 PM
+BAG:damer add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 1:15 PM
+BAG:damer add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/28/2023 1:15 PM
+BAG:damer add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/28/2023 1:15 PM
+BAG:damer add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/28/2023 1:16 PM
+BAG:damer add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/28/2023 1:16 PM
+BAG:damer add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/28/2023 1:16 PM
+BAG:damer add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/28/2023 1:16 PM
+BAG:damer add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/28/2023 1:16 PM
+BAG:damer add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/28/2023 1:16 PM
+BAG:damer add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/28/2023 1:16 PM
+BAG:damer add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/28/2023 1:16 PM
+BAG:damer add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/28/2023 1:16 PM
+BAG:damer add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 1:17 PM
+BAG:damer add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 1:17 PM
+BAG:damer add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 1:17 PM
+BAG:damer add 1xÁo sắt Tron lydo: Cường Hóa trang bị at 03/28/2023 1:17 PM
+BAG:damer add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/28/2023 1:17 PM
+BAG:damer add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/28/2023 1:17 PM
+BAG:damer add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 1:17 PM
+BAG:damer add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 1:17 PM
+BAG:damer add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 1:18 PM
+BAG:damer add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 1:18 PM
+BAG:damer add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 1:18 PM
+BAG:damer add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 1:18 PM
+BAG:damer add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 1:18 PM
+BAG:damer add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 1:18 PM
+BAG:damer add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 1:18 PM
+BAG:damer add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 1:18 PM
+BAG:damer add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 1:18 PM
+BAG:damer add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 1:18 PM

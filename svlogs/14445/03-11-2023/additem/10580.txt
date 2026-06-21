@@ -1,0 +1,1597 @@
+BAG:vuabipgame add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 12:55 PM
+BAG:vuabipgame add 5xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 12:56 PM
+BAG:vuabipgame add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 12:56 PM
+BAG:vuabipgame add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/11/2023 1:04 PM
+BAG:vuabipgame add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 1:04 PM
+BAG:vuabipgame add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/11/2023 1:04 PM
+BAG:vuabipgame add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/11/2023 1:08 PM
+BAG:vuabipgame add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/11/2023 1:09 PM
+BAG:vuabipgame add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/11/2023 1:09 PM
+BAG:vuabipgame add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/11/2023 1:09 PM
+BAG:vuabipgame add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/11/2023 1:12 PM
+BAG:vuabipgame add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/11/2023 1:12 PM
+BAG:vuabipgame add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 1:13 PM
+BAG:vuabipgame add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 1:13 PM
+BAG:vuabipgame add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/11/2023 1:14 PM
+BAG:vuabipgame add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 1:14 PM
+BAG:vuabipgame add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 1:14 PM
+BAG:vuabipgame add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/11/2023 1:14 PM
+BAG:vuabipgame add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 1:15 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 1:16 PM
+BAG:vuabipgame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 1:18 PM
+BAG:vuabipgame add 1xMảnh Phi long lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:vuabipgame add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:vuabipgame add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:vuabipgame add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:vuabipgame add 12xMảnh Lợn lòi (old: 11) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:vuabipgame add 13xMảnh Lợn lòi (old: 12) lydo: Nhặt từ map at 03/11/2023 1:22 PM
+BAG:vuabipgame add 14xMảnh Lợn lòi (old: 13) lydo: Nhặt từ map at 03/11/2023 1:22 PM
+BAG:vuabipgame add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 1:22 PM
+BAG:vuabipgame add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 1:22 PM
+BAG:vuabipgame add 3xMảnh Phi long (old: 2) lydo: Nhặt từ map at 03/11/2023 1:22 PM
+BAG:vuabipgame add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 1:23 PM
+BAG:vuabipgame add 1xSách đấm Demon lv1 lydo: Mua từ cửa hàng at 03/11/2023 1:24 PM
+BAG:vuabipgame add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/11/2023 1:24 PM
+BAG:vuabipgame add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/11/2023 1:24 PM
+BAG:vuabipgame add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/11/2023 1:24 PM
+BAG:vuabipgame add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/11/2023 1:24 PM
+BAG:vuabipgame add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/11/2023 1:24 PM
+BAG:vuabipgame add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 03/11/2023 1:24 PM
+BAG:vuabipgame add 1xSách Masenko lv1 lydo: Mua từ cửa hàng at 03/11/2023 1:25 PM
+BAG:vuabipgame add 1xSách Masenko lv2 lydo: Mua từ cửa hàng at 03/11/2023 1:25 PM
+BAG:vuabipgame add 1xSách Masenko lv3 lydo: Mua từ cửa hàng at 03/11/2023 1:25 PM
+BAG:vuabipgame add 1xSách Masenko lv4 lydo: Mua từ cửa hàng at 03/11/2023 1:25 PM
+BAG:vuabipgame add 1xSách Masenko lv5 lydo: Mua từ cửa hàng at 03/11/2023 1:25 PM
+BAG:vuabipgame add 1xSách Masenko lv6 lydo: Mua từ cửa hàng at 03/11/2023 1:25 PM
+BAG:vuabipgame add 1xSách Masenko lv7 lydo: Mua từ cửa hàng at 03/11/2023 1:25 PM
+BAG:vuabipgame add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 03/11/2023 1:25 PM
+BAG:vuabipgame add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 03/11/2023 1:26 PM
+BAG:vuabipgame add 1xSách học Trị thương lv3 lydo: Mua từ cửa hàng at 03/11/2023 1:26 PM
+BAG:vuabipgame add 1xSách học Trị thương lv4 lydo: Mua từ cửa hàng at 03/11/2023 1:26 PM
+BAG:vuabipgame add 1xSách học Trị thương lv5 lydo: Mua từ cửa hàng at 03/11/2023 1:26 PM
+BAG:vuabipgame add 1xSách học Trị thương lv6 lydo: Mua từ cửa hàng at 03/11/2023 1:26 PM
+BAG:vuabipgame add 1xSách học Trị thương lv7 lydo: Mua từ cửa hàng at 03/11/2023 1:26 PM
+BAG:vuabipgame add 1xCột nhà lydo: Mua từ cửa hàng at 03/11/2023 1:26 PM
+BAG:vuabipgame add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/11/2023 1:28 PM
+BAG:vuabipgame add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 1:29 PM
+BAG:vuabipgame add 10xCuồng nộ lydo: Giftcode at 03/11/2023 1:31 PM
+BAG:vuabipgame add 10xBổ huyết lydo: Giftcode at 03/11/2023 1:31 PM
+BAG:vuabipgame add 10xBổ khí lydo: Giftcode at 03/11/2023 1:31 PM
+BAG:vuabipgame add 10xGiáp Xên bọ hung lydo: Giftcode at 03/11/2023 1:31 PM
+BAG:vuabipgame add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/11/2023 1:33 PM
+BAG:vuabipgame add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 1:33 PM
+BAG:vuabipgame add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 1:33 PM
+BAG:vuabipgame add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 1:33 PM
+BAG:vuabipgame add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 1:34 PM
+BAG:vuabipgame add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 1:34 PM
+BAG:vuabipgame add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 1:35 PM
+BAG:vuabipgame add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 1:35 PM
+BAG:vuabipgame add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 1:35 PM
+BAG:vuabipgame add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 1:35 PM
+BAG:vuabipgame add 50xThỏi vàng lydo: Giftcode at 03/11/2023 1:36 PM
+BAG:vuabipgame add 10xSao pha lê lydo: Giftcode at 03/11/2023 1:36 PM
+BAG:vuabipgame add 10xSao pha lê lydo: Giftcode at 03/11/2023 1:36 PM
+BAG:vuabipgame add 1xCải trang Gohan Bư lydo: Mua từ cửa hàng at 03/11/2023 1:38 PM
+BAG:vuabipgame add 1xĐá xanh lam lydo: Mua từ cửa hàng at 03/11/2023 1:38 PM
+BAG:vuabipgame add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/11/2023 1:46 PM
+BAG:vuabipgame add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 1:46 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 1:51 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Lấy từ rương qua người at 03/11/2023 1:52 PM
+BAG:vuabipgame add 49xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 1:52 PM
+BAG:vuabipgame add 10xSao pha lê lydo: Lấy từ rương qua người at 03/11/2023 1:52 PM
+BAG:vuabipgame add 1xViên Capsule đặc biệt lydo: Lấy từ rương qua người at 03/11/2023 1:52 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 1:58 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:vuabipgame add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:vuabipgame add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:vuabipgame add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 2:03 PM
+BAG:vuabipgame add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 2:03 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 2:03 PM
+BAG:vuabipgame add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 2:04 PM
+BAG:vuabipgame add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 2:04 PM
+BAG:vuabipgame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 2:04 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 2:04 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 2:04 PM
+BAG:vuabipgame add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 2:05 PM
+BAG:vuabipgame add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 2:05 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 2:05 PM
+BAG:vuabipgame add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 2:05 PM
+BAG:vuabipgame add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 2:05 PM
+BAG:vuabipgame add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 2:06 PM
+BAG:vuabipgame add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 2:10 PM
+BAG:vuabipgame add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 2:11 PM
+BAG:vuabipgame add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 2:11 PM
+BAG:vuabipgame add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 2:12 PM
+BAG:vuabipgame add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 2:13 PM
+BAG:vuabipgame add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 2:14 PM
+BAG:vuabipgame add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 2:14 PM
+BAG:vuabipgame add 7xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 2:17 PM
+BAG:vuabipgame add 10xĐậu thần cấp 10 (old: 7) lydo: Thu hoạch đậu at 03/11/2023 2:17 PM
+BAG:vuabipgame add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 2:22 PM
+BAG:vuabipgame add 10xĐậu thần cấp 10 (old: 4) lydo: Thu hoạch đậu at 03/11/2023 2:26 PM
+BAG:vuabipgame add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:vuabipgame add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:vuabipgame add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:vuabipgame add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:vuabipgame add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:vuabipgame add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:vuabipgame add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:vuabipgame add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:vuabipgame add 1xPhi Long VIP lydo: Mua từ cửa hàng at 03/11/2023 2:31 PM
+BAG:vuabipgame add 1xĐẻ trứng lv1 lydo: Mua từ cửa hàng at 03/11/2023 2:32 PM
+BAG:vuabipgame add 1xĐẻ trứng lv2 lydo: Mua từ cửa hàng at 03/11/2023 2:32 PM
+BAG:vuabipgame add 1xĐẻ trứng lv3 lydo: Mua từ cửa hàng at 03/11/2023 2:32 PM
+BAG:vuabipgame add 1xĐẻ trứng lv4 lydo: Mua từ cửa hàng at 03/11/2023 2:32 PM
+BAG:vuabipgame add 1xĐẻ trứng lv5 lydo: Mua từ cửa hàng at 03/11/2023 2:32 PM
+BAG:vuabipgame add 1xĐẻ trứng lv6 lydo: Mua từ cửa hàng at 03/11/2023 2:32 PM
+BAG:vuabipgame add 1xĐẻ trứng lv7 lydo: Mua từ cửa hàng at 03/11/2023 2:32 PM
+BAG:vuabipgame add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:vuabipgame add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:vuabipgame add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 2:34 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:vuabipgame add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:vuabipgame add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:vuabipgame add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:vuabipgame add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:vuabipgame add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:vuabipgame add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:vuabipgame add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:vuabipgame add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:vuabipgame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:vuabipgame add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:vuabipgame add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:vuabipgame add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:vuabipgame add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:vuabipgame add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:vuabipgame add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:vuabipgame add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:vuabipgame add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:vuabipgame add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:vuabipgame add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:vuabipgame add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:vuabipgame add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:vuabipgame add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:vuabipgame add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:vuabipgame add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:vuabipgame add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:vuabipgame add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:vuabipgame add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:vuabipgame add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:vuabipgame add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:vuabipgame add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:vuabipgame add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 2:44 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/11/2023 2:45 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 2:48 PM
+BAG:vuabipgame add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 2:52 PM
+BAG:vuabipgame add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:vuabipgame add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:vuabipgame add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:vuabipgame add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:vuabipgame add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:vuabipgame add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:vuabipgame add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 2:56 PM
+BAG:vuabipgame add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:vuabipgame add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:vuabipgame add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:vuabipgame add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:vuabipgame add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:vuabipgame add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:vuabipgame add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:vuabipgame add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:vuabipgame add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:vuabipgame add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:vuabipgame add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:vuabipgame add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:vuabipgame add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:vuabipgame add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:vuabipgame add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:vuabipgame add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 3:05 PM
+BAG:vuabipgame add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 3:05 PM
+BAG:vuabipgame add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 3:05 PM
+BAG:vuabipgame add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 3:07 PM
+BAG:vuabipgame add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/11/2023 3:07 PM
+BAG:vuabipgame add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/11/2023 3:07 PM
+BAG:vuabipgame add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 3:07 PM
+BAG:vuabipgame add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 3:08 PM
+BAG:vuabipgame add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 3:08 PM
+BAG:vuabipgame add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/11/2023 3:08 PM
+BAG:vuabipgame add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 3:09 PM
+BAG:vuabipgame add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 3:09 PM
+BAG:vuabipgame add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/11/2023 3:09 PM
+BAG:vuabipgame add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 3:10 PM
+BAG:vuabipgame add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:vuabipgame add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:vuabipgame add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:vuabipgame add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:vuabipgame add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:vuabipgame add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:vuabipgame add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:vuabipgame add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:vuabipgame add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:vuabipgame add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:vuabipgame add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:vuabipgame add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:vuabipgame add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:vuabipgame add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:vuabipgame add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:vuabipgame add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:vuabipgame add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:vuabipgame add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:vuabipgame add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:vuabipgame add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:vuabipgame add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:vuabipgame add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:vuabipgame add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:vuabipgame add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:vuabipgame add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:vuabipgame add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:vuabipgame add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:vuabipgame add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:vuabipgame add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:vuabipgame add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:vuabipgame add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:vuabipgame add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:vuabipgame add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:vuabipgame add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:vuabipgame add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:vuabipgame add 8xMảnh Khủng long mẹ (old: 7) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:vuabipgame add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:vuabipgame add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:vuabipgame add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:vuabipgame add 9xMảnh Khủng long mẹ (old: 8) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:vuabipgame add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:vuabipgame add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:vuabipgame add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:vuabipgame add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:vuabipgame add 10xMảnh Khủng long mẹ (old: 9) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:vuabipgame add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:vuabipgame add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:vuabipgame add 11xMảnh Khủng long mẹ (old: 10) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:vuabipgame add 12xMảnh Khủng long mẹ (old: 11) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:vuabipgame add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:vuabipgame add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:vuabipgame add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:vuabipgame add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:vuabipgame add 10xĐậu thần cấp 10 (old: 2) lydo: Thu hoạch đậu at 03/11/2023 3:27 PM
+BAG:vuabipgame add 1xGăng da Pico lydo: Mua từ cửa hàng at 03/11/2023 3:28 PM
+BAG:vuabipgame add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/11/2023 3:29 PM
+BAG:vuabipgame add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 3:30 PM
+BAG:vuabipgame add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:vuabipgame add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:vuabipgame add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:vuabipgame add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/11/2023 3:33 PM
+BAG:vuabipgame add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 03/11/2023 3:34 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 3:34 PM
+BAG:vuabipgame add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/11/2023 3:36 PM
+BAG:vuabipgame add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/11/2023 3:38 PM
+BAG:vuabipgame add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/11/2023 3:38 PM
+BAG:vuabipgame add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/11/2023 3:39 PM
+BAG:vuabipgame add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/11/2023 3:39 PM
+BAG:vuabipgame add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/11/2023 3:40 PM
+BAG:vuabipgame add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/11/2023 3:40 PM
+BAG:vuabipgame add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/11/2023 3:42 PM
+BAG:vuabipgame add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/11/2023 3:43 PM
+BAG:vuabipgame add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/11/2023 3:43 PM
+BAG:vuabipgame add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/11/2023 3:44 PM
+BAG:vuabipgame add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/11/2023 3:44 PM
+BAG:vuabipgame add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/11/2023 3:46 PM
+BAG:vuabipgame add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/11/2023 3:46 PM
+BAG:vuabipgame add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/11/2023 3:47 PM
+BAG:vuabipgame add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/11/2023 3:52 PM
+BAG:vuabipgame add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/11/2023 3:52 PM
+BAG:vuabipgame add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/11/2023 3:53 PM
+BAG:vuabipgame add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/11/2023 3:54 PM
+BAG:vuabipgame add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/11/2023 3:54 PM
+BAG:vuabipgame add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/11/2023 3:54 PM
+BAG:vuabipgame add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/11/2023 3:56 PM
+BAG:vuabipgame add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 3:56 PM
+BAG:vuabipgame add 43xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 4:00 PM
+BAG:vuabipgame add 1xGăng đồng Tron lydo: Mua từ cửa hàng at 03/11/2023 4:00 PM
+BAG:vuabipgame add 1xGăng đồng Tron lydo: Lấy từ rương qua người at 03/11/2023 4:01 PM
+BAG:vuabipgame add 1xBông tai Porata lydo: Lấy từ rương qua người at 03/11/2023 4:01 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:01 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:01 PM
+BAG:vuabipgame add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:01 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/11/2023 4:02 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Lấy từ rương qua người at 03/11/2023 4:02 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Lấy từ rương qua người at 03/11/2023 4:02 PM
+BAG:vuabipgame add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 4:02 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/11/2023 4:02 PM
+BAG:vuabipgame add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/11/2023 4:04 PM
+BAG:vuabipgame add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/11/2023 4:04 PM
+BAG:vuabipgame add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/11/2023 4:04 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 4:04 PM
+BAG:vuabipgame add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/11/2023 4:04 PM
+BAG:vuabipgame add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/11/2023 4:04 PM
+BAG:vuabipgame add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 4:04 PM
+BAG:vuabipgame add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/11/2023 4:05 PM
+BAG:vuabipgame add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 4:05 PM
+BAG:vuabipgame add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/11/2023 4:06 PM
+BAG:vuabipgame add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/11/2023 4:06 PM
+BAG:vuabipgame add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 4:06 PM
+BAG:vuabipgame add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/11/2023 4:06 PM
+BAG:vuabipgame add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 4:06 PM
+BAG:vuabipgame add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/11/2023 4:07 PM
+BAG:vuabipgame add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 4:07 PM
+BAG:vuabipgame add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 4:07 PM
+BAG:vuabipgame add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/11/2023 4:07 PM
+BAG:vuabipgame add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/11/2023 4:07 PM
+BAG:vuabipgame add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/11/2023 4:08 PM
+BAG:vuabipgame add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/11/2023 4:11 PM
+BAG:vuabipgame add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/11/2023 4:11 PM
+BAG:vuabipgame add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/11/2023 4:11 PM
+BAG:vuabipgame add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/11/2023 4:12 PM
+BAG:vuabipgame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 4:12 PM
+BAG:vuabipgame add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 4:12 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 4:13 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 4:13 PM
+BAG:vuabipgame add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 4:13 PM
+BAG:vuabipgame add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/11/2023 4:14 PM
+BAG:vuabipgame add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/11/2023 4:14 PM
+BAG:vuabipgame add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/11/2023 4:14 PM
+BAG:vuabipgame add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/11/2023 4:14 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 4:15 PM
+BAG:vuabipgame add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/11/2023 4:16 PM
+BAG:vuabipgame add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 4:16 PM
+BAG:vuabipgame add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/11/2023 4:16 PM
+BAG:vuabipgame add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/11/2023 4:16 PM
+BAG:vuabipgame add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 4:16 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 4:17 PM
+BAG:vuabipgame add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/11/2023 4:17 PM
+BAG:vuabipgame add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/11/2023 4:17 PM
+BAG:vuabipgame add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/11/2023 4:17 PM
+BAG:vuabipgame add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/11/2023 4:18 PM
+BAG:vuabipgame add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/11/2023 4:18 PM
+BAG:vuabipgame add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/11/2023 4:18 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 4:18 PM
+BAG:vuabipgame add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/11/2023 4:18 PM
+BAG:vuabipgame add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/11/2023 4:18 PM
+BAG:vuabipgame add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/11/2023 4:19 PM
+BAG:vuabipgame add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/11/2023 4:19 PM
+BAG:vuabipgame add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/11/2023 4:19 PM
+BAG:vuabipgame add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 4:19 PM
+BAG:vuabipgame add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/11/2023 4:20 PM
+BAG:vuabipgame add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/11/2023 4:20 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 4:21 PM
+BAG:vuabipgame add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/11/2023 4:21 PM
+BAG:vuabipgame add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/11/2023 4:21 PM
+BAG:vuabipgame add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/11/2023 4:22 PM
+BAG:vuabipgame add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/11/2023 4:22 PM
+BAG:vuabipgame add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/11/2023 4:22 PM
+BAG:vuabipgame add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/11/2023 4:22 PM
+BAG:vuabipgame add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/11/2023 4:26 PM
+BAG:vuabipgame add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/11/2023 4:27 PM
+BAG:vuabipgame add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/11/2023 4:27 PM
+BAG:vuabipgame add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/11/2023 4:27 PM
+BAG:vuabipgame add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/11/2023 4:27 PM
+BAG:vuabipgame add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/11/2023 4:28 PM
+BAG:vuabipgame add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/11/2023 4:28 PM
+BAG:vuabipgame add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/11/2023 4:28 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 4:29 PM
+BAG:vuabipgame add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/11/2023 4:29 PM
+BAG:vuabipgame add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/11/2023 4:29 PM
+BAG:vuabipgame add 8xMảnh Khủng long mẹ (old: 7) lydo: Nhặt từ map at 03/11/2023 4:30 PM
+BAG:vuabipgame add 9xMảnh Khủng long mẹ (old: 8) lydo: Nhặt từ map at 03/11/2023 4:30 PM
+BAG:vuabipgame add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/11/2023 4:30 PM
+BAG:vuabipgame add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/11/2023 4:30 PM
+BAG:vuabipgame add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/11/2023 4:31 PM
+BAG:vuabipgame add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/11/2023 4:31 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 4:31 PM
+BAG:vuabipgame add 10xMảnh Khủng long mẹ (old: 9) lydo: Nhặt từ map at 03/11/2023 4:31 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 4:31 PM
+BAG:vuabipgame add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 4:32 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/11/2023 4:32 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Lấy từ rương qua người at 03/11/2023 4:32 PM
+BAG:vuabipgame add 1xÁo bạc Zealot lydo: Mua từ cửa hàng at 03/11/2023 4:34 PM
+BAG:vuabipgame add 1xQuần bạc Zealot lydo: Mua từ cửa hàng at 03/11/2023 4:34 PM
+BAG:vuabipgame add 10xĐậu thần cấp 10 (old: 1) lydo: Thu hoạch đậu at 03/11/2023 4:35 PM
+BAG:vuabipgame add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/11/2023 4:35 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:vuabipgame add 1xQuần sợi len lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:vuabipgame add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:vuabipgame add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/11/2023 4:43 PM
+BAG:vuabipgame add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/11/2023 4:44 PM
+BAG:vuabipgame add 42xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 4:45 PM
+BAG:vuabipgame add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 4:46 PM
+BAG:vuabipgame add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/11/2023 4:46 PM
+BAG:vuabipgame add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/11/2023 4:47 PM
+BAG:vuabipgame add 19xPháo hoa (old: 14) lydo: Nhặt từ map at 03/11/2023 4:48 PM
+BAG:vuabipgame add 1xGiáp Xên bọ hung lydo: HQT at 03/11/2023 4:48 PM
+BAG:vuabipgame add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 4:48 PM
+BAG:vuabipgame add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/11/2023 4:48 PM
+BAG:vuabipgame add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/11/2023 4:48 PM
+BAG:vuabipgame add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 4:48 PM
+BAG:vuabipgame add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/11/2023 4:48 PM
+BAG:vuabipgame add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/11/2023 4:50 PM
+BAG:vuabipgame add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 4:52 PM
+BAG:vuabipgame add 12xGiáp Xên bọ hung (old: 2) lydo: Lấy từ rương qua người at 03/11/2023 4:52 PM
+BAG:vuabipgame add 10xBổ khí lydo: Lấy từ rương qua người at 03/11/2023 4:52 PM
+BAG:vuabipgame add 10xBổ huyết lydo: Lấy từ rương qua người at 03/11/2023 4:53 PM
+BAG:vuabipgame add 9xCuồng nộ lydo: Lấy từ rương qua người at 03/11/2023 4:53 PM
+BAG:vuabipgame add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 4:53 PM
+BAG:vuabipgame add 11xBổ khí (old: 10) lydo: HQT at 03/11/2023 4:53 PM
+BAG:vuabipgame add 10xCuồng nộ (old: 9) lydo: HQT at 03/11/2023 4:53 PM
+BAG:vuabipgame add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 4:54 PM
+BAG:vuabipgame add 1xCải trang lydo: Lấy từ body vào hành trang at 03/11/2023 4:57 PM
+BAG:vuabipgame add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 4:57 PM
+BAG:vuabipgame add 1xCải trang Hợp Thể lydo: Mua từ cửa hàng at 03/11/2023 4:57 PM
+BAG:vuabipgame add 1xCải trang Hợp Thể lydo: Mua từ cửa hàng at 03/11/2023 4:57 PM
+BAG:vuabipgame add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 4:58 PM
+BAG:vuabipgame add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 4:58 PM
+BAG:vuabipgame add 11xBổ huyết (old: 10) lydo: HQT at 03/11/2023 4:58 PM
+BAG:vuabipgame add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/11/2023 4:58 PM
+BAG:vuabipgame add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 4:58 PM
+BAG:vuabipgame add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 03/11/2023 4:59 PM
+BAG:vuabipgame add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xMakankosappo lv1 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xMakankosappo lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xMakankosappo lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xMakankosappo lv4 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xMakankosappo lv5 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xMakankosappo lv6 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xMakankosappo lv7 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xSách Biến Sôcôla lv1 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xSách Biến Sôcôla lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:vuabipgame add 1xSách Biến Sôcôla lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xSách Biến Sôcôla lv4 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xSách Biến Sôcôla lv5 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xSách Biến Sôcôla lv6 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xSách Biến Sôcôla lv7 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/11/2023 5:01 PM
+BAG:vuabipgame add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 5:06 PM
+BAG:vuabipgame add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:07 PM
+BAG:vuabipgame add 30xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 5:08 PM
+BAG:vuabipgame add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 4xNgọc Rồng 5 sao (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 5xNgọc Rồng 5 sao (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 6xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 6xNgọc Rồng 5 sao (old: 5) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/11/2023 5:11 PM
+BAG:vuabipgame add 7xNgọc Rồng 5 sao (old: 6) lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 8xNgọc Rồng 5 sao (old: 7) lydo: Lấy từ lucky box at 03/11/2023 5:13 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 5:32 PM
+BAG:vuabipgame add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/11/2023 5:33 PM
+BAG:vuabipgame add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/11/2023 5:34 PM
+BAG:vuabipgame add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 5:34 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 5:35 PM
+BAG:vuabipgame add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 5:35 PM
+BAG:vuabipgame add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/11/2023 5:35 PM
+BAG:vuabipgame add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:vuabipgame add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:38 PM
+BAG:vuabipgame add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 5:38 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 5:39 PM
+BAG:vuabipgame add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:vuabipgame add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:vuabipgame add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:vuabipgame add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:vuabipgame add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:vuabipgame add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:vuabipgame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:vuabipgame add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:vuabipgame add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:vuabipgame add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:vuabipgame add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:vuabipgame add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:vuabipgame add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:vuabipgame add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/11/2023 5:43 PM
+BAG:vuabipgame add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/11/2023 5:43 PM
+BAG:vuabipgame add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 5:43 PM
+BAG:vuabipgame add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 5:43 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 5:43 PM
+BAG:vuabipgame add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/11/2023 5:45 PM
+BAG:vuabipgame add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 5:45 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 5:45 PM
+BAG:vuabipgame add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 5:46 PM
+BAG:vuabipgame add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 5:46 PM
+BAG:vuabipgame add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 5:46 PM
+BAG:vuabipgame add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 5:46 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 5:46 PM
+BAG:vuabipgame add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:vuabipgame add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:vuabipgame add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:vuabipgame add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:vuabipgame add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:vuabipgame add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:vuabipgame add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:vuabipgame add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:vuabipgame add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 5:49 PM
+BAG:vuabipgame add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/11/2023 5:49 PM
+BAG:vuabipgame add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/11/2023 5:49 PM
+BAG:vuabipgame add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 5:50 PM
+BAG:vuabipgame add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 5:50 PM
+BAG:vuabipgame add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/11/2023 5:51 PM
+BAG:vuabipgame add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 5:51 PM
+BAG:vuabipgame add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/11/2023 5:52 PM
+BAG:vuabipgame add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 5:52 PM
+BAG:vuabipgame add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/11/2023 5:52 PM
+BAG:vuabipgame add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 5:52 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 5:52 PM
+BAG:vuabipgame add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 5:53 PM
+BAG:vuabipgame add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 5:53 PM
+BAG:vuabipgame add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/11/2023 5:53 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 5:54 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 5:54 PM
+BAG:vuabipgame add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/11/2023 5:54 PM
+BAG:vuabipgame add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/11/2023 5:54 PM
+BAG:vuabipgame add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 5:54 PM
+BAG:vuabipgame add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/11/2023 5:54 PM
+BAG:vuabipgame add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/11/2023 5:55 PM
+BAG:vuabipgame add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 5:55 PM
+BAG:vuabipgame add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 5:55 PM
+BAG:vuabipgame add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/11/2023 5:55 PM
+BAG:vuabipgame add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/11/2023 5:55 PM
+BAG:vuabipgame add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:vuabipgame add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:vuabipgame add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:vuabipgame add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:vuabipgame add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/11/2023 5:57 PM
+BAG:vuabipgame add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 5:57 PM
+BAG:vuabipgame add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 5:57 PM
+BAG:vuabipgame add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/11/2023 5:59 PM
+BAG:vuabipgame add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 5:59 PM
+BAG:vuabipgame add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/11/2023 5:59 PM
+BAG:vuabipgame add 1xQuần sợi len lydo: Lấy từ rương qua người at 03/11/2023 6:00 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Lấy từ rương qua người at 03/11/2023 6:00 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Lấy từ rương qua người at 03/11/2023 6:00 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/11/2023 6:00 PM
+BAG:vuabipgame add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 6:00 PM
+BAG:vuabipgame add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 6:01 PM
+BAG:vuabipgame add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/11/2023 6:02 PM
+BAG:vuabipgame add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/11/2023 6:03 PM
+BAG:vuabipgame add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/11/2023 6:04 PM
+BAG:vuabipgame add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/11/2023 6:04 PM
+BAG:vuabipgame add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 6:04 PM
+BAG:vuabipgame add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/11/2023 6:04 PM
+BAG:vuabipgame add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:vuabipgame add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:vuabipgame add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:vuabipgame add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:vuabipgame add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:vuabipgame add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:vuabipgame add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:vuabipgame add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:vuabipgame add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:vuabipgame add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:vuabipgame add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:vuabipgame add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 6:07 PM
+BAG:vuabipgame add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/11/2023 6:07 PM
+BAG:vuabipgame add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/11/2023 6:07 PM
+BAG:vuabipgame add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 6:07 PM
+BAG:vuabipgame add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 6:08 PM
+BAG:vuabipgame add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/11/2023 6:08 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 6:08 PM
+BAG:vuabipgame add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/11/2023 6:09 PM
+BAG:vuabipgame add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/11/2023 6:09 PM
+BAG:vuabipgame add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/11/2023 6:10 PM
+BAG:vuabipgame add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/11/2023 6:11 PM
+BAG:vuabipgame add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/11/2023 6:11 PM
+BAG:vuabipgame add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/11/2023 6:11 PM
+BAG:vuabipgame add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/11/2023 6:11 PM
+BAG:vuabipgame add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 6:11 PM
+BAG:vuabipgame add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 6:11 PM
+BAG:vuabipgame add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vuabipgame add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vuabipgame add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vuabipgame add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vuabipgame add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vuabipgame add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/11/2023 6:13 PM
+BAG:vuabipgame add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 6:13 PM
+BAG:vuabipgame add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 6:14 PM
+BAG:vuabipgame add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/11/2023 6:15 PM
+BAG:vuabipgame add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 6:15 PM
+BAG:vuabipgame add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/11/2023 6:15 PM
+BAG:vuabipgame add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/11/2023 6:15 PM
+BAG:vuabipgame add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/11/2023 6:16 PM
+BAG:vuabipgame add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/11/2023 6:16 PM
+BAG:vuabipgame add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/11/2023 6:16 PM
+BAG:vuabipgame add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/11/2023 6:16 PM
+BAG:vuabipgame add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/11/2023 6:18 PM
+BAG:vuabipgame add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 6:18 PM
+BAG:vuabipgame add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/11/2023 6:18 PM
+BAG:vuabipgame add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 6:19 PM
+BAG:vuabipgame add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/11/2023 6:19 PM
+BAG:vuabipgame add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/11/2023 6:20 PM
+BAG:vuabipgame add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/11/2023 6:20 PM
+BAG:vuabipgame add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/11/2023 6:20 PM
+BAG:vuabipgame add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/11/2023 6:21 PM
+BAG:vuabipgame add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/11/2023 6:21 PM
+BAG:vuabipgame add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/11/2023 6:21 PM
+BAG:vuabipgame add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/11/2023 6:21 PM
+BAG:vuabipgame add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/11/2023 6:21 PM
+BAG:vuabipgame add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/11/2023 6:21 PM
+BAG:vuabipgame add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:vuabipgame add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:vuabipgame add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/11/2023 6:23 PM
+BAG:vuabipgame add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/11/2023 6:23 PM
+BAG:vuabipgame add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/11/2023 6:24 PM
+BAG:vuabipgame add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/11/2023 6:24 PM
+BAG:vuabipgame add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/11/2023 6:24 PM
+BAG:vuabipgame add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:vuabipgame add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:vuabipgame add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:vuabipgame add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:vuabipgame add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:vuabipgame add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:vuabipgame add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:vuabipgame add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:vuabipgame add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:vuabipgame add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:vuabipgame add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:vuabipgame add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:vuabipgame add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:vuabipgame add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:vuabipgame add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:vuabipgame add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:vuabipgame add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:vuabipgame add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/11/2023 6:31 PM
+BAG:vuabipgame add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 03/11/2023 6:31 PM
+BAG:vuabipgame add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:vuabipgame add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:vuabipgame add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:vuabipgame add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:vuabipgame add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:vuabipgame add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:vuabipgame add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:vuabipgame add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:vuabipgame add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:vuabipgame add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:vuabipgame add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/11/2023 6:35 PM
+BAG:vuabipgame add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:vuabipgame add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:vuabipgame add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:vuabipgame add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:vuabipgame add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:vuabipgame add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:vuabipgame add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:vuabipgame add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/11/2023 6:38 PM
+BAG:vuabipgame add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/11/2023 6:38 PM
+BAG:vuabipgame add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/11/2023 6:38 PM
+BAG:vuabipgame add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/11/2023 6:39 PM
+BAG:vuabipgame add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/11/2023 6:39 PM
+BAG:vuabipgame add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/11/2023 6:39 PM
+BAG:vuabipgame add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/11/2023 6:39 PM
+BAG:vuabipgame add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:vuabipgame add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:vuabipgame add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:vuabipgame add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:vuabipgame add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/11/2023 6:41 PM
+BAG:vuabipgame add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/11/2023 6:41 PM
+BAG:vuabipgame add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/11/2023 6:41 PM
+BAG:vuabipgame add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:vuabipgame add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:vuabipgame add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:vuabipgame add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:vuabipgame add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:vuabipgame add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:vuabipgame add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:vuabipgame add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/11/2023 6:45 PM
+BAG:vuabipgame add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/11/2023 6:45 PM
+BAG:vuabipgame add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:vuabipgame add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:vuabipgame add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:vuabipgame add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/11/2023 6:47 PM
+BAG:vuabipgame add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:vuabipgame add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:vuabipgame add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/11/2023 6:50 PM
+BAG:vuabipgame add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 03/11/2023 6:50 PM
+BAG:vuabipgame add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:vuabipgame add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:vuabipgame add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/11/2023 6:52 PM
+BAG:vuabipgame add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:53 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:53 PM
+BAG:vuabipgame add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:53 PM
+BAG:vuabipgame add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/11/2023 6:53 PM
+BAG:vuabipgame add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:vuabipgame add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:vuabipgame add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:vuabipgame add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:vuabipgame add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:vuabipgame add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:vuabipgame add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/11/2023 6:57 PM
+BAG:vuabipgame add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/11/2023 6:57 PM
+BAG:vuabipgame add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/11/2023 6:57 PM
+BAG:vuabipgame add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/11/2023 6:57 PM
+BAG:vuabipgame add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/11/2023 6:58 PM
+BAG:vuabipgame add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/11/2023 6:58 PM
+BAG:vuabipgame add 9xBổ huyết (old: 8) lydo: HQT at 03/11/2023 6:58 PM
+BAG:vuabipgame add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/11/2023 6:58 PM
+BAG:vuabipgame add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/11/2023 6:58 PM
+BAG:vuabipgame add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/11/2023 6:58 PM
+BAG:vuabipgame add 9xCuồng nộ (old: 8) lydo: HQT at 03/11/2023 6:58 PM
+BAG:vuabipgame add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:vuabipgame add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 6:58 PM
+BAG:vuabipgame add 20xNgọc Rồng 6 sao (old: 14) lydo: Lấy từ rương qua người at 03/11/2023 6:58 PM
+BAG:vuabipgame add 8xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ rương qua người at 03/11/2023 6:58 PM
+BAG:vuabipgame add 23xNgọc Rồng 5 sao (old: 13) lydo: Lấy từ rương qua người at 03/11/2023 6:58 PM
+BAG:vuabipgame add 9xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ rương qua người at 03/11/2023 6:58 PM
+BAG:vuabipgame add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:vuabipgame add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:vuabipgame add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:vuabipgame add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:01 PM
+BAG:vuabipgame add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:vuabipgame add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:02 PM
+BAG:vuabipgame add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:vuabipgame add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:vuabipgame add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:vuabipgame add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:vuabipgame add 1xNgọc Rồng 6 sao lydo: HQT at 03/11/2023 7:19 PM
+BAG:vuabipgame add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:vuabipgame add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:vuabipgame add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:vuabipgame add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:vuabipgame add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:vuabipgame add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:vuabipgame add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:vuabipgame add 123xThỏi vàng (old: 23) lydo: Giftcode at 03/11/2023 7:31 PM
+BAG:vuabipgame add 1000xPháo hoa lydo: Giftcode at 03/11/2023 7:31 PM
+BAG:vuabipgame add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:vuabipgame add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:vuabipgame add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:vuabipgame add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:vuabipgame add 6xBổ khí (old: 5) lydo: HQT at 03/11/2023 7:32 PM
+BAG:vuabipgame add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/11/2023 7:32 PM
+BAG:vuabipgame add 1xNgọc Rồng 5 sao lydo: HQT at 03/11/2023 7:32 PM
+BAG:vuabipgame add 13xPháo hoa (old: 8) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:vuabipgame add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 9xGiáp Xên bọ hung (old: 8) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 10xGiáp Xên bọ hung (old: 9) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 10xBổ huyết (old: 9) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 11xBổ huyết (old: 10) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 7xBổ khí (old: 6) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 12xBổ huyết (old: 11) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 10xCuồng nộ (old: 9) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 11xCuồng nộ (old: 10) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/11/2023 7:33 PM
+BAG:vuabipgame add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:vuabipgame add 13xBổ huyết (old: 12) lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 1xNgọc Rồng 6 sao lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 1xNgọc Rồng 5 sao lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 12xCuồng nộ (old: 11) lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 8xBổ khí (old: 7) lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 9xBổ khí (old: 8) lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 13xCuồng nộ (old: 12) lydo: HQT at 03/11/2023 7:37 PM
+BAG:vuabipgame add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:vuabipgame add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:vuabipgame add 14xCuồng nộ (old: 13) lydo: HQT at 03/11/2023 7:38 PM
+BAG:vuabipgame add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/11/2023 7:38 PM
+BAG:vuabipgame add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/11/2023 7:38 PM
+BAG:vuabipgame add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/11/2023 7:38 PM
+BAG:vuabipgame add 14xBổ huyết (old: 13) lydo: HQT at 03/11/2023 7:38 PM
+BAG:vuabipgame add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/11/2023 7:38 PM
+BAG:vuabipgame add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:vuabipgame add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:vuabipgame add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:vuabipgame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:vuabipgame add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:vuabipgame add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/11/2023 7:40 PM
+BAG:vuabipgame add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/11/2023 7:40 PM
+BAG:vuabipgame add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/11/2023 7:40 PM
+BAG:vuabipgame add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/11/2023 7:40 PM
+BAG:vuabipgame add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/11/2023 7:40 PM
+BAG:vuabipgame add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/11/2023 7:40 PM
+BAG:vuabipgame add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/11/2023 7:40 PM
+BAG:vuabipgame add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/11/2023 7:40 PM
+BAG:vuabipgame add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/11/2023 7:40 PM
+BAG:vuabipgame add 15xCuồng nộ (old: 14) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 15xBổ huyết (old: 14) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 16xCuồng nộ (old: 15) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 17xGiáp Xên bọ hung (old: 16) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 18xGiáp Xên bọ hung (old: 17) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 10xBổ khí (old: 9) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 19xGiáp Xên bọ hung (old: 18) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 20xGiáp Xên bọ hung (old: 19) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 11xBổ khí (old: 10) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 17xCuồng nộ (old: 16) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 16xBổ huyết (old: 15) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 21xGiáp Xên bọ hung (old: 20) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 12xBổ khí (old: 11) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 17xBổ huyết (old: 16) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 18xCuồng nộ (old: 17) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 13xBổ khí (old: 12) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 19xCuồng nộ (old: 18) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 22xGiáp Xên bọ hung (old: 21) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 23xGiáp Xên bọ hung (old: 22) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 18xBổ huyết (old: 17) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 20xCuồng nộ (old: 19) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 19xBổ huyết (old: 18) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 20xBổ huyết (old: 19) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/11/2023 7:41 PM
+BAG:vuabipgame add 21xBổ huyết (old: 20) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 22xBổ huyết (old: 21) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 25xGiáp Xên bọ hung (old: 24) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 21xCuồng nộ (old: 20) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 26xGiáp Xên bọ hung (old: 25) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 14xBổ khí (old: 13) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 15xBổ khí (old: 14) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:vuabipgame add 23xBổ huyết (old: 22) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 22xCuồng nộ (old: 21) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 23xCuồng nộ (old: 22) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 16xBổ khí (old: 15) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 17xBổ khí (old: 16) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 24xBổ huyết (old: 23) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 24xCuồng nộ (old: 23) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 27xGiáp Xên bọ hung (old: 26) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 25xCuồng nộ (old: 24) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:vuabipgame add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 28xGiáp Xên bọ hung (old: 27) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 29xGiáp Xên bọ hung (old: 28) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 18xBổ khí (old: 17) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 18xNgọc Rồng 7 sao (old: 17) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 25xBổ huyết (old: 24) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 26xBổ huyết (old: 25) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 27xBổ huyết (old: 26) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 19xBổ khí (old: 18) lydo: HQT at 03/11/2023 7:42 PM
+BAG:vuabipgame add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 29xGiáp Xên bọ hung (old: 28) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 19xNgọc Rồng 7 sao (old: 18) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 20xNgọc Rồng 7 sao (old: 19) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 20xBổ khí (old: 19) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 21xNgọc Rồng 7 sao (old: 20) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 21xBổ khí (old: 20) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 22xNgọc Rồng 7 sao (old: 21) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 22xBổ khí (old: 21) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 30xGiáp Xên bọ hung (old: 29) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 26xCuồng nộ (old: 25) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 31xGiáp Xên bọ hung (old: 30) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 28xBổ huyết (old: 27) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 23xBổ khí (old: 22) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 23xNgọc Rồng 7 sao (old: 22) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 24xNgọc Rồng 7 sao (old: 23) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 32xGiáp Xên bọ hung (old: 31) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 29xBổ huyết (old: 28) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 33xGiáp Xên bọ hung (old: 32) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 30xBổ huyết (old: 29) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 24xBổ khí (old: 23) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 31xBổ huyết (old: 30) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 19xNgọc Rồng 5 sao (old: 18) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 32xBổ huyết (old: 31) lydo: HQT at 03/11/2023 7:43 PM
+BAG:vuabipgame add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:vuabipgame add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:vuabipgame add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:vuabipgame add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:vuabipgame add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:vuabipgame add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:vuabipgame add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:vuabipgame add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 7:57 PM
+BAG:vuabipgame add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:vuabipgame add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 7:59 PM
+BAG:vuabipgame add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 03/11/2023 7:59 PM
+BAG:vuabipgame add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/11/2023 7:59 PM
+BAG:vuabipgame add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 7:59 PM
+BAG:vuabipgame add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 7:59 PM
+BAG:vuabipgame add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 8:00 PM
+BAG:vuabipgame add 27xCuồng nộ (old: 26) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 20xNgọc Rồng 5 sao (old: 19) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 25xNgọc Rồng 7 sao (old: 24) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 25xBổ khí (old: 24) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 26xNgọc Rồng 7 sao (old: 25) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/11/2023 8:00 PM
+BAG:vuabipgame add 21xNgọc Rồng 5 sao (old: 20) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 34xGiáp Xên bọ hung (old: 33) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 15xNgọc Rồng 6 sao (old: 14) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 16xNgọc Rồng 6 sao (old: 15) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 22xNgọc Rồng 5 sao (old: 21) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 35xGiáp Xên bọ hung (old: 34) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 27xNgọc Rồng 7 sao (old: 26) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 23xNgọc Rồng 5 sao (old: 22) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 28xCuồng nộ (old: 27) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 28xNgọc Rồng 7 sao (old: 27) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 29xNgọc Rồng 7 sao (old: 28) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 24xNgọc Rồng 5 sao (old: 23) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 29xCuồng nộ (old: 28) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 26xBổ khí (old: 25) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 27xBổ khí (old: 26) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 36xGiáp Xên bọ hung (old: 35) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 30xNgọc Rồng 7 sao (old: 29) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 31xNgọc Rồng 7 sao (old: 30) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 32xNgọc Rồng 7 sao (old: 31) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 30xCuồng nộ (old: 29) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 25xNgọc Rồng 5 sao (old: 24) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 37xGiáp Xên bọ hung (old: 36) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 26xNgọc Rồng 5 sao (old: 25) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 27xNgọc Rồng 5 sao (old: 26) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 28xNgọc Rồng 5 sao (old: 27) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/11/2023 8:00 PM
+BAG:vuabipgame add 28xBổ khí (old: 27) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 21xNgọc Rồng 6 sao (old: 20) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 22xNgọc Rồng 6 sao (old: 21) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 23xNgọc Rồng 6 sao (old: 22) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 33xNgọc Rồng 7 sao (old: 32) lydo: HQT at 03/11/2023 8:00 PM
+BAG:vuabipgame add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 8:01 PM
+BAG:vuabipgame add 29xNgọc Rồng 5 sao (old: 28) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 31xCuồng nộ (old: 30) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 33xBổ huyết (old: 32) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 32xCuồng nộ (old: 31) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 38xGiáp Xên bọ hung (old: 37) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 24xNgọc Rồng 6 sao (old: 23) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 22xNgọc Rồng 4 sao (old: 21) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 8:01 PM
+BAG:vuabipgame add 30xNgọc Rồng 5 sao (old: 29) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 34xBổ huyết (old: 33) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 31xNgọc Rồng 5 sao (old: 30) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 39xGiáp Xên bọ hung (old: 38) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 32xNgọc Rồng 5 sao (old: 31) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 40xGiáp Xên bọ hung (old: 39) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 34xNgọc Rồng 7 sao (old: 33) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 8:01 PM
+BAG:vuabipgame add 33xCuồng nộ (old: 32) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 41xGiáp Xên bọ hung (old: 40) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 35xNgọc Rồng 7 sao (old: 34) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 34xCuồng nộ (old: 33) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 29xBổ khí (old: 28) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 36xNgọc Rồng 7 sao (old: 35) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 33xNgọc Rồng 5 sao (old: 32) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 34xNgọc Rồng 5 sao (old: 33) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 30xBổ khí (old: 29) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 25xNgọc Rồng 6 sao (old: 24) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 35xCuồng nộ (old: 34) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 35xNgọc Rồng 5 sao (old: 34) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 36xNgọc Rồng 5 sao (old: 35) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 36xCuồng nộ (old: 35) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 37xCuồng nộ (old: 36) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 38xCuồng nộ (old: 37) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 23xNgọc Rồng 4 sao (old: 22) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 26xNgọc Rồng 6 sao (old: 25) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 37xNgọc Rồng 7 sao (old: 36) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 31xBổ khí (old: 30) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 38xNgọc Rồng 7 sao (old: 37) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 39xNgọc Rồng 7 sao (old: 38) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 35xBổ huyết (old: 34) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 24xNgọc Rồng 4 sao (old: 23) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 42xGiáp Xên bọ hung (old: 41) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 39xCuồng nộ (old: 38) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 40xCuồng nộ (old: 39) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 27xNgọc Rồng 6 sao (old: 26) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 40xNgọc Rồng 7 sao (old: 39) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 41xCuồng nộ (old: 40) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 43xGiáp Xên bọ hung (old: 42) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 32xBổ khí (old: 31) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 36xBổ huyết (old: 35) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 28xNgọc Rồng 6 sao (old: 27) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 33xBổ khí (old: 32) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 41xNgọc Rồng 7 sao (old: 40) lydo: HQT at 03/11/2023 8:01 PM
+BAG:vuabipgame add 44xGiáp Xên bọ hung (old: 43) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 26xNgọc Rồng 4 sao (old: 25) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 37xNgọc Rồng 5 sao (old: 36) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 29xNgọc Rồng 6 sao (old: 28) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 37xBổ huyết (old: 36) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 45xGiáp Xên bọ hung (old: 44) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 38xBổ huyết (old: 37) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 42xCuồng nộ (old: 41) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 42xNgọc Rồng 7 sao (old: 41) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 8:02 PM
+BAG:vuabipgame add 27xNgọc Rồng 4 sao (old: 26) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 30xNgọc Rồng 6 sao (old: 29) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 38xNgọc Rồng 5 sao (old: 37) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 34xBổ khí (old: 33) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 28xNgọc Rồng 4 sao (old: 27) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 39xBổ huyết (old: 38) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 35xBổ khí (old: 34) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 40xBổ huyết (old: 39) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 46xGiáp Xên bọ hung (old: 45) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/11/2023 8:02 PM
+BAG:vuabipgame add 47xGiáp Xên bọ hung (old: 46) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 36xBổ khí (old: 35) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 37xBổ khí (old: 36) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 48xGiáp Xên bọ hung (old: 47) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 43xNgọc Rồng 7 sao (old: 42) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 8:02 PM
+BAG:vuabipgame add 44xNgọc Rồng 7 sao (old: 43) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 41xBổ huyết (old: 40) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 42xBổ huyết (old: 41) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 31xNgọc Rồng 6 sao (old: 30) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 43xCuồng nộ (old: 42) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 49xGiáp Xên bọ hung (old: 48) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 44xCuồng nộ (old: 43) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 39xNgọc Rồng 5 sao (old: 38) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 32xNgọc Rồng 6 sao (old: 31) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 33xNgọc Rồng 6 sao (old: 32) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 34xNgọc Rồng 6 sao (old: 33) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 45xCuồng nộ (old: 44) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 40xNgọc Rồng 5 sao (old: 39) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 35xNgọc Rồng 6 sao (old: 34) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 36xNgọc Rồng 6 sao (old: 35) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 41xNgọc Rồng 5 sao (old: 40) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 29xNgọc Rồng 4 sao (old: 28) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 30xNgọc Rồng 4 sao (old: 29) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 31xNgọc Rồng 4 sao (old: 30) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 8:02 PM
+BAG:vuabipgame add 45xNgọc Rồng 7 sao (old: 44) lydo: HQT at 03/11/2023 8:02 PM
+BAG:vuabipgame add 43xBổ huyết (old: 42) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 50xGiáp Xên bọ hung (old: 49) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 46xNgọc Rồng 7 sao (old: 45) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 38xBổ khí (old: 37) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 8:03 PM
+BAG:vuabipgame add 44xBổ huyết (old: 43) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 42xNgọc Rồng 5 sao (old: 41) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 51xGiáp Xên bọ hung (old: 50) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 47xNgọc Rồng 7 sao (old: 46) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 48xNgọc Rồng 7 sao (old: 47) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 49xNgọc Rồng 7 sao (old: 48) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 39xBổ khí (old: 38) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 43xNgọc Rồng 5 sao (old: 42) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 32xNgọc Rồng 4 sao (old: 31) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 45xBổ huyết (old: 44) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 46xCuồng nộ (old: 45) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 33xNgọc Rồng 4 sao (old: 32) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 37xNgọc Rồng 6 sao (old: 36) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 50xNgọc Rồng 7 sao (old: 49) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 44xNgọc Rồng 5 sao (old: 43) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 34xNgọc Rồng 4 sao (old: 33) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 46xBổ huyết (old: 45) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 47xCuồng nộ (old: 46) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 35xNgọc Rồng 4 sao (old: 34) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 52xGiáp Xên bọ hung (old: 51) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 51xNgọc Rồng 7 sao (old: 50) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 53xGiáp Xên bọ hung (old: 52) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 54xGiáp Xên bọ hung (old: 53) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 45xNgọc Rồng 5 sao (old: 44) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 46xNgọc Rồng 5 sao (old: 45) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 47xNgọc Rồng 5 sao (old: 46) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 36xNgọc Rồng 4 sao (old: 35) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 55xGiáp Xên bọ hung (old: 54) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 47xBổ huyết (old: 46) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 48xBổ huyết (old: 47) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 38xNgọc Rồng 6 sao (old: 37) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 49xBổ huyết (old: 48) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 39xNgọc Rồng 6 sao (old: 38) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 52xNgọc Rồng 7 sao (old: 51) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 48xNgọc Rồng 5 sao (old: 47) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 49xNgọc Rồng 5 sao (old: 48) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 56xGiáp Xên bọ hung (old: 55) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 57xGiáp Xên bọ hung (old: 56) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 50xBổ huyết (old: 49) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 50xNgọc Rồng 5 sao (old: 49) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 51xBổ huyết (old: 50) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 53xNgọc Rồng 7 sao (old: 52) lydo: HQT at 03/11/2023 8:03 PM
+BAG:vuabipgame add 37xNgọc Rồng 4 sao (old: 36) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 40xNgọc Rồng 6 sao (old: 39) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 58xGiáp Xên bọ hung (old: 57) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 40xBổ khí (old: 39) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 59xGiáp Xên bọ hung (old: 58) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 38xNgọc Rồng 4 sao (old: 37) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 60xGiáp Xên bọ hung (old: 59) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 54xNgọc Rồng 7 sao (old: 53) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 48xCuồng nộ (old: 47) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 51xNgọc Rồng 5 sao (old: 50) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 52xBổ huyết (old: 51) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 49xCuồng nộ (old: 48) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 41xBổ khí (old: 40) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 41xNgọc Rồng 6 sao (old: 40) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 55xNgọc Rồng 7 sao (old: 54) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 50xCuồng nộ (old: 49) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 42xBổ khí (old: 41) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 56xNgọc Rồng 7 sao (old: 55) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 57xNgọc Rồng 7 sao (old: 56) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 53xBổ huyết (old: 52) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 58xNgọc Rồng 7 sao (old: 57) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 54xBổ huyết (old: 53) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 39xNgọc Rồng 4 sao (old: 38) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 42xNgọc Rồng 6 sao (old: 41) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 43xNgọc Rồng 6 sao (old: 42) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 44xNgọc Rồng 6 sao (old: 43) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 45xNgọc Rồng 6 sao (old: 44) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 55xBổ huyết (old: 54) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 52xNgọc Rồng 5 sao (old: 51) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 40xNgọc Rồng 4 sao (old: 39) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 56xBổ huyết (old: 55) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/11/2023 8:04 PM
+BAG:vuabipgame add 46xNgọc Rồng 6 sao (old: 45) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 59xNgọc Rồng 7 sao (old: 58) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 47xNgọc Rồng 6 sao (old: 46) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 61xGiáp Xên bọ hung (old: 60) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 53xNgọc Rồng 5 sao (old: 52) lydo: HQT at 03/11/2023 8:04 PM
+BAG:vuabipgame add 60xNgọc Rồng 7 sao (old: 59) lydo: HQT at 03/11/2023 8:05 PM
+BAG:vuabipgame add 61xNgọc Rồng 7 sao (old: 60) lydo: HQT at 03/11/2023 8:05 PM
+BAG:vuabipgame add 51xCuồng nộ (old: 50) lydo: HQT at 03/11/2023 8:05 PM
+BAG:vuabipgame add 43xBổ khí (old: 42) lydo: HQT at 03/11/2023 8:05 PM
+BAG:vuabipgame add 62xGiáp Xên bọ hung (old: 61) lydo: HQT at 03/11/2023 8:05 PM
+BAG:vuabipgame add 52xCuồng nộ (old: 51) lydo: HQT at 03/11/2023 8:05 PM
+BAG:vuabipgame add 41xNgọc Rồng 4 sao (old: 40) lydo: HQT at 03/11/2023 8:05 PM
+BAG:vuabipgame add 44xBổ khí (old: 43) lydo: HQT at 03/11/2023 8:05 PM
+BAG:vuabipgame add 57xBổ huyết (old: 56) lydo: HQT at 03/11/2023 8:05 PM
+BAG:vuabipgame add 54xNgọc Rồng 5 sao (old: 53) lydo: HQT at 03/11/2023 8:05 PM
+BAG:vuabipgame add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/11/2023 8:05 PM
+BAG:vuabipgame add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 8:06 PM
+BAG:vuabipgame add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 8:06 PM
+BAG:vuabipgame add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/11/2023 8:06 PM
+BAG:vuabipgame add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 8:06 PM
+BAG:vuabipgame add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/11/2023 8:07 PM
+BAG:vuabipgame add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 8:07 PM
+BAG:vuabipgame add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 8:07 PM
+BAG:vuabipgame add 52xNgọc Rồng 4 sao (old: 41) lydo: Lấy từ rương qua người at 03/11/2023 8:07 PM
+BAG:vuabipgame add 74xNgọc Rồng 6 sao (old: 47) lydo: Lấy từ rương qua người at 03/11/2023 8:07 PM
+BAG:vuabipgame add 80xNgọc Rồng 5 sao (old: 54) lydo: Lấy từ rương qua người at 03/11/2023 8:07 PM
+BAG:vuabipgame add 69xNgọc Rồng 7 sao (old: 61) lydo: Lấy từ rương qua người at 03/11/2023 8:07 PM
+BAG:vuabipgame add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 8:08 PM
+BAG:vuabipgame add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/11/2023 8:08 PM
+BAG:vuabipgame add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/11/2023 8:08 PM
+BAG:vuabipgame add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/11/2023 8:08 PM
+BAG:vuabipgame add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhập ngọc at 03/11/2023 8:08 PM
+BAG:vuabipgame add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhập ngọc at 03/11/2023 8:08 PM
+BAG:vuabipgame add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhập ngọc at 03/11/2023 8:08 PM
+BAG:vuabipgame add 75xNgọc Rồng 6 sao (old: 74) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 76xNgọc Rồng 6 sao (old: 75) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 77xNgọc Rồng 6 sao (old: 76) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 78xNgọc Rồng 6 sao (old: 77) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 79xNgọc Rồng 6 sao (old: 78) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 80xNgọc Rồng 6 sao (old: 79) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 81xNgọc Rồng 6 sao (old: 80) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 82xNgọc Rồng 6 sao (old: 81) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 83xNgọc Rồng 6 sao (old: 82) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhập ngọc at 03/11/2023 8:09 PM
+BAG:vuabipgame add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhập ngọc at 03/11/2023 8:10 PM
+BAG:vuabipgame add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhập ngọc at 03/11/2023 8:10 PM
+BAG:vuabipgame add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhập ngọc at 03/11/2023 8:10 PM
+BAG:vuabipgame add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhập ngọc at 03/11/2023 8:10 PM
+BAG:vuabipgame add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhập ngọc at 03/11/2023 8:10 PM
+BAG:vuabipgame add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhập ngọc at 03/11/2023 8:10 PM
+BAG:vuabipgame add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhập ngọc at 03/11/2023 8:10 PM
+BAG:vuabipgame add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/11/2023 8:10 PM
+BAG:vuabipgame add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:13 PM
+BAG:vuabipgame add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:13 PM
+BAG:vuabipgame add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/11/2023 8:13 PM
+BAG:vuabipgame add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:13 PM
+BAG:vuabipgame add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 8:13 PM
+BAG:vuabipgame add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 8:13 PM
+BAG:vuabipgame add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 8:13 PM
+BAG:vuabipgame add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 8:15 PM
+BAG:vuabipgame add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/11/2023 8:15 PM
+BAG:vuabipgame add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 8:15 PM
+BAG:vuabipgame add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 8:15 PM
+BAG:vuabipgame add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 8:15 PM
+BAG:vuabipgame add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 8:16 PM
+BAG:vuabipgame add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 8:17 PM
+BAG:vuabipgame add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 8:17 PM
+BAG:vuabipgame add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 8:17 PM
+BAG:vuabipgame add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 8:17 PM
+BAG:vuabipgame add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:vuabipgame add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:vuabipgame add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:vuabipgame add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:vuabipgame add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:vuabipgame add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/11/2023 8:19 PM
+BAG:vuabipgame add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/11/2023 8:19 PM
+BAG:vuabipgame add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 8:19 PM
+BAG:vuabipgame add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/11/2023 8:24 PM
+BAG:vuabipgame add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/11/2023 8:24 PM
+BAG:vuabipgame add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/11/2023 8:24 PM
+BAG:vuabipgame add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:vuabipgame add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:vuabipgame add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:vuabipgame add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:vuabipgame add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:vuabipgame add 34xSao pha lê (old: 33) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:vuabipgame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:vuabipgame add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/11/2023 8:27 PM
+BAG:vuabipgame add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 8:27 PM
+BAG:vuabipgame add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/11/2023 8:27 PM
+BAG:vuabipgame add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 8:28 PM
+BAG:vuabipgame add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/11/2023 8:28 PM
+BAG:vuabipgame add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:vuabipgame add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:vuabipgame add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:vuabipgame add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:vuabipgame add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:vuabipgame add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 8:30 PM
+BAG:vuabipgame add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/11/2023 8:30 PM
+BAG:vuabipgame add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/11/2023 8:32 PM
+BAG:vuabipgame add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/11/2023 8:32 PM
+BAG:vuabipgame add 35xSao pha lê (old: 34) lydo: Nhặt từ map at 03/11/2023 8:32 PM
+BAG:vuabipgame add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 8:32 PM
+BAG:vuabipgame add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:vuabipgame add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:vuabipgame add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:vuabipgame add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:vuabipgame add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:vuabipgame add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:vuabipgame add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:vuabipgame add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/11/2023 8:36 PM
+BAG:vuabipgame add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 03/11/2023 8:36 PM
+BAG:vuabipgame add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 03/11/2023 8:36 PM
+BAG:vuabipgame add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/11/2023 8:36 PM
+BAG:vuabipgame add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 8:37 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:37 PM
+BAG:vuabipgame add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/11/2023 8:37 PM
+BAG:vuabipgame add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 8:38 PM
+BAG:vuabipgame add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/11/2023 8:38 PM
+BAG:vuabipgame add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/11/2023 8:39 PM
+BAG:vuabipgame add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 9:08 PM
+BAG:vuabipgame add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 03/11/2023 9:08 PM
+BAG:vuabipgame add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 03/11/2023 9:08 PM
+BAG:vuabipgame add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/11/2023 9:09 PM
+BAG:vuabipgame add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 03/11/2023 9:09 PM
+BAG:vuabipgame add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:vuabipgame add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:vuabipgame add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 9:10 PM
+BAG:vuabipgame add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/11/2023 9:10 PM
+BAG:vuabipgame add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 9:10 PM
+BAG:vuabipgame add 45xBổ khí (old: 44) lydo: HQT at 03/11/2023 9:10 PM
+BAG:vuabipgame add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/11/2023 9:10 PM
+BAG:vuabipgame add 58xBổ huyết (old: 57) lydo: HQT at 03/11/2023 9:10 PM
+BAG:vuabipgame add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/11/2023 9:10 PM
+BAG:vuabipgame add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:vuabipgame add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 9:11 PM
+BAG:vuabipgame add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 9:12 PM
+BAG:vuabipgame add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 9:13 PM
+BAG:vuabipgame add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:vuabipgame add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:vuabipgame add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:vuabipgame add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:vuabipgame add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 9:20 PM
+BAG:vuabipgame add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 9:20 PM
+BAG:vuabipgame add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 9:21 PM
+BAG:vuabipgame add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 03/11/2023 9:22 PM
+BAG:vuabipgame add 36xSao pha lê (old: 35) lydo: Nhặt từ map at 03/11/2023 9:23 PM
+BAG:vuabipgame add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 03/11/2023 9:23 PM
+BAG:vuabipgame add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 9:23 PM
+BAG:vuabipgame add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 9:28 PM
+BAG:vuabipgame add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 9:28 PM
+BAG:vuabipgame add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 9:29 PM
+BAG:vuabipgame add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/11/2023 9:29 PM
+BAG:vuabipgame add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/11/2023 9:29 PM
+BAG:vuabipgame add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 9:29 PM
+BAG:vuabipgame add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/11/2023 9:29 PM
+BAG:vuabipgame add 31xĐậu thần cấp 10 (old: 11) lydo: Lấy từ rương qua người at 03/11/2023 9:30 PM
+BAG:vuabipgame add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 9:30 PM
+BAG:vuabipgame add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/11/2023 9:31 PM
+BAG:vuabipgame add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 9:31 PM
+BAG:vuabipgame add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 9:31 PM
+BAG:vuabipgame add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:vuabipgame add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:vuabipgame add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:vuabipgame add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:vuabipgame add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:vuabipgame add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:vuabipgame add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:vuabipgame add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:vuabipgame add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:vuabipgame add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:vuabipgame add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 9:35 PM
+BAG:vuabipgame add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 9:35 PM
+BAG:vuabipgame add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 9:36 PM
+BAG:vuabipgame add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/11/2023 9:36 PM
+BAG:vuabipgame add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 9:36 PM
+BAG:vuabipgame add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 9:37 PM
+BAG:vuabipgame add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 9:38 PM
+BAG:vuabipgame add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/11/2023 9:38 PM
+BAG:vuabipgame add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/11/2023 9:44 PM
+BAG:vuabipgame add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 9:44 PM
+BAG:vuabipgame add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/11/2023 9:46 PM
+BAG:vuabipgame add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/11/2023 9:46 PM
+BAG:vuabipgame add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/11/2023 9:47 PM
+BAG:vuabipgame add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 03/11/2023 9:47 PM
+BAG:vuabipgame add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 03/11/2023 9:47 PM
+BAG:vuabipgame add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/11/2023 9:48 PM
+BAG:vuabipgame add 34xSao pha lê (old: 33) lydo: Nhặt từ map at 03/11/2023 9:50 PM
+BAG:vuabipgame add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/11/2023 9:51 PM
+BAG:vuabipgame add 37xSao pha lê (old: 36) lydo: Nhặt từ map at 03/11/2023 9:52 PM
+BAG:vuabipgame add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 9:52 PM
+BAG:vuabipgame add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/11/2023 9:53 PM
+BAG:vuabipgame add 35xSao pha lê (old: 34) lydo: Nhặt từ map at 03/11/2023 9:54 PM
+BAG:vuabipgame add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/11/2023 9:54 PM
+BAG:vuabipgame add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 9:55 PM
+BAG:vuabipgame add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 9:57 PM
+BAG:vuabipgame add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/11/2023 9:57 PM
+BAG:vuabipgame add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/11/2023 9:57 PM
+BAG:vuabipgame add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/11/2023 9:59 PM
+BAG:vuabipgame add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/11/2023 10:00 PM
+BAG:vuabipgame add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 10:01 PM
+BAG:vuabipgame add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/11/2023 10:02 PM
+BAG:vuabipgame add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/11/2023 10:02 PM
+BAG:vuabipgame add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/11/2023 10:05 PM
+BAG:vuabipgame add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/11/2023 10:05 PM
+BAG:vuabipgame add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 10:06 PM
+BAG:vuabipgame add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/11/2023 10:06 PM
+BAG:vuabipgame add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 10:07 PM
+BAG:vuabipgame add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 10:07 PM
+BAG:vuabipgame add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 10:07 PM
+BAG:vuabipgame add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 10:07 PM
+BAG:vuabipgame add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 10:07 PM
+BAG:vuabipgame add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 10:07 PM
+BAG:vuabipgame add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/11/2023 10:07 PM
+BAG:vuabipgame add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/11/2023 10:07 PM
+BAG:vuabipgame add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/11/2023 10:08 PM
+BAG:vuabipgame add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/11/2023 10:08 PM
+BAG:vuabipgame add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/11/2023 10:09 PM
+BAG:vuabipgame add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 10:10 PM
+BAG:vuabipgame add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/11/2023 10:10 PM
+BAG:vuabipgame add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/11/2023 10:12 PM
+BAG:vuabipgame add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/11/2023 10:12 PM
+BAG:vuabipgame add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 10:50 PM
+BAG:vuabipgame add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/11/2023 10:51 PM
+BAG:vuabipgame add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/11/2023 10:52 PM
+BAG:vuabipgame add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/11/2023 10:53 PM
+BAG:vuabipgame add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/11/2023 10:53 PM
+BAG:vuabipgame add 25xThỏi vàng lydo: Đổi vàng at 03/11/2023 10:54 PM
+BAG:vuabipgame add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/11/2023 10:54 PM
+BAG:vuabipgame add 63xGiáp Xên bọ hung (old: 62) lydo: HQT at 03/11/2023 10:54 PM
+BAG:vuabipgame add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 10:54 PM
+BAG:vuabipgame add 53xCuồng nộ (old: 52) lydo: HQT at 03/11/2023 10:54 PM
+BAG:vuabipgame add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/11/2023 10:55 PM
+BAG:vuabipgame add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/11/2023 10:56 PM
+BAG:vuabipgame add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/11/2023 10:56 PM
+BAG:vuabipgame add 1xNgọc Rồng 1 sao lydo: (GD) Nhận từ admin01 at 03/11/2023 10:58 PM
+BAG:vuabipgame add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/11/2023 10:58 PM
+BAG:vuabipgame add 2xNgọc Rồng 1 sao lydo: (GD) Nhận từ mihok at 03/11/2023 10:59 PM
+BAG:vuabipgame add 1xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 03/11/2023 11:00 PM
+BAG:vuabipgame add 1xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 11:00 PM
+BAG:vuabipgame add 9xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ rương qua người at 03/11/2023 11:00 PM
+BAG:vuabipgame add 22xNgọc Rồng 5 sao (old: 8) lydo: Lấy từ rương qua người at 03/11/2023 11:00 PM
+BAG:vuabipgame add 11xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ rương qua người at 03/11/2023 11:00 PM
+BAG:vuabipgame add 8xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ rương qua người at 03/11/2023 11:00 PM
+BAG:vuabipgame add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/11/2023 11:02 PM
+BAG:vuabipgame add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/11/2023 11:02 PM
+BAG:vuabipgame add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/11/2023 11:02 PM
+BAG:vuabipgame add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 11:02 PM
+BAG:vuabipgame add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 11:03 PM
+BAG:vuabipgame add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/11/2023 11:03 PM
+BAG:vuabipgame add 123xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 11:05 PM
+BAG:vuabipgame add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 11:14 PM
+BAG:vuabipgame add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/11/2023 11:17 PM
+BAG:vuabipgame add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/11/2023 11:17 PM
+BAG:vuabipgame add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/11/2023 11:19 PM
+BAG:vuabipgame add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/11/2023 11:19 PM
+BAG:vuabipgame add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/11/2023 11:19 PM
+BAG:vuabipgame add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/11/2023 11:19 PM
+BAG:vuabipgame add 2xNgọc Rồng 2 sao lydo: (GD) Nhận từ mihok at 03/11/2023 11:20 PM
+BAG:vuabipgame add 2xNgọc Rồng 3 sao lydo: (GD) Nhận từ mihok at 03/11/2023 11:20 PM
+BAG:vuabipgame add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 11:23 PM
+BAG:vuabipgame add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 11:23 PM
+BAG:vuabipgame add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 11:23 PM
+BAG:vuabipgame add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 11:23 PM
+BAG:vuabipgame add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 11:23 PM
+BAG:vuabipgame add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 11:23 PM
+BAG:vuabipgame add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/11/2023 11:26 PM
+BAG:vuabipgame add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 11:26 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 11:27 PM
+BAG:vuabipgame add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/11/2023 11:28 PM
+BAG:vuabipgame add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/11/2023 11:28 PM
+BAG:vuabipgame add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/11/2023 11:28 PM
+BAG:vuabipgame add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/11/2023 11:28 PM
+BAG:vuabipgame add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 11:29 PM
+BAG:vuabipgame add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/11/2023 11:29 PM
+BAG:vuabipgame add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/11/2023 11:30 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/11/2023 11:31 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 11:32 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 11:32 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 11:32 PM
+BAG:vuabipgame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 11:36 PM
+BAG:vuabipgame add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 11:36 PM
+BAG:vuabipgame add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 11:36 PM
+BAG:vuabipgame add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 11:36 PM
+BAG:vuabipgame add 1xGăng sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 11:36 PM
+BAG:vuabipgame add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 11:36 PM
+BAG:vuabipgame add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/11/2023 11:39 PM
+BAG:vuabipgame add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 11:39 PM
+BAG:vuabipgame add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/11/2023 11:39 PM
+BAG:vuabipgame add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 03/11/2023 11:40 PM
+BAG:vuabipgame add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 11:41 PM
+BAG:vuabipgame add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/11/2023 11:41 PM
+BAG:vuabipgame add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 11:43 PM
+BAG:vuabipgame add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/11/2023 11:43 PM
+BAG:vuabipgame add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/11/2023 11:44 PM
+BAG:vuabipgame add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/11/2023 11:45 PM
+BAG:vuabipgame add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/11/2023 11:45 PM
+BAG:vuabipgame add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/11/2023 11:46 PM
+BAG:vuabipgame add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/11/2023 11:47 PM
+BAG:vuabipgame add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/11/2023 11:47 PM
+BAG:vuabipgame add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/11/2023 11:48 PM
+BAG:vuabipgame add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 11:49 PM
+BAG:vuabipgame add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/11/2023 11:49 PM
+BAG:vuabipgame add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 11:50 PM
+BAG:vuabipgame add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 11:50 PM
+BAG:vuabipgame add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/11/2023 11:50 PM
+BAG:vuabipgame add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/11/2023 11:52 PM
+BAG:vuabipgame add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 11:54 PM
+BAG:vuabipgame add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 11:54 PM
+BAG:vuabipgame add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/11/2023 11:54 PM
+BAG:vuabipgame add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/11/2023 11:56 PM
+BAG:vuabipgame add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 11:56 PM
+BAG:vuabipgame add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/11/2023 11:58 PM
+BAG:vuabipgame add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/11/2023 11:58 PM
+BAG:vuabipgame add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/11/2023 11:59 PM

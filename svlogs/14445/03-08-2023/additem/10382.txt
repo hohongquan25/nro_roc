@@ -1,0 +1,926 @@
+BAG:tanjiro add 1xĐá Saphia lydo: Nhặt từ map at 03/08/2023 8:24 AM
+BAG:tanjiro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/08/2023 8:27 AM
+BAG:tanjiro add 1xMảnh Khủng long lydo: Nhặt từ map at 03/08/2023 8:29 AM
+BAG:tanjiro add 1xĐá Titan lydo: Nhặt từ map at 03/08/2023 8:29 AM
+BAG:tanjiro add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/08/2023 8:29 AM
+BAG:tanjiro add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/08/2023 8:29 AM
+BAG:tanjiro add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/08/2023 8:30 AM
+BAG:tanjiro add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/08/2023 8:30 AM
+BAG:tanjiro add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/08/2023 8:30 AM
+BAG:tanjiro add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/08/2023 8:30 AM
+BAG:tanjiro add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/08/2023 8:31 AM
+BAG:tanjiro add 10xĐậu thần cấp 9 lydo: Thu hoạch đậu at 03/08/2023 8:33 AM
+BAG:tanjiro add 30xĐậu thần cấp 9 (old: 10) lydo: Lấy từ rương qua người at 03/08/2023 8:33 AM
+BAG:tanjiro add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/08/2023 8:33 AM
+BAG:tanjiro add 50xĐậu thần cấp 9 (old: 30) lydo: Lấy từ rương qua người at 03/08/2023 8:33 AM
+BAG:tanjiro add 70xĐậu thần cấp 9 (old: 50) lydo: Lấy từ rương qua người at 03/08/2023 8:33 AM
+BAG:tanjiro add 90xĐậu thần cấp 9 (old: 70) lydo: Lấy từ rương qua người at 03/08/2023 8:34 AM
+BAG:tanjiro add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/08/2023 8:34 AM
+BAG:tanjiro add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/08/2023 8:34 AM
+BAG:tanjiro add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/08/2023 8:34 AM
+BAG:tanjiro add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/08/2023 8:34 AM
+BAG:tanjiro add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/08/2023 8:34 AM
+BAG:tanjiro add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/08/2023 8:34 AM
+BAG:tanjiro add 50xThỏi vàng lydo: Giftcode at 03/08/2023 8:34 AM
+BAG:tanjiro add 10xSao pha lê lydo: Giftcode at 03/08/2023 8:34 AM
+BAG:tanjiro add 10xSao pha lê lydo: Giftcode at 03/08/2023 8:34 AM
+BAG:tanjiro add 10xSao pha lê lydo: Giftcode at 03/08/2023 8:34 AM
+BAG:tanjiro add 1xCải trang Hit lydo: Giftcode at 03/08/2023 8:34 AM
+BAG:tanjiro add 99xĐậu thần cấp 9 (old: 79) lydo: Lấy từ rương qua người at 03/08/2023 8:43 AM
+BAG:tanjiro add 1xGăng võ Kame lydo: Mua từ cửa hàng at 03/08/2023 8:52 AM
+BAG:tanjiro add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/08/2023 9:20 AM
+BAG:tanjiro add 1xĐá Ruby lydo: Nhặt từ map at 03/08/2023 9:50 AM
+BAG:tanjiro add 1xPháo hoa lydo: Nhặt từ map at 03/08/2023 9:51 AM
+BAG:tanjiro add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/08/2023 9:59 AM
+BAG:tanjiro add 1xCải trang Hit lydo: Lấy từ body đệ vào hành trang at 03/08/2023 9:59 AM
+BAG:tanjiro add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/08/2023 10:00 AM
+BAG:tanjiro add 1xGăng thun Kame lydo: Mua từ cửa hàng at 03/08/2023 10:01 AM
+BAG:tanjiro add 1xGăng võ Kame lydo: Mua từ cửa hàng at 03/08/2023 10:01 AM
+BAG:tanjiro add 1xGăng bạc Goku lydo: Mua từ cửa hàng at 03/08/2023 10:01 AM
+BAG:tanjiro add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/08/2023 10:41 AM
+BAG:tanjiro add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/08/2023 11:04 AM
+BAG:tanjiro add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/08/2023 11:05 AM
+BAG:tanjiro add 1xĐá Titan lydo: Nhặt từ map at 03/08/2023 11:12 AM
+BAG:tanjiro add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/08/2023 11:12 AM
+BAG:tanjiro add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/08/2023 11:12 AM
+BAG:tanjiro add 1xĐá Ruby lydo: Nhặt từ map at 03/08/2023 11:12 AM
+BAG:tanjiro add 1xMảnh Khủng long lydo: Nhặt từ map at 03/08/2023 11:13 AM
+BAG:tanjiro add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/08/2023 11:13 AM
+BAG:tanjiro add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/08/2023 11:13 AM
+BAG:tanjiro add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/08/2023 11:13 AM
+BAG:tanjiro add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/08/2023 11:13 AM
+BAG:tanjiro add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/08/2023 11:13 AM
+BAG:tanjiro add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/08/2023 11:14 AM
+BAG:tanjiro add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/08/2023 11:15 AM
+BAG:tanjiro add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/08/2023 11:15 AM
+BAG:tanjiro add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/08/2023 11:15 AM
+BAG:tanjiro add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/08/2023 11:15 AM
+BAG:tanjiro add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/08/2023 11:15 AM
+BAG:tanjiro add 1xĐá lục bảo lydo: Nhặt từ map at 03/08/2023 11:15 AM
+BAG:tanjiro add 6xMảnh Thằn lằn bay (old: 5) lydo: Nhặt từ map at 03/08/2023 11:15 AM
+BAG:tanjiro add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/08/2023 11:16 AM
+BAG:tanjiro add 1xĐá Saphia lydo: Nhặt từ map at 03/08/2023 11:16 AM
+BAG:tanjiro add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/08/2023 11:16 AM
+BAG:tanjiro add 7xMảnh Thằn lằn bay (old: 6) lydo: Nhặt từ map at 03/08/2023 11:16 AM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 11:17 AM
+BAG:tanjiro add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/08/2023 11:17 AM
+BAG:tanjiro add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/08/2023 11:17 AM
+BAG:tanjiro add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/08/2023 11:17 AM
+BAG:tanjiro add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/08/2023 11:18 AM
+BAG:tanjiro add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/08/2023 11:18 AM
+BAG:tanjiro add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/08/2023 11:18 AM
+BAG:tanjiro add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/08/2023 11:18 AM
+BAG:tanjiro add 8xMảnh Thằn lằn bay (old: 7) lydo: Nhặt từ map at 03/08/2023 11:18 AM
+BAG:tanjiro add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/08/2023 11:18 AM
+BAG:tanjiro add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/08/2023 11:18 AM
+BAG:tanjiro add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/08/2023 11:18 AM
+BAG:tanjiro add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/08/2023 11:19 AM
+BAG:tanjiro add 9xMảnh Thằn lằn bay (old: 8) lydo: Nhặt từ map at 03/08/2023 11:19 AM
+BAG:tanjiro add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/08/2023 11:19 AM
+BAG:tanjiro add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/08/2023 11:19 AM
+BAG:tanjiro add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/08/2023 11:19 AM
+BAG:tanjiro add 1xQuần vải đen lydo: Nhặt từ map at 03/08/2023 11:19 AM
+BAG:tanjiro add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/08/2023 11:20 AM
+BAG:tanjiro add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/08/2023 11:20 AM
+BAG:tanjiro add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/08/2023 11:20 AM
+BAG:tanjiro add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/08/2023 11:21 AM
+BAG:tanjiro add 10xMảnh Thằn lằn bay (old: 9) lydo: Nhặt từ map at 03/08/2023 11:21 AM
+BAG:tanjiro add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/08/2023 11:21 AM
+BAG:tanjiro add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/08/2023 11:21 AM
+BAG:tanjiro add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/08/2023 11:21 AM
+BAG:tanjiro add 11xMảnh Thằn lằn bay (old: 10) lydo: Nhặt từ map at 03/08/2023 11:21 AM
+BAG:tanjiro add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/08/2023 11:22 AM
+BAG:tanjiro add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/08/2023 11:22 AM
+BAG:tanjiro add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/08/2023 11:22 AM
+BAG:tanjiro add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/08/2023 11:22 AM
+BAG:tanjiro add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/08/2023 11:22 AM
+BAG:tanjiro add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/08/2023 11:22 AM
+BAG:tanjiro add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/08/2023 11:22 AM
+BAG:tanjiro add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/08/2023 11:23 AM
+BAG:tanjiro add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/08/2023 11:23 AM
+BAG:tanjiro add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/08/2023 11:23 AM
+BAG:tanjiro add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/08/2023 11:23 AM
+BAG:tanjiro add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/08/2023 11:23 AM
+BAG:tanjiro add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/08/2023 11:23 AM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 11:23 AM
+BAG:tanjiro add 12xMảnh Thằn lằn bay (old: 11) lydo: Nhặt từ map at 03/08/2023 11:24 AM
+BAG:tanjiro add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/08/2023 11:25 AM
+BAG:tanjiro add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/08/2023 11:25 AM
+BAG:tanjiro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/08/2023 11:25 AM
+BAG:tanjiro add 1xQuần vải đen lydo: Nhặt từ map at 03/08/2023 11:25 AM
+BAG:tanjiro add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/08/2023 11:25 AM
+BAG:tanjiro add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/08/2023 11:26 AM
+BAG:tanjiro add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/08/2023 11:26 AM
+BAG:tanjiro add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/08/2023 11:26 AM
+BAG:tanjiro add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/08/2023 11:26 AM
+BAG:tanjiro add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/08/2023 11:26 AM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 11:27 AM
+BAG:tanjiro add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/08/2023 11:27 AM
+BAG:tanjiro add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/08/2023 11:27 AM
+BAG:tanjiro add 13xMảnh Thằn lằn bay (old: 12) lydo: Nhặt từ map at 03/08/2023 11:28 AM
+BAG:tanjiro add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/08/2023 11:28 AM
+BAG:tanjiro add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/08/2023 11:28 AM
+BAG:tanjiro add 1xGăng vải đen lydo: Nhặt từ map at 03/08/2023 11:50 AM
+BAG:tanjiro add 14xMảnh Thằn lằn bay (old: 13) lydo: Nhặt từ map at 03/08/2023 11:50 AM
+BAG:tanjiro add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/08/2023 11:50 AM
+BAG:tanjiro add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/08/2023 11:51 AM
+BAG:tanjiro add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/08/2023 11:51 AM
+BAG:tanjiro add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/08/2023 11:51 AM
+BAG:tanjiro add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/08/2023 11:52 AM
+BAG:tanjiro add 15xMảnh Thằn lằn bay (old: 14) lydo: Nhặt từ map at 03/08/2023 11:52 AM
+BAG:tanjiro add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/08/2023 11:52 AM
+BAG:tanjiro add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/08/2023 11:52 AM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/08/2023 11:52 AM
+BAG:tanjiro add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/08/2023 11:53 AM
+BAG:tanjiro add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/08/2023 11:53 AM
+BAG:tanjiro add 16xMảnh Thằn lằn bay (old: 15) lydo: Nhặt từ map at 03/08/2023 11:53 AM
+BAG:tanjiro add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/08/2023 11:53 AM
+BAG:tanjiro add 17xMảnh Thằn lằn bay (old: 16) lydo: Nhặt từ map at 03/08/2023 11:54 AM
+BAG:tanjiro add 18xMảnh Thằn lằn bay (old: 17) lydo: Nhặt từ map at 03/08/2023 11:54 AM
+BAG:tanjiro add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/08/2023 11:54 AM
+BAG:tanjiro add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/08/2023 11:55 AM
+BAG:tanjiro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/08/2023 11:55 AM
+BAG:tanjiro add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/08/2023 11:55 AM
+BAG:tanjiro add 19xMảnh Thằn lằn bay (old: 18) lydo: Nhặt từ map at 03/08/2023 11:55 AM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 11:55 AM
+BAG:tanjiro add 1xGăng vải đen lydo: Nhặt từ map at 03/08/2023 11:55 AM
+BAG:tanjiro add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/08/2023 11:55 AM
+BAG:tanjiro add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/08/2023 11:56 AM
+BAG:tanjiro add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/08/2023 11:56 AM
+BAG:tanjiro add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/08/2023 11:56 AM
+BAG:tanjiro add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/08/2023 11:56 AM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 11:56 AM
+BAG:tanjiro add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/08/2023 11:57 AM
+BAG:tanjiro add 1xGăng vải đen lydo: Nhặt từ map at 03/08/2023 11:57 AM
+BAG:tanjiro add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/08/2023 11:57 AM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 11:57 AM
+BAG:tanjiro add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/08/2023 11:57 AM
+BAG:tanjiro add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/08/2023 11:58 AM
+BAG:tanjiro add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/08/2023 11:58 AM
+BAG:tanjiro add 20xMảnh Thằn lằn bay (old: 19) lydo: Nhặt từ map at 03/08/2023 11:58 AM
+BAG:tanjiro add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/08/2023 11:58 AM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 11:58 AM
+BAG:tanjiro add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/08/2023 11:58 AM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 11:58 AM
+BAG:tanjiro add 21xMảnh Thằn lằn bay (old: 20) lydo: Nhặt từ map at 03/08/2023 11:59 AM
+BAG:tanjiro add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/08/2023 11:59 AM
+BAG:tanjiro add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/08/2023 11:59 AM
+BAG:tanjiro add 1xQuần vải đen lydo: Nhặt từ map at 03/08/2023 11:59 AM
+BAG:tanjiro add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/08/2023 11:59 AM
+BAG:tanjiro add 22xMảnh Thằn lằn bay (old: 21) lydo: Nhặt từ map at 03/08/2023 12:00 PM
+BAG:tanjiro add 23xMảnh Thằn lằn bay (old: 22) lydo: Nhặt từ map at 03/08/2023 12:00 PM
+BAG:tanjiro add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/08/2023 12:00 PM
+BAG:tanjiro add 1xQuần vải đen lydo: Nhặt từ map at 03/08/2023 12:00 PM
+BAG:tanjiro add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/08/2023 12:00 PM
+BAG:tanjiro add 1xQuần vải đen lydo: Nhặt từ map at 03/08/2023 12:00 PM
+BAG:tanjiro add 24xMảnh Thằn lằn bay (old: 23) lydo: Nhặt từ map at 03/08/2023 12:00 PM
+BAG:tanjiro add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/08/2023 12:00 PM
+BAG:tanjiro add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/08/2023 12:00 PM
+BAG:tanjiro add 25xMảnh Thằn lằn bay (old: 24) lydo: Nhặt từ map at 03/08/2023 12:00 PM
+BAG:tanjiro add 26xMảnh Thằn lằn bay (old: 25) lydo: Nhặt từ map at 03/08/2023 12:01 PM
+BAG:tanjiro add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/08/2023 12:01 PM
+BAG:tanjiro add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/08/2023 12:01 PM
+BAG:tanjiro add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/08/2023 12:01 PM
+BAG:tanjiro add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/08/2023 12:01 PM
+BAG:tanjiro add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/08/2023 12:01 PM
+BAG:tanjiro add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/08/2023 12:01 PM
+BAG:tanjiro add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/08/2023 12:02 PM
+BAG:tanjiro add 1xGăng vải đen lydo: Nhặt từ map at 03/08/2023 12:02 PM
+BAG:tanjiro add 27xMảnh Thằn lằn bay (old: 26) lydo: Nhặt từ map at 03/08/2023 12:02 PM
+BAG:tanjiro add 27xMảnh Khủng long (old: 26) lydo: Nhặt từ map at 03/08/2023 12:02 PM
+BAG:tanjiro add 28xMảnh Thằn lằn bay (old: 27) lydo: Nhặt từ map at 03/08/2023 12:02 PM
+BAG:tanjiro add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/08/2023 12:02 PM
+BAG:tanjiro add 8xMảnh Khủng long mẹ (old: 7) lydo: Nhặt từ map at 03/08/2023 12:02 PM
+BAG:tanjiro add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/08/2023 12:03 PM
+BAG:tanjiro add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/08/2023 12:03 PM
+BAG:tanjiro add 28xMảnh Khủng long (old: 27) lydo: Nhặt từ map at 03/08/2023 12:03 PM
+BAG:tanjiro add 29xMảnh Thằn lằn bay (old: 28) lydo: Nhặt từ map at 03/08/2023 12:04 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 12:04 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 12:04 PM
+BAG:tanjiro add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/08/2023 12:04 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 12:04 PM
+BAG:tanjiro add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/08/2023 12:04 PM
+BAG:tanjiro add 30xMảnh Thằn lằn bay (old: 29) lydo: Nhặt từ map at 03/08/2023 12:04 PM
+BAG:tanjiro add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/08/2023 12:04 PM
+BAG:tanjiro add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/08/2023 12:05 PM
+BAG:tanjiro add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/08/2023 12:05 PM
+BAG:tanjiro add 1xGăng vải đen lydo: Nhặt từ map at 03/08/2023 12:05 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 12:05 PM
+BAG:tanjiro add 31xMảnh Thằn lằn bay (old: 30) lydo: Nhặt từ map at 03/08/2023 12:05 PM
+BAG:tanjiro add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/08/2023 12:05 PM
+BAG:tanjiro add 29xMảnh Khủng long (old: 28) lydo: Nhặt từ map at 03/08/2023 12:06 PM
+BAG:tanjiro add 30xMảnh Khủng long (old: 29) lydo: Nhặt từ map at 03/08/2023 12:06 PM
+BAG:tanjiro add 31xMảnh Khủng long (old: 30) lydo: Nhặt từ map at 03/08/2023 12:06 PM
+BAG:tanjiro add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/08/2023 12:06 PM
+BAG:tanjiro add 1xGăng vải đen lydo: Nhặt từ map at 03/08/2023 12:06 PM
+BAG:tanjiro add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/08/2023 12:06 PM
+BAG:tanjiro add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/08/2023 12:06 PM
+BAG:tanjiro add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/08/2023 12:06 PM
+BAG:tanjiro add 32xMảnh Thằn lằn bay (old: 31) lydo: Nhặt từ map at 03/08/2023 12:07 PM
+BAG:tanjiro add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/08/2023 12:07 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 12:07 PM
+BAG:tanjiro add 33xMảnh Thằn lằn bay (old: 32) lydo: Nhặt từ map at 03/08/2023 12:08 PM
+BAG:tanjiro add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/08/2023 12:08 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 12:09 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 12:09 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 12:09 PM
+BAG:tanjiro add 1xQuần vải đen lydo: Nhặt từ map at 03/08/2023 12:10 PM
+BAG:tanjiro add 9xMảnh Khủng long mẹ (old: 8) lydo: Nhặt từ map at 03/08/2023 12:10 PM
+BAG:tanjiro add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/08/2023 12:10 PM
+BAG:tanjiro add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/08/2023 12:11 PM
+BAG:tanjiro add 34xMảnh Thằn lằn bay (old: 33) lydo: Nhặt từ map at 03/08/2023 12:11 PM
+BAG:tanjiro add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/08/2023 12:11 PM
+BAG:tanjiro add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/08/2023 12:11 PM
+BAG:tanjiro add 35xMảnh Thằn lằn bay (old: 34) lydo: Nhặt từ map at 03/08/2023 12:11 PM
+BAG:tanjiro add 1xGăng vải đen lydo: Nhặt từ map at 03/08/2023 12:12 PM
+BAG:tanjiro add 1xGăng vải đen lydo: Nhặt từ map at 03/08/2023 12:12 PM
+BAG:tanjiro add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/08/2023 12:12 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 12:12 PM
+BAG:tanjiro add 1xGăng vải đen lydo: Nhặt từ map at 03/08/2023 12:13 PM
+BAG:tanjiro add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/08/2023 12:13 PM
+BAG:tanjiro add 36xMảnh Thằn lằn bay (old: 35) lydo: Nhặt từ map at 03/08/2023 12:13 PM
+BAG:tanjiro add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/08/2023 12:13 PM
+BAG:tanjiro add 37xMảnh Thằn lằn bay (old: 36) lydo: Nhặt từ map at 03/08/2023 12:13 PM
+BAG:tanjiro add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/08/2023 12:13 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 12:13 PM
+BAG:tanjiro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/08/2023 12:13 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 12:13 PM
+BAG:tanjiro add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/08/2023 12:14 PM
+BAG:tanjiro add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/08/2023 12:14 PM
+BAG:tanjiro add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/08/2023 12:14 PM
+BAG:tanjiro add 38xMảnh Thằn lằn bay (old: 37) lydo: Nhặt từ map at 03/08/2023 12:14 PM
+BAG:tanjiro add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/08/2023 12:14 PM
+BAG:tanjiro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/08/2023 12:15 PM
+BAG:tanjiro add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/08/2023 12:15 PM
+BAG:tanjiro add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/08/2023 12:15 PM
+BAG:tanjiro add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/08/2023 12:15 PM
+BAG:tanjiro add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/08/2023 12:16 PM
+BAG:tanjiro add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/08/2023 12:16 PM
+BAG:tanjiro add 39xMảnh Thằn lằn bay (old: 38) lydo: Nhặt từ map at 03/08/2023 12:16 PM
+BAG:tanjiro add 1xĐá Titan lydo: Nhặt từ map at 03/08/2023 12:16 PM
+BAG:tanjiro add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/08/2023 12:17 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 12:17 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 12:17 PM
+BAG:tanjiro add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/08/2023 12:17 PM
+BAG:tanjiro add 10xMảnh Khủng long mẹ (old: 9) lydo: Nhặt từ map at 03/08/2023 12:17 PM
+BAG:tanjiro add 40xMảnh Thằn lằn bay (old: 39) lydo: Nhặt từ map at 03/08/2023 12:18 PM
+BAG:tanjiro add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/08/2023 12:18 PM
+BAG:tanjiro add 41xMảnh Thằn lằn bay (old: 40) lydo: Nhặt từ map at 03/08/2023 12:18 PM
+BAG:tanjiro add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/08/2023 12:18 PM
+BAG:tanjiro add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/08/2023 12:18 PM
+BAG:tanjiro add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/08/2023 12:18 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 12:18 PM
+BAG:tanjiro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/08/2023 12:19 PM
+BAG:tanjiro add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/08/2023 12:19 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 12:19 PM
+BAG:tanjiro add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/08/2023 12:19 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 12:19 PM
+BAG:tanjiro add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/08/2023 12:20 PM
+BAG:tanjiro add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/08/2023 12:20 PM
+BAG:tanjiro add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/08/2023 12:20 PM
+BAG:tanjiro add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/08/2023 12:20 PM
+BAG:tanjiro add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/08/2023 12:21 PM
+BAG:tanjiro add 42xMảnh Thằn lằn bay (old: 41) lydo: Nhặt từ map at 03/08/2023 12:21 PM
+BAG:tanjiro add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/08/2023 12:21 PM
+BAG:tanjiro add 43xMảnh Thằn lằn bay (old: 42) lydo: Nhặt từ map at 03/08/2023 12:21 PM
+BAG:tanjiro add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/08/2023 12:21 PM
+BAG:tanjiro add 44xMảnh Thằn lằn bay (old: 43) lydo: Nhặt từ map at 03/08/2023 12:21 PM
+BAG:tanjiro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/08/2023 12:21 PM
+BAG:tanjiro add 1xQuần vải đen lydo: Nhặt từ map at 03/08/2023 12:21 PM
+BAG:tanjiro add 1xQuần vải đen lydo: Nhặt từ map at 03/08/2023 12:22 PM
+BAG:tanjiro add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/08/2023 12:22 PM
+BAG:tanjiro add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/08/2023 12:22 PM
+BAG:tanjiro add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/08/2023 12:22 PM
+BAG:tanjiro add 1xQuần vải đen lydo: Nhặt từ map at 03/08/2023 12:22 PM
+BAG:tanjiro add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/08/2023 12:22 PM
+BAG:tanjiro add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/08/2023 12:23 PM
+BAG:tanjiro add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/08/2023 12:23 PM
+BAG:tanjiro add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/08/2023 12:24 PM
+BAG:tanjiro add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/08/2023 12:24 PM
+BAG:tanjiro add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/08/2023 12:24 PM
+BAG:tanjiro add 45xMảnh Thằn lằn bay (old: 44) lydo: Nhặt từ map at 03/08/2023 12:24 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 12:24 PM
+BAG:tanjiro add 46xMảnh Thằn lằn bay (old: 45) lydo: Nhặt từ map at 03/08/2023 12:24 PM
+BAG:tanjiro add 47xMảnh Thằn lằn bay (old: 46) lydo: Nhặt từ map at 03/08/2023 12:24 PM
+BAG:tanjiro add 48xMảnh Thằn lằn bay (old: 47) lydo: Nhặt từ map at 03/08/2023 12:25 PM
+BAG:tanjiro add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/08/2023 12:25 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Nhặt từ map at 03/08/2023 12:25 PM
+BAG:tanjiro add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/08/2023 12:25 PM
+BAG:tanjiro add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/08/2023 12:25 PM
+BAG:tanjiro add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/08/2023 12:25 PM
+BAG:tanjiro add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/08/2023 12:25 PM
+BAG:tanjiro add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/08/2023 12:26 PM
+BAG:tanjiro add 49xMảnh Thằn lằn bay (old: 48) lydo: Nhặt từ map at 03/08/2023 12:26 PM
+BAG:tanjiro add 50xMảnh Thằn lằn bay (old: 49) lydo: Nhặt từ map at 03/08/2023 12:26 PM
+BAG:tanjiro add 51xMảnh Thằn lằn bay (old: 50) lydo: Nhặt từ map at 03/08/2023 12:26 PM
+BAG:tanjiro add 52xMảnh Thằn lằn bay (old: 51) lydo: Nhặt từ map at 03/08/2023 12:26 PM
+BAG:tanjiro add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/08/2023 12:26 PM
+BAG:tanjiro add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/08/2023 12:27 PM
+BAG:tanjiro add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/08/2023 12:27 PM
+BAG:tanjiro add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/08/2023 12:27 PM
+BAG:tanjiro add 53xMảnh Thằn lằn bay (old: 52) lydo: Nhặt từ map at 03/08/2023 12:27 PM
+BAG:tanjiro add 54xMảnh Thằn lằn bay (old: 53) lydo: Nhặt từ map at 03/08/2023 12:27 PM
+BAG:tanjiro add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/08/2023 12:27 PM
+BAG:tanjiro add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/08/2023 12:27 PM
+BAG:tanjiro add 55xMảnh Thằn lằn bay (old: 54) lydo: Nhặt từ map at 03/08/2023 12:28 PM
+BAG:tanjiro add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/08/2023 12:28 PM
+BAG:tanjiro add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/08/2023 12:28 PM
+BAG:tanjiro add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/08/2023 12:28 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 12:28 PM
+BAG:tanjiro add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/08/2023 12:28 PM
+BAG:tanjiro add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/08/2023 12:29 PM
+BAG:tanjiro add 56xMảnh Thằn lằn bay (old: 55) lydo: Nhặt từ map at 03/08/2023 12:29 PM
+BAG:tanjiro add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/08/2023 12:29 PM
+BAG:tanjiro add 57xMảnh Thằn lằn bay (old: 56) lydo: Nhặt từ map at 03/08/2023 12:29 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/08/2023 12:30 PM
+BAG:tanjiro add 25xThỏi vàng lydo: Đổi vàng at 03/08/2023 3:32 PM
+BAG:tanjiro add 1xĐá Titan lydo: Nhặt từ map at 03/08/2023 3:32 PM
+BAG:tanjiro add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/08/2023 3:42 PM
+BAG:tanjiro add 1xCải trang Hit lydo: Lấy từ body đệ vào hành trang at 03/08/2023 3:42 PM
+BAG:tanjiro add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/08/2023 3:44 PM
+BAG:tanjiro add 25xBí ngô 1 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 25xBí ngô 2 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 25xBí ngô 3 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 25xBí ngô 4 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 25xBí ngô 5 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 25xBí ngô 6 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 25xBí ngô 7 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 51xNgọc Rồng 2 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 18xNgọc Rồng 1 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 27xNgọc Rồng 6 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 26xNgọc Rồng 7 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 28xNgọc Rồng 5 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 2xNgọc Rồng 3 sao lydo: (GD) Nhận từ yoriichi at 03/08/2023 3:46 PM
+BAG:tanjiro add 75xThỏi vàng lydo: Lấy từ rương qua người at 03/08/2023 3:48 PM
+BAG:tanjiro add 29xNgọc Rồng 5 sao (old: 28) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 27xNgọc Rồng 7 sao (old: 26) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 30xNgọc Rồng 5 sao (old: 29) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 28xNgọc Rồng 6 sao (old: 27) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 31xNgọc Rồng 5 sao (old: 30) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 32xNgọc Rồng 5 sao (old: 31) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 28xNgọc Rồng 7 sao (old: 27) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 29xNgọc Rồng 7 sao (old: 28) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 30xNgọc Rồng 7 sao (old: 29) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 33xNgọc Rồng 5 sao (old: 32) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 29xNgọc Rồng 6 sao (old: 28) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 30xNgọc Rồng 6 sao (old: 29) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 31xNgọc Rồng 7 sao (old: 30) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 9xNgọc Rồng 4 sao (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 32xNgọc Rồng 7 sao (old: 31) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 31xNgọc Rồng 6 sao (old: 30) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 32xNgọc Rồng 6 sao (old: 31) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 33xNgọc Rồng 7 sao (old: 32) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 34xNgọc Rồng 5 sao (old: 33) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 33xNgọc Rồng 6 sao (old: 32) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 35xNgọc Rồng 5 sao (old: 34) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 34xNgọc Rồng 7 sao (old: 33) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 34xNgọc Rồng 6 sao (old: 33) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 35xNgọc Rồng 7 sao (old: 34) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 10xNgọc Rồng 4 sao (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 36xNgọc Rồng 7 sao (old: 35) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 37xNgọc Rồng 7 sao (old: 36) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 35xNgọc Rồng 6 sao (old: 34) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 36xNgọc Rồng 5 sao (old: 35) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 38xNgọc Rồng 7 sao (old: 37) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 36xNgọc Rồng 6 sao (old: 35) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 37xNgọc Rồng 6 sao (old: 36) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 39xNgọc Rồng 7 sao (old: 38) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 38xNgọc Rồng 6 sao (old: 37) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 11xVệ tinh trí lực (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 13xVệ tinh sinh lực (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 40xNgọc Rồng 7 sao (old: 39) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 11xNgọc Rồng 4 sao (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 41xNgọc Rồng 7 sao (old: 40) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 12xVệ tinh trí lực (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 39xNgọc Rồng 6 sao (old: 38) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 14xVệ tinh sinh lực (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 40xNgọc Rồng 6 sao (old: 39) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 37xNgọc Rồng 5 sao (old: 36) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 38xNgọc Rồng 5 sao (old: 37) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:49 PM
+BAG:tanjiro add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/08/2023 3:51 PM
+BAG:tanjiro add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/08/2023 3:51 PM
+BAG:tanjiro add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/08/2023 3:51 PM
+BAG:tanjiro add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/08/2023 3:51 PM
+BAG:tanjiro add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/08/2023 3:51 PM
+BAG:tanjiro add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/08/2023 3:51 PM
+BAG:tanjiro add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/08/2023 3:51 PM
+BAG:tanjiro add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/08/2023 3:51 PM
+BAG:tanjiro add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/08/2023 3:51 PM
+BAG:tanjiro add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/08/2023 3:51 PM
+BAG:tanjiro add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/08/2023 3:52 PM
+BAG:tanjiro add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/08/2023 3:52 PM
+BAG:tanjiro add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/08/2023 3:52 PM
+BAG:tanjiro add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/08/2023 3:52 PM
+BAG:tanjiro add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/08/2023 3:52 PM
+BAG:tanjiro add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/08/2023 3:52 PM
+BAG:tanjiro add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/08/2023 3:52 PM
+BAG:tanjiro add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/08/2023 3:52 PM
+BAG:tanjiro add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/08/2023 3:55 PM
+BAG:tanjiro add 5xPháo hoa lydo: Nhặt từ map at 03/08/2023 3:57 PM
+BAG:tanjiro add 1xCánh thiên thần 2 lydo: Admin at 03/08/2023 3:58 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 3:58 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 3:58 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 3:58 PM
+BAG:tanjiro add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/08/2023 3:59 PM
+BAG:tanjiro add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/08/2023 4:00 PM
+BAG:tanjiro add 1xBông tai Porata lydo: Admin at 03/08/2023 4:07 PM
+BAG:tanjiro add 1xGăng Thiên Sứ lydo: Admin at 03/08/2023 4:08 PM
+BAG:tanjiro add 2xCải trang Jiren lydo: Admin at 03/08/2023 4:10 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 4:10 PM
+BAG:tanjiro add 1xCải trang Jiren lydo: Admin at 03/08/2023 4:10 PM
+BAG:tanjiro add 17xNgọc Rồng 3 sao (old: 1) lydo: Admin at 03/08/2023 4:11 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 4:15 PM
+BAG:tanjiro add 33xNgọc Rồng 3 sao (old: 17) lydo: Admin at 03/08/2023 4:16 PM
+BAG:tanjiro add 49xNgọc Rồng 3 sao (old: 33) lydo: Admin at 03/08/2023 4:16 PM
+BAG:tanjiro add 65xNgọc Rồng 3 sao (old: 49) lydo: Admin at 03/08/2023 4:17 PM
+BAG:tanjiro add 81xNgọc Rồng 3 sao (old: 65) lydo: Admin at 03/08/2023 4:17 PM
+BAG:tanjiro add 1xGăng Thiên Sứ lydo: Admin at 03/08/2023 4:19 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 4:19 PM
+BAG:tanjiro add 97xNgọc Rồng 3 sao (old: 81) lydo: Admin at 03/08/2023 4:20 PM
+BAG:tanjiro add 99xCuồng nộ lydo: Admin at 03/08/2023 4:20 PM
+BAG:tanjiro add 99xBổ huyết lydo: Admin at 03/08/2023 4:20 PM
+BAG:tanjiro add 99xGiáp Xên bọ hung lydo: Admin at 03/08/2023 4:21 PM
+BAG:tanjiro add 99xKem dâu lydo: Admin at 03/08/2023 4:21 PM
+BAG:tanjiro add 161xThỏi vàng (old: 62) lydo: Admin at 03/08/2023 4:21 PM
+BAG:tanjiro add 260xThỏi vàng (old: 161) lydo: Admin at 03/08/2023 4:21 PM
+BAG:tanjiro add 359xThỏi vàng (old: 260) lydo: Admin at 03/08/2023 4:22 PM
+BAG:tanjiro add 458xThỏi vàng (old: 359) lydo: Admin at 03/08/2023 4:22 PM
+BAG:tanjiro add 557xThỏi vàng (old: 458) lydo: Admin at 03/08/2023 4:22 PM
+BAG:tanjiro add 656xThỏi vàng (old: 557) lydo: Admin at 03/08/2023 4:22 PM
+BAG:tanjiro add 755xThỏi vàng (old: 656) lydo: Admin at 03/08/2023 4:23 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 4:23 PM
+BAG:tanjiro add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/08/2023 4:25 PM
+BAG:tanjiro add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/08/2023 4:25 PM
+BAG:tanjiro add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/08/2023 4:25 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/08/2023 4:25 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/08/2023 4:25 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/08/2023 4:26 PM
+BAG:tanjiro add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/08/2023 4:26 PM
+BAG:tanjiro add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/08/2023 4:26 PM
+BAG:tanjiro add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/08/2023 4:26 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/08/2023 4:26 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/08/2023 4:26 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 4:26 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 7:19 PM
+BAG:tanjiro add 97xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/08/2023 7:26 PM
+BAG:tanjiro add 17xNgọc Rồng 1 sao lydo: Lấy từ rương qua người at 03/08/2023 7:52 PM
+BAG:tanjiro add 50xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 03/08/2023 7:52 PM
+BAG:tanjiro add 39xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/08/2023 7:52 PM
+BAG:tanjiro add 40xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/08/2023 7:52 PM
+BAG:tanjiro add 37xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/08/2023 7:52 PM
+BAG:tanjiro add 11xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/08/2023 7:52 PM
+BAG:tanjiro add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/08/2023 7:52 PM
+BAG:tanjiro add 10xSao pha lê lydo: Lấy từ rương qua người at 03/08/2023 7:53 PM
+BAG:tanjiro add 10xSao pha lê lydo: Lấy từ rương qua người at 03/08/2023 7:53 PM
+BAG:tanjiro add 10xSao pha lê lydo: Lấy từ rương qua người at 03/08/2023 7:53 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 7:53 PM
+BAG:tanjiro add 1xĐá xanh lam lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 2xĐá xanh lam (old: 1) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 3xĐá xanh lam (old: 2) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 4xĐá xanh lam (old: 3) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 5xĐá xanh lam (old: 4) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 6xĐá xanh lam (old: 5) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 7xĐá xanh lam (old: 6) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 8xĐá xanh lam (old: 7) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 9xĐá xanh lam (old: 8) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 10xĐá xanh lam (old: 9) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 11xĐá xanh lam (old: 10) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 12xĐá xanh lam (old: 11) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 13xĐá xanh lam (old: 12) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 14xĐá xanh lam (old: 13) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 15xĐá xanh lam (old: 14) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 16xĐá xanh lam (old: 15) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 17xĐá xanh lam (old: 16) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 18xĐá xanh lam (old: 17) lydo: Mua từ cửa hàng at 03/08/2023 7:56 PM
+BAG:tanjiro add 19xĐá xanh lam (old: 18) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 20xĐá xanh lam (old: 19) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 21xĐá xanh lam (old: 20) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 22xĐá xanh lam (old: 21) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 23xĐá xanh lam (old: 22) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 24xĐá xanh lam (old: 23) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 25xĐá xanh lam (old: 24) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 26xĐá xanh lam (old: 25) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 27xĐá xanh lam (old: 26) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 28xĐá xanh lam (old: 27) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 29xĐá xanh lam (old: 28) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 30xĐá xanh lam (old: 29) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 31xĐá xanh lam (old: 30) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 32xĐá xanh lam (old: 31) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 33xĐá xanh lam (old: 32) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 34xĐá xanh lam (old: 33) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 35xĐá xanh lam (old: 34) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 36xĐá xanh lam (old: 35) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 37xĐá xanh lam (old: 36) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 38xĐá xanh lam (old: 37) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 39xĐá xanh lam (old: 38) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 40xĐá xanh lam (old: 39) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 41xĐá xanh lam (old: 40) lydo: Mua từ cửa hàng at 03/08/2023 7:57 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 99xMảnh hồn bông tai lydo: (GD) Nhận từ yoriichi at 03/08/2023 7:59 PM
+BAG:tanjiro add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/08/2023 8:28 PM
+BAG:tanjiro add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/08/2023 8:28 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/08/2023 8:29 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/08/2023 8:29 PM
+BAG:tanjiro add 1xĐá Titan lydo: Nhặt từ map at 03/08/2023 8:30 PM
+BAG:tanjiro add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/08/2023 8:30 PM
+BAG:tanjiro add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/08/2023 8:30 PM
+BAG:tanjiro add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/08/2023 8:30 PM
+BAG:tanjiro add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/08/2023 8:30 PM
+BAG:tanjiro add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/08/2023 8:30 PM
+BAG:tanjiro add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/08/2023 8:30 PM
+BAG:tanjiro add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/08/2023 8:30 PM
+BAG:tanjiro add 1xĐá Saphia lydo: Nhặt từ map at 03/08/2023 8:31 PM
+BAG:tanjiro add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/08/2023 8:31 PM
+BAG:tanjiro add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/08/2023 8:31 PM
+BAG:tanjiro add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/08/2023 8:31 PM
+BAG:tanjiro add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/08/2023 8:31 PM
+BAG:tanjiro add 1xĐá lục bảo lydo: Nhặt từ map at 03/08/2023 8:31 PM
+BAG:tanjiro add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/08/2023 8:31 PM
+BAG:tanjiro add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/08/2023 8:31 PM
+BAG:tanjiro add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/08/2023 8:32 PM
+BAG:tanjiro add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/08/2023 8:32 PM
+BAG:tanjiro add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/08/2023 8:32 PM
+BAG:tanjiro add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/08/2023 8:32 PM
+BAG:tanjiro add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/08/2023 8:32 PM
+BAG:tanjiro add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/08/2023 8:32 PM
+BAG:tanjiro add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/08/2023 8:32 PM
+BAG:tanjiro add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/08/2023 8:32 PM
+BAG:tanjiro add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/08/2023 8:32 PM
+BAG:tanjiro add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/08/2023 8:33 PM
+BAG:tanjiro add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/08/2023 8:33 PM
+BAG:tanjiro add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/08/2023 8:33 PM
+BAG:tanjiro add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/08/2023 8:33 PM
+BAG:tanjiro add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/08/2023 8:33 PM
+BAG:tanjiro add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/08/2023 8:33 PM
+BAG:tanjiro add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/08/2023 8:33 PM
+BAG:tanjiro add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/08/2023 8:34 PM
+BAG:tanjiro add 1xHộp bánh Trung Thu lydo: Admin at 03/08/2023 8:34 PM
+BAG:tanjiro add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/08/2023 8:34 PM
+BAG:tanjiro add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/08/2023 8:34 PM
+BAG:tanjiro add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/08/2023 8:34 PM
+BAG:tanjiro add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/08/2023 8:34 PM
+BAG:tanjiro add 1xHộp bánh Trung Thu lydo: Admin at 03/08/2023 8:34 PM
+BAG:tanjiro add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 1xĐá Ruby lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/08/2023 8:35 PM
+BAG:tanjiro add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/08/2023 8:36 PM
+BAG:tanjiro add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/08/2023 8:36 PM
+BAG:tanjiro add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/08/2023 8:36 PM
+BAG:tanjiro add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/08/2023 8:36 PM
+BAG:tanjiro add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/08/2023 8:36 PM
+BAG:tanjiro add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/08/2023 8:36 PM
+BAG:tanjiro add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/08/2023 8:36 PM
+BAG:tanjiro add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/08/2023 8:36 PM
+BAG:tanjiro add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/08/2023 8:36 PM
+BAG:tanjiro add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/08/2023 8:36 PM
+BAG:tanjiro add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/08/2023 8:36 PM
+BAG:tanjiro add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/08/2023 8:37 PM
+BAG:tanjiro add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/08/2023 8:37 PM
+BAG:tanjiro add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/08/2023 8:37 PM
+BAG:tanjiro add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/08/2023 8:37 PM
+BAG:tanjiro add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/08/2023 8:37 PM
+BAG:tanjiro add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/08/2023 8:37 PM
+BAG:tanjiro add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/08/2023 8:37 PM
+BAG:tanjiro add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/08/2023 8:37 PM
+BAG:tanjiro add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/08/2023 8:38 PM
+BAG:tanjiro add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/08/2023 8:38 PM
+BAG:tanjiro add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/08/2023 8:38 PM
+BAG:tanjiro add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/08/2023 8:38 PM
+BAG:tanjiro add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/08/2023 8:38 PM
+BAG:tanjiro add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/08/2023 8:39 PM
+BAG:tanjiro add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/08/2023 8:39 PM
+BAG:tanjiro add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/08/2023 8:39 PM
+BAG:tanjiro add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/08/2023 8:39 PM
+BAG:tanjiro add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/08/2023 8:39 PM
+BAG:tanjiro add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/08/2023 8:39 PM
+BAG:tanjiro add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/08/2023 8:39 PM
+BAG:tanjiro add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/08/2023 8:40 PM
+BAG:tanjiro add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/08/2023 8:41 PM
+BAG:tanjiro add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/08/2023 8:41 PM
+BAG:tanjiro add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/08/2023 8:41 PM
+BAG:tanjiro add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/08/2023 8:41 PM
+BAG:tanjiro add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/08/2023 8:41 PM
+BAG:tanjiro add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/08/2023 8:41 PM
+BAG:tanjiro add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/08/2023 8:41 PM
+BAG:tanjiro add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/08/2023 8:41 PM
+BAG:tanjiro add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/08/2023 8:41 PM
+BAG:tanjiro add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/08/2023 8:41 PM
+BAG:tanjiro add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/08/2023 8:41 PM
+BAG:tanjiro add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/08/2023 8:42 PM
+BAG:tanjiro add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/08/2023 8:43 PM
+BAG:tanjiro add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/08/2023 8:43 PM
+BAG:tanjiro add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/08/2023 8:43 PM
+BAG:tanjiro add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/08/2023 8:43 PM
+BAG:tanjiro add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/08/2023 8:43 PM
+BAG:tanjiro add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/08/2023 8:43 PM
+BAG:tanjiro add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/08/2023 8:43 PM
+BAG:tanjiro add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/08/2023 8:43 PM
+BAG:tanjiro add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/08/2023 8:44 PM
+BAG:tanjiro add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/08/2023 8:45 PM
+BAG:tanjiro add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/08/2023 8:45 PM
+BAG:tanjiro add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/08/2023 8:46 PM
+BAG:tanjiro add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/08/2023 8:46 PM
+BAG:tanjiro add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/08/2023 8:46 PM
+BAG:tanjiro add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/08/2023 8:46 PM
+BAG:tanjiro add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/08/2023 8:46 PM
+BAG:tanjiro add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/08/2023 8:46 PM
+BAG:tanjiro add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/08/2023 8:46 PM
+BAG:tanjiro add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/08/2023 8:46 PM
+BAG:tanjiro add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/08/2023 8:46 PM
+BAG:tanjiro add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/08/2023 8:47 PM
+BAG:tanjiro add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/08/2023 8:47 PM
+BAG:tanjiro add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/08/2023 8:47 PM
+BAG:tanjiro add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/08/2023 8:47 PM
+BAG:tanjiro add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/08/2023 8:47 PM
+BAG:tanjiro add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/08/2023 8:47 PM
+BAG:tanjiro add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/08/2023 8:47 PM
+BAG:tanjiro add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/08/2023 8:47 PM
+BAG:tanjiro add 17xNgọc Rồng 1 sao lydo: Lấy từ rương qua người at 03/08/2023 8:49 PM
+BAG:tanjiro add 50xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 03/08/2023 8:49 PM
+BAG:tanjiro add 13xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/08/2023 8:49 PM
+BAG:tanjiro add 11xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/08/2023 8:49 PM
+BAG:tanjiro add 39xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ rương qua người at 03/08/2023 8:49 PM
+BAG:tanjiro add 40xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ rương qua người at 03/08/2023 8:49 PM
+BAG:tanjiro add 40xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/08/2023 8:49 PM
+BAG:tanjiro add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/08/2023 8:49 PM
+BAG:tanjiro add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/08/2023 8:51 PM
+BAG:tanjiro add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/08/2023 8:51 PM
+BAG:tanjiro add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/08/2023 8:51 PM
+BAG:tanjiro add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/08/2023 8:51 PM
+BAG:tanjiro add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhập ngọc at 03/08/2023 8:52 PM
+BAG:tanjiro add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhập ngọc at 03/08/2023 8:52 PM
+BAG:tanjiro add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhập ngọc at 03/08/2023 8:52 PM
+BAG:tanjiro add 99xCuồng nộ lydo: Lấy từ rương qua người at 03/08/2023 9:41 PM
+BAG:tanjiro add 99xBổ huyết lydo: Lấy từ rương qua người at 03/08/2023 9:41 PM
+BAG:tanjiro add 99xGiáp Xên bọ hung lydo: Lấy từ rương qua người at 03/08/2023 9:41 PM
+BAG:tanjiro add 99xKem dâu lydo: Lấy từ rương qua người at 03/08/2023 9:41 PM
+BAG:tanjiro add 1xHộp bánh Trung Thu lydo: Lấy từ rương qua người at 03/08/2023 9:41 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 9:42 PM
+BAG:tanjiro add 1xHộp bánh Trung Thu lydo: Lấy từ rương qua người at 03/08/2023 9:43 PM
+BAG:tanjiro add 1xHộp bánh Trung Thu lydo: Lấy từ rương qua người at 03/08/2023 9:43 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 9:44 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 9:50 PM
+BAG:tanjiro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/08/2023 9:51 PM

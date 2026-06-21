@@ -1,0 +1,422 @@
+BAG:yingg add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:35 AM
+BAG:yingg add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 1:45 AM
+BAG:yingg add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 1:45 AM
+BAG:yingg add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 1:45 AM
+BAG:yingg add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 1:45 AM
+BAG:yingg add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/04/2023 2:13 AM
+BAG:yingg add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:yingg add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:yingg add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:yingg add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:yingg add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:yingg add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:yingg add 1xNhẫn thời không sai lệch lydo: Admin at 03/04/2023 2:24 AM
+BAG:yingg add 14xNgọc Rồng 1 sao lydo: Admin at 03/04/2023 2:32 AM
+BAG:yingg add 15xNgọc Rồng 2 sao lydo: Admin at 03/04/2023 2:33 AM
+BAG:yingg add 17xNgọc Rồng 4 sao lydo: Admin at 03/04/2023 2:33 AM
+BAG:yingg add 18xNgọc Rồng 5 sao lydo: Admin at 03/04/2023 2:33 AM
+BAG:yingg add 20xNgọc Rồng 7 sao lydo: Admin at 03/04/2023 2:33 AM
+BAG:yingg add 19xNgọc Rồng 6 sao lydo: Admin at 03/04/2023 2:34 AM
+BAG:yingg add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/04/2023 2:42 AM
+BAG:yingg add 1000015xThỏi vàng (old: 999995) lydo: Đổi vàng at 03/04/2023 2:43 AM
+BAG:yingg add 1xGăng vàng Zealot lydo: (GD) Nhận từ yangg at 03/04/2023 2:43 AM
+BAG:yingg add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/04/2023 4:22 AM
+BAG:yingg add 1xGăng Thiên Sứ lydo: admin at 03/04/2023 5:33 AM
+BAG:yingg add 1xGăng Thiên Sứ lydo: admin at 03/04/2023 5:34 AM
+BAG:yingg add 1xGăng Thiên Sứ lydo: admin at 03/04/2023 5:35 AM
+BAG:yingg add 1xGăng Thiên Sứ lydo: admin at 03/04/2023 5:36 AM
+BAG:yingg add 1xGăng Thiên Sứ lydo: admin at 03/04/2023 5:37 AM
+BAG:yingg add 1xÁo Hủy Diệt lydo: admin at 03/04/2023 5:40 AM
+BAG:yingg add 1xÁo Hủy Diệt lydo: admin at 03/04/2023 5:41 AM
+BAG:yingg add 1xQuần Hủy Diệt lydo: admin at 03/04/2023 5:44 AM
+BAG:yingg add 1xNhẫn Hủy Diệt lydo: admin at 03/04/2023 5:45 AM
+BAG:yingg add 1xGiầy Hủy Diệt lydo: admin at 03/04/2023 5:45 AM
+BAG:yingg add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/04/2023 5:47 AM
+BAG:yingg add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/04/2023 5:47 AM
+BAG:yingg add 1xGăng Thiên Sứ lydo: Lấy từ body vào hành trang at 03/04/2023 5:47 AM
+BAG:yingg add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/04/2023 5:47 AM
+BAG:yingg add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 5:47 AM
+BAG:yingg add 10xĐậu thần cấp 10 (old: 4) lydo: Thu hoạch đậu at 03/04/2023 10:21 AM
+BAG:yingg add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:yingg add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:yingg add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:yingg add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:yingg add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:yingg add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:yingg add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:yingg add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:yingg add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:29 AM
+BAG:yingg add 1xÁo Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:29 AM
+BAG:yingg add 1xQuần Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:29 AM
+BAG:yingg add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:29 AM
+BAG:yingg add 1xGiầy Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:29 AM
+BAG:yingg add 1xNhẫn Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:29 AM
+BAG:yingg add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/04/2023 10:42 AM
+BAG:yingg add 1xGăng Thiên Sứ lydo: Lấy từ body vào hành trang at 03/04/2023 10:42 AM
+BAG:yingg add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/04/2023 10:42 AM
+BAG:yingg add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/04/2023 10:42 AM
+BAG:yingg add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 10:42 AM
+BAG:yingg add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/04/2023 10:49 AM
+BAG:yingg add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/04/2023 10:49 AM
+BAG:yingg add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/04/2023 10:49 AM
+BAG:yingg add 1xNgọc Rồng 1 sao lydo: buff at 03/04/2023 10:53 AM
+BAG:yingg add 1xNgọc Rồng 1 sao lydo: buff at 03/04/2023 10:54 AM
+BAG:yingg add 99xNgọc Rồng 1 sao (old: 1) lydo: buff at 03/04/2023 10:54 AM
+BAG:yingg add 99xNgọc Rồng 2 sao lydo: buff at 03/04/2023 10:54 AM
+BAG:yingg add 99xNgọc Rồng 4 sao lydo: buff at 03/04/2023 10:54 AM
+BAG:yingg add 99xNgọc Rồng 5 sao lydo: buff at 03/04/2023 10:54 AM
+BAG:yingg add 99xNgọc Rồng 6 sao lydo: buff at 03/04/2023 10:54 AM
+BAG:yingg add 99xNgọc Rồng 7 sao lydo: buff at 03/04/2023 10:54 AM
+BAG:yingg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 10:55 AM
+BAG:yingg add 99xCuồng nộ lydo: buff at 03/04/2023 10:59 AM
+BAG:yingg add 99xĐá bảo vệ lydo: buff at 03/04/2023 11:00 AM
+BAG:yingg add 99xĐá thạch anh tím lydo: buff at 03/04/2023 11:00 AM
+BAG:yingg add 99xĐá thạch anh tím lydo: buff at 03/04/2023 11:00 AM
+BAG:yingg add 99xĐá thạch anh tím lydo: buff at 03/04/2023 11:00 AM
+BAG:yingg add 99xĐá thạch anh tím lydo: buff at 03/04/2023 11:00 AM
+BAG:yingg add 1xGăng Thiên Sứ lydo: Lấy từ body vào hành trang at 03/04/2023 11:00 AM
+BAG:yingg add 11xĐá thạch anh tím lydo: buff at 03/04/2023 11:03 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 11) lydo: buff at 03/04/2023 11:03 AM
+BAG:yingg add 11xĐá thạch anh tím lydo: buff at 03/04/2023 11:04 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 11) lydo: buff at 03/04/2023 11:04 AM
+BAG:yingg add 11xĐá thạch anh tím lydo: buff at 03/04/2023 11:04 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 11) lydo: buff at 03/04/2023 11:04 AM
+BAG:yingg add 11xĐá thạch anh tím lydo: buff at 03/04/2023 11:05 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 11) lydo: buff at 03/04/2023 11:05 AM
+BAG:yingg add 11xĐá thạch anh tím lydo: buff at 03/04/2023 11:05 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 11) lydo: buff at 03/04/2023 11:05 AM
+BAG:yingg add 11xĐá thạch anh tím lydo: buff at 03/04/2023 11:05 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 11) lydo: buff at 03/04/2023 11:05 AM
+BAG:yingg add 11xĐá thạch anh tím lydo: buff at 03/04/2023 11:06 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 11) lydo: buff at 03/04/2023 11:06 AM
+BAG:yingg add 11xĐá thạch anh tím lydo: buff at 03/04/2023 11:06 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 11) lydo: buff at 03/04/2023 11:06 AM
+BAG:yingg add 11xĐá thạch anh tím lydo: buff at 03/04/2023 11:06 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 11) lydo: buff at 03/04/2023 11:06 AM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 11:08 AM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 11:09 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 11:09 AM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 11:09 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 11:09 AM
+BAG:yingg add 27xĐá thạch anh tím lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 27) lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 27xĐá thạch anh tím lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 27) lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 27xĐá thạch anh tím lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 27) lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 27xĐá thạch anh tím lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 27) lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 27xĐá thạch anh tím lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 27) lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 27xĐá thạch anh tím lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 27) lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 27xĐá thạch anh tím lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 27) lydo: buff at 03/04/2023 11:10 AM
+BAG:yingg add 27xĐá thạch anh tím lydo: buff at 03/04/2023 11:11 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 27) lydo: buff at 03/04/2023 11:11 AM
+BAG:yingg add 27xĐá thạch anh tím lydo: buff at 03/04/2023 11:11 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 27) lydo: buff at 03/04/2023 11:11 AM
+BAG:yingg add 27xĐá thạch anh tím lydo: buff at 03/04/2023 11:11 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 27) lydo: buff at 03/04/2023 11:11 AM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 11:12 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 11:12 AM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 11:12 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 11:12 AM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 11:12 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 11:12 AM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 11:13 AM
+BAG:yingg add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/04/2023 11:14 AM
+BAG:yingg add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/04/2023 11:16 AM
+BAG:yingg add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 11:19 AM
+BAG:yingg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 11:19 AM
+BAG:yingg add 3xSao pha lê lydo: buff at 03/04/2023 11:21 AM
+BAG:yingg add 3xSao pha lê lydo: buff at 03/04/2023 11:21 AM
+BAG:yingg add 1xCải trang lydo: Lấy từ body vào hành trang at 03/04/2023 11:22 AM
+BAG:yingg add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 11:23 AM
+BAG:yingg add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 11:23 AM
+BAG:yingg add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 11:23 AM
+BAG:yingg add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 11:23 AM
+BAG:yingg add 1xBột mì lydo: Nhặt từ map at 03/04/2023 11:24 AM
+BAG:yingg add 1xGăng Thiên Sứ lydo: Lấy từ body vào hành trang at 03/04/2023 11:25 AM
+BAG:yingg add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 11:26 AM
+BAG:yingg add 13xĐá thạch anh tím lydo: buff at 03/04/2023 11:27 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 13) lydo: buff at 03/04/2023 11:27 AM
+BAG:yingg add 13xĐá thạch anh tím lydo: buff at 03/04/2023 11:27 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 13) lydo: buff at 03/04/2023 11:27 AM
+BAG:yingg add 13xĐá thạch anh tím lydo: buff at 03/04/2023 11:28 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 13) lydo: buff at 03/04/2023 11:28 AM
+BAG:yingg add 13xĐá thạch anh tím lydo: buff at 03/04/2023 11:28 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 13) lydo: buff at 03/04/2023 11:28 AM
+BAG:yingg add 13xĐá thạch anh tím lydo: buff at 03/04/2023 11:28 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 13) lydo: buff at 03/04/2023 11:28 AM
+BAG:yingg add 13xĐá thạch anh tím lydo: buff at 03/04/2023 11:28 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 13) lydo: buff at 03/04/2023 11:28 AM
+BAG:yingg add 13xĐá thạch anh tím lydo: buff at 03/04/2023 11:28 AM
+BAG:yingg add 99xĐá thạch anh tím (old: 13) lydo: buff at 03/04/2023 11:28 AM
+BAG:yingg add 1xCải trang lydo: buff at 03/04/2023 11:30 AM
+BAG:yingg add 3xBí ngô 1 sao lydo: buff at 03/04/2023 11:32 AM
+BAG:yingg add 3xBí ngô 2 sao lydo: buff at 03/04/2023 11:32 AM
+BAG:yingg add 3xBí ngô 3 sao lydo: buff at 03/04/2023 11:32 AM
+BAG:yingg add 3xBí ngô 4 sao lydo: buff at 03/04/2023 11:32 AM
+BAG:yingg add 7xBí ngô 5 sao lydo: buff at 03/04/2023 11:32 AM
+BAG:yingg add 3xBí ngô 6 sao lydo: buff at 03/04/2023 11:32 AM
+BAG:yingg add 3xBí ngô 7 sao lydo: buff at 03/04/2023 11:33 AM
+BAG:yingg add 99xĐá thạch anh tím lydo: buff at 03/04/2023 12:05 PM
+BAG:yingg add 99xĐá thạch anh tím lydo: buff at 03/04/2023 12:05 PM
+BAG:yingg add 99xĐá thạch anh tím lydo: buff at 03/04/2023 12:05 PM
+BAG:yingg add 99xĐá thạch anh tím lydo: buff at 03/04/2023 12:05 PM
+BAG:yingg add 99xĐá thạch anh tím lydo: buff at 03/04/2023 12:05 PM
+BAG:yingg add 99xĐá thạch anh tím lydo: buff at 03/04/2023 12:05 PM
+BAG:yingg add 1xĐá thạch anh tím lydo: buff at 03/04/2023 12:05 PM
+BAG:yingg add 1xGăng Thiên Sứ lydo: Lấy từ body vào hành trang at 03/04/2023 12:07 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:07 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:07 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:07 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:07 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:08 PM
+BAG:yingg add 66xĐá thạch anh tím lydo: buff at 03/04/2023 12:10 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 66) lydo: buff at 03/04/2023 12:10 PM
+BAG:yingg add 66xĐá thạch anh tím lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 66) lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 66xĐá thạch anh tím lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 66) lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 66xĐá thạch anh tím lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 66) lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 66xĐá thạch anh tím lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 66) lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 66xĐá thạch anh tím lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 66) lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 66xĐá thạch anh tím lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 66) lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 66xĐá thạch anh tím lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 66) lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 66xĐá thạch anh tím lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 66) lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 66xĐá thạch anh tím lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 66) lydo: buff at 03/04/2023 12:11 PM
+BAG:yingg add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:14 PM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 14xĐá thạch anh tím lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/04/2023 12:15 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:16 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:17 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:18 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:18 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:18 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:18 PM
+BAG:yingg add 6xĐá thạch anh tím lydo: buff at 03/04/2023 12:18 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/04/2023 12:18 PM
+BAG:yingg add 15xĐá thạch anh tím lydo: buff at 03/04/2023 12:19 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 15) lydo: buff at 03/04/2023 12:19 PM
+BAG:yingg add 15xĐá thạch anh tím lydo: buff at 03/04/2023 12:19 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 15) lydo: buff at 03/04/2023 12:19 PM
+BAG:yingg add 15xĐá thạch anh tím lydo: buff at 03/04/2023 12:19 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 15) lydo: buff at 03/04/2023 12:19 PM
+BAG:yingg add 15xĐá thạch anh tím lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 15) lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 15xĐá thạch anh tím lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 15) lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 15xĐá thạch anh tím lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 15) lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 99xĐá Titan lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 15xĐá thạch anh tím lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 15) lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 15xĐá thạch anh tím lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 15) lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 15xĐá thạch anh tím lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 15) lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 15xĐá thạch anh tím lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 15) lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 15xĐá thạch anh tím lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 15) lydo: buff at 03/04/2023 12:20 PM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 19xĐá thạch anh tím lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/04/2023 12:23 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:26 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:27 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:27 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:27 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:27 PM
+BAG:yingg add 23xĐá thạch anh tím lydo: buff at 03/04/2023 12:27 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/04/2023 12:27 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:29 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:30 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:30 PM
+BAG:yingg add 26xĐá thạch anh tím lydo: buff at 03/04/2023 12:30 PM
+BAG:yingg add 99xĐá thạch anh tím (old: 26) lydo: buff at 03/04/2023 12:30 PM
+BAG:yingg add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/04/2023 12:34 PM
+BAG:yingg add 1xBột mì lydo: Nhặt từ map at 03/04/2023 12:35 PM
+BAG:yingg add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/04/2023 12:35 PM
+BAG:yingg add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 12:37 PM
+BAG:yingg add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 12:37 PM
+BAG:yingg add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 12:38 PM
+BAG:yingg add 1xHồn linh thú lydo: Nhặt từ map at 03/04/2023 12:38 PM
+BAG:yingg add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 12:38 PM
+BAG:yingg add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 12:39 PM
+BAG:yingg add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 12:39 PM
+BAG:yingg add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 12:39 PM
+BAG:yingg add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 12:39 PM
+BAG:yingg add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 12:39 PM
+BAG:yingg add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 12:39 PM
+BAG:yingg add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 12:40 PM
+BAG:yingg add 98xCuồng nộ lydo: buff at 03/04/2023 12:40 PM
+BAG:yingg add 99xCuồng nộ (old: 98) lydo: buff at 03/04/2023 12:40 PM
+BAG:yingg add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 12:40 PM
+BAG:yingg add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/04/2023 12:40 PM
+BAG:yingg add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 12:40 PM
+BAG:yingg add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 12:40 PM
+BAG:yingg add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/04/2023 12:40 PM
+BAG:yingg add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/04/2023 12:40 PM
+BAG:yingg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 12:41 PM
+BAG:yingg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 12:45 PM

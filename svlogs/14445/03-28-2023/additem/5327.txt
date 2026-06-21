@@ -1,0 +1,572 @@
+BAG:locsieudz add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/28/2023 10:53 AM
+BAG:locsieudz add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/28/2023 10:57 AM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 10:57 AM
+BAG:locsieudz add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 10:57 AM
+BAG:locsieudz add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 11:00 AM
+BAG:locsieudz add 1xKiếm ánh sáng lydo: Mua từ cửa hàng at 03/28/2023 11:01 AM
+BAG:locsieudz add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 11:03 AM
+BAG:locsieudz add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 11:04 AM
+BAG:locsieudz add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 11:04 AM
+BAG:locsieudz add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 11:05 AM
+BAG:locsieudz add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 11:05 AM
+BAG:locsieudz add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 11:05 AM
+BAG:locsieudz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:locsieudz add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:locsieudz add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:locsieudz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 11:09 AM
+BAG:locsieudz add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:locsieudz add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 11:11 AM
+BAG:locsieudz add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 11:11 AM
+BAG:locsieudz add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/28/2023 11:20 AM
+BAG:locsieudz add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 11:23 AM
+BAG:locsieudz add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 11:23 AM
+BAG:locsieudz add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 11:24 AM
+BAG:locsieudz add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 11:24 AM
+BAG:locsieudz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:locsieudz add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/28/2023 11:26 AM
+BAG:locsieudz add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 11:26 AM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 11:26 AM
+BAG:locsieudz add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 11:27 AM
+BAG:locsieudz add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 11:27 AM
+BAG:locsieudz add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:locsieudz add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:locsieudz add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:locsieudz add 1xQuần vải thô lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:locsieudz add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:locsieudz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:locsieudz add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:locsieudz add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 11:31 AM
+BAG:locsieudz add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:locsieudz add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:locsieudz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 11:34 AM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 11:34 AM
+BAG:locsieudz add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 11:34 AM
+BAG:locsieudz add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/28/2023 11:34 AM
+BAG:locsieudz add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 11:35 AM
+BAG:locsieudz add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/28/2023 11:35 AM
+BAG:locsieudz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 11:35 AM
+BAG:locsieudz add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:locsieudz add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:locsieudz add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 11:37 AM
+BAG:locsieudz add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:locsieudz add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:locsieudz add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:locsieudz add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:locsieudz add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:locsieudz add 1xGiầy vải thô lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:locsieudz add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:locsieudz add 1xGiầy vải thô lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:locsieudz add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:locsieudz add 1xGiầy vải thô lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:locsieudz add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:locsieudz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 11:43 AM
+BAG:locsieudz add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:locsieudz add 1xGăng vải thô lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:locsieudz add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:locsieudz add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:locsieudz add 1xGăng vải thô lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:locsieudz add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:locsieudz add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 03/28/2023 11:45 AM
+BAG:locsieudz add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:46 AM
+BAG:locsieudz add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 11:46 AM
+BAG:locsieudz add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 11:47 AM
+BAG:locsieudz add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 11:47 AM
+BAG:locsieudz add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 11:47 AM
+BAG:locsieudz add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 11:47 AM
+BAG:locsieudz add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 03/28/2023 11:47 AM
+BAG:locsieudz add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 11:48 AM
+BAG:locsieudz add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 11:48 AM
+BAG:locsieudz add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 03/28/2023 11:48 AM
+BAG:locsieudz add 1xGăng vải thô lydo: Nhặt từ map at 03/28/2023 11:49 AM
+BAG:locsieudz add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 03/28/2023 11:49 AM
+BAG:locsieudz add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 11:50 AM
+BAG:locsieudz add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 03/28/2023 11:50 AM
+BAG:locsieudz add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 03/28/2023 11:50 AM
+BAG:locsieudz add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 11:50 AM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 11:51 AM
+BAG:locsieudz add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 11:51 AM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:locsieudz add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:locsieudz add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:locsieudz add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:locsieudz add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:locsieudz add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:locsieudz add 24xMảnh Quỷ đất (old: 23) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:locsieudz add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 11:53 AM
+BAG:locsieudz add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 11:53 AM
+BAG:locsieudz add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/28/2023 11:54 AM
+BAG:locsieudz add 25xMảnh Quỷ đất (old: 24) lydo: Nhặt từ map at 03/28/2023 11:54 AM
+BAG:locsieudz add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:locsieudz add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:locsieudz add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:locsieudz add 26xMảnh Quỷ đất (old: 25) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:locsieudz add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:locsieudz add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:locsieudz add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:locsieudz add 27xMảnh Quỷ đất (old: 26) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:locsieudz add 28xMảnh Quỷ đất (old: 27) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:locsieudz add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/28/2023 11:56 AM
+BAG:locsieudz add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/28/2023 11:57 AM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 11:57 AM
+BAG:locsieudz add 29xMảnh Quỷ đất (old: 28) lydo: Nhặt từ map at 03/28/2023 11:58 AM
+BAG:locsieudz add 30xMảnh Quỷ đất (old: 29) lydo: Nhặt từ map at 03/28/2023 11:59 AM
+BAG:locsieudz add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/28/2023 11:59 AM
+BAG:locsieudz add 31xMảnh Quỷ đất (old: 30) lydo: Nhặt từ map at 03/28/2023 11:59 AM
+BAG:locsieudz add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/28/2023 11:59 AM
+BAG:locsieudz add 32xMảnh Quỷ đất (old: 31) lydo: Nhặt từ map at 03/28/2023 11:59 AM
+BAG:locsieudz add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/28/2023 11:59 AM
+BAG:locsieudz add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/28/2023 11:59 AM
+BAG:locsieudz add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/28/2023 12:00 PM
+BAG:locsieudz add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/28/2023 12:00 PM
+BAG:locsieudz add 33xMảnh Quỷ đất (old: 32) lydo: Nhặt từ map at 03/28/2023 12:00 PM
+BAG:locsieudz add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/28/2023 12:01 PM
+BAG:locsieudz add 34xMảnh Quỷ đất (old: 33) lydo: Nhặt từ map at 03/28/2023 12:01 PM
+BAG:locsieudz add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 12:01 PM
+BAG:locsieudz add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 12:01 PM
+BAG:locsieudz add 35xMảnh Quỷ đất (old: 34) lydo: Nhặt từ map at 03/28/2023 12:01 PM
+BAG:locsieudz add 1xQuần vải thô lydo: Nhặt từ map at 03/28/2023 12:01 PM
+BAG:locsieudz add 36xMảnh Quỷ đất (old: 35) lydo: Nhặt từ map at 03/28/2023 12:02 PM
+BAG:locsieudz add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/28/2023 12:02 PM
+BAG:locsieudz add 37xMảnh Quỷ đất (old: 36) lydo: Nhặt từ map at 03/28/2023 12:02 PM
+BAG:locsieudz add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/28/2023 12:02 PM
+BAG:locsieudz add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/28/2023 12:02 PM
+BAG:locsieudz add 38xMảnh Quỷ đất (old: 37) lydo: Nhặt từ map at 03/28/2023 12:02 PM
+BAG:locsieudz add 39xMảnh Quỷ đất (old: 38) lydo: Nhặt từ map at 03/28/2023 12:03 PM
+BAG:locsieudz add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/28/2023 12:03 PM
+BAG:locsieudz add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/28/2023 12:03 PM
+BAG:locsieudz add 40xMảnh Quỷ đất (old: 39) lydo: Nhặt từ map at 03/28/2023 12:03 PM
+BAG:locsieudz add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/28/2023 12:04 PM
+BAG:locsieudz add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/28/2023 12:04 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 12:04 PM
+BAG:locsieudz add 41xMảnh Quỷ đất (old: 40) lydo: Nhặt từ map at 03/28/2023 12:04 PM
+BAG:locsieudz add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/28/2023 12:04 PM
+BAG:locsieudz add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/28/2023 12:04 PM
+BAG:locsieudz add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/28/2023 12:05 PM
+BAG:locsieudz add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/28/2023 12:05 PM
+BAG:locsieudz add 42xMảnh Quỷ đất (old: 41) lydo: Nhặt từ map at 03/28/2023 12:05 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 12:05 PM
+BAG:locsieudz add 43xMảnh Quỷ đất (old: 42) lydo: Nhặt từ map at 03/28/2023 12:05 PM
+BAG:locsieudz add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/28/2023 12:06 PM
+BAG:locsieudz add 44xMảnh Quỷ đất (old: 43) lydo: Nhặt từ map at 03/28/2023 12:06 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 12:06 PM
+BAG:locsieudz add 1xGiầy vải thô lydo: Nhặt từ map at 03/28/2023 12:06 PM
+BAG:locsieudz add 1xGăng vải thô lydo: Nhặt từ map at 03/28/2023 12:06 PM
+BAG:locsieudz add 45xMảnh Quỷ đất (old: 44) lydo: Nhặt từ map at 03/28/2023 12:06 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 12:06 PM
+BAG:locsieudz add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 12:07 PM
+BAG:locsieudz add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/28/2023 12:07 PM
+BAG:locsieudz add 46xMảnh Quỷ đất (old: 45) lydo: Nhặt từ map at 03/28/2023 12:07 PM
+BAG:locsieudz add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/28/2023 12:07 PM
+BAG:locsieudz add 47xMảnh Quỷ đất (old: 46) lydo: Nhặt từ map at 03/28/2023 12:07 PM
+BAG:locsieudz add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/28/2023 12:08 PM
+BAG:locsieudz add 1xGăng vải thô lydo: Nhặt từ map at 03/28/2023 12:08 PM
+BAG:locsieudz add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/28/2023 12:08 PM
+BAG:locsieudz add 1xQuần vải thô lydo: Nhặt từ map at 03/28/2023 12:08 PM
+BAG:locsieudz add 48xMảnh Quỷ đất (old: 47) lydo: Nhặt từ map at 03/28/2023 12:09 PM
+BAG:locsieudz add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/28/2023 12:09 PM
+BAG:locsieudz add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 12:09 PM
+BAG:locsieudz add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/28/2023 12:10 PM
+BAG:locsieudz add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/28/2023 12:10 PM
+BAG:locsieudz add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/28/2023 12:10 PM
+BAG:locsieudz add 49xMảnh Quỷ đất (old: 48) lydo: Nhặt từ map at 03/28/2023 12:10 PM
+BAG:locsieudz add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/28/2023 12:10 PM
+BAG:locsieudz add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:locsieudz add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:locsieudz add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:locsieudz add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:locsieudz add 50xMảnh Quỷ đất (old: 49) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:locsieudz add 51xMảnh Quỷ đất (old: 50) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:locsieudz add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:locsieudz add 52xMảnh Quỷ đất (old: 51) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:locsieudz add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 12:12 PM
+BAG:locsieudz add 53xMảnh Quỷ đất (old: 52) lydo: Nhặt từ map at 03/28/2023 12:12 PM
+BAG:locsieudz add 54xMảnh Quỷ đất (old: 53) lydo: Nhặt từ map at 03/28/2023 12:12 PM
+BAG:locsieudz add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:locsieudz add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:locsieudz add 55xMảnh Quỷ đất (old: 54) lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:locsieudz add 1xGăng vải thô lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:locsieudz add 56xMảnh Quỷ đất (old: 55) lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:locsieudz add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:locsieudz add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:locsieudz add 1xGiầy vải thô lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:locsieudz add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/28/2023 12:14 PM
+BAG:locsieudz add 57xMảnh Quỷ đất (old: 56) lydo: Nhặt từ map at 03/28/2023 12:14 PM
+BAG:locsieudz add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/28/2023 12:14 PM
+BAG:locsieudz add 58xMảnh Quỷ đất (old: 57) lydo: Nhặt từ map at 03/28/2023 12:14 PM
+BAG:locsieudz add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/28/2023 12:14 PM
+BAG:locsieudz add 59xMảnh Quỷ đất (old: 58) lydo: Nhặt từ map at 03/28/2023 12:15 PM
+BAG:locsieudz add 60xMảnh Quỷ đất (old: 59) lydo: Nhặt từ map at 03/28/2023 12:15 PM
+BAG:locsieudz add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/28/2023 12:16 PM
+BAG:locsieudz add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/28/2023 12:17 PM
+BAG:locsieudz add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 12:17 PM
+BAG:locsieudz add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 12:17 PM
+BAG:locsieudz add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 12:17 PM
+BAG:locsieudz add 61xMảnh Quỷ đất (old: 60) lydo: Nhặt từ map at 03/28/2023 12:17 PM
+BAG:locsieudz add 62xMảnh Quỷ đất (old: 61) lydo: Nhặt từ map at 03/28/2023 12:18 PM
+BAG:locsieudz add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/28/2023 12:18 PM
+BAG:locsieudz add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/28/2023 12:18 PM
+BAG:locsieudz add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/28/2023 12:18 PM
+BAG:locsieudz add 63xMảnh Quỷ đất (old: 62) lydo: Nhặt từ map at 03/28/2023 12:18 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 12:18 PM
+BAG:locsieudz add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/28/2023 12:19 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:43 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:43 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:43 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:43 PM
+BAG:locsieudz add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/28/2023 12:43 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:44 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:44 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:44 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:44 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 12:44 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 12:44 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 12:44 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 12:44 PM
+BAG:locsieudz add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/28/2023 12:44 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 12:45 PM
+BAG:locsieudz add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/28/2023 12:45 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 25xThỏi vàng lydo: Đổi vàng at 03/28/2023 12:46 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/28/2023 12:46 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 12:46 PM
+BAG:locsieudz add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/28/2023 12:46 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:locsieudz add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/28/2023 12:47 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:49 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:49 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:49 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:49 PM
+BAG:locsieudz add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 03/28/2023 12:49 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 03/28/2023 12:50 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 12:50 PM
+BAG:locsieudz add 1xÁo Thần Xayda lydo: Cường Hóa trang bị at 03/28/2023 12:50 PM
+BAG:locsieudz add 1xÁo Thần Xayda lydo: Lấy từ body vào hành trang at 03/28/2023 12:51 PM
+BAG:locsieudz add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 12:52 PM
+BAG:locsieudz add 225xThỏi vàng (old: 25) lydo: Đổi vàng at 03/28/2023 12:52 PM
+BAG:locsieudz add 1xCá heo lydo: Mua từ bill at 03/28/2023 12:52 PM
+BAG:locsieudz add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/28/2023 12:53 PM
+BAG:locsieudz add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/28/2023 12:53 PM
+BAG:locsieudz add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/28/2023 12:53 PM
+BAG:locsieudz add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/28/2023 12:54 PM
+BAG:locsieudz add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/28/2023 12:54 PM
+BAG:locsieudz add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 12:54 PM
+BAG:locsieudz add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/28/2023 12:54 PM
+BAG:locsieudz add 11xNgọc Rồng 5 sao (old: 1) lydo: Giftcode at 03/28/2023 12:54 PM
+BAG:locsieudz add 14xNgọc Rồng 6 sao (old: 4) lydo: Giftcode at 03/28/2023 12:54 PM
+BAG:locsieudz add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/28/2023 12:54 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/28/2023 12:57 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 12:57 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/28/2023 12:58 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 12:58 PM
+BAG:locsieudz add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 12:59 PM
+BAG:locsieudz add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 12:59 PM
+BAG:locsieudz add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 03/28/2023 12:59 PM
+BAG:locsieudz add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/28/2023 12:59 PM
+BAG:locsieudz add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/28/2023 1:00 PM
+BAG:locsieudz add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/28/2023 1:01 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 1:01 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 1:01 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 1:01 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 1:01 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 1:01 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 1:01 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 1:01 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 1:01 PM
+BAG:locsieudz add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 1:01 PM
+BAG:locsieudz add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 1:01 PM
+BAG:locsieudz add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 1:01 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 1:02 PM
+BAG:locsieudz add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/28/2023 1:02 PM
+BAG:locsieudz add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/28/2023 1:03 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 1:03 PM
+BAG:locsieudz add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 03/28/2023 1:03 PM
+BAG:locsieudz add 1xGiày lưỡng long lydo: Cường Hóa trang bị at 03/28/2023 1:04 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 1:04 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 1:04 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 1:04 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 1:04 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 1:04 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 1:04 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 1:04 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 1:04 PM
+BAG:locsieudz add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 1:04 PM
+BAG:locsieudz add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 1:04 PM
+BAG:locsieudz add 1xGiầy Thần Xayda lydo: Cường Hóa trang bị at 03/28/2023 1:04 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/28/2023 1:05 PM
+BAG:locsieudz add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 03/28/2023 1:05 PM
+BAG:locsieudz add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 03/28/2023 1:05 PM
+BAG:locsieudz add 1xÁo Thần Xayda lydo: Cường Hóa trang bị at 03/28/2023 1:06 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 1:06 PM
+BAG:locsieudz add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 1:08 PM
+BAG:locsieudz add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/28/2023 1:34 PM
+BAG:locsieudz add 1xGăng vải thô lydo: Nhặt từ map at 03/28/2023 1:34 PM
+BAG:locsieudz add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/28/2023 1:34 PM
+BAG:locsieudz add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/28/2023 1:35 PM
+BAG:locsieudz add 64xMảnh Quỷ đất (old: 63) lydo: Nhặt từ map at 03/28/2023 1:35 PM
+BAG:locsieudz add 65xMảnh Quỷ đất (old: 64) lydo: Nhặt từ map at 03/28/2023 1:35 PM
+BAG:locsieudz add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/28/2023 1:36 PM
+BAG:locsieudz add 1xQuần vải thô lydo: Nhặt từ map at 03/28/2023 1:36 PM
+BAG:locsieudz add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/28/2023 1:37 PM
+BAG:locsieudz add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/28/2023 1:37 PM
+BAG:locsieudz add 66xMảnh Quỷ đất (old: 65) lydo: Nhặt từ map at 03/28/2023 1:38 PM
+BAG:locsieudz add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/28/2023 1:38 PM
+BAG:locsieudz add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/28/2023 1:39 PM
+BAG:locsieudz add 67xMảnh Quỷ đất (old: 66) lydo: Nhặt từ map at 03/28/2023 1:39 PM
+BAG:locsieudz add 68xMảnh Quỷ đất (old: 67) lydo: Nhặt từ map at 03/28/2023 1:40 PM
+BAG:locsieudz add 69xMảnh Quỷ đất (old: 68) lydo: Nhặt từ map at 03/28/2023 1:40 PM
+BAG:locsieudz add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/28/2023 1:40 PM
+BAG:locsieudz add 70xMảnh Quỷ đất (old: 69) lydo: Nhặt từ map at 03/28/2023 1:41 PM
+BAG:locsieudz add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/28/2023 1:41 PM
+BAG:locsieudz add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 1:44 PM
+BAG:locsieudz add 71xMảnh Quỷ đất (old: 70) lydo: Nhặt từ map at 03/28/2023 1:44 PM
+BAG:locsieudz add 72xMảnh Quỷ đất (old: 71) lydo: Nhặt từ map at 03/28/2023 1:44 PM
+BAG:locsieudz add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/28/2023 1:45 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 1:45 PM
+BAG:locsieudz add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 1:45 PM
+BAG:locsieudz add 73xMảnh Quỷ đất (old: 72) lydo: Nhặt từ map at 03/28/2023 1:46 PM
+BAG:locsieudz add 74xMảnh Quỷ đất (old: 73) lydo: Nhặt từ map at 03/28/2023 1:46 PM
+BAG:locsieudz add 1xGiầy vải thô lydo: Nhặt từ map at 03/28/2023 1:47 PM
+BAG:locsieudz add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/28/2023 1:47 PM
+BAG:locsieudz add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/28/2023 1:48 PM
+BAG:locsieudz add 1xGiầy vải thô lydo: Nhặt từ map at 03/28/2023 1:48 PM
+BAG:locsieudz add 75xMảnh Quỷ đất (old: 74) lydo: Nhặt từ map at 03/28/2023 1:48 PM
+BAG:locsieudz add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/28/2023 1:48 PM
+BAG:locsieudz add 76xMảnh Quỷ đất (old: 75) lydo: Nhặt từ map at 03/28/2023 1:48 PM
+BAG:locsieudz add 77xMảnh Quỷ đất (old: 76) lydo: Nhặt từ map at 03/28/2023 1:49 PM
+BAG:locsieudz add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/28/2023 1:49 PM
+BAG:locsieudz add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/28/2023 1:49 PM
+BAG:locsieudz add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 1:50 PM
+BAG:locsieudz add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/28/2023 1:50 PM
+BAG:locsieudz add 78xMảnh Quỷ đất (old: 77) lydo: Nhặt từ map at 03/28/2023 1:50 PM
+BAG:locsieudz add 79xMảnh Quỷ đất (old: 78) lydo: Nhặt từ map at 03/28/2023 1:50 PM
+BAG:locsieudz add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 1:50 PM
+BAG:locsieudz add 80xMảnh Quỷ đất (old: 79) lydo: Nhặt từ map at 03/28/2023 1:51 PM
+BAG:locsieudz add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/28/2023 1:51 PM
+BAG:locsieudz add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/28/2023 1:51 PM
+BAG:locsieudz add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/28/2023 1:51 PM
+BAG:locsieudz add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/28/2023 1:51 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 1:53 PM
+BAG:locsieudz add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/28/2023 1:53 PM
+BAG:locsieudz add 81xMảnh Quỷ đất (old: 80) lydo: Nhặt từ map at 03/28/2023 1:53 PM
+BAG:locsieudz add 82xMảnh Quỷ đất (old: 81) lydo: Nhặt từ map at 03/28/2023 1:53 PM
+BAG:locsieudz add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/28/2023 1:53 PM
+BAG:locsieudz add 83xMảnh Quỷ đất (old: 82) lydo: Nhặt từ map at 03/28/2023 1:53 PM
+BAG:locsieudz add 84xMảnh Quỷ đất (old: 83) lydo: Nhặt từ map at 03/28/2023 1:53 PM
+BAG:locsieudz add 85xMảnh Quỷ đất (old: 84) lydo: Nhặt từ map at 03/28/2023 1:54 PM
+BAG:locsieudz add 86xMảnh Quỷ đất (old: 85) lydo: Nhặt từ map at 03/28/2023 1:54 PM
+BAG:locsieudz add 87xMảnh Quỷ đất (old: 86) lydo: Nhặt từ map at 03/28/2023 1:55 PM
+BAG:locsieudz add 88xMảnh Quỷ đất (old: 87) lydo: Nhặt từ map at 03/28/2023 1:55 PM
+BAG:locsieudz add 89xMảnh Quỷ đất (old: 88) lydo: Nhặt từ map at 03/28/2023 1:55 PM
+BAG:locsieudz add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/28/2023 1:55 PM
+BAG:locsieudz add 90xMảnh Quỷ đất (old: 89) lydo: Nhặt từ map at 03/28/2023 1:55 PM
+BAG:locsieudz add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/28/2023 1:56 PM
+BAG:locsieudz add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/28/2023 1:56 PM
+BAG:locsieudz add 91xMảnh Quỷ đất (old: 90) lydo: Nhặt từ map at 03/28/2023 1:56 PM
+BAG:locsieudz add 92xMảnh Quỷ đất (old: 91) lydo: Nhặt từ map at 03/28/2023 1:56 PM
+BAG:locsieudz add 93xMảnh Quỷ đất (old: 92) lydo: Nhặt từ map at 03/28/2023 1:56 PM
+BAG:locsieudz add 94xMảnh Quỷ đất (old: 93) lydo: Nhặt từ map at 03/28/2023 1:57 PM
+BAG:locsieudz add 95xMảnh Quỷ đất (old: 94) lydo: Nhặt từ map at 03/28/2023 1:57 PM
+BAG:locsieudz add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/28/2023 1:57 PM
+BAG:locsieudz add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/28/2023 1:58 PM
+BAG:locsieudz add 96xMảnh Quỷ đất (old: 95) lydo: Nhặt từ map at 03/28/2023 1:58 PM
+BAG:locsieudz add 1xGiầy vải thô lydo: Nhặt từ map at 03/28/2023 1:58 PM
+BAG:locsieudz add 97xMảnh Quỷ đất (old: 96) lydo: Nhặt từ map at 03/28/2023 1:58 PM
+BAG:locsieudz add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/28/2023 1:58 PM
+BAG:locsieudz add 98xMảnh Quỷ đất (old: 97) lydo: Nhặt từ map at 03/28/2023 1:59 PM
+BAG:locsieudz add 99xMảnh Quỷ đất (old: 98) lydo: Nhặt từ map at 03/28/2023 1:59 PM
+BAG:locsieudz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 1:59 PM
+BAG:locsieudz add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/28/2023 2:01 PM
+BAG:locsieudz add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/28/2023 2:01 PM
+BAG:locsieudz add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/28/2023 2:01 PM
+BAG:locsieudz add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/28/2023 2:01 PM
+BAG:locsieudz add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/28/2023 2:01 PM
+BAG:locsieudz add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/28/2023 2:01 PM
+BAG:locsieudz add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/28/2023 2:01 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 2:01 PM
+BAG:locsieudz add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/28/2023 2:02 PM
+BAG:locsieudz add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/28/2023 2:02 PM
+BAG:locsieudz add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/28/2023 2:02 PM
+BAG:locsieudz add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/28/2023 2:02 PM
+BAG:locsieudz add 1xQuần vải thô lydo: Nhặt từ map at 03/28/2023 2:02 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 2:03 PM
+BAG:locsieudz add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 2:03 PM
+BAG:locsieudz add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/28/2023 2:03 PM
+BAG:locsieudz add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/28/2023 2:03 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Nhặt từ map at 03/28/2023 2:04 PM
+BAG:locsieudz add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/28/2023 2:04 PM
+BAG:locsieudz add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/28/2023 2:04 PM
+BAG:locsieudz add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/28/2023 2:04 PM
+BAG:locsieudz add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/28/2023 2:04 PM
+BAG:locsieudz add 1xQuần vải thô lydo: Nhặt từ map at 03/28/2023 2:04 PM
+BAG:locsieudz add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/28/2023 2:04 PM
+BAG:locsieudz add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/28/2023 2:04 PM
+BAG:locsieudz add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/28/2023 2:04 PM
+BAG:locsieudz add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/28/2023 2:04 PM
+BAG:locsieudz add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/28/2023 2:05 PM
+BAG:locsieudz add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/28/2023 2:05 PM
+BAG:locsieudz add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/28/2023 2:05 PM
+BAG:locsieudz add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/28/2023 2:05 PM
+BAG:locsieudz add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/28/2023 2:06 PM
+BAG:locsieudz add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/28/2023 2:06 PM
+BAG:locsieudz add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/28/2023 2:06 PM
+BAG:locsieudz add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/28/2023 2:07 PM
+BAG:locsieudz add 1xGiầy vải thô lydo: Nhặt từ map at 03/28/2023 2:07 PM
+BAG:locsieudz add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/28/2023 2:07 PM
+BAG:locsieudz add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/28/2023 2:08 PM
+BAG:locsieudz add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/28/2023 2:08 PM
+BAG:locsieudz add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/28/2023 2:09 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 2:09 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 2:09 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 2:09 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 2:09 PM
+BAG:locsieudz add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/28/2023 2:09 PM
+BAG:locsieudz add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 2:10 PM
+BAG:locsieudz add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 2:10 PM
+BAG:locsieudz add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 2:10 PM
+BAG:locsieudz add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 2:10 PM
+BAG:locsieudz add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 2:10 PM
+BAG:locsieudz add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 2:10 PM
+BAG:locsieudz add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 2:10 PM
+BAG:locsieudz add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 2:10 PM
+BAG:locsieudz add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 2:10 PM
+BAG:locsieudz add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 2:10 PM
+BAG:locsieudz add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/28/2023 2:10 PM
+BAG:locsieudz add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 2:12 PM
+BAG:locsieudz add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 03/28/2023 2:12 PM
+BAG:locsieudz add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 2:12 PM
+BAG:locsieudz add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 2:12 PM
+BAG:locsieudz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 2:23 PM

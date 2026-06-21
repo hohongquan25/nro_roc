@@ -1,0 +1,85 @@
+BAG:xitrum add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 7:48 PM
+BAG:xitrum add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 7:49 PM
+BAG:xitrum add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 7:49 PM
+BAG:xitrum add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:xitrum add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:xitrum add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:xitrum add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:xitrum add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:xitrum add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:xitrum add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:xitrum add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:xitrum add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:xitrum add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:xitrum add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:xitrum add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:xitrum add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:xitrum add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:xitrum add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:xitrum add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:xitrum add 5xMảnh Quỷ bay (old: 4) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:xitrum add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 8:00 PM
+BAG:xitrum add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 8:01 PM
+BAG:xitrum add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 8:01 PM
+BAG:xitrum add 100xThỏi vàng lydo: Giftcode at 03/11/2023 8:03 PM
+BAG:xitrum add 1000xPháo hoa lydo: Giftcode at 03/11/2023 8:03 PM
+BAG:xitrum add 150xThỏi vàng (old: 100) lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:xitrum add 10xSao pha lê lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:xitrum add 10xSao pha lê lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:xitrum add 10xSao pha lê lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:xitrum add 1xCải trang Hit lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:xitrum add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 8:07 PM
+BAG:xitrum add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:xitrum add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:xitrum add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/11/2023 8:11 PM
+BAG:xitrum add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/11/2023 8:11 PM
+BAG:xitrum add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:12 PM
+BAG:xitrum add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 8:12 PM
+BAG:xitrum add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:12 PM
+BAG:xitrum add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/11/2023 8:12 PM
+BAG:xitrum add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/11/2023 8:12 PM
+BAG:xitrum add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:12 PM
+BAG:xitrum add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/11/2023 8:12 PM
+BAG:xitrum add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:12 PM
+BAG:xitrum add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/11/2023 8:12 PM
+BAG:xitrum add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:12 PM
+BAG:xitrum add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:12 PM
+BAG:xitrum add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:xitrum add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/11/2023 8:14 PM
+BAG:xitrum add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:xitrum add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 8:16 PM
+BAG:xitrum add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 8:16 PM
+BAG:xitrum add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:17 PM
+BAG:xitrum add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:17 PM
+BAG:xitrum add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:17 PM
+BAG:xitrum add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 8:17 PM
+BAG:xitrum add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:xitrum add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 8:24 PM
+BAG:xitrum add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:xitrum add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/11/2023 8:28 PM

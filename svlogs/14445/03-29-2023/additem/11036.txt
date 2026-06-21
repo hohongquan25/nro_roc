@@ -1,0 +1,477 @@
+BAG:anhtuan add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/29/2023 8:00 AM
+BAG:anhtuan add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/29/2023 8:00 AM
+BAG:anhtuan add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/29/2023 8:01 AM
+BAG:anhtuan add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/29/2023 8:01 AM
+BAG:anhtuan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/29/2023 8:03 AM
+BAG:anhtuan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/29/2023 8:05 AM
+BAG:anhtuan add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 8:05 AM
+BAG:anhtuan add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 8:05 AM
+BAG:anhtuan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/29/2023 8:05 AM
+BAG:anhtuan add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 8:05 AM
+BAG:anhtuan add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 8:05 AM
+BAG:anhtuan add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 8:05 AM
+BAG:anhtuan add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/29/2023 8:06 AM
+BAG:anhtuan add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/29/2023 8:06 AM
+BAG:anhtuan add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 8:10 AM
+BAG:anhtuan add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/29/2023 8:13 AM
+BAG:anhtuan add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 8:13 AM
+BAG:anhtuan add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 8:13 AM
+BAG:anhtuan add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/29/2023 8:13 AM
+BAG:anhtuan add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/29/2023 8:14 AM
+BAG:anhtuan add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 8:14 AM
+BAG:anhtuan add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 8:14 AM
+BAG:anhtuan add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 8:15 AM
+BAG:anhtuan add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 8:15 AM
+BAG:anhtuan add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 8:16 AM
+BAG:anhtuan add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 8:16 AM
+BAG:anhtuan add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/29/2023 8:16 AM
+BAG:anhtuan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:anhtuan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 8:19 AM
+BAG:anhtuan add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 8:21 AM
+BAG:anhtuan add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 8:22 AM
+BAG:anhtuan add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/29/2023 8:22 AM
+BAG:anhtuan add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/29/2023 8:22 AM
+BAG:anhtuan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:anhtuan add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 8:25 AM
+BAG:anhtuan add 10xĐậu thần cấp 10 (old: 6) lydo: Thu hoạch đậu at 03/29/2023 8:25 AM
+BAG:anhtuan add 1xMèo mun lydo: Mua từ cửa hàng at 03/29/2023 8:32 AM
+BAG:anhtuan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/29/2023 8:32 AM
+BAG:anhtuan add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 8:32 AM
+BAG:anhtuan add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 8:32 AM
+BAG:anhtuan add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 8:33 AM
+BAG:anhtuan add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 8:33 AM
+BAG:anhtuan add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 8:33 AM
+BAG:anhtuan add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 8:33 AM
+BAG:anhtuan add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 8:33 AM
+BAG:anhtuan add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 8:33 AM
+BAG:anhtuan add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 8:35 AM
+BAG:anhtuan add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/29/2023 8:40 AM
+BAG:anhtuan add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/29/2023 8:40 AM
+BAG:anhtuan add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/29/2023 8:40 AM
+BAG:anhtuan add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/29/2023 8:40 AM
+BAG:anhtuan add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/29/2023 8:40 AM
+BAG:anhtuan add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/29/2023 8:40 AM
+BAG:anhtuan add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 03/29/2023 8:41 AM
+BAG:anhtuan add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 03/29/2023 8:41 AM
+BAG:anhtuan add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 03/29/2023 8:41 AM
+BAG:anhtuan add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 03/29/2023 8:41 AM
+BAG:anhtuan add 1xSách Antomic lv5 lydo: Mua từ cửa hàng at 03/29/2023 8:41 AM
+BAG:anhtuan add 1xSách Antomic lv6 lydo: Mua từ cửa hàng at 03/29/2023 8:41 AM
+BAG:anhtuan add 1xSách Antomic lv7 lydo: Mua từ cửa hàng at 03/29/2023 8:41 AM
+BAG:anhtuan add 1xGhế bay lydo: Mua từ cửa hàng at 03/29/2023 8:42 AM
+BAG:anhtuan add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/29/2023 8:42 AM
+BAG:anhtuan add 10xĐậu thần cấp 10 (old: 1) lydo: Thu hoạch đậu at 03/29/2023 8:42 AM
+BAG:anhtuan add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/29/2023 8:43 AM
+BAG:anhtuan add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/29/2023 8:44 AM
+BAG:anhtuan add 1xGiáp tập luyện cấp 2 lydo: Mua từ cửa hàng at 03/29/2023 8:44 AM
+BAG:anhtuan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 8:49 AM
+BAG:anhtuan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 8:50 AM
+BAG:anhtuan add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 8:50 AM
+BAG:anhtuan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 8:52 AM
+BAG:anhtuan add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:anhtuan add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:anhtuan add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:anhtuan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 8:54 AM
+BAG:anhtuan add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 9:24 AM
+BAG:anhtuan add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 9:25 AM
+BAG:anhtuan add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/29/2023 9:25 AM
+BAG:anhtuan add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 9:28 AM
+BAG:anhtuan add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/29/2023 9:28 AM
+BAG:anhtuan add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 9:28 AM
+BAG:anhtuan add 25xThỏi vàng lydo: Đổi vàng at 03/29/2023 9:28 AM
+BAG:anhtuan add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 9:29 AM
+BAG:anhtuan add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 9:29 AM
+BAG:anhtuan add 5025xThỏi vàng (old: 25) lydo: Đổi vàng at 03/29/2023 9:30 AM
+BAG:anhtuan add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/29/2023 9:30 AM
+BAG:anhtuan add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 9:32 AM
+BAG:anhtuan add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/29/2023 9:33 AM
+BAG:anhtuan add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 9:33 AM
+BAG:anhtuan add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/29/2023 9:33 AM
+BAG:anhtuan add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 9:33 AM
+BAG:anhtuan add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/29/2023 9:33 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 9:33 AM
+BAG:anhtuan add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/29/2023 9:34 AM
+BAG:anhtuan add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/29/2023 9:34 AM
+BAG:anhtuan add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/29/2023 9:34 AM
+BAG:anhtuan add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/29/2023 9:34 AM
+BAG:anhtuan add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/29/2023 9:36 AM
+BAG:anhtuan add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/29/2023 9:36 AM
+BAG:anhtuan add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/29/2023 9:38 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 9:38 AM
+BAG:anhtuan add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 9:38 AM
+BAG:anhtuan add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 9:39 AM
+BAG:anhtuan add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 9:39 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 9:39 AM
+BAG:anhtuan add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 03/29/2023 9:39 AM
+BAG:anhtuan add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 03/29/2023 9:40 AM
+BAG:anhtuan add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 03/29/2023 9:40 AM
+BAG:anhtuan add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 03/29/2023 9:40 AM
+BAG:anhtuan add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 03/29/2023 9:40 AM
+BAG:anhtuan add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/29/2023 9:40 AM
+BAG:anhtuan add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/29/2023 9:40 AM
+BAG:anhtuan add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/29/2023 9:40 AM
+BAG:anhtuan add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/29/2023 9:40 AM
+BAG:anhtuan add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/29/2023 9:40 AM
+BAG:anhtuan add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/29/2023 9:40 AM
+BAG:anhtuan add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/29/2023 9:40 AM
+BAG:anhtuan add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 03/29/2023 9:41 AM
+BAG:anhtuan add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 03/29/2023 9:41 AM
+BAG:anhtuan add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 03/29/2023 9:41 AM
+BAG:anhtuan add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 03/29/2023 9:41 AM
+BAG:anhtuan add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 03/29/2023 9:41 AM
+BAG:anhtuan add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 03/29/2023 9:41 AM
+BAG:anhtuan add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 03/29/2023 9:41 AM
+BAG:anhtuan add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 03/29/2023 9:41 AM
+BAG:anhtuan add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 03/29/2023 9:41 AM
+BAG:anhtuan add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 9:43 AM
+BAG:anhtuan add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 9:43 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 9:44 AM
+BAG:anhtuan add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/29/2023 9:44 AM
+BAG:anhtuan add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 9:44 AM
+BAG:anhtuan add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 9:44 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 9:44 AM
+BAG:anhtuan add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 9:44 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/29/2023 9:45 AM
+BAG:anhtuan add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 9:47 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 9:48 AM
+BAG:anhtuan add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/29/2023 9:48 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 9:48 AM
+BAG:anhtuan add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/29/2023 9:48 AM
+BAG:anhtuan add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 9:49 AM
+BAG:anhtuan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 9:49 AM
+BAG:anhtuan add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/29/2023 9:49 AM
+BAG:anhtuan add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/29/2023 9:50 AM
+BAG:anhtuan add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 9:50 AM
+BAG:anhtuan add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/29/2023 9:50 AM
+BAG:anhtuan add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/29/2023 9:50 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 9:50 AM
+BAG:anhtuan add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 9:51 AM
+BAG:anhtuan add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/29/2023 9:51 AM
+BAG:anhtuan add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 9:51 AM
+BAG:anhtuan add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 9:51 AM
+BAG:anhtuan add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 9:52 AM
+BAG:anhtuan add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 9:52 AM
+BAG:anhtuan add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 9:52 AM
+BAG:anhtuan add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 9:52 AM
+BAG:anhtuan add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/29/2023 9:53 AM
+BAG:anhtuan add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/29/2023 9:53 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 9:54 AM
+BAG:anhtuan add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/29/2023 9:54 AM
+BAG:anhtuan add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/29/2023 9:54 AM
+BAG:anhtuan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 9:54 AM
+BAG:anhtuan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 9:54 AM
+BAG:anhtuan add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 9:55 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 9:55 AM
+BAG:anhtuan add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 9:55 AM
+BAG:anhtuan add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/29/2023 9:55 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 9:56 AM
+BAG:anhtuan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 9:56 AM
+BAG:anhtuan add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 9:56 AM
+BAG:anhtuan add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 9:56 AM
+BAG:anhtuan add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 9:57 AM
+BAG:anhtuan add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 9:57 AM
+BAG:anhtuan add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/29/2023 9:58 AM
+BAG:anhtuan add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 9:58 AM
+BAG:anhtuan add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 9:58 AM
+BAG:anhtuan add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/29/2023 9:58 AM
+BAG:anhtuan add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 9:58 AM
+BAG:anhtuan add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/29/2023 9:59 AM
+BAG:anhtuan add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 9:59 AM
+BAG:anhtuan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 9:59 AM
+BAG:anhtuan add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 9:59 AM
+BAG:anhtuan add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/29/2023 10:00 AM
+BAG:anhtuan add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/29/2023 10:01 AM
+BAG:anhtuan add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 03/29/2023 10:02 AM
+BAG:anhtuan add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/29/2023 10:02 AM
+BAG:anhtuan add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 03/29/2023 10:03 AM
+BAG:anhtuan add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/29/2023 10:03 AM
+BAG:anhtuan add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 03/29/2023 10:04 AM
+BAG:anhtuan add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/29/2023 10:04 AM
+BAG:anhtuan add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/29/2023 10:04 AM
+BAG:anhtuan add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 03/29/2023 10:05 AM
+BAG:anhtuan add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 03/29/2023 10:05 AM
+BAG:anhtuan add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 03/29/2023 10:07 AM
+BAG:anhtuan add 24xMảnh Quỷ đất (old: 23) lydo: Nhặt từ map at 03/29/2023 10:07 AM
+BAG:anhtuan add 25xMảnh Quỷ đất (old: 24) lydo: Nhặt từ map at 03/29/2023 10:07 AM
+BAG:anhtuan add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/29/2023 10:07 AM
+BAG:anhtuan add 26xMảnh Quỷ đất (old: 25) lydo: Nhặt từ map at 03/29/2023 10:07 AM
+BAG:anhtuan add 27xMảnh Quỷ đất (old: 26) lydo: Nhặt từ map at 03/29/2023 10:08 AM
+BAG:anhtuan add 28xMảnh Quỷ đất (old: 27) lydo: Nhặt từ map at 03/29/2023 10:08 AM
+BAG:anhtuan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 10:08 AM
+BAG:anhtuan add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 10:09 AM
+BAG:anhtuan add 29xMảnh Quỷ đất (old: 28) lydo: Nhặt từ map at 03/29/2023 10:09 AM
+BAG:anhtuan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 10:09 AM
+BAG:anhtuan add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/29/2023 10:09 AM
+BAG:anhtuan add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/29/2023 10:10 AM
+BAG:anhtuan add 30xMảnh Quỷ đất (old: 29) lydo: Nhặt từ map at 03/29/2023 10:11 AM
+BAG:anhtuan add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/29/2023 10:12 AM
+BAG:anhtuan add 31xMảnh Quỷ đất (old: 30) lydo: Nhặt từ map at 03/29/2023 10:12 AM
+BAG:anhtuan add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 10:12 AM
+BAG:anhtuan add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/29/2023 10:13 AM
+BAG:anhtuan add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/29/2023 10:13 AM
+BAG:anhtuan add 32xMảnh Quỷ đất (old: 31) lydo: Nhặt từ map at 03/29/2023 10:14 AM
+BAG:anhtuan add 33xMảnh Quỷ đất (old: 32) lydo: Nhặt từ map at 03/29/2023 10:14 AM
+BAG:anhtuan add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/29/2023 10:15 AM
+BAG:anhtuan add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/29/2023 10:15 AM
+BAG:anhtuan add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/29/2023 10:15 AM
+BAG:anhtuan add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 10:18 AM
+BAG:anhtuan add 34xMảnh Quỷ đất (old: 33) lydo: Nhặt từ map at 03/29/2023 10:18 AM
+BAG:anhtuan add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/29/2023 10:19 AM
+BAG:anhtuan add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/29/2023 10:19 AM
+BAG:anhtuan add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/29/2023 10:19 AM
+BAG:anhtuan add 35xMảnh Quỷ đất (old: 34) lydo: Nhặt từ map at 03/29/2023 10:19 AM
+BAG:anhtuan add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 10:20 AM
+BAG:anhtuan add 36xMảnh Quỷ đất (old: 35) lydo: Nhặt từ map at 03/29/2023 10:20 AM
+BAG:anhtuan add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 10:21 AM
+BAG:anhtuan add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 10:21 AM
+BAG:anhtuan add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 10:22 AM
+BAG:anhtuan add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/29/2023 10:22 AM
+BAG:anhtuan add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 10:22 AM
+BAG:anhtuan add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/29/2023 10:22 AM
+BAG:anhtuan add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 10:23 AM
+BAG:anhtuan add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/29/2023 10:23 AM
+BAG:anhtuan add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 10:23 AM
+BAG:anhtuan add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/29/2023 10:23 AM
+BAG:anhtuan add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/29/2023 10:23 AM
+BAG:anhtuan add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 10:24 AM
+BAG:anhtuan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 10:24 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:26 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:26 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:26 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:26 AM
+BAG:anhtuan add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:26 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:26 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:26 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:27 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:28 AM
+BAG:anhtuan add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:28 AM
+BAG:anhtuan add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:28 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/29/2023 10:29 AM
+BAG:anhtuan add 1xĐặt tên đệ tử lydo: Lấy từ rương qua người at 03/29/2023 10:30 AM
+BAG:anhtuan add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 10:31 AM
+BAG:anhtuan add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 10:31 AM
+BAG:anhtuan add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 10:32 AM
+BAG:anhtuan add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 10:32 AM
+BAG:anhtuan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 10:32 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 10:32 AM
+BAG:anhtuan add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/29/2023 10:33 AM
+BAG:anhtuan add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/29/2023 10:33 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 10:33 AM
+BAG:anhtuan add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/29/2023 10:33 AM
+BAG:anhtuan add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 10:33 AM
+BAG:anhtuan add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/29/2023 10:34 AM
+BAG:anhtuan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 10:34 AM
+BAG:anhtuan add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 10:35 AM
+BAG:anhtuan add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 10:35 AM
+BAG:anhtuan add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/29/2023 10:35 AM
+BAG:anhtuan add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/29/2023 10:36 AM
+BAG:anhtuan add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 10:36 AM
+BAG:anhtuan add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 10:36 AM
+BAG:anhtuan add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/29/2023 10:36 AM
+BAG:anhtuan add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/29/2023 10:36 AM
+BAG:anhtuan add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/29/2023 10:37 AM
+BAG:anhtuan add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 10:37 AM
+BAG:anhtuan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 10:37 AM
+BAG:anhtuan add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 10:38 AM
+BAG:anhtuan add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/29/2023 10:39 AM
+BAG:anhtuan add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 10:39 AM
+BAG:anhtuan add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/29/2023 10:39 AM
+BAG:anhtuan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 10:40 AM
+BAG:anhtuan add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 10:40 AM
+BAG:anhtuan add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/29/2023 10:40 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 10:40 AM
+BAG:anhtuan add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 10:40 AM
+BAG:anhtuan add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 10:40 AM
+BAG:anhtuan add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 10:41 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 10:42 AM
+BAG:anhtuan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 10:42 AM
+BAG:anhtuan add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/29/2023 10:43 AM
+BAG:anhtuan add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/29/2023 10:43 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 10:43 AM
+BAG:anhtuan add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 10:43 AM
+BAG:anhtuan add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 10:43 AM
+BAG:anhtuan add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 10:43 AM
+BAG:anhtuan add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 10:43 AM
+BAG:anhtuan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 10:44 AM
+BAG:anhtuan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 10:44 AM
+BAG:anhtuan add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/29/2023 10:44 AM
+BAG:anhtuan add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/29/2023 10:44 AM
+BAG:anhtuan add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 10:44 AM
+BAG:anhtuan add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/29/2023 10:45 AM
+BAG:anhtuan add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 03/29/2023 10:46 AM
+BAG:anhtuan add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 03/29/2023 10:46 AM
+BAG:anhtuan add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/29/2023 10:47 AM
+BAG:anhtuan add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 03/29/2023 10:47 AM
+BAG:anhtuan add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 03/29/2023 10:47 AM
+BAG:anhtuan add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 03/29/2023 10:47 AM
+BAG:anhtuan add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 10:47 AM
+BAG:anhtuan add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 03/29/2023 10:47 AM
+BAG:anhtuan add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 10:47 AM
+BAG:anhtuan add 24xMảnh Quỷ đất (old: 23) lydo: Nhặt từ map at 03/29/2023 10:49 AM
+BAG:anhtuan add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/29/2023 10:49 AM
+BAG:anhtuan add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/29/2023 10:51 AM
+BAG:anhtuan add 25xMảnh Quỷ đất (old: 24) lydo: Nhặt từ map at 03/29/2023 10:51 AM
+BAG:anhtuan add 26xMảnh Quỷ đất (old: 25) lydo: Nhặt từ map at 03/29/2023 10:52 AM
+BAG:anhtuan add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/29/2023 10:52 AM
+BAG:anhtuan add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/29/2023 10:53 AM
+BAG:anhtuan add 27xMảnh Quỷ đất (old: 26) lydo: Nhặt từ map at 03/29/2023 10:53 AM
+BAG:anhtuan add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 10:53 AM
+BAG:anhtuan add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/29/2023 10:53 AM
+BAG:anhtuan add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/29/2023 10:53 AM
+BAG:anhtuan add 28xMảnh Quỷ đất (old: 27) lydo: Nhặt từ map at 03/29/2023 10:54 AM
+BAG:anhtuan add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 10:54 AM
+BAG:anhtuan add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 10:54 AM
+BAG:anhtuan add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/29/2023 10:54 AM
+BAG:anhtuan add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/29/2023 10:54 AM
+BAG:anhtuan add 29xMảnh Quỷ đất (old: 28) lydo: Nhặt từ map at 03/29/2023 10:54 AM
+BAG:anhtuan add 30xMảnh Quỷ đất (old: 29) lydo: Nhặt từ map at 03/29/2023 10:55 AM
+BAG:anhtuan add 31xMảnh Quỷ đất (old: 30) lydo: Nhặt từ map at 03/29/2023 10:57 AM
+BAG:anhtuan add 32xMảnh Quỷ đất (old: 31) lydo: Nhặt từ map at 03/29/2023 10:57 AM
+BAG:anhtuan add 33xMảnh Quỷ đất (old: 32) lydo: Nhặt từ map at 03/29/2023 10:57 AM
+BAG:anhtuan add 34xMảnh Quỷ đất (old: 33) lydo: Nhặt từ map at 03/29/2023 10:57 AM
+BAG:anhtuan add 35xMảnh Quỷ đất (old: 34) lydo: Nhặt từ map at 03/29/2023 10:57 AM
+BAG:anhtuan add 36xMảnh Quỷ đất (old: 35) lydo: Nhặt từ map at 03/29/2023 10:57 AM
+BAG:anhtuan add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:anhtuan add 37xMảnh Quỷ đất (old: 36) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:anhtuan add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:anhtuan add 38xMảnh Quỷ đất (old: 37) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:anhtuan add 39xMảnh Quỷ đất (old: 38) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:anhtuan add 40xMảnh Quỷ đất (old: 39) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:anhtuan add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:anhtuan add 41xMảnh Quỷ đất (old: 40) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:anhtuan add 42xMảnh Quỷ đất (old: 41) lydo: Nhặt từ map at 03/29/2023 10:59 AM
+BAG:anhtuan add 43xMảnh Quỷ đất (old: 42) lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:anhtuan add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:anhtuan add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:anhtuan add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 11:01 AM
+BAG:anhtuan add 44xMảnh Quỷ đất (old: 43) lydo: Nhặt từ map at 03/29/2023 11:02 AM
+BAG:anhtuan add 45xMảnh Quỷ đất (old: 44) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:anhtuan add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:anhtuan add 46xMảnh Quỷ đất (old: 45) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:anhtuan add 47xMảnh Quỷ đất (old: 46) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:anhtuan add 48xMảnh Quỷ đất (old: 47) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:anhtuan add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:anhtuan add 49xMảnh Quỷ đất (old: 48) lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:anhtuan add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:anhtuan add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:anhtuan add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:anhtuan add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:anhtuan add 50xMảnh Quỷ đất (old: 49) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:anhtuan add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:anhtuan add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:anhtuan add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:anhtuan add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:anhtuan add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:anhtuan add 51xMảnh Quỷ đất (old: 50) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:anhtuan add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:anhtuan add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/29/2023 11:07 AM
+BAG:anhtuan add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/29/2023 11:07 AM
+BAG:anhtuan add 10xĐậu thần cấp 10 (old: 4) lydo: Thu hoạch đậu at 03/29/2023 11:08 AM
+BAG:anhtuan add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:09 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/29/2023 11:17 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/29/2023 11:17 AM
+BAG:anhtuan add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/29/2023 11:17 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/29/2023 11:17 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/29/2023 11:17 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/29/2023 11:17 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/29/2023 11:17 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/29/2023 11:17 AM
+BAG:anhtuan add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/29/2023 11:17 AM
+BAG:anhtuan add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:anhtuan add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:anhtuan add 10xĐậu thần cấp 10 (old: 9) lydo: Thu hoạch đậu at 03/29/2023 11:21 AM
+BAG:anhtuan add 1xGhế bay lydo: Lấy từ rương qua người at 03/29/2023 11:21 AM
+BAG:anhtuan add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:anhtuan add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:anhtuan add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:anhtuan add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/29/2023 11:24 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Mua từ cửa hàng at 03/29/2023 11:25 AM
+BAG:anhtuan add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 11:25 AM
+BAG:anhtuan add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/29/2023 11:26 AM
+BAG:anhtuan add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/29/2023 11:26 AM
+BAG:anhtuan add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:anhtuan add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:anhtuan add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:anhtuan add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:anhtuan add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:anhtuan add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/29/2023 11:38 AM
+BAG:anhtuan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:anhtuan add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:anhtuan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 11:51 AM
+BAG:anhtuan add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 11:52 AM
+BAG:anhtuan add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 11:53 AM
+BAG:anhtuan add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 11:53 AM
+BAG:anhtuan add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 11:54 AM
+BAG:anhtuan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 11:55 AM
+BAG:anhtuan add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/29/2023 12:01 PM
+BAG:anhtuan add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/29/2023 12:01 PM
+BAG:anhtuan add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 12:01 PM
+BAG:anhtuan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 12:03 PM
+BAG:anhtuan add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 12:05 PM
+BAG:anhtuan add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 12:06 PM
+BAG:anhtuan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 12:06 PM
+BAG:anhtuan add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 12:06 PM
+BAG:anhtuan add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 12:07 PM
+BAG:anhtuan add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 12:08 PM
+BAG:anhtuan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 12:09 PM
+BAG:anhtuan add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:anhtuan add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:anhtuan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:anhtuan add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 1:50 PM
+BAG:anhtuan add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:anhtuan add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:anhtuan add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:anhtuan add 1xCải trang Black Goku SSJ White lydo: Mua từ cửa hàng at 03/29/2023 1:52 PM
+BAG:anhtuan add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/29/2023 1:54 PM
+BAG:anhtuan add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/29/2023 1:57 PM
+BAG:anhtuan add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 2:01 PM
+BAG:anhtuan add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 2:02 PM
+BAG:anhtuan add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 2:02 PM
+BAG:anhtuan add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 2:03 PM
+BAG:anhtuan add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 2:03 PM
+BAG:anhtuan add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 2:03 PM
+BAG:anhtuan add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 2:03 PM
+BAG:anhtuan add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 2:03 PM
+BAG:anhtuan add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 2:03 PM
+BAG:anhtuan add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 2:03 PM
+BAG:anhtuan add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 2:04 PM
+BAG:anhtuan add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 2:05 PM
+BAG:anhtuan add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 2:05 PM
+BAG:anhtuan add 1xCải trang lydo: Mua từ cửa hàng at 03/29/2023 2:06 PM
+BAG:anhtuan add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/29/2023 2:07 PM
+BAG:anhtuan add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 2:07 PM
+BAG:anhtuan add 1xCải trang lydo: Lấy từ body vào hành trang at 03/29/2023 2:08 PM
+BAG:anhtuan add 1xNgọc Rồng 7 sao lydo: HQT at 03/29/2023 2:08 PM
+BAG:anhtuan add 1xBổ huyết lydo: HQT at 03/29/2023 2:08 PM
+BAG:anhtuan add 1xNgọc Rồng 4 sao lydo: HQT at 03/29/2023 2:08 PM
+BAG:anhtuan add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/29/2023 2:08 PM
+BAG:anhtuan add 10xĐậu thần cấp 10 (old: 3) lydo: Thu hoạch đậu at 03/29/2023 2:09 PM
+BAG:anhtuan add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 2:11 PM
+BAG:anhtuan add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 2:11 PM
+BAG:anhtuan add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 2:11 PM
+BAG:anhtuan add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 2:11 PM
+BAG:anhtuan add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 2:11 PM
+BAG:anhtuan add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 2:11 PM
+BAG:anhtuan add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 2:11 PM
+BAG:anhtuan add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 2:11 PM
+BAG:anhtuan add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 2:11 PM
+BAG:anhtuan add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 2:11 PM
+BAG:anhtuan add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/29/2023 2:12 PM
+BAG:anhtuan add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/29/2023 2:13 PM
+BAG:anhtuan add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/29/2023 2:14 PM
+BAG:anhtuan add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 2:14 PM
+BAG:anhtuan add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 2:14 PM
+BAG:anhtuan add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 2:20 PM
+BAG:anhtuan add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 2:21 PM
+BAG:anhtuan add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 2:24 PM
+BAG:anhtuan add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 2:30 PM
+BAG:anhtuan add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/29/2023 2:30 PM
+BAG:anhtuan add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 2:31 PM
+BAG:anhtuan add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 2:32 PM
+BAG:anhtuan add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 2:32 PM
+BAG:anhtuan add 10xĐậu thần cấp 10 (old: 3) lydo: Thu hoạch đậu at 03/29/2023 2:33 PM
+BAG:anhtuan add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 2:36 PM
+BAG:anhtuan add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 2:38 PM
+BAG:anhtuan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 2:40 PM
+BAG:anhtuan add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 2:41 PM

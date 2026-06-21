@@ -1,0 +1,922 @@
+BAG:test1 add 1xÁo Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 6:09 AM
+BAG:test1 add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 6:09 AM
+BAG:test1 add 1xQuần Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 6:09 AM
+BAG:test1 add 1xNhẫn Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 6:09 AM
+BAG:test1 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 6:09 AM
+BAG:test1 add 1xGiầy Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 6:09 AM
+BAG:test1 add 23xNgọc Rồng 3 sao (old: 7) lydo: Admin at 03/28/2023 6:09 AM
+BAG:test1 add 39xNgọc Rồng 3 sao (old: 23) lydo: Admin at 03/28/2023 6:09 AM
+BAG:test1 add 55xNgọc Rồng 3 sao (old: 39) lydo: Admin at 03/28/2023 6:10 AM
+BAG:test1 add 71xNgọc Rồng 3 sao (old: 55) lydo: Admin at 03/28/2023 6:10 AM
+BAG:test1 add 99xThỏi vàng lydo: Tách thỏi vàng at 03/28/2023 6:10 AM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/28/2023 6:11 AM
+BAG:test1 add 1xQuần bạc Goku lydo: Lấy từ body vào hành trang at 03/28/2023 6:11 AM
+BAG:test1 add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/28/2023 6:11 AM
+BAG:test1 add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/28/2023 6:11 AM
+BAG:test1 add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 6:22 AM
+BAG:test1 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 6:22 AM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 6:22 AM
+BAG:test1 add 49xĐậu thần cấp 10 (old: 29) lydo: Lấy từ rương qua người at 03/28/2023 6:26 AM
+BAG:test1 add 1xÁo Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:04 AM
+BAG:test1 add 1xQuần Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:04 AM
+BAG:test1 add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:04 AM
+BAG:test1 add 1xGiầy Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:04 AM
+BAG:test1 add 1xNhẫn Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:04 AM
+BAG:test1 add 1xCải trang Mị Nương lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:04 AM
+BAG:test1 add 8990xThỏi vàng (old: 8891) lydo: Lấy từ rương qua người at 03/28/2023 7:51 AM
+BAG:test1 add 9089xThỏi vàng (old: 8990) lydo: Lấy từ rương qua người at 03/28/2023 7:51 AM
+BAG:test1 add 9188xThỏi vàng (old: 9089) lydo: Lấy từ rương qua người at 03/28/2023 7:51 AM
+BAG:test1 add 9287xThỏi vàng (old: 9188) lydo: Lấy từ rương qua người at 03/28/2023 7:51 AM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 7:57 AM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 8:00 AM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/28/2023 8:01 AM
+BAG:test1 add 1xCải trang Mị Nương lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:03 AM
+BAG:test1 add 1xNhẫn Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:03 AM
+BAG:test1 add 1xGiầy Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:03 AM
+BAG:test1 add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:03 AM
+BAG:test1 add 1xQuần Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:03 AM
+BAG:test1 add 1xÁo Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:03 AM
+BAG:test1 add 1xCải trang Mị Nương lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:39 AM
+BAG:test1 add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:39 AM
+BAG:test1 add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:39 AM
+BAG:test1 add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:39 AM
+BAG:test1 add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:39 AM
+BAG:test1 add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:40 AM
+BAG:test1 add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:40 AM
+BAG:test1 add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:40 AM
+BAG:test1 add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:40 AM
+BAG:test1 add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:40 AM
+BAG:test1 add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:40 AM
+BAG:test1 add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:40 AM
+BAG:test1 add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:40 AM
+BAG:test1 add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:40 AM
+BAG:test1 add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:40 AM
+BAG:test1 add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:41 AM
+BAG:test1 add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:41 AM
+BAG:test1 add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:41 AM
+BAG:test1 add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:41 AM
+BAG:test1 add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:41 AM
+BAG:test1 add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:41 AM
+BAG:test1 add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:41 AM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 10:42 AM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 10:42 AM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 10:42 AM
+BAG:test1 add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 10:43 AM
+BAG:test1 add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 10:43 AM
+BAG:test1 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 10:43 AM
+BAG:test1 add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 10:44 AM
+BAG:test1 add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/28/2023 10:44 AM
+BAG:test1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 10:44 AM
+BAG:test1 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 10:44 AM
+BAG:test1 add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 10:45 AM
+BAG:test1 add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/28/2023 10:45 AM
+BAG:test1 add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 10:45 AM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 10:46 AM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 10:46 AM
+BAG:test1 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 10:46 AM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 10:47 AM
+BAG:test1 add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/28/2023 10:47 AM
+BAG:test1 add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/28/2023 10:47 AM
+BAG:test1 add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/28/2023 10:48 AM
+BAG:test1 add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/28/2023 10:48 AM
+BAG:test1 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 10:49 AM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 10:49 AM
+BAG:test1 add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/28/2023 10:49 AM
+BAG:test1 add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/28/2023 10:49 AM
+BAG:test1 add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 10:51 AM
+BAG:test1 add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/28/2023 10:51 AM
+BAG:test1 add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 10:51 AM
+BAG:test1 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 10:51 AM
+BAG:test1 add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/28/2023 10:51 AM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 10:52 AM
+BAG:test1 add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/28/2023 10:52 AM
+BAG:test1 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 10:53 AM
+BAG:test1 add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/28/2023 10:53 AM
+BAG:test1 add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/28/2023 10:53 AM
+BAG:test1 add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/28/2023 10:53 AM
+BAG:test1 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 10:54 AM
+BAG:test1 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 10:54 AM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 10:54 AM
+BAG:test1 add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/28/2023 10:55 AM
+BAG:test1 add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/28/2023 10:55 AM
+BAG:test1 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 10:55 AM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 10:55 AM
+BAG:test1 add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/28/2023 10:55 AM
+BAG:test1 add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/28/2023 10:55 AM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 10:55 AM
+BAG:test1 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 10:56 AM
+BAG:test1 add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 10:56 AM
+BAG:test1 add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 10:56 AM
+BAG:test1 add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/28/2023 10:56 AM
+BAG:test1 add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/28/2023 10:57 AM
+BAG:test1 add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 10:58 AM
+BAG:test1 add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/28/2023 10:58 AM
+BAG:test1 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 10:58 AM
+BAG:test1 add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/28/2023 10:58 AM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 10:58 AM
+BAG:test1 add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 10:59 AM
+BAG:test1 add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 10:59 AM
+BAG:test1 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 10:59 AM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 10:59 AM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:00 AM
+BAG:test1 add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 11:00 AM
+BAG:test1 add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 11:00 AM
+BAG:test1 add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/28/2023 11:01 AM
+BAG:test1 add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 11:01 AM
+BAG:test1 add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 11:02 AM
+BAG:test1 add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/28/2023 11:02 AM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 11:03 AM
+BAG:test1 add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/28/2023 11:03 AM
+BAG:test1 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 11:03 AM
+BAG:test1 add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 11:03 AM
+BAG:test1 add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 11:03 AM
+BAG:test1 add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 11:04 AM
+BAG:test1 add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 11:04 AM
+BAG:test1 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 11:04 AM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 11:04 AM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 11:05 AM
+BAG:test1 add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 11:05 AM
+BAG:test1 add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 11:05 AM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 11:06 AM
+BAG:test1 add 27xMảnh Khủng long (old: 26) lydo: Nhặt từ map at 03/28/2023 11:06 AM
+BAG:test1 add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 11:06 AM
+BAG:test1 add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 11:06 AM
+BAG:test1 add 28xMảnh Khủng long (old: 27) lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:test1 add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:test1 add 29xMảnh Khủng long (old: 28) lydo: Nhặt từ map at 03/28/2023 11:07 AM
+BAG:test1 add 30xMảnh Khủng long (old: 29) lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:test1 add 31xMảnh Khủng long (old: 30) lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:test1 add 32xMảnh Khủng long (old: 31) lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:test1 add 33xMảnh Khủng long (old: 32) lydo: Nhặt từ map at 03/28/2023 11:08 AM
+BAG:test1 add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 11:09 AM
+BAG:test1 add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 11:09 AM
+BAG:test1 add 34xMảnh Khủng long (old: 33) lydo: Nhặt từ map at 03/28/2023 11:09 AM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 11:09 AM
+BAG:test1 add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/28/2023 11:09 AM
+BAG:test1 add 35xMảnh Khủng long (old: 34) lydo: Nhặt từ map at 03/28/2023 11:09 AM
+BAG:test1 add 36xMảnh Khủng long (old: 35) lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:test1 add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:test1 add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:test1 add 37xMảnh Khủng long (old: 36) lydo: Nhặt từ map at 03/28/2023 11:11 AM
+BAG:test1 add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 11:11 AM
+BAG:test1 add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/28/2023 11:11 AM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:11 AM
+BAG:test1 add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/28/2023 11:11 AM
+BAG:test1 add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/28/2023 11:12 AM
+BAG:test1 add 38xMảnh Khủng long (old: 37) lydo: Nhặt từ map at 03/28/2023 11:13 AM
+BAG:test1 add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 11:13 AM
+BAG:test1 add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 11:14 AM
+BAG:test1 add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 11:14 AM
+BAG:test1 add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/28/2023 11:15 AM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 11:15 AM
+BAG:test1 add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 11:15 AM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 11:15 AM
+BAG:test1 add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 11:15 AM
+BAG:test1 add 39xMảnh Khủng long (old: 38) lydo: Nhặt từ map at 03/28/2023 11:15 AM
+BAG:test1 add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/28/2023 11:15 AM
+BAG:test1 add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/28/2023 11:16 AM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 11:16 AM
+BAG:test1 add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/28/2023 11:16 AM
+BAG:test1 add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 11:16 AM
+BAG:test1 add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/28/2023 11:16 AM
+BAG:test1 add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/28/2023 11:17 AM
+BAG:test1 add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/28/2023 11:17 AM
+BAG:test1 add 40xMảnh Khủng long (old: 39) lydo: Nhặt từ map at 03/28/2023 11:17 AM
+BAG:test1 add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 11:18 AM
+BAG:test1 add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/28/2023 11:18 AM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 11:18 AM
+BAG:test1 add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/28/2023 11:19 AM
+BAG:test1 add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/28/2023 11:19 AM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 11:19 AM
+BAG:test1 add 41xMảnh Khủng long (old: 40) lydo: Nhặt từ map at 03/28/2023 11:19 AM
+BAG:test1 add 42xMảnh Khủng long (old: 41) lydo: Nhặt từ map at 03/28/2023 11:19 AM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:20 AM
+BAG:test1 add 43xMảnh Khủng long (old: 42) lydo: Nhặt từ map at 03/28/2023 11:20 AM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 11:20 AM
+BAG:test1 add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/28/2023 11:20 AM
+BAG:test1 add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 11:21 AM
+BAG:test1 add 44xMảnh Khủng long (old: 43) lydo: Nhặt từ map at 03/28/2023 11:21 AM
+BAG:test1 add 45xMảnh Khủng long (old: 44) lydo: Nhặt từ map at 03/28/2023 11:21 AM
+BAG:test1 add 46xMảnh Khủng long (old: 45) lydo: Nhặt từ map at 03/28/2023 11:21 AM
+BAG:test1 add 47xMảnh Khủng long (old: 46) lydo: Nhặt từ map at 03/28/2023 11:21 AM
+BAG:test1 add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/28/2023 11:22 AM
+BAG:test1 add 48xMảnh Khủng long (old: 47) lydo: Nhặt từ map at 03/28/2023 11:23 AM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:23 AM
+BAG:test1 add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/28/2023 11:23 AM
+BAG:test1 add 49xMảnh Khủng long (old: 48) lydo: Nhặt từ map at 03/28/2023 11:23 AM
+BAG:test1 add 50xMảnh Khủng long (old: 49) lydo: Nhặt từ map at 03/28/2023 11:23 AM
+BAG:test1 add 51xMảnh Khủng long (old: 50) lydo: Nhặt từ map at 03/28/2023 11:24 AM
+BAG:test1 add 52xMảnh Khủng long (old: 51) lydo: Nhặt từ map at 03/28/2023 11:24 AM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:24 AM
+BAG:test1 add 53xMảnh Khủng long (old: 52) lydo: Nhặt từ map at 03/28/2023 11:24 AM
+BAG:test1 add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:test1 add 54xMảnh Khủng long (old: 53) lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:test1 add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:test1 add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/28/2023 11:26 AM
+BAG:test1 add 55xMảnh Khủng long (old: 54) lydo: Nhặt từ map at 03/28/2023 11:26 AM
+BAG:test1 add 56xMảnh Khủng long (old: 55) lydo: Nhặt từ map at 03/28/2023 11:27 AM
+BAG:test1 add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/28/2023 11:27 AM
+BAG:test1 add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:test1 add 57xMảnh Khủng long (old: 56) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:test1 add 58xMảnh Khủng long (old: 57) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:test1 add 59xMảnh Khủng long (old: 58) lydo: Nhặt từ map at 03/28/2023 11:28 AM
+BAG:test1 add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:test1 add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:test1 add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:test1 add 60xMảnh Khủng long (old: 59) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:test1 add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:test1 add 61xMảnh Khủng long (old: 60) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:test1 add 62xMảnh Khủng long (old: 61) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:test1 add 63xMảnh Khủng long (old: 62) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:test1 add 64xMảnh Khủng long (old: 63) lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:test1 add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:test1 add 65xMảnh Khủng long (old: 64) lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:test1 add 66xMảnh Khủng long (old: 65) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:test1 add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:test1 add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:test1 add 67xMảnh Khủng long (old: 66) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:test1 add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 11:33 AM
+BAG:test1 add 68xMảnh Khủng long (old: 67) lydo: Nhặt từ map at 03/28/2023 11:33 AM
+BAG:test1 add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/28/2023 11:33 AM
+BAG:test1 add 69xMảnh Khủng long (old: 68) lydo: Nhặt từ map at 03/28/2023 11:34 AM
+BAG:test1 add 70xMảnh Khủng long (old: 69) lydo: Nhặt từ map at 03/28/2023 11:35 AM
+BAG:test1 add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/28/2023 11:35 AM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:test1 add 71xMảnh Khủng long (old: 70) lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:test1 add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/28/2023 11:37 AM
+BAG:test1 add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/28/2023 11:37 AM
+BAG:test1 add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/28/2023 11:37 AM
+BAG:test1 add 72xMảnh Khủng long (old: 71) lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:test1 add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:test1 add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:test1 add 73xMảnh Khủng long (old: 72) lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:test1 add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:test1 add 74xMảnh Khủng long (old: 73) lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:test1 add 75xMảnh Khủng long (old: 74) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:test1 add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:test1 add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:test1 add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:test1 add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:test1 add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:test1 add 76xMảnh Khủng long (old: 75) lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:test1 add 77xMảnh Khủng long (old: 76) lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:test1 add 78xMảnh Khủng long (old: 77) lydo: Nhặt từ map at 03/28/2023 11:43 AM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 11:43 AM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:test1 add 79xMảnh Khủng long (old: 78) lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:test1 add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:test1 add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:test1 add 80xMảnh Khủng long (old: 79) lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:test1 add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/28/2023 11:45 AM
+BAG:test1 add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/28/2023 11:45 AM
+BAG:test1 add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/28/2023 11:45 AM
+BAG:test1 add 81xMảnh Khủng long (old: 80) lydo: Nhặt từ map at 03/28/2023 11:45 AM
+BAG:test1 add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/28/2023 11:46 AM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 11:46 AM
+BAG:test1 add 82xMảnh Khủng long (old: 81) lydo: Nhặt từ map at 03/28/2023 11:46 AM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 11:46 AM
+BAG:test1 add 83xMảnh Khủng long (old: 82) lydo: Nhặt từ map at 03/28/2023 11:47 AM
+BAG:test1 add 84xMảnh Khủng long (old: 83) lydo: Nhặt từ map at 03/28/2023 11:47 AM
+BAG:test1 add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/28/2023 11:48 AM
+BAG:test1 add 85xMảnh Khủng long (old: 84) lydo: Nhặt từ map at 03/28/2023 11:48 AM
+BAG:test1 add 86xMảnh Khủng long (old: 85) lydo: Nhặt từ map at 03/28/2023 11:48 AM
+BAG:test1 add 87xMảnh Khủng long (old: 86) lydo: Nhặt từ map at 03/28/2023 11:48 AM
+BAG:test1 add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/28/2023 11:48 AM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 11:49 AM
+BAG:test1 add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/28/2023 11:49 AM
+BAG:test1 add 88xMảnh Khủng long (old: 87) lydo: Nhặt từ map at 03/28/2023 11:49 AM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 11:50 AM
+BAG:test1 add 89xMảnh Khủng long (old: 88) lydo: Nhặt từ map at 03/28/2023 11:50 AM
+BAG:test1 add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/28/2023 11:50 AM
+BAG:test1 add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/28/2023 11:50 AM
+BAG:test1 add 90xMảnh Khủng long (old: 89) lydo: Nhặt từ map at 03/28/2023 11:51 AM
+BAG:test1 add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/28/2023 11:51 AM
+BAG:test1 add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 03/28/2023 11:51 AM
+BAG:test1 add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:test1 add 91xMảnh Khủng long (old: 90) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 12:05 PM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 12:07 PM
+BAG:test1 add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 12:09 PM
+BAG:test1 add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/28/2023 2:36 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/28/2023 2:38 PM
+BAG:test1 add 1xQuần bạc Goku lydo: Lấy từ body vào hành trang at 03/28/2023 2:38 PM
+BAG:test1 add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/28/2023 2:39 PM
+BAG:test1 add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/28/2023 2:39 PM
+BAG:test1 add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/28/2023 2:39 PM
+BAG:test1 add 1xÁo Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:39 PM
+BAG:test1 add 1xQuần Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:39 PM
+BAG:test1 add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:39 PM
+BAG:test1 add 1xGiầy Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:39 PM
+BAG:test1 add 1xNhẫn Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:39 PM
+BAG:test1 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:39 PM
+BAG:test1 add 1xÁo Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:45 PM
+BAG:test1 add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:45 PM
+BAG:test1 add 1xNhẫn Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:45 PM
+BAG:test1 add 1xGiầy Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:45 PM
+BAG:test1 add 1xQuần Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:45 PM
+BAG:test1 add 1xCải trang Mị Nương lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:45 PM
+BAG:test1 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:45 PM
+BAG:test1 add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/28/2023 2:46 PM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 2:46 PM
+BAG:test1 add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/28/2023 2:47 PM
+BAG:test1 add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/28/2023 2:47 PM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 2:50 PM
+BAG:test1 add 1xPháo hoa lydo: Nhặt từ map at 03/28/2023 2:51 PM
+BAG:test1 add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/28/2023 2:57 PM
+BAG:test1 add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 2:58 PM
+BAG:test1 add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/28/2023 2:58 PM
+BAG:test1 add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/28/2023 2:59 PM
+BAG:test1 add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/28/2023 3:01 PM
+BAG:test1 add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/28/2023 3:02 PM
+BAG:test1 add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 3:03 PM
+BAG:test1 add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/28/2023 3:05 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 3:05 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:05 PM
+BAG:test1 add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 3:05 PM
+BAG:test1 add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 3:06 PM
+BAG:test1 add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 3:06 PM
+BAG:test1 add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/28/2023 3:07 PM
+BAG:test1 add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/28/2023 3:07 PM
+BAG:test1 add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/28/2023 3:07 PM
+BAG:test1 add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/28/2023 3:07 PM
+BAG:test1 add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/28/2023 3:07 PM
+BAG:test1 add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/28/2023 3:07 PM
+BAG:test1 add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/28/2023 3:08 PM
+BAG:test1 add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/28/2023 3:08 PM
+BAG:test1 add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/28/2023 3:09 PM
+BAG:test1 add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/28/2023 3:09 PM
+BAG:test1 add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/28/2023 3:09 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 3:09 PM
+BAG:test1 add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/28/2023 3:09 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:10 PM
+BAG:test1 add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/28/2023 3:11 PM
+BAG:test1 add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/28/2023 3:11 PM
+BAG:test1 add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/28/2023 3:11 PM
+BAG:test1 add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/28/2023 3:12 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 3:12 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 3:12 PM
+BAG:test1 add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/28/2023 3:12 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 3:13 PM
+BAG:test1 add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/28/2023 3:13 PM
+BAG:test1 add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/28/2023 3:13 PM
+BAG:test1 add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/28/2023 3:13 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 3:13 PM
+BAG:test1 add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/28/2023 3:14 PM
+BAG:test1 add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/28/2023 3:14 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 3:14 PM
+BAG:test1 add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/28/2023 3:15 PM
+BAG:test1 add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/28/2023 3:15 PM
+BAG:test1 add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/28/2023 3:15 PM
+BAG:test1 add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/28/2023 3:15 PM
+BAG:test1 add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/28/2023 3:15 PM
+BAG:test1 add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/28/2023 3:16 PM
+BAG:test1 add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/28/2023 3:16 PM
+BAG:test1 add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/28/2023 3:16 PM
+BAG:test1 add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/28/2023 3:16 PM
+BAG:test1 add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/28/2023 3:17 PM
+BAG:test1 add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/28/2023 3:17 PM
+BAG:test1 add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/28/2023 3:17 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:18 PM
+BAG:test1 add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/28/2023 3:18 PM
+BAG:test1 add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/28/2023 3:18 PM
+BAG:test1 add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/28/2023 3:18 PM
+BAG:test1 add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/28/2023 3:18 PM
+BAG:test1 add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/28/2023 3:18 PM
+BAG:test1 add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/28/2023 3:18 PM
+BAG:test1 add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/28/2023 3:19 PM
+BAG:test1 add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/28/2023 3:19 PM
+BAG:test1 add 27xMảnh Khủng long (old: 26) lydo: Nhặt từ map at 03/28/2023 3:19 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:19 PM
+BAG:test1 add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/28/2023 3:19 PM
+BAG:test1 add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/28/2023 3:20 PM
+BAG:test1 add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/28/2023 3:20 PM
+BAG:test1 add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/28/2023 3:20 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 3:21 PM
+BAG:test1 add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/28/2023 3:21 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 3:21 PM
+BAG:test1 add 28xMảnh Khủng long (old: 27) lydo: Nhặt từ map at 03/28/2023 3:22 PM
+BAG:test1 add 29xMảnh Khủng long (old: 28) lydo: Nhặt từ map at 03/28/2023 3:22 PM
+BAG:test1 add 30xMảnh Khủng long (old: 29) lydo: Nhặt từ map at 03/28/2023 3:22 PM
+BAG:test1 add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/28/2023 3:22 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 3:22 PM
+BAG:test1 add 31xMảnh Khủng long (old: 30) lydo: Nhặt từ map at 03/28/2023 3:22 PM
+BAG:test1 add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/28/2023 3:22 PM
+BAG:test1 add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/28/2023 3:23 PM
+BAG:test1 add 32xMảnh Khủng long (old: 31) lydo: Nhặt từ map at 03/28/2023 3:23 PM
+BAG:test1 add 33xMảnh Khủng long (old: 32) lydo: Nhặt từ map at 03/28/2023 3:24 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 3:24 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 3:24 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 3:24 PM
+BAG:test1 add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/28/2023 3:24 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 3:25 PM
+BAG:test1 add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/28/2023 3:25 PM
+BAG:test1 add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/28/2023 3:26 PM
+BAG:test1 add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/28/2023 3:26 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:26 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 3:27 PM
+BAG:test1 add 34xMảnh Khủng long (old: 33) lydo: Nhặt từ map at 03/28/2023 3:27 PM
+BAG:test1 add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/28/2023 3:27 PM
+BAG:test1 add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 03/28/2023 3:28 PM
+BAG:test1 add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhặt từ map at 03/28/2023 3:29 PM
+BAG:test1 add 35xMảnh Khủng long (old: 34) lydo: Nhặt từ map at 03/28/2023 3:29 PM
+BAG:test1 add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/28/2023 3:29 PM
+BAG:test1 add 36xMảnh Khủng long (old: 35) lydo: Nhặt từ map at 03/28/2023 3:30 PM
+BAG:test1 add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/28/2023 3:30 PM
+BAG:test1 add 37xMảnh Khủng long (old: 36) lydo: Nhặt từ map at 03/28/2023 3:30 PM
+BAG:test1 add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/28/2023 3:31 PM
+BAG:test1 add 38xMảnh Khủng long (old: 37) lydo: Nhặt từ map at 03/28/2023 3:31 PM
+BAG:test1 add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/28/2023 3:31 PM
+BAG:test1 add 39xMảnh Khủng long (old: 38) lydo: Nhặt từ map at 03/28/2023 3:32 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 3:33 PM
+BAG:test1 add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/28/2023 3:33 PM
+BAG:test1 add 40xMảnh Khủng long (old: 39) lydo: Nhặt từ map at 03/28/2023 3:33 PM
+BAG:test1 add 41xMảnh Khủng long (old: 40) lydo: Nhặt từ map at 03/28/2023 3:34 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:34 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:34 PM
+BAG:test1 add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/28/2023 3:34 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:35 PM
+BAG:test1 add 42xMảnh Khủng long (old: 41) lydo: Nhặt từ map at 03/28/2023 3:35 PM
+BAG:test1 add 43xMảnh Khủng long (old: 42) lydo: Nhặt từ map at 03/28/2023 3:35 PM
+BAG:test1 add 44xMảnh Khủng long (old: 43) lydo: Nhặt từ map at 03/28/2023 3:35 PM
+BAG:test1 add 45xMảnh Khủng long (old: 44) lydo: Nhặt từ map at 03/28/2023 3:36 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 3:36 PM
+BAG:test1 add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/28/2023 3:37 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:37 PM
+BAG:test1 add 46xMảnh Khủng long (old: 45) lydo: Nhặt từ map at 03/28/2023 3:37 PM
+BAG:test1 add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhặt từ map at 03/28/2023 3:37 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 3:37 PM
+BAG:test1 add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/28/2023 3:37 PM
+BAG:test1 add 47xMảnh Khủng long (old: 46) lydo: Nhặt từ map at 03/28/2023 3:38 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 3:38 PM
+BAG:test1 add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/28/2023 3:38 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 3:39 PM
+BAG:test1 add 48xMảnh Khủng long (old: 47) lydo: Nhặt từ map at 03/28/2023 3:39 PM
+BAG:test1 add 49xMảnh Khủng long (old: 48) lydo: Nhặt từ map at 03/28/2023 3:39 PM
+BAG:test1 add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/28/2023 3:39 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 3:39 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 3:40 PM
+BAG:test1 add 50xMảnh Khủng long (old: 49) lydo: Nhặt từ map at 03/28/2023 3:41 PM
+BAG:test1 add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/28/2023 3:41 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 3:41 PM
+BAG:test1 add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/28/2023 3:42 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 3:42 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:42 PM
+BAG:test1 add 51xMảnh Khủng long (old: 50) lydo: Nhặt từ map at 03/28/2023 3:42 PM
+BAG:test1 add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/28/2023 3:42 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 3:43 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:43 PM
+BAG:test1 add 52xMảnh Khủng long (old: 51) lydo: Nhặt từ map at 03/28/2023 3:43 PM
+BAG:test1 add 53xMảnh Khủng long (old: 52) lydo: Nhặt từ map at 03/28/2023 3:43 PM
+BAG:test1 add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/28/2023 3:44 PM
+BAG:test1 add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/28/2023 3:44 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 3:45 PM
+BAG:test1 add 54xMảnh Khủng long (old: 53) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:test1 add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:test1 add 55xMảnh Khủng long (old: 54) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:test1 add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:test1 add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:test1 add 56xMảnh Khủng long (old: 55) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:test1 add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/28/2023 3:47 PM
+BAG:test1 add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/28/2023 3:47 PM
+BAG:test1 add 57xMảnh Khủng long (old: 56) lydo: Nhặt từ map at 03/28/2023 3:47 PM
+BAG:test1 add 58xMảnh Khủng long (old: 57) lydo: Nhặt từ map at 03/28/2023 3:47 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:47 PM
+BAG:test1 add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/28/2023 3:47 PM
+BAG:test1 add 59xMảnh Khủng long (old: 58) lydo: Nhặt từ map at 03/28/2023 3:47 PM
+BAG:test1 add 60xMảnh Khủng long (old: 59) lydo: Nhặt từ map at 03/28/2023 3:48 PM
+BAG:test1 add 61xMảnh Khủng long (old: 60) lydo: Nhặt từ map at 03/28/2023 3:48 PM
+BAG:test1 add 62xMảnh Khủng long (old: 61) lydo: Nhặt từ map at 03/28/2023 3:49 PM
+BAG:test1 add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/28/2023 3:49 PM
+BAG:test1 add 63xMảnh Khủng long (old: 62) lydo: Nhặt từ map at 03/28/2023 3:49 PM
+BAG:test1 add 64xMảnh Khủng long (old: 63) lydo: Nhặt từ map at 03/28/2023 3:49 PM
+BAG:test1 add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/28/2023 3:50 PM
+BAG:test1 add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/28/2023 3:50 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 3:51 PM
+BAG:test1 add 65xMảnh Khủng long (old: 64) lydo: Nhặt từ map at 03/28/2023 3:51 PM
+BAG:test1 add 66xMảnh Khủng long (old: 65) lydo: Nhặt từ map at 03/28/2023 3:52 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 3:52 PM
+BAG:test1 add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/28/2023 3:52 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:test1 add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:test1 add 67xMảnh Khủng long (old: 66) lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:test1 add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 3:54 PM
+BAG:test1 add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 3:55 PM
+BAG:test1 add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 3:55 PM
+BAG:test1 add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 3:55 PM
+BAG:test1 add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 3:55 PM
+BAG:test1 add 27xNgọc Rồng 6 sao (old: 26) lydo: HQT at 03/28/2023 3:55 PM
+BAG:test1 add 2xĐá Vĩnh Hằng lydo: Admin at 03/28/2023 3:56 PM
+BAG:test1 add 99xĐá Vĩnh Hằng (old: 2) lydo: Admin at 03/28/2023 3:56 PM
+BAG:test1 add 2xĐá Hắc Hóa lydo: Admin at 03/28/2023 3:56 PM
+BAG:test1 add 99xĐá Hắc Hóa (old: 2) lydo: Admin at 03/28/2023 3:56 PM
+BAG:test1 add 1xCải Trang Thần Zeno lydo: Lấy từ body vào hành trang at 03/28/2023 3:56 PM
+BAG:test1 add 2xĐá Vĩnh Hằng lydo: Admin at 03/28/2023 3:57 PM
+BAG:test1 add 99xĐá Vĩnh Hằng (old: 2) lydo: Admin at 03/28/2023 3:57 PM
+BAG:test1 add 2xĐá Hắc Hóa lydo: Admin at 03/28/2023 3:57 PM
+BAG:test1 add 99xĐá Hắc Hóa (old: 2) lydo: Admin at 03/28/2023 3:57 PM
+BAG:test1 add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/28/2023 3:57 PM
+BAG:test1 add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 3:58 PM
+BAG:test1 add 1xÁo jean Calic lydo: Cường Hóa trang bị at 03/28/2023 3:58 PM
+BAG:test1 add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 3:59 PM
+BAG:test1 add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/28/2023 3:59 PM
+BAG:test1 add 1xÁo Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 3:59 PM
+BAG:test1 add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/28/2023 3:59 PM
+BAG:test1 add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/28/2023 3:59 PM
+BAG:test1 add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 3:59 PM
+BAG:test1 add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/28/2023 4:00 PM
+BAG:test1 add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 4:00 PM
+BAG:test1 add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 4:00 PM
+BAG:test1 add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/28/2023 4:00 PM
+BAG:test1 add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 4:00 PM
+BAG:test1 add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 4:01 PM
+BAG:test1 add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/28/2023 4:01 PM
+BAG:test1 add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 4:01 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:02 PM
+BAG:test1 add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/28/2023 4:02 PM
+BAG:test1 add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/28/2023 4:02 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 4:02 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 4:02 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:03 PM
+BAG:test1 add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/28/2023 4:03 PM
+BAG:test1 add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/28/2023 4:04 PM
+BAG:test1 add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/28/2023 4:04 PM
+BAG:test1 add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/28/2023 4:04 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:04 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:04 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 4:05 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 4:05 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 4:06 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:06 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:07 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:07 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 4:07 PM
+BAG:test1 add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/28/2023 4:08 PM
+BAG:test1 add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 4:09 PM
+BAG:test1 add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 4:10 PM
+BAG:test1 add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/28/2023 4:10 PM
+BAG:test1 add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 4:10 PM
+BAG:test1 add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 4:10 PM
+BAG:test1 add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 4:10 PM
+BAG:test1 add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/28/2023 4:10 PM
+BAG:test1 add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 4:10 PM
+BAG:test1 add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 4:10 PM
+BAG:test1 add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/28/2023 4:11 PM
+BAG:test1 add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/28/2023 4:11 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:11 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:11 PM
+BAG:test1 add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 4:11 PM
+BAG:test1 add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/28/2023 4:11 PM
+BAG:test1 add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhặt từ map at 03/28/2023 4:12 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:12 PM
+BAG:test1 add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/28/2023 4:12 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:12 PM
+BAG:test1 add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/28/2023 4:12 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:13 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:13 PM
+BAG:test1 add 30xĐá Vĩnh Hằng lydo: Admin at 03/28/2023 4:13 PM
+BAG:test1 add 99xĐá Vĩnh Hằng (old: 30) lydo: Admin at 03/28/2023 4:13 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:13 PM
+BAG:test1 add 30xĐá Hắc Hóa lydo: Admin at 03/28/2023 4:13 PM
+BAG:test1 add 99xĐá Hắc Hóa (old: 30) lydo: Admin at 03/28/2023 4:13 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:13 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:14 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:14 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:14 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 4:15 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:15 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 4:15 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:15 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:16 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 4:16 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:17 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:17 PM
+BAG:test1 add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/28/2023 4:18 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:18 PM
+BAG:test1 add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 4:18 PM
+BAG:test1 add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 4:18 PM
+BAG:test1 add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/28/2023 4:18 PM
+BAG:test1 add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 4:18 PM
+BAG:test1 add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 4:18 PM
+BAG:test1 add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/28/2023 4:19 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:19 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:20 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:20 PM
+BAG:test1 add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/28/2023 4:20 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:20 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:20 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:21 PM
+BAG:test1 add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/28/2023 4:21 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:21 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:21 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:22 PM
+BAG:test1 add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/28/2023 4:22 PM
+BAG:test1 add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/28/2023 4:22 PM
+BAG:test1 add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/28/2023 4:22 PM
+BAG:test1 add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/28/2023 4:24 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:25 PM
+BAG:test1 add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/28/2023 4:26 PM
+BAG:test1 add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/28/2023 4:26 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:26 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:26 PM
+BAG:test1 add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/28/2023 4:27 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:27 PM
+BAG:test1 add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/28/2023 4:27 PM
+BAG:test1 add 29xNgọc Rồng 6 sao (old: 28) lydo: Nhặt từ map at 03/28/2023 4:27 PM
+BAG:test1 add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/28/2023 4:28 PM
+BAG:test1 add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/28/2023 4:28 PM
+BAG:test1 add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/28/2023 4:28 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 4:28 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 4:28 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 4:29 PM
+BAG:test1 add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/28/2023 4:29 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:29 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 4:30 PM
+BAG:test1 add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/28/2023 4:30 PM
+BAG:test1 add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/28/2023 4:30 PM
+BAG:test1 add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/28/2023 4:30 PM
+BAG:test1 add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/28/2023 4:31 PM
+BAG:test1 add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/28/2023 4:31 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:31 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:31 PM
+BAG:test1 add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/28/2023 4:31 PM
+BAG:test1 add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/28/2023 4:32 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:32 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:32 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 4:34 PM
+BAG:test1 add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/28/2023 4:34 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:34 PM
+BAG:test1 add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/28/2023 4:34 PM
+BAG:test1 add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/28/2023 4:36 PM
+BAG:test1 add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/28/2023 4:37 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:37 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:37 PM
+BAG:test1 add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/28/2023 4:37 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:37 PM
+BAG:test1 add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/28/2023 4:38 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:38 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 4:38 PM
+BAG:test1 add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/28/2023 4:38 PM
+BAG:test1 add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/28/2023 4:38 PM
+BAG:test1 add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/28/2023 4:38 PM
+BAG:test1 add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/28/2023 4:39 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:40 PM
+BAG:test1 add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/28/2023 4:40 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:41 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:41 PM
+BAG:test1 add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/28/2023 4:41 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:42 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:42 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:43 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:43 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 4:43 PM
+BAG:test1 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 4:44 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 4:44 PM
+BAG:test1 add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/28/2023 4:45 PM
+BAG:test1 add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/28/2023 4:45 PM
+BAG:test1 add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 4:45 PM
+BAG:test1 add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 4:45 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 4:45 PM
+BAG:test1 add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 4:45 PM
+BAG:test1 add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/28/2023 4:46 PM
+BAG:test1 add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/28/2023 4:46 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 4:46 PM
+BAG:test1 add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/28/2023 4:46 PM
+BAG:test1 add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/28/2023 4:46 PM
+BAG:test1 add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/28/2023 4:46 PM
+BAG:test1 add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/28/2023 4:47 PM
+BAG:test1 add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/28/2023 4:47 PM
+BAG:test1 add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/28/2023 4:47 PM
+BAG:test1 add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/28/2023 4:48 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 4:49 PM
+BAG:test1 add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/28/2023 4:49 PM
+BAG:test1 add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/28/2023 4:49 PM
+BAG:test1 add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/28/2023 4:50 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 4:50 PM
+BAG:test1 add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/28/2023 4:50 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 4:51 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 4:51 PM
+BAG:test1 add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/28/2023 4:51 PM
+BAG:test1 add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/28/2023 4:52 PM
+BAG:test1 add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/28/2023 4:52 PM
+BAG:test1 add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/28/2023 4:52 PM
+BAG:test1 add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 03/28/2023 4:52 PM
+BAG:test1 add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 4:53 PM
+BAG:test1 add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/28/2023 4:53 PM
+BAG:test1 add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/28/2023 4:53 PM
+BAG:test1 add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/28/2023 4:53 PM
+BAG:test1 add 10xNgọc Rồng 1 sao lydo: (GD) Nhận từ gdfgdf at 03/28/2023 5:20 PM
+BAG:test1 add 10xNgọc Rồng 2 sao lydo: (GD) Nhận từ gdfgdf at 03/28/2023 5:20 PM
+BAG:test1 add 50xNgọc Rồng 3 sao lydo: (GD) Nhận từ gdfgdf at 03/28/2023 5:20 PM
+BAG:test1 add 10xNgọc Rồng 4 sao lydo: (GD) Nhận từ gdfgdf at 03/28/2023 5:20 PM
+BAG:test1 add 10xNgọc Rồng 5 sao lydo: (GD) Nhận từ gdfgdf at 03/28/2023 5:20 PM
+BAG:test1 add 10xNgọc Rồng 6 sao lydo: (GD) Nhận từ gdfgdf at 03/28/2023 5:20 PM
+BAG:test1 add 10xNgọc Rồng 7 sao lydo: (GD) Nhận từ gdfgdf at 03/28/2023 5:20 PM
+BAG:test1 add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/28/2023 7:29 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 7:29 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:29 PM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 7:30 PM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 7:30 PM
+BAG:test1 add 99xSao pha lê lydo: Admin at 03/28/2023 7:33 PM
+BAG:test1 add 99xSao pha lê lydo: Admin at 03/28/2023 7:33 PM
+BAG:test1 add 1xCải Trang Thần Zeno lydo: Lấy từ body vào hành trang at 03/28/2023 7:34 PM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 7:39 PM
+BAG:test1 add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhặt từ map at 03/28/2023 7:40 PM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 7:42 PM
+BAG:test1 add 1xĐậu xanh lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 4xTrứng vịt muối lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 6xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 1xBột mì lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 2xGà quay nguyên con lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 5xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 4xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 10xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 3xBánh trung thu thập cẩm lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 4xBột mì (old: 1) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 6xBột mì (old: 4) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:test1 add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/28/2023 7:44 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:46 PM
+BAG:test1 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 7:46 PM
+BAG:test1 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 7:46 PM
+BAG:test1 add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 7:47 PM
+BAG:test1 add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/28/2023 7:48 PM
+BAG:test1 add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/28/2023 7:48 PM
+BAG:test1 add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 7:48 PM
+BAG:test1 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 7:50 PM
+BAG:test1 add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/28/2023 7:50 PM
+BAG:test1 add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 7:51 PM
+BAG:test1 add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/28/2023 7:52 PM
+BAG:test1 add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 7:52 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:52 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:52 PM
+BAG:test1 add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/28/2023 7:53 PM
+BAG:test1 add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 7:53 PM
+BAG:test1 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 7:54 PM
+BAG:test1 add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/28/2023 7:54 PM
+BAG:test1 add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/28/2023 7:54 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 7:54 PM
+BAG:test1 add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/28/2023 7:54 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:55 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:55 PM
+BAG:test1 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 7:56 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:56 PM
+BAG:test1 add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/28/2023 7:56 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:56 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:57 PM
+BAG:test1 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 7:58 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 7:58 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:58 PM
+BAG:test1 add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/28/2023 7:58 PM
+BAG:test1 add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/28/2023 7:59 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 8:00 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:00 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:00 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:00 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:01 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:01 PM
+BAG:test1 add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 8:01 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:02 PM
+BAG:test1 add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/28/2023 8:02 PM
+BAG:test1 add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/28/2023 8:02 PM
+BAG:test1 add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/28/2023 8:03 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 8:04 PM
+BAG:test1 add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/28/2023 8:05 PM
+BAG:test1 add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/28/2023 8:05 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:06 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:06 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 8:06 PM
+BAG:test1 add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 8:06 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 8:06 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:07 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:07 PM
+BAG:test1 add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 8:07 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:07 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:07 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:07 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:08 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 8:09 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:10 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:10 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 8:10 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:10 PM
+BAG:test1 add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 8:10 PM
+BAG:test1 add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/28/2023 8:10 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:10 PM
+BAG:test1 add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/28/2023 8:11 PM
+BAG:test1 add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/28/2023 8:11 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:11 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:11 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:11 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:11 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:12 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:12 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 8:12 PM
+BAG:test1 add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/28/2023 8:12 PM
+BAG:test1 add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/28/2023 8:12 PM
+BAG:test1 add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 8:12 PM
+BAG:test1 add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 8:13 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:13 PM
+BAG:test1 add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/28/2023 8:13 PM
+BAG:test1 add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 8:13 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 8:14 PM
+BAG:test1 add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 8:14 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 8:14 PM
+BAG:test1 add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/28/2023 8:15 PM
+BAG:test1 add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/28/2023 8:16 PM
+BAG:test1 add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/28/2023 8:16 PM
+BAG:test1 add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/28/2023 8:16 PM
+BAG:test1 add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 8:16 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:17 PM
+BAG:test1 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 8:17 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:17 PM
+BAG:test1 add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/28/2023 8:18 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 8:18 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:19 PM
+BAG:test1 add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/28/2023 8:20 PM
+BAG:test1 add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 8:20 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 8:20 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 8:20 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 8:21 PM
+BAG:test1 add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 8:21 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 8:21 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:21 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:22 PM
+BAG:test1 add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/28/2023 8:22 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:23 PM
+BAG:test1 add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/28/2023 8:23 PM
+BAG:test1 add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/28/2023 8:23 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:24 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:25 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:25 PM
+BAG:test1 add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/28/2023 8:25 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:25 PM
+BAG:test1 add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/28/2023 8:26 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:26 PM
+BAG:test1 add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 8:27 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 8:27 PM
+BAG:test1 add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/28/2023 8:28 PM
+BAG:test1 add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/28/2023 8:28 PM
+BAG:test1 add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/28/2023 8:28 PM
+BAG:test1 add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/28/2023 8:29 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:29 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 8:31 PM
+BAG:test1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 8:31 PM
+BAG:test1 add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/28/2023 8:31 PM
+BAG:test1 add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/28/2023 8:33 PM
+BAG:test1 add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/28/2023 8:33 PM
+BAG:test1 add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/28/2023 8:33 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:34 PM
+BAG:test1 add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/28/2023 8:34 PM
+BAG:test1 add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 8:34 PM
+BAG:test1 add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/28/2023 8:34 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:test1 add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:36 PM
+BAG:test1 add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 8:37 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:37 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 8:37 PM
+BAG:test1 add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/28/2023 8:37 PM
+BAG:test1 add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/28/2023 8:37 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 8:37 PM
+BAG:test1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 8:38 PM
+BAG:test1 add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/28/2023 8:38 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:39 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:39 PM
+BAG:test1 add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/28/2023 8:39 PM
+BAG:test1 add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/28/2023 8:40 PM
+BAG:test1 add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/28/2023 8:40 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:40 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:40 PM
+BAG:test1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 8:41 PM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 9:12 PM
+BAG:test1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 9:14 PM

@@ -1,0 +1,721 @@
+BAG:hydra remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 8:09 PM
+BAG:hydra remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 8:12 PM
+BAG:hydra remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 03/05/2023 8:15 PM
+BAG:hydra remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 03/05/2023 8:15 PM
+BAG:hydra remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 03/05/2023 8:15 PM
+BAG:hydra remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 03/05/2023 8:15 PM
+BAG:hydra remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 03/05/2023 8:15 PM
+BAG:hydra remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 03/05/2023 8:15 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:hydra remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:hydra remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:hydra remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:hydra remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 8:18 PM
+BAG:hydra remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 8:19 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:20 PM
+BAG:hydra remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 03/05/2023 8:20 PM
+BAG:hydra remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 03/05/2023 8:21 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:21 PM
+BAG:hydra remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 8:21 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:21 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:22 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:22 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:22 PM
+BAG:hydra remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 03/05/2023 8:22 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:22 PM
+BAG:hydra remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 8:23 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:23 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:23 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:23 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 8:23 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 8:23 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:24 PM
+BAG:hydra remove Mảnh Quỷ bay lydo: Tự Xóa vật phẩm at 03/05/2023 8:24 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:24 PM
+BAG:hydra remove Áo vải thô lydo: Mặc vào người at 03/05/2023 8:24 PM
+BAG:hydra remove Quần vải thô lydo: Mặc vào người at 03/05/2023 8:25 PM
+BAG:hydra remove Giầy vải thô lydo: Mặc vào người at 03/05/2023 8:25 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:27 PM
+BAG:hydra remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 8:27 PM
+BAG:hydra remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 8:27 PM
+BAG:hydra remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 8:27 PM
+BAG:hydra remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:27 PM
+BAG:hydra remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:27 PM
+BAG:hydra remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/05/2023 8:30 PM
+BAG:hydra remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/05/2023 8:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:50 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:50 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:50 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:50 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:50 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:50 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:51 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:51 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:51 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:51 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:51 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:51 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:52 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:52 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:52 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:53 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:53 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:53 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:53 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:53 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 8:53 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:54 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:54 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:54 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:54 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:54 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:54 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:55 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:55 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:55 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:55 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:55 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:55 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:55 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:55 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:56 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:56 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:56 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:57 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:57 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 8:57 PM
+BAG:hydra remove Áo vải thô lydo: Mặc vào người at 03/05/2023 8:57 PM
+BAG:hydra remove Quần vải thô lydo: Mặc vào người at 03/05/2023 8:57 PM
+BAG:hydra remove Giầy vải thô lydo: Mặc vào người at 03/05/2023 8:57 PM
+BAG:hydra remove Rada cấp 1 lydo: Mặc vào người at 03/05/2023 8:57 PM
+BAG:hydra remove Găng lưỡng long lydo: Mặc vào người at 03/05/2023 8:58 PM
+BAG:hydra remove Hóa khỉ khổng lồ lv1 lydo: Sách kĩ năng at 03/05/2023 8:58 PM
+BAG:hydra remove Hóa khỉ khổng lồ lv2 lydo: Sách kĩ năng at 03/05/2023 8:58 PM
+BAG:hydra remove Hóa khỉ khổng lồ lv3 lydo: Sách kĩ năng at 03/05/2023 8:58 PM
+BAG:hydra remove Hóa khỉ khổng lồ lv4 lydo: Sách kĩ năng at 03/05/2023 8:58 PM
+BAG:hydra remove Hóa khỉ khổng lồ lv5 lydo: Sách kĩ năng at 03/05/2023 8:58 PM
+BAG:hydra remove Hóa khỉ khổng lồ lv6 lydo: Sách kĩ năng at 03/05/2023 8:58 PM
+BAG:hydra remove Hóa khỉ khổng lồ lv7 lydo: Sách kĩ năng at 03/05/2023 8:58 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:59 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:59 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 8:59 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 8:59 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:59 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:00 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:00 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:00 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:01 PM
+BAG:hydra remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 9:01 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:01 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:01 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:02 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:02 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:02 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:03 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:03 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:03 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:03 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:03 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:03 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:04 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:04 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:04 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:04 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:04 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:04 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:04 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:05 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:05 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:05 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:05 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:05 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:06 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:06 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:06 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:06 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:06 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:06 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:07 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:07 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:07 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:07 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:07 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:07 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:07 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:07 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:08 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:08 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:08 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:08 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:08 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:08 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:09 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:09 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:09 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:09 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:10 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:10 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:10 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:10 PM
+BAG:hydra remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/05/2023 9:10 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:10 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:11 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:11 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:11 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:12 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:12 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:12 PM
+BAG:hydra remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 9:12 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:12 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:13 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:13 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:13 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:14 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:14 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:14 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:14 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:14 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:14 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:15 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:15 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:15 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:15 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:15 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:16 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:16 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:16 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:16 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:17 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:17 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:18 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:19 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:19 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:19 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:19 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:20 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:21 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:21 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:22 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:22 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:23 PM
+BAG:hydra remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 9:23 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:23 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:24 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:24 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:24 PM
+BAG:hydra remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/05/2023 9:25 PM
+BAG:hydra remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 9:25 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:25 PM
+BAG:hydra remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 9:25 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:25 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:25 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:25 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:25 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:26 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:26 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:26 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:27 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:27 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:27 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:27 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:27 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:28 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:28 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:28 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:28 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:29 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:29 PM
+BAG:hydra remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 9:29 PM
+BAG:hydra remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 9:29 PM
+BAG:hydra remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/05/2023 9:30 PM
+BAG:hydra remove Hóa khỉ khổng lồ lv1 lydo: Tự Xóa vật phẩm at 03/05/2023 9:30 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:30 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:30 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:31 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:31 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:32 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:32 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:32 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:32 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:33 PM
+BAG:hydra remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:34 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:35 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:35 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:35 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:35 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:36 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:36 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:36 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:36 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:36 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:37 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:37 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:37 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:37 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:38 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:38 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:38 PM
+BAG:hydra remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 9:38 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:38 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:38 PM
+BAG:hydra remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 9:39 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:39 PM
+BAG:hydra remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 9:39 PM
+BAG:hydra remove Đá ngũ sắc lydo: Tự Xóa vật phẩm at 03/05/2023 9:39 PM
+BAG:hydra remove Hồn linh thú lydo: Tự Xóa vật phẩm at 03/05/2023 9:39 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:39 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:39 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:40 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:40 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:40 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:40 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:40 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:41 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:41 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:42 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:42 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:42 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:42 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:42 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:42 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:42 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:42 PM
+BAG:hydra remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:43 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:43 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:43 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:43 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:44 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:44 PM
+BAG:hydra remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/05/2023 9:44 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:44 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:45 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:45 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:45 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:45 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:45 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:45 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:46 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:46 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:47 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:47 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:47 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:48 PM
+BAG:hydra remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 9:48 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:48 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:48 PM
+BAG:hydra remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:48 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:48 PM
+BAG:hydra remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 9:49 PM
+BAG:hydra remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 9:50 PM
+BAG:hydra remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:51 PM
+BAG:hydra remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:51 PM
+BAG:hydra remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:51 PM
+BAG:hydra remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:51 PM
+BAG:hydra remove Găng vải thô lydo: Mặc vào người at 03/05/2023 10:17 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:28 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:28 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:28 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:28 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:28 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:28 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:29 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:29 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:29 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:29 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:29 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:29 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:29 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:29 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:29 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:31 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:32 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:32 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:32 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:32 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:32 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:32 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:32 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:32 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:32 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:34 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:34 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:34 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:34 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:34 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:34 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:34 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:35 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:36 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:36 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:36 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:36 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:36 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:36 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:36 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:36 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:36 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:36 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:37 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:38 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:39 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:40 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:41 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:41 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:41 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:41 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:41 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:41 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:42 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:43 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:44 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:44 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:44 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:44 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:44 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:44 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:45 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:45 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:45 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:45 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:45 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:45 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:45 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:45 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:45 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:46 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:47 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:48 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:48 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:48 PM
+BAG:hydra remove Nhẫn thời không sai lệch lydo: Tự Xóa vật phẩm at 03/05/2023 10:48 PM
+BAG:hydra remove Găng lưỡng long lydo: Tự Xóa vật phẩm at 03/05/2023 10:48 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:49 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:49 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:49 PM
+BAG:hydra remove Áo vải thô lydo: Cất vào rương at 03/05/2023 10:50 PM
+BAG:hydra remove Quần vải thô lydo: Cất vào rương at 03/05/2023 10:50 PM
+BAG:hydra remove Găng vải thô lydo: Cất vào rương at 03/05/2023 10:50 PM
+BAG:hydra remove Giầy vải thô lydo: Cất vào rương at 03/05/2023 10:50 PM
+BAG:hydra remove Rada cấp 1 lydo: Cất vào rương at 03/05/2023 10:50 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:50 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:50 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:50 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:50 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:51 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:51 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:51 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:51 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:51 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:51 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:52 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:52 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:52 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:52 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:52 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:52 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:52 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:53 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:53 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:53 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:53 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:53 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:53 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:53 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:54 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:54 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:54 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:54 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:54 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:54 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:54 PM
+BAG:hydra remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/05/2023 10:54 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:55 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:55 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:55 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:55 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:55 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:55 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:56 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:56 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:56 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:56 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:56 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:56 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:56 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:56 PM
+BAG:hydra remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 10:56 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 10:57 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 10:57 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 10:57 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 10:58 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 10:58 PM
+BAG:hydra remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 10:58 PM
+BAG:hydra remove Áo vải thô lydo: Mặc vào người at 03/05/2023 11:01 PM
+BAG:hydra remove Quần vải thô lydo: Mặc vào người at 03/05/2023 11:01 PM
+BAG:hydra remove Giầy vải thô lydo: Mặc vào người at 03/05/2023 11:01 PM
+BAG:hydra remove Rada cấp 1 lydo: Mặc vào người at 03/05/2023 11:01 PM
+BAG:hydra remove Găng vải thô lydo: Mặc vào người at 03/05/2023 11:01 PM
+BAG:hydra remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/05/2023 11:01 PM
+BAG:hydra remove Sách Trói lv1 lydo: Sách kĩ năng at 03/05/2023 11:01 PM
+BAG:hydra remove Sách Trói lv2 lydo: Sách kĩ năng at 03/05/2023 11:01 PM
+BAG:hydra remove Sách Trói lv3 lydo: Sách kĩ năng at 03/05/2023 11:01 PM
+BAG:hydra remove Sách Trói lv4 lydo: Sách kĩ năng at 03/05/2023 11:01 PM
+BAG:hydra remove Sách Trói lv5 lydo: Sách kĩ năng at 03/05/2023 11:01 PM
+BAG:hydra remove Sách Trói lv6 lydo: Sách kĩ năng at 03/05/2023 11:01 PM
+BAG:hydra remove Sách Trói lv7 lydo: Sách kĩ năng at 03/05/2023 11:01 PM
+BAG:hydra remove Cải trang Black Gohan Rose lydo: Mặc vào người at 03/05/2023 11:01 PM
+BAG:vegeta remove Bông tai Porata lydo: Tự Xóa vật phẩm at 03/05/2023 11:04 PM
+BAG:vegeta remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 11:05 PM
+BAG:vegeta remove 1xBánh Pudding lydo: Ăn thức ăn at 03/05/2023 11:05 PM
+BAG:vegeta remove 1xHộp bánh Trung Thu lydo: Ăn bánh tt buff at 03/05/2023 11:05 PM
+BAG:vegeta remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/05/2023 11:06 PM
+BAG:vegeta remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 03/05/2023 11:06 PM
+BAG:vegeta remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/05/2023 11:08 PM
+BAG:vegeta remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 03/05/2023 11:10 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:11 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:11 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:11 PM
+BAG:vegeta remove 99xMảnh hồn bông tai lydo: CS Porata at 03/05/2023 11:11 PM
+BAG:vegeta remove 1xĐá xanh lam lydo: CS Porata at 03/05/2023 11:11 PM
+BAG:vegeta remove 99xMảnh hồn bông tai lydo: CS Porata at 03/05/2023 11:12 PM
+BAG:vegeta remove 1xĐá xanh lam lydo: CS Porata at 03/05/2023 11:12 PM
+BAG:vegeta remove 99xMảnh hồn bông tai lydo: CS Porata at 03/05/2023 11:12 PM
+BAG:vegeta remove 1xĐá xanh lam lydo: CS Porata at 03/05/2023 11:12 PM
+BAG:vegeta remove Mảnh vỡ bông tai lydo: Tự Xóa vật phẩm at 03/05/2023 11:12 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:13 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:13 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:13 PM
+BAG:vegeta remove 99xMảnh hồn bông tai lydo: CS Porata at 03/05/2023 11:13 PM
+BAG:vegeta remove 1xĐá xanh lam lydo: CS Porata at 03/05/2023 11:13 PM
+BAG:vegeta remove 99xMảnh hồn bông tai lydo: CS Porata at 03/05/2023 11:14 PM
+BAG:vegeta remove 1xĐá xanh lam lydo: CS Porata at 03/05/2023 11:14 PM
+BAG:vegeta remove 99xMảnh hồn bông tai lydo: CS Porata at 03/05/2023 11:14 PM
+BAG:vegeta remove 1xĐá xanh lam lydo: CS Porata at 03/05/2023 11:14 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:14 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:14 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:14 PM
+BAG:vegeta remove 99xMảnh hồn bông tai lydo: CS Porata at 03/05/2023 11:14 PM
+BAG:vegeta remove 1xĐá xanh lam lydo: CS Porata at 03/05/2023 11:14 PM
+BAG:vegeta remove 99xMảnh hồn bông tai lydo: CS Porata at 03/05/2023 11:15 PM
+BAG:vegeta remove 1xĐá xanh lam lydo: CS Porata at 03/05/2023 11:15 PM
+BAG:vegeta remove 99xMảnh hồn bông tai lydo: CS Porata at 03/05/2023 11:15 PM
+BAG:vegeta remove 1xĐá xanh lam lydo: CS Porata at 03/05/2023 11:15 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:15 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:15 PM
+BAG:vegeta remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:15 PM
+BAG:vegeta remove 99xMảnh hồn bông tai lydo: CS Porata at 03/05/2023 11:15 PM
+BAG:vegeta remove 1xĐá xanh lam lydo: CS Porata at 03/05/2023 11:15 PM
+BAG:vegeta remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 11:16 PM
+BAG:vegeta remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 11:19 PM
+BAG:vegeta remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/05/2023 11:19 PM
+BAG:vegeta remove Pháo hoa lydo: Tự Xóa vật phẩm at 03/05/2023 11:19 PM
+BAG:vegeta remove Đá xanh lam lydo: Tự Xóa vật phẩm at 03/05/2023 11:19 PM
+BAG:vegeta remove Mảnh hồn bông tai lydo: Tự Xóa vật phẩm at 03/05/2023 11:19 PM
+BAG:vegeta remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 11:22 PM
+BAG:vegeta remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 11:22 PM
+BAG:vegeta remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 11:22 PM
+BAG:vegeta remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 11:22 PM
+BAG:vegeta remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 11:23 PM
+BAG:vegeta remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 11:23 PM
+BAG:vegeta remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 11:23 PM
+BAG:vegeta remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 11:23 PM
+BAG:vegeta remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 11:23 PM
+BAG:vegeta remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 11:23 PM
+BAG:vegeta remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 11:23 PM
+BAG:vegeta remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 11:24 PM
+BAG:vegeta remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 11:24 PM
+BAG:vegeta remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 11:24 PM
+BAG:vegeta remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 11:24 PM
+BAG:vegeta remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 11:24 PM
+BAG:vegeta remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 11:24 PM
+BAG:vegeta remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 11:24 PM
+BAG:vegeta remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 11:25 PM
+BAG:vegeta remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 11:25 PM
+BAG:vegeta remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 11:25 PM
+BAG:vegeta remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 11:25 PM
+BAG:vegeta remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 11:25 PM
+BAG:vegeta remove CT Genma 01 lydo: Tự Xóa vật phẩm at 03/05/2023 11:25 PM
+BAG:vegeta remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 11:25 PM
+BAG:vegeta remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 11:26 PM
+BAG:vegeta remove Cải trang Black Gohan Rose lydo: Tự Xóa vật phẩm at 03/05/2023 11:26 PM
+BAG:vegeta remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 11:26 PM
+BAG:vegeta remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 11:26 PM
+BAG:vegeta remove CT Genma 01 lydo: Tự Xóa vật phẩm at 03/05/2023 11:26 PM
+BAG:vegeta remove Cải Trang Thần Zeno Xayda lydo: Tự Xóa vật phẩm at 03/05/2023 11:26 PM
+BAG:vegeta remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 11:26 PM
+BAG:vegeta remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 11:26 PM
+BAG:vegeta remove Cải trang Black Gohan Rose lydo: Tự Xóa vật phẩm at 03/05/2023 11:26 PM
+BAG:vegeta remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 11:27 PM
+BAG:vegeta remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 11:27 PM
+BAG:vegeta remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 11:27 PM
+BAG:vegeta remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 11:27 PM
+BAG:vegeta remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 11:27 PM
+BAG:vegeta remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 11:28 PM
+BAG:vegeta remove 1xBánh Pudding lydo: Ăn thức ăn at 03/05/2023 11:28 PM
+BAG:vegeta remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/05/2023 11:28 PM
+BAG:vegeta remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 11:28 PM
+BAG:vegeta remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/05/2023 11:28 PM
+BAG:vegeta remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 11:28 PM
+BAG:vegeta remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/05/2023 11:29 PM
+BAG:vegeta remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 11:29 PM
+BAG:vegeta remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 11:29 PM
+BAG:vegeta remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 11:29 PM
+BAG:vegeta remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 11:38 PM
+BAG:vegeta remove 1xBánh Pudding lydo: Ăn thức ăn at 03/05/2023 11:38 PM
+BAG:vegeta remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/05/2023 11:46 PM
+BAG:vegeta remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 11:47 PM
+BAG:vegeta remove 1xBánh Pudding lydo: Ăn thức ăn at 03/05/2023 11:47 PM
+BAG:vegeta remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/05/2023 11:55 PM

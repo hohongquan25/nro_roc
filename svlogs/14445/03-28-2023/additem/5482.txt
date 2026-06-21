@@ -1,0 +1,126 @@
+BAG:vgaszdx add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/28/2023 9:54 PM
+BAG:vgaszdx add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 9:55 PM
+BAG:vgaszdx add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 9:55 PM
+BAG:vgaszdx add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/28/2023 9:55 PM
+BAG:vgaszdx add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/28/2023 9:55 PM
+BAG:vgaszdx add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 03/28/2023 9:55 PM
+BAG:vgaszdx add 4xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/28/2023 9:56 PM
+BAG:vgaszdx add 99xĐậu thần cấp 10 (old: 83) lydo: Lấy từ rương qua người at 03/28/2023 9:56 PM
+BAG:vgaszdx add 24xĐậu thần cấp 10 (old: 4) lydo: Lấy từ rương qua người at 03/28/2023 9:56 PM
+BAG:vgaszdx add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 10:01 PM
+BAG:vgaszdx add 37xĐậu thần cấp 10 (old: 17) lydo: Lấy từ rương qua người at 03/28/2023 10:02 PM
+BAG:vgaszdx add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 10:03 PM
+BAG:vgaszdx add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 10:04 PM
+BAG:vgaszdx add 1xCột nhà lydo: Mua từ cửa hàng at 03/28/2023 10:06 PM
+BAG:vgaszdx add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 10:07 PM
+BAG:vgaszdx add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 10:08 PM
+BAG:vgaszdx add 1xQuần vải thô lydo: Nhặt từ map at 03/28/2023 10:08 PM
+BAG:vgaszdx add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 10:09 PM
+BAG:vgaszdx add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 10:10 PM
+BAG:vgaszdx add 1xÁo giáp vàng lydo: Mua từ cửa hàng at 03/28/2023 10:10 PM
+BAG:vgaszdx add 1xQuần giáp vàng lydo: Mua từ cửa hàng at 03/28/2023 10:10 PM
+BAG:vgaszdx add 1xGăng bạc lydo: Mua từ cửa hàng at 03/28/2023 10:11 PM
+BAG:vgaszdx add 1xGiày vàng lydo: Mua từ cửa hàng at 03/28/2023 10:11 PM
+BAG:vgaszdx add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 10:13 PM
+BAG:vgaszdx add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 10:13 PM
+BAG:vgaszdx add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 10:13 PM
+BAG:vgaszdx add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 10:14 PM
+BAG:vgaszdx add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 10:14 PM
+BAG:vgaszdx add 25xThỏi vàng lydo: Đổi vàng at 03/28/2023 10:15 PM
+BAG:vgaszdx add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 10:16 PM
+BAG:vgaszdx add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 10:16 PM
+BAG:vgaszdx add 1xMèo mun lydo: Mua từ cửa hàng at 03/28/2023 10:16 PM
+BAG:vgaszdx add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 10:16 PM
+BAG:vgaszdx add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 10:16 PM
+BAG:vgaszdx add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 10:16 PM
+BAG:vgaszdx add 5025xThỏi vàng (old: 25) lydo: Đổi vàng at 03/28/2023 10:17 PM
+BAG:vgaszdx add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 10:17 PM
+BAG:vgaszdx add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 10:17 PM
+BAG:vgaszdx add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 10:17 PM
+BAG:vgaszdx add 1xNgọc Rồng 4 sao lydo: HQT at 03/28/2023 10:17 PM
+BAG:vgaszdx add 1xCuồng nộ lydo: HQT at 03/28/2023 10:18 PM
+BAG:vgaszdx add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/28/2023 10:18 PM
+BAG:vgaszdx add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/28/2023 10:18 PM
+BAG:vgaszdx add 1xHợp thể Kamioren lydo: Mua từ bill at 03/28/2023 10:18 PM
+BAG:vgaszdx add 1xCải trang Jiren lydo: Mua từ bill at 03/28/2023 10:18 PM
+BAG:vgaszdx add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 10:18 PM
+BAG:vgaszdx add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 10:19 PM
+BAG:vgaszdx add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 10:19 PM
+BAG:vgaszdx add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 10:19 PM
+BAG:vgaszdx add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 10:19 PM
+BAG:vgaszdx add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 10:19 PM
+BAG:vgaszdx add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 10:19 PM
+BAG:vgaszdx add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 10:19 PM
+BAG:vgaszdx add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 10:19 PM
+BAG:vgaszdx add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 10:19 PM
+BAG:vgaszdx add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 10:19 PM
+BAG:vgaszdx add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 10:19 PM
+BAG:vgaszdx add 1xÁo Kaio lydo: Mua từ cửa hàng at 03/28/2023 10:20 PM
+BAG:vgaszdx add 1xÁo Kaio lydo: Mua từ cửa hàng at 03/28/2023 10:20 PM
+BAG:vgaszdx add 1xQuần Kaio lydo: Mua từ cửa hàng at 03/28/2023 10:20 PM
+BAG:vgaszdx add 1xQuần Kaio lydo: Mua từ cửa hàng at 03/28/2023 10:20 PM
+BAG:vgaszdx add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 03/28/2023 10:20 PM
+BAG:vgaszdx add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 03/28/2023 10:20 PM
+BAG:vgaszdx add 1xGiày Kaio lydo: Mua từ cửa hàng at 03/28/2023 10:20 PM
+BAG:vgaszdx add 1xGiày Kaio lydo: Mua từ cửa hàng at 03/28/2023 10:20 PM
+BAG:vgaszdx add 1xRada cấp 10 lydo: Mua từ cửa hàng at 03/28/2023 10:21 PM
+BAG:vgaszdx add 1xRada cấp 10 lydo: Mua từ cửa hàng at 03/28/2023 10:21 PM
+BAG:vgaszdx add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:22 PM
+BAG:vgaszdx add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:22 PM
+BAG:vgaszdx add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:22 PM
+BAG:vgaszdx add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:22 PM
+BAG:vgaszdx add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:22 PM
+BAG:vgaszdx add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:22 PM
+BAG:vgaszdx add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xSách Antomic lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xSách Antomic lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xSách Antomic lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:vgaszdx add 1xSách Trói lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xSách Trói lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:vgaszdx add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:25 PM
+BAG:vgaszdx add 1xSách Huýt Sáo lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:26 PM
+BAG:vgaszdx add 1xSách Huýt Sáo lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:26 PM
+BAG:vgaszdx add 1xSách Huýt Sáo lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:26 PM
+BAG:vgaszdx add 1xSách Huýt Sáo lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:26 PM
+BAG:vgaszdx add 1xSách Huýt Sáo lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:26 PM
+BAG:vgaszdx add 1xSách Huýt Sáo lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:26 PM
+BAG:vgaszdx add 1xSách Huýt Sáo lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:26 PM
+BAG:vgaszdx add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 10:30 PM
+BAG:vgaszdx add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 10:31 PM
+BAG:vgaszdx add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 10:31 PM

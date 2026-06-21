@@ -1,0 +1,364 @@
+BAG:binhh add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 04/10/2023 12:34 PM
+BAG:binhh add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 04/10/2023 12:34 PM
+BAG:binhh add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 04/10/2023 12:34 PM
+BAG:binhh add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 04/10/2023 12:34 PM
+BAG:binhh add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 04/10/2023 12:35 PM
+BAG:binhh add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 04/10/2023 12:35 PM
+BAG:binhh add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 04/10/2023 12:35 PM
+BAG:binhh add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 04/10/2023 12:35 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 12:35 PM
+BAG:binhh add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 04/10/2023 12:35 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 12:37 PM
+BAG:binhh add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 9xNâng cấp kỹ năng 1 đệ tử (old: 8) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 10xNâng cấp kỹ năng 1 đệ tử (old: 9) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 11xNâng cấp kỹ năng 1 đệ tử (old: 10) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 12xNâng cấp kỹ năng 1 đệ tử (old: 11) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 13xNâng cấp kỹ năng 1 đệ tử (old: 12) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 04/10/2023 12:38 PM
+BAG:binhh add 49xĐậu thần cấp 10 (old: 29) lydo: Lấy từ rương qua người at 04/10/2023 12:39 PM
+BAG:binhh add 69xĐậu thần cấp 10 (old: 49) lydo: Lấy từ rương qua người at 04/10/2023 12:39 PM
+BAG:binhh add 89xĐậu thần cấp 10 (old: 69) lydo: Lấy từ rương qua người at 04/10/2023 12:39 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 12:41 PM
+BAG:binhh add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 04/10/2023 12:41 PM
+BAG:binhh add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 04/10/2023 12:41 PM
+BAG:binhh add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 9xNâng cấp kỹ năng 1 đệ tử (old: 8) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 10xNâng cấp kỹ năng 1 đệ tử (old: 9) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 11xNâng cấp kỹ năng 1 đệ tử (old: 10) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 12xNâng cấp kỹ năng 1 đệ tử (old: 11) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 13xNâng cấp kỹ năng 1 đệ tử (old: 12) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 14xNâng cấp kỹ năng 1 đệ tử (old: 13) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 15xNâng cấp kỹ năng 1 đệ tử (old: 14) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 16xNâng cấp kỹ năng 1 đệ tử (old: 15) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 17xNâng cấp kỹ năng 1 đệ tử (old: 16) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 18xNâng cấp kỹ năng 1 đệ tử (old: 17) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 19xNâng cấp kỹ năng 1 đệ tử (old: 18) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 20xNâng cấp kỹ năng 1 đệ tử (old: 19) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 21xNâng cấp kỹ năng 1 đệ tử (old: 20) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 22xNâng cấp kỹ năng 1 đệ tử (old: 21) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 23xNâng cấp kỹ năng 1 đệ tử (old: 22) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 24xNâng cấp kỹ năng 1 đệ tử (old: 23) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 25xNâng cấp kỹ năng 1 đệ tử (old: 24) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 26xNâng cấp kỹ năng 1 đệ tử (old: 25) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 27xNâng cấp kỹ năng 1 đệ tử (old: 26) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 28xNâng cấp kỹ năng 1 đệ tử (old: 27) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 29xNâng cấp kỹ năng 1 đệ tử (old: 28) lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 04/10/2023 12:42 PM
+BAG:binhh add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 04/10/2023 12:43 PM
+BAG:binhh add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xSao pha lê lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xSao pha lê lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xSao pha lê lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 9xNgọc Rồng 4 sao (old: 8) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xSao pha lê lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 10xNgọc Rồng 4 sao (old: 9) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xSao pha lê lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 11xNgọc Rồng 4 sao (old: 10) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 8xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 7xNgọc Rồng 5 sao (old: 6) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xSao pha lê lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 9xNgọc Rồng 6 sao (old: 8) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 10xNgọc Rồng 6 sao (old: 9) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 8xNgọc Rồng 5 sao (old: 7) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 11xNgọc Rồng 6 sao (old: 10) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 9xNgọc Rồng 5 sao (old: 8) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 13xNgọc Rồng 4 sao (old: 12) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 8xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 9xNgọc Rồng 7 sao (old: 8) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 10xNgọc Rồng 5 sao (old: 9) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 10xNgọc Rồng 7 sao (old: 9) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 11xNgọc Rồng 7 sao (old: 10) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 11xNgọc Rồng 5 sao (old: 10) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 04/10/2023 12:46 PM
+BAG:binhh add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 04/10/2023 12:50 PM
+BAG:binhh add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 04/10/2023 12:50 PM
+BAG:binhh add 1xSách học Trị thương lv3 lydo: Mua từ cửa hàng at 04/10/2023 12:50 PM
+BAG:binhh add 1xSách học Trị thương lv4 lydo: Mua từ cửa hàng at 04/10/2023 12:50 PM
+BAG:binhh add 1xSách học Trị thương lv5 lydo: Mua từ cửa hàng at 04/10/2023 12:50 PM
+BAG:binhh add 1xSách học Trị thương lv6 lydo: Mua từ cửa hàng at 04/10/2023 12:50 PM
+BAG:binhh add 1xSách học Trị thương lv7 lydo: Mua từ cửa hàng at 04/10/2023 12:50 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 12:52 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 12:52 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 12:55 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 12:55 PM
+BAG:binhh add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 04/10/2023 1:43 PM
+BAG:binhh add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 04/10/2023 1:43 PM
+BAG:binhh add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 04/10/2023 1:43 PM
+BAG:binhh add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 04/10/2023 1:43 PM
+BAG:binhh add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 04/10/2023 1:43 PM
+BAG:binhh add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 04/10/2023 1:43 PM
+BAG:binhh add 7xNâng cấp kỹ năng 2 đệ tử (old: 6) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 8xNâng cấp kỹ năng 2 đệ tử (old: 7) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 9xNâng cấp kỹ năng 2 đệ tử (old: 8) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 10xNâng cấp kỹ năng 2 đệ tử (old: 9) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 11xNâng cấp kỹ năng 2 đệ tử (old: 10) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 12xNâng cấp kỹ năng 2 đệ tử (old: 11) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 7xNâng cấp kỹ năng 3 đệ tử (old: 6) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 8xNâng cấp kỹ năng 3 đệ tử (old: 7) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 9xNâng cấp kỹ năng 3 đệ tử (old: 8) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 10xNâng cấp kỹ năng 3 đệ tử (old: 9) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 11xNâng cấp kỹ năng 3 đệ tử (old: 10) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 12xNâng cấp kỹ năng 3 đệ tử (old: 11) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 13xNâng cấp kỹ năng 3 đệ tử (old: 12) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 14xNâng cấp kỹ năng 3 đệ tử (old: 13) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 15xNâng cấp kỹ năng 3 đệ tử (old: 14) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 16xNâng cấp kỹ năng 3 đệ tử (old: 15) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 17xNâng cấp kỹ năng 3 đệ tử (old: 16) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 18xNâng cấp kỹ năng 3 đệ tử (old: 17) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 13xNâng cấp kỹ năng 2 đệ tử (old: 12) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 14xNâng cấp kỹ năng 2 đệ tử (old: 13) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 15xNâng cấp kỹ năng 2 đệ tử (old: 14) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 16xNâng cấp kỹ năng 2 đệ tử (old: 15) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 17xNâng cấp kỹ năng 2 đệ tử (old: 16) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 18xNâng cấp kỹ năng 2 đệ tử (old: 17) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 19xNâng cấp kỹ năng 2 đệ tử (old: 18) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 20xNâng cấp kỹ năng 2 đệ tử (old: 19) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 21xNâng cấp kỹ năng 2 đệ tử (old: 20) lydo: Mua từ cửa hàng at 04/10/2023 1:44 PM
+BAG:binhh add 22xNâng cấp kỹ năng 2 đệ tử (old: 21) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 23xNâng cấp kỹ năng 2 đệ tử (old: 22) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 24xNâng cấp kỹ năng 2 đệ tử (old: 23) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 25xNâng cấp kỹ năng 2 đệ tử (old: 24) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 26xNâng cấp kỹ năng 2 đệ tử (old: 25) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 27xNâng cấp kỹ năng 2 đệ tử (old: 26) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 28xNâng cấp kỹ năng 2 đệ tử (old: 27) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 29xNâng cấp kỹ năng 2 đệ tử (old: 28) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 04/10/2023 1:45 PM
+BAG:binhh add 1xBông tai Porata lydo: Mua từ cửa hàng at 04/10/2023 1:57 PM
+BAG:binhh add 1xÁo vàng Zealot lydo: Mua từ cửa hàng at 04/10/2023 1:58 PM
+BAG:binhh add 1xQuần vàng Zealot lydo: Mua từ cửa hàng at 04/10/2023 1:58 PM
+BAG:binhh add 1xGăng vàng Zealot lydo: Mua từ cửa hàng at 04/10/2023 1:58 PM
+BAG:binhh add 1xGiày vàng Zealot lydo: Mua từ cửa hàng at 04/10/2023 1:59 PM
+BAG:binhh add 1xRada cấp 12 lydo: Mua từ cửa hàng at 04/10/2023 1:59 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 1:59 PM
+BAG:binhh add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 04/10/2023 1:59 PM
+BAG:binhh add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 04/10/2023 2:00 PM
+BAG:binhh add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 04/10/2023 2:00 PM
+BAG:binhh add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 04/10/2023 2:00 PM
+BAG:binhh add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 04/10/2023 2:00 PM
+BAG:binhh add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 04/10/2023 2:00 PM
+BAG:binhh add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 04/10/2023 2:00 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 04/10/2023 2:02 PM
+BAG:binhh add 1xÁo vàng Zealot lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:04 PM
+BAG:binhh add 1xQuần vàng Zealot lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:04 PM
+BAG:binhh add 1xGăng vàng Zealot lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:04 PM
+BAG:binhh add 1xGiày vàng Zealot lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:04 PM
+BAG:binhh add 1xRada cấp 12 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:04 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:04 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:04 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:05 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:05 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:06 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:06 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:07 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:07 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:07 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:07 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:08 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:08 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:09 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:09 PM
+BAG:binhh add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:09 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:09 PM
+BAG:binhh add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 04/10/2023 2:19 PM
+BAG:binhh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/10/2023 2:22 PM
+BAG:binhh add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 04/10/2023 2:23 PM
+BAG:binhh add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 04/10/2023 2:23 PM
+BAG:binhh add 1xĐá lục bảo lydo: Nhặt từ map at 04/10/2023 2:23 PM
+BAG:binhh add 1xSao pha lê lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 1xSao pha lê lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 1xSao pha lê lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 14xNgọc Rồng 4 sao (old: 13) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 12xNgọc Rồng 7 sao (old: 11) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 12xNgọc Rồng 5 sao (old: 11) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 12xNgọc Rồng 6 sao (old: 11) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 1xSao pha lê lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 13xNgọc Rồng 7 sao (old: 12) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 13xNgọc Rồng 6 sao (old: 12) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 14xNgọc Rồng 7 sao (old: 13) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 13xNgọc Rồng 5 sao (old: 12) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 15xNgọc Rồng 4 sao (old: 14) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 14xNgọc Rồng 5 sao (old: 13) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 15xNgọc Rồng 7 sao (old: 14) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 15xNgọc Rồng 5 sao (old: 14) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 14xNgọc Rồng 6 sao (old: 13) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 16xNgọc Rồng 4 sao (old: 15) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 17xNgọc Rồng 4 sao (old: 16) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 16xNgọc Rồng 5 sao (old: 15) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 18xNgọc Rồng 4 sao (old: 17) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 19xNgọc Rồng 4 sao (old: 18) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 16xNgọc Rồng 7 sao (old: 15) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 04/10/2023 3:38 PM
+BAG:binhh add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 04/10/2023 3:41 PM
+BAG:binhh add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 04/10/2023 3:41 PM
+BAG:binhh add 1xCải trang Siêu thần Namếc lydo: Mua từ cửa hàng at 04/10/2023 3:41 PM

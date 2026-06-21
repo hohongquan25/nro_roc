@@ -1,0 +1,666 @@
+BAG:tamisme add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/16/2023 8:44 AM
+BAG:tamisme add 66xĐá Saphia (old: 65) lydo: Nhặt từ map at 03/16/2023 8:48 AM
+BAG:tamisme add 88xĐá lục bảo (old: 87) lydo: Nhặt từ map at 03/16/2023 8:48 AM
+BAG:tamisme add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 03/16/2023 8:48 AM
+BAG:tamisme add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/16/2023 8:51 AM
+BAG:tamisme add 84xNgọc Rồng 4 sao (old: 83) lydo: Nhặt từ map at 03/16/2023 8:51 AM
+BAG:tamisme add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/16/2023 9:00 AM
+BAG:tamisme add 19xPháo hoa (old: 18) lydo: Nhặt từ map at 03/16/2023 9:01 AM
+BAG:tamisme add 20xPháo hoa (old: 19) lydo: Nhặt từ map at 03/16/2023 9:01 AM
+BAG:tamisme add 21xPháo hoa (old: 20) lydo: Nhặt từ map at 03/16/2023 9:02 AM
+BAG:tamisme add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 85xNgọc Rồng 4 sao (old: 84) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 89xĐá lục bảo (old: 88) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/16/2023 10:54 AM
+BAG:tamisme add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 67xĐá Saphia (old: 66) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 86xNgọc Rồng 4 sao (old: 85) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 68xĐá Saphia (old: 67) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/16/2023 10:55 AM
+BAG:tamisme add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 90xĐá lục bảo (old: 89) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 03/16/2023 10:56 AM
+BAG:tamisme add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 69xĐá Saphia (old: 68) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 91xĐá lục bảo (old: 90) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 92xĐá lục bảo (old: 91) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 70xĐá Saphia (old: 69) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/16/2023 10:57 AM
+BAG:tamisme add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 68xNgọc Rồng 5 sao (old: 67) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 71xĐá Saphia (old: 70) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 72xĐá Saphia (old: 71) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 73xĐá Saphia (old: 72) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/16/2023 10:58 AM
+BAG:tamisme add 70xĐá Ruby (old: 69) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 93xĐá lục bảo (old: 92) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/16/2023 10:59 AM
+BAG:tamisme add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 94xĐá lục bảo (old: 93) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 71xĐá Ruby (old: 70) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/16/2023 11:00 AM
+BAG:tamisme add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 95xĐá lục bảo (old: 94) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/16/2023 11:01 AM
+BAG:tamisme add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 74xĐá Saphia (old: 73) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/16/2023 11:02 AM
+BAG:tamisme add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 72xĐá Ruby (old: 71) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 75xĐá Saphia (old: 74) lydo: Nhặt từ map at 03/16/2023 11:03 AM
+BAG:tamisme add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 73xĐá Ruby (old: 72) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 69xNgọc Rồng 5 sao (old: 68) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 29xNgọc Rồng 6 sao (old: 28) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/16/2023 11:04 AM
+BAG:tamisme add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 76xĐá Saphia (old: 75) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 30xNgọc Rồng 6 sao (old: 29) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/16/2023 11:05 AM
+BAG:tamisme add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 70xNgọc Rồng 5 sao (old: 69) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/16/2023 11:06 AM
+BAG:tamisme add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 74xĐá Ruby (old: 73) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/16/2023 11:07 AM
+BAG:tamisme add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 96xĐá lục bảo (old: 95) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/16/2023 11:08 AM
+BAG:tamisme add 75xĐá Ruby (old: 74) lydo: Nhặt từ map at 03/16/2023 11:09 AM
+BAG:tamisme add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/16/2023 11:09 AM
+BAG:tamisme add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/16/2023 11:09 AM
+BAG:tamisme add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/16/2023 11:09 AM
+BAG:tamisme add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/16/2023 11:09 AM
+BAG:tamisme add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/16/2023 11:09 AM
+BAG:tamisme add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/16/2023 11:09 AM
+BAG:tamisme add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/16/2023 11:09 AM
+BAG:tamisme add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/16/2023 11:09 AM
+BAG:tamisme add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/16/2023 11:09 AM
+BAG:tamisme add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/16/2023 11:09 AM
+BAG:tamisme add 1xĐá xanh lam lydo: Mua từ cửa hàng at 03/16/2023 11:09 AM
+BAG:tamisme add 2xĐá xanh lam (old: 1) lydo: Mua từ cửa hàng at 03/16/2023 11:09 AM
+BAG:tamisme add 3xĐá xanh lam (old: 2) lydo: Mua từ cửa hàng at 03/16/2023 11:10 AM
+BAG:tamisme add 4xĐá xanh lam (old: 3) lydo: Mua từ cửa hàng at 03/16/2023 11:10 AM
+BAG:tamisme add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/16/2023 11:13 AM
+BAG:tamisme add 1xCải trang Jiren lydo: Lấy từ body đệ vào hành trang at 03/16/2023 11:14 AM
+BAG:tamisme add 1xCải trang Jiren lydo: Lấy từ body vào hành trang at 03/16/2023 11:14 AM
+BAG:tamisme add 4xBí ngô 6 sao lydo: Nhặt từ map at 03/16/2023 11:15 AM
+BAG:tamisme add 22xPháo hoa (old: 21) lydo: Nhặt từ map at 03/16/2023 11:18 AM
+BAG:tamisme add 1xÁo Thần Linh lydo: Nhặt từ map at 03/16/2023 11:18 AM
+BAG:tamisme add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/16/2023 11:18 AM
+BAG:tamisme add 56xGiáp Xên bọ hung (old: 55) lydo: HQT at 03/16/2023 11:22 AM
+BAG:tamisme add 88xCuồng nộ (old: 87) lydo: HQT at 03/16/2023 11:22 AM
+BAG:tamisme add 90xBổ huyết (old: 89) lydo: HQT at 03/16/2023 11:22 AM
+BAG:tamisme add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 03/16/2023 11:23 AM
+BAG:tamisme add 1xCải trang Chill lydo: Nhặt từ map at 03/16/2023 11:26 AM
+BAG:tamisme add 31xNgọc Rồng 6 sao (old: 30) lydo: Nhặt từ map at 03/16/2023 11:28 AM
+BAG:tamisme add 3xBí ngô 7 sao lydo: Nhặt từ map at 03/16/2023 11:31 AM
+BAG:tamisme add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/16/2023 11:39 AM
+BAG:tamisme add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/16/2023 11:46 AM
+BAG:tamisme add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/16/2023 11:47 AM
+BAG:tamisme add 97xĐá lục bảo (old: 96) lydo: Nhặt từ map at 03/16/2023 11:47 AM
+BAG:tamisme add 76xĐá Ruby (old: 75) lydo: Nhặt từ map at 03/16/2023 11:47 AM
+BAG:tamisme add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 03/16/2023 11:47 AM
+BAG:tamisme add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 03/16/2023 11:48 AM
+BAG:tamisme add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/16/2023 11:48 AM
+BAG:tamisme add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 03/16/2023 11:49 AM
+BAG:tamisme add 97xPháo hoa (old: 92) lydo: Nhặt từ map at 03/16/2023 11:49 AM
+BAG:tamisme add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/16/2023 11:49 AM
+BAG:tamisme add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 03/16/2023 11:49 AM
+BAG:tamisme add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 3xPháo hoa lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 99xPháo hoa (old: 97) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 32xNgọc Rồng 6 sao (old: 31) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 98xĐá lục bảo (old: 97) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 23xPháo hoa (old: 22) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 2xCủ cà rốt lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 11xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 28xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 31xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 34xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 3xCủ cà rốt (old: 2) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 6xCủ cà rốt (old: 3) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 36xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 11xBột mì (old: 9) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 13xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/16/2023 11:50 AM
+BAG:tamisme add 8xPháo hoa (old: 3) lydo: Nhặt từ map at 03/16/2023 11:51 AM
+BAG:tamisme add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 03/16/2023 11:52 AM
+BAG:tamisme add 77xĐá Ruby (old: 76) lydo: Nhặt từ map at 03/16/2023 11:52 AM
+BAG:tamisme add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 03/16/2023 11:52 AM
+BAG:tamisme add 13xPháo hoa (old: 8) lydo: Nhặt từ map at 03/16/2023 11:53 AM
+BAG:tamisme add 18xPháo hoa (old: 13) lydo: Nhặt từ map at 03/16/2023 11:53 AM
+BAG:tamisme add 23xPháo hoa (old: 18) lydo: Nhặt từ map at 03/16/2023 11:53 AM
+BAG:tamisme add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/16/2023 11:53 AM
+BAG:tamisme add 28xPháo hoa (old: 23) lydo: Nhặt từ map at 03/16/2023 11:54 AM
+BAG:tamisme add 33xPháo hoa (old: 28) lydo: Nhặt từ map at 03/16/2023 11:54 AM
+BAG:tamisme add 38xPháo hoa (old: 33) lydo: Nhặt từ map at 03/16/2023 11:54 AM
+BAG:tamisme add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/16/2023 11:54 AM
+BAG:tamisme add 43xPháo hoa (old: 38) lydo: Nhặt từ map at 03/16/2023 11:55 AM
+BAG:tamisme add 48xPháo hoa (old: 43) lydo: Nhặt từ map at 03/16/2023 11:55 AM
+BAG:tamisme add 53xPháo hoa (old: 48) lydo: Nhặt từ map at 03/16/2023 11:55 AM
+BAG:tamisme add 58xPháo hoa (old: 53) lydo: Nhặt từ map at 03/16/2023 11:55 AM
+BAG:tamisme add 80xĐá thạch anh tím (old: 79) lydo: Nhặt từ map at 03/16/2023 11:56 AM
+BAG:tamisme add 63xPháo hoa (old: 58) lydo: Nhặt từ map at 03/16/2023 11:56 AM
+BAG:tamisme add 71xNgọc Rồng 5 sao (old: 70) lydo: Nhặt từ map at 03/16/2023 11:56 AM
+BAG:tamisme add 68xPháo hoa (old: 63) lydo: Nhặt từ map at 03/16/2023 11:56 AM
+BAG:tamisme add 73xPháo hoa (old: 68) lydo: Nhặt từ map at 03/16/2023 11:56 AM
+BAG:tamisme add 72xNgọc Rồng 5 sao (old: 71) lydo: Nhặt từ map at 03/16/2023 11:57 AM
+BAG:tamisme add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/16/2023 11:57 AM
+BAG:tamisme add 78xPháo hoa (old: 73) lydo: Nhặt từ map at 03/16/2023 11:57 AM
+BAG:tamisme add 83xPháo hoa (old: 78) lydo: Nhặt từ map at 03/16/2023 11:58 AM
+BAG:tamisme add 99xĐá lục bảo (old: 98) lydo: Nhặt từ map at 03/16/2023 11:58 AM
+BAG:tamisme add 88xPháo hoa (old: 83) lydo: Nhặt từ map at 03/16/2023 11:58 AM
+BAG:tamisme add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/16/2023 11:59 AM
+BAG:tamisme add 93xPháo hoa (old: 88) lydo: Nhặt từ map at 03/16/2023 11:59 AM
+BAG:tamisme add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 03/16/2023 11:59 AM
+BAG:tamisme add 73xNgọc Rồng 5 sao (old: 72) lydo: Nhặt từ map at 03/16/2023 11:59 AM
+BAG:tamisme add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/16/2023 12:00 PM
+BAG:tamisme add 78xĐá Ruby (old: 77) lydo: Nhặt từ map at 03/16/2023 12:00 PM
+BAG:tamisme add 1xĐá lục bảo lydo: Nhặt từ map at 03/16/2023 12:00 PM
+BAG:tamisme add 98xPháo hoa (old: 93) lydo: Nhặt từ map at 03/16/2023 12:00 PM
+BAG:tamisme add 74xNgọc Rồng 5 sao (old: 73) lydo: Nhặt từ map at 03/16/2023 12:01 PM
+BAG:tamisme add 77xĐá Saphia (old: 76) lydo: Nhặt từ map at 03/16/2023 12:01 PM
+BAG:tamisme add 4xPháo hoa lydo: Nhặt từ map at 03/16/2023 12:01 PM
+BAG:tamisme add 99xPháo hoa (old: 98) lydo: Nhặt từ map at 03/16/2023 12:01 PM
+BAG:tamisme add 9xPháo hoa (old: 4) lydo: Nhặt từ map at 03/16/2023 12:02 PM
+BAG:tamisme add 78xĐá Saphia (old: 77) lydo: Nhặt từ map at 03/16/2023 12:03 PM
+BAG:tamisme add 79xĐá Saphia (old: 78) lydo: Nhặt từ map at 03/16/2023 12:03 PM
+BAG:tamisme add 14xPháo hoa (old: 9) lydo: Nhặt từ map at 03/16/2023 12:04 PM
+BAG:tamisme add 19xPháo hoa (old: 14) lydo: Nhặt từ map at 03/16/2023 12:04 PM
+BAG:tamisme add 24xPháo hoa (old: 19) lydo: Nhặt từ map at 03/16/2023 12:04 PM
+BAG:tamisme add 29xPháo hoa (old: 24) lydo: Nhặt từ map at 03/16/2023 12:05 PM
+BAG:tamisme add 82xĐá thạch anh tím (old: 81) lydo: Nhặt từ map at 03/16/2023 12:06 PM
+BAG:tamisme add 34xPháo hoa (old: 29) lydo: Nhặt từ map at 03/16/2023 12:06 PM
+BAG:tamisme add 39xPháo hoa (old: 34) lydo: Nhặt từ map at 03/16/2023 12:07 PM
+BAG:tamisme add 1xĐá Saphia lydo: Nhặt từ map at 03/16/2023 12:07 PM
+BAG:tamisme add 44xPháo hoa (old: 39) lydo: Nhặt từ map at 03/16/2023 12:07 PM
+BAG:tamisme add 1xĐá Titan lydo: Nhặt từ map at 03/16/2023 12:08 PM
+BAG:tamisme add 83xĐá thạch anh tím (old: 82) lydo: Nhặt từ map at 03/16/2023 12:08 PM
+BAG:tamisme add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/16/2023 12:08 PM
+BAG:tamisme add 49xPháo hoa (old: 44) lydo: Nhặt từ map at 03/16/2023 12:09 PM
+BAG:tamisme add 1xĐá Ruby lydo: Nhặt từ map at 03/16/2023 12:09 PM
+BAG:tamisme add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/16/2023 12:09 PM
+BAG:tamisme add 54xPháo hoa (old: 49) lydo: Nhặt từ map at 03/16/2023 12:10 PM
+BAG:tamisme add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/16/2023 12:10 PM
+BAG:tamisme add 59xPháo hoa (old: 54) lydo: Nhặt từ map at 03/16/2023 12:10 PM
+BAG:tamisme add 64xPháo hoa (old: 59) lydo: Nhặt từ map at 03/16/2023 12:11 PM
+BAG:tamisme add 69xPháo hoa (old: 64) lydo: Nhặt từ map at 03/16/2023 12:12 PM
+BAG:tamisme add 74xPháo hoa (old: 69) lydo: Nhặt từ map at 03/16/2023 12:13 PM
+BAG:tamisme add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/16/2023 12:13 PM
+BAG:tamisme add 79xPháo hoa (old: 74) lydo: Nhặt từ map at 03/16/2023 12:13 PM
+BAG:tamisme add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/16/2023 12:14 PM
+BAG:tamisme add 84xĐá thạch anh tím (old: 83) lydo: Nhặt từ map at 03/16/2023 12:14 PM
+BAG:tamisme add 84xPháo hoa (old: 79) lydo: Nhặt từ map at 03/16/2023 12:14 PM
+BAG:tamisme add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/16/2023 12:15 PM
+BAG:tamisme add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/16/2023 12:15 PM
+BAG:tamisme add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/16/2023 12:16 PM
+BAG:tamisme add 89xPháo hoa (old: 84) lydo: Nhặt từ map at 03/16/2023 12:17 PM
+BAG:tamisme add 94xPháo hoa (old: 89) lydo: Nhặt từ map at 03/16/2023 12:17 PM
+BAG:tamisme add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/16/2023 12:18 PM
+BAG:tamisme add 99xPháo hoa (old: 94) lydo: Nhặt từ map at 03/16/2023 12:18 PM
+BAG:tamisme add 5xPháo hoa lydo: Nhặt từ map at 03/16/2023 12:19 PM
+BAG:tamisme add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/16/2023 12:19 PM
+BAG:tamisme add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/16/2023 12:20 PM
+BAG:tamisme add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/16/2023 12:20 PM
+BAG:tamisme add 33xNgọc Rồng 6 sao (old: 32) lydo: Nhặt từ map at 03/16/2023 12:20 PM
+BAG:tamisme add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/16/2023 12:20 PM
+BAG:tamisme add 34xNgọc Rồng 6 sao (old: 33) lydo: Nhặt từ map at 03/16/2023 12:20 PM
+BAG:tamisme add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/16/2023 12:21 PM
+BAG:tamisme add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/16/2023 12:21 PM
+BAG:tamisme add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/16/2023 12:21 PM
+BAG:tamisme add 85xĐá thạch anh tím (old: 84) lydo: Nhặt từ map at 03/16/2023 12:22 PM
+BAG:tamisme add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/16/2023 12:23 PM
+BAG:tamisme add 35xNgọc Rồng 6 sao (old: 34) lydo: Nhặt từ map at 03/16/2023 12:23 PM
+BAG:tamisme add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/16/2023 12:24 PM
+BAG:tamisme add 36xNgọc Rồng 6 sao (old: 35) lydo: Nhặt từ map at 03/16/2023 12:24 PM
+BAG:tamisme add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/16/2023 12:25 PM
+BAG:tamisme add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/16/2023 12:25 PM
+BAG:tamisme add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/16/2023 12:25 PM
+BAG:tamisme add 86xĐá thạch anh tím (old: 85) lydo: Nhặt từ map at 03/16/2023 12:25 PM
+BAG:tamisme add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/16/2023 12:25 PM
+BAG:tamisme add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/16/2023 12:26 PM
+BAG:tamisme add 75xNgọc Rồng 5 sao (old: 74) lydo: Nhặt từ map at 03/16/2023 12:26 PM
+BAG:tamisme add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/16/2023 12:26 PM
+BAG:tamisme add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/16/2023 12:27 PM
+BAG:tamisme add 37xNgọc Rồng 6 sao (old: 36) lydo: Nhặt từ map at 03/16/2023 12:27 PM
+BAG:tamisme add 87xĐá thạch anh tím (old: 86) lydo: Nhặt từ map at 03/16/2023 12:28 PM
+BAG:tamisme add 76xNgọc Rồng 5 sao (old: 75) lydo: Nhặt từ map at 03/16/2023 12:28 PM
+BAG:tamisme add 88xĐá thạch anh tím (old: 87) lydo: Nhặt từ map at 03/16/2023 12:28 PM
+BAG:tamisme add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/16/2023 12:28 PM
+BAG:tamisme add 50xPháo hoa (old: 45) lydo: Nhặt từ map at 03/16/2023 12:28 PM
+BAG:tamisme add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/16/2023 12:28 PM
+BAG:tamisme add 55xPháo hoa (old: 50) lydo: Nhặt từ map at 03/16/2023 12:29 PM
+BAG:tamisme add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/16/2023 12:29 PM
+BAG:tamisme add 60xPháo hoa (old: 55) lydo: Nhặt từ map at 03/16/2023 12:30 PM
+BAG:tamisme add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/16/2023 12:31 PM
+BAG:tamisme add 65xPháo hoa (old: 60) lydo: Nhặt từ map at 03/16/2023 12:31 PM
+BAG:tamisme add 70xPháo hoa (old: 65) lydo: Nhặt từ map at 03/16/2023 12:31 PM
+BAG:tamisme add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/16/2023 12:31 PM
+BAG:tamisme add 75xPháo hoa (old: 70) lydo: Nhặt từ map at 03/16/2023 12:31 PM
+BAG:tamisme add 80xPháo hoa (old: 75) lydo: Nhặt từ map at 03/16/2023 12:32 PM
+BAG:tamisme add 85xPháo hoa (old: 80) lydo: Nhặt từ map at 03/16/2023 12:32 PM
+BAG:tamisme add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/16/2023 12:33 PM
+BAG:tamisme add 77xNgọc Rồng 5 sao (old: 76) lydo: Nhặt từ map at 03/16/2023 12:33 PM
+BAG:tamisme add 90xPháo hoa (old: 85) lydo: Nhặt từ map at 03/16/2023 12:34 PM
+BAG:tamisme add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/16/2023 12:34 PM
+BAG:tamisme add 95xPháo hoa (old: 90) lydo: Nhặt từ map at 03/16/2023 12:34 PM
+BAG:tamisme add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/16/2023 12:35 PM
+BAG:tamisme add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/16/2023 12:36 PM
+BAG:tamisme add 1xPháo hoa lydo: Nhặt từ map at 03/16/2023 12:36 PM
+BAG:tamisme add 99xPháo hoa (old: 95) lydo: Nhặt từ map at 03/16/2023 12:36 PM
+BAG:tamisme add 6xPháo hoa (old: 1) lydo: Nhặt từ map at 03/16/2023 12:37 PM
+BAG:tamisme add 11xPháo hoa (old: 6) lydo: Nhặt từ map at 03/16/2023 12:37 PM
+BAG:tamisme add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/16/2023 12:38 PM
+BAG:tamisme add 16xPháo hoa (old: 11) lydo: Nhặt từ map at 03/16/2023 12:39 PM
+BAG:tamisme add 21xPháo hoa (old: 16) lydo: Nhặt từ map at 03/16/2023 12:39 PM
+BAG:tamisme add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/16/2023 12:39 PM
+BAG:tamisme add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/16/2023 12:40 PM
+BAG:tamisme add 26xPháo hoa (old: 21) lydo: Nhặt từ map at 03/16/2023 12:40 PM
+BAG:tamisme add 31xPháo hoa (old: 26) lydo: Nhặt từ map at 03/16/2023 12:41 PM
+BAG:tamisme add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/16/2023 12:41 PM
+BAG:tamisme add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/16/2023 12:42 PM
+BAG:tamisme add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/16/2023 12:42 PM
+BAG:tamisme add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/16/2023 12:43 PM
+BAG:tamisme add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/16/2023 12:43 PM
+BAG:tamisme add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/16/2023 12:43 PM
+BAG:tamisme add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/16/2023 12:43 PM
+BAG:tamisme add 36xPháo hoa (old: 31) lydo: Nhặt từ map at 03/16/2023 12:44 PM
+BAG:tamisme add 41xPháo hoa (old: 36) lydo: Nhặt từ map at 03/16/2023 12:45 PM
+BAG:tamisme add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/16/2023 12:45 PM
+BAG:tamisme add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/16/2023 12:45 PM
+BAG:tamisme add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/16/2023 12:45 PM
+BAG:tamisme add 38xNgọc Rồng 6 sao (old: 37) lydo: Nhặt từ map at 03/16/2023 12:46 PM
+BAG:tamisme add 89xĐá thạch anh tím (old: 88) lydo: Nhặt từ map at 03/16/2023 12:46 PM
+BAG:tamisme add 46xPháo hoa (old: 41) lydo: Nhặt từ map at 03/16/2023 12:47 PM
+BAG:tamisme add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/16/2023 12:47 PM
+BAG:tamisme add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/16/2023 12:47 PM
+BAG:tamisme add 90xĐá thạch anh tím (old: 89) lydo: Nhặt từ map at 03/16/2023 12:47 PM
+BAG:tamisme add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/16/2023 12:48 PM
+BAG:tamisme add 91xĐá thạch anh tím (old: 90) lydo: Nhặt từ map at 03/16/2023 12:49 PM
+BAG:tamisme add 39xNgọc Rồng 6 sao (old: 38) lydo: Nhặt từ map at 03/16/2023 2:35 PM
+BAG:tamisme add 51xPháo hoa (old: 46) lydo: Nhặt từ map at 03/16/2023 2:35 PM
+BAG:tamisme add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/16/2023 2:36 PM
+BAG:tamisme add 13xBột mì (old: 11) lydo: Nhặt từ map at 03/16/2023 2:37 PM
+BAG:tamisme add 17xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/16/2023 2:38 PM
+BAG:tamisme add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/16/2023 2:38 PM
+BAG:tamisme add 4xCủ cà rốt lydo: Nhặt từ map at 03/16/2023 2:38 PM

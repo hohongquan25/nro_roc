@@ -1,0 +1,42 @@
+BAG:pkdinh add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/27/2023 11:38 PM
+BAG:pkdinh add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/27/2023 11:39 PM
+BAG:pkdinh add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/27/2023 11:39 PM
+BAG:pkdinh add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/27/2023 11:39 PM
+BAG:pkdinh add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/27/2023 11:39 PM
+BAG:pkdinh add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/27/2023 11:39 PM
+BAG:pkdinh add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:pkdinh add 1xĐá Titan lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:pkdinh add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:pkdinh add 1xĐá Saphia lydo: Nhặt từ map at 03/27/2023 11:45 PM
+BAG:pkdinh add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/27/2023 11:45 PM
+BAG:pkdinh add 1xÁo vải thô lydo: Nhặt từ map at 03/27/2023 11:46 PM
+BAG:pkdinh add 1xĐá Ruby lydo: Nhặt từ map at 03/27/2023 11:48 PM
+BAG:pkdinh add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:pkdinh add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:pkdinh add 1xĐá Titan lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:pkdinh add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:pkdinh add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:pkdinh add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:pkdinh add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:pkdinh add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:pkdinh add 1xRada cấp 1 lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:pkdinh add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:pkdinh add 1xRada cấp 1 lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:pkdinh add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:pkdinh add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:pkdinh add 1xĐá Saphia lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:pkdinh add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/27/2023 11:53 PM
+BAG:pkdinh add 1xGhế bay lydo: Mua từ cửa hàng at 03/27/2023 11:53 PM
+BAG:pkdinh add 1xAvatar lydo: Mua từ cửa hàng at 03/27/2023 11:53 PM
+BAG:pkdinh add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/27/2023 11:54 PM
+BAG:pkdinh add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/27/2023 11:56 PM
+BAG:pkdinh add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/27/2023 11:56 PM
+BAG:pkdinh add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/27/2023 11:56 PM
+BAG:pkdinh add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/27/2023 11:56 PM
+BAG:pkdinh add 10xNgọc Rồng 5 sao lydo: Giftcode at 03/27/2023 11:56 PM
+BAG:pkdinh add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/27/2023 11:56 PM
+BAG:pkdinh add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/27/2023 11:56 PM
+BAG:pkdinh add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/27/2023 11:57 PM
+BAG:pkdinh add 1xCải trang Mighty Mask lydo: Mua từ cửa hàng at 03/27/2023 11:57 PM
+BAG:pkdinh add 1xVán lướt sóng lydo: Mua từ cửa hàng at 03/27/2023 11:57 PM
+BAG:pkdinh add 1xCải trang Mighty Mask lydo: Lấy từ body vào hành trang at 03/27/2023 11:58 PM

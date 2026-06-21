@@ -1,0 +1,279 @@
+BAG:gohan09 add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 12:24 PM
+BAG:gohan09 add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:25 PM
+BAG:gohan09 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:25 PM
+BAG:gohan09 add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:25 PM
+BAG:gohan09 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 12:26 PM
+BAG:gohan09 add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 12:26 PM
+BAG:gohan09 add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 12:26 PM
+BAG:gohan09 add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 12:26 PM
+BAG:gohan09 add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 12:26 PM
+BAG:gohan09 add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 12:26 PM
+BAG:gohan09 add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/03/2023 12:27 PM
+BAG:gohan09 add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:28 PM
+BAG:gohan09 add 1xÁo jean Calic lydo: Cường Hóa trang bị at 03/03/2023 12:28 PM
+BAG:gohan09 add 1xÁo Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 12:28 PM
+BAG:gohan09 add 1xQuần jean Calic lydo: Cường Hóa trang bị at 03/03/2023 12:28 PM
+BAG:gohan09 add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 12:29 PM
+BAG:gohan09 add 1xQuần Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 12:29 PM
+BAG:gohan09 add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/03/2023 12:29 PM
+BAG:gohan09 add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 12:30 PM
+BAG:gohan09 add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 12:30 PM
+BAG:gohan09 add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 12:31 PM
+BAG:gohan09 add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 12:31 PM
+BAG:gohan09 add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 12:31 PM
+BAG:gohan09 add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:31 PM
+BAG:gohan09 add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 12:32 PM
+BAG:gohan09 add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:gohan09 add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 12:32 PM
+BAG:gohan09 add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:gohan09 add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 12:33 PM
+BAG:gohan09 add 1xÁo Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 12:33 PM
+BAG:gohan09 add 1xQuần Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 12:33 PM
+BAG:gohan09 add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 12:33 PM
+BAG:gohan09 add 1xGiày Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 12:39 PM
+BAG:gohan09 add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 12:39 PM
+BAG:gohan09 add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 12:53 PM
+BAG:gohan09 add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 12:53 PM
+BAG:gohan09 add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 12:53 PM
+BAG:gohan09 add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 12:53 PM
+BAG:gohan09 add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 12:53 PM
+BAG:gohan09 add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 12:53 PM
+BAG:gohan09 add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:54 PM
+BAG:gohan09 add 1xCải Trang Thần Zeno lydo: Lấy từ rương qua người at 03/03/2023 1:00 PM
+BAG:gohan09 add 1xCải trang lydo: Lấy từ rương qua người at 03/03/2023 1:00 PM
+BAG:gohan09 add 4xĐá Vĩnh Hằng lydo: Lấy từ rương qua người at 03/03/2023 1:00 PM
+BAG:gohan09 add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/03/2023 1:01 PM
+BAG:gohan09 add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/03/2023 1:01 PM
+BAG:gohan09 add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/03/2023 1:02 PM
+BAG:gohan09 add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/03/2023 1:03 PM
+BAG:gohan09 add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/03/2023 1:03 PM
+BAG:gohan09 add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/03/2023 1:03 PM
+BAG:gohan09 add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/03/2023 1:03 PM
+BAG:gohan09 add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/03/2023 1:03 PM
+BAG:gohan09 add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/03/2023 1:03 PM
+BAG:gohan09 add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/03/2023 1:03 PM
+BAG:gohan09 add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/03/2023 1:04 PM
+BAG:gohan09 add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/03/2023 1:04 PM
+BAG:gohan09 add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/03/2023 1:04 PM
+BAG:gohan09 add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/03/2023 1:04 PM
+BAG:gohan09 add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/03/2023 1:04 PM
+BAG:gohan09 add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/03/2023 1:04 PM
+BAG:gohan09 add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/03/2023 1:04 PM
+BAG:gohan09 add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 1:06 PM
+BAG:gohan09 add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 1:07 PM
+BAG:gohan09 add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 1:08 PM
+BAG:gohan09 add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 1:09 PM
+BAG:gohan09 add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 1:15 PM
+BAG:gohan09 add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 1:15 PM
+BAG:gohan09 add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 1:15 PM
+BAG:gohan09 add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 1:16 PM
+BAG:gohan09 add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/03/2023 1:16 PM
+BAG:gohan09 add 1xĐá Saphia lydo: Nhặt từ map at 03/03/2023 1:17 PM
+BAG:gohan09 add 1xBột mì lydo: Nhặt từ map at 03/03/2023 1:17 PM
+BAG:gohan09 add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/03/2023 1:17 PM
+BAG:gohan09 add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 1:18 PM
+BAG:gohan09 add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/03/2023 1:18 PM
+BAG:gohan09 add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 1:18 PM
+BAG:gohan09 add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 1:18 PM
+BAG:gohan09 add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 1:19 PM
+BAG:gohan09 add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:20 PM
+BAG:gohan09 add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 1:21 PM
+BAG:gohan09 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 8:28 PM
+BAG:gohan09 add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 8:29 PM
+BAG:gohan09 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 8:35 PM
+BAG:gohan09 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 8:36 PM
+BAG:gohan09 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 8:38 PM
+BAG:gohan09 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 8:42 PM
+BAG:gohan09 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 8:48 PM
+BAG:gohan09 add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 8:53 PM
+BAG:gohan09 add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 8:54 PM
+BAG:gohan09 add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 8:54 PM
+BAG:gohan09 add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 8:58 PM
+BAG:gohan09 add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 8:59 PM
+BAG:gohan09 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 9:02 PM
+BAG:gohan09 add 1xBánh trung thu thập cẩm lydo: Nhặt từ map at 03/03/2023 9:02 PM
+BAG:gohan09 add 2xCủ cà rốt lydo: Nhặt từ map at 03/03/2023 9:02 PM
+BAG:gohan09 add 3xCủ cà rốt (old: 2) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 6xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 10xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 12xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 7xBột mì (old: 5) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 13xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 8xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 15xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 9xBột mì (old: 7) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 1xPháo hoa lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:gohan09 add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/03/2023 9:06 PM
+BAG:gohan09 add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/03/2023 9:07 PM
+BAG:gohan09 add 1xNgọc Rồng 3 sao lydo: CSTT at 03/03/2023 9:08 PM
+BAG:gohan09 add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/03/2023 9:08 PM
+BAG:gohan09 add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/03/2023 9:12 PM
+BAG:gohan09 add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/03/2023 9:13 PM
+BAG:gohan09 add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/03/2023 9:14 PM
+BAG:gohan09 add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/03/2023 9:14 PM
+BAG:gohan09 add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/03/2023 9:14 PM
+BAG:gohan09 add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/03/2023 9:15 PM
+BAG:gohan09 add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/03/2023 9:15 PM
+BAG:gohan09 add 1xGăng Thiên Sứ lydo: Admin at 03/03/2023 9:29 PM
+BAG:gohan09 add 99xThỏi vàng lydo: Tách thỏi vàng at 03/03/2023 9:29 PM
+BAG:gohan09 add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 9:34 PM
+BAG:gohan09 add 1xCải trang than meo Karin lydo: Mua từ bill at 03/03/2023 9:40 PM
+BAG:gohan09 add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:40 PM
+BAG:gohan09 add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 9:41 PM
+BAG:gohan09 add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 9:41 PM
+BAG:gohan09 add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/03/2023 9:42 PM
+BAG:gohan09 add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/03/2023 9:42 PM
+BAG:gohan09 add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/03/2023 9:42 PM
+BAG:gohan09 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 9:42 PM
+BAG:gohan09 add 1xÁo Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 9:47 PM
+BAG:gohan09 add 1xGiày Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 9:48 PM
+BAG:gohan09 add 1xQuần Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 9:48 PM
+BAG:gohan09 add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 9:49 PM
+BAG:gohan09 add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 9:58 PM
+BAG:gohan09 add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 10:00 PM
+BAG:gohan09 add 1xÁo Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:01 PM
+BAG:gohan09 add 1xQuần Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:01 PM
+BAG:gohan09 add 1xGiày Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:02 PM
+BAG:gohan09 add 1xNhẫn Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:02 PM
+BAG:gohan09 add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:02 PM

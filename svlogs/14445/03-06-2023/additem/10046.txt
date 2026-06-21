@@ -1,0 +1,714 @@
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 2:43 PM
+BAG:zindz add 25xThỏi vàng lydo: Đổi vàng at 03/06/2023 2:49 PM
+BAG:zindz add 75xThỏi vàng (old: 25) lydo: Đổi vàng at 03/06/2023 2:49 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/06/2023 2:49 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/06/2023 2:49 PM
+BAG:zindz add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/06/2023 2:49 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/06/2023 2:49 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/06/2023 2:49 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 2:57 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 3:04 PM
+BAG:zindz add 27xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/06/2023 3:05 PM
+BAG:zindz add 4xBánh trung thu thập cẩm lydo: Nhặt từ map at 03/06/2023 3:05 PM
+BAG:zindz add 7xBánh trung thu thập cẩm (old: 4) lydo: Nhặt từ map at 03/06/2023 3:05 PM
+BAG:zindz add 11xBánh trung thu thập cẩm (old: 7) lydo: Nhặt từ map at 03/06/2023 3:05 PM
+BAG:zindz add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/06/2023 3:05 PM
+BAG:zindz add 14xBột mì (old: 10) lydo: Nhặt từ map at 03/06/2023 3:05 PM
+BAG:zindz add 18xBột mì (old: 14) lydo: Nhặt từ map at 03/06/2023 3:05 PM
+BAG:zindz add 22xBột mì (old: 18) lydo: Nhặt từ map at 03/06/2023 3:05 PM
+BAG:zindz add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/06/2023 3:05 PM
+BAG:zindz add 11xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/06/2023 3:05 PM
+BAG:zindz add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/06/2023 3:05 PM
+BAG:zindz add 88xNgọc Rồng 6 sao (old: 87) lydo: CSTT at 03/06/2023 3:08 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 3:08 PM
+BAG:zindz add 1xPháo hoa lydo: Nhặt từ map at 03/06/2023 3:09 PM
+BAG:zindz add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/06/2023 3:13 PM
+BAG:zindz add 3xPháo hoa (old: 2) lydo: Nhặt từ map at 03/06/2023 3:16 PM
+BAG:zindz add 16xNgọc Rồng 3 sao (old: 15) lydo: Nhặt từ map at 03/06/2023 3:16 PM
+BAG:zindz add 4xPháo hoa (old: 3) lydo: Nhặt từ map at 03/06/2023 3:16 PM
+BAG:zindz add 17xNgọc Rồng 3 sao (old: 16) lydo: Nhặt từ map at 03/06/2023 3:16 PM
+BAG:zindz add 18xNgọc Rồng 3 sao (old: 17) lydo: Nhặt từ map at 03/06/2023 3:18 PM
+BAG:zindz add 1xGiày vàng Zealot lydo: Nhặt từ map at 03/06/2023 3:22 PM
+BAG:zindz add 5xPháo hoa (old: 4) lydo: Nhặt từ map at 03/06/2023 3:22 PM
+BAG:zindz add 1xMáy dò Capsule kì bí lydo: Mua từ cửa hàng at 03/06/2023 3:25 PM
+BAG:zindz add 2xMáy dò Capsule kì bí (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 3:25 PM
+BAG:zindz add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/06/2023 3:26 PM
+BAG:zindz add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/06/2023 3:26 PM
+BAG:zindz add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/06/2023 3:26 PM
+BAG:zindz add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/06/2023 3:26 PM
+BAG:zindz add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/06/2023 3:26 PM
+BAG:zindz add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/06/2023 3:26 PM
+BAG:zindz add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/06/2023 3:26 PM
+BAG:zindz add 86xNgọc Rồng 5 sao (old: 85) lydo: Nhặt từ map at 03/06/2023 3:26 PM
+BAG:zindz add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/06/2023 3:27 PM
+BAG:zindz add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/06/2023 3:27 PM
+BAG:zindz add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/06/2023 3:27 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 3:28 PM
+BAG:zindz add 25xBột mì (old: 22) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 15xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 2xBánh trung thu thập cẩm lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 2xCủ cà rốt lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 20xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 23xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 17xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 6xPháo hoa (old: 5) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 30xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 5xCủ cà rốt (old: 2) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 8xCủ cà rốt (old: 5) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 11xCủ cà rốt (old: 8) lydo: Nhặt từ map at 03/06/2023 3:29 PM
+BAG:zindz add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 29xBột mì (old: 27) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 19xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 27xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 34xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 11xCủ cà rốt (old: 10) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 31xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 12xCủ cà rốt (old: 11) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 32xBột mì (old: 29) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/06/2023 3:37 PM
+BAG:zindz add 2xĐá bảo vệ lydo: Nhặt từ map at 03/06/2023 3:42 PM
+BAG:zindz add 19xNgọc Rồng 3 sao (old: 18) lydo: Nhặt từ map at 03/06/2023 3:44 PM
+BAG:zindz add 7xPháo hoa (old: 6) lydo: Nhặt từ map at 03/06/2023 3:44 PM
+BAG:zindz add 20xNgọc Rồng 3 sao (old: 19) lydo: Nhặt từ map at 03/06/2023 3:45 PM
+BAG:zindz add 8xPháo hoa (old: 7) lydo: Nhặt từ map at 03/06/2023 3:45 PM
+BAG:zindz add 1xGăng lưỡng long lydo: Nhặt từ map at 03/06/2023 3:48 PM
+BAG:zindz add 2xMáy dò Capsule kì bí (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 3:48 PM
+BAG:zindz add 3xMáy dò Capsule kì bí (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 3:48 PM
+BAG:zindz add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/06/2023 3:48 PM
+BAG:zindz add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/06/2023 3:49 PM
+BAG:zindz add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/06/2023 3:49 PM
+BAG:zindz add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/06/2023 3:49 PM
+BAG:zindz add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/06/2023 3:49 PM
+BAG:zindz add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/06/2023 3:49 PM
+BAG:zindz add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/06/2023 3:49 PM
+BAG:zindz add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/06/2023 3:49 PM
+BAG:zindz add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/06/2023 3:49 PM
+BAG:zindz add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/06/2023 3:49 PM
+BAG:zindz add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/06/2023 3:50 PM
+BAG:zindz add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/06/2023 3:50 PM
+BAG:zindz add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/06/2023 3:50 PM
+BAG:zindz add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/06/2023 3:50 PM
+BAG:zindz add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/06/2023 4:04 PM
+BAG:zindz add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/06/2023 4:05 PM
+BAG:zindz add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/06/2023 4:05 PM
+BAG:zindz add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/06/2023 4:05 PM
+BAG:zindz add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/06/2023 4:05 PM
+BAG:zindz add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/06/2023 4:06 PM
+BAG:zindz add 89xNgọc Rồng 6 sao (old: 88) lydo: Nhặt từ map at 03/06/2023 4:06 PM
+BAG:zindz add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/06/2023 4:06 PM
+BAG:zindz add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/06/2023 4:08 PM
+BAG:zindz add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/06/2023 4:08 PM
+BAG:zindz add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/06/2023 4:08 PM
+BAG:zindz add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/06/2023 4:09 PM
+BAG:zindz add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/06/2023 4:09 PM
+BAG:zindz add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/06/2023 4:09 PM
+BAG:zindz add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/06/2023 4:10 PM
+BAG:zindz add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/06/2023 4:10 PM
+BAG:zindz add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/06/2023 4:10 PM
+BAG:zindz add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/06/2023 4:10 PM
+BAG:zindz add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/06/2023 4:11 PM
+BAG:zindz add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/06/2023 4:11 PM
+BAG:zindz add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/06/2023 4:12 PM
+BAG:zindz add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/06/2023 4:12 PM
+BAG:zindz add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/06/2023 4:12 PM
+BAG:zindz add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/06/2023 4:13 PM
+BAG:zindz add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/06/2023 4:13 PM
+BAG:zindz add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/06/2023 4:13 PM
+BAG:zindz add 42xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 03/06/2023 4:13 PM
+BAG:zindz add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/06/2023 4:13 PM
+BAG:zindz add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/06/2023 4:14 PM
+BAG:zindz add 43xTrứng vịt muối (old: 42) lydo: Nhặt từ map at 03/06/2023 4:15 PM
+BAG:zindz add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/06/2023 4:15 PM
+BAG:zindz add 44xTrứng vịt muối (old: 43) lydo: Nhặt từ map at 03/06/2023 4:15 PM
+BAG:zindz add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/06/2023 4:15 PM
+BAG:zindz add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 03/06/2023 4:16 PM
+BAG:zindz add 39xBột mì (old: 38) lydo: Nhặt từ map at 03/06/2023 4:16 PM
+BAG:zindz add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/06/2023 4:16 PM
+BAG:zindz add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/06/2023 4:16 PM
+BAG:zindz add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 03/06/2023 4:16 PM
+BAG:zindz add 40xBột mì (old: 39) lydo: Nhặt từ map at 03/06/2023 4:16 PM
+BAG:zindz add 90xNgọc Rồng 6 sao (old: 89) lydo: Nhặt từ map at 03/06/2023 4:17 PM
+BAG:zindz add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/06/2023 4:17 PM
+BAG:zindz add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 03/06/2023 4:17 PM
+BAG:zindz add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/06/2023 4:17 PM
+BAG:zindz add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/06/2023 4:18 PM
+BAG:zindz add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/06/2023 4:18 PM
+BAG:zindz add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/06/2023 4:18 PM
+BAG:zindz add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/06/2023 4:18 PM
+BAG:zindz add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/06/2023 4:18 PM
+BAG:zindz add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/06/2023 4:19 PM
+BAG:zindz add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/06/2023 4:19 PM
+BAG:zindz add 46xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 03/06/2023 4:19 PM
+BAG:zindz add 47xTrứng vịt muối (old: 46) lydo: Nhặt từ map at 03/06/2023 4:20 PM
+BAG:zindz add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/06/2023 4:20 PM
+BAG:zindz add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 03/06/2023 4:20 PM
+BAG:zindz add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/06/2023 4:21 PM
+BAG:zindz add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/06/2023 4:21 PM
+BAG:zindz add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/06/2023 4:21 PM
+BAG:zindz add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/06/2023 4:21 PM
+BAG:zindz add 87xNgọc Rồng 5 sao (old: 86) lydo: Nhặt từ map at 03/06/2023 4:21 PM
+BAG:zindz add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/06/2023 4:22 PM
+BAG:zindz add 41xBột mì (old: 40) lydo: Nhặt từ map at 03/06/2023 4:22 PM
+BAG:zindz add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/06/2023 4:23 PM
+BAG:zindz add 42xBột mì (old: 41) lydo: Nhặt từ map at 03/06/2023 4:23 PM
+BAG:zindz add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 03/06/2023 4:24 PM
+BAG:zindz add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/06/2023 4:24 PM
+BAG:zindz add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/06/2023 4:24 PM
+BAG:zindz add 48xTrứng vịt muối (old: 47) lydo: Nhặt từ map at 03/06/2023 4:24 PM
+BAG:zindz add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/06/2023 4:25 PM
+BAG:zindz add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/06/2023 4:25 PM
+BAG:zindz add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/06/2023 4:25 PM
+BAG:zindz add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/06/2023 4:26 PM
+BAG:zindz add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/06/2023 4:26 PM
+BAG:zindz add 43xBột mì (old: 42) lydo: Nhặt từ map at 03/06/2023 4:26 PM
+BAG:zindz add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/06/2023 4:27 PM
+BAG:zindz add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/06/2023 4:27 PM
+BAG:zindz add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/06/2023 4:27 PM
+BAG:zindz add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 03/06/2023 4:27 PM
+BAG:zindz add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/06/2023 4:27 PM
+BAG:zindz add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 03/06/2023 4:28 PM
+BAG:zindz add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/06/2023 4:29 PM
+BAG:zindz add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/06/2023 4:29 PM
+BAG:zindz add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/06/2023 4:29 PM
+BAG:zindz add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/06/2023 4:30 PM
+BAG:zindz add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 03/06/2023 4:31 PM
+BAG:zindz add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 03/06/2023 4:31 PM
+BAG:zindz add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 03/06/2023 4:31 PM
+BAG:zindz add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/06/2023 4:31 PM
+BAG:zindz add 44xBột mì (old: 43) lydo: Nhặt từ map at 03/06/2023 4:32 PM
+BAG:zindz add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/06/2023 4:32 PM
+BAG:zindz add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/06/2023 4:32 PM
+BAG:zindz add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/06/2023 4:32 PM
+BAG:zindz add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/06/2023 4:33 PM
+BAG:zindz add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/06/2023 4:34 PM
+BAG:zindz add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/06/2023 4:34 PM
+BAG:zindz add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 03/06/2023 4:34 PM
+BAG:zindz add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 03/06/2023 4:34 PM
+BAG:zindz add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/06/2023 4:35 PM
+BAG:zindz add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/06/2023 4:35 PM
+BAG:zindz add 88xNgọc Rồng 5 sao (old: 87) lydo: Nhặt từ map at 03/06/2023 4:35 PM
+BAG:zindz add 45xBột mì (old: 44) lydo: Nhặt từ map at 03/06/2023 4:35 PM
+BAG:zindz add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/06/2023 4:35 PM
+BAG:zindz add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/06/2023 4:35 PM
+BAG:zindz add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/06/2023 4:35 PM
+BAG:zindz add 49xTrứng vịt muối (old: 48) lydo: Nhặt từ map at 03/06/2023 4:36 PM
+BAG:zindz add 46xBột mì (old: 45) lydo: Nhặt từ map at 03/06/2023 4:36 PM
+BAG:zindz add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 03/06/2023 4:36 PM
+BAG:zindz add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 03/06/2023 4:36 PM
+BAG:zindz add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/06/2023 4:36 PM
+BAG:zindz add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/06/2023 4:36 PM
+BAG:zindz add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/06/2023 4:37 PM
+BAG:zindz add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 03/06/2023 4:37 PM
+BAG:zindz add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 03/06/2023 4:37 PM
+BAG:zindz add 89xNgọc Rồng 5 sao (old: 88) lydo: Nhặt từ map at 03/06/2023 4:37 PM
+BAG:zindz add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 03/06/2023 4:37 PM
+BAG:zindz add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/06/2023 4:38 PM
+BAG:zindz add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/06/2023 4:38 PM
+BAG:zindz add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/06/2023 4:38 PM
+BAG:zindz add 50xTrứng vịt muối (old: 49) lydo: Nhặt từ map at 03/06/2023 4:38 PM
+BAG:zindz add 47xBột mì (old: 46) lydo: Nhặt từ map at 03/06/2023 4:39 PM
+BAG:zindz add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/06/2023 4:39 PM
+BAG:zindz add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 03/06/2023 4:39 PM
+BAG:zindz add 48xBột mì (old: 47) lydo: Nhặt từ map at 03/06/2023 4:39 PM
+BAG:zindz add 90xNgọc Rồng 5 sao (old: 89) lydo: Nhặt từ map at 03/06/2023 4:39 PM
+BAG:zindz add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/06/2023 4:39 PM
+BAG:zindz add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 03/06/2023 4:40 PM
+BAG:zindz add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 03/06/2023 4:40 PM
+BAG:zindz add 51xTrứng vịt muối (old: 50) lydo: Nhặt từ map at 03/06/2023 4:41 PM
+BAG:zindz add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/06/2023 4:41 PM
+BAG:zindz add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/06/2023 4:42 PM
+BAG:zindz add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 03/06/2023 4:42 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 4:44 PM
+BAG:zindz add 21xNgọc Rồng 3 sao (old: 20) lydo: Nhặt từ map at 03/06/2023 4:45 PM
+BAG:zindz add 9xPháo hoa (old: 8) lydo: Nhặt từ map at 03/06/2023 4:47 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 4:51 PM
+BAG:zindz add 46xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 53xTrứng vịt muối (old: 51) lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 35xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 57xTrứng vịt muối (old: 53) lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 41xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 44xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 4xBánh trung thu thập cẩm lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 61xTrứng vịt muối (old: 57) lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 65xTrứng vịt muối (old: 61) lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 10xPháo hoa (old: 9) lydo: Nhặt từ map at 03/06/2023 4:51 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 4:52 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/06/2023 4:52 PM
+BAG:zindz add 1xGăng da Calic lydo: Lấy từ body đệ vào hành trang at 03/06/2023 4:52 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/06/2023 4:52 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 4:52 PM
+BAG:zindz add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 4:52 PM
+BAG:zindz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 4:52 PM
+BAG:zindz add 11xPháo hoa (old: 10) lydo: Nhặt từ map at 03/06/2023 4:55 PM
+BAG:zindz add 12xNgọc Rồng 4 sao (old: 11) lydo: CSTT at 03/06/2023 4:55 PM
+BAG:zindz add 91xNgọc Rồng 6 sao (old: 90) lydo: CSTT at 03/06/2023 4:55 PM
+BAG:zindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 4:56 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 5:20 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/06/2023 5:20 PM
+BAG:zindz add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/06/2023 5:20 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/06/2023 5:20 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 5:20 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/06/2023 5:20 PM
+BAG:zindz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 5:20 PM
+BAG:zindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 5:26 PM
+BAG:zindz add 1xGăng da Calic lydo: Lấy từ body vào hành trang at 03/06/2023 6:38 PM
+BAG:zindz add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/06/2023 7:02 PM
+BAG:zindz add 2xBánh trung thu thập cẩm (old: 1) lydo: Làm bánh at 03/06/2023 7:02 PM
+BAG:zindz add 3xBánh trung thu thập cẩm (old: 2) lydo: Làm bánh at 03/06/2023 7:02 PM
+BAG:zindz add 4xBánh trung thu thập cẩm (old: 3) lydo: Làm bánh at 03/06/2023 7:02 PM
+BAG:zindz add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 03/06/2023 7:04 PM
+BAG:zindz add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 1xSao pha lê lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 15xNgọc Rồng 7 sao (old: 14) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 16xNgọc Rồng 7 sao (old: 15) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 23xSao pha lê (old: 22) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 92xNgọc Rồng 6 sao (old: 91) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 91xNgọc Rồng 5 sao (old: 90) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 24xSao pha lê (old: 23) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 93xNgọc Rồng 6 sao (old: 92) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 92xNgọc Rồng 5 sao (old: 91) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 93xNgọc Rồng 5 sao (old: 92) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 13xNgọc Rồng 4 sao (old: 12) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 17xNgọc Rồng 7 sao (old: 16) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 94xNgọc Rồng 5 sao (old: 93) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 25xSao pha lê (old: 24) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 14xNgọc Rồng 4 sao (old: 13) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 18xNgọc Rồng 7 sao (old: 17) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 94xNgọc Rồng 6 sao (old: 93) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 19xNgọc Rồng 7 sao (old: 18) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/06/2023 7:06 PM
+BAG:zindz add 15xNgọc Rồng 4 sao (old: 14) lydo: CSTT at 03/06/2023 7:07 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 7:10 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 7:10 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 7:10 PM
+BAG:zindz add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/06/2023 7:13 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/06/2023 7:18 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/06/2023 7:26 PM
+BAG:zindz add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 03/06/2023 7:27 PM
+BAG:zindz add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 03/06/2023 7:27 PM
+BAG:zindz add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/06/2023 7:28 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 7:28 PM
+BAG:zindz add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/06/2023 7:31 PM
+BAG:zindz add 67xĐá Titan (old: 66) lydo: Nhặt từ map at 03/06/2023 7:31 PM
+BAG:zindz add 1xMảnh Khủng long lydo: Nhặt từ map at 03/06/2023 7:31 PM
+BAG:zindz add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/06/2023 7:31 PM
+BAG:zindz add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/06/2023 7:31 PM
+BAG:zindz add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/06/2023 7:31 PM
+BAG:zindz add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/06/2023 7:31 PM
+BAG:zindz add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/06/2023 7:31 PM
+BAG:zindz add 1xGiầy nhựa lydo: Nhặt từ map at 03/06/2023 7:32 PM
+BAG:zindz add 68xĐá Titan (old: 67) lydo: Nhặt từ map at 03/06/2023 7:32 PM
+BAG:zindz add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 03/06/2023 7:32 PM
+BAG:zindz add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/06/2023 7:32 PM
+BAG:zindz add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/06/2023 7:32 PM
+BAG:zindz add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/06/2023 7:32 PM
+BAG:zindz add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/06/2023 7:32 PM
+BAG:zindz add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/06/2023 7:33 PM
+BAG:zindz add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/06/2023 7:33 PM
+BAG:zindz add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 03/06/2023 7:33 PM
+BAG:zindz add 95xNgọc Rồng 5 sao (old: 94) lydo: Nhặt từ map at 03/06/2023 7:35 PM
+BAG:zindz add 1xQuần vải đen lydo: Nhặt từ map at 03/06/2023 7:35 PM
+BAG:zindz add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/06/2023 7:35 PM
+BAG:zindz add 1xRada cấp 1 lydo: Nhặt từ map at 03/06/2023 7:35 PM
+BAG:zindz add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/06/2023 7:35 PM
+BAG:zindz add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/06/2023 7:36 PM
+BAG:zindz add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/06/2023 7:36 PM
+BAG:zindz add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/06/2023 7:36 PM
+BAG:zindz add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/06/2023 7:36 PM
+BAG:zindz add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/06/2023 7:37 PM
+BAG:zindz add 69xĐá Titan (old: 68) lydo: Nhặt từ map at 03/06/2023 7:37 PM
+BAG:zindz add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/06/2023 7:37 PM
+BAG:zindz add 70xĐá Titan (old: 69) lydo: Nhặt từ map at 03/06/2023 7:37 PM
+BAG:zindz add 1xMảnh Khủng long lydo: Nhặt từ map at 03/06/2023 7:37 PM
+BAG:zindz add 71xĐá Titan (old: 70) lydo: Nhặt từ map at 03/06/2023 7:37 PM
+BAG:zindz add 1xRada cấp 1 lydo: Nhặt từ map at 03/06/2023 7:38 PM
+BAG:zindz add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 03/06/2023 7:38 PM
+BAG:zindz add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/06/2023 7:39 PM
+BAG:zindz add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/06/2023 7:39 PM
+BAG:zindz add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/06/2023 7:39 PM
+BAG:zindz add 63xĐá Saphia (old: 62) lydo: Nhặt từ map at 03/06/2023 7:39 PM
+BAG:zindz add 1xRada cấp 1 lydo: Nhặt từ map at 03/06/2023 7:39 PM
+BAG:zindz add 64xĐá Saphia (old: 63) lydo: Nhặt từ map at 03/06/2023 7:39 PM
+BAG:zindz add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/06/2023 7:39 PM
+BAG:zindz add 96xNgọc Rồng 5 sao (old: 95) lydo: Nhặt từ map at 03/06/2023 7:40 PM
+BAG:zindz add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/06/2023 7:40 PM
+BAG:zindz add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/06/2023 7:40 PM
+BAG:zindz add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/06/2023 7:40 PM
+BAG:zindz add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/06/2023 7:40 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/06/2023 7:41 PM
+BAG:zindz add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/06/2023 7:41 PM
+BAG:zindz add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 03/06/2023 7:41 PM
+BAG:zindz add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/06/2023 7:41 PM
+BAG:zindz add 1xGăng vải đen lydo: Nhặt từ map at 03/06/2023 7:41 PM
+BAG:zindz add 65xĐá Saphia (old: 64) lydo: Nhặt từ map at 03/06/2023 7:41 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/06/2023 7:42 PM
+BAG:zindz add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 03/06/2023 7:42 PM
+BAG:zindz add 66xĐá Saphia (old: 65) lydo: Nhặt từ map at 03/06/2023 7:42 PM
+BAG:zindz add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/06/2023 7:42 PM
+BAG:zindz add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/06/2023 7:43 PM
+BAG:zindz add 1xMảnh Khủng long lydo: Nhặt từ map at 03/06/2023 7:43 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/06/2023 7:43 PM
+BAG:zindz add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/06/2023 7:43 PM
+BAG:zindz add 72xĐá Titan (old: 71) lydo: Nhặt từ map at 03/06/2023 7:43 PM
+BAG:zindz add 1xGiầy nhựa lydo: Nhặt từ map at 03/06/2023 7:44 PM
+BAG:zindz add 1xGăng vải đen lydo: Nhặt từ map at 03/06/2023 7:44 PM
+BAG:zindz add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/06/2023 7:44 PM
+BAG:zindz add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/06/2023 7:44 PM
+BAG:zindz add 73xĐá Titan (old: 72) lydo: Nhặt từ map at 03/06/2023 7:44 PM
+BAG:zindz add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 03/06/2023 7:45 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/06/2023 7:45 PM
+BAG:zindz add 67xĐá Saphia (old: 66) lydo: Nhặt từ map at 03/06/2023 7:45 PM
+BAG:zindz add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/06/2023 7:45 PM
+BAG:zindz add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 03/06/2023 7:45 PM
+BAG:zindz add 74xĐá Titan (old: 73) lydo: Nhặt từ map at 03/06/2023 7:45 PM
+BAG:zindz add 1xGiầy nhựa lydo: Nhặt từ map at 03/06/2023 7:45 PM
+BAG:zindz add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/06/2023 7:46 PM
+BAG:zindz add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 03/06/2023 7:46 PM
+BAG:zindz add 75xĐá Titan (old: 74) lydo: Nhặt từ map at 03/06/2023 7:47 PM
+BAG:zindz add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/06/2023 7:47 PM
+BAG:zindz add 68xĐá Saphia (old: 67) lydo: Nhặt từ map at 03/06/2023 7:47 PM
+BAG:zindz add 69xĐá Saphia (old: 68) lydo: Nhặt từ map at 03/06/2023 7:47 PM
+BAG:zindz add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/06/2023 7:47 PM
+BAG:zindz add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/06/2023 7:47 PM
+BAG:zindz add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 03/06/2023 7:47 PM
+BAG:zindz add 76xĐá Titan (old: 75) lydo: Nhặt từ map at 03/06/2023 7:47 PM
+BAG:zindz add 70xĐá Saphia (old: 69) lydo: Nhặt từ map at 03/06/2023 7:48 PM
+BAG:zindz add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/06/2023 7:48 PM
+BAG:zindz add 77xĐá Titan (old: 76) lydo: Nhặt từ map at 03/06/2023 7:49 PM
+BAG:zindz add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/06/2023 7:49 PM
+BAG:zindz add 78xĐá Titan (old: 77) lydo: Nhặt từ map at 03/06/2023 7:49 PM
+BAG:zindz add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 03/06/2023 7:50 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/06/2023 7:50 PM
+BAG:zindz add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/06/2023 7:50 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/06/2023 7:50 PM
+BAG:zindz add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/06/2023 7:50 PM
+BAG:zindz add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 03/06/2023 7:50 PM
+BAG:zindz add 1xQuần vải đen lydo: Nhặt từ map at 03/06/2023 7:51 PM
+BAG:zindz add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/06/2023 7:51 PM
+BAG:zindz add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/06/2023 7:51 PM
+BAG:zindz add 79xĐá Titan (old: 78) lydo: Nhặt từ map at 03/06/2023 7:51 PM
+BAG:zindz add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 03/06/2023 7:51 PM
+BAG:zindz add 71xĐá Saphia (old: 70) lydo: Nhặt từ map at 03/06/2023 7:51 PM
+BAG:zindz add 1xGăng vải đen lydo: Nhặt từ map at 03/06/2023 7:52 PM
+BAG:zindz add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 03/06/2023 7:52 PM
+BAG:zindz add 95xNgọc Rồng 6 sao (old: 94) lydo: Nhặt từ map at 03/06/2023 7:52 PM
+BAG:zindz add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/06/2023 7:52 PM
+BAG:zindz add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/06/2023 7:52 PM
+BAG:zindz add 70xĐá lục bảo (old: 69) lydo: Nhặt từ map at 03/06/2023 7:52 PM
+BAG:zindz add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/06/2023 7:52 PM
+BAG:zindz add 71xĐá lục bảo (old: 70) lydo: Nhặt từ map at 03/06/2023 7:53 PM
+BAG:zindz add 72xĐá Saphia (old: 71) lydo: Nhặt từ map at 03/06/2023 7:53 PM
+BAG:zindz add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/06/2023 7:53 PM
+BAG:zindz add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/06/2023 7:53 PM
+BAG:zindz add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/06/2023 7:53 PM
+BAG:zindz add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/06/2023 7:53 PM
+BAG:zindz add 73xĐá Saphia (old: 72) lydo: Nhặt từ map at 03/06/2023 7:53 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/06/2023 7:53 PM
+BAG:zindz add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/06/2023 7:54 PM
+BAG:zindz add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/06/2023 7:54 PM
+BAG:zindz add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 03/06/2023 7:54 PM
+BAG:zindz add 80xĐá Titan (old: 79) lydo: Nhặt từ map at 03/06/2023 7:54 PM
+BAG:zindz add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 03/06/2023 7:54 PM
+BAG:zindz add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/06/2023 7:55 PM
+BAG:zindz add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/06/2023 7:55 PM
+BAG:zindz add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/06/2023 7:55 PM
+BAG:zindz add 81xĐá Titan (old: 80) lydo: Nhặt từ map at 03/06/2023 7:55 PM
+BAG:zindz add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/06/2023 7:56 PM
+BAG:zindz add 74xĐá Saphia (old: 73) lydo: Nhặt từ map at 03/06/2023 7:56 PM
+BAG:zindz add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/06/2023 7:56 PM
+BAG:zindz add 82xĐá Titan (old: 81) lydo: Nhặt từ map at 03/06/2023 7:56 PM
+BAG:zindz add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 03/06/2023 7:56 PM
+BAG:zindz add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 03/06/2023 7:56 PM
+BAG:zindz add 96xNgọc Rồng 6 sao (old: 95) lydo: Nhặt từ map at 03/06/2023 7:57 PM
+BAG:zindz add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/06/2023 7:57 PM
+BAG:zindz add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/06/2023 7:57 PM
+BAG:zindz add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/06/2023 7:57 PM
+BAG:zindz add 75xĐá Saphia (old: 74) lydo: Nhặt từ map at 03/06/2023 7:57 PM
+BAG:zindz add 76xĐá Saphia (old: 75) lydo: Nhặt từ map at 03/06/2023 7:57 PM
+BAG:zindz add 1xRada cấp 1 lydo: Nhặt từ map at 03/06/2023 7:58 PM
+BAG:zindz add 1xGăng vải đen lydo: Nhặt từ map at 03/06/2023 7:58 PM
+BAG:zindz add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/06/2023 7:58 PM
+BAG:zindz add 1xMảnh Khủng long lydo: Nhặt từ map at 03/06/2023 7:59 PM
+BAG:zindz add 83xĐá Titan (old: 82) lydo: Nhặt từ map at 03/06/2023 7:59 PM
+BAG:zindz add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/06/2023 7:59 PM
+BAG:zindz add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/06/2023 7:59 PM
+BAG:zindz add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/06/2023 7:59 PM
+BAG:zindz add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/06/2023 7:59 PM
+BAG:zindz add 72xĐá lục bảo (old: 71) lydo: Nhặt từ map at 03/06/2023 7:59 PM
+BAG:zindz add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/06/2023 8:00 PM
+BAG:zindz add 84xĐá Titan (old: 83) lydo: Nhặt từ map at 03/06/2023 8:00 PM
+BAG:zindz add 85xĐá Titan (old: 84) lydo: Nhặt từ map at 03/06/2023 8:00 PM
+BAG:zindz add 70xĐá Ruby (old: 69) lydo: Nhặt từ map at 03/06/2023 8:00 PM
+BAG:zindz add 73xĐá lục bảo (old: 72) lydo: Nhặt từ map at 03/06/2023 8:00 PM
+BAG:zindz add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/06/2023 8:00 PM
+BAG:zindz add 77xĐá Saphia (old: 76) lydo: Nhặt từ map at 03/06/2023 8:00 PM
+BAG:zindz add 97xNgọc Rồng 5 sao (old: 96) lydo: Nhặt từ map at 03/06/2023 8:00 PM
+BAG:zindz add 1xGiầy nhựa lydo: Nhặt từ map at 03/06/2023 8:01 PM
+BAG:zindz add 71xĐá Ruby (old: 70) lydo: Nhặt từ map at 03/06/2023 8:01 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 8:01 PM
+BAG:zindz add 86xĐá Titan (old: 85) lydo: Nhặt từ map at 03/06/2023 8:01 PM
+BAG:zindz add 22xNgọc Rồng 3 sao (old: 21) lydo: Nhặt từ map at 03/06/2023 8:01 PM
+BAG:zindz add 72xĐá Ruby (old: 71) lydo: Nhặt từ map at 03/06/2023 8:02 PM
+BAG:zindz add 73xĐá Ruby (old: 72) lydo: Nhặt từ map at 03/06/2023 8:02 PM
+BAG:zindz add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/06/2023 8:02 PM
+BAG:zindz add 74xĐá Ruby (old: 73) lydo: Nhặt từ map at 03/06/2023 8:02 PM
+BAG:zindz add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/06/2023 8:03 PM
+BAG:zindz add 74xĐá lục bảo (old: 73) lydo: Nhặt từ map at 03/06/2023 8:03 PM
+BAG:zindz add 1xGăng vải đen lydo: Nhặt từ map at 03/06/2023 8:03 PM
+BAG:zindz add 87xĐá Titan (old: 86) lydo: Nhặt từ map at 03/06/2023 8:03 PM
+BAG:zindz add 75xĐá lục bảo (old: 74) lydo: Nhặt từ map at 03/06/2023 8:03 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/06/2023 8:04 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/06/2023 8:04 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/06/2023 8:04 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:05 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:05 PM
+BAG:zindz add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:05 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:05 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:05 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:05 PM
+BAG:zindz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:05 PM
+BAG:zindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 8:06 PM
+BAG:zindz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 8:06 PM
+BAG:zindz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 8:06 PM
+BAG:zindz add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 8:06 PM
+BAG:zindz add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 8:06 PM
+BAG:zindz add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 8:07 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 8:29 PM
+BAG:zindz add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 11xCủ cà rốt (old: 7) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 15xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 20xBột mì (old: 17) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 12xCủ cà rốt (old: 11) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 17xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 45xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 12xPháo hoa (old: 11) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 48xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 21xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 49xTrứng vịt muối (old: 48) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 23xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/06/2023 8:31 PM
+BAG:zindz add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/06/2023 8:32 PM
+BAG:zindz add 26xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/06/2023 8:32 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:32 PM
+BAG:zindz add 13xPháo hoa (old: 12) lydo: Nhặt từ map at 03/06/2023 8:35 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:36 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:36 PM
+BAG:zindz add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:36 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:36 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:36 PM
+BAG:zindz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:36 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:38 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:38 PM
+BAG:zindz add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:38 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:38 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:38 PM
+BAG:zindz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:39 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/06/2023 8:39 PM
+BAG:zindz add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 8:40 PM
+BAG:zindz add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 8:40 PM
+BAG:zindz add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 8:40 PM
+BAG:zindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 8:40 PM
+BAG:zindz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 8:40 PM
+BAG:zindz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 8:40 PM
+BAG:zindz add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 8:40 PM
+BAG:zindz add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 8:40 PM
+BAG:zindz add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 8:40 PM
+BAG:zindz add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 8:41 PM
+BAG:zindz add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 8:41 PM
+BAG:zindz add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 8:41 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 9:07 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:08 PM
+BAG:zindz add 98xNgọc Rồng 5 sao (old: 97) lydo: Nhặt từ map at 03/06/2023 9:08 PM
+BAG:zindz add 88xĐá Titan (old: 87) lydo: Nhặt từ map at 03/06/2023 9:08 PM
+BAG:zindz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:08 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:08 PM
+BAG:zindz add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:08 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:08 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:08 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:08 PM
+BAG:zindz add 75xĐá Ruby (old: 74) lydo: Nhặt từ map at 03/06/2023 9:09 PM
+BAG:zindz add 14xPháo hoa (old: 13) lydo: Nhặt từ map at 03/06/2023 9:09 PM
+BAG:zindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 9:10 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/06/2023 9:16 PM
+BAG:zindz add 1xGăng võ goku lydo: Lấy từ body vào hành trang at 03/06/2023 9:16 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:33 PM
+BAG:zindz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:33 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:33 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:33 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:33 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:33 PM
+BAG:zindz add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:33 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 9:34 PM
+BAG:zindz add 15xPháo hoa (old: 14) lydo: Nhặt từ map at 03/06/2023 9:36 PM
+BAG:zindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 9:38 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/06/2023 9:46 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 9:50 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 9:51 PM
+BAG:zindz add 16xPháo hoa (old: 15) lydo: Nhặt từ map at 03/06/2023 9:52 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/06/2023 9:52 PM
+BAG:zindz add 97xNgọc Rồng 6 sao (old: 96) lydo: Nhặt từ map at 03/06/2023 9:54 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:09 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:09 PM
+BAG:zindz add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:09 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:09 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:09 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:09 PM
+BAG:zindz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:09 PM
+BAG:zindz add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/06/2023 10:10 PM
+BAG:zindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 10:11 PM
+BAG:zindz add 99xNgọc Rồng 5 sao (old: 98) lydo: Nhặt từ map at 03/06/2023 10:34 PM
+BAG:zindz add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/06/2023 10:36 PM
+BAG:zindz add 89xĐá Titan (old: 88) lydo: Nhặt từ map at 03/06/2023 10:36 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:36 PM
+BAG:zindz add 76xĐá lục bảo (old: 75) lydo: Nhặt từ map at 03/06/2023 10:36 PM
+BAG:zindz add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/06/2023 10:36 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 10:37 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:40 PM
+BAG:zindz add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:40 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:40 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:40 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:40 PM
+BAG:zindz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:40 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:40 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:42 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:42 PM
+BAG:zindz add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:42 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:42 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:42 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:42 PM
+BAG:zindz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 10:42 PM
+BAG:zindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 7xNâng cấp kỹ năng 2 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 8xNâng cấp kỹ năng 2 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 9xNâng cấp kỹ năng 2 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 10xNâng cấp kỹ năng 2 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 11xNâng cấp kỹ năng 2 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 12xNâng cấp kỹ năng 2 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/06/2023 10:43 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/06/2023 10:48 PM
+BAG:zindz add 99xĐậu thần cấp 10 lydo: Admin at 03/06/2023 11:02 PM
+BAG:zindz add 98xGiầy Thần Namếc lydo: Admin at 03/06/2023 11:03 PM
+BAG:zindz add 1xGăng võ goku lydo: Lấy từ body vào hành trang at 03/06/2023 11:07 PM
+BAG:zindz add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:21 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:21 PM
+BAG:zindz add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:21 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:21 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:22 PM
+BAG:zindz add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:22 PM
+BAG:zindz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:22 PM
+BAG:zindz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/06/2023 11:22 PM
+BAG:zindz add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/06/2023 11:23 PM
+BAG:zindz add 77xĐá lục bảo (old: 76) lydo: Nhặt từ map at 03/06/2023 11:23 PM
+BAG:zindz add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/06/2023 11:24 PM
+BAG:zindz add 90xĐá Titan (old: 89) lydo: Nhặt từ map at 03/06/2023 11:24 PM
+BAG:zindz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 11:25 PM
+BAG:zindz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 11:25 PM
+BAG:zindz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 11:25 PM
+BAG:zindz add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 11:25 PM
+BAG:zindz add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 11:25 PM
+BAG:zindz add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 11:25 PM
+BAG:zindz add 7xNâng cấp kỹ năng 2 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/06/2023 11:25 PM
+BAG:zindz add 8xNâng cấp kỹ năng 2 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/06/2023 11:25 PM
+BAG:zindz add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/06/2023 11:25 PM
+BAG:zindz add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/06/2023 11:45 PM
+BAG:zindz add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/06/2023 11:45 PM
+BAG:zindz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/06/2023 11:45 PM

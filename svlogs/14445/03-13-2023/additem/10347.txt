@@ -1,0 +1,48 @@
+BAG:nroskill add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/13/2023 2:48 PM
+BAG:nroskill add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 2:48 PM
+BAG:nroskill add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 2:48 PM
+BAG:nroskill add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 2:48 PM
+BAG:nroskill add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 2:48 PM
+BAG:nroskill add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 2:48 PM
+BAG:nroskill add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/13/2023 2:48 PM
+BAG:nroskill add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/13/2023 2:48 PM
+BAG:nroskill add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/13/2023 2:49 PM
+BAG:nroskill add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/13/2023 2:49 PM
+BAG:nroskill add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/13/2023 2:49 PM
+BAG:nroskill add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/13/2023 2:49 PM
+BAG:nroskill add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/13/2023 2:49 PM
+BAG:nroskill add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/13/2023 2:49 PM
+BAG:nroskill add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/13/2023 2:51 PM
+BAG:nroskill add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 2:51 PM
+BAG:nroskill add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 2:51 PM
+BAG:nroskill add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 2:51 PM
+BAG:nroskill add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 2:52 PM
+BAG:nroskill add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/13/2023 2:52 PM
+BAG:nroskill add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/13/2023 2:52 PM
+BAG:nroskill add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/13/2023 2:52 PM
+BAG:nroskill add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/13/2023 2:52 PM
+BAG:nroskill add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/13/2023 2:52 PM
+BAG:nroskill add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/13/2023 2:54 PM
+BAG:nroskill add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/13/2023 2:54 PM
+BAG:nroskill add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 2:55 PM
+BAG:nroskill add 1xCải trang Chill cấp 2 lydo: Lấy từ rương qua người at 03/13/2023 2:55 PM
+BAG:nroskill add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/13/2023 2:55 PM
+BAG:nroskill add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/13/2023 2:56 PM
+BAG:nroskill add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/13/2023 2:56 PM
+BAG:nroskill add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/13/2023 3:02 PM
+BAG:nroskill add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/13/2023 3:02 PM
+BAG:nroskill add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 3:02 PM
+BAG:nroskill add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/13/2023 3:02 PM
+BAG:nroskill add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/13/2023 3:02 PM
+BAG:nroskill add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/13/2023 3:03 PM
+BAG:nroskill add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 3:17 PM
+BAG:nroskill add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/13/2023 3:17 PM
+BAG:nroskill add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/13/2023 3:18 PM
+BAG:nroskill add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/13/2023 3:18 PM
+BAG:nroskill add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/13/2023 3:18 PM
+BAG:nroskill add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 3:18 PM
+BAG:nroskill add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/13/2023 3:18 PM
+BAG:nroskill add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/13/2023 3:18 PM
+BAG:nroskill add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/13/2023 3:19 PM
+BAG:nroskill add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/13/2023 4:37 PM
+BAG:nroskill add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/13/2023 4:37 PM

@@ -1,0 +1,89 @@
+BAG:vjtcon add 1xRada cấp 1 lydo: Lấy từ rương qua người at 04/07/2023 8:01 AM
+BAG:vjtcon add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 04/07/2023 8:03 AM
+BAG:vjtcon add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 04/07/2023 8:03 AM
+BAG:vjtcon add 1xĐá lục bảo lydo: Nhặt từ map at 04/07/2023 8:09 AM
+BAG:vjtcon add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 04/07/2023 8:10 AM
+BAG:vjtcon add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 04/07/2023 8:10 AM
+BAG:vjtcon add 10xĐậu thần cấp 10 (old: 6) lydo: Thu hoạch đậu at 04/07/2023 8:10 AM
+BAG:vjtcon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 04/07/2023 8:11 AM
+BAG:vjtcon add 1xMảnh Lợn lòi lydo: Nhặt từ map at 04/07/2023 8:11 AM
+BAG:vjtcon add 1xĐá Saphia lydo: Nhặt từ map at 04/07/2023 8:12 AM
+BAG:vjtcon add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 04/07/2023 8:12 AM
+BAG:vjtcon add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 04/07/2023 8:13 AM
+BAG:vjtcon add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 04/07/2023 8:13 AM
+BAG:vjtcon add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 04/07/2023 8:13 AM
+BAG:vjtcon add 1xĐá Titan lydo: Nhặt từ map at 04/07/2023 8:13 AM
+BAG:vjtcon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 04/07/2023 8:14 AM
+BAG:vjtcon add 1xĐá thạch anh tím lydo: Nhặt từ map at 04/07/2023 8:22 AM
+BAG:vjtcon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 04/07/2023 8:22 AM
+BAG:vjtcon add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 04/07/2023 8:23 AM
+BAG:vjtcon add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 04/07/2023 8:32 AM
+BAG:vjtcon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 04/07/2023 8:40 AM
+BAG:vjtcon add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 04/07/2023 8:41 AM
+BAG:vjtcon add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 04/07/2023 8:42 AM
+BAG:vjtcon add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 04/07/2023 8:42 AM
+BAG:vjtcon add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 04/07/2023 8:42 AM
+BAG:vjtcon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 04/07/2023 8:42 AM
+BAG:vjtcon add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 04/07/2023 8:43 AM
+BAG:vjtcon add 1xĐá Ruby lydo: Nhặt từ map at 04/07/2023 8:43 AM
+BAG:vjtcon add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 04/07/2023 8:44 AM
+BAG:vjtcon add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 04/07/2023 8:44 AM
+BAG:vjtcon add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 04/07/2023 8:44 AM
+BAG:vjtcon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 04/07/2023 8:44 AM
+BAG:vjtcon add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 04/07/2023 8:45 AM
+BAG:vjtcon add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 04/07/2023 8:45 AM
+BAG:vjtcon add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 04/07/2023 8:46 AM
+BAG:vjtcon add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 04/07/2023 8:47 AM
+BAG:vjtcon add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 04/07/2023 8:47 AM
+BAG:vjtcon add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 04/07/2023 8:47 AM
+BAG:vjtcon add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 04/07/2023 8:47 AM
+BAG:vjtcon add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 04/07/2023 8:47 AM
+BAG:vjtcon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 04/07/2023 8:47 AM
+BAG:vjtcon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 04/07/2023 8:48 AM
+BAG:vjtcon add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 04/07/2023 8:49 AM
+BAG:vjtcon add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 04/07/2023 8:49 AM
+BAG:vjtcon add 12xMảnh Lợn lòi (old: 11) lydo: Nhặt từ map at 04/07/2023 8:49 AM
+BAG:vjtcon add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 04/07/2023 8:50 AM
+BAG:vjtcon add 13xMảnh Lợn lòi (old: 12) lydo: Nhặt từ map at 04/07/2023 8:50 AM
+BAG:vjtcon add 14xMảnh Lợn lòi (old: 13) lydo: Nhặt từ map at 04/07/2023 8:51 AM
+BAG:vjtcon add 15xMảnh Lợn lòi (old: 14) lydo: Nhặt từ map at 04/07/2023 8:51 AM
+BAG:vjtcon add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 04/07/2023 8:51 AM
+BAG:vjtcon add 16xMảnh Lợn lòi (old: 15) lydo: Nhặt từ map at 04/07/2023 8:51 AM
+BAG:vjtcon add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 04/07/2023 8:52 AM
+BAG:vjtcon add 17xMảnh Lợn lòi (old: 16) lydo: Nhặt từ map at 04/07/2023 8:52 AM
+BAG:vjtcon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 04/07/2023 8:52 AM
+BAG:vjtcon add 7xMảnh Lợn lòi mẹ (old: 6) lydo: Nhặt từ map at 04/07/2023 8:52 AM
+BAG:vjtcon add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 04/07/2023 8:53 AM
+BAG:vjtcon add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 04/07/2023 8:53 AM
+BAG:vjtcon add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 04/07/2023 8:54 AM
+BAG:vjtcon add 18xMảnh Lợn lòi (old: 17) lydo: Nhặt từ map at 04/07/2023 8:55 AM
+BAG:vjtcon add 8xMảnh Lợn lòi mẹ (old: 7) lydo: Nhặt từ map at 04/07/2023 8:55 AM
+BAG:vjtcon add 19xMảnh Lợn lòi (old: 18) lydo: Nhặt từ map at 04/07/2023 8:55 AM
+BAG:vjtcon add 20xMảnh Lợn lòi (old: 19) lydo: Nhặt từ map at 04/07/2023 8:55 AM
+BAG:vjtcon add 21xMảnh Lợn lòi (old: 20) lydo: Nhặt từ map at 04/07/2023 8:55 AM
+BAG:vjtcon add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 04/07/2023 8:56 AM
+BAG:vjtcon add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 04/07/2023 8:56 AM
+BAG:vjtcon add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 04/07/2023 8:56 AM
+BAG:vjtcon add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 04/07/2023 9:00 AM
+BAG:vjtcon add 1xMảnh Khủng long lydo: Nhặt từ map at 04/07/2023 9:01 AM
+BAG:vjtcon add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 04/07/2023 9:01 AM
+BAG:vjtcon add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 04/07/2023 9:02 AM
+BAG:vjtcon add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 04/07/2023 9:02 AM
+BAG:vjtcon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 04/07/2023 9:03 AM
+BAG:vjtcon add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 04/07/2023 9:03 AM
+BAG:vjtcon add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 04/07/2023 9:04 AM
+BAG:vjtcon add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 04/07/2023 9:04 AM
+BAG:vjtcon add 1xMảnh Phi long lydo: Nhặt từ map at 04/07/2023 9:04 AM
+BAG:vjtcon add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 04/07/2023 9:45 AM
+BAG:vjtcon add 1xGăng thun Pico lydo: Mua từ cửa hàng at 04/07/2023 9:45 AM
+BAG:vjtcon add 1xGăng len cứng lydo: Mua từ cửa hàng at 04/07/2023 9:45 AM
+BAG:vjtcon add 1xCột nhà lydo: Mua từ cửa hàng at 04/07/2023 9:47 AM
+BAG:vjtcon add 1xBông tai Porata lydo: Mua từ cửa hàng at 04/07/2023 9:47 AM
+BAG:vjtcon add 1xMảnh Quỷ bay lydo: Nhặt từ map at 04/07/2023 9:54 AM
+BAG:vjtcon add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 04/07/2023 9:56 AM
+BAG:vjtcon add 1xMảnh Quỷ bay lydo: Nhặt từ map at 04/07/2023 9:58 AM
+BAG:vjtcon add 50xNgọc Rồng 3 sao lydo: Giftcode at 04/07/2023 10:04 AM
+BAG:vjtcon add 50xSao pha lê lydo: Giftcode at 04/07/2023 10:04 AM
+BAG:vjtcon add 50xSao pha lê lydo: Giftcode at 04/07/2023 10:04 AM
+BAG:vjtcon add 99xCuồng nộ lydo: Giftcode at 04/07/2023 10:04 AM
+BAG:vjtcon add 4953xMảnh vỡ bông tai lydo: Giftcode at 04/07/2023 10:04 AM

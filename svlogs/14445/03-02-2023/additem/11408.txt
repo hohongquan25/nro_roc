@@ -1,0 +1,311 @@
+BAG:junkim add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/02/2023 3:22 PM
+BAG:junkim add 4xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 03/02/2023 3:25 PM
+BAG:junkim add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 03/02/2023 3:26 PM
+BAG:junkim add 10xĐậu thần cấp 1 (old: 9) lydo: Thu hoạch đậu at 03/02/2023 3:26 PM
+BAG:junkim add 1xBột mì lydo: Nhặt từ map at 03/02/2023 3:26 PM
+BAG:junkim add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 3:27 PM
+BAG:junkim add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 3:29 PM
+BAG:junkim add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 3:30 PM
+BAG:junkim add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 3:33 PM
+BAG:junkim add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 3:33 PM
+BAG:junkim add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 3:33 PM
+BAG:junkim add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 3:33 PM
+BAG:junkim add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 3:33 PM
+BAG:junkim add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 3:34 PM
+BAG:junkim add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/02/2023 3:34 PM
+BAG:junkim add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 3:35 PM
+BAG:junkim add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 3:36 PM
+BAG:junkim add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 3:37 PM
+BAG:junkim add 1000000xThỏi vàng lydo: Giftcode at 03/02/2023 3:37 PM
+BAG:junkim add 10000xĐá ngũ sắc lydo: Giftcode at 03/02/2023 3:37 PM
+BAG:junkim add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 03/02/2023 3:37 PM
+BAG:junkim add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/02/2023 3:38 PM
+BAG:junkim add 1xCải Trang Thần Zeno Xayda lydo: Mua từ bill at 03/02/2023 3:38 PM
+BAG:junkim add 1000020xThỏi vàng (old: 1000000) lydo: Đổi vàng at 03/02/2023 3:39 PM
+BAG:junkim add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 3:39 PM
+BAG:junkim add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 3:39 PM
+BAG:junkim add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/02/2023 3:50 PM
+BAG:junkim add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/02/2023 3:50 PM
+BAG:junkim add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 3:51 PM
+BAG:junkim add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 3:51 PM
+BAG:junkim add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 3:51 PM
+BAG:junkim add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 3:53 PM
+BAG:junkim add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 3:54 PM
+BAG:junkim add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 3:55 PM
+BAG:junkim add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/02/2023 3:55 PM
+BAG:junkim add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 3:55 PM
+BAG:junkim add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 3:55 PM
+BAG:junkim add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 3:55 PM
+BAG:junkim add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/02/2023 3:56 PM
+BAG:junkim add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/02/2023 3:56 PM
+BAG:junkim add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 3:56 PM
+BAG:junkim add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/02/2023 3:57 PM
+BAG:junkim add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/02/2023 3:57 PM
+BAG:junkim add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 3:58 PM
+BAG:junkim add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 3:58 PM
+BAG:junkim add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 3:58 PM
+BAG:junkim add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/02/2023 3:58 PM
+BAG:junkim add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 3:58 PM
+BAG:junkim add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 3:59 PM
+BAG:junkim add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 4:00 PM
+BAG:junkim add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 4:00 PM
+BAG:junkim add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 4:00 PM
+BAG:junkim add 1xBột mì lydo: Nhặt từ map at 03/02/2023 4:00 PM
+BAG:junkim add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 4:00 PM
+BAG:junkim add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 4:00 PM
+BAG:junkim add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 4:01 PM
+BAG:junkim add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 4:01 PM
+BAG:junkim add 1xBột mì lydo: Nhặt từ map at 03/02/2023 4:01 PM
+BAG:junkim add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 4:02 PM
+BAG:junkim add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 4:02 PM
+BAG:junkim add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 4:03 PM
+BAG:junkim add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 4:03 PM
+BAG:junkim add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 4:04 PM
+BAG:junkim add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 4:04 PM
+BAG:junkim add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 4:04 PM
+BAG:junkim add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 4:04 PM
+BAG:junkim add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 4:04 PM
+BAG:junkim add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 4:05 PM
+BAG:junkim add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 4:05 PM
+BAG:junkim add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 4:05 PM
+BAG:junkim add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 4:05 PM
+BAG:junkim add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 4:05 PM
+BAG:junkim add 1xCải trang lydo: Mua từ bill at 03/02/2023 7:39 PM
+BAG:junkim add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 7:43 PM
+BAG:junkim add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 7:43 PM
+BAG:junkim add 1xĐá Saphia lydo: Nhặt từ map at 03/02/2023 7:44 PM
+BAG:junkim add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 7:44 PM
+BAG:junkim add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 7:44 PM
+BAG:junkim add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/02/2023 7:45 PM
+BAG:junkim add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/02/2023 7:45 PM
+BAG:junkim add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 7:45 PM
+BAG:junkim add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 7:45 PM
+BAG:junkim add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 7:45 PM
+BAG:junkim add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 7:45 PM
+BAG:junkim add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 7:45 PM
+BAG:junkim add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 7:45 PM
+BAG:junkim add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 7:45 PM
+BAG:junkim add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/02/2023 7:46 PM
+BAG:junkim add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 7:46 PM
+BAG:junkim add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 7:46 PM
+BAG:junkim add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/02/2023 7:46 PM
+BAG:junkim add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/02/2023 7:48 PM
+BAG:junkim add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 7:48 PM
+BAG:junkim add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 7:48 PM
+BAG:junkim add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:junkim add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:junkim add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:junkim add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:junkim add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:junkim add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:junkim add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:junkim add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:junkim add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:junkim add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 7:50 PM
+BAG:junkim add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/02/2023 7:50 PM
+BAG:junkim add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 7:50 PM
+BAG:junkim add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 7:50 PM
+BAG:junkim add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/02/2023 7:50 PM
+BAG:junkim add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/02/2023 7:50 PM
+BAG:junkim add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 7:50 PM
+BAG:junkim add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 7:51 PM
+BAG:junkim add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 7:51 PM
+BAG:junkim add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/02/2023 7:51 PM
+BAG:junkim add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 7:51 PM
+BAG:junkim add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 7:51 PM
+BAG:junkim add 26xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 7:53 PM
+BAG:junkim add 42xĐậu thần cấp 10 (old: 26) lydo: Lấy từ rương qua người at 03/02/2023 7:53 PM
+BAG:junkim add 58xĐậu thần cấp 10 (old: 42) lydo: Lấy từ rương qua người at 03/02/2023 7:53 PM
+BAG:junkim add 74xĐậu thần cấp 10 (old: 58) lydo: Lấy từ rương qua người at 03/02/2023 7:53 PM
+BAG:junkim add 90xĐậu thần cấp 10 (old: 74) lydo: Lấy từ rương qua người at 03/02/2023 7:53 PM
+BAG:junkim add 7xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/02/2023 7:53 PM
+BAG:junkim add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/02/2023 7:53 PM
+BAG:junkim add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/02/2023 8:00 PM
+BAG:junkim add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 8:00 PM
+BAG:junkim add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:junkim add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:junkim add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:junkim add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:junkim add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:junkim add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:junkim add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:junkim add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/02/2023 8:02 PM
+BAG:junkim add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/02/2023 8:02 PM
+BAG:junkim add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 8:02 PM
+BAG:junkim add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/02/2023 8:02 PM
+BAG:junkim add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/02/2023 8:02 PM
+BAG:junkim add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 8:03 PM
+BAG:junkim add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 8:03 PM
+BAG:junkim add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 8:03 PM
+BAG:junkim add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 8:03 PM
+BAG:junkim add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 8:03 PM
+BAG:junkim add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 8:03 PM
+BAG:junkim add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 8:03 PM
+BAG:junkim add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 8:03 PM
+BAG:junkim add 1xQuần jean Calic lydo: Cường Hóa trang bị at 03/02/2023 8:03 PM
+BAG:junkim add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 8:04 PM
+BAG:junkim add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/02/2023 8:04 PM
+BAG:junkim add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/02/2023 8:05 PM
+BAG:junkim add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/02/2023 8:05 PM
+BAG:junkim add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/02/2023 8:05 PM
+BAG:junkim add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/02/2023 8:05 PM
+BAG:junkim add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/02/2023 8:06 PM
+BAG:junkim add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/02/2023 8:07 PM
+BAG:junkim add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 8:07 PM
+BAG:junkim add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/02/2023 8:08 PM
+BAG:junkim add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/02/2023 8:08 PM
+BAG:junkim add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/02/2023 8:09 PM
+BAG:junkim add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/02/2023 8:09 PM
+BAG:junkim add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/02/2023 8:09 PM
+BAG:junkim add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/02/2023 8:09 PM
+BAG:junkim add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/02/2023 8:10 PM
+BAG:junkim add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/02/2023 8:10 PM
+BAG:junkim add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/02/2023 8:10 PM
+BAG:junkim add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/02/2023 8:10 PM
+BAG:junkim add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/02/2023 8:11 PM
+BAG:junkim add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/02/2023 8:11 PM
+BAG:junkim add 1xGăng bạc Goku lydo: Lấy từ rương qua người at 03/02/2023 8:11 PM
+BAG:junkim add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 8:12 PM
+BAG:junkim add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/02/2023 8:13 PM
+BAG:junkim add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/02/2023 8:13 PM
+BAG:junkim add 1xRada cấp 9 lydo: Lấy từ rương qua người at 03/02/2023 8:15 PM
+BAG:junkim add 1xÁo bạc Goku lydo: Lấy từ rương qua người at 03/02/2023 8:15 PM
+BAG:junkim add 1xGiày bạc Goku lydo: Lấy từ rương qua người at 03/02/2023 8:15 PM
+BAG:junkim add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/02/2023 8:16 PM
+BAG:junkim add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/02/2023 8:16 PM
+BAG:junkim add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/02/2023 8:16 PM
+BAG:junkim add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/02/2023 8:16 PM
+BAG:junkim add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/02/2023 8:16 PM
+BAG:junkim add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/02/2023 8:17 PM
+BAG:junkim add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/02/2023 8:17 PM
+BAG:junkim add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/02/2023 8:17 PM
+BAG:junkim add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/02/2023 8:17 PM
+BAG:junkim add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/02/2023 8:18 PM
+BAG:junkim add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/02/2023 8:18 PM
+BAG:junkim add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/02/2023 8:18 PM
+BAG:junkim add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 8:20 PM
+BAG:junkim add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 8:21 PM
+BAG:junkim add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 8:21 PM
+BAG:junkim add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 8:21 PM
+BAG:junkim add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 8:21 PM
+BAG:junkim add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 8:21 PM
+BAG:junkim add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/02/2023 8:21 PM
+BAG:junkim add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/02/2023 8:22 PM
+BAG:junkim add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/02/2023 8:22 PM
+BAG:junkim add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/02/2023 8:22 PM
+BAG:junkim add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/02/2023 8:22 PM
+BAG:junkim add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/02/2023 8:23 PM
+BAG:junkim add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/02/2023 8:23 PM
+BAG:junkim add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/02/2023 8:23 PM
+BAG:junkim add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/02/2023 8:24 PM
+BAG:junkim add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/02/2023 8:25 PM
+BAG:junkim add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/02/2023 8:25 PM
+BAG:junkim add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/02/2023 8:25 PM
+BAG:junkim add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/02/2023 8:25 PM
+BAG:junkim add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/02/2023 8:25 PM
+BAG:junkim add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/02/2023 8:25 PM
+BAG:junkim add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/02/2023 8:25 PM
+BAG:junkim add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/02/2023 8:25 PM
+BAG:junkim add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/02/2023 8:26 PM
+BAG:junkim add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/02/2023 8:26 PM
+BAG:junkim add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/02/2023 8:26 PM
+BAG:junkim add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/02/2023 8:27 PM
+BAG:junkim add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/02/2023 8:27 PM
+BAG:junkim add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/02/2023 8:28 PM
+BAG:junkim add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/02/2023 8:28 PM
+BAG:junkim add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/02/2023 8:28 PM
+BAG:junkim add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/02/2023 8:28 PM
+BAG:junkim add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/02/2023 8:28 PM
+BAG:junkim add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/02/2023 8:33 PM
+BAG:junkim add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/02/2023 8:43 PM
+BAG:junkim add 1xCải trang lydo: Mua từ bill at 03/02/2023 8:44 PM
+BAG:junkim add 1xĐá Ruby lydo: Nhặt từ map at 03/02/2023 8:47 PM
+BAG:junkim add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:50 PM
+BAG:junkim add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:50 PM
+BAG:junkim add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:50 PM
+BAG:junkim add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:50 PM
+BAG:junkim add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:50 PM
+BAG:junkim add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:50 PM
+BAG:junkim add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:50 PM
+BAG:junkim add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/02/2023 8:52 PM
+BAG:junkim add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 8:52 PM
+BAG:junkim add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 8:52 PM
+BAG:junkim add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 8:52 PM
+BAG:junkim add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 8:52 PM
+BAG:junkim add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 8:52 PM
+BAG:junkim add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/02/2023 8:52 PM
+BAG:junkim add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/02/2023 8:52 PM
+BAG:junkim add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/02/2023 8:52 PM
+BAG:junkim add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/02/2023 8:52 PM
+BAG:junkim add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 9xNâng cấp kỹ năng 1 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 10xNâng cấp kỹ năng 1 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 11xNâng cấp kỹ năng 1 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 99xCuồng nộ lydo: Admin at 03/02/2023 8:53 PM
+BAG:junkim add 12xNâng cấp kỹ năng 1 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 13xNâng cấp kỹ năng 1 đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/02/2023 8:53 PM
+BAG:junkim add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:59 PM
+BAG:junkim add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/02/2023 9:00 PM
+BAG:junkim add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/02/2023 9:17 PM
+BAG:junkim add 1xCải trang lydo: Lấy từ body vào hành trang at 03/02/2023 9:17 PM
+BAG:junkim add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:junkim add 1xBột mì lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:junkim add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:junkim add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:junkim add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 10:42 PM
+BAG:junkim add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 10:43 PM
+BAG:junkim add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 10:43 PM
+BAG:junkim add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 10:43 PM
+BAG:junkim add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 10:43 PM
+BAG:junkim add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 10:43 PM
+BAG:junkim add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 10:44 PM
+BAG:junkim add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 10:44 PM
+BAG:junkim add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 10:44 PM
+BAG:junkim add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 10:44 PM
+BAG:junkim add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/02/2023 10:45 PM
+BAG:junkim add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 10:45 PM
+BAG:junkim add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/02/2023 10:45 PM
+BAG:junkim add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/02/2023 10:46 PM
+BAG:junkim add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/02/2023 10:46 PM

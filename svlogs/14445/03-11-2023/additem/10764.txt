@@ -1,0 +1,70 @@
+BAG:quemuado add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 10:06 PM
+BAG:quemuado add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 10:07 PM
+BAG:quemuado add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 10:07 PM
+BAG:quemuado add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/11/2023 10:07 PM
+BAG:quemuado add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/11/2023 10:07 PM
+BAG:quemuado add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 10:07 PM
+BAG:quemuado add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 10:07 PM
+BAG:quemuado add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/11/2023 10:07 PM
+BAG:quemuado add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/11/2023 10:15 PM
+BAG:quemuado add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 10:17 PM
+BAG:quemuado add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 10:17 PM
+BAG:quemuado add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 10:17 PM
+BAG:quemuado add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/11/2023 10:19 PM
+BAG:quemuado add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/11/2023 10:19 PM
+BAG:quemuado add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/11/2023 10:19 PM
+BAG:quemuado add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/11/2023 10:19 PM
+BAG:quemuado add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/11/2023 10:19 PM
+BAG:quemuado add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/11/2023 10:19 PM
+BAG:quemuado add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/11/2023 10:20 PM
+BAG:quemuado add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/11/2023 10:20 PM
+BAG:quemuado add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/11/2023 10:20 PM
+BAG:quemuado add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/11/2023 10:20 PM
+BAG:quemuado add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/11/2023 10:20 PM
+BAG:quemuado add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/11/2023 10:20 PM
+BAG:quemuado add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/11/2023 10:20 PM
+BAG:quemuado add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 10:22 PM
+BAG:quemuado add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 10:22 PM
+BAG:quemuado add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 10:22 PM
+BAG:quemuado add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 10:23 PM
+BAG:quemuado add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/11/2023 10:24 PM
+BAG:quemuado add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 10:25 PM
+BAG:quemuado add 1xGiày cao su Kame lydo: Mua từ cửa hàng at 03/11/2023 10:25 PM
+BAG:quemuado add 100xThỏi vàng lydo: Giftcode at 03/11/2023 10:33 PM
+BAG:quemuado add 1000xPháo hoa lydo: Giftcode at 03/11/2023 10:33 PM
+BAG:quemuado add 150xThỏi vàng (old: 100) lydo: Giftcode at 03/11/2023 10:33 PM
+BAG:quemuado add 10xSao pha lê lydo: Giftcode at 03/11/2023 10:33 PM
+BAG:quemuado add 10xSao pha lê lydo: Giftcode at 03/11/2023 10:33 PM
+BAG:quemuado add 10xSao pha lê lydo: Giftcode at 03/11/2023 10:33 PM
+BAG:quemuado add 1xCải trang Hit lydo: Giftcode at 03/11/2023 10:33 PM
+BAG:quemuado add 10xCuồng nộ lydo: Giftcode at 03/11/2023 10:34 PM
+BAG:quemuado add 10xBổ huyết lydo: Giftcode at 03/11/2023 10:34 PM
+BAG:quemuado add 10xBổ khí lydo: Giftcode at 03/11/2023 10:34 PM
+BAG:quemuado add 10xGiáp Xên bọ hung lydo: Giftcode at 03/11/2023 10:34 PM
+BAG:quemuado add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/11/2023 10:34 PM
+BAG:quemuado add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 03/11/2023 10:35 PM
+BAG:quemuado add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 03/11/2023 10:35 PM
+BAG:quemuado add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 10:35 PM
+BAG:quemuado add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 10:35 PM
+BAG:quemuado add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 10:36 PM
+BAG:quemuado add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 10:36 PM
+BAG:quemuado add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 10:36 PM
+BAG:quemuado add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 10:36 PM
+BAG:quemuado add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 10:41 PM
+BAG:quemuado add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 10:41 PM
+BAG:quemuado add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 10:41 PM
+BAG:quemuado add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 10:41 PM
+BAG:quemuado add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 10:42 PM
+BAG:quemuado add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 10:42 PM
+BAG:quemuado add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 10:42 PM
+BAG:quemuado add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 10:42 PM
+BAG:quemuado add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 10:42 PM
+BAG:quemuado add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 10:42 PM
+BAG:quemuado add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 10:43 PM
+BAG:quemuado add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 10:43 PM
+BAG:quemuado add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 10:44 PM
+BAG:quemuado add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:44 PM
+BAG:quemuado add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 10:45 PM
+BAG:quemuado add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 10:54 PM
+BAG:quemuado add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 10:54 PM
+BAG:quemuado add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 10:54 PM

@@ -1,0 +1,747 @@
+BAG:babeee add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/05/2023 6:18 PM
+BAG:babeee add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/05/2023 6:18 PM
+BAG:babeee add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 6:21 PM
+BAG:babeee add 1xBột mì lydo: Nhặt từ map at 03/05/2023 6:23 PM
+BAG:babeee add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/05/2023 6:24 PM
+BAG:babeee add 8xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 03/05/2023 6:25 PM
+BAG:babeee add 2xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/05/2023 6:26 PM
+BAG:babeee add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 6:27 PM
+BAG:babeee add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 6:28 PM
+BAG:babeee add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 6:28 PM
+BAG:babeee add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/05/2023 6:28 PM
+BAG:babeee add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/05/2023 6:29 PM
+BAG:babeee add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 6:29 PM
+BAG:babeee add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/05/2023 6:29 PM
+BAG:babeee add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 6:29 PM
+BAG:babeee add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 6:29 PM
+BAG:babeee add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/05/2023 6:32 PM
+BAG:babeee add 22xĐậu thần cấp 10 (old: 2) lydo: Lấy từ rương qua người at 03/05/2023 6:33 PM
+BAG:babeee add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/05/2023 6:36 PM
+BAG:babeee add 1xCải trang lydo: Mua từ cửa hàng at 03/05/2023 6:36 PM
+BAG:babeee add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/05/2023 6:36 PM
+BAG:babeee add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 6:36 PM
+BAG:babeee add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 6:36 PM
+BAG:babeee add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/05/2023 6:37 PM
+BAG:babeee add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 6:37 PM
+BAG:babeee add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 6:37 PM
+BAG:babeee add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 6:37 PM
+BAG:babeee add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 6:37 PM
+BAG:babeee add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 6:37 PM
+BAG:babeee add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 6:37 PM
+BAG:babeee add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 6:38 PM
+BAG:babeee add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 6:38 PM
+BAG:babeee add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 6:38 PM
+BAG:babeee add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 6:38 PM
+BAG:babeee add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 6:38 PM
+BAG:babeee add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 6:38 PM
+BAG:babeee add 10xCuồng nộ lydo: Giftcode at 03/05/2023 6:48 PM
+BAG:babeee add 10xBổ huyết lydo: Giftcode at 03/05/2023 6:48 PM
+BAG:babeee add 10xBổ khí lydo: Giftcode at 03/05/2023 6:48 PM
+BAG:babeee add 10xGiáp Xên bọ hung lydo: Giftcode at 03/05/2023 6:48 PM
+BAG:babeee add 50xThỏi vàng lydo: Giftcode at 03/05/2023 6:48 PM
+BAG:babeee add 10xSao pha lê lydo: Giftcode at 03/05/2023 6:48 PM
+BAG:babeee add 10xSao pha lê lydo: Giftcode at 03/05/2023 6:48 PM
+BAG:babeee add 10xSao pha lê lydo: Giftcode at 03/05/2023 6:48 PM
+BAG:babeee add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/05/2023 6:51 PM
+BAG:babeee add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 6:51 PM
+BAG:babeee add 1xCải trang Gohan Bư lydo: Mua từ cửa hàng at 03/05/2023 6:51 PM
+BAG:babeee add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/05/2023 6:52 PM
+BAG:babeee add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 6:52 PM
+BAG:babeee add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/05/2023 6:52 PM
+BAG:babeee add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/05/2023 6:54 PM
+BAG:babeee add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/05/2023 6:54 PM
+BAG:babeee add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/05/2023 6:54 PM
+BAG:babeee add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 6:56 PM
+BAG:babeee add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/05/2023 6:56 PM
+BAG:babeee add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 6:57 PM
+BAG:babeee add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 6:58 PM
+BAG:babeee add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:babeee add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:babeee add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:babeee add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:babeee add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:babeee add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:babeee add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:babeee add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:babeee add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:babeee add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:babeee add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/05/2023 7:00 PM
+BAG:babeee add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/05/2023 7:00 PM
+BAG:babeee add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 7:00 PM
+BAG:babeee add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/05/2023 7:00 PM
+BAG:babeee add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 7:00 PM
+BAG:babeee add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/05/2023 7:00 PM
+BAG:babeee add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/05/2023 7:01 PM
+BAG:babeee add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/05/2023 7:02 PM
+BAG:babeee add 1xVán bay VIP lydo: Mua từ cửa hàng at 03/05/2023 7:02 PM
+BAG:babeee add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 7:03 PM
+BAG:babeee add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 7:05 PM
+BAG:babeee add 6xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/05/2023 8:10 PM
+BAG:babeee add 10xĐậu thần cấp 10 (old: 6) lydo: Thu hoạch đậu at 03/05/2023 8:10 PM
+BAG:babeee add 29xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/05/2023 8:11 PM
+BAG:babeee add 49xĐậu thần cấp 10 (old: 29) lydo: Lấy từ rương qua người at 03/05/2023 8:11 PM
+BAG:babeee add 69xĐậu thần cấp 10 (old: 49) lydo: Lấy từ rương qua người at 03/05/2023 8:11 PM
+BAG:babeee add 89xĐậu thần cấp 10 (old: 69) lydo: Lấy từ rương qua người at 03/05/2023 8:11 PM
+BAG:babeee add 10xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/05/2023 8:12 PM
+BAG:babeee add 99xĐậu thần cấp 10 (old: 89) lydo: Lấy từ rương qua người at 03/05/2023 8:12 PM
+BAG:babeee add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/05/2023 8:12 PM
+BAG:babeee add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 8:13 PM
+BAG:babeee add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/05/2023 8:13 PM
+BAG:babeee add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/05/2023 8:13 PM
+BAG:babeee add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/05/2023 8:13 PM
+BAG:babeee add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/05/2023 8:13 PM
+BAG:babeee add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/05/2023 8:13 PM
+BAG:babeee add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/05/2023 8:13 PM
+BAG:babeee add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 8:14 PM
+BAG:babeee add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/05/2023 8:14 PM
+BAG:babeee add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/05/2023 8:14 PM
+BAG:babeee add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/05/2023 8:14 PM
+BAG:babeee add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/05/2023 8:14 PM
+BAG:babeee add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 8:15 PM
+BAG:babeee add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 8:15 PM
+BAG:babeee add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 8:15 PM
+BAG:babeee add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 8:15 PM
+BAG:babeee add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 8:15 PM
+BAG:babeee add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/05/2023 8:16 PM
+BAG:babeee add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 8:16 PM
+BAG:babeee add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/05/2023 8:16 PM
+BAG:babeee add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/05/2023 8:16 PM
+BAG:babeee add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/05/2023 8:16 PM
+BAG:babeee add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 8:16 PM
+BAG:babeee add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:babeee add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:babeee add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:babeee add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:babeee add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:babeee add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:babeee add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:babeee add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 8:18 PM
+BAG:babeee add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 8:18 PM
+BAG:babeee add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/05/2023 8:18 PM
+BAG:babeee add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/05/2023 8:18 PM
+BAG:babeee add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 8:19 PM
+BAG:babeee add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 8:19 PM
+BAG:babeee add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/05/2023 8:19 PM
+BAG:babeee add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/05/2023 8:20 PM
+BAG:babeee add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/05/2023 8:20 PM
+BAG:babeee add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/05/2023 8:20 PM
+BAG:babeee add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/05/2023 8:20 PM
+BAG:babeee add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/05/2023 8:20 PM
+BAG:babeee add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/05/2023 8:20 PM
+BAG:babeee add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xSách Antomic lv5 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xSách Antomic lv6 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xSách Antomic lv7 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 03/05/2023 8:21 PM
+BAG:babeee add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 03/05/2023 8:22 PM
+BAG:babeee add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 03/05/2023 8:22 PM
+BAG:babeee add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 8:48 PM
+BAG:babeee add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/05/2023 8:53 PM
+BAG:babeee add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 8:54 PM
+BAG:babeee add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/05/2023 8:55 PM
+BAG:babeee add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/05/2023 8:55 PM
+BAG:babeee add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/05/2023 8:55 PM
+BAG:babeee add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/05/2023 8:55 PM
+BAG:babeee add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 8:56 PM
+BAG:babeee add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/05/2023 8:58 PM
+BAG:babeee add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/05/2023 8:58 PM
+BAG:babeee add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/05/2023 8:59 PM
+BAG:babeee add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/05/2023 8:59 PM
+BAG:babeee add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/05/2023 9:00 PM
+BAG:babeee add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/05/2023 9:01 PM
+BAG:babeee add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:02 PM
+BAG:babeee add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/05/2023 9:02 PM
+BAG:babeee add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/05/2023 9:03 PM
+BAG:babeee add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/05/2023 9:04 PM
+BAG:babeee add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/05/2023 9:04 PM
+BAG:babeee add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/05/2023 9:05 PM
+BAG:babeee add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/05/2023 9:05 PM
+BAG:babeee add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/05/2023 9:05 PM
+BAG:babeee add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/05/2023 9:06 PM
+BAG:babeee add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/05/2023 9:06 PM
+BAG:babeee add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/05/2023 9:06 PM
+BAG:babeee add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:babeee add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:babeee add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:babeee add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:babeee add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/05/2023 9:08 PM
+BAG:babeee add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/05/2023 9:08 PM
+BAG:babeee add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/05/2023 9:08 PM
+BAG:babeee add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 9:09 PM
+BAG:babeee add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 9:10 PM
+BAG:babeee add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/05/2023 9:10 PM
+BAG:babeee add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/05/2023 9:10 PM
+BAG:babeee add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/05/2023 9:10 PM
+BAG:babeee add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/05/2023 9:11 PM
+BAG:babeee add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/05/2023 9:12 PM
+BAG:babeee add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/05/2023 9:12 PM
+BAG:babeee add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/05/2023 9:13 PM
+BAG:babeee add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/05/2023 9:13 PM
+BAG:babeee add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/05/2023 9:13 PM
+BAG:babeee add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/05/2023 9:13 PM
+BAG:babeee add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/05/2023 9:14 PM
+BAG:babeee add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/05/2023 9:14 PM
+BAG:babeee add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/05/2023 9:14 PM
+BAG:babeee add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/05/2023 9:15 PM
+BAG:babeee add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/05/2023 9:15 PM
+BAG:babeee add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/05/2023 9:15 PM
+BAG:babeee add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/05/2023 9:16 PM
+BAG:babeee add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/05/2023 9:16 PM
+BAG:babeee add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/05/2023 9:17 PM
+BAG:babeee add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/05/2023 9:17 PM
+BAG:babeee add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/05/2023 9:18 PM
+BAG:babeee add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/05/2023 9:18 PM
+BAG:babeee add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/05/2023 9:18 PM
+BAG:babeee add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/05/2023 9:19 PM
+BAG:babeee add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/05/2023 9:19 PM
+BAG:babeee add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/05/2023 9:19 PM
+BAG:babeee add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/05/2023 9:19 PM
+BAG:babeee add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/05/2023 9:21 PM
+BAG:babeee add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/05/2023 9:21 PM
+BAG:babeee add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/05/2023 9:22 PM
+BAG:babeee add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/05/2023 9:22 PM
+BAG:babeee add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/05/2023 9:22 PM
+BAG:babeee add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/05/2023 9:23 PM
+BAG:babeee add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:babeee add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:babeee add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:babeee add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:babeee add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:babeee add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/05/2023 9:25 PM
+BAG:babeee add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/05/2023 9:26 PM
+BAG:babeee add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/05/2023 9:26 PM
+BAG:babeee add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/05/2023 9:26 PM
+BAG:babeee add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:babeee add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:babeee add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:babeee add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:babeee add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:babeee add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:babeee add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:babeee add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:babeee add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:babeee add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:babeee add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:babeee add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:babeee add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/05/2023 9:29 PM
+BAG:babeee add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/05/2023 9:29 PM
+BAG:babeee add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:babeee add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:babeee add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:babeee add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:babeee add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:babeee add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:babeee add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:babeee add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:babeee add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:babeee add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:babeee add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:babeee add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:babeee add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:babeee add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:babeee add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:babeee add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:babeee add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:babeee add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:babeee add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:babeee add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:babeee add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:babeee add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:babeee add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:babeee add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:babeee add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:babeee add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:babeee add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:babeee add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:babeee add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:babeee add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:babeee add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:babeee add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:babeee add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:babeee add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:babeee add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:babeee add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:babeee add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:babeee add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:babeee add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:babeee add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:babeee add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:babeee add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:babeee add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:babeee add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:babeee add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:babeee add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:babeee add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:babeee add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:babeee add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/05/2023 9:52 PM
+BAG:babeee add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/05/2023 9:55 PM
+BAG:babeee add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/05/2023 9:56 PM
+BAG:babeee add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/05/2023 10:01 PM
+BAG:babeee add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/05/2023 10:02 PM
+BAG:babeee add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/05/2023 10:14 PM
+BAG:babeee add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/05/2023 10:16 PM
+BAG:babeee add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/05/2023 10:17 PM
+BAG:babeee add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 10:19 PM
+BAG:babeee add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/05/2023 10:20 PM
+BAG:babeee add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/05/2023 10:22 PM
+BAG:babeee add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/05/2023 10:25 PM
+BAG:babeee add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 10:25 PM
+BAG:babeee add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/05/2023 10:26 PM
+BAG:babeee add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/05/2023 10:27 PM
+BAG:babeee add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/05/2023 10:30 PM
+BAG:babeee add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/05/2023 10:33 PM
+BAG:babeee add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/05/2023 10:34 PM
+BAG:babeee add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/05/2023 10:34 PM
+BAG:babeee add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/05/2023 10:37 PM
+BAG:babeee add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/05/2023 10:38 PM
+BAG:babeee add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/05/2023 10:38 PM
+BAG:babeee add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/05/2023 10:39 PM
+BAG:babeee add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/05/2023 10:44 PM
+BAG:babeee add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/05/2023 10:45 PM
+BAG:babeee add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/05/2023 10:47 PM
+BAG:babeee add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/05/2023 10:48 PM
+BAG:babeee add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/05/2023 10:48 PM
+BAG:babeee add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/05/2023 10:51 PM
+BAG:babeee add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/05/2023 10:52 PM
+BAG:babeee add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/05/2023 10:52 PM
+BAG:babeee add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/05/2023 10:52 PM
+BAG:babeee add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/05/2023 10:56 PM
+BAG:babeee add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/05/2023 10:57 PM
+BAG:babeee add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 10:57 PM
+BAG:babeee add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/05/2023 10:57 PM
+BAG:babeee add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/05/2023 10:57 PM
+BAG:babeee add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/05/2023 10:57 PM
+BAG:babeee add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/05/2023 10:58 PM
+BAG:babeee add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/05/2023 10:58 PM
+BAG:babeee add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/05/2023 10:58 PM
+BAG:babeee add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/05/2023 10:58 PM
+BAG:babeee add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/05/2023 10:58 PM
+BAG:babeee add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/05/2023 10:59 PM
+BAG:babeee add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/05/2023 10:59 PM
+BAG:babeee add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/05/2023 10:59 PM
+BAG:babeee add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/05/2023 11:00 PM
+BAG:babeee add 4xNgọc Rồng 5 sao (old: 3) lydo: Lấy từ lucky box at 03/05/2023 11:00 PM
+BAG:babeee add 5xNgọc Rồng 5 sao (old: 4) lydo: Lấy từ lucky box at 03/05/2023 11:00 PM
+BAG:babeee add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/05/2023 11:00 PM
+BAG:babeee add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/05/2023 11:00 PM
+BAG:babeee add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/05/2023 11:00 PM
+BAG:babeee add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/05/2023 11:01 PM
+BAG:babeee add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/05/2023 11:01 PM
+BAG:babeee add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/05/2023 11:04 PM
+BAG:babeee add 1xMảnh Khủng long lydo: Nhặt từ map at 03/05/2023 11:04 PM
+BAG:babeee add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/05/2023 11:04 PM
+BAG:babeee add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/05/2023 11:04 PM
+BAG:babeee add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/05/2023 11:05 PM
+BAG:babeee add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/05/2023 11:05 PM
+BAG:babeee add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/05/2023 11:05 PM
+BAG:babeee add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/05/2023 11:05 PM
+BAG:babeee add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/05/2023 11:05 PM
+BAG:babeee add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/05/2023 11:05 PM
+BAG:babeee add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/05/2023 11:05 PM
+BAG:babeee add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/05/2023 11:05 PM
+BAG:babeee add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/05/2023 11:06 PM
+BAG:babeee add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:06 PM
+BAG:babeee add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/05/2023 11:06 PM
+BAG:babeee add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:06 PM
+BAG:babeee add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:06 PM
+BAG:babeee add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:06 PM
+BAG:babeee add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/05/2023 11:06 PM
+BAG:babeee add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/05/2023 11:06 PM
+BAG:babeee add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/05/2023 11:06 PM
+BAG:babeee add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/05/2023 11:06 PM
+BAG:babeee add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/05/2023 11:06 PM
+BAG:babeee add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:06 PM
+BAG:babeee add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/05/2023 11:06 PM
+BAG:babeee add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:07 PM
+BAG:babeee add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/05/2023 11:07 PM
+BAG:babeee add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/05/2023 11:07 PM
+BAG:babeee add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/05/2023 11:07 PM
+BAG:babeee add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/05/2023 11:07 PM
+BAG:babeee add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/05/2023 11:07 PM
+BAG:babeee add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/05/2023 11:07 PM
+BAG:babeee add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/05/2023 11:07 PM
+BAG:babeee add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/05/2023 11:08 PM
+BAG:babeee add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/05/2023 11:08 PM
+BAG:babeee add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/05/2023 11:08 PM
+BAG:babeee add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 11:08 PM
+BAG:babeee add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/05/2023 11:08 PM
+BAG:babeee add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/05/2023 11:08 PM
+BAG:babeee add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/05/2023 11:08 PM
+BAG:babeee add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/05/2023 11:08 PM
+BAG:babeee add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/05/2023 11:08 PM
+BAG:babeee add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/05/2023 11:08 PM
+BAG:babeee add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/05/2023 11:08 PM
+BAG:babeee add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/05/2023 11:09 PM
+BAG:babeee add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/05/2023 11:09 PM
+BAG:babeee add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/05/2023 11:09 PM
+BAG:babeee add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/05/2023 11:09 PM
+BAG:babeee add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/05/2023 11:09 PM
+BAG:babeee add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/05/2023 11:09 PM
+BAG:babeee add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:09 PM
+BAG:babeee add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:09 PM
+BAG:babeee add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/05/2023 11:10 PM
+BAG:babeee add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/05/2023 11:10 PM
+BAG:babeee add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/05/2023 11:10 PM
+BAG:babeee add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/05/2023 11:10 PM
+BAG:babeee add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/05/2023 11:10 PM
+BAG:babeee add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/05/2023 11:10 PM
+BAG:babeee add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/05/2023 11:11 PM
+BAG:babeee add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/05/2023 11:11 PM
+BAG:babeee add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/05/2023 11:11 PM
+BAG:babeee add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/05/2023 11:11 PM
+BAG:babeee add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/05/2023 11:11 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:11 PM
+BAG:babeee add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/05/2023 11:11 PM
+BAG:babeee add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/05/2023 11:11 PM
+BAG:babeee add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/05/2023 11:11 PM
+BAG:babeee add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/05/2023 11:11 PM
+BAG:babeee add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/05/2023 11:11 PM
+BAG:babeee add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/05/2023 11:12 PM
+BAG:babeee add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:babeee add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:babeee add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:babeee add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:babeee add 1xMảnh Khủng long lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:babeee add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:babeee add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:babeee add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:babeee add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:babeee add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:babeee add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:babeee add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:babeee add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/05/2023 11:15 PM
+BAG:babeee add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/05/2023 11:15 PM
+BAG:babeee add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/05/2023 11:15 PM
+BAG:babeee add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 11:15 PM
+BAG:babeee add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/05/2023 11:15 PM
+BAG:babeee add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/05/2023 11:15 PM
+BAG:babeee add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:babeee add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:babeee add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:babeee add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:babeee add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:babeee add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:babeee add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:babeee add 6xMảnh Thằn lằn bay (old: 5) lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:babeee add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:babeee add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:babeee add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/05/2023 11:18 PM
+BAG:babeee add 7xMảnh Thằn lằn bay (old: 6) lydo: Nhặt từ map at 03/05/2023 11:18 PM
+BAG:babeee add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/05/2023 11:18 PM
+BAG:babeee add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:18 PM
+BAG:babeee add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:18 PM
+BAG:babeee add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/05/2023 11:18 PM
+BAG:babeee add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/05/2023 11:18 PM
+BAG:babeee add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/05/2023 11:18 PM
+BAG:babeee add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/05/2023 11:19 PM
+BAG:babeee add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 11:20 PM
+BAG:babeee add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/05/2023 11:20 PM
+BAG:babeee add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/05/2023 11:20 PM
+BAG:babeee add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/05/2023 11:20 PM
+BAG:babeee add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:21 PM
+BAG:babeee add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/05/2023 11:21 PM
+BAG:babeee add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/05/2023 11:21 PM
+BAG:babeee add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/05/2023 11:21 PM
+BAG:babeee add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/05/2023 11:21 PM
+BAG:babeee add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/05/2023 11:21 PM
+BAG:babeee add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/05/2023 11:21 PM
+BAG:babeee add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/05/2023 11:21 PM
+BAG:babeee add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:babeee add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:babeee add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:babeee add 8xMảnh Thằn lằn bay (old: 7) lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:babeee add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:babeee add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:babeee add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:babeee add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:babeee add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:babeee add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:babeee add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:babeee add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:babeee add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 11:24 PM
+BAG:babeee add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:babeee add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:babeee add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:babeee add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:babeee add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:babeee add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:babeee add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:babeee add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:babeee add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:babeee add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:babeee add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:babeee add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:babeee add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:babeee add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:babeee add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:babeee add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:babeee add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:babeee add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:babeee add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:babeee add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:babeee add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:babeee add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:babeee add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:babeee add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:babeee add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:babeee add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:babeee add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:babeee add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:babeee add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:babeee add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:babeee add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:babeee add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:babeee add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:babeee add 9xMảnh Thằn lằn bay (old: 8) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:babeee add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:babeee add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:babeee add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:babeee add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:babeee add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:babeee add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:babeee add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:babeee add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:babeee add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:babeee add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:babeee add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:babeee add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 03/05/2023 11:30 PM
+BAG:babeee add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/05/2023 11:30 PM
+BAG:babeee add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/05/2023 11:30 PM
+BAG:babeee add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/05/2023 11:30 PM
+BAG:babeee add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 03/05/2023 11:30 PM
+BAG:babeee add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/05/2023 11:30 PM
+BAG:babeee add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/05/2023 11:30 PM
+BAG:babeee add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/05/2023 11:30 PM
+BAG:babeee add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/05/2023 11:31 PM
+BAG:babeee add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/05/2023 11:31 PM
+BAG:babeee add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/05/2023 11:31 PM
+BAG:babeee add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/05/2023 11:31 PM
+BAG:babeee add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/05/2023 11:31 PM
+BAG:babeee add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 11:31 PM
+BAG:babeee add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/05/2023 11:31 PM
+BAG:babeee add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/05/2023 11:31 PM
+BAG:babeee add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/05/2023 11:32 PM
+BAG:babeee add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/05/2023 11:32 PM
+BAG:babeee add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/05/2023 11:33 PM
+BAG:babeee add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/05/2023 11:33 PM
+BAG:babeee add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/05/2023 11:33 PM
+BAG:babeee add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/05/2023 11:33 PM
+BAG:babeee add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/05/2023 11:33 PM
+BAG:babeee add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/05/2023 11:33 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:33 PM
+BAG:babeee add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 03/05/2023 11:33 PM
+BAG:babeee add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 03/05/2023 11:33 PM
+BAG:babeee add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 03/05/2023 11:34 PM
+BAG:babeee add 10xMảnh Thằn lằn bay (old: 9) lydo: Nhặt từ map at 03/05/2023 11:34 PM
+BAG:babeee add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/05/2023 11:34 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:34 PM
+BAG:babeee add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/05/2023 11:35 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:35 PM
+BAG:babeee add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 03/05/2023 11:35 PM
+BAG:babeee add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/05/2023 11:35 PM
+BAG:babeee add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/05/2023 11:35 PM
+BAG:babeee add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/05/2023 11:35 PM
+BAG:babeee add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 03/05/2023 11:36 PM
+BAG:babeee add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/05/2023 11:36 PM
+BAG:babeee add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/05/2023 11:36 PM
+BAG:babeee add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/05/2023 11:36 PM
+BAG:babeee add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/05/2023 11:37 PM
+BAG:babeee add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 11:37 PM
+BAG:babeee add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/05/2023 11:37 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:37 PM
+BAG:babeee add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/05/2023 11:37 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:37 PM
+BAG:babeee add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/05/2023 11:37 PM
+BAG:babeee add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/05/2023 11:38 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:38 PM
+BAG:babeee add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/05/2023 11:38 PM
+BAG:babeee add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/05/2023 11:38 PM
+BAG:babeee add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/05/2023 11:38 PM
+BAG:babeee add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/05/2023 11:38 PM
+BAG:babeee add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 11:38 PM
+BAG:babeee add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:babeee add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:babeee add 1xGăng vải thô lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:babeee add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:babeee add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:babeee add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:babeee add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:babeee add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:babeee add 11xMảnh Thằn lằn bay (old: 10) lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:babeee add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:babeee add 1xGăng vải thô lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:babeee add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:babeee add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:babeee add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:babeee add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:babeee add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:babeee add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:babeee add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:babeee add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:babeee add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 03/05/2023 11:41 PM
+BAG:babeee add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 03/05/2023 11:41 PM
+BAG:babeee add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/05/2023 11:41 PM
+BAG:babeee add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/05/2023 11:41 PM
+BAG:babeee add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/05/2023 11:41 PM
+BAG:babeee add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 11:41 PM
+BAG:babeee add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 11:41 PM
+BAG:babeee add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 03/05/2023 11:41 PM
+BAG:babeee add 67xĐá Titan (old: 66) lydo: Nhặt từ map at 03/05/2023 11:41 PM
+BAG:babeee add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 03/05/2023 11:42 PM
+BAG:babeee add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 11:42 PM
+BAG:babeee add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/05/2023 11:42 PM
+BAG:babeee add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/05/2023 11:42 PM
+BAG:babeee add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/05/2023 11:42 PM
+BAG:babeee add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/05/2023 11:42 PM
+BAG:babeee add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/05/2023 11:42 PM
+BAG:babeee add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 11:43 PM
+BAG:babeee add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 11:43 PM
+BAG:babeee add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 11:43 PM
+BAG:babeee add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/05/2023 11:43 PM
+BAG:babeee add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/05/2023 11:43 PM
+BAG:babeee add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/05/2023 11:43 PM
+BAG:babeee add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 03/05/2023 11:43 PM
+BAG:babeee add 1xGăng vải thô lydo: Nhặt từ map at 03/05/2023 11:44 PM
+BAG:babeee add 68xĐá Titan (old: 67) lydo: Nhặt từ map at 03/05/2023 11:44 PM
+BAG:babeee add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/05/2023 11:44 PM
+BAG:babeee add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 03/05/2023 11:44 PM
+BAG:babeee add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 03/05/2023 11:44 PM
+BAG:babeee add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 03/05/2023 11:44 PM
+BAG:babeee add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 03/05/2023 11:45 PM
+BAG:babeee add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 03/05/2023 11:45 PM
+BAG:babeee add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/05/2023 11:45 PM
+BAG:babeee add 69xĐá Titan (old: 68) lydo: Nhặt từ map at 03/05/2023 11:45 PM
+BAG:babeee add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 03/05/2023 11:45 PM
+BAG:babeee add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 03/05/2023 11:46 PM
+BAG:babeee add 1xGăng vải thô lydo: Nhặt từ map at 03/05/2023 11:46 PM
+BAG:babeee add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/05/2023 11:46 PM
+BAG:babeee add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/05/2023 11:46 PM
+BAG:babeee add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/05/2023 11:46 PM
+BAG:babeee add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 03/05/2023 11:46 PM
+BAG:babeee add 70xĐá Titan (old: 69) lydo: Nhặt từ map at 03/05/2023 11:46 PM
+BAG:babeee add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/05/2023 11:46 PM
+BAG:babeee add 1xGăng vải thô lydo: Nhặt từ map at 03/05/2023 11:46 PM
+BAG:babeee add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 03/05/2023 11:46 PM
+BAG:babeee add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/05/2023 11:46 PM
+BAG:babeee add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 11:47 PM
+BAG:babeee add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 03/05/2023 11:47 PM
+BAG:babeee add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 03/05/2023 11:47 PM
+BAG:babeee add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/05/2023 11:47 PM
+BAG:babeee add 71xĐá Titan (old: 70) lydo: Nhặt từ map at 03/05/2023 11:47 PM
+BAG:babeee add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 03/05/2023 11:47 PM
+BAG:babeee add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 03/05/2023 11:48 PM
+BAG:babeee add 12xMảnh Thằn lằn bay (old: 11) lydo: Nhặt từ map at 03/05/2023 11:48 PM
+BAG:babeee add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 03/05/2023 11:48 PM
+BAG:babeee add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/05/2023 11:48 PM
+BAG:babeee add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 03/05/2023 11:48 PM
+BAG:babeee add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/05/2023 11:48 PM
+BAG:babeee add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/05/2023 11:48 PM
+BAG:babeee add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 03/05/2023 11:48 PM
+BAG:babeee add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 11:49 PM
+BAG:babeee add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/05/2023 11:49 PM
+BAG:babeee add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 03/05/2023 11:49 PM
+BAG:babeee add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 11:49 PM
+BAG:babeee add 63xĐá Saphia (old: 62) lydo: Nhặt từ map at 03/05/2023 11:49 PM
+BAG:babeee add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/05/2023 11:49 PM
+BAG:babeee add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/05/2023 11:49 PM
+BAG:babeee add 13xMảnh Thằn lằn bay (old: 12) lydo: Nhặt từ map at 03/05/2023 11:49 PM
+BAG:babeee add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/05/2023 11:49 PM
+BAG:babeee add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/05/2023 11:49 PM
+BAG:babeee add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 11:50 PM
+BAG:babeee add 64xĐá Saphia (old: 63) lydo: Nhặt từ map at 03/05/2023 11:50 PM
+BAG:babeee add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/05/2023 11:50 PM
+BAG:babeee add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/05/2023 11:50 PM
+BAG:babeee add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 03/05/2023 11:50 PM
+BAG:babeee add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/05/2023 11:50 PM
+BAG:babeee add 65xĐá Saphia (old: 64) lydo: Nhặt từ map at 03/05/2023 11:50 PM
+BAG:babeee add 1xGăng vải thô lydo: Nhặt từ map at 03/05/2023 11:51 PM
+BAG:babeee add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/05/2023 11:51 PM
+BAG:babeee add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/05/2023 11:51 PM
+BAG:babeee add 14xMảnh Thằn lằn bay (old: 13) lydo: Nhặt từ map at 03/05/2023 11:51 PM
+BAG:babeee add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 03/05/2023 11:51 PM
+BAG:babeee add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 03/05/2023 11:51 PM
+BAG:babeee add 66xĐá Saphia (old: 65) lydo: Nhặt từ map at 03/05/2023 11:51 PM
+BAG:babeee add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 03/05/2023 11:51 PM
+BAG:babeee add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/05/2023 11:51 PM
+BAG:babeee add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 03/05/2023 11:51 PM
+BAG:babeee add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/05/2023 11:52 PM
+BAG:babeee add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/05/2023 11:52 PM
+BAG:babeee add 39xBột mì (old: 38) lydo: Nhặt từ map at 03/05/2023 11:52 PM
+BAG:babeee add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/05/2023 11:53 PM
+BAG:babeee add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 11:53 PM
+BAG:babeee add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/05/2023 11:53 PM
+BAG:babeee add 67xĐá Saphia (old: 66) lydo: Nhặt từ map at 03/05/2023 11:53 PM
+BAG:babeee add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/05/2023 11:53 PM
+BAG:babeee add 68xĐá Saphia (old: 67) lydo: Nhặt từ map at 03/05/2023 11:53 PM
+BAG:babeee add 72xĐá Titan (old: 71) lydo: Nhặt từ map at 03/05/2023 11:53 PM
+BAG:babeee add 73xĐá Titan (old: 72) lydo: Nhặt từ map at 03/05/2023 11:54 PM
+BAG:babeee add 74xĐá Titan (old: 73) lydo: Nhặt từ map at 03/05/2023 11:54 PM
+BAG:babeee add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/05/2023 11:54 PM
+BAG:babeee add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 03/05/2023 11:54 PM
+BAG:babeee add 68xĐậu thần cấp 10 (old: 48) lydo: Lấy từ rương qua người at 03/05/2023 11:57 PM
+BAG:babeee add 88xĐậu thần cấp 10 (old: 68) lydo: Lấy từ rương qua người at 03/05/2023 11:57 PM
+BAG:babeee add 9xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/05/2023 11:58 PM
+BAG:babeee add 99xĐậu thần cấp 10 (old: 88) lydo: Lấy từ rương qua người at 03/05/2023 11:58 PM
+BAG:babeee add 29xĐậu thần cấp 10 (old: 9) lydo: Lấy từ rương qua người at 03/05/2023 11:58 PM
+BAG:babeee add 49xĐậu thần cấp 10 (old: 29) lydo: Lấy từ rương qua người at 03/05/2023 11:58 PM
+BAG:babeee add 69xĐậu thần cấp 10 (old: 49) lydo: Lấy từ rương qua người at 03/05/2023 11:58 PM

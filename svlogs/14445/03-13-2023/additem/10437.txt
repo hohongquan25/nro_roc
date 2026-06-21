@@ -1,0 +1,236 @@
+BAG:clazy add 81xBánh Pudding lydo: buff at 03/13/2023 12:42 AM
+BAG:clazy add 99xBánh Pudding (old: 81) lydo: buff at 03/13/2023 12:42 AM
+BAG:clazy add 1xGiầy Thần Xayda lydo: buff at 03/13/2023 12:42 AM
+BAG:clazy add 1xNhẫn Thần Linh lydo: buff at 03/13/2023 12:42 AM
+BAG:clazy add 80xBánh Pudding lydo: buff at 03/13/2023 12:48 AM
+BAG:clazy add 99xBánh Pudding (old: 81) lydo: buff at 03/13/2023 12:48 AM
+BAG:clazy add 79xBánh Pudding lydo: buff at 03/13/2023 12:48 AM
+BAG:clazy add 99xBánh Pudding (old: 80) lydo: buff at 03/13/2023 12:48 AM
+BAG:clazy add 78xBánh Pudding lydo: buff at 03/13/2023 12:48 AM
+BAG:clazy add 99xBánh Pudding (old: 79) lydo: buff at 03/13/2023 12:48 AM
+BAG:clazy add 77xBánh Pudding lydo: buff at 03/13/2023 12:48 AM
+BAG:clazy add 99xBánh Pudding (old: 78) lydo: buff at 03/13/2023 12:48 AM
+BAG:clazy add 1xHộp bánh Trung Thu lydo: buff at 03/13/2023 12:57 AM
+BAG:clazy add 1xHộp bánh Trung Thu lydo: buff at 03/13/2023 12:57 AM
+BAG:clazy add 1xHộp bánh Trung Thu lydo: buff at 03/13/2023 12:57 AM
+BAG:clazy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 12:57 AM
+BAG:clazy add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/13/2023 1:12 AM
+BAG:clazy add 1xÁo Thần Namếc lydo: Lấy từ body đệ vào hành trang at 03/13/2023 1:13 AM
+BAG:clazy add 1xSách Huýt Sáo lv1 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xSách Huýt Sáo lv2 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xSách Huýt Sáo lv3 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xSách Huýt Sáo lv4 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xSách Huýt Sáo lv5 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xSách Huýt Sáo lv6 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xSách Huýt Sáo lv7 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 03/13/2023 1:15 AM
+BAG:clazy add 3xGà quay nguyên con lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 4xCủ cà rốt lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 6xCủ cà rốt (old: 4) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 2xĐậu xanh lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 3xBánh trung thu thập cẩm lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 3xTrứng vịt muối lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 5xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 2xBột mì lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 6xBánh trung thu thập cẩm (old: 3) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 4xBột mì (old: 2) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 5xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:clazy add 8xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:clazy add 10xCủ cà rốt (old: 6) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:clazy add 75xNgọc Rồng 5 sao (old: 74) lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:clazy add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:clazy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:clazy add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:clazy add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 1:46 AM
+BAG:clazy add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 1:46 AM
+BAG:clazy add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 1:46 AM
+BAG:clazy add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 1:46 AM
+BAG:clazy add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/13/2023 1:47 AM
+BAG:clazy add 97xNgọc Rồng 2 sao (old: 96) lydo: Nhặt từ map at 03/13/2023 1:53 AM
+BAG:clazy add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 1:55 AM
+BAG:clazy add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 1:59 AM
+BAG:clazy add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 2:03 AM
+BAG:clazy add 74xNgọc Rồng 6 sao (old: 73) lydo: Nhặt từ map at 03/13/2023 2:03 AM
+BAG:clazy add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/13/2023 2:16 AM
+BAG:clazy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 3:59 AM
+BAG:clazy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 4:10 AM
+BAG:clazy add 30xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/13/2023 9:49 AM
+BAG:clazy add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 9:54 AM
+BAG:clazy add 5xPháo hoa lydo: Nhặt từ map at 03/13/2023 11:54 AM
+BAG:clazy add 1xPháo hoa lydo: Nhặt từ map at 03/13/2023 11:57 AM
+BAG:clazy add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 11:58 AM
+BAG:clazy add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/13/2023 12:00 PM
+BAG:clazy add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/13/2023 12:15 PM
+BAG:clazy add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 12:16 PM
+BAG:clazy add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/13/2023 12:25 PM
+BAG:clazy add 54xNgọc Rồng 3 sao (old: 53) lydo: Nhặt từ map at 03/13/2023 12:31 PM
+BAG:clazy add 1xQuần lưỡng long lydo: Nhặt từ map at 03/13/2023 12:48 PM
+BAG:clazy add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/13/2023 12:48 PM
+BAG:clazy add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/13/2023 12:50 PM
+BAG:clazy add 3xPháo hoa (old: 2) lydo: Nhặt từ map at 03/13/2023 12:53 PM
+BAG:clazy add 98xNgọc Rồng 2 sao (old: 97) lydo: Nhặt từ map at 03/13/2023 12:53 PM
+BAG:clazy add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 12:53 PM
+BAG:clazy add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/13/2023 12:54 PM
+BAG:clazy add 4xPháo hoa (old: 3) lydo: Nhặt từ map at 03/13/2023 12:55 PM
+BAG:clazy add 99xNgọc Rồng 2 sao (old: 98) lydo: Nhặt từ map at 03/13/2023 12:55 PM
+BAG:clazy add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 12:58 PM
+BAG:clazy add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/13/2023 1:01 PM
+BAG:clazy add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 1:01 PM
+BAG:clazy add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/13/2023 1:01 PM
+BAG:clazy add 5xPháo hoa (old: 4) lydo: Nhặt từ map at 03/13/2023 1:03 PM
+BAG:clazy add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/13/2023 1:03 PM
+BAG:clazy add 1xCải trang lydo: Mua từ cửa hàng at 03/13/2023 1:04 PM
+BAG:clazy add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/13/2023 3:33 PM
+BAG:clazy add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/13/2023 4:53 PM
+BAG:clazy add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 4:53 PM
+BAG:clazy add 1xGiày vàng Zealot lydo: Nhặt từ map at 03/13/2023 4:54 PM
+BAG:clazy add 6xPháo hoa (old: 5) lydo: Nhặt từ map at 03/13/2023 4:55 PM
+BAG:clazy add 75xNgọc Rồng 6 sao (old: 74) lydo: Nhặt từ map at 03/13/2023 4:55 PM
+BAG:clazy add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/13/2023 4:55 PM
+BAG:clazy add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/13/2023 4:55 PM
+BAG:clazy add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/13/2023 4:57 PM
+BAG:clazy add 75xNgọc Rồng 4 sao (old: 74) lydo: Nhặt từ map at 03/13/2023 5:00 PM
+BAG:clazy add 7xPháo hoa (old: 6) lydo: Nhặt từ map at 03/13/2023 5:01 PM
+BAG:clazy add 1xGăng vàng Zealot lydo: Nhặt từ map at 03/13/2023 5:01 PM
+BAG:clazy add 8xPháo hoa (old: 7) lydo: Nhặt từ map at 03/13/2023 5:01 PM
+BAG:clazy add 55xNgọc Rồng 3 sao (old: 54) lydo: Nhặt từ map at 03/13/2023 5:01 PM
+BAG:clazy add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/13/2023 5:04 PM
+BAG:clazy add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/13/2023 5:08 PM
+BAG:clazy add 1xGiày lưỡng long lydo: Nhặt từ map at 03/13/2023 5:11 PM
+BAG:clazy add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/13/2023 5:11 PM
+BAG:clazy add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/13/2023 5:12 PM
+BAG:clazy add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/13/2023 5:12 PM
+BAG:clazy add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/13/2023 5:12 PM
+BAG:clazy add 76xNgọc Rồng 5 sao (old: 75) lydo: Nhặt từ map at 03/13/2023 5:12 PM
+BAG:clazy add 76xNgọc Rồng 6 sao (old: 75) lydo: Nhặt từ map at 03/13/2023 5:12 PM
+BAG:clazy add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/13/2023 5:12 PM
+BAG:clazy add 77xNgọc Rồng 5 sao (old: 76) lydo: Nhặt từ map at 03/13/2023 5:14 PM
+BAG:clazy add 76xNgọc Rồng 4 sao (old: 75) lydo: Nhặt từ map at 03/13/2023 5:14 PM
+BAG:clazy add 9xPháo hoa (old: 8) lydo: Nhặt từ map at 03/13/2023 5:17 PM
+BAG:clazy add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 5:17 PM
+BAG:clazy add 77xNgọc Rồng 4 sao (old: 76) lydo: HQT at 03/13/2023 5:17 PM
+BAG:clazy add 77xNgọc Rồng 6 sao (old: 76) lydo: HQT at 03/13/2023 5:17 PM
+BAG:clazy add 67xGiáp Xên bọ hung (old: 66) lydo: HQT at 03/13/2023 5:17 PM
+BAG:clazy add 66xCuồng nộ (old: 65) lydo: HQT at 03/13/2023 5:17 PM
+BAG:clazy add 78xNgọc Rồng 6 sao (old: 77) lydo: Nhặt từ map at 03/13/2023 5:22 PM
+BAG:clazy add 10xPháo hoa (old: 9) lydo: Nhặt từ map at 03/13/2023 5:24 PM
+BAG:clazy add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhặt từ map at 03/13/2023 5:25 PM
+BAG:clazy add 11xPháo hoa (old: 10) lydo: Nhặt từ map at 03/13/2023 5:28 PM
+BAG:clazy add 78xNgọc Rồng 5 sao (old: 77) lydo: Nhặt từ map at 03/13/2023 5:30 PM
+BAG:clazy add 1xNgọc Thố lydo: CSTT at 03/13/2023 6:13 PM
+BAG:clazy add 6xĐá thạch anh tím lydo: buff at 03/13/2023 6:13 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 7) lydo: buff at 03/13/2023 6:13 PM
+BAG:clazy add 5xĐá thạch anh tím lydo: buff at 03/13/2023 6:13 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 6) lydo: buff at 03/13/2023 6:13 PM
+BAG:clazy add 4xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 5) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 3xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 4) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 2xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 3) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 1xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 2) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 1) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 98xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 97xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 98) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 96xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 97) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 95xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 96) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 94xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 95) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 93xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 94) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 92xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 93) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 91xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 92) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 90xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 91) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 89xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 90) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 88xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 89) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 87xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 88) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 86xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 87) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 85xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 86) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 84xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 85) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 83xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 84) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 82xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 83) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 81xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 82) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 80xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 81) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 79xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 80) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 78xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 79) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 77xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 78) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 76xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 77) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 75xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 76) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 74xĐá thạch anh tím lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 75) lydo: buff at 03/13/2023 6:14 PM
+BAG:clazy add 73xĐá thạch anh tím lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 74) lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 72xĐá thạch anh tím lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 73) lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 71xĐá thạch anh tím lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 72) lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 70xĐá thạch anh tím lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 71) lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 69xĐá thạch anh tím lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 70) lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 68xĐá thạch anh tím lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 69) lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 67xĐá thạch anh tím lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 68) lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 66xĐá thạch anh tím lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 67) lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 65xĐá thạch anh tím lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 66) lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 64xĐá thạch anh tím lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 99xĐá thạch anh tím (old: 65) lydo: buff at 03/13/2023 6:15 PM
+BAG:clazy add 55xNgọc Rồng 3 sao lydo: buff at 03/13/2023 6:17 PM
+BAG:clazy add 99xNgọc Rồng 3 sao (old: 55) lydo: buff at 03/13/2023 6:17 PM
+BAG:clazy add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhặt từ map at 03/13/2023 7:37 PM
+BAG:clazy add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 7:39 PM
+BAG:clazy add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 7:39 PM
+BAG:clazy add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 7:39 PM
+BAG:clazy add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhặt từ map at 03/13/2023 7:41 PM
+BAG:clazy add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/13/2023 7:41 PM
+BAG:clazy add 78xNgọc Rồng 4 sao (old: 77) lydo: Nhặt từ map at 03/13/2023 7:41 PM
+BAG:clazy add 79xNgọc Rồng 4 sao (old: 78) lydo: Nhặt từ map at 03/13/2023 7:42 PM
+BAG:clazy add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 7:42 PM
+BAG:clazy add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 03/13/2023 7:43 PM
+BAG:clazy add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 03/13/2023 7:43 PM
+BAG:clazy add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 7:43 PM
+BAG:clazy add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhặt từ map at 03/13/2023 7:44 PM
+BAG:clazy add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhặt từ map at 03/13/2023 7:44 PM
+BAG:clazy add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 7:46 PM
+BAG:clazy add 1xGăng Thiên Sứ lydo: buff at 03/13/2023 8:01 PM
+BAG:clazy add 99xHộp bánh Trung Thu lydo: buff at 03/13/2023 8:04 PM
+BAG:clazy add 1xCải trang Gohan Siêu Nhân lydo: Mua từ bill at 03/13/2023 8:40 PM
+BAG:clazy add 30xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/13/2023 8:57 PM
+BAG:clazy add 55xThỏi vàng lydo: (GD) Nhận từ huaducthao at 03/13/2023 9:30 PM
+BAG:clazy add 3355xThỏi vàng (old: 3300) lydo: Lấy từ rương qua người at 03/13/2023 9:59 PM
+BAG:clazy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 10:05 PM
+BAG:clazy add 1xGiầy vải thô lydo: admin at 03/13/2023 10:08 PM
+BAG:clazy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 10:11 PM
+BAG:clazy add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhặt từ map at 03/13/2023 10:22 PM

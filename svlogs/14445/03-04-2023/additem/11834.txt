@@ -1,0 +1,91 @@
+BAG:lvnamecvl add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 9xNâng cấp kỹ năng 1 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 10xNâng cấp kỹ năng 1 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 11xNâng cấp kỹ năng 1 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 12xNâng cấp kỹ năng 1 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:lvnamecvl add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 12:17 AM
+BAG:lvnamecvl add 1xGăng thun cứng lydo: Mua từ cửa hàng at 03/04/2023 12:17 AM
+BAG:lvnamecvl add 1xGăng da Pico lydo: Mua từ cửa hàng at 03/04/2023 12:17 AM
+BAG:lvnamecvl add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/04/2023 12:17 AM
+BAG:lvnamecvl add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:28 AM
+BAG:lvnamecvl add 1xGăng da Pico lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:28 AM
+BAG:lvnamecvl add 46xĐậu xanh (old: 45) lydo: Nhặt từ map at 03/04/2023 12:34 AM
+BAG:lvnamecvl add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 12:38 AM
+BAG:lvnamecvl add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 12:38 AM
+BAG:lvnamecvl add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 12:38 AM
+BAG:lvnamecvl add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 12:38 AM
+BAG:lvnamecvl add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 12:38 AM
+BAG:lvnamecvl add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 12:39 AM
+BAG:lvnamecvl add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/04/2023 12:40 AM
+BAG:lvnamecvl add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/04/2023 12:40 AM
+BAG:lvnamecvl add 47xĐậu xanh (old: 46) lydo: Nhặt từ map at 03/04/2023 12:42 AM
+BAG:lvnamecvl add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/04/2023 12:42 AM
+BAG:lvnamecvl add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/04/2023 12:42 AM
+BAG:lvnamecvl add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/04/2023 12:42 AM
+BAG:lvnamecvl add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/04/2023 12:42 AM
+BAG:lvnamecvl add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/04/2023 12:42 AM
+BAG:lvnamecvl add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/04/2023 12:42 AM
+BAG:lvnamecvl add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/04/2023 12:43 AM
+BAG:lvnamecvl add 48xĐậu xanh (old: 47) lydo: Nhặt từ map at 03/04/2023 12:43 AM
+BAG:lvnamecvl add 49xĐậu xanh (old: 48) lydo: Nhặt từ map at 03/04/2023 12:45 AM
+BAG:lvnamecvl add 1xGăng bạc Zealot lydo: Mua từ cửa hàng at 03/04/2023 12:47 AM
+BAG:lvnamecvl add 1xGăng vàng Zealot lydo: Mua từ cửa hàng at 03/04/2023 12:47 AM
+BAG:lvnamecvl add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 12:51 AM
+BAG:lvnamecvl add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 12:51 AM
+BAG:lvnamecvl add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 12:51 AM
+BAG:lvnamecvl add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 12:51 AM
+BAG:lvnamecvl add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 12:51 AM
+BAG:lvnamecvl add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 12:51 AM
+BAG:lvnamecvl add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 12:52 AM
+BAG:lvnamecvl add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 12:52 AM
+BAG:lvnamecvl add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 12:52 AM
+BAG:lvnamecvl add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 12:52 AM
+BAG:lvnamecvl add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 12:52 AM
+BAG:lvnamecvl add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 12:52 AM
+BAG:lvnamecvl add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:57 AM
+BAG:lvnamecvl add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 12:57 AM
+BAG:lvnamecvl add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 12:57 AM
+BAG:lvnamecvl add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/04/2023 12:58 AM
+BAG:lvnamecvl add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 12:58 AM
+BAG:lvnamecvl add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 12:58 AM
+BAG:lvnamecvl add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/04/2023 1:00 AM
+BAG:lvnamecvl add 1xGăng vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:27 AM
+BAG:lvnamecvl add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:27 AM
+BAG:lvnamecvl add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:27 AM
+BAG:lvnamecvl add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:lvnamecvl add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 1:29 AM
+BAG:lvnamecvl add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 1:29 AM
+BAG:lvnamecvl add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 1:29 AM
+BAG:lvnamecvl add 1xGăng vải Pico lydo: Mua từ cửa hàng at 03/04/2023 1:31 AM
+BAG:lvnamecvl add 1xGăng da Pico lydo: Mua từ cửa hàng at 03/04/2023 1:32 AM
+BAG:lvnamecvl add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 03/04/2023 1:32 AM
+BAG:lvnamecvl add 1xGăng đồng Tron lydo: Mua từ cửa hàng at 03/04/2023 1:32 AM
+BAG:lvnamecvl add 1xGăng bạc Zealot lydo: Mua từ cửa hàng at 03/04/2023 1:32 AM
+BAG:lvnamecvl add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 1:36 AM
+BAG:lvnamecvl add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/04/2023 1:38 AM

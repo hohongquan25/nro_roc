@@ -1,0 +1,63 @@
+BAG:ssvuako add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 6:44 AM
+BAG:ssvuako add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 6:45 AM
+BAG:ssvuako add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 6:45 AM
+BAG:ssvuako add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 6:45 AM
+BAG:ssvuako add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 6:45 AM
+BAG:ssvuako add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 6:45 AM
+BAG:ssvuako add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/04/2023 6:46 AM
+BAG:ssvuako add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 6:48 AM
+BAG:ssvuako add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/04/2023 6:49 AM
+BAG:ssvuako add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 6:56 AM
+BAG:ssvuako add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 7:01 AM
+BAG:ssvuako add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/04/2023 7:03 AM
+BAG:ssvuako add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/04/2023 7:11 AM
+BAG:ssvuako add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/04/2023 7:11 AM
+BAG:ssvuako add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/04/2023 7:12 AM
+BAG:ssvuako add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/04/2023 7:13 AM
+BAG:ssvuako add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/04/2023 7:13 AM
+BAG:ssvuako add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/04/2023 7:13 AM
+BAG:ssvuako add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/04/2023 7:14 AM
+BAG:ssvuako add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/04/2023 7:14 AM
+BAG:ssvuako add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/04/2023 7:14 AM
+BAG:ssvuako add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/04/2023 7:14 AM
+BAG:ssvuako add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 7:14 AM
+BAG:ssvuako add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 7:14 AM
+BAG:ssvuako add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/04/2023 7:15 AM
+BAG:ssvuako add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 7:15 AM
+BAG:ssvuako add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/04/2023 7:15 AM
+BAG:ssvuako add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/04/2023 7:15 AM
+BAG:ssvuako add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/04/2023 7:15 AM
+BAG:ssvuako add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/04/2023 7:16 AM
+BAG:ssvuako add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/04/2023 7:16 AM
+BAG:ssvuako add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/04/2023 7:17 AM
+BAG:ssvuako add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/04/2023 7:17 AM
+BAG:ssvuako add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/04/2023 7:17 AM
+BAG:ssvuako add 1xGăng vải thô lydo: Nhặt từ map at 03/04/2023 7:17 AM
+BAG:ssvuako add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/04/2023 7:17 AM
+BAG:ssvuako add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/04/2023 7:17 AM
+BAG:ssvuako add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/04/2023 7:18 AM
+BAG:ssvuako add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/04/2023 7:18 AM
+BAG:ssvuako add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/04/2023 7:18 AM
+BAG:ssvuako add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/04/2023 7:18 AM
+BAG:ssvuako add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/04/2023 7:18 AM
+BAG:ssvuako add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 7:18 AM
+BAG:ssvuako add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/04/2023 7:19 AM
+BAG:ssvuako add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/04/2023 7:19 AM
+BAG:ssvuako add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 7:19 AM
+BAG:ssvuako add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/04/2023 7:19 AM
+BAG:ssvuako add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 7:19 AM
+BAG:ssvuako add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/04/2023 7:20 AM
+BAG:ssvuako add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/04/2023 7:21 AM
+BAG:ssvuako add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/04/2023 7:22 AM
+BAG:ssvuako add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/04/2023 7:22 AM
+BAG:ssvuako add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/04/2023 7:22 AM
+BAG:ssvuako add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/04/2023 7:22 AM
+BAG:ssvuako add 1xGăng vải thô lydo: Nhặt từ map at 03/04/2023 7:22 AM
+BAG:ssvuako add 1xGăng vải thô lydo: Nhặt từ map at 03/04/2023 7:23 AM
+BAG:ssvuako add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 7:38 AM
+BAG:ssvuako add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 7:38 AM
+BAG:ssvuako add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 7:39 AM
+BAG:ssvuako add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 7:40 AM
+BAG:ssvuako add 1xCải trang Saibamen lydo: Mua từ cửa hàng at 03/04/2023 7:49 AM
+BAG:ssvuako add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/04/2023 7:59 AM
+BAG:ssvuako add 1xNgọc Rồng 5 sao lydo: CSTT at 03/04/2023 7:59 AM

@@ -1,0 +1,443 @@
+BAG:quansly add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:24 AM
+BAG:quansly add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:24 AM
+BAG:quansly add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:24 AM
+BAG:quansly add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:24 AM
+BAG:quansly add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:25 AM
+BAG:quansly add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:25 AM
+BAG:quansly add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:25 AM
+BAG:quansly add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:25 AM
+BAG:quansly add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 12:26 AM
+BAG:quansly add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 12:26 AM
+BAG:quansly add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 12:26 AM
+BAG:quansly add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 12:26 AM
+BAG:quansly add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 12:26 AM
+BAG:quansly add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 12:26 AM
+BAG:quansly add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 1xNgọc Rồng 6 sao lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 12:33 AM
+BAG:quansly add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhập ngọc at 03/04/2023 12:34 AM
+BAG:quansly add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhập ngọc at 03/04/2023 12:35 AM
+BAG:quansly add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhập ngọc at 03/04/2023 12:35 AM
+BAG:quansly add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhập ngọc at 03/04/2023 12:35 AM
+BAG:quansly add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 1xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhập ngọc at 03/04/2023 12:36 AM
+BAG:quansly add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 27xNgọc Rồng 6 sao (old: 26) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 12:37 AM
+BAG:quansly add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 1xNgọc Rồng 6 sao lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 1xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/04/2023 12:38 AM
+BAG:quansly add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:39 AM
+BAG:quansly add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:39 AM
+BAG:quansly add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:39 AM
+BAG:quansly add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:39 AM
+BAG:quansly add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:39 AM
+BAG:quansly add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:39 AM
+BAG:quansly add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:39 AM
+BAG:quansly add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 12:40 AM
+BAG:quansly add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 12:40 AM
+BAG:quansly add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 12:40 AM
+BAG:quansly add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 12:40 AM
+BAG:quansly add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 12:40 AM
+BAG:quansly add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 12:40 AM
+BAG:quansly add 1xĐá Ruby lydo: Nhặt từ map at 03/04/2023 12:45 AM
+BAG:quansly add 1xQuần lưỡng long lydo: Lấy từ rương qua người at 03/04/2023 12:53 AM
+BAG:quansly add 1xQuần lưỡng long lydo: Lấy từ rương qua người at 03/04/2023 12:53 AM
+BAG:quansly add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 12:53 AM
+BAG:quansly add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 12:53 AM
+BAG:quansly add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 12:54 AM
+BAG:quansly add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/04/2023 12:55 AM
+BAG:quansly add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/04/2023 12:55 AM
+BAG:quansly add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/04/2023 12:55 AM
+BAG:quansly add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/04/2023 12:55 AM
+BAG:quansly add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/04/2023 12:56 AM
+BAG:quansly add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 12:56 AM
+BAG:quansly add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 12:56 AM
+BAG:quansly add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 12:56 AM
+BAG:quansly add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 12:56 AM
+BAG:quansly add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/04/2023 12:56 AM
+BAG:quansly add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 12:57 AM
+BAG:quansly add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/04/2023 12:58 AM
+BAG:quansly add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/04/2023 12:58 AM
+BAG:quansly add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 12:58 AM
+BAG:quansly add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/04/2023 12:58 AM
+BAG:quansly add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/04/2023 12:59 AM
+BAG:quansly add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/04/2023 12:59 AM
+BAG:quansly add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 03/04/2023 12:59 AM
+BAG:quansly add 1xGiày lưỡng long lydo: Cường Hóa trang bị at 03/04/2023 12:59 AM
+BAG:quansly add 1xĐá Saphia lydo: Nhặt từ map at 03/04/2023 1:16 AM
+BAG:quansly add 54xBột mì (old: 53) lydo: Nhặt từ map at 03/04/2023 1:22 AM
+BAG:quansly add 55xBột mì (old: 54) lydo: Nhặt từ map at 03/04/2023 1:22 AM
+BAG:quansly add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/04/2023 1:23 AM
+BAG:quansly add 1xĐá Titan lydo: Nhặt từ map at 03/04/2023 1:23 AM
+BAG:quansly add 45xGà quay nguyên con (old: 44) lydo: Nhặt từ map at 03/04/2023 1:23 AM
+BAG:quansly add 46xGà quay nguyên con (old: 45) lydo: Nhặt từ map at 03/04/2023 1:23 AM
+BAG:quansly add 47xGà quay nguyên con (old: 46) lydo: Nhặt từ map at 03/04/2023 1:23 AM
+BAG:quansly add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/04/2023 1:23 AM
+BAG:quansly add 56xBột mì (old: 55) lydo: Nhặt từ map at 03/04/2023 1:23 AM
+BAG:quansly add 57xBột mì (old: 56) lydo: Nhặt từ map at 03/04/2023 1:23 AM
+BAG:quansly add 58xBột mì (old: 57) lydo: Nhặt từ map at 03/04/2023 1:24 AM
+BAG:quansly add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 1:24 AM
+BAG:quansly add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 1:24 AM
+BAG:quansly add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:24 AM
+BAG:quansly add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:24 AM
+BAG:quansly add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 1:24 AM
+BAG:quansly add 59xBột mì (old: 58) lydo: Nhặt từ map at 03/04/2023 1:24 AM
+BAG:quansly add 10xĐậu thần cấp 10 (old: 4) lydo: Thu hoạch đậu at 03/04/2023 1:26 AM
+BAG:quansly add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/04/2023 1:26 AM
+BAG:quansly add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/04/2023 1:26 AM
+BAG:quansly add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/04/2023 1:26 AM
+BAG:quansly add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/04/2023 1:26 AM
+BAG:quansly add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/04/2023 1:27 AM
+BAG:quansly add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/04/2023 1:27 AM
+BAG:quansly add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:quansly add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:quansly add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:quansly add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:quansly add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:quansly add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:quansly add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:quansly add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:quansly add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:quansly add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/04/2023 1:28 AM
+BAG:quansly add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/04/2023 1:29 AM
+BAG:quansly add 99xCuồng nộ lydo: Giftcode at 03/04/2023 1:34 AM
+BAG:quansly add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 1:35 AM
+BAG:quansly add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:quansly add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:35 AM
+BAG:quansly add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:35 AM
+BAG:quansly add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:35 AM
+BAG:quansly add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:35 AM
+BAG:quansly add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:35 AM
+BAG:quansly add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 1:36 AM
+BAG:quansly add 14xNgọc Rồng 1 sao lydo: Admin at 03/04/2023 1:38 AM
+BAG:quansly add 99xThỏi vàng lydo: Tách thỏi vàng at 03/04/2023 1:38 AM
+BAG:quansly add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 1:42 AM
+BAG:quansly add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 1:42 AM
+BAG:quansly add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 1:42 AM
+BAG:quansly add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 1:42 AM
+BAG:quansly add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 1:42 AM
+BAG:quansly add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 1:43 AM
+BAG:quansly add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 1:43 AM
+BAG:quansly add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 1:43 AM
+BAG:quansly add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 1:44 AM
+BAG:quansly add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/04/2023 1:44 AM
+BAG:quansly add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/04/2023 1:44 AM
+BAG:quansly add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 1:46 AM
+BAG:quansly add 1xGiầy Thần Xayda lydo: Cường Hóa trang bị at 03/04/2023 1:46 AM
+BAG:quansly add 17xNgọc Rồng 4 sao lydo: Admin at 03/04/2023 1:48 AM
+BAG:quansly add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 2:00 AM
+BAG:quansly add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 2:00 AM
+BAG:quansly add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 2:00 AM
+BAG:quansly add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 2:00 AM
+BAG:quansly add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 2:00 AM
+BAG:quansly add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 2:00 AM
+BAG:quansly add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/04/2023 2:01 AM
+BAG:quansly add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 2:01 AM
+BAG:quansly add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 2:01 AM
+BAG:quansly add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:12 AM
+BAG:quansly add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:12 AM
+BAG:quansly add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:12 AM
+BAG:quansly add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:12 AM
+BAG:quansly add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:12 AM
+BAG:quansly add 1xBột mì lydo: Nhặt từ map at 03/04/2023 2:13 AM
+BAG:quansly add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 2:13 AM
+BAG:quansly add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 2:13 AM
+BAG:quansly add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 2:13 AM
+BAG:quansly add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 2:13 AM
+BAG:quansly add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 2:14 AM
+BAG:quansly add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 2:14 AM
+BAG:quansly add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 2:14 AM
+BAG:quansly add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 2:14 AM
+BAG:quansly add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 2:14 AM
+BAG:quansly add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 2:14 AM
+BAG:quansly add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/04/2023 2:14 AM
+BAG:quansly add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 2:15 AM
+BAG:quansly add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/04/2023 2:15 AM
+BAG:quansly add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/04/2023 2:15 AM
+BAG:quansly add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 2:15 AM
+BAG:quansly add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/04/2023 2:15 AM
+BAG:quansly add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/04/2023 2:15 AM
+BAG:quansly add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 2:15 AM
+BAG:quansly add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 2:15 AM
+BAG:quansly add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 2:16 AM
+BAG:quansly add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 2:16 AM
+BAG:quansly add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/04/2023 2:16 AM
+BAG:quansly add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 2:16 AM
+BAG:quansly add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/04/2023 2:16 AM
+BAG:quansly add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/04/2023 2:16 AM
+BAG:quansly add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/04/2023 2:16 AM
+BAG:quansly add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/04/2023 2:17 AM
+BAG:quansly add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/04/2023 2:17 AM
+BAG:quansly add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/04/2023 2:17 AM
+BAG:quansly add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/04/2023 2:17 AM
+BAG:quansly add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/04/2023 2:17 AM
+BAG:quansly add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/04/2023 2:17 AM
+BAG:quansly add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/04/2023 2:17 AM
+BAG:quansly add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/04/2023 2:18 AM
+BAG:quansly add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/04/2023 2:18 AM
+BAG:quansly add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/04/2023 2:18 AM
+BAG:quansly add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/04/2023 2:18 AM
+BAG:quansly add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/04/2023 2:18 AM
+BAG:quansly add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/04/2023 2:18 AM
+BAG:quansly add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/04/2023 2:18 AM
+BAG:quansly add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/04/2023 2:18 AM
+BAG:quansly add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/04/2023 2:19 AM
+BAG:quansly add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/04/2023 2:19 AM
+BAG:quansly add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/04/2023 2:19 AM
+BAG:quansly add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/04/2023 2:19 AM
+BAG:quansly add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/04/2023 2:19 AM
+BAG:quansly add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/04/2023 2:19 AM
+BAG:quansly add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/04/2023 2:19 AM
+BAG:quansly add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/04/2023 2:19 AM
+BAG:quansly add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/04/2023 2:20 AM
+BAG:quansly add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/04/2023 2:20 AM
+BAG:quansly add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/04/2023 2:20 AM
+BAG:quansly add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/04/2023 2:20 AM
+BAG:quansly add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/04/2023 2:20 AM
+BAG:quansly add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/04/2023 2:20 AM
+BAG:quansly add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/04/2023 2:20 AM
+BAG:quansly add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/04/2023 2:20 AM
+BAG:quansly add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/04/2023 2:21 AM
+BAG:quansly add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/04/2023 2:21 AM
+BAG:quansly add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/04/2023 2:21 AM
+BAG:quansly add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/04/2023 2:22 AM
+BAG:quansly add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/04/2023 2:22 AM
+BAG:quansly add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/04/2023 2:22 AM
+BAG:quansly add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/04/2023 2:22 AM
+BAG:quansly add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/04/2023 2:22 AM
+BAG:quansly add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/04/2023 2:22 AM
+BAG:quansly add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/04/2023 2:22 AM
+BAG:quansly add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/04/2023 2:22 AM
+BAG:quansly add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/04/2023 2:22 AM
+BAG:quansly add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/04/2023 2:22 AM
+BAG:quansly add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/04/2023 2:22 AM
+BAG:quansly add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/04/2023 2:23 AM
+BAG:quansly add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/04/2023 2:23 AM
+BAG:quansly add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/04/2023 2:23 AM
+BAG:quansly add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/04/2023 2:23 AM
+BAG:quansly add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/04/2023 2:23 AM
+BAG:quansly add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/04/2023 2:24 AM
+BAG:quansly add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/04/2023 2:24 AM
+BAG:quansly add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/04/2023 2:24 AM
+BAG:quansly add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/04/2023 2:33 AM
+BAG:quansly add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/04/2023 2:33 AM
+BAG:quansly add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/04/2023 2:33 AM
+BAG:quansly add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/04/2023 2:34 AM
+BAG:quansly add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/04/2023 2:34 AM
+BAG:quansly add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/04/2023 2:34 AM
+BAG:quansly add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/04/2023 2:34 AM
+BAG:quansly add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/04/2023 2:34 AM
+BAG:quansly add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/04/2023 2:35 AM
+BAG:quansly add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/04/2023 2:35 AM
+BAG:quansly add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/04/2023 2:35 AM
+BAG:quansly add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/04/2023 2:35 AM
+BAG:quansly add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/04/2023 2:35 AM
+BAG:quansly add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/04/2023 2:36 AM
+BAG:quansly add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/04/2023 2:36 AM
+BAG:quansly add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/04/2023 2:36 AM
+BAG:quansly add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/04/2023 2:36 AM
+BAG:quansly add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/04/2023 2:36 AM
+BAG:quansly add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/04/2023 2:36 AM
+BAG:quansly add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/04/2023 2:37 AM
+BAG:quansly add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/04/2023 2:37 AM
+BAG:quansly add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/04/2023 2:37 AM
+BAG:quansly add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/04/2023 2:37 AM
+BAG:quansly add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/04/2023 2:37 AM
+BAG:quansly add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/04/2023 2:37 AM
+BAG:quansly add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/04/2023 2:38 AM
+BAG:quansly add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/04/2023 2:38 AM
+BAG:quansly add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/04/2023 2:38 AM
+BAG:quansly add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/04/2023 2:38 AM
+BAG:quansly add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/04/2023 2:38 AM
+BAG:quansly add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/04/2023 2:38 AM
+BAG:quansly add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/04/2023 2:38 AM
+BAG:quansly add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/04/2023 2:39 AM
+BAG:quansly add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/04/2023 2:39 AM
+BAG:quansly add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/04/2023 2:39 AM
+BAG:quansly add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/04/2023 2:39 AM
+BAG:quansly add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/04/2023 2:39 AM
+BAG:quansly add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/04/2023 2:39 AM
+BAG:quansly add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/04/2023 2:39 AM
+BAG:quansly add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/04/2023 2:39 AM
+BAG:quansly add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/04/2023 2:39 AM
+BAG:quansly add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/04/2023 2:39 AM
+BAG:quansly add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/04/2023 2:40 AM
+BAG:quansly add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/04/2023 2:40 AM
+BAG:quansly add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/04/2023 2:40 AM
+BAG:quansly add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/04/2023 2:40 AM
+BAG:quansly add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/04/2023 2:40 AM
+BAG:quansly add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/04/2023 2:40 AM
+BAG:quansly add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/04/2023 2:40 AM
+BAG:quansly add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/04/2023 2:40 AM
+BAG:quansly add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/04/2023 2:40 AM
+BAG:quansly add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/04/2023 2:41 AM
+BAG:quansly add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/04/2023 2:41 AM
+BAG:quansly add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/04/2023 2:41 AM
+BAG:quansly add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/04/2023 2:41 AM
+BAG:quansly add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/04/2023 2:41 AM
+BAG:quansly add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/04/2023 2:41 AM
+BAG:quansly add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/04/2023 2:41 AM
+BAG:quansly add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/04/2023 2:41 AM
+BAG:quansly add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/04/2023 2:42 AM
+BAG:quansly add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/04/2023 2:42 AM
+BAG:quansly add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/04/2023 2:42 AM
+BAG:quansly add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/04/2023 2:42 AM
+BAG:quansly add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/04/2023 2:43 AM
+BAG:quansly add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/04/2023 2:43 AM
+BAG:quansly add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/04/2023 2:43 AM
+BAG:quansly add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/04/2023 2:43 AM
+BAG:quansly add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/04/2023 2:43 AM
+BAG:quansly add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/04/2023 2:44 AM
+BAG:quansly add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/04/2023 2:44 AM
+BAG:quansly add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/04/2023 2:44 AM
+BAG:quansly add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/04/2023 2:44 AM
+BAG:quansly add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/04/2023 2:45 AM
+BAG:quansly add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/04/2023 2:45 AM
+BAG:quansly add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/04/2023 2:45 AM
+BAG:quansly add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/04/2023 2:45 AM
+BAG:quansly add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/04/2023 2:45 AM
+BAG:quansly add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 03/04/2023 2:45 AM
+BAG:quansly add 44xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/04/2023 2:45 AM

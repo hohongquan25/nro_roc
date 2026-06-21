@@ -1,0 +1,439 @@
+BAG:ziser add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/29/2023 2:41 PM
+BAG:ziser add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 2:48 PM
+BAG:ziser add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 2:50 PM
+BAG:ziser add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/29/2023 2:53 PM
+BAG:ziser add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 2:53 PM
+BAG:ziser add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 2:54 PM
+BAG:ziser add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/29/2023 2:54 PM
+BAG:ziser add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 2:54 PM
+BAG:ziser add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/29/2023 2:55 PM
+BAG:ziser add 1xGhế bay lydo: Mua từ cửa hàng at 03/29/2023 2:56 PM
+BAG:ziser add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/29/2023 2:56 PM
+BAG:ziser add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 3:03 PM
+BAG:ziser add 1xCải trang Black Goku SSJ White lydo: Mua từ cửa hàng at 03/29/2023 3:04 PM
+BAG:ziser add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/29/2023 3:04 PM
+BAG:ziser add 1xCải trang Black Goku SSJ White lydo: Mua từ cửa hàng at 03/29/2023 3:04 PM
+BAG:ziser add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/29/2023 3:04 PM
+BAG:ziser add 1xCải trang Black Goku SSJ White lydo: Mua từ cửa hàng at 03/29/2023 3:04 PM
+BAG:ziser add 1xCải trang Siêu Thần Xayda lydo: Mua từ cửa hàng at 03/29/2023 3:05 PM
+BAG:ziser add 1xCây kem lydo: Mua từ cửa hàng at 03/29/2023 3:07 PM
+BAG:ziser add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 3:09 PM
+BAG:ziser add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 3:11 PM
+BAG:ziser add 1000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/29/2023 3:34 PM
+BAG:ziser add 1xHợp thể Kamioren lydo: Mua từ bill at 03/29/2023 3:39 PM
+BAG:ziser add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 3:41 PM
+BAG:ziser add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 3:41 PM
+BAG:ziser add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 3:41 PM
+BAG:ziser add 1xNgọc Rồng 7 sao lydo: HQT at 03/29/2023 3:42 PM
+BAG:ziser add 1xBổ huyết lydo: HQT at 03/29/2023 3:42 PM
+BAG:ziser add 25xThỏi vàng lydo: Đổi vàng at 03/29/2023 3:42 PM
+BAG:ziser add 1xPhóng lợn lydo: Mua từ cửa hàng at 03/29/2023 3:43 PM
+BAG:ziser add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 3:45 PM
+BAG:ziser add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 3:45 PM
+BAG:ziser add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 3:46 PM
+BAG:ziser add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 3:46 PM
+BAG:ziser add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 3:46 PM
+BAG:ziser add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 3:46 PM
+BAG:ziser add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 3:46 PM
+BAG:ziser add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 3:46 PM
+BAG:ziser add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 3:46 PM
+BAG:ziser add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 3:46 PM
+BAG:ziser add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 3:48 PM
+BAG:ziser add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 3:48 PM
+BAG:ziser add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 3:48 PM
+BAG:ziser add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/29/2023 3:49 PM
+BAG:ziser add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 3:49 PM
+BAG:ziser add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 3:49 PM
+BAG:ziser add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/29/2023 3:50 PM
+BAG:ziser add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/29/2023 3:50 PM
+BAG:ziser add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 3:50 PM
+BAG:ziser add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 3:50 PM
+BAG:ziser add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 3:51 PM
+BAG:ziser add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/29/2023 3:51 PM
+BAG:ziser add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/29/2023 3:51 PM
+BAG:ziser add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/29/2023 3:51 PM
+BAG:ziser add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 3:52 PM
+BAG:ziser add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 3:52 PM
+BAG:ziser add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 3:53 PM
+BAG:ziser add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 3:53 PM
+BAG:ziser add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 3:53 PM
+BAG:ziser add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 3:54 PM
+BAG:ziser add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/29/2023 3:54 PM
+BAG:ziser add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 3:54 PM
+BAG:ziser add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 3:54 PM
+BAG:ziser add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 3:54 PM
+BAG:ziser add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:ziser add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:ziser add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:ziser add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:ziser add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:ziser add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:ziser add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 3:55 PM
+BAG:ziser add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 3:56 PM
+BAG:ziser add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 3:57 PM
+BAG:ziser add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 3:57 PM
+BAG:ziser add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/29/2023 3:57 PM
+BAG:ziser add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 3:57 PM
+BAG:ziser add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/29/2023 3:58 PM
+BAG:ziser add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 3:58 PM
+BAG:ziser add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/29/2023 3:58 PM
+BAG:ziser add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/29/2023 3:59 PM
+BAG:ziser add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/29/2023 3:59 PM
+BAG:ziser add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/29/2023 4:00 PM
+BAG:ziser add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 4:00 PM
+BAG:ziser add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/29/2023 4:01 PM
+BAG:ziser add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 03/29/2023 4:01 PM
+BAG:ziser add 10xĐậu thần cấp 6 lydo: Thu hoạch đậu at 03/29/2023 4:02 PM
+BAG:ziser add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 03/29/2023 4:02 PM
+BAG:ziser add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 4:02 PM
+BAG:ziser add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 4:03 PM
+BAG:ziser add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/29/2023 4:04 PM
+BAG:ziser add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 4:04 PM
+BAG:ziser add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 03/29/2023 4:04 PM
+BAG:ziser add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 4:05 PM
+BAG:ziser add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 03/29/2023 4:05 PM
+BAG:ziser add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 03/29/2023 4:05 PM
+BAG:ziser add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 4:06 PM
+BAG:ziser add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 03/29/2023 4:07 PM
+BAG:ziser add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/29/2023 4:07 PM
+BAG:ziser add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 4:07 PM
+BAG:ziser add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 4:07 PM
+BAG:ziser add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 4:07 PM
+BAG:ziser add 24xMảnh Quỷ đất (old: 23) lydo: Nhặt từ map at 03/29/2023 4:08 PM
+BAG:ziser add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/29/2023 4:08 PM
+BAG:ziser add 25xMảnh Quỷ đất (old: 24) lydo: Nhặt từ map at 03/29/2023 4:09 PM
+BAG:ziser add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 4:09 PM
+BAG:ziser add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/29/2023 4:09 PM
+BAG:ziser add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 4:10 PM
+BAG:ziser add 26xMảnh Quỷ đất (old: 25) lydo: Nhặt từ map at 03/29/2023 4:10 PM
+BAG:ziser add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 4:10 PM
+BAG:ziser add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 4:10 PM
+BAG:ziser add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 4:11 PM
+BAG:ziser add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/29/2023 4:11 PM
+BAG:ziser add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/29/2023 4:11 PM
+BAG:ziser add 27xMảnh Quỷ đất (old: 26) lydo: Nhặt từ map at 03/29/2023 4:11 PM
+BAG:ziser add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 4:11 PM
+BAG:ziser add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 4:12 PM
+BAG:ziser add 28xMảnh Quỷ đất (old: 27) lydo: Nhặt từ map at 03/29/2023 4:12 PM
+BAG:ziser add 29xMảnh Quỷ đất (old: 28) lydo: Nhặt từ map at 03/29/2023 4:12 PM
+BAG:ziser add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 4:12 PM
+BAG:ziser add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 4:13 PM
+BAG:ziser add 30xMảnh Quỷ đất (old: 29) lydo: Nhặt từ map at 03/29/2023 4:13 PM
+BAG:ziser add 31xMảnh Quỷ đất (old: 30) lydo: Nhặt từ map at 03/29/2023 4:14 PM
+BAG:ziser add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 4:14 PM
+BAG:ziser add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 4:14 PM
+BAG:ziser add 32xMảnh Quỷ đất (old: 31) lydo: Nhặt từ map at 03/29/2023 4:14 PM
+BAG:ziser add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 4:15 PM
+BAG:ziser add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 4:16 PM
+BAG:ziser add 33xMảnh Quỷ đất (old: 32) lydo: Nhặt từ map at 03/29/2023 4:16 PM
+BAG:ziser add 34xMảnh Quỷ đất (old: 33) lydo: Nhặt từ map at 03/29/2023 4:16 PM
+BAG:ziser add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 7:07 PM
+BAG:ziser add 35xMảnh Quỷ đất (old: 34) lydo: Nhặt từ map at 03/29/2023 7:07 PM
+BAG:ziser add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 7:07 PM
+BAG:ziser add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 7:08 PM
+BAG:ziser add 36xMảnh Quỷ đất (old: 35) lydo: Nhặt từ map at 03/29/2023 7:09 PM
+BAG:ziser add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 7:09 PM
+BAG:ziser add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/29/2023 7:10 PM
+BAG:ziser add 37xMảnh Quỷ đất (old: 36) lydo: Nhặt từ map at 03/29/2023 7:10 PM
+BAG:ziser add 38xMảnh Quỷ đất (old: 37) lydo: Nhặt từ map at 03/29/2023 7:10 PM
+BAG:ziser add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/29/2023 7:11 PM
+BAG:ziser add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 7:14 PM
+BAG:ziser add 39xMảnh Quỷ đất (old: 38) lydo: Nhặt từ map at 03/29/2023 7:14 PM
+BAG:ziser add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 7:15 PM
+BAG:ziser add 40xMảnh Quỷ đất (old: 39) lydo: Nhặt từ map at 03/29/2023 7:15 PM
+BAG:ziser add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 7:15 PM
+BAG:ziser add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 7:16 PM
+BAG:ziser add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 7:16 PM
+BAG:ziser add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 7:16 PM
+BAG:ziser add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/29/2023 7:17 PM
+BAG:ziser add 41xMảnh Quỷ đất (old: 40) lydo: Nhặt từ map at 03/29/2023 7:17 PM
+BAG:ziser add 42xMảnh Quỷ đất (old: 41) lydo: Nhặt từ map at 03/29/2023 7:17 PM
+BAG:ziser add 43xMảnh Quỷ đất (old: 42) lydo: Nhặt từ map at 03/29/2023 7:19 PM
+BAG:ziser add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 7:19 PM
+BAG:ziser add 44xMảnh Quỷ đất (old: 43) lydo: Nhặt từ map at 03/29/2023 7:20 PM
+BAG:ziser add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 7:20 PM
+BAG:ziser add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 7:20 PM
+BAG:ziser add 45xMảnh Quỷ đất (old: 44) lydo: Nhặt từ map at 03/29/2023 7:20 PM
+BAG:ziser add 46xMảnh Quỷ đất (old: 45) lydo: Nhặt từ map at 03/29/2023 7:20 PM
+BAG:ziser add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 7:21 PM
+BAG:ziser add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/29/2023 7:21 PM
+BAG:ziser add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 7:21 PM
+BAG:ziser add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/29/2023 7:21 PM
+BAG:ziser add 47xMảnh Quỷ đất (old: 46) lydo: Nhặt từ map at 03/29/2023 7:21 PM
+BAG:ziser add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 7:22 PM
+BAG:ziser add 48xMảnh Quỷ đất (old: 47) lydo: Nhặt từ map at 03/29/2023 7:22 PM
+BAG:ziser add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 7:22 PM
+BAG:ziser add 49xMảnh Quỷ đất (old: 48) lydo: Nhặt từ map at 03/29/2023 7:23 PM
+BAG:ziser add 50xMảnh Quỷ đất (old: 49) lydo: Nhặt từ map at 03/29/2023 7:23 PM
+BAG:ziser add 51xMảnh Quỷ đất (old: 50) lydo: Nhặt từ map at 03/29/2023 7:24 PM
+BAG:ziser add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 7:24 PM
+BAG:ziser add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 7:24 PM
+BAG:ziser add 52xMảnh Quỷ đất (old: 51) lydo: Nhặt từ map at 03/29/2023 7:25 PM
+BAG:ziser add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 7:25 PM
+BAG:ziser add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 7:33 PM
+BAG:ziser add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 7:33 PM
+BAG:ziser add 53xMảnh Quỷ đất (old: 52) lydo: Nhặt từ map at 03/29/2023 7:34 PM
+BAG:ziser add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/29/2023 7:34 PM
+BAG:ziser add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 7:34 PM
+BAG:ziser add 54xMảnh Quỷ đất (old: 53) lydo: Nhặt từ map at 03/29/2023 7:35 PM
+BAG:ziser add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/29/2023 7:35 PM
+BAG:ziser add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 7:36 PM
+BAG:ziser add 55xMảnh Quỷ đất (old: 54) lydo: Nhặt từ map at 03/29/2023 7:36 PM
+BAG:ziser add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 7:36 PM
+BAG:ziser add 56xMảnh Quỷ đất (old: 55) lydo: Nhặt từ map at 03/29/2023 7:37 PM
+BAG:ziser add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/29/2023 7:37 PM
+BAG:ziser add 57xMảnh Quỷ đất (old: 56) lydo: Nhặt từ map at 03/29/2023 7:37 PM
+BAG:ziser add 58xMảnh Quỷ đất (old: 57) lydo: Nhặt từ map at 03/29/2023 7:38 PM
+BAG:ziser add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 7:38 PM
+BAG:ziser add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/29/2023 7:39 PM
+BAG:ziser add 59xMảnh Quỷ đất (old: 58) lydo: Nhặt từ map at 03/29/2023 7:39 PM
+BAG:ziser add 60xMảnh Quỷ đất (old: 59) lydo: Nhặt từ map at 03/29/2023 7:39 PM
+BAG:ziser add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/29/2023 7:40 PM
+BAG:ziser add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 7:40 PM
+BAG:ziser add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 7:40 PM
+BAG:ziser add 61xMảnh Quỷ đất (old: 60) lydo: Nhặt từ map at 03/29/2023 7:40 PM
+BAG:ziser add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/29/2023 7:40 PM
+BAG:ziser add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 7:40 PM
+BAG:ziser add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 7:41 PM
+BAG:ziser add 62xMảnh Quỷ đất (old: 61) lydo: Nhặt từ map at 03/29/2023 7:41 PM
+BAG:ziser add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 7:43 PM
+BAG:ziser add 63xMảnh Quỷ đất (old: 62) lydo: Nhặt từ map at 03/29/2023 7:43 PM
+BAG:ziser add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/29/2023 7:43 PM
+BAG:ziser add 64xMảnh Quỷ đất (old: 63) lydo: Nhặt từ map at 03/29/2023 7:43 PM
+BAG:ziser add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 7:43 PM
+BAG:ziser add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/29/2023 7:44 PM
+BAG:ziser add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/29/2023 7:44 PM
+BAG:ziser add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 7:44 PM
+BAG:ziser add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 7:44 PM
+BAG:ziser add 65xMảnh Quỷ đất (old: 64) lydo: Nhặt từ map at 03/29/2023 7:44 PM
+BAG:ziser add 66xMảnh Quỷ đất (old: 65) lydo: Nhặt từ map at 03/29/2023 7:44 PM
+BAG:ziser add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 7:45 PM
+BAG:ziser add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/29/2023 7:45 PM
+BAG:ziser add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/29/2023 7:46 PM
+BAG:ziser add 67xMảnh Quỷ đất (old: 66) lydo: Nhặt từ map at 03/29/2023 7:46 PM
+BAG:ziser add 68xMảnh Quỷ đất (old: 67) lydo: Nhặt từ map at 03/29/2023 7:47 PM
+BAG:ziser add 69xMảnh Quỷ đất (old: 68) lydo: Nhặt từ map at 03/29/2023 7:47 PM
+BAG:ziser add 70xMảnh Quỷ đất (old: 69) lydo: Nhặt từ map at 03/29/2023 7:47 PM
+BAG:ziser add 71xMảnh Quỷ đất (old: 70) lydo: Nhặt từ map at 03/29/2023 7:47 PM
+BAG:ziser add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/29/2023 7:48 PM
+BAG:ziser add 72xMảnh Quỷ đất (old: 71) lydo: Nhặt từ map at 03/29/2023 7:48 PM
+BAG:ziser add 73xMảnh Quỷ đất (old: 72) lydo: Nhặt từ map at 03/29/2023 7:49 PM
+BAG:ziser add 74xMảnh Quỷ đất (old: 73) lydo: Nhặt từ map at 03/29/2023 7:49 PM
+BAG:ziser add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/29/2023 7:50 PM
+BAG:ziser add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/29/2023 7:50 PM
+BAG:ziser add 75xMảnh Quỷ đất (old: 74) lydo: Nhặt từ map at 03/29/2023 7:50 PM
+BAG:ziser add 76xMảnh Quỷ đất (old: 75) lydo: Nhặt từ map at 03/29/2023 7:50 PM
+BAG:ziser add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/29/2023 7:51 PM
+BAG:ziser add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/29/2023 7:51 PM
+BAG:ziser add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 7:52 PM
+BAG:ziser add 77xMảnh Quỷ đất (old: 76) lydo: Nhặt từ map at 03/29/2023 7:52 PM
+BAG:ziser add 78xMảnh Quỷ đất (old: 77) lydo: Nhặt từ map at 03/29/2023 7:52 PM
+BAG:ziser add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 7:52 PM
+BAG:ziser add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/29/2023 7:53 PM
+BAG:ziser add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 7:53 PM
+BAG:ziser add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/29/2023 7:53 PM
+BAG:ziser add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 7:54 PM
+BAG:ziser add 79xMảnh Quỷ đất (old: 78) lydo: Nhặt từ map at 03/29/2023 7:54 PM
+BAG:ziser add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 7:54 PM
+BAG:ziser add 80xMảnh Quỷ đất (old: 79) lydo: Nhặt từ map at 03/29/2023 7:55 PM
+BAG:ziser add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 7:55 PM
+BAG:ziser add 81xMảnh Quỷ đất (old: 80) lydo: Nhặt từ map at 03/29/2023 7:55 PM
+BAG:ziser add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/29/2023 7:55 PM
+BAG:ziser add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/29/2023 7:56 PM
+BAG:ziser add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/29/2023 7:56 PM
+BAG:ziser add 82xMảnh Quỷ đất (old: 81) lydo: Nhặt từ map at 03/29/2023 7:56 PM
+BAG:ziser add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/29/2023 7:57 PM
+BAG:ziser add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/29/2023 7:57 PM
+BAG:ziser add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 7:58 PM
+BAG:ziser add 83xMảnh Quỷ đất (old: 82) lydo: Nhặt từ map at 03/29/2023 7:58 PM
+BAG:ziser add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/29/2023 7:59 PM
+BAG:ziser add 84xMảnh Quỷ đất (old: 83) lydo: Nhặt từ map at 03/29/2023 7:59 PM
+BAG:ziser add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 7:59 PM
+BAG:ziser add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 8:00 PM
+BAG:ziser add 85xMảnh Quỷ đất (old: 84) lydo: Nhặt từ map at 03/29/2023 8:00 PM
+BAG:ziser add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 8:00 PM
+BAG:ziser add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/29/2023 8:01 PM
+BAG:ziser add 86xMảnh Quỷ đất (old: 85) lydo: Nhặt từ map at 03/29/2023 8:01 PM
+BAG:ziser add 87xMảnh Quỷ đất (old: 86) lydo: Nhặt từ map at 03/29/2023 8:02 PM
+BAG:ziser add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/29/2023 8:02 PM
+BAG:ziser add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/29/2023 8:03 PM
+BAG:ziser add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 8:03 PM
+BAG:ziser add 88xMảnh Quỷ đất (old: 87) lydo: Nhặt từ map at 03/29/2023 8:04 PM
+BAG:ziser add 89xMảnh Quỷ đất (old: 88) lydo: Nhặt từ map at 03/29/2023 8:04 PM
+BAG:ziser add 90xMảnh Quỷ đất (old: 89) lydo: Nhặt từ map at 03/29/2023 8:04 PM
+BAG:ziser add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 8:09 PM
+BAG:ziser add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 8:30 PM
+BAG:ziser add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 8:31 PM
+BAG:ziser add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 8:31 PM
+BAG:ziser add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 8:31 PM
+BAG:ziser add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 8:31 PM
+BAG:ziser add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 8:31 PM
+BAG:ziser add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 8:31 PM
+BAG:ziser add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 8:35 PM
+BAG:ziser add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 8:35 PM
+BAG:ziser add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 8:35 PM
+BAG:ziser add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 8:35 PM
+BAG:ziser add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 8:35 PM
+BAG:ziser add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 8:35 PM
+BAG:ziser add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 8:35 PM
+BAG:ziser add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 8:35 PM
+BAG:ziser add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 8:35 PM
+BAG:ziser add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 8:35 PM
+BAG:ziser add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/29/2023 8:36 PM
+BAG:ziser add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/29/2023 8:37 PM
+BAG:ziser add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 8:37 PM
+BAG:ziser add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 8:38 PM
+BAG:ziser add 1025xThỏi vàng (old: 25) lydo: Đổi vàng at 03/29/2023 8:39 PM
+BAG:ziser add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/29/2023 8:39 PM
+BAG:ziser add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/29/2023 8:41 PM
+BAG:ziser add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/29/2023 10:33 PM
+BAG:ziser add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/29/2023 10:33 PM
+BAG:ziser add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/29/2023 10:33 PM
+BAG:ziser add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/29/2023 10:33 PM
+BAG:ziser add 13xNgọc Rồng 5 sao (old: 3) lydo: Giftcode at 03/29/2023 10:33 PM
+BAG:ziser add 15xNgọc Rồng 6 sao (old: 5) lydo: Giftcode at 03/29/2023 10:33 PM
+BAG:ziser add 11xNgọc Rồng 7 sao (old: 1) lydo: Giftcode at 03/29/2023 10:33 PM
+BAG:ziser add 1xNgọc Rồng 3 sao lydo: Giftcode at 03/29/2023 10:34 PM
+BAG:ziser add 99xNgọc Rồng 3 sao (old: 50) lydo: Giftcode at 03/29/2023 10:34 PM
+BAG:ziser add 50xSao pha lê lydo: Giftcode at 03/29/2023 10:34 PM
+BAG:ziser add 50xSao pha lê lydo: Giftcode at 03/29/2023 10:34 PM
+BAG:ziser add 99xCuồng nộ lydo: Giftcode at 03/29/2023 10:34 PM
+BAG:ziser add 4953xMảnh vỡ bông tai lydo: Giftcode at 03/29/2023 10:34 PM
+BAG:ziser add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/29/2023 10:36 PM
+BAG:ziser add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/29/2023 10:36 PM
+BAG:ziser add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/29/2023 10:36 PM
+BAG:ziser add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/29/2023 10:36 PM
+BAG:ziser add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/29/2023 10:36 PM
+BAG:ziser add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/29/2023 10:36 PM
+BAG:ziser add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/29/2023 10:37 PM
+BAG:ziser add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/29/2023 10:37 PM
+BAG:ziser add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/29/2023 10:37 PM
+BAG:ziser add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/29/2023 10:37 PM
+BAG:ziser add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/29/2023 10:37 PM
+BAG:ziser add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/29/2023 10:37 PM
+BAG:ziser add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/29/2023 10:37 PM
+BAG:ziser add 1xĐá xanh lam lydo: Mua từ cửa hàng at 03/29/2023 10:37 PM
+BAG:ziser add 2xĐá xanh lam (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 10:37 PM
+BAG:ziser add 3xĐá xanh lam (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 10:37 PM
+BAG:ziser add 4xĐá xanh lam (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 10:38 PM
+BAG:ziser add 5xĐá xanh lam (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 10:38 PM
+BAG:ziser add 6xĐá xanh lam (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 10:38 PM
+BAG:ziser add 7xĐá xanh lam (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 10:38 PM
+BAG:ziser add 8xĐá xanh lam (old: 7) lydo: Mua từ cửa hàng at 03/29/2023 10:38 PM
+BAG:ziser add 9xĐá xanh lam (old: 8) lydo: Mua từ cửa hàng at 03/29/2023 10:38 PM
+BAG:ziser add 10xĐá xanh lam (old: 9) lydo: Mua từ cửa hàng at 03/29/2023 10:38 PM
+BAG:ziser add 1xCá heo lydo: Mua từ bill at 03/29/2023 10:39 PM
+BAG:ziser add 1xCải Trang Thần Zeno Xayda lydo: Mua từ bill at 03/29/2023 10:40 PM
+BAG:ziser add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/29/2023 10:41 PM
+BAG:ziser add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/29/2023 10:42 PM
+BAG:ziser add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 10:48 PM
+BAG:ziser add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/29/2023 10:50 PM
+BAG:ziser add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 03/29/2023 10:51 PM
+BAG:ziser add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/29/2023 10:51 PM
+BAG:ziser add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 10:52 PM
+BAG:ziser add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 10:52 PM
+BAG:ziser add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 10:52 PM
+BAG:ziser add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/29/2023 10:58 PM
+BAG:ziser add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/29/2023 10:59 PM
+BAG:ziser add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/29/2023 10:59 PM
+BAG:ziser add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/29/2023 11:00 PM
+BAG:ziser add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 11:01 PM
+BAG:ziser add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 11:01 PM
+BAG:ziser add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 11:01 PM
+BAG:ziser add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 11:01 PM
+BAG:ziser add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 11:01 PM
+BAG:ziser add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 11:01 PM
+BAG:ziser add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 11:02 PM
+BAG:ziser add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 11:04 PM
+BAG:ziser add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 11:04 PM
+BAG:ziser add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/29/2023 11:04 PM
+BAG:ziser add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/29/2023 11:05 PM
+BAG:ziser add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/29/2023 11:05 PM
+BAG:ziser add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 11:05 PM
+BAG:ziser add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/29/2023 11:05 PM
+BAG:ziser add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 11:15 PM
+BAG:ziser add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 11:16 PM
+BAG:ziser add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 11:16 PM
+BAG:ziser add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/29/2023 11:17 PM
+BAG:ziser add 25xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/29/2023 11:17 PM
+BAG:ziser add 5xĐậu thần cấp 6 lydo: Lấy từ rương qua người at 03/29/2023 11:17 PM
+BAG:ziser add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/29/2023 11:18 PM
+BAG:ziser add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/29/2023 11:19 PM
+BAG:ziser add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/29/2023 11:19 PM
+BAG:ziser add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/29/2023 11:20 PM
+BAG:ziser add 1xBổ khí lydo: HQT at 03/29/2023 11:20 PM
+BAG:ziser add 1xBổ huyết lydo: HQT at 03/29/2023 11:20 PM
+BAG:ziser add 2xBổ huyết (old: 1) lydo: HQT at 03/29/2023 11:20 PM
+BAG:ziser add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/29/2023 11:20 PM
+BAG:ziser add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/29/2023 11:20 PM
+BAG:ziser add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/29/2023 11:21 PM
+BAG:ziser add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/29/2023 11:21 PM
+BAG:ziser add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/29/2023 11:21 PM
+BAG:ziser add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/29/2023 11:21 PM
+BAG:ziser add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/29/2023 11:23 PM
+BAG:ziser add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/29/2023 11:24 PM
+BAG:ziser add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/29/2023 11:24 PM
+BAG:ziser add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/29/2023 11:25 PM
+BAG:ziser add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/29/2023 11:27 PM
+BAG:ziser add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/29/2023 11:27 PM
+BAG:ziser add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/29/2023 11:28 PM

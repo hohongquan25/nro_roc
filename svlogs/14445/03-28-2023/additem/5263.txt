@@ -1,0 +1,366 @@
+BAG:aress add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/28/2023 8:13 AM
+BAG:aress add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 8:14 AM
+BAG:aress add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/28/2023 8:14 AM
+BAG:aress add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 8:15 AM
+BAG:aress add 1xPhi Long lydo: Mua từ cửa hàng at 03/28/2023 8:25 AM
+BAG:aress add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 03/28/2023 8:29 AM
+BAG:aress add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 03/28/2023 8:29 AM
+BAG:aress add 27xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 8:29 AM
+BAG:aress add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 8:30 AM
+BAG:aress add 1xMảnh Phi long lydo: Nhặt từ map at 03/28/2023 8:31 AM
+BAG:aress add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 8:31 AM
+BAG:aress add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 8:32 AM
+BAG:aress add 1xDiều rồng lydo: Mua từ cửa hàng at 03/28/2023 8:34 AM
+BAG:aress add 1xCải trang Black Goku SSJ White lydo: Mua từ cửa hàng at 03/28/2023 8:34 AM
+BAG:aress add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 8:34 AM
+BAG:aress add 1xCải trang Black Goku SSJ White lydo: Mua từ cửa hàng at 03/28/2023 8:34 AM
+BAG:aress add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 8:35 AM
+BAG:aress add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 8:35 AM
+BAG:aress add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 8:35 AM
+BAG:aress add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 8:35 AM
+BAG:aress add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 8:35 AM
+BAG:aress add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 8:35 AM
+BAG:aress add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 8:35 AM
+BAG:aress add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 8:35 AM
+BAG:aress add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 8:36 AM
+BAG:aress add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 8:36 AM
+BAG:aress add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 8:36 AM
+BAG:aress add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 8:36 AM
+BAG:aress add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 8:36 AM
+BAG:aress add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 8:36 AM
+BAG:aress add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 8:36 AM
+BAG:aress add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 8:36 AM
+BAG:aress add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 8:36 AM
+BAG:aress add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/28/2023 8:43 AM
+BAG:aress add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:44 AM
+BAG:aress add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 8:46 AM
+BAG:aress add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 8:46 AM
+BAG:aress add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 8:46 AM
+BAG:aress add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 8:47 AM
+BAG:aress add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 8:47 AM
+BAG:aress add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/28/2023 8:47 AM
+BAG:aress add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/28/2023 8:47 AM
+BAG:aress add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/28/2023 8:47 AM
+BAG:aress add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/28/2023 8:47 AM
+BAG:aress add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/28/2023 8:47 AM
+BAG:aress add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/28/2023 8:47 AM
+BAG:aress add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/28/2023 8:47 AM
+BAG:aress add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/28/2023 8:48 AM
+BAG:aress add 1xSách Biến Sôcôla lv1 lydo: Mua từ cửa hàng at 03/28/2023 8:48 AM
+BAG:aress add 1xSách Biến Sôcôla lv2 lydo: Mua từ cửa hàng at 03/28/2023 8:48 AM
+BAG:aress add 1xSách Biến Sôcôla lv3 lydo: Mua từ cửa hàng at 03/28/2023 8:48 AM
+BAG:aress add 1xSách Biến Sôcôla lv4 lydo: Mua từ cửa hàng at 03/28/2023 8:48 AM
+BAG:aress add 1xSách Biến Sôcôla lv5 lydo: Mua từ cửa hàng at 03/28/2023 8:48 AM
+BAG:aress add 1xSách Biến Sôcôla lv6 lydo: Mua từ cửa hàng at 03/28/2023 8:48 AM
+BAG:aress add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 03/28/2023 8:48 AM
+BAG:aress add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 03/28/2023 8:48 AM
+BAG:aress add 1xSách học Trị thương lv3 lydo: Mua từ cửa hàng at 03/28/2023 8:48 AM
+BAG:aress add 1xSách học Trị thương lv4 lydo: Mua từ cửa hàng at 03/28/2023 8:48 AM
+BAG:aress add 1xSách học Trị thương lv5 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xSách học Trị thương lv6 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xSách học Trị thương lv7 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xĐẻ trứng lv1 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xĐẻ trứng lv2 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xĐẻ trứng lv3 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xĐẻ trứng lv4 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xĐẻ trứng lv5 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xĐẻ trứng lv6 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xĐẻ trứng lv7 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/28/2023 8:49 AM
+BAG:aress add 20xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/28/2023 8:51 AM
+BAG:aress add 40xĐậu thần cấp 10 (old: 20) lydo: Lấy từ rương qua người at 03/28/2023 8:51 AM
+BAG:aress add 60xĐậu thần cấp 10 (old: 40) lydo: Lấy từ rương qua người at 03/28/2023 8:51 AM
+BAG:aress add 80xĐậu thần cấp 10 (old: 60) lydo: Lấy từ rương qua người at 03/28/2023 8:51 AM
+BAG:aress add 1xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/28/2023 8:51 AM
+BAG:aress add 99xĐậu thần cấp 10 (old: 80) lydo: Lấy từ rương qua người at 03/28/2023 8:51 AM
+BAG:aress add 21xĐậu thần cấp 10 (old: 1) lydo: Lấy từ rương qua người at 03/28/2023 8:51 AM
+BAG:aress add 41xĐậu thần cấp 10 (old: 21) lydo: Lấy từ rương qua người at 03/28/2023 8:51 AM
+BAG:aress add 61xĐậu thần cấp 10 (old: 41) lydo: Lấy từ rương qua người at 03/28/2023 8:52 AM
+BAG:aress add 81xĐậu thần cấp 10 (old: 61) lydo: Lấy từ rương qua người at 03/28/2023 8:52 AM
+BAG:aress add 2xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/28/2023 8:52 AM
+BAG:aress add 99xĐậu thần cấp 10 (old: 81) lydo: Lấy từ rương qua người at 03/28/2023 8:52 AM
+BAG:aress add 22xĐậu thần cấp 10 (old: 2) lydo: Lấy từ rương qua người at 03/28/2023 8:52 AM
+BAG:aress add 42xĐậu thần cấp 10 (old: 22) lydo: Lấy từ rương qua người at 03/28/2023 8:52 AM
+BAG:aress add 62xĐậu thần cấp 10 (old: 42) lydo: Lấy từ rương qua người at 03/28/2023 8:52 AM
+BAG:aress add 82xĐậu thần cấp 10 (old: 62) lydo: Lấy từ rương qua người at 03/28/2023 8:52 AM
+BAG:aress add 1xNgọc Rồng 7 sao lydo: HQT at 03/28/2023 8:53 AM
+BAG:aress add 1xGiáp Xên bọ hung lydo: HQT at 03/28/2023 8:53 AM
+BAG:aress add 1xSao pha lê lydo: Lấy từ lucky box at 03/28/2023 8:53 AM
+BAG:aress add 1xSao pha lê lydo: Lấy từ lucky box at 03/28/2023 8:53 AM
+BAG:aress add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/28/2023 8:53 AM
+BAG:aress add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/28/2023 8:53 AM
+BAG:aress add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/28/2023 8:53 AM
+BAG:aress add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/28/2023 8:53 AM
+BAG:aress add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/28/2023 8:53 AM
+BAG:aress add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/28/2023 8:53 AM
+BAG:aress add 1xSao pha lê lydo: Lấy từ lucky box at 03/28/2023 8:53 AM
+BAG:aress add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/28/2023 8:54 AM
+BAG:aress add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/28/2023 8:54 AM
+BAG:aress add 1xSao pha lê lydo: Lấy từ lucky box at 03/28/2023 8:54 AM
+BAG:aress add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/28/2023 8:54 AM
+BAG:aress add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/28/2023 8:54 AM
+BAG:aress add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/28/2023 8:54 AM
+BAG:aress add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/28/2023 8:54 AM
+BAG:aress add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/28/2023 8:55 AM
+BAG:aress add 4xNgọc Rồng 5 sao (old: 3) lydo: Lấy từ lucky box at 03/28/2023 8:55 AM
+BAG:aress add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/28/2023 8:55 AM
+BAG:aress add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/28/2023 8:55 AM
+BAG:aress add 5xNgọc Rồng 5 sao (old: 4) lydo: Lấy từ lucky box at 03/28/2023 8:55 AM
+BAG:aress add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 8:59 AM
+BAG:aress add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 9:00 AM
+BAG:aress add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 9:00 AM
+BAG:aress add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 9:00 AM
+BAG:aress add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 9:01 AM
+BAG:aress add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/28/2023 9:01 AM
+BAG:aress add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 9:01 AM
+BAG:aress add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:aress add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:aress add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 9:03 AM
+BAG:aress add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 9:03 AM
+BAG:aress add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 9:33 AM
+BAG:aress add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 9:33 AM
+BAG:aress add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 9:33 AM
+BAG:aress add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 9:33 AM
+BAG:aress add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 9:33 AM
+BAG:aress add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 9:33 AM
+BAG:aress add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 9:34 AM
+BAG:aress add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 9:35 AM
+BAG:aress add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 9:37 AM
+BAG:aress add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 9:37 AM
+BAG:aress add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 9:37 AM
+BAG:aress add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 9:37 AM
+BAG:aress add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 9:37 AM
+BAG:aress add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 9:38 AM
+BAG:aress add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 9:38 AM
+BAG:aress add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 9:38 AM
+BAG:aress add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 9:39 AM
+BAG:aress add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 9:40 AM
+BAG:aress add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 9:40 AM
+BAG:aress add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 9:40 AM
+BAG:aress add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 9:40 AM
+BAG:aress add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 9:40 AM
+BAG:aress add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 9:41 AM
+BAG:aress add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 9:41 AM
+BAG:aress add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 9:41 AM
+BAG:aress add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 9:41 AM
+BAG:aress add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 9:42 AM
+BAG:aress add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 9:42 AM
+BAG:aress add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 9:42 AM
+BAG:aress add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 9:43 AM
+BAG:aress add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 9:43 AM
+BAG:aress add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 9:44 AM
+BAG:aress add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 9:44 AM
+BAG:aress add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 9:44 AM
+BAG:aress add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 9:44 AM
+BAG:aress add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 9:45 AM
+BAG:aress add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 9:46 AM
+BAG:aress add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 9:46 AM
+BAG:aress add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 9:46 AM
+BAG:aress add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/28/2023 9:46 AM
+BAG:aress add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 9:47 AM
+BAG:aress add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 9:47 AM
+BAG:aress add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/28/2023 9:47 AM
+BAG:aress add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 9:47 AM
+BAG:aress add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 9:48 AM
+BAG:aress add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 9:48 AM
+BAG:aress add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 9:48 AM
+BAG:aress add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 9:49 AM
+BAG:aress add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 9:49 AM
+BAG:aress add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/28/2023 9:50 AM
+BAG:aress add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 9:50 AM
+BAG:aress add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 9:51 AM
+BAG:aress add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 9:51 AM
+BAG:aress add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 9:51 AM
+BAG:aress add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 9:51 AM
+BAG:aress add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 9:51 AM
+BAG:aress add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 9:51 AM
+BAG:aress add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 9:52 AM
+BAG:aress add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 9:52 AM
+BAG:aress add 99xThỏi vàng lydo: Admin at 03/28/2023 10:04 AM
+BAG:aress add 194xThỏi vàng (old: 95) lydo: Admin at 03/28/2023 10:07 AM
+BAG:aress add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 10:08 AM
+BAG:aress add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:13 AM
+BAG:aress add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 10:15 AM
+BAG:aress add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/28/2023 10:15 AM
+BAG:aress add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 10:15 AM
+BAG:aress add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 10:15 AM
+BAG:aress add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/28/2023 10:16 AM
+BAG:aress add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 10:16 AM
+BAG:aress add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:16 AM
+BAG:aress add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 03/28/2023 10:16 AM
+BAG:aress add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 03/28/2023 10:17 AM
+BAG:aress add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 10:17 AM
+BAG:aress add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 03/28/2023 10:17 AM
+BAG:aress add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:17 AM
+BAG:aress add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 10:20 AM
+BAG:aress add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 10:20 AM
+BAG:aress add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 10:20 AM
+BAG:aress add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 10:20 AM
+BAG:aress add 12xMảnh Lợn lòi (old: 11) lydo: Nhặt từ map at 03/28/2023 10:21 AM
+BAG:aress add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 03/28/2023 10:21 AM
+BAG:aress add 13xMảnh Lợn lòi (old: 12) lydo: Nhặt từ map at 03/28/2023 10:21 AM
+BAG:aress add 7xMảnh Lợn lòi mẹ (old: 6) lydo: Nhặt từ map at 03/28/2023 10:22 AM
+BAG:aress add 14xMảnh Lợn lòi (old: 13) lydo: Nhặt từ map at 03/28/2023 10:23 AM
+BAG:aress add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 10:23 AM
+BAG:aress add 15xMảnh Lợn lòi (old: 14) lydo: Nhặt từ map at 03/28/2023 10:23 AM
+BAG:aress add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 10:23 AM
+BAG:aress add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 10:23 AM
+BAG:aress add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:aress add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:aress add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:aress add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:aress add 16xMảnh Lợn lòi (old: 15) lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:aress add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:aress add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:aress add 8xMảnh Lợn lòi mẹ (old: 7) lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:aress add 9xMảnh Lợn lòi mẹ (old: 8) lydo: Nhặt từ map at 03/28/2023 10:24 AM
+BAG:aress add 17xMảnh Lợn lòi (old: 16) lydo: Nhặt từ map at 03/28/2023 10:25 AM
+BAG:aress add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 10:25 AM
+BAG:aress add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/28/2023 10:25 AM
+BAG:aress add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:27 AM
+BAG:aress add 18xMảnh Lợn lòi (old: 17) lydo: Nhặt từ map at 03/28/2023 10:28 AM
+BAG:aress add 19xMảnh Lợn lòi (old: 18) lydo: Nhặt từ map at 03/28/2023 10:28 AM
+BAG:aress add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/28/2023 10:29 AM
+BAG:aress add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 10:29 AM
+BAG:aress add 10xMảnh Lợn lòi mẹ (old: 9) lydo: Nhặt từ map at 03/28/2023 10:29 AM
+BAG:aress add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 10:29 AM
+BAG:aress add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 10:29 AM
+BAG:aress add 20xMảnh Lợn lòi (old: 19) lydo: Nhặt từ map at 03/28/2023 10:29 AM
+BAG:aress add 21xMảnh Lợn lòi (old: 20) lydo: Nhặt từ map at 03/28/2023 10:29 AM
+BAG:aress add 22xMảnh Lợn lòi (old: 21) lydo: Nhặt từ map at 03/28/2023 10:29 AM
+BAG:aress add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 10:30 AM
+BAG:aress add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 10:30 AM
+BAG:aress add 23xMảnh Lợn lòi (old: 22) lydo: Nhặt từ map at 03/28/2023 10:30 AM
+BAG:aress add 11xMảnh Lợn lòi mẹ (old: 10) lydo: Nhặt từ map at 03/28/2023 10:30 AM
+BAG:aress add 24xMảnh Lợn lòi (old: 23) lydo: Nhặt từ map at 03/28/2023 10:30 AM
+BAG:aress add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 10:31 AM
+BAG:aress add 12xMảnh Lợn lòi mẹ (old: 11) lydo: Nhặt từ map at 03/28/2023 10:32 AM
+BAG:aress add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 10:32 AM
+BAG:aress add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 10:32 AM
+BAG:aress add 13xMảnh Lợn lòi mẹ (old: 12) lydo: Nhặt từ map at 03/28/2023 10:32 AM
+BAG:aress add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 10:33 AM
+BAG:aress add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/28/2023 10:33 AM
+BAG:aress add 14xMảnh Lợn lòi mẹ (old: 13) lydo: Nhặt từ map at 03/28/2023 10:34 AM
+BAG:aress add 25xMảnh Lợn lòi (old: 24) lydo: Nhặt từ map at 03/28/2023 10:34 AM
+BAG:aress add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 10:34 AM
+BAG:aress add 15xMảnh Lợn lòi mẹ (old: 14) lydo: Nhặt từ map at 03/28/2023 10:34 AM
+BAG:aress add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/28/2023 10:34 AM
+BAG:aress add 26xMảnh Lợn lòi (old: 25) lydo: Nhặt từ map at 03/28/2023 10:35 AM
+BAG:aress add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/28/2023 10:35 AM
+BAG:aress add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/28/2023 10:35 AM
+BAG:aress add 27xMảnh Lợn lòi (old: 26) lydo: Nhặt từ map at 03/28/2023 10:36 AM
+BAG:aress add 28xMảnh Lợn lòi (old: 27) lydo: Nhặt từ map at 03/28/2023 10:36 AM
+BAG:aress add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 10:36 AM
+BAG:aress add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/28/2023 10:37 AM
+BAG:aress add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/28/2023 10:39 AM
+BAG:aress add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/28/2023 11:12 AM
+BAG:aress add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 11:12 AM
+BAG:aress add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 11:15 AM
+BAG:aress add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 11:16 AM
+BAG:aress add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/28/2023 11:17 AM
+BAG:aress add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 11:17 AM
+BAG:aress add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 11:17 AM
+BAG:aress add 215xThỏi vàng (old: 190) lydo: Đổi vàng at 03/28/2023 6:02 PM
+BAG:aress add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 6:02 PM
+BAG:aress add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 6:02 PM
+BAG:aress add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 6:02 PM
+BAG:aress add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 6:03 PM
+BAG:aress add 1xCá heo lydo: Mua từ bill at 03/28/2023 6:03 PM
+BAG:aress add 1xCải trang Oren lydo: Mua từ bill at 03/28/2023 6:03 PM
+BAG:aress add 1xCải trang Jiren lydo: Mua từ bill at 03/28/2023 6:03 PM
+BAG:aress add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/28/2023 6:06 PM
+BAG:aress add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/28/2023 6:07 PM
+BAG:aress add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/28/2023 6:09 PM
+BAG:aress add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/28/2023 6:09 PM
+BAG:aress add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 6:09 PM
+BAG:aress add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/28/2023 6:09 PM
+BAG:aress add 18xNgọc Rồng 5 sao (old: 8) lydo: Giftcode at 03/28/2023 6:09 PM
+BAG:aress add 16xNgọc Rồng 6 sao (old: 6) lydo: Giftcode at 03/28/2023 6:09 PM
+BAG:aress add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/28/2023 6:09 PM
+BAG:aress add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/28/2023 6:17 PM
+BAG:aress add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/28/2023 6:17 PM
+BAG:aress add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 6:17 PM
+BAG:aress add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/28/2023 6:17 PM
+BAG:aress add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/28/2023 6:17 PM
+BAG:aress add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/28/2023 6:18 PM
+BAG:aress add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/28/2023 6:20 PM
+BAG:aress add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 6:20 PM
+BAG:aress add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/28/2023 6:20 PM
+BAG:aress add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/28/2023 6:20 PM
+BAG:aress add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/28/2023 6:20 PM
+BAG:aress add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/28/2023 6:21 PM
+BAG:aress add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/28/2023 6:21 PM
+BAG:aress add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/28/2023 6:23 PM
+BAG:aress add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/28/2023 6:28 PM
+BAG:aress add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/28/2023 6:28 PM
+BAG:aress add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/28/2023 6:28 PM
+BAG:aress add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/28/2023 6:36 PM
+BAG:aress add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/28/2023 6:39 PM
+BAG:aress add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/28/2023 6:40 PM
+BAG:aress add 29xMảnh Lợn lòi (old: 28) lydo: Nhặt từ map at 03/28/2023 6:40 PM
+BAG:aress add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/28/2023 6:41 PM
+BAG:aress add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/28/2023 6:41 PM
+BAG:aress add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/28/2023 6:41 PM
+BAG:aress add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/28/2023 6:42 PM
+BAG:aress add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/28/2023 6:43 PM
+BAG:aress add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/28/2023 6:43 PM
+BAG:aress add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:aress add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:aress add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:aress add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:aress add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:aress add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:aress add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:aress add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:aress add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:aress add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/28/2023 6:45 PM
+BAG:aress add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:aress add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:aress add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:aress add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:aress add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:aress add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:aress add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:aress add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/28/2023 6:46 PM
+BAG:aress add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/28/2023 6:47 PM
+BAG:aress add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/28/2023 6:47 PM
+BAG:aress add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/28/2023 6:47 PM
+BAG:aress add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/28/2023 6:47 PM
+BAG:aress add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/28/2023 6:47 PM
+BAG:aress add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/28/2023 6:47 PM
+BAG:aress add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/28/2023 6:48 PM
+BAG:aress add 96xNgọc Rồng 3 sao (old: 46) lydo: Giftcode at 03/28/2023 9:25 PM
+BAG:aress add 50xSao pha lê lydo: Giftcode at 03/28/2023 9:25 PM
+BAG:aress add 53xSao pha lê (old: 3) lydo: Giftcode at 03/28/2023 9:25 PM
+BAG:aress add 99xCuồng nộ lydo: Giftcode at 03/28/2023 9:25 PM
+BAG:aress add 4953xMảnh vỡ bông tai lydo: Giftcode at 03/28/2023 9:25 PM

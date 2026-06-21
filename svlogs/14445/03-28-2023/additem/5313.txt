@@ -1,0 +1,484 @@
+BAG:babyshack add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 03/28/2023 10:15 AM
+BAG:babyshack add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 10:23 AM
+BAG:babyshack add 1xPhi Long VIP lydo: Mua từ cửa hàng at 03/28/2023 10:26 AM
+BAG:babyshack add 1xAvatar lydo: Mua từ cửa hàng at 03/28/2023 10:26 AM
+BAG:babyshack add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 10:28 AM
+BAG:babyshack add 1xMảnh Phi long lydo: Nhặt từ map at 03/28/2023 10:29 AM
+BAG:babyshack add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 10:32 AM
+BAG:babyshack add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/28/2023 10:33 AM
+BAG:babyshack add 12xĐậu thần cấp 4 lydo: Lấy từ rương qua người at 03/28/2023 10:33 AM
+BAG:babyshack add 20xĐậu thần cấp 5 lydo: Lấy từ rương qua người at 03/28/2023 10:34 AM
+BAG:babyshack add 1xMèo mun lydo: Mua từ cửa hàng at 03/28/2023 10:37 AM
+BAG:babyshack add 1xCải trang Siêu thần Namếc lydo: Mua từ cửa hàng at 03/28/2023 10:37 AM
+BAG:babyshack add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 10:38 AM
+BAG:babyshack add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 10:38 AM
+BAG:babyshack add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 10:38 AM
+BAG:babyshack add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/28/2023 10:40 AM
+BAG:babyshack add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/28/2023 10:40 AM
+BAG:babyshack add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 10:40 AM
+BAG:babyshack add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/28/2023 10:40 AM
+BAG:babyshack add 10xNgọc Rồng 5 sao lydo: Giftcode at 03/28/2023 10:40 AM
+BAG:babyshack add 11xNgọc Rồng 6 sao (old: 1) lydo: Giftcode at 03/28/2023 10:40 AM
+BAG:babyshack add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/28/2023 10:40 AM
+BAG:babyshack add 1xAvatar VIP lydo: Ước NR at 03/28/2023 10:41 AM
+BAG:babyshack add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 10:49 AM
+BAG:babyshack add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 10:49 AM
+BAG:babyshack add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 10:49 AM
+BAG:babyshack add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 10:49 AM
+BAG:babyshack add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 10:56 AM
+BAG:babyshack add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 10:59 AM
+BAG:babyshack add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 11:03 AM
+BAG:babyshack add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 11:04 AM
+BAG:babyshack add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/28/2023 11:05 AM
+BAG:babyshack add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/28/2023 11:09 AM
+BAG:babyshack add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:babyshack add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 11:10 AM
+BAG:babyshack add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/28/2023 11:11 AM
+BAG:babyshack add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 11:11 AM
+BAG:babyshack add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 11:11 AM
+BAG:babyshack add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/28/2023 11:12 AM
+BAG:babyshack add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/28/2023 11:12 AM
+BAG:babyshack add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 11:12 AM
+BAG:babyshack add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:13 AM
+BAG:babyshack add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 11:18 AM
+BAG:babyshack add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/28/2023 11:18 AM
+BAG:babyshack add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 11:19 AM
+BAG:babyshack add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 11:21 AM
+BAG:babyshack add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/28/2023 11:24 AM
+BAG:babyshack add 50xPháo hoa (old: 45) lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:babyshack add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:babyshack add 55xPháo hoa (old: 50) lydo: Nhặt từ map at 03/28/2023 11:25 AM
+BAG:babyshack add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 11:26 AM
+BAG:babyshack add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/28/2023 11:27 AM
+BAG:babyshack add 60xPháo hoa (old: 55) lydo: Nhặt từ map at 03/28/2023 11:27 AM
+BAG:babyshack add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/28/2023 11:27 AM
+BAG:babyshack add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 11:27 AM
+BAG:babyshack add 65xPháo hoa (old: 60) lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:babyshack add 70xPháo hoa (old: 65) lydo: Nhặt từ map at 03/28/2023 11:29 AM
+BAG:babyshack add 75xPháo hoa (old: 70) lydo: Nhặt từ map at 03/28/2023 11:30 AM
+BAG:babyshack add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 11:31 AM
+BAG:babyshack add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 11:31 AM
+BAG:babyshack add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 11:31 AM
+BAG:babyshack add 80xPháo hoa (old: 75) lydo: Nhặt từ map at 03/28/2023 11:31 AM
+BAG:babyshack add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:babyshack add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:babyshack add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:babyshack add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 11:32 AM
+BAG:babyshack add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 11:34 AM
+BAG:babyshack add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 11:35 AM
+BAG:babyshack add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 11:35 AM
+BAG:babyshack add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:babyshack add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 11:36 AM
+BAG:babyshack add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/28/2023 11:37 AM
+BAG:babyshack add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/28/2023 11:37 AM
+BAG:babyshack add 1xCuồng nộ lydo: HQT at 03/28/2023 11:38 AM
+BAG:babyshack add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:babyshack add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 11:39 AM
+BAG:babyshack add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:babyshack add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 11:40 AM
+BAG:babyshack add 84xPháo hoa (old: 79) lydo: Nhặt từ map at 03/28/2023 11:41 AM
+BAG:babyshack add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 11:41 AM
+BAG:babyshack add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 11:41 AM
+BAG:babyshack add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 11:41 AM
+BAG:babyshack add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 11:41 AM
+BAG:babyshack add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 11:41 AM
+BAG:babyshack add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 11:41 AM
+BAG:babyshack add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 11:41 AM
+BAG:babyshack add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 11:41 AM
+BAG:babyshack add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 11:41 AM
+BAG:babyshack add 89xPháo hoa (old: 84) lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:babyshack add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/28/2023 11:44 AM
+BAG:babyshack add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/28/2023 11:44 AM
+BAG:babyshack add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/28/2023 11:44 AM
+BAG:babyshack add 1xBổ huyết lydo: HQT at 03/28/2023 11:44 AM
+BAG:babyshack add 2xCuồng nộ (old: 1) lydo: HQT at 03/28/2023 11:44 AM
+BAG:babyshack add 1xBổ khí lydo: HQT at 03/28/2023 11:44 AM
+BAG:babyshack add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/28/2023 11:44 AM
+BAG:babyshack add 3xCuồng nộ (old: 2) lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 2xBổ huyết (old: 1) lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 4xCuồng nộ (old: 3) lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 11:45 AM
+BAG:babyshack add 1xGiáp Xên bọ hung lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 2xBổ khí (old: 1) lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 3xBổ khí (old: 2) lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 3xBổ huyết (old: 2) lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/28/2023 11:45 AM
+BAG:babyshack add 44xPháo hoa (old: 39) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:babyshack add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:babyshack add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:babyshack add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:babyshack add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 11:59 AM
+BAG:babyshack add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 12:00 PM
+BAG:babyshack add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 12:00 PM
+BAG:babyshack add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 12:01 PM
+BAG:babyshack add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/28/2023 12:01 PM
+BAG:babyshack add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 12:04 PM
+BAG:babyshack add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 12:04 PM
+BAG:babyshack add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 12:04 PM
+BAG:babyshack add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 12:05 PM
+BAG:babyshack add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 12:06 PM
+BAG:babyshack add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/28/2023 12:44 PM
+BAG:babyshack add 49xPháo hoa (old: 44) lydo: Nhặt từ map at 03/28/2023 12:46 PM
+BAG:babyshack add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:babyshack add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:babyshack add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:babyshack add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 12:47 PM
+BAG:babyshack add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 12:47 PM
+BAG:babyshack add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 1:18 PM
+BAG:babyshack add 54xPháo hoa (old: 49) lydo: Nhặt từ map at 03/28/2023 1:18 PM
+BAG:babyshack add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 1:18 PM
+BAG:babyshack add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 1:18 PM
+BAG:babyshack add 59xPháo hoa (old: 54) lydo: Nhặt từ map at 03/28/2023 1:19 PM
+BAG:babyshack add 1xCá heo lydo: Mua từ bill at 03/28/2023 1:19 PM
+BAG:babyshack add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/28/2023 1:19 PM
+BAG:babyshack add 5000xThỏi vàng lydo: Đổi vàng at 03/28/2023 1:20 PM
+BAG:babyshack add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 1:21 PM
+BAG:babyshack add 64xPháo hoa (old: 59) lydo: Nhặt từ map at 03/28/2023 1:21 PM
+BAG:babyshack add 69xPháo hoa (old: 64) lydo: Nhặt từ map at 03/28/2023 1:22 PM
+BAG:babyshack add 74xPháo hoa (old: 69) lydo: Nhặt từ map at 03/28/2023 1:22 PM
+BAG:babyshack add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 1:22 PM
+BAG:babyshack add 79xPháo hoa (old: 74) lydo: Nhặt từ map at 03/28/2023 1:23 PM
+BAG:babyshack add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 1:23 PM
+BAG:babyshack add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 1:23 PM
+BAG:babyshack add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 1:24 PM
+BAG:babyshack add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 2:25 PM
+BAG:babyshack add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 2:25 PM
+BAG:babyshack add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 2:25 PM
+BAG:babyshack add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 2:34 PM
+BAG:babyshack add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 2:42 PM
+BAG:babyshack add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 2:42 PM
+BAG:babyshack add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:babyshack add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:babyshack add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:babyshack add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:babyshack add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:babyshack add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:babyshack add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:babyshack add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:babyshack add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:babyshack add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 2:44 PM
+BAG:babyshack add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/28/2023 2:45 PM
+BAG:babyshack add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/28/2023 2:45 PM
+BAG:babyshack add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/28/2023 2:45 PM
+BAG:babyshack add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/28/2023 2:45 PM
+BAG:babyshack add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/28/2023 2:45 PM
+BAG:babyshack add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/28/2023 2:45 PM
+BAG:babyshack add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/28/2023 2:45 PM
+BAG:babyshack add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 2:47 PM
+BAG:babyshack add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 2:47 PM
+BAG:babyshack add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/28/2023 2:51 PM
+BAG:babyshack add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 2:51 PM
+BAG:babyshack add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:51 PM
+BAG:babyshack add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 2:52 PM
+BAG:babyshack add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/28/2023 2:53 PM
+BAG:babyshack add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 2:55 PM
+BAG:babyshack add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 2:55 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 2:55 PM
+BAG:babyshack add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 2:55 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 2:56 PM
+BAG:babyshack add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 2:56 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 2:56 PM
+BAG:babyshack add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 2:57 PM
+BAG:babyshack add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 2:57 PM
+BAG:babyshack add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 2:57 PM
+BAG:babyshack add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 2:57 PM
+BAG:babyshack add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 2:57 PM
+BAG:babyshack add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 2:58 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 3:00 PM
+BAG:babyshack add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 3:00 PM
+BAG:babyshack add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 3:00 PM
+BAG:babyshack add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 3:01 PM
+BAG:babyshack add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 3:01 PM
+BAG:babyshack add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 3:01 PM
+BAG:babyshack add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 3:01 PM
+BAG:babyshack add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 3:02 PM
+BAG:babyshack add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 3:02 PM
+BAG:babyshack add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 3:02 PM
+BAG:babyshack add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 3:02 PM
+BAG:babyshack add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 3:03 PM
+BAG:babyshack add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 3:03 PM
+BAG:babyshack add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 3:03 PM
+BAG:babyshack add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 3:05 PM
+BAG:babyshack add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 3:22 PM
+BAG:babyshack add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 3:22 PM
+BAG:babyshack add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 3:22 PM
+BAG:babyshack add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 3:23 PM
+BAG:babyshack add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 3:23 PM
+BAG:babyshack add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 3:23 PM
+BAG:babyshack add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 3:23 PM
+BAG:babyshack add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 3:23 PM
+BAG:babyshack add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 03/28/2023 3:24 PM
+BAG:babyshack add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 3:24 PM
+BAG:babyshack add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 3:24 PM
+BAG:babyshack add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 3:24 PM
+BAG:babyshack add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 3:24 PM
+BAG:babyshack add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 3:25 PM
+BAG:babyshack add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 3:25 PM
+BAG:babyshack add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 3:25 PM
+BAG:babyshack add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 03/28/2023 3:26 PM
+BAG:babyshack add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 3:26 PM
+BAG:babyshack add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 3:26 PM
+BAG:babyshack add 7xMảnh Lợn lòi mẹ (old: 6) lydo: Nhặt từ map at 03/28/2023 3:26 PM
+BAG:babyshack add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 3:26 PM
+BAG:babyshack add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 3:26 PM
+BAG:babyshack add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 3:27 PM
+BAG:babyshack add 8xMảnh Lợn lòi mẹ (old: 7) lydo: Nhặt từ map at 03/28/2023 3:27 PM
+BAG:babyshack add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 3:28 PM
+BAG:babyshack add 9xMảnh Lợn lòi mẹ (old: 8) lydo: Nhặt từ map at 03/28/2023 3:28 PM
+BAG:babyshack add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 3:28 PM
+BAG:babyshack add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/28/2023 3:28 PM
+BAG:babyshack add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 3:29 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 3:29 PM
+BAG:babyshack add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 3:29 PM
+BAG:babyshack add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/28/2023 3:29 PM
+BAG:babyshack add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 3:29 PM
+BAG:babyshack add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 3:29 PM
+BAG:babyshack add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 3:30 PM
+BAG:babyshack add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 3:30 PM
+BAG:babyshack add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/28/2023 3:30 PM
+BAG:babyshack add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 3:31 PM
+BAG:babyshack add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 3:31 PM
+BAG:babyshack add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 3:31 PM
+BAG:babyshack add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/28/2023 3:32 PM
+BAG:babyshack add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/28/2023 3:33 PM
+BAG:babyshack add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/28/2023 3:33 PM
+BAG:babyshack add 10xMảnh Lợn lòi mẹ (old: 9) lydo: Nhặt từ map at 03/28/2023 3:33 PM
+BAG:babyshack add 11xMảnh Lợn lòi mẹ (old: 10) lydo: Nhặt từ map at 03/28/2023 3:33 PM
+BAG:babyshack add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 3:34 PM
+BAG:babyshack add 12xMảnh Lợn lòi mẹ (old: 11) lydo: Nhặt từ map at 03/28/2023 3:34 PM
+BAG:babyshack add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/28/2023 3:34 PM
+BAG:babyshack add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/28/2023 3:34 PM
+BAG:babyshack add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/28/2023 3:34 PM
+BAG:babyshack add 13xMảnh Lợn lòi mẹ (old: 12) lydo: Nhặt từ map at 03/28/2023 3:35 PM
+BAG:babyshack add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 03/28/2023 3:35 PM
+BAG:babyshack add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 3:35 PM
+BAG:babyshack add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 3:35 PM
+BAG:babyshack add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 3:35 PM
+BAG:babyshack add 14xMảnh Lợn lòi mẹ (old: 13) lydo: Nhặt từ map at 03/28/2023 3:36 PM
+BAG:babyshack add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 03/28/2023 3:36 PM
+BAG:babyshack add 12xMảnh Lợn lòi (old: 11) lydo: Nhặt từ map at 03/28/2023 3:36 PM
+BAG:babyshack add 13xMảnh Lợn lòi (old: 12) lydo: Nhặt từ map at 03/28/2023 3:36 PM
+BAG:babyshack add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 3:37 PM
+BAG:babyshack add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 3:38 PM
+BAG:babyshack add 15xMảnh Lợn lòi mẹ (old: 14) lydo: Nhặt từ map at 03/28/2023 3:38 PM
+BAG:babyshack add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 3:38 PM
+BAG:babyshack add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 3:38 PM
+BAG:babyshack add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 3:39 PM
+BAG:babyshack add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/28/2023 3:39 PM
+BAG:babyshack add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/28/2023 3:39 PM
+BAG:babyshack add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 3:39 PM
+BAG:babyshack add 16xMảnh Lợn lòi mẹ (old: 15) lydo: Nhặt từ map at 03/28/2023 3:39 PM
+BAG:babyshack add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/28/2023 3:40 PM
+BAG:babyshack add 17xMảnh Lợn lòi mẹ (old: 16) lydo: Nhặt từ map at 03/28/2023 3:40 PM
+BAG:babyshack add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/28/2023 3:40 PM
+BAG:babyshack add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/28/2023 3:40 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 3:40 PM
+BAG:babyshack add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/28/2023 3:40 PM
+BAG:babyshack add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/28/2023 3:40 PM
+BAG:babyshack add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 3:40 PM
+BAG:babyshack add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/28/2023 3:41 PM
+BAG:babyshack add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 3:41 PM
+BAG:babyshack add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 3:41 PM
+BAG:babyshack add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 3:41 PM
+BAG:babyshack add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 3:41 PM
+BAG:babyshack add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 3:41 PM
+BAG:babyshack add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 3:42 PM
+BAG:babyshack add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 3:42 PM
+BAG:babyshack add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 3:42 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 3:42 PM
+BAG:babyshack add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 3:42 PM
+BAG:babyshack add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/28/2023 3:43 PM
+BAG:babyshack add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 3:44 PM
+BAG:babyshack add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/28/2023 3:45 PM
+BAG:babyshack add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/28/2023 3:45 PM
+BAG:babyshack add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 3:45 PM
+BAG:babyshack add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/28/2023 3:45 PM
+BAG:babyshack add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/28/2023 3:45 PM
+BAG:babyshack add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 3:45 PM
+BAG:babyshack add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:babyshack add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:babyshack add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:babyshack add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:babyshack add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:babyshack add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/28/2023 3:46 PM
+BAG:babyshack add 7xMảnh Lợn lòi mẹ (old: 6) lydo: Nhặt từ map at 03/28/2023 3:47 PM
+BAG:babyshack add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 3:47 PM
+BAG:babyshack add 8xMảnh Lợn lòi mẹ (old: 7) lydo: Nhặt từ map at 03/28/2023 3:47 PM
+BAG:babyshack add 9xMảnh Lợn lòi mẹ (old: 8) lydo: Nhặt từ map at 03/28/2023 3:48 PM
+BAG:babyshack add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/28/2023 3:48 PM
+BAG:babyshack add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/28/2023 3:48 PM
+BAG:babyshack add 10xMảnh Lợn lòi mẹ (old: 9) lydo: Nhặt từ map at 03/28/2023 3:48 PM
+BAG:babyshack add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/28/2023 3:48 PM
+BAG:babyshack add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 3:48 PM
+BAG:babyshack add 11xMảnh Lợn lòi mẹ (old: 10) lydo: Nhặt từ map at 03/28/2023 3:49 PM
+BAG:babyshack add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/28/2023 3:49 PM
+BAG:babyshack add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/28/2023 3:50 PM
+BAG:babyshack add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 3:50 PM
+BAG:babyshack add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/28/2023 3:50 PM
+BAG:babyshack add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 3:51 PM
+BAG:babyshack add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 3:51 PM
+BAG:babyshack add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 3:51 PM
+BAG:babyshack add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 3:51 PM
+BAG:babyshack add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 3:51 PM
+BAG:babyshack add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 3:52 PM
+BAG:babyshack add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 3:52 PM
+BAG:babyshack add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/28/2023 3:52 PM
+BAG:babyshack add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 3:52 PM
+BAG:babyshack add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 3:52 PM
+BAG:babyshack add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:babyshack add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:babyshack add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:babyshack add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:babyshack add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:babyshack add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/28/2023 3:53 PM
+BAG:babyshack add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/28/2023 3:54 PM
+BAG:babyshack add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/28/2023 3:54 PM
+BAG:babyshack add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 03/28/2023 3:55 PM
+BAG:babyshack add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 4:05 PM
+BAG:babyshack add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/28/2023 4:06 PM
+BAG:babyshack add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/28/2023 4:06 PM
+BAG:babyshack add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 4:07 PM
+BAG:babyshack add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 4:07 PM
+BAG:babyshack add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 4:12 PM
+BAG:babyshack add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/28/2023 4:12 PM
+BAG:babyshack add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/28/2023 4:13 PM
+BAG:babyshack add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 4:13 PM
+BAG:babyshack add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/28/2023 4:13 PM
+BAG:babyshack add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 4:14 PM
+BAG:babyshack add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:14 PM
+BAG:babyshack add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 4:14 PM
+BAG:babyshack add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 4:14 PM
+BAG:babyshack add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 4:14 PM
+BAG:babyshack add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/28/2023 4:15 PM
+BAG:babyshack add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 4:15 PM
+BAG:babyshack add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 4:15 PM
+BAG:babyshack add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 4:15 PM
+BAG:babyshack add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/28/2023 4:15 PM
+BAG:babyshack add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/28/2023 4:15 PM
+BAG:babyshack add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 4:16 PM
+BAG:babyshack add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 03/28/2023 4:16 PM
+BAG:babyshack add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 4:16 PM
+BAG:babyshack add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/28/2023 4:16 PM
+BAG:babyshack add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/28/2023 4:17 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 4:17 PM
+BAG:babyshack add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:17 PM
+BAG:babyshack add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/28/2023 4:17 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 4:17 PM
+BAG:babyshack add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:17 PM
+BAG:babyshack add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/28/2023 4:17 PM
+BAG:babyshack add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/28/2023 4:17 PM
+BAG:babyshack add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/28/2023 4:18 PM
+BAG:babyshack add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/28/2023 4:18 PM
+BAG:babyshack add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 03/28/2023 4:18 PM
+BAG:babyshack add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 03/28/2023 4:19 PM
+BAG:babyshack add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 4:19 PM
+BAG:babyshack add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/28/2023 4:20 PM
+BAG:babyshack add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 4:21 PM
+BAG:babyshack add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 03/28/2023 4:21 PM
+BAG:babyshack add 12xMảnh Lợn lòi (old: 11) lydo: Nhặt từ map at 03/28/2023 4:22 PM
+BAG:babyshack add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/28/2023 4:22 PM
+BAG:babyshack add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/28/2023 4:23 PM
+BAG:babyshack add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/28/2023 4:23 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 4:23 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 4:23 PM
+BAG:babyshack add 7xMảnh Lợn lòi mẹ (old: 6) lydo: Nhặt từ map at 03/28/2023 4:24 PM
+BAG:babyshack add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 4:24 PM
+BAG:babyshack add 13xMảnh Lợn lòi (old: 12) lydo: Nhặt từ map at 03/28/2023 4:24 PM
+BAG:babyshack add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 4:25 PM
+BAG:babyshack add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/28/2023 4:25 PM
+BAG:babyshack add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/28/2023 4:25 PM
+BAG:babyshack add 8xMảnh Lợn lòi mẹ (old: 7) lydo: Nhặt từ map at 03/28/2023 4:25 PM
+BAG:babyshack add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/28/2023 4:25 PM
+BAG:babyshack add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/28/2023 4:25 PM
+BAG:babyshack add 9xMảnh Lợn lòi mẹ (old: 8) lydo: Nhặt từ map at 03/28/2023 4:25 PM
+BAG:babyshack add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 4:25 PM
+BAG:babyshack add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/28/2023 4:26 PM
+BAG:babyshack add 10xMảnh Lợn lòi mẹ (old: 9) lydo: Nhặt từ map at 03/28/2023 4:26 PM
+BAG:babyshack add 14xMảnh Lợn lòi (old: 13) lydo: Nhặt từ map at 03/28/2023 4:26 PM
+BAG:babyshack add 15xMảnh Lợn lòi (old: 14) lydo: Nhặt từ map at 03/28/2023 4:26 PM
+BAG:babyshack add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/28/2023 4:26 PM
+BAG:babyshack add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 4:27 PM
+BAG:babyshack add 11xMảnh Lợn lòi mẹ (old: 10) lydo: Nhặt từ map at 03/28/2023 4:27 PM
+BAG:babyshack add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/28/2023 4:27 PM
+BAG:babyshack add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:27 PM
+BAG:babyshack add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/28/2023 4:27 PM
+BAG:babyshack add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/28/2023 4:27 PM
+BAG:babyshack add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/28/2023 4:28 PM
+BAG:babyshack add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/28/2023 4:28 PM
+BAG:babyshack add 12xMảnh Lợn lòi mẹ (old: 11) lydo: Nhặt từ map at 03/28/2023 4:28 PM
+BAG:babyshack add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 4:28 PM
+BAG:babyshack add 13xMảnh Lợn lòi mẹ (old: 12) lydo: Nhặt từ map at 03/28/2023 4:29 PM
+BAG:babyshack add 16xMảnh Lợn lòi (old: 15) lydo: Nhặt từ map at 03/28/2023 4:29 PM
+BAG:babyshack add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 4:29 PM
+BAG:babyshack add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/28/2023 4:30 PM
+BAG:babyshack add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:30 PM
+BAG:babyshack add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/28/2023 4:30 PM
+BAG:babyshack add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/28/2023 4:30 PM
+BAG:babyshack add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/28/2023 4:31 PM
+BAG:babyshack add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 4:31 PM
+BAG:babyshack add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/28/2023 4:31 PM
+BAG:babyshack add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/28/2023 4:31 PM
+BAG:babyshack add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 4:32 PM
+BAG:babyshack add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/28/2023 4:32 PM
+BAG:babyshack add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 4:32 PM
+BAG:babyshack add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 4:32 PM
+BAG:babyshack add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/28/2023 4:32 PM
+BAG:babyshack add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:33 PM
+BAG:babyshack add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 4:33 PM
+BAG:babyshack add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 4:33 PM
+BAG:babyshack add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/28/2023 4:33 PM
+BAG:babyshack add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 4:33 PM
+BAG:babyshack add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 4:33 PM
+BAG:babyshack add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 4:33 PM
+BAG:babyshack add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/28/2023 4:34 PM
+BAG:babyshack add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/28/2023 4:34 PM
+BAG:babyshack add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 4:34 PM
+BAG:babyshack add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/28/2023 4:34 PM
+BAG:babyshack add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/28/2023 4:34 PM
+BAG:babyshack add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/28/2023 4:34 PM
+BAG:babyshack add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/28/2023 4:35 PM
+BAG:babyshack add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 03/28/2023 4:35 PM
+BAG:babyshack add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 4:35 PM
+BAG:babyshack add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/28/2023 4:35 PM
+BAG:babyshack add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/28/2023 4:35 PM
+BAG:babyshack add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 03/28/2023 4:35 PM
+BAG:babyshack add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 4:35 PM
+BAG:babyshack add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/28/2023 4:35 PM
+BAG:babyshack add 7xMảnh Lợn lòi mẹ (old: 6) lydo: Nhặt từ map at 03/28/2023 4:36 PM
+BAG:babyshack add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/28/2023 4:36 PM
+BAG:babyshack add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/28/2023 4:36 PM
+BAG:babyshack add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/28/2023 4:37 PM
+BAG:babyshack add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/28/2023 4:37 PM
+BAG:babyshack add 8xMảnh Lợn lòi mẹ (old: 7) lydo: Nhặt từ map at 03/28/2023 4:37 PM
+BAG:babyshack add 9xMảnh Lợn lòi mẹ (old: 8) lydo: Nhặt từ map at 03/28/2023 4:37 PM
+BAG:babyshack add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/28/2023 4:38 PM
+BAG:babyshack add 10xMảnh Lợn lòi mẹ (old: 9) lydo: Nhặt từ map at 03/28/2023 4:39 PM
+BAG:babyshack add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/28/2023 4:39 PM
+BAG:babyshack add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/28/2023 4:39 PM
+BAG:babyshack add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/28/2023 4:39 PM
+BAG:babyshack add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/28/2023 4:39 PM
+BAG:babyshack add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 4:39 PM
+BAG:babyshack add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 4:55 PM
+BAG:babyshack add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 4:55 PM
+BAG:babyshack add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 4:55 PM
+BAG:babyshack add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 4:55 PM
+BAG:babyshack add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 4:55 PM
+BAG:babyshack add 44xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/28/2023 5:03 PM

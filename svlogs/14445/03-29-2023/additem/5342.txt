@@ -1,0 +1,966 @@
+BAG:okokok add 25xThỏi vàng lydo: Đổi vàng at 03/29/2023 6:28 AM
+BAG:okokok add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/29/2023 8:46 AM
+BAG:okokok add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/29/2023 8:46 AM
+BAG:okokok add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:okokok add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:okokok add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:okokok add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:okokok add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/29/2023 8:54 AM
+BAG:okokok add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/29/2023 8:54 AM
+BAG:okokok add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/29/2023 8:54 AM
+BAG:okokok add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/29/2023 8:54 AM
+BAG:okokok add 10xNgọc Rồng 5 sao lydo: Giftcode at 03/29/2023 8:54 AM
+BAG:okokok add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/29/2023 8:54 AM
+BAG:okokok add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/29/2023 8:54 AM
+BAG:okokok add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/29/2023 8:54 AM
+BAG:okokok add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 8:55 AM
+BAG:okokok add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/29/2023 8:55 AM
+BAG:okokok add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 8:55 AM
+BAG:okokok add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 8:57 AM
+BAG:okokok add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:okokok add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 9:16 AM
+BAG:okokok add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 9:17 AM
+BAG:okokok add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 9:17 AM
+BAG:okokok add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:okokok add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 9:20 AM
+BAG:okokok add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 9:21 AM
+BAG:okokok add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/29/2023 9:22 AM
+BAG:okokok add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/29/2023 9:22 AM
+BAG:okokok add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/29/2023 9:23 AM
+BAG:okokok add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 9:23 AM
+BAG:okokok add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 9:24 AM
+BAG:okokok add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 9:24 AM
+BAG:okokok add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/29/2023 9:25 AM
+BAG:okokok add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 9:27 AM
+BAG:okokok add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 9:27 AM
+BAG:okokok add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 9:29 AM
+BAG:okokok add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 9:29 AM
+BAG:okokok add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 9:31 AM
+BAG:okokok add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 9:33 AM
+BAG:okokok add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 9:33 AM
+BAG:okokok add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 9:35 AM
+BAG:okokok add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 9:36 AM
+BAG:okokok add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/29/2023 9:36 AM
+BAG:okokok add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 9:39 AM
+BAG:okokok add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 9:40 AM
+BAG:okokok add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 9:40 AM
+BAG:okokok add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/29/2023 9:40 AM
+BAG:okokok add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/29/2023 9:45 AM
+BAG:okokok add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 9:48 AM
+BAG:okokok add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 9:48 AM
+BAG:okokok add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 9:50 AM
+BAG:okokok add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/29/2023 9:54 AM
+BAG:okokok add 11xNgọc Rồng 5 sao lydo: (GD) Nhận từ paimon at 03/29/2023 10:11 AM
+BAG:okokok add 10xNgọc Rồng 1 sao lydo: (GD) Nhận từ paimon at 03/29/2023 10:11 AM
+BAG:okokok add 10xNgọc Rồng 2 sao lydo: (GD) Nhận từ paimon at 03/29/2023 10:11 AM
+BAG:okokok add 50xNgọc Rồng 3 sao lydo: (GD) Nhận từ paimon at 03/29/2023 10:11 AM
+BAG:okokok add 10xNgọc Rồng 4 sao lydo: (GD) Nhận từ paimon at 03/29/2023 10:11 AM
+BAG:okokok add 10xNgọc Rồng 6 sao lydo: (GD) Nhận từ paimon at 03/29/2023 10:11 AM
+BAG:okokok add 10xNgọc Rồng 7 sao lydo: (GD) Nhận từ paimon at 03/29/2023 10:11 AM
+BAG:okokok add 25xThỏi vàng lydo: (GD) Nhận từ paimon at 03/29/2023 10:11 AM
+BAG:okokok add 99xNgọc Rồng 3 sao lydo: (GD) Nhận từ trumsayda at 03/29/2023 10:16 AM
+BAG:okokok add 25xThỏi vàng lydo: (GD) Nhận từ trumsayda at 03/29/2023 10:16 AM
+BAG:okokok add 20xNgọc Rồng 1 sao lydo: (GD) Nhận từ trumsayda at 03/29/2023 10:16 AM
+BAG:okokok add 20xNgọc Rồng 2 sao lydo: (GD) Nhận từ trumsayda at 03/29/2023 10:16 AM
+BAG:okokok add 21xNgọc Rồng 4 sao lydo: (GD) Nhận từ trumsayda at 03/29/2023 10:16 AM
+BAG:okokok add 11xNgọc Rồng 7 sao lydo: (GD) Nhận từ trumsayda at 03/29/2023 10:16 AM
+BAG:okokok add 25xPháo hoa lydo: (GD) Nhận từ trumsayda at 03/29/2023 10:16 AM
+BAG:okokok add 1xNgọc Rồng 3 sao lydo: (GD) Nhận từ trumsayda at 03/29/2023 10:16 AM
+BAG:okokok add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/29/2023 10:17 AM
+BAG:okokok add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/29/2023 10:19 AM
+BAG:okokok add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/29/2023 10:20 AM
+BAG:okokok add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/29/2023 10:21 AM
+BAG:okokok add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/29/2023 10:22 AM
+BAG:okokok add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 10:22 AM
+BAG:okokok add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/29/2023 10:23 AM
+BAG:okokok add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/29/2023 10:23 AM
+BAG:okokok add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/29/2023 10:23 AM
+BAG:okokok add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/29/2023 10:23 AM
+BAG:okokok add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/29/2023 10:24 AM
+BAG:okokok add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/29/2023 10:24 AM
+BAG:okokok add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/29/2023 10:24 AM
+BAG:okokok add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/29/2023 10:24 AM
+BAG:okokok add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 10:25 AM
+BAG:okokok add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/29/2023 10:25 AM
+BAG:okokok add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/29/2023 10:25 AM
+BAG:okokok add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/29/2023 10:25 AM
+BAG:okokok add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 10:25 AM
+BAG:okokok add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/29/2023 10:25 AM
+BAG:okokok add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 10:25 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 10:26 AM
+BAG:okokok add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/29/2023 10:26 AM
+BAG:okokok add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/29/2023 10:26 AM
+BAG:okokok add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 10:26 AM
+BAG:okokok add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/29/2023 10:27 AM
+BAG:okokok add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 10:27 AM
+BAG:okokok add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/29/2023 10:28 AM
+BAG:okokok add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/29/2023 10:28 AM
+BAG:okokok add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/29/2023 10:29 AM
+BAG:okokok add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/29/2023 10:29 AM
+BAG:okokok add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/29/2023 10:30 AM
+BAG:okokok add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/29/2023 10:31 AM
+BAG:okokok add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/29/2023 10:31 AM
+BAG:okokok add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/29/2023 10:32 AM
+BAG:okokok add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/29/2023 10:32 AM
+BAG:okokok add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/29/2023 10:51 AM
+BAG:okokok add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/29/2023 10:51 AM
+BAG:okokok add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/29/2023 10:52 AM
+BAG:okokok add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/29/2023 10:52 AM
+BAG:okokok add 5023xThỏi vàng (old: 23) lydo: Đổi vàng at 03/29/2023 10:52 AM
+BAG:okokok add 1xCải trang lydo: Mua từ cửa hàng at 03/29/2023 10:54 AM
+BAG:okokok add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/29/2023 10:55 AM
+BAG:okokok add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/29/2023 10:56 AM
+BAG:okokok add 1xCải trang Mị Nương lydo: Mua từ bill at 03/29/2023 10:56 AM
+BAG:okokok add 1xCá heo lydo: Mua từ bill at 03/29/2023 10:56 AM
+BAG:okokok add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/29/2023 10:57 AM
+BAG:okokok add 1xNezuko lydo: Mua từ bill at 03/29/2023 10:58 AM
+BAG:okokok add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 10:59 AM
+BAG:okokok add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/29/2023 10:59 AM
+BAG:okokok add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/29/2023 10:59 AM
+BAG:okokok add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/29/2023 10:59 AM
+BAG:okokok add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:okokok add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:okokok add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:okokok add 1xSao pha lê lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:okokok add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:okokok add 1xSao pha lê lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:okokok add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:okokok add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:okokok add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:okokok add 1xSao pha lê lydo: Nhặt từ map at 03/29/2023 11:01 AM
+BAG:okokok add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/29/2023 11:01 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:01 AM
+BAG:okokok add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/29/2023 11:01 AM
+BAG:okokok add 1xSao pha lê lydo: Nhặt từ map at 03/29/2023 11:01 AM
+BAG:okokok add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/29/2023 11:01 AM
+BAG:okokok add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/29/2023 11:02 AM
+BAG:okokok add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/29/2023 11:02 AM
+BAG:okokok add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/29/2023 11:02 AM
+BAG:okokok add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/29/2023 11:02 AM
+BAG:okokok add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/29/2023 11:02 AM
+BAG:okokok add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/29/2023 11:02 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/29/2023 11:02 AM
+BAG:okokok add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/29/2023 11:02 AM
+BAG:okokok add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/29/2023 11:02 AM
+BAG:okokok add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/29/2023 11:02 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:okokok add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:okokok add 6xMảnh Thằn lằn bay (old: 5) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:okokok add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:okokok add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:okokok add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:okokok add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:okokok add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/29/2023 11:03 AM
+BAG:okokok add 1xSao pha lê lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:okokok add 7xMảnh Thằn lằn bay (old: 6) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:okokok add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:okokok add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/29/2023 11:03 AM
+BAG:okokok add 8xMảnh Thằn lằn bay (old: 7) lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:okokok add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:okokok add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:okokok add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:okokok add 1xSao pha lê lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:okokok add 9xMảnh Thằn lằn bay (old: 8) lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:okokok add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:okokok add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:okokok add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:okokok add 10xMảnh Thằn lằn bay (old: 9) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:okokok add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:okokok add 11xMảnh Thằn lằn bay (old: 10) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:okokok add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:okokok add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:okokok add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:okokok add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:okokok add 12xMảnh Thằn lằn bay (old: 11) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:okokok add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:okokok add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:okokok add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:okokok add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/29/2023 11:06 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:okokok add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:okokok add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:okokok add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:okokok add 13xMảnh Thằn lằn bay (old: 12) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:okokok add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:okokok add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/29/2023 11:07 AM
+BAG:okokok add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/29/2023 11:07 AM
+BAG:okokok add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/29/2023 11:07 AM
+BAG:okokok add 14xMảnh Thằn lằn bay (old: 13) lydo: Nhặt từ map at 03/29/2023 11:07 AM
+BAG:okokok add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/29/2023 11:07 AM
+BAG:okokok add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/29/2023 11:07 AM
+BAG:okokok add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/29/2023 11:07 AM
+BAG:okokok add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/29/2023 11:07 AM
+BAG:okokok add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/29/2023 11:07 AM
+BAG:okokok add 15xMảnh Thằn lằn bay (old: 14) lydo: Nhặt từ map at 03/29/2023 11:07 AM
+BAG:okokok add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/29/2023 11:07 AM
+BAG:okokok add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:okokok add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:okokok add 8xMảnh Khủng long mẹ (old: 7) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:okokok add 1xSao pha lê lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:okokok add 16xMảnh Thằn lằn bay (old: 15) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:okokok add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:okokok add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:okokok add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:okokok add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:okokok add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:okokok add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:okokok add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/29/2023 11:09 AM
+BAG:okokok add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/29/2023 11:09 AM
+BAG:okokok add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/29/2023 11:09 AM
+BAG:okokok add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/29/2023 11:09 AM
+BAG:okokok add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/29/2023 11:09 AM
+BAG:okokok add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/29/2023 11:09 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:09 AM
+BAG:okokok add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:okokok add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:okokok add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:okokok add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:okokok add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:okokok add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:okokok add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:okokok add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:okokok add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:okokok add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:okokok add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:okokok add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/29/2023 11:11 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:11 AM
+BAG:okokok add 17xMảnh Thằn lằn bay (old: 16) lydo: Nhặt từ map at 03/29/2023 11:11 AM
+BAG:okokok add 9xMảnh Khủng long mẹ (old: 8) lydo: Nhặt từ map at 03/29/2023 11:11 AM
+BAG:okokok add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/29/2023 11:11 AM
+BAG:okokok add 18xMảnh Thằn lằn bay (old: 17) lydo: Nhặt từ map at 03/29/2023 11:11 AM
+BAG:okokok add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/29/2023 11:11 AM
+BAG:okokok add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/29/2023 11:11 AM
+BAG:okokok add 19xMảnh Thằn lằn bay (old: 18) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 20xMảnh Thằn lằn bay (old: 19) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 21xMảnh Thằn lằn bay (old: 20) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:okokok add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/29/2023 11:13 AM
+BAG:okokok add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/29/2023 11:13 AM
+BAG:okokok add 22xMảnh Thằn lằn bay (old: 21) lydo: Nhặt từ map at 03/29/2023 11:13 AM
+BAG:okokok add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/29/2023 11:13 AM
+BAG:okokok add 10xMảnh Khủng long mẹ (old: 9) lydo: Nhặt từ map at 03/29/2023 11:13 AM
+BAG:okokok add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/29/2023 11:13 AM
+BAG:okokok add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/29/2023 11:13 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:13 AM
+BAG:okokok add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/29/2023 11:13 AM
+BAG:okokok add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/29/2023 11:14 AM
+BAG:okokok add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/29/2023 11:14 AM
+BAG:okokok add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/29/2023 11:14 AM
+BAG:okokok add 23xMảnh Thằn lằn bay (old: 22) lydo: Nhặt từ map at 03/29/2023 11:14 AM
+BAG:okokok add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/29/2023 11:14 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:14 AM
+BAG:okokok add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/29/2023 11:14 AM
+BAG:okokok add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/29/2023 11:14 AM
+BAG:okokok add 24xMảnh Thằn lằn bay (old: 23) lydo: Nhặt từ map at 03/29/2023 11:14 AM
+BAG:okokok add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/29/2023 11:15 AM
+BAG:okokok add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/29/2023 11:15 AM
+BAG:okokok add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 11:15 AM
+BAG:okokok add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/29/2023 11:15 AM
+BAG:okokok add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/29/2023 11:15 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:okokok add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:okokok add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:okokok add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:okokok add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:okokok add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:okokok add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:okokok add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:okokok add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:okokok add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:okokok add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:okokok add 25xMảnh Thằn lằn bay (old: 24) lydo: Nhặt từ map at 03/29/2023 11:17 AM
+BAG:okokok add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/29/2023 11:17 AM
+BAG:okokok add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/29/2023 11:17 AM
+BAG:okokok add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/29/2023 11:17 AM
+BAG:okokok add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/29/2023 11:17 AM
+BAG:okokok add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/29/2023 11:17 AM
+BAG:okokok add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/29/2023 11:17 AM
+BAG:okokok add 11xMảnh Khủng long mẹ (old: 10) lydo: Nhặt từ map at 03/29/2023 11:17 AM
+BAG:okokok add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/29/2023 11:17 AM
+BAG:okokok add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/29/2023 11:18 AM
+BAG:okokok add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/29/2023 11:18 AM
+BAG:okokok add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/29/2023 11:18 AM
+BAG:okokok add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/29/2023 11:18 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:18 AM
+BAG:okokok add 26xMảnh Thằn lằn bay (old: 25) lydo: Nhặt từ map at 03/29/2023 11:18 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:18 AM
+BAG:okokok add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/29/2023 11:19 AM
+BAG:okokok add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/29/2023 11:19 AM
+BAG:okokok add 12xMảnh Khủng long mẹ (old: 11) lydo: Nhặt từ map at 03/29/2023 11:19 AM
+BAG:okokok add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/29/2023 11:19 AM
+BAG:okokok add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/29/2023 11:19 AM
+BAG:okokok add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:okokok add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:okokok add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:okokok add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:okokok add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:okokok add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:okokok add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:okokok add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:okokok add 27xMảnh Thằn lằn bay (old: 26) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:okokok add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:okokok add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:okokok add 13xMảnh Khủng long mẹ (old: 12) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:okokok add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:okokok add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:okokok add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:okokok add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:okokok add 14xMảnh Khủng long mẹ (old: 13) lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:okokok add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:okokok add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:okokok add 28xMảnh Thằn lằn bay (old: 27) lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:okokok add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:okokok add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:okokok add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:okokok add 29xMảnh Thằn lằn bay (old: 28) lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:okokok add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:okokok add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:okokok add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:okokok add 30xMảnh Thằn lằn bay (old: 29) lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:okokok add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:okokok add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:okokok add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:okokok add 31xMảnh Thằn lằn bay (old: 30) lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:okokok add 15xMảnh Khủng long mẹ (old: 14) lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:okokok add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:okokok add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:okokok add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/29/2023 11:24 AM
+BAG:okokok add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:25 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:okokok add 16xMảnh Khủng long mẹ (old: 15) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 32xMảnh Thằn lằn bay (old: 31) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:okokok add 27xMảnh Khủng long (old: 26) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:okokok add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:okokok add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:okokok add 33xMảnh Thằn lằn bay (old: 32) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:okokok add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:okokok add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:okokok add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:okokok add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:okokok add 34xMảnh Thằn lằn bay (old: 33) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:okokok add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:okokok add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:okokok add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:okokok add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:okokok add 35xMảnh Thằn lằn bay (old: 34) lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:okokok add 28xMảnh Khủng long (old: 27) lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:okokok add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:okokok add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:okokok add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:okokok add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 29xMảnh Khủng long (old: 28) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 30xMảnh Khủng long (old: 29) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 36xMảnh Thằn lằn bay (old: 35) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 31xMảnh Khủng long (old: 30) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 32xMảnh Khủng long (old: 31) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/29/2023 11:30 AM
+BAG:okokok add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:okokok add 17xMảnh Khủng long mẹ (old: 16) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:okokok add 37xMảnh Thằn lằn bay (old: 36) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:okokok add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:okokok add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:okokok add 18xMảnh Khủng long mẹ (old: 17) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:okokok add 38xMảnh Thằn lằn bay (old: 37) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:okokok add 33xMảnh Khủng long (old: 32) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:okokok add 34xMảnh Khủng long (old: 33) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:okokok add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:okokok add 35xMảnh Khủng long (old: 34) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:okokok add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:okokok add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:okokok add 36xMảnh Khủng long (old: 35) lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:okokok add 39xMảnh Thằn lằn bay (old: 38) lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:okokok add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:okokok add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:okokok add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:okokok add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:okokok add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:okokok add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 37xMảnh Khủng long (old: 36) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 12xSao pha lê (old: 11) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 40xMảnh Thằn lằn bay (old: 39) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:okokok add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:okokok add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:okokok add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:okokok add 13xSao pha lê (old: 12) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:okokok add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:okokok add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:okokok add 38xMảnh Khủng long (old: 37) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:okokok add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:okokok add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:okokok add 39xMảnh Khủng long (old: 38) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:okokok add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:okokok add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:okokok add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:okokok add 41xMảnh Thằn lằn bay (old: 40) lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:okokok add 40xMảnh Khủng long (old: 39) lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:okokok add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:okokok add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:okokok add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:okokok add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:okokok add 42xMảnh Thằn lằn bay (old: 41) lydo: Nhặt từ map at 03/29/2023 11:36 AM
+BAG:okokok add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/29/2023 11:36 AM
+BAG:okokok add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/29/2023 11:36 AM
+BAG:okokok add 41xMảnh Khủng long (old: 40) lydo: Nhặt từ map at 03/29/2023 11:36 AM
+BAG:okokok add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/29/2023 11:36 AM
+BAG:okokok add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:okokok add 42xMảnh Khủng long (old: 41) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:okokok add 19xMảnh Khủng long mẹ (old: 18) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:okokok add 43xMảnh Thằn lằn bay (old: 42) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:okokok add 44xMảnh Thằn lằn bay (old: 43) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:okokok add 43xMảnh Khủng long (old: 42) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:okokok add 45xMảnh Thằn lằn bay (old: 44) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:okokok add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 46xMảnh Thằn lằn bay (old: 45) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 47xMảnh Thằn lằn bay (old: 46) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:okokok add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 48xMảnh Thằn lằn bay (old: 47) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 49xMảnh Thằn lằn bay (old: 48) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 44xMảnh Khủng long (old: 43) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 50xMảnh Thằn lằn bay (old: 49) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 51xMảnh Thằn lằn bay (old: 50) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 45xMảnh Khủng long (old: 44) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:okokok add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 1xGiầy nhựa lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 52xMảnh Thằn lằn bay (old: 51) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 1xQuần vải đen lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 1xGăng vải đen lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 46xMảnh Khủng long (old: 45) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:okokok add 53xMảnh Thằn lằn bay (old: 52) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 47xMảnh Khủng long (old: 46) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 48xMảnh Khủng long (old: 47) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 49xMảnh Khủng long (old: 48) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:okokok add 54xMảnh Thằn lằn bay (old: 53) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:okokok add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:okokok add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:okokok add 50xMảnh Khủng long (old: 49) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:okokok add 55xMảnh Thằn lằn bay (old: 54) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:okokok add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:okokok add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:okokok add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:okokok add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:okokok add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/29/2023 11:43 AM
+BAG:okokok add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/29/2023 11:43 AM
+BAG:okokok add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 03/29/2023 11:43 AM
+BAG:okokok add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/29/2023 11:43 AM
+BAG:okokok add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/29/2023 11:43 AM
+BAG:okokok add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:okokok add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:okokok add 51xMảnh Khủng long (old: 50) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:okokok add 56xMảnh Thằn lằn bay (old: 55) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:okokok add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:okokok add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:okokok add 52xMảnh Khủng long (old: 51) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:okokok add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:okokok add 20xMảnh Khủng long mẹ (old: 19) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:okokok add 53xMảnh Khủng long (old: 52) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:okokok add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 57xMảnh Thằn lằn bay (old: 56) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:okokok add 54xMảnh Khủng long (old: 53) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:okokok add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:okokok add 58xMảnh Thằn lằn bay (old: 57) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:okokok add 55xMảnh Khủng long (old: 54) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:okokok add 56xMảnh Khủng long (old: 55) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:okokok add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:okokok add 59xMảnh Thằn lằn bay (old: 58) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:okokok add 57xMảnh Khủng long (old: 56) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:okokok add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:okokok add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:okokok add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:okokok add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 21xMảnh Khủng long mẹ (old: 20) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 60xMảnh Thằn lằn bay (old: 59) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 58xMảnh Khủng long (old: 57) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:okokok add 59xMảnh Khủng long (old: 58) lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:okokok add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:okokok add 60xMảnh Khủng long (old: 59) lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:okokok add 61xMảnh Khủng long (old: 60) lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:okokok add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/29/2023 1:17 PM
+BAG:okokok add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/29/2023 1:17 PM
+BAG:okokok add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/29/2023 1:17 PM
+BAG:okokok add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/29/2023 1:17 PM
+BAG:okokok add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/29/2023 1:17 PM
+BAG:okokok add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/29/2023 1:17 PM
+BAG:okokok add 61xMảnh Thằn lằn bay (old: 60) lydo: Nhặt từ map at 03/29/2023 1:18 PM
+BAG:okokok add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/29/2023 1:18 PM
+BAG:okokok add 62xMảnh Thằn lằn bay (old: 61) lydo: Nhặt từ map at 03/29/2023 1:18 PM
+BAG:okokok add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/29/2023 1:18 PM
+BAG:okokok add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/29/2023 1:18 PM
+BAG:okokok add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/29/2023 1:18 PM
+BAG:okokok add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/29/2023 1:18 PM
+BAG:okokok add 62xMảnh Khủng long (old: 61) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:okokok add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:okokok add 63xMảnh Thằn lằn bay (old: 62) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:okokok add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:okokok add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:okokok add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:okokok add 63xMảnh Khủng long (old: 62) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:okokok add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:okokok add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:okokok add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:okokok add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/29/2023 1:20 PM
+BAG:okokok add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/29/2023 1:20 PM
+BAG:okokok add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/29/2023 1:20 PM
+BAG:okokok add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/29/2023 1:20 PM
+BAG:okokok add 64xMảnh Khủng long (old: 63) lydo: Nhặt từ map at 03/29/2023 1:20 PM
+BAG:okokok add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/29/2023 1:20 PM
+BAG:okokok add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/29/2023 1:20 PM
+BAG:okokok add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/29/2023 1:20 PM
+BAG:okokok add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/29/2023 1:20 PM
+BAG:okokok add 22xMảnh Khủng long mẹ (old: 21) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:okokok add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:okokok add 34xSao pha lê (old: 33) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:okokok add 64xMảnh Thằn lằn bay (old: 63) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:okokok add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:okokok add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:okokok add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:okokok add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:okokok add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:okokok add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:okokok add 65xMảnh Khủng long (old: 64) lydo: Nhặt từ map at 03/29/2023 1:22 PM
+BAG:okokok add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/29/2023 1:22 PM
+BAG:okokok add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/29/2023 1:22 PM
+BAG:okokok add 66xMảnh Khủng long (old: 65) lydo: Nhặt từ map at 03/29/2023 1:22 PM
+BAG:okokok add 23xMảnh Khủng long mẹ (old: 22) lydo: Nhặt từ map at 03/29/2023 1:22 PM
+BAG:okokok add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/29/2023 1:22 PM
+BAG:okokok add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 03/29/2023 1:23 PM
+BAG:okokok add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 03/29/2023 1:23 PM
+BAG:okokok add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 03/29/2023 1:23 PM
+BAG:okokok add 67xMảnh Khủng long (old: 66) lydo: Nhặt từ map at 03/29/2023 1:23 PM
+BAG:okokok add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/29/2023 1:23 PM
+BAG:okokok add 34xSao pha lê (old: 33) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:okokok add 24xMảnh Khủng long mẹ (old: 23) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:okokok add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:okokok add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:okokok add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:okokok add 68xMảnh Khủng long (old: 67) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:okokok add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:okokok add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:okokok add 69xMảnh Khủng long (old: 68) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:okokok add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:okokok add 65xMảnh Thằn lằn bay (old: 64) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:okokok add 70xMảnh Khủng long (old: 69) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:okokok add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:okokok add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:okokok add 66xMảnh Thằn lằn bay (old: 65) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:okokok add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:okokok add 35xSao pha lê (old: 34) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:okokok add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:okokok add 35xSao pha lê (old: 34) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:okokok add 25xMảnh Khủng long mẹ (old: 24) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:okokok add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:okokok add 71xMảnh Khủng long (old: 70) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:okokok add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:okokok add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:okokok add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:okokok add 26xMảnh Khủng long mẹ (old: 25) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:okokok add 72xMảnh Khủng long (old: 71) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:okokok add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:okokok add 67xMảnh Thằn lằn bay (old: 66) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:okokok add 27xMảnh Khủng long mẹ (old: 26) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:okokok add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:okokok add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:okokok add 68xMảnh Thằn lằn bay (old: 67) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:okokok add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/29/2023 1:28 PM
+BAG:okokok add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/29/2023 1:28 PM
+BAG:okokok add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/29/2023 1:28 PM
+BAG:okokok add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/29/2023 1:28 PM
+BAG:okokok add 69xMảnh Thằn lằn bay (old: 68) lydo: Nhặt từ map at 03/29/2023 1:28 PM
+BAG:okokok add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/29/2023 1:29 PM
+BAG:okokok add 36xSao pha lê (old: 35) lydo: Nhặt từ map at 03/29/2023 1:29 PM
+BAG:okokok add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/29/2023 1:29 PM
+BAG:okokok add 73xMảnh Khủng long (old: 72) lydo: Nhặt từ map at 03/29/2023 1:29 PM
+BAG:okokok add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 03/29/2023 1:29 PM
+BAG:okokok add 37xSao pha lê (old: 36) lydo: Nhặt từ map at 03/29/2023 1:29 PM
+BAG:okokok add 38xSao pha lê (old: 37) lydo: Nhặt từ map at 03/29/2023 1:29 PM
+BAG:okokok add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 03/29/2023 1:29 PM
+BAG:okokok add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/29/2023 1:30 PM
+BAG:okokok add 36xSao pha lê (old: 35) lydo: Nhặt từ map at 03/29/2023 1:30 PM
+BAG:okokok add 74xMảnh Khủng long (old: 73) lydo: Nhặt từ map at 03/29/2023 1:30 PM
+BAG:okokok add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/29/2023 1:30 PM
+BAG:okokok add 75xMảnh Khủng long (old: 74) lydo: Nhặt từ map at 03/29/2023 1:30 PM
+BAG:okokok add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:okokok add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:okokok add 76xMảnh Khủng long (old: 75) lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:okokok add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:okokok add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:okokok add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:okokok add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:okokok add 77xMảnh Khủng long (old: 76) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:okokok add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:okokok add 70xMảnh Thằn lằn bay (old: 69) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:okokok add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:okokok add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:okokok add 78xMảnh Khủng long (old: 77) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:okokok add 71xMảnh Thằn lằn bay (old: 70) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:okokok add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:okokok add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:okokok add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:okokok add 72xMảnh Thằn lằn bay (old: 71) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:okokok add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:okokok add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:okokok add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:okokok add 28xMảnh Khủng long mẹ (old: 27) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:okokok add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:okokok add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:okokok add 79xMảnh Khủng long (old: 78) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:okokok add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:okokok add 80xMảnh Khủng long (old: 79) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:okokok add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:okokok add 39xSao pha lê (old: 38) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:okokok add 81xMảnh Khủng long (old: 80) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:okokok add 82xMảnh Khủng long (old: 81) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:okokok add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:okokok add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:okokok add 73xMảnh Thằn lằn bay (old: 72) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:okokok add 37xSao pha lê (old: 36) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:okokok add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:okokok add 38xSao pha lê (old: 37) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:okokok add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:okokok add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:okokok add 74xMảnh Thằn lằn bay (old: 73) lydo: Nhặt từ map at 03/29/2023 1:35 PM
+BAG:okokok add 39xSao pha lê (old: 38) lydo: Nhặt từ map at 03/29/2023 1:35 PM
+BAG:okokok add 83xMảnh Khủng long (old: 82) lydo: Nhặt từ map at 03/29/2023 1:35 PM
+BAG:okokok add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 75xMảnh Thằn lằn bay (old: 74) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:okokok add 34xSao pha lê (old: 33) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:okokok add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:okokok add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:okokok add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:okokok add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:okokok add 40xSao pha lê (old: 39) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:okokok add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:okokok add 84xMảnh Khủng long (old: 83) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:okokok add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:okokok add 76xMảnh Thằn lằn bay (old: 75) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:okokok add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:okokok add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:okokok add 85xMảnh Khủng long (old: 84) lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:okokok add 29xMảnh Khủng long mẹ (old: 28) lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:okokok add 41xSao pha lê (old: 40) lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:okokok add 77xMảnh Thằn lằn bay (old: 76) lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:okokok add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:okokok add 78xMảnh Thằn lằn bay (old: 77) lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:okokok add 79xMảnh Thằn lằn bay (old: 78) lydo: Nhặt từ map at 03/29/2023 1:39 PM
+BAG:okokok add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/29/2023 1:39 PM
+BAG:okokok add 30xMảnh Khủng long mẹ (old: 29) lydo: Nhặt từ map at 03/29/2023 1:39 PM
+BAG:okokok add 80xMảnh Thằn lằn bay (old: 79) lydo: Nhặt từ map at 03/29/2023 1:39 PM
+BAG:okokok add 81xMảnh Thằn lằn bay (old: 80) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:okokok add 86xMảnh Khủng long (old: 85) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:okokok add 87xMảnh Khủng long (old: 86) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:okokok add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:okokok add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:okokok add 82xMảnh Thằn lằn bay (old: 81) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:okokok add 40xSao pha lê (old: 39) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:okokok add 34xSao pha lê (old: 33) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:okokok add 35xSao pha lê (old: 34) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:okokok add 36xSao pha lê (old: 35) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:okokok add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:okokok add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/29/2023 1:41 PM
+BAG:okokok add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/29/2023 1:41 PM
+BAG:okokok add 41xSao pha lê (old: 40) lydo: Nhặt từ map at 03/29/2023 1:41 PM
+BAG:okokok add 42xSao pha lê (old: 41) lydo: Nhặt từ map at 03/29/2023 1:41 PM
+BAG:okokok add 83xMảnh Thằn lằn bay (old: 82) lydo: Nhặt từ map at 03/29/2023 1:41 PM
+BAG:okokok add 43xSao pha lê (old: 42) lydo: Nhặt từ map at 03/29/2023 1:41 PM
+BAG:okokok add 88xMảnh Khủng long (old: 87) lydo: Nhặt từ map at 03/29/2023 1:41 PM
+BAG:okokok add 25xSao pha lê (old: 24) lydo: Nhặt từ map at 03/29/2023 1:41 PM
+BAG:okokok add 35xSao pha lê (old: 34) lydo: Nhặt từ map at 03/29/2023 1:41 PM
+BAG:okokok add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/29/2023 1:42 PM
+BAG:okokok add 44xSao pha lê (old: 43) lydo: Nhặt từ map at 03/29/2023 1:42 PM
+BAG:okokok add 84xMảnh Thằn lằn bay (old: 83) lydo: Nhặt từ map at 03/29/2023 1:42 PM
+BAG:okokok add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/29/2023 1:42 PM
+BAG:okokok add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/29/2023 1:42 PM
+BAG:okokok add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:okokok add 37xSao pha lê (old: 36) lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:okokok add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:okokok add 89xMảnh Khủng long (old: 88) lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:okokok add 26xSao pha lê (old: 25) lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:okokok add 85xMảnh Thằn lằn bay (old: 84) lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:okokok add 45xSao pha lê (old: 44) lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:okokok add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:okokok add 86xMảnh Thằn lằn bay (old: 85) lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:okokok add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 03/29/2023 1:44 PM
+BAG:okokok add 90xMảnh Khủng long (old: 89) lydo: Nhặt từ map at 03/29/2023 1:44 PM
+BAG:okokok add 91xMảnh Khủng long (old: 90) lydo: Nhặt từ map at 03/29/2023 1:44 PM
+BAG:okokok add 27xSao pha lê (old: 26) lydo: Nhặt từ map at 03/29/2023 1:44 PM
+BAG:okokok add 38xSao pha lê (old: 37) lydo: Nhặt từ map at 03/29/2023 1:44 PM
+BAG:okokok add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:okokok add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:okokok add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:okokok add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:okokok add 87xMảnh Thằn lằn bay (old: 86) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:okokok add 34xSao pha lê (old: 33) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:okokok add 31xMảnh Khủng long mẹ (old: 30) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:okokok add 92xMảnh Khủng long (old: 91) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:okokok add 32xMảnh Khủng long mẹ (old: 31) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:okokok add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:okokok add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:okokok add 33xMảnh Khủng long mẹ (old: 32) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:okokok add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:okokok add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:okokok add 35xSao pha lê (old: 34) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:okokok add 88xMảnh Thằn lằn bay (old: 87) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:okokok add 39xSao pha lê (old: 38) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:okokok add 28xSao pha lê (old: 27) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:okokok add 36xSao pha lê (old: 35) lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:okokok add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:okokok add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:okokok add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:okokok add 93xMảnh Khủng long (old: 92) lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:okokok add 89xMảnh Thằn lằn bay (old: 88) lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:okokok add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:okokok add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:okokok add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:okokok add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:okokok add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:okokok add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:okokok add 42xSao pha lê (old: 41) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:okokok add 34xMảnh Khủng long mẹ (old: 33) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:okokok add 35xMảnh Khủng long mẹ (old: 34) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:okokok add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:okokok add 36xMảnh Khủng long mẹ (old: 35) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:okokok add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:okokok add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:okokok add 90xMảnh Thằn lằn bay (old: 89) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:okokok add 94xMảnh Khủng long (old: 93) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:okokok add 37xSao pha lê (old: 36) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:okokok add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:okokok add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:okokok add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:okokok add 37xMảnh Khủng long mẹ (old: 36) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:okokok add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:okokok add 91xMảnh Thằn lằn bay (old: 90) lydo: Nhặt từ map at 03/29/2023 1:50 PM
+BAG:okokok add 43xSao pha lê (old: 42) lydo: Nhặt từ map at 03/29/2023 1:50 PM
+BAG:okokok add 92xMảnh Thằn lằn bay (old: 91) lydo: Nhặt từ map at 03/29/2023 1:50 PM
+BAG:okokok add 93xMảnh Thằn lằn bay (old: 92) lydo: Nhặt từ map at 03/29/2023 1:50 PM
+BAG:okokok add 38xSao pha lê (old: 37) lydo: Nhặt từ map at 03/29/2023 1:50 PM
+BAG:okokok add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:okokok add 94xMảnh Thằn lằn bay (old: 93) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:okokok add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:okokok add 95xMảnh Thằn lằn bay (old: 94) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:okokok add 95xMảnh Khủng long (old: 94) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:okokok add 96xMảnh Thằn lằn bay (old: 95) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:okokok add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:okokok add 97xMảnh Thằn lằn bay (old: 96) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:okokok add 36xSao pha lê (old: 35) lydo: Nhặt từ map at 03/29/2023 1:51 PM
+BAG:okokok add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 34xSao pha lê (old: 33) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 44xSao pha lê (old: 43) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 39xSao pha lê (old: 38) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 40xSao pha lê (old: 39) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 41xSao pha lê (old: 40) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 40xSao pha lê (old: 39) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 98xMảnh Thằn lằn bay (old: 97) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:okokok add 41xSao pha lê (old: 40) lydo: Nhặt từ map at 03/29/2023 1:53 PM
+BAG:okokok add 96xMảnh Khủng long (old: 95) lydo: Nhặt từ map at 03/29/2023 1:53 PM
+BAG:okokok add 38xMảnh Khủng long mẹ (old: 37) lydo: Nhặt từ map at 03/29/2023 1:53 PM
+BAG:okokok add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 03/29/2023 1:53 PM
+BAG:okokok add 42xSao pha lê (old: 41) lydo: Nhặt từ map at 03/29/2023 1:53 PM
+BAG:okokok add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 03/29/2023 1:53 PM
+BAG:okokok add 46xSao pha lê (old: 45) lydo: Nhặt từ map at 03/29/2023 1:53 PM
+BAG:okokok add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 03/29/2023 1:54 PM
+BAG:okokok add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/29/2023 1:54 PM
+BAG:okokok add 97xMảnh Khủng long (old: 96) lydo: Nhặt từ map at 03/29/2023 1:54 PM
+BAG:okokok add 42xSao pha lê (old: 41) lydo: Nhặt từ map at 03/29/2023 1:54 PM
+BAG:okokok add 99xMảnh Thằn lằn bay (old: 98) lydo: Nhặt từ map at 03/29/2023 1:54 PM
+BAG:okokok add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/29/2023 1:54 PM
+BAG:okokok add 37xSao pha lê (old: 36) lydo: Nhặt từ map at 03/29/2023 1:54 PM
+BAG:okokok add 39xMảnh Khủng long mẹ (old: 38) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:okokok add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:okokok add 35xSao pha lê (old: 34) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:okokok add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:okokok add 45xSao pha lê (old: 44) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:okokok add 46xSao pha lê (old: 45) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:okokok add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:okokok add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:okokok add 98xMảnh Khủng long (old: 97) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:okokok add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:okokok add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:okokok add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/29/2023 1:56 PM
+BAG:okokok add 43xSao pha lê (old: 42) lydo: Nhặt từ map at 03/29/2023 1:56 PM
+BAG:okokok add 47xSao pha lê (old: 46) lydo: Nhặt từ map at 03/29/2023 1:56 PM
+BAG:okokok add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/29/2023 1:56 PM
+BAG:okokok add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/29/2023 1:56 PM
+BAG:okokok add 47xSao pha lê (old: 46) lydo: Nhặt từ map at 03/29/2023 1:56 PM
+BAG:okokok add 99xMảnh Khủng long (old: 98) lydo: Nhặt từ map at 03/29/2023 1:57 PM
+BAG:okokok add 38xSao pha lê (old: 37) lydo: Nhặt từ map at 03/29/2023 1:57 PM
+BAG:okokok add 48xSao pha lê (old: 47) lydo: Nhặt từ map at 03/29/2023 1:57 PM
+BAG:okokok add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/29/2023 1:57 PM
+BAG:okokok add 48xSao pha lê (old: 47) lydo: Nhặt từ map at 03/29/2023 1:57 PM
+BAG:okokok add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/29/2023 1:57 PM
+BAG:okokok add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 03/29/2023 1:58 PM
+BAG:okokok add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/29/2023 1:58 PM
+BAG:okokok add 49xSao pha lê (old: 48) lydo: Nhặt từ map at 03/29/2023 1:58 PM
+BAG:okokok add 49xSao pha lê (old: 48) lydo: Nhặt từ map at 03/29/2023 6:40 PM
+BAG:okokok add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/29/2023 6:44 PM
+BAG:okokok add 50xSao pha lê (old: 49) lydo: Nhặt từ map at 03/29/2023 6:46 PM
+BAG:okokok add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/29/2023 7:02 PM
+BAG:okokok add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/29/2023 7:04 PM
+BAG:okokok add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/29/2023 7:05 PM
+BAG:okokok add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/29/2023 7:05 PM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/29/2023 7:05 PM
+BAG:okokok add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/29/2023 7:11 PM
+BAG:okokok add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/29/2023 7:11 PM
+BAG:okokok add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/29/2023 7:11 PM
+BAG:okokok add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/29/2023 7:11 PM
+BAG:okokok add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 7:11 PM
+BAG:okokok add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/29/2023 7:19 PM
+BAG:okokok add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 7:21 PM
+BAG:okokok add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 7:31 PM
+BAG:okokok add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 7:31 PM
+BAG:okokok add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 7:31 PM
+BAG:okokok add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 7:31 PM
+BAG:okokok add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/29/2023 7:31 PM
+BAG:okokok add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 7:32 PM
+BAG:okokok add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 7:32 PM
+BAG:okokok add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 7:32 PM
+BAG:okokok add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 7:32 PM
+BAG:okokok add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 7:32 PM
+BAG:okokok add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 7:32 PM
+BAG:okokok add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 7:32 PM
+BAG:okokok add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 7:32 PM
+BAG:okokok add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/29/2023 7:33 PM
+BAG:okokok add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 7:33 PM
+BAG:okokok add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 7:33 PM
+BAG:okokok add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 7:33 PM
+BAG:okokok add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 7:33 PM
+BAG:okokok add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 7:34 PM
+BAG:okokok add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 7:34 PM
+BAG:okokok add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 7:34 PM
+BAG:okokok add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 7:34 PM
+BAG:okokok add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 7:34 PM
+BAG:okokok add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 7:34 PM
+BAG:okokok add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 7:34 PM
+BAG:okokok add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 7:34 PM
+BAG:okokok add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 7:34 PM
+BAG:okokok add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 7:34 PM
+BAG:okokok add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/29/2023 7:34 PM

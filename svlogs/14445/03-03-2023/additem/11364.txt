@@ -1,0 +1,152 @@
+BAG:admin01 add 1xCuồng nộ lydo: buff at 03/03/2023 6:33 AM
+BAG:admin01 add 99xCuồng nộ (old: 1) lydo: buff at 03/03/2023 6:34 AM
+BAG:admin01 add 1xBổ huyết lydo: buff at 03/03/2023 6:34 AM
+BAG:admin01 add 99xBổ huyết (old: 1) lydo: buff at 03/03/2023 6:34 AM
+BAG:admin01 add 1xBổ khí lydo: buff at 03/03/2023 6:34 AM
+BAG:admin01 add 1xGiáp Xên bọ hung lydo: buff at 03/03/2023 6:34 AM
+BAG:admin01 add 99xGiáp Xên bọ hung (old: 1) lydo: buff at 03/03/2023 6:34 AM
+BAG:admin01 add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/03/2023 6:38 AM
+BAG:admin01 add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/03/2023 6:38 AM
+BAG:admin01 add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/03/2023 6:39 AM
+BAG:admin01 add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/03/2023 6:41 AM
+BAG:admin01 add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/03/2023 6:41 AM
+BAG:admin01 add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/03/2023 6:41 AM
+BAG:admin01 add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/03/2023 6:41 AM
+BAG:admin01 add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/03/2023 6:41 AM
+BAG:admin01 add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/03/2023 6:41 AM
+BAG:admin01 add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/03/2023 6:42 AM
+BAG:admin01 add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/03/2023 6:43 AM
+BAG:admin01 add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/03/2023 6:43 AM
+BAG:admin01 add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/03/2023 6:43 AM
+BAG:admin01 add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/03/2023 6:43 AM
+BAG:admin01 add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/03/2023 6:43 AM
+BAG:admin01 add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/03/2023 6:43 AM
+BAG:admin01 add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 03/03/2023 6:43 AM
+BAG:admin01 add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/03/2023 6:44 AM
+BAG:admin01 add 1xNgọc Rồng 3 sao lydo: buff at 03/03/2023 6:45 AM
+BAG:admin01 add 1xNhẫn Hủy Diệt lydo: Lấy từ rương qua người at 03/03/2023 6:46 AM
+BAG:admin01 add 1xBông tai Porata lydo: Lấy từ rương qua người at 03/03/2023 6:46 AM
+BAG:admin01 add 1xViên Capsule đặc biệt lydo: Lấy từ rương qua người at 03/03/2023 6:46 AM
+BAG:admin01 add 1000074xThỏi vàng (old: 96) lydo: Lấy từ rương qua người at 03/03/2023 6:46 AM
+BAG:admin01 add 10000xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/03/2023 6:46 AM
+BAG:admin01 add 9997xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/03/2023 6:47 AM
+BAG:admin01 add 99xCuồng nộ lydo: Lấy từ rương qua người at 03/03/2023 6:47 AM
+BAG:admin01 add 99xBổ huyết lydo: Lấy từ rương qua người at 03/03/2023 6:47 AM
+BAG:admin01 add 99xGiáp Xên bọ hung lydo: Lấy từ rương qua người at 03/03/2023 6:47 AM
+BAG:admin01 add 99xNgọc Rồng 3 sao lydo: buff at 03/03/2023 6:47 AM
+BAG:admin01 add 99xNgọc Rồng 3 sao lydo: buff at 03/03/2023 6:47 AM
+BAG:admin01 add 99xNgọc Rồng 3 sao lydo: buff at 03/03/2023 6:47 AM
+BAG:admin01 add 1xQuần Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 6:50 AM
+BAG:admin01 add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 6:52 AM
+BAG:admin01 add 1xGăng Thiên Sứ lydo: admin at 03/03/2023 6:55 AM
+BAG:admin01 add 1xGăng Thiên Sứ lydo: admin at 03/03/2023 6:56 AM
+BAG:admin01 add 1xGăng Thiên Sứ lydo: admin at 03/03/2023 6:56 AM
+BAG:admin01 add 1xGăng Thiên Sứ lydo: Lấy từ body vào hành trang at 03/03/2023 6:56 AM
+BAG:admin01 add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 7:00 AM
+BAG:admin01 add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 7:00 AM
+BAG:admin01 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 7:01 AM
+BAG:admin01 add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 7:05 AM
+BAG:admin01 add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 7:07 AM
+BAG:admin01 add 99xĐá thạch anh tím lydo: buff at 03/03/2023 7:12 AM
+BAG:admin01 add 1xGăng Thiên Sứ lydo: Lấy từ body vào hành trang at 03/03/2023 7:12 AM
+BAG:admin01 add 99xNgọc Rồng 1 sao lydo: buff at 03/03/2023 7:12 AM
+BAG:admin01 add 99xĐá bảo vệ lydo: buff at 03/03/2023 7:14 AM
+BAG:admin01 add 8xĐá thạch anh tím lydo: buff at 03/03/2023 7:14 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 8) lydo: buff at 03/03/2023 7:14 AM
+BAG:admin01 add 19xĐá thạch anh tím lydo: buff at 03/03/2023 7:16 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/03/2023 7:16 AM
+BAG:admin01 add 19xĐá thạch anh tím lydo: buff at 03/03/2023 7:16 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/03/2023 7:16 AM
+BAG:admin01 add 10xĐá thạch anh tím lydo: buff at 03/03/2023 7:18 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 10) lydo: buff at 03/03/2023 7:18 AM
+BAG:admin01 add 10xĐá thạch anh tím lydo: buff at 03/03/2023 7:18 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 10) lydo: buff at 03/03/2023 7:18 AM
+BAG:admin01 add 10xĐá thạch anh tím lydo: buff at 03/03/2023 7:18 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 10) lydo: buff at 03/03/2023 7:18 AM
+BAG:admin01 add 23xĐá thạch anh tím lydo: buff at 03/03/2023 7:19 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/03/2023 7:19 AM
+BAG:admin01 add 23xĐá thạch anh tím lydo: buff at 03/03/2023 7:20 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/03/2023 7:20 AM
+BAG:admin01 add 23xĐá thạch anh tím lydo: buff at 03/03/2023 7:20 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 23) lydo: buff at 03/03/2023 7:20 AM
+BAG:admin01 add 14xĐá thạch anh tím lydo: buff at 03/03/2023 7:22 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/03/2023 7:22 AM
+BAG:admin01 add 14xĐá thạch anh tím lydo: buff at 03/03/2023 7:22 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/03/2023 7:22 AM
+BAG:admin01 add 14xĐá thạch anh tím lydo: buff at 03/03/2023 7:22 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 14) lydo: buff at 03/03/2023 7:22 AM
+BAG:admin01 add 99xĐá thạch anh tím lydo: buff at 03/03/2023 7:24 AM
+BAG:admin01 add 99xĐá thạch anh tím lydo: buff at 03/03/2023 7:24 AM
+BAG:admin01 add 99xĐá thạch anh tím lydo: buff at 03/03/2023 7:24 AM
+BAG:admin01 add 99xĐá thạch anh tím lydo: buff at 03/03/2023 7:24 AM
+BAG:admin01 add 19xĐá thạch anh tím lydo: buff at 03/03/2023 7:26 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/03/2023 7:26 AM
+BAG:admin01 add 19xĐá thạch anh tím lydo: buff at 03/03/2023 7:26 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/03/2023 7:26 AM
+BAG:admin01 add 19xĐá thạch anh tím lydo: buff at 03/03/2023 7:26 AM
+BAG:admin01 add 99xĐá thạch anh tím (old: 19) lydo: buff at 03/03/2023 7:26 AM
+BAG:admin01 add 1xCải trang lydo: Lấy từ body vào hành trang at 03/03/2023 7:31 AM
+BAG:admin01 add 1xCải Trang Zeno lydo: Lấy từ rương qua người at 03/03/2023 7:41 AM
+BAG:admin01 add 1xCải trang Chill lydo: Nhặt từ map at 03/03/2023 7:43 AM
+BAG:admin01 add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/03/2023 7:43 AM
+BAG:admin01 add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 10:33 AM
+BAG:admin01 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 10:34 AM
+BAG:admin01 add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 10:34 AM
+BAG:admin01 add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 10:34 AM
+BAG:admin01 add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 10:34 AM
+BAG:admin01 add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 10:34 AM
+BAG:admin01 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 10:34 AM
+BAG:admin01 add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 10:36 AM
+BAG:admin01 add 1xÁo vải thô lydo: buff at 03/03/2023 10:42 AM
+BAG:admin01 add 1xQuần vải thô lydo: buff at 03/03/2023 10:42 AM
+BAG:admin01 add 1xRada cấp 1 lydo: buff at 03/03/2023 10:42 AM
+BAG:admin01 add 1xGiầy vải thô lydo: buff at 03/03/2023 10:43 AM
+BAG:admin01 add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 11:35 AM
+BAG:admin01 add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 11:35 AM
+BAG:admin01 add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:37 PM
+BAG:admin01 add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:09 PM
+BAG:admin01 add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:09 PM
+BAG:admin01 add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 7:17 PM
+BAG:admin01 add 1xÁo Hủy Diệt lydo: Lấy từ rương qua người at 03/03/2023 7:17 PM
+BAG:admin01 add 1xQuần Hủy Diệt lydo: Lấy từ rương qua người at 03/03/2023 7:17 PM
+BAG:admin01 add 1xGăng Hủy Diệt lydo: Lấy từ rương qua người at 03/03/2023 7:17 PM
+BAG:admin01 add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/03/2023 7:17 PM
+BAG:admin01 add 1xNhẫn Hủy Diệt lydo: Lấy từ rương qua người at 03/03/2023 7:17 PM
+BAG:admin01 add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/03/2023 7:35 PM
+BAG:admin01 add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/03/2023 7:36 PM
+BAG:admin01 add 1xÁo Thần Linh lydo: Nhặt từ map at 03/03/2023 7:37 PM
+BAG:admin01 add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:38 PM
+BAG:admin01 add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:39 PM
+BAG:admin01 add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:40 PM
+BAG:admin01 add 1xGăng Thiên Sứ lydo: buff at 03/03/2023 7:42 PM
+BAG:admin01 add 99xThỏi vàng lydo: (GD) Nhận từ vuisreal at 03/03/2023 7:53 PM
+BAG:admin01 add 99xĐá thạch anh tím lydo: buff at 03/03/2023 7:54 PM
+BAG:admin01 add 99xĐá thạch anh tím lydo: buff at 03/03/2023 7:55 PM
+BAG:admin01 add 99xĐá thạch anh tím lydo: buff at 03/03/2023 7:55 PM
+BAG:admin01 add 1xMakankosappo lv1 lydo: buff at 03/03/2023 7:55 PM
+BAG:admin01 add 99xBổ huyết lydo: buff at 03/03/2023 7:56 PM
+BAG:admin01 add 1xBổ huyết lydo: buff at 03/03/2023 7:57 PM
+BAG:admin01 add 1xĐá thạch anh tím lydo: buff at 03/03/2023 7:57 PM
+BAG:admin01 add 1xĐá thạch anh tím lydo: buff at 03/03/2023 7:57 PM
+BAG:admin01 add 99xĐá thạch anh tím (old: 1) lydo: buff at 03/03/2023 7:57 PM
+BAG:admin01 add 1xĐá thạch anh tím lydo: buff at 03/03/2023 7:57 PM
+BAG:admin01 add 99xĐá thạch anh tím (old: 1) lydo: buff at 03/03/2023 7:57 PM
+BAG:admin01 add 1xĐá thạch anh tím lydo: buff at 03/03/2023 7:57 PM
+BAG:admin01 add 99xĐá thạch anh tím (old: 1) lydo: buff at 03/03/2023 7:57 PM
+BAG:admin01 add 28xCuồng nộ (old: 27) lydo: buff at 03/03/2023 11:27 PM
+BAG:admin01 add 28xCuồng nộ lydo: buff at 03/03/2023 11:28 PM
+BAG:admin01 add 99xCuồng nộ (old: 28) lydo: buff at 03/03/2023 11:28 PM

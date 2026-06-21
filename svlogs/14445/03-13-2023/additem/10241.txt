@@ -1,0 +1,521 @@
+BAG:chumsv add 1xCải trang Black Goku SSJ White lydo: Lấy từ body vào hành trang at 03/13/2023 11:10 AM
+BAG:chumsv add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/13/2023 11:11 AM
+BAG:chumsv add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 11:11 AM
+BAG:chumsv add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/13/2023 11:11 AM
+BAG:chumsv add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/13/2023 11:11 AM
+BAG:chumsv add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/13/2023 11:11 AM
+BAG:chumsv add 1xCải trang Black Gohan Rose lydo: Lấy từ rương qua người at 03/13/2023 11:12 AM
+BAG:chumsv add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 59xĐậu thần cấp 9 (old: 29) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 89xĐậu thần cấp 9 (old: 59) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 20xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 99xĐậu thần cấp 9 (old: 89) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 50xĐậu thần cấp 9 (old: 20) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 80xĐậu thần cấp 9 (old: 50) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 11xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 99xĐậu thần cấp 9 (old: 80) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 41xĐậu thần cấp 9 (old: 11) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 71xĐậu thần cấp 9 (old: 41) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 2xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 99xĐậu thần cấp 9 (old: 71) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 32xĐậu thần cấp 9 (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 62xĐậu thần cấp 9 (old: 32) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 11:12 AM
+BAG:chumsv add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 11:13 AM
+BAG:chumsv add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:19 AM
+BAG:chumsv add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:19 AM
+BAG:chumsv add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:19 AM
+BAG:chumsv add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:19 AM
+BAG:chumsv add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:19 AM
+BAG:chumsv add 1xCải trang Black Goku SSJ White lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:19 AM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:19 AM
+BAG:chumsv add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 11:25 AM
+BAG:chumsv add 1xNhẫn Thần Linh lydo: Lấy từ rương qua người at 03/13/2023 11:27 AM
+BAG:chumsv add 3xĐá lục bảo lydo: (GD) Nhận từ xaydahp at 03/13/2023 11:28 AM
+BAG:chumsv add 1xĐá Saphia lydo: (GD) Nhận từ xaydahp at 03/13/2023 11:28 AM
+BAG:chumsv add 2xĐá Ruby lydo: (GD) Nhận từ xaydahp at 03/13/2023 11:28 AM
+BAG:chumsv add 1xĐá thạch anh tím lydo: (GD) Nhận từ xaydahp at 03/13/2023 11:28 AM
+BAG:chumsv add 1xĐá Titan lydo: (GD) Nhận từ xaydahp at 03/13/2023 11:28 AM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 11:30 AM
+BAG:chumsv add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 12:03 PM
+BAG:chumsv add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/13/2023 12:15 PM
+BAG:chumsv add 4xPháo hoa (old: 3) lydo: Nhặt từ map at 03/13/2023 12:17 PM
+BAG:chumsv add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 12:17 PM
+BAG:chumsv add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/13/2023 12:21 PM
+BAG:chumsv add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/13/2023 12:21 PM
+BAG:chumsv add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/13/2023 12:31 PM
+BAG:chumsv add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 12:36 PM
+BAG:chumsv add 39xThỏi vàng lydo: (GD) Nhận từ xaydahp at 03/13/2023 12:37 PM
+BAG:chumsv add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/13/2023 12:37 PM
+BAG:chumsv add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 12:37 PM
+BAG:chumsv add 1xGiầy Thần Namếc lydo: Nhặt từ map at 03/13/2023 12:37 PM
+BAG:chumsv add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 12:37 PM
+BAG:chumsv add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 12:39 PM
+BAG:chumsv add 1xGiày jean Calic lydo: Nhặt từ map at 03/13/2023 12:39 PM
+BAG:chumsv add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhặt từ map at 03/13/2023 12:48 PM
+BAG:chumsv add 5xPháo hoa (old: 4) lydo: Nhặt từ map at 03/13/2023 12:48 PM
+BAG:chumsv add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/13/2023 1:05 PM
+BAG:chumsv add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/13/2023 1:07 PM
+BAG:chumsv add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 1:07 PM
+BAG:chumsv add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/13/2023 1:07 PM
+BAG:chumsv add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 1:09 PM
+BAG:chumsv add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 1:10 PM
+BAG:chumsv add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/13/2023 1:10 PM
+BAG:chumsv add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/13/2023 1:10 PM
+BAG:chumsv add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 1:11 PM
+BAG:chumsv add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/13/2023 1:12 PM
+BAG:chumsv add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 1:13 PM
+BAG:chumsv add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/13/2023 1:13 PM
+BAG:chumsv add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 1:14 PM
+BAG:chumsv add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/13/2023 1:14 PM
+BAG:chumsv add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/13/2023 1:15 PM
+BAG:chumsv add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/13/2023 1:16 PM
+BAG:chumsv add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 1:16 PM
+BAG:chumsv add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/13/2023 1:16 PM
+BAG:chumsv add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/13/2023 1:17 PM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 1:18 PM
+BAG:chumsv add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 1:18 PM
+BAG:chumsv add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/13/2023 1:23 PM
+BAG:chumsv add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/13/2023 1:23 PM
+BAG:chumsv add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 1:23 PM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 1:24 PM
+BAG:chumsv add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhặt từ map at 03/13/2023 1:26 PM
+BAG:chumsv add 6xPháo hoa (old: 5) lydo: Nhặt từ map at 03/13/2023 1:26 PM
+BAG:chumsv add 34xCuồng nộ (old: 33) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/13/2023 1:29 PM
+BAG:chumsv add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 35xCuồng nộ (old: 34) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 36xCuồng nộ (old: 35) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 7xBổ huyết (old: 6) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 8xBổ huyết (old: 7) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 37xCuồng nộ (old: 36) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/13/2023 1:29 PM
+BAG:chumsv add 3xBổ khí (old: 2) lydo: HQT at 03/13/2023 1:30 PM
+BAG:chumsv add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/13/2023 1:30 PM
+BAG:chumsv add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/13/2023 1:30 PM
+BAG:chumsv add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/13/2023 1:30 PM
+BAG:chumsv add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/13/2023 1:30 PM
+BAG:chumsv add 38xCuồng nộ (old: 37) lydo: HQT at 03/13/2023 1:30 PM
+BAG:chumsv add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/13/2023 1:31 PM
+BAG:chumsv add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/13/2023 1:32 PM
+BAG:chumsv add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/13/2023 1:34 PM
+BAG:chumsv add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/13/2023 1:34 PM
+BAG:chumsv add 1xGăng Thần Linh lydo: Nhặt từ map at 03/13/2023 1:34 PM
+BAG:chumsv add 7xPháo hoa (old: 6) lydo: Nhặt từ map at 03/13/2023 1:34 PM
+BAG:chumsv add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhặt từ map at 03/13/2023 1:34 PM
+BAG:chumsv add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/13/2023 1:48 PM
+BAG:chumsv add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhặt từ map at 03/13/2023 1:48 PM
+BAG:chumsv add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/13/2023 1:50 PM
+BAG:chumsv add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/13/2023 1:50 PM
+BAG:chumsv add 1xGăng Thần Xayda lydo: (GD) Nhận từ tdbrovip at 03/13/2023 1:51 PM
+BAG:chumsv add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/13/2023 1:57 PM
+BAG:chumsv add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/13/2023 2:02 PM
+BAG:chumsv add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/13/2023 2:05 PM
+BAG:chumsv add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/13/2023 2:05 PM
+BAG:chumsv add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/13/2023 2:05 PM
+BAG:chumsv add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/13/2023 2:05 PM
+BAG:chumsv add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/13/2023 2:05 PM
+BAG:chumsv add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/13/2023 2:05 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Nhặt từ map at 03/13/2023 2:05 PM
+BAG:chumsv add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhặt từ map at 03/13/2023 2:05 PM
+BAG:chumsv add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 2:11 PM
+BAG:chumsv add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/13/2023 2:17 PM
+BAG:chumsv add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/13/2023 2:17 PM
+BAG:chumsv add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/13/2023 2:17 PM
+BAG:chumsv add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhặt từ map at 03/13/2023 2:17 PM
+BAG:chumsv add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/13/2023 2:18 PM
+BAG:chumsv add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/13/2023 2:23 PM
+BAG:chumsv add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhặt từ map at 03/13/2023 2:23 PM
+BAG:chumsv add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/13/2023 2:27 PM
+BAG:chumsv add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/13/2023 2:27 PM
+BAG:chumsv add 8xPháo hoa (old: 7) lydo: Nhặt từ map at 03/13/2023 2:27 PM
+BAG:chumsv add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 2:53 PM
+BAG:chumsv add 1xCải trang Black Goku SSJ White lydo: Lấy từ body vào hành trang at 03/13/2023 2:54 PM
+BAG:chumsv add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/13/2023 2:56 PM
+BAG:chumsv add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/13/2023 2:56 PM
+BAG:chumsv add 4xBổ khí (old: 3) lydo: HQT at 03/13/2023 2:56 PM
+BAG:chumsv add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/13/2023 2:56 PM
+BAG:chumsv add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/13/2023 2:56 PM
+BAG:chumsv add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/13/2023 2:56 PM
+BAG:chumsv add 1xCải trang Black Goku SSJ White lydo: Lấy từ body vào hành trang at 03/13/2023 4:18 PM
+BAG:chumsv add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/13/2023 4:18 PM
+BAG:chumsv add 9xPháo hoa (old: 8) lydo: Nhặt từ map at 03/13/2023 4:20 PM
+BAG:chumsv add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/13/2023 4:20 PM
+BAG:chumsv add 1xGiày lưỡng long lydo: Nhặt từ map at 03/13/2023 4:21 PM
+BAG:chumsv add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/13/2023 4:24 PM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 4:25 PM
+BAG:chumsv add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/13/2023 4:27 PM
+BAG:chumsv add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/13/2023 4:27 PM
+BAG:chumsv add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhặt từ map at 03/13/2023 4:28 PM
+BAG:chumsv add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/13/2023 4:28 PM
+BAG:chumsv add 1xGăng vàng Zealot lydo: Nhặt từ map at 03/13/2023 4:28 PM
+BAG:chumsv add 10xPháo hoa (old: 9) lydo: Nhặt từ map at 03/13/2023 4:28 PM
+BAG:chumsv add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/13/2023 4:30 PM
+BAG:chumsv add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/13/2023 4:30 PM
+BAG:chumsv add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/13/2023 4:30 PM
+BAG:chumsv add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/13/2023 4:30 PM
+BAG:chumsv add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/13/2023 4:30 PM
+BAG:chumsv add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/13/2023 4:30 PM
+BAG:chumsv add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/13/2023 4:30 PM
+BAG:chumsv add 5xBổ khí (old: 4) lydo: HQT at 03/13/2023 4:30 PM
+BAG:chumsv add 2xBổ huyết (old: 1) lydo: HQT at 03/13/2023 4:30 PM
+BAG:chumsv add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/13/2023 4:30 PM
+BAG:chumsv add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/13/2023 4:30 PM
+BAG:chumsv add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/13/2023 4:30 PM
+BAG:chumsv add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/13/2023 4:34 PM
+BAG:chumsv add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/13/2023 4:34 PM
+BAG:chumsv add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/13/2023 4:34 PM
+BAG:chumsv add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/13/2023 4:34 PM
+BAG:chumsv add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/13/2023 4:35 PM
+BAG:chumsv add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/13/2023 4:35 PM
+BAG:chumsv add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/13/2023 4:36 PM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 4:36 PM
+BAG:chumsv add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/13/2023 4:36 PM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 4:40 PM
+BAG:chumsv add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/13/2023 4:49 PM
+BAG:chumsv add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/13/2023 4:55 PM
+BAG:chumsv add 11xPháo hoa (old: 10) lydo: Nhặt từ map at 03/13/2023 4:55 PM
+BAG:chumsv add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhặt từ map at 03/13/2023 4:55 PM
+BAG:chumsv add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/13/2023 4:57 PM
+BAG:chumsv add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/13/2023 4:57 PM
+BAG:chumsv add 12xPháo hoa (old: 11) lydo: Nhặt từ map at 03/13/2023 4:58 PM
+BAG:chumsv add 2xNgọc Rồng 2 sao lydo: (GD) Nhận từ xaydahp at 03/13/2023 5:03 PM
+BAG:chumsv add 3xThỏi vàng lydo: (GD) Nhận từ admin01 at 03/13/2023 5:10 PM
+BAG:chumsv add 13xPháo hoa (old: 12) lydo: Nhặt từ map at 03/13/2023 5:11 PM
+BAG:chumsv add 1xÁo Thần Namếc lydo: Nhặt từ map at 03/13/2023 5:11 PM
+BAG:chumsv add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhặt từ map at 03/13/2023 5:11 PM
+BAG:chumsv add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/13/2023 5:14 PM
+BAG:chumsv add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 5:18 PM
+BAG:chumsv add 14xPháo hoa (old: 13) lydo: Nhặt từ map at 03/13/2023 5:19 PM
+BAG:chumsv add 1xÁo Thần Namếc lydo: Nhặt từ map at 03/13/2023 5:19 PM
+BAG:chumsv add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 5:19 PM
+BAG:chumsv add 1xGiầy Thần Namếc lydo: Nhặt từ map at 03/13/2023 5:23 PM
+BAG:chumsv add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhặt từ map at 03/13/2023 5:23 PM
+BAG:chumsv add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhặt từ map at 03/13/2023 5:34 PM
+BAG:chumsv add 10xBổ huyết lydo: (GD) Nhận từ phuongvt at 03/13/2023 5:35 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: admin at 03/13/2023 5:59 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: admin at 03/13/2023 5:59 PM
+BAG:chumsv add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:11 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:11 PM
+BAG:chumsv add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:11 PM
+BAG:chumsv add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:11 PM
+BAG:chumsv add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:11 PM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:11 PM
+BAG:chumsv add 1xCải trang Black Goku SSJ White lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:11 PM
+BAG:chumsv add 6xBổ khí (old: 5) lydo: HQT at 03/13/2023 6:13 PM
+BAG:chumsv add 10xĐá Ruby lydo: Lấy từ rương qua người at 03/13/2023 6:13 PM
+BAG:chumsv add 99xĐá Ruby (old: 10) lydo: Lấy từ rương qua người at 03/13/2023 6:13 PM
+BAG:chumsv add 85xĐá Ruby (old: 10) lydo: Lấy từ rương qua người at 03/13/2023 6:14 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ body vào hành trang at 03/13/2023 6:14 PM
+BAG:chumsv add 1xGiầy Thần Namếc lydo: Lấy từ rương qua người at 03/13/2023 6:17 PM
+BAG:chumsv add 99xĐá Titan lydo: Lấy từ rương qua người at 03/13/2023 6:20 PM
+BAG:chumsv add 7xĐá thạch anh tím lydo: Lấy từ rương qua người at 03/13/2023 6:20 PM
+BAG:chumsv add 99xĐá thạch anh tím (old: 7) lydo: Lấy từ rương qua người at 03/13/2023 6:20 PM
+BAG:chumsv add 1xTự động luyện tập lydo: Lấy từ rương qua người at 03/13/2023 6:20 PM
+BAG:chumsv add 1xMảnh vỡ bông tai lydo: Lấy từ rương qua người at 03/13/2023 6:20 PM
+BAG:chumsv add 12xĐá lục bảo lydo: Lấy từ rương qua người at 03/13/2023 6:20 PM
+BAG:chumsv add 99xĐá lục bảo (old: 14) lydo: Lấy từ rương qua người at 03/13/2023 6:20 PM
+BAG:chumsv add 23xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/13/2023 6:20 PM
+BAG:chumsv add 16xBổ khí lydo: Lấy từ rương qua người at 03/13/2023 6:20 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ body vào hành trang at 03/13/2023 6:22 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ body vào hành trang at 03/13/2023 6:22 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ laze1vila at 03/13/2023 6:24 PM
+BAG:chumsv add 99xĐá Saphia lydo: (GD) Nhận từ laze1vila at 03/13/2023 6:24 PM
+BAG:chumsv add 99xĐá lục bảo lydo: (GD) Nhận từ laze1vila at 03/13/2023 6:24 PM
+BAG:chumsv add 99xĐá Titan lydo: (GD) Nhận từ laze1vila at 03/13/2023 6:24 PM
+BAG:chumsv add 1xÁo Hủy Diệt lydo: Lấy từ rương qua người at 03/13/2023 6:24 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ anh20cm at 03/13/2023 6:26 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ anh20cm at 03/13/2023 6:26 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ anh20cm at 03/13/2023 6:26 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ anh20cm at 03/13/2023 6:26 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ anh20cm at 03/13/2023 6:26 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ anh20cm at 03/13/2023 6:26 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ anh20cm at 03/13/2023 6:26 PM
+BAG:chumsv add 58xĐá Ruby lydo: (GD) Nhận từ anh20cm at 03/13/2023 6:26 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ gohannro at 03/13/2023 6:28 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ gohannro at 03/13/2023 6:28 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ gohannro at 03/13/2023 6:28 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:29 PM
+BAG:chumsv add 99xĐá lục bảo lydo: (GD) Nhận từ xaydahp at 03/13/2023 6:33 PM
+BAG:chumsv add 99xĐá Saphia lydo: (GD) Nhận từ xaydahp at 03/13/2023 6:33 PM
+BAG:chumsv add 99xĐá thạch anh tím lydo: (GD) Nhận từ xaydahp at 03/13/2023 6:33 PM
+BAG:chumsv add 99xĐá Titan lydo: (GD) Nhận từ xaydahp at 03/13/2023 6:33 PM
+BAG:chumsv add 8xĐá Titan lydo: (GD) Nhận từ xaydahp at 03/13/2023 6:33 PM
+BAG:chumsv add 9xĐá Ruby lydo: (GD) Nhận từ xaydahp at 03/13/2023 6:33 PM
+BAG:chumsv add 25xĐá lục bảo lydo: (GD) Nhận từ xaydahp at 03/13/2023 6:33 PM
+BAG:chumsv add 4xĐá Saphia lydo: (GD) Nhận từ xaydahp at 03/13/2023 6:33 PM
+BAG:chumsv add 10xĐá thạch anh tím lydo: (GD) Nhận từ xaydahp at 03/13/2023 6:33 PM
+BAG:chumsv add 5xPháo hoa lydo: Nhặt từ map at 03/13/2023 6:35 PM
+BAG:chumsv add 3xCủ cà rốt lydo: Nhặt từ map at 03/13/2023 6:35 PM
+BAG:chumsv add 2xĐậu xanh lydo: Nhặt từ map at 03/13/2023 6:35 PM
+BAG:chumsv add 2xBột mì lydo: Nhặt từ map at 03/13/2023 6:35 PM
+BAG:chumsv add 1xTrứng vịt muối lydo: Nhặt từ map at 03/13/2023 6:35 PM
+BAG:chumsv add 5xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/13/2023 6:35 PM
+BAG:chumsv add 7xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/13/2023 6:35 PM
+BAG:chumsv add 1xPháo hoa lydo: Nhặt từ map at 03/13/2023 6:35 PM
+BAG:chumsv add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/13/2023 6:36 PM
+BAG:chumsv add 6xBột mì (old: 2) lydo: Nhặt từ map at 03/13/2023 6:36 PM
+BAG:chumsv add 1xGăng Thần Xayda lydo: Lấy từ rương qua người at 03/13/2023 6:37 PM
+BAG:chumsv add 1xNgọc Rồng 4 sao lydo: HQT at 03/13/2023 6:38 PM
+BAG:chumsv add 4xBổ huyết (old: 3) lydo: HQT at 03/13/2023 6:38 PM
+BAG:chumsv add 1xNgọc Rồng 6 sao lydo: HQT at 03/13/2023 6:38 PM
+BAG:chumsv add 1xNgọc Rồng 5 sao lydo: HQT at 03/13/2023 6:38 PM
+BAG:chumsv add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/13/2023 6:38 PM
+BAG:chumsv add 1xBổ khí lydo: HQT at 03/13/2023 6:38 PM
+BAG:chumsv add 5xBổ huyết (old: 4) lydo: HQT at 03/13/2023 6:38 PM
+BAG:chumsv add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/13/2023 6:38 PM
+BAG:chumsv add 1xGiáp Xên bọ hung lydo: HQT at 03/13/2023 6:39 PM
+BAG:chumsv add 6xBổ huyết (old: 5) lydo: HQT at 03/13/2023 6:39 PM
+BAG:chumsv add 1xNgọc Rồng 7 sao lydo: HQT at 03/13/2023 6:39 PM
+BAG:chumsv add 7xBổ huyết (old: 6) lydo: HQT at 03/13/2023 6:39 PM
+BAG:chumsv add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/13/2023 6:39 PM
+BAG:chumsv add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/13/2023 6:39 PM
+BAG:chumsv add 36xCuồng nộ (old: 35) lydo: HQT at 03/13/2023 6:39 PM
+BAG:chumsv add 2xBổ khí (old: 1) lydo: HQT at 03/13/2023 6:39 PM
+BAG:chumsv add 50xThỏi vàng lydo: (GD) Nhận từ taki0z at 03/13/2023 6:44 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ rương qua người at 03/13/2023 6:44 PM
+BAG:chumsv add 1xÁo Thần Xayda lydo: Lấy từ rương qua người at 03/13/2023 6:45 PM
+BAG:chumsv add 20xThỏi vàng lydo: (GD) Nhận từ bestboy at 03/13/2023 6:45 PM
+BAG:chumsv add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 7:05 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ body đệ vào hành trang at 03/13/2023 7:05 PM
+BAG:chumsv add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 7:05 PM
+BAG:chumsv add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 7:05 PM
+BAG:chumsv add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 7:05 PM
+BAG:chumsv add 1xCải trang Black Goku SSJ White lydo: Lấy từ body đệ vào hành trang at 03/13/2023 7:05 PM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 7:05 PM
+BAG:chumsv add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 7:08 PM
+BAG:chumsv add 1xPháo hoa lydo: Nhặt từ map at 03/13/2023 7:08 PM
+BAG:chumsv add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhặt từ map at 03/13/2023 7:10 PM
+BAG:chumsv add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 7:11 PM
+BAG:chumsv add 1xQuần Thần namếc lydo: Nhặt từ map at 03/13/2023 7:13 PM
+BAG:chumsv add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhặt từ map at 03/13/2023 7:13 PM
+BAG:chumsv add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 7:23 PM
+BAG:chumsv add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 7:23 PM
+BAG:chumsv add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/13/2023 7:26 PM
+BAG:chumsv add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhặt từ map at 03/13/2023 7:26 PM
+BAG:chumsv add 1xGăng Thần Xayda lydo: Nhặt từ map at 03/13/2023 7:26 PM
+BAG:chumsv add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 7:34 PM
+BAG:chumsv add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 7:34 PM
+BAG:chumsv add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 7:34 PM
+BAG:chumsv add 3xPháo hoa (old: 2) lydo: Nhặt từ map at 03/13/2023 7:35 PM
+BAG:chumsv add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 7:43 PM
+BAG:chumsv add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhặt từ map at 03/13/2023 7:44 PM
+BAG:chumsv add 4xPháo hoa (old: 3) lydo: Nhặt từ map at 03/13/2023 7:44 PM
+BAG:chumsv add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhặt từ map at 03/13/2023 7:50 PM
+BAG:chumsv add 5xPháo hoa (old: 4) lydo: Nhặt từ map at 03/13/2023 7:50 PM
+BAG:chumsv add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 7:55 PM
+BAG:chumsv add 1xCải trang Black Goku SSJ White lydo: Lấy từ body vào hành trang at 03/13/2023 8:01 PM
+BAG:chumsv add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 8:06 PM
+BAG:chumsv add 12xThỏi vàng lydo: (GD) Nhận từ tuandz1230 at 03/13/2023 8:07 PM
+BAG:chumsv add 2xNgọc Rồng 2 sao lydo: (GD) Nhận từ xaydahp at 03/13/2023 8:08 PM
+BAG:chumsv add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 8:08 PM
+BAG:chumsv add 1xÁo vàng Zealot lydo: Nhặt từ map at 03/13/2023 8:11 PM
+BAG:chumsv add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 8:12 PM
+BAG:chumsv add 1xGiầy Thần Namếc lydo: Nhặt từ map at 03/13/2023 8:12 PM
+BAG:chumsv add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhặt từ map at 03/13/2023 8:12 PM
+BAG:chumsv add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 8:35 PM
+BAG:chumsv add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 8:35 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:chumsv add 6xPháo hoa (old: 5) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:chumsv add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:chumsv add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 8:39 PM
+BAG:chumsv add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 8:39 PM
+BAG:chumsv add 3xBí ngô 5 sao lydo: (GD) Nhận từ tuandz1230 at 03/13/2023 8:40 PM
+BAG:chumsv add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhặt từ map at 03/13/2023 8:41 PM
+BAG:chumsv add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 8:53 PM
+BAG:chumsv add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/13/2023 8:53 PM
+BAG:chumsv add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/13/2023 8:53 PM
+BAG:chumsv add 7xPháo hoa (old: 6) lydo: Nhặt từ map at 03/13/2023 8:55 PM
+BAG:chumsv add 16xNgọc Rồng 2 sao (old: 15) lydo: Nhặt từ map at 03/13/2023 8:55 PM
+BAG:chumsv add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 9:04 PM
+BAG:chumsv add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/13/2023 9:04 PM
+BAG:chumsv add 17xNgọc Rồng 2 sao (old: 16) lydo: Nhặt từ map at 03/13/2023 9:04 PM
+BAG:chumsv add 8xPháo hoa (old: 7) lydo: Nhặt từ map at 03/13/2023 9:04 PM
+BAG:chumsv add 1xQuần Thần Linh lydo: Nhặt từ map at 03/13/2023 9:04 PM
+BAG:chumsv add 18xNgọc Rồng 2 sao (old: 17) lydo: Nhặt từ map at 03/13/2023 9:07 PM
+BAG:chumsv add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 9:11 PM
+BAG:chumsv add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/13/2023 9:13 PM
+BAG:chumsv add 19xNgọc Rồng 2 sao (old: 18) lydo: Nhặt từ map at 03/13/2023 9:16 PM
+BAG:chumsv add 1xQuần Thần namếc lydo: Nhặt từ map at 03/13/2023 9:16 PM
+BAG:chumsv add 1xÁo Thần Namếc lydo: Nhặt từ map at 03/13/2023 9:22 PM
+BAG:chumsv add 20xNgọc Rồng 2 sao (old: 19) lydo: Nhặt từ map at 03/13/2023 9:22 PM
+BAG:chumsv add 2xĐá bảo vệ lydo: Nhặt từ map at 03/13/2023 9:24 PM
+BAG:chumsv add 50xThỏi vàng lydo: (GD) Nhận từ yangg at 03/13/2023 9:24 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 99xĐá Ruby lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 1xQuần jean Calic lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 1xGiày jean Calic lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 1xGăng vàng Zealot lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 1xÁo vàng Zealot lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 1xGăng jean Calic lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 1xÁo vàng Zealot lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 1xGiày lưỡng long lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 1xÁo jean Calic lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 64xĐá Ruby lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:27 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ body vào hành trang at 03/13/2023 9:27 PM
+BAG:chumsv add 92xBổ huyết (old: 91) lydo: HQT at 03/13/2023 9:34 PM
+BAG:chumsv add 93xBổ huyết (old: 92) lydo: HQT at 03/13/2023 9:34 PM
+BAG:chumsv add 1xGiáp Xên bọ hung lydo: HQT at 03/13/2023 9:34 PM
+BAG:chumsv add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/13/2023 9:34 PM
+BAG:chumsv add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/13/2023 9:34 PM
+BAG:chumsv add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/13/2023 9:38 PM
+BAG:chumsv add 2xNgọc Rồng 1 sao (old: 1) lydo: Nhập ngọc at 03/13/2023 9:39 PM
+BAG:chumsv add 17xNgọc Rồng 2 sao (old: 6) lydo: Lấy từ rương qua người at 03/13/2023 9:39 PM
+BAG:chumsv add 40xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ rương qua người at 03/13/2023 9:39 PM
+BAG:chumsv add 27xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ rương qua người at 03/13/2023 9:39 PM
+BAG:chumsv add 48xNgọc Rồng 5 sao (old: 4) lydo: Lấy từ rương qua người at 03/13/2023 9:39 PM
+BAG:chumsv add 9xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ rương qua người at 03/13/2023 9:39 PM
+BAG:chumsv add 3xNgọc Rồng 1 sao (old: 2) lydo: Nhập ngọc at 03/13/2023 9:39 PM
+BAG:chumsv add 4xNgọc Rồng 1 sao (old: 3) lydo: Nhập ngọc at 03/13/2023 9:40 PM
+BAG:chumsv add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/13/2023 9:40 PM
+BAG:chumsv add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/13/2023 9:40 PM
+BAG:chumsv add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/13/2023 9:40 PM
+BAG:chumsv add 6xNgọc Rồng 2 sao lydo: (GD) Nhận từ xaydahp at 03/13/2023 9:42 PM
+BAG:chumsv add 4xNgọc Rồng 2 sao lydo: (GD) Nhận từ yoriichi at 03/13/2023 9:42 PM
+BAG:chumsv add 5xNgọc Rồng 1 sao (old: 4) lydo: Nhập ngọc at 03/13/2023 9:43 PM
+BAG:chumsv add 49xNgọc Rồng 5 sao (old: 48) lydo: Nhập ngọc at 03/13/2023 9:43 PM
+BAG:chumsv add 50xNgọc Rồng 5 sao (old: 49) lydo: Nhập ngọc at 03/13/2023 9:44 PM
+BAG:chumsv add 51xNgọc Rồng 5 sao (old: 50) lydo: Nhập ngọc at 03/13/2023 9:44 PM
+BAG:chumsv add 52xNgọc Rồng 5 sao (old: 51) lydo: Nhập ngọc at 03/13/2023 9:44 PM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 9:50 PM
+BAG:chumsv add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 29xPháo hoa (old: 8) lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 81xĐá Saphia (old: 3) lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 19xĐá Titan (old: 2) lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 19xGiáp Xên bọ hung lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 17xĐá thạch anh tím (old: 5) lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 61xĐậu thần cấp 9 lydo: Lấy từ rương qua người at 03/13/2023 10:36 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ body vào hành trang at 03/13/2023 10:39 PM
+BAG:chumsv add 1xMảnh hồn bông tai lydo: (GD) Nhận từ xaydahp at 03/13/2023 10:47 PM
+BAG:chumsv add 1xNgọc Rồng 2 sao lydo: (GD) Nhận từ xaydahp at 03/13/2023 10:47 PM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 10:53 PM
+BAG:chumsv add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/13/2023 10:55 PM
+BAG:chumsv add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/13/2023 10:55 PM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 10:58 PM
+BAG:chumsv add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/13/2023 10:59 PM
+BAG:chumsv add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 11:04 PM
+BAG:chumsv add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 11:05 PM
+BAG:chumsv add 53xNgọc Rồng 5 sao (old: 52) lydo: Nhặt từ map at 03/13/2023 11:07 PM
+BAG:chumsv add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/13/2023 11:08 PM
+BAG:chumsv add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhặt từ map at 03/13/2023 11:08 PM
+BAG:chumsv add 1xÁo lưỡng long lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xÁo lưỡng long lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xQuần lưỡng long lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xGăng jean Calic lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xÁo vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xÁo vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xGăng lưỡng long lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xGăng vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xGăng vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xÁo jean Calic lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xÁo jean Calic lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xÁo lưỡng long lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xQuần Thần Linh lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xÁo jean Calic lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xGăng vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xGăng vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xGiày jean Calic lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xÁo vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xGăng vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:13 PM
+BAG:chumsv add 1xGăng vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xGiày jean Calic lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xGiày lưỡng long lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xÁo vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xGăng vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xQuần jean Calic lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xÁo vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xGiày jean Calic lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xGiày lưỡng long lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xGăng jean Calic lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xÁo vàng Zealot lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xÁo jean Calic lydo: Lấy từ rương qua người at 03/13/2023 11:14 PM
+BAG:chumsv add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:18 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:18 PM
+BAG:chumsv add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:18 PM
+BAG:chumsv add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:18 PM
+BAG:chumsv add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:18 PM
+BAG:chumsv add 1xCải trang Black Goku SSJ White lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:18 PM
+BAG:chumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:18 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ rương qua người at 03/13/2023 11:19 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ rương qua người at 03/13/2023 11:19 PM
+BAG:chumsv add 1xÁo Thần Xayda lydo: Lấy từ rương qua người at 03/13/2023 11:19 PM
+BAG:chumsv add 1xAvatar lydo: Mua từ cửa hàng at 03/13/2023 11:20 PM
+BAG:chumsv add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/13/2023 11:25 PM
+BAG:chumsv add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 11:26 PM
+BAG:chumsv add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 11:27 PM
+BAG:chumsv add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 03/13/2023 11:29 PM
+BAG:chumsv add 3xMảnh Quỷ đất mẹ (old: 2) lydo: Nhặt từ map at 03/13/2023 11:31 PM
+BAG:chumsv add 1xÁo vải thô lydo: Nhặt từ map at 03/13/2023 11:31 PM
+BAG:chumsv add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 11:31 PM
+BAG:chumsv add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 11:33 PM
+BAG:chumsv add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 11:36 PM
+BAG:chumsv add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 11:37 PM
+BAG:chumsv add 4xMảnh Quỷ đất mẹ (old: 3) lydo: Nhặt từ map at 03/13/2023 11:37 PM
+BAG:chumsv add 5xMảnh Quỷ đất mẹ (old: 4) lydo: Nhặt từ map at 03/13/2023 11:38 PM
+BAG:chumsv add 6xMảnh Quỷ đất mẹ (old: 5) lydo: Nhặt từ map at 03/13/2023 11:38 PM
+BAG:chumsv add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 11:39 PM
+BAG:chumsv add 7xMảnh Quỷ đất mẹ (old: 6) lydo: Nhặt từ map at 03/13/2023 11:40 PM
+BAG:chumsv add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 11:41 PM
+BAG:chumsv add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 11:41 PM
+BAG:chumsv add 1xGiầy vải thô lydo: Nhặt từ map at 03/13/2023 11:42 PM
+BAG:chumsv add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/13/2023 11:42 PM
+BAG:chumsv add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 11:43 PM
+BAG:chumsv add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 11:48 PM
+BAG:chumsv add 1xGiầy vải thô lydo: Nhặt từ map at 03/13/2023 11:49 PM
+BAG:chumsv add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 11:50 PM
+BAG:chumsv add 1xGiầy vải thô lydo: Nhặt từ map at 03/13/2023 11:50 PM
+BAG:chumsv add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/13/2023 11:51 PM
+BAG:chumsv add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/13/2023 11:51 PM
+BAG:chumsv add 1xGiầy vải thô lydo: Nhặt từ map at 03/13/2023 11:51 PM
+BAG:chumsv add 1xÁo Thần Xayda lydo: Lấy từ body vào hành trang at 03/13/2023 11:54 PM
+BAG:chumsv add 1xQuần Thần Xayda lydo: Lấy từ body vào hành trang at 03/13/2023 11:54 PM
+BAG:chumsv add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 11:54 PM
+BAG:chumsv add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/13/2023 11:54 PM
+BAG:chumsv add 1xAvatar lydo: Lấy từ body vào hành trang at 03/13/2023 11:54 PM

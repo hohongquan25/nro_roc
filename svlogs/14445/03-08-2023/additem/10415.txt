@@ -1,0 +1,482 @@
+BAG:hackiione add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/08/2023 12:04 PM
+BAG:hackiione add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/08/2023 12:04 PM
+BAG:hackiione add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/08/2023 12:08 PM
+BAG:hackiione add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/08/2023 12:10 PM
+BAG:hackiione add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/08/2023 12:10 PM
+BAG:hackiione add 1xĐá Saphia lydo: Nhặt từ map at 03/08/2023 12:11 PM
+BAG:hackiione add 1xĐá lục bảo lydo: Nhặt từ map at 03/08/2023 12:12 PM
+BAG:hackiione add 1xMảnh Phi long lydo: Nhặt từ map at 03/08/2023 12:12 PM
+BAG:hackiione add 1xĐá Titan lydo: Nhặt từ map at 03/08/2023 12:12 PM
+BAG:hackiione add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/08/2023 12:13 PM
+BAG:hackiione add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/08/2023 12:15 PM
+BAG:hackiione add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/08/2023 12:15 PM
+BAG:hackiione add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/08/2023 12:15 PM
+BAG:hackiione add 20xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/08/2023 12:16 PM
+BAG:hackiione add 1xPhi Long VIP lydo: Mua từ cửa hàng at 03/08/2023 12:16 PM
+BAG:hackiione add 50xThỏi vàng lydo: Giftcode at 03/08/2023 12:17 PM
+BAG:hackiione add 10xSao pha lê lydo: Giftcode at 03/08/2023 12:17 PM
+BAG:hackiione add 10xSao pha lê lydo: Giftcode at 03/08/2023 12:17 PM
+BAG:hackiione add 10xSao pha lê lydo: Giftcode at 03/08/2023 12:17 PM
+BAG:hackiione add 1xCải trang Hit lydo: Giftcode at 03/08/2023 12:17 PM
+BAG:hackiione add 10xCuồng nộ lydo: Giftcode at 03/08/2023 12:19 PM
+BAG:hackiione add 10xBổ huyết lydo: Giftcode at 03/08/2023 12:19 PM
+BAG:hackiione add 10xBổ khí lydo: Giftcode at 03/08/2023 12:19 PM
+BAG:hackiione add 10xGiáp Xên bọ hung lydo: Giftcode at 03/08/2023 12:19 PM
+BAG:hackiione add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/08/2023 12:20 PM
+BAG:hackiione add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/08/2023 12:20 PM
+BAG:hackiione add 1xÁo sợi len lydo: Nhặt từ map at 03/08/2023 12:20 PM
+BAG:hackiione add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/08/2023 12:21 PM
+BAG:hackiione add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 12:22 PM
+BAG:hackiione add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/08/2023 12:23 PM
+BAG:hackiione add 1xĐá lục bảo lydo: Nhặt từ map at 03/08/2023 12:23 PM
+BAG:hackiione add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/08/2023 12:25 PM
+BAG:hackiione add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 03/08/2023 12:26 PM
+BAG:hackiione add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/08/2023 12:27 PM
+BAG:hackiione add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/08/2023 12:28 PM
+BAG:hackiione add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/08/2023 12:29 PM
+BAG:hackiione add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/08/2023 12:29 PM
+BAG:hackiione add 1xĐá lục bảo lydo: Nhặt từ map at 03/08/2023 12:30 PM
+BAG:hackiione add 1xCải trang lydo: Mua từ cửa hàng at 03/08/2023 12:31 PM
+BAG:hackiione add 1xĐá Saphia lydo: Nhặt từ map at 03/08/2023 12:33 PM
+BAG:hackiione add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/08/2023 12:39 PM
+BAG:hackiione add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/08/2023 12:42 PM
+BAG:hackiione add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/08/2023 12:44 PM
+BAG:hackiione add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 03/08/2023 12:47 PM
+BAG:hackiione add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/08/2023 12:48 PM
+BAG:hackiione add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/08/2023 12:50 PM
+BAG:hackiione add 1xĐá Titan lydo: Nhặt từ map at 03/08/2023 12:51 PM
+BAG:hackiione add 1xĐá lục bảo lydo: Nhặt từ map at 03/08/2023 12:52 PM
+BAG:hackiione add 1xĐá Saphia lydo: Nhặt từ map at 03/08/2023 12:56 PM
+BAG:hackiione add 50xThỏi vàng lydo: Lấy từ rương qua người at 03/08/2023 3:13 PM
+BAG:hackiione add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/08/2023 3:14 PM
+BAG:hackiione add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/08/2023 3:15 PM
+BAG:hackiione add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/08/2023 3:15 PM
+BAG:hackiione add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/08/2023 3:15 PM
+BAG:hackiione add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/08/2023 3:15 PM
+BAG:hackiione add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/08/2023 3:15 PM
+BAG:hackiione add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/08/2023 3:15 PM
+BAG:hackiione add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/08/2023 3:16 PM
+BAG:hackiione add 1xĐá Ruby lydo: Nhặt từ map at 03/08/2023 3:17 PM
+BAG:hackiione add 1xGăng da Pico lydo: Mua từ cửa hàng at 03/08/2023 3:19 PM
+BAG:hackiione add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/08/2023 3:21 PM
+BAG:hackiione add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/08/2023 3:21 PM
+BAG:hackiione add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/08/2023 3:22 PM
+BAG:hackiione add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/08/2023 3:22 PM
+BAG:hackiione add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/08/2023 3:22 PM
+BAG:hackiione add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 03/08/2023 3:22 PM
+BAG:hackiione add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/08/2023 3:24 PM
+BAG:hackiione add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/08/2023 3:25 PM
+BAG:hackiione add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/08/2023 3:26 PM
+BAG:hackiione add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/08/2023 3:26 PM
+BAG:hackiione add 1xPhi Long VIP lydo: Lấy từ rương qua người at 03/08/2023 3:27 PM
+BAG:hackiione add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 03/08/2023 3:27 PM
+BAG:hackiione add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/08/2023 3:30 PM
+BAG:hackiione add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/08/2023 3:30 PM
+BAG:hackiione add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/08/2023 3:31 PM
+BAG:hackiione add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/08/2023 3:31 PM
+BAG:hackiione add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/08/2023 3:33 PM
+BAG:hackiione add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/08/2023 3:34 PM
+BAG:hackiione add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/08/2023 3:34 PM
+BAG:hackiione add 7xNgọc Rồng 5 sao (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 8xNgọc Rồng 5 sao (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 9xNgọc Rồng 5 sao (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 6xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:37 PM
+BAG:hackiione add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 10xNgọc Rồng 5 sao (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 8xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 9xNgọc Rồng 7 sao (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 8xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 11xNgọc Rồng 5 sao (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 9xNgọc Rồng 6 sao (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 12xNgọc Rồng 5 sao (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 10xNgọc Rồng 6 sao (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 1xSao pha lê lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 11xNgọc Rồng 6 sao (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 8xVệ tinh phòng thủ (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 13xNgọc Rồng 5 sao (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 10xNgọc Rồng 7 sao (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 12xNgọc Rồng 6 sao (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 11xNgọc Rồng 7 sao (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 12xNgọc Rồng 7 sao (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 13xNgọc Rồng 7 sao (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 14xNgọc Rồng 7 sao (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 9xVệ tinh phòng thủ (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 14xNgọc Rồng 5 sao (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 10xVệ tinh phòng thủ (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 13xNgọc Rồng 6 sao (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 14xNgọc Rồng 6 sao (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 11xVệ tinh phòng thủ (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 15xNgọc Rồng 5 sao (old: 14) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 9xNgọc Rồng 4 sao (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 15xNgọc Rồng 7 sao (old: 14) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 12xVệ tinh phòng thủ (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 13xVệ tinh phòng thủ (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 14xVệ tinh phòng thủ (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 10xNgọc Rồng 4 sao (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 11xNgọc Rồng 4 sao (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 16xNgọc Rồng 5 sao (old: 15) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 15xNgọc Rồng 6 sao (old: 14) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 13xNgọc Rồng 4 sao (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 14xNgọc Rồng 4 sao (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 15xNgọc Rồng 4 sao (old: 14) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:39 PM
+BAG:hackiione add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 16xNgọc Rồng 7 sao (old: 15) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 17xNgọc Rồng 5 sao (old: 16) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 15xVệ tinh phòng thủ (old: 14) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 16xNgọc Rồng 6 sao (old: 15) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 13xVệ tinh sinh lực (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 16xVệ tinh phòng thủ (old: 15) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 12xVệ tinh trí tuệ (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 16xNgọc Rồng 4 sao (old: 15) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 17xVệ tinh phòng thủ (old: 16) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 18xNgọc Rồng 5 sao (old: 17) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 11xVệ tinh trí lực (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 18xVệ tinh phòng thủ (old: 17) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 19xVệ tinh phòng thủ (old: 18) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 12xVệ tinh trí lực (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 20xVệ tinh phòng thủ (old: 19) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 19xNgọc Rồng 5 sao (old: 18) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 13xVệ tinh trí lực (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 20xNgọc Rồng 5 sao (old: 19) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 14xVệ tinh sinh lực (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 21xNgọc Rồng 5 sao (old: 20) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 17xNgọc Rồng 4 sao (old: 16) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 18xNgọc Rồng 4 sao (old: 17) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 17xNgọc Rồng 7 sao (old: 16) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 14xVệ tinh trí lực (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 21xVệ tinh phòng thủ (old: 20) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 13xVệ tinh trí tuệ (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 15xVệ tinh sinh lực (old: 14) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 22xVệ tinh phòng thủ (old: 21) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 22xNgọc Rồng 5 sao (old: 21) lydo: Lấy từ lucky box at 03/08/2023 3:40 PM
+BAG:hackiione add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 23xVệ tinh phòng thủ (old: 22) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 19xNgọc Rồng 4 sao (old: 18) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 16xVệ tinh sinh lực (old: 15) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 14xVệ tinh trí tuệ (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 17xVệ tinh sinh lực (old: 16) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 20xNgọc Rồng 4 sao (old: 19) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 15xVệ tinh trí tuệ (old: 14) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 23xNgọc Rồng 5 sao (old: 22) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 15xVệ tinh trí lực (old: 14) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 18xNgọc Rồng 7 sao (old: 17) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 19xNgọc Rồng 7 sao (old: 18) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 16xVệ tinh trí lực (old: 15) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 17xNgọc Rồng 6 sao (old: 16) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 18xNgọc Rồng 6 sao (old: 17) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 18xVệ tinh sinh lực (old: 17) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 16xVệ tinh trí tuệ (old: 15) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 17xVệ tinh trí tuệ (old: 16) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 24xVệ tinh phòng thủ (old: 23) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 17xVệ tinh trí lực (old: 16) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 18xVệ tinh trí lực (old: 17) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 18xVệ tinh trí tuệ (old: 17) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 19xNgọc Rồng 6 sao (old: 18) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 24xNgọc Rồng 5 sao (old: 23) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 20xNgọc Rồng 7 sao (old: 19) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 19xVệ tinh trí lực (old: 18) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 20xVệ tinh trí lực (old: 19) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 25xNgọc Rồng 5 sao (old: 24) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 21xVệ tinh trí lực (old: 20) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 26xNgọc Rồng 5 sao (old: 25) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 19xVệ tinh trí tuệ (old: 18) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 19xVệ tinh sinh lực (old: 18) lydo: Lấy từ lucky box at 03/08/2023 3:47 PM
+BAG:hackiione add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/08/2023 4:01 PM
+BAG:hackiione add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/08/2023 4:01 PM
+BAG:hackiione add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/08/2023 4:01 PM
+BAG:hackiione add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/08/2023 4:01 PM
+BAG:hackiione add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/08/2023 4:01 PM
+BAG:hackiione add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/08/2023 4:01 PM
+BAG:hackiione add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/08/2023 4:01 PM
+BAG:hackiione add 1xĐá Ruby lydo: Nhặt từ map at 03/08/2023 4:03 PM
+BAG:hackiione add 1xĐá Titan lydo: Nhặt từ map at 03/08/2023 4:04 PM
+BAG:hackiione add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/08/2023 4:05 PM
+BAG:hackiione add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/08/2023 4:06 PM
+BAG:hackiione add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/08/2023 4:06 PM
+BAG:hackiione add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/08/2023 4:07 PM
+BAG:hackiione add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/08/2023 4:08 PM
+BAG:hackiione add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/08/2023 4:11 PM
+BAG:hackiione add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/08/2023 4:12 PM
+BAG:hackiione add 1xĐá lục bảo lydo: Nhặt từ map at 03/08/2023 4:12 PM
+BAG:hackiione add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/08/2023 4:12 PM
+BAG:hackiione add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/08/2023 4:13 PM
+BAG:hackiione add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/08/2023 4:14 PM
+BAG:hackiione add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/08/2023 4:14 PM
+BAG:hackiione add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/08/2023 4:15 PM
+BAG:hackiione add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/08/2023 4:15 PM
+BAG:hackiione add 1xĐá Saphia lydo: Nhặt từ map at 03/08/2023 4:15 PM
+BAG:hackiione add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/08/2023 4:17 PM
+BAG:hackiione add 4xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/08/2023 4:48 PM
+BAG:hackiione add 10xĐậu thần cấp 10 (old: 4) lydo: Thu hoạch đậu at 03/08/2023 4:48 PM
+BAG:hackiione add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/08/2023 4:48 PM
+BAG:hackiione add 34xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/08/2023 4:49 PM
+BAG:hackiione add 54xĐậu thần cấp 10 (old: 34) lydo: Lấy từ rương qua người at 03/08/2023 4:49 PM
+BAG:hackiione add 57xĐậu thần cấp 10 (old: 54) lydo: Lấy từ rương qua người at 03/08/2023 4:49 PM
+BAG:hackiione add 77xĐậu thần cấp 10 (old: 57) lydo: Lấy từ rương qua người at 03/08/2023 4:50 PM
+BAG:hackiione add 97xĐậu thần cấp 10 (old: 77) lydo: Lấy từ rương qua người at 03/08/2023 4:50 PM
+BAG:hackiione add 1xGăng đồng Tron lydo: Mua từ cửa hàng at 03/08/2023 4:52 PM
+BAG:hackiione add 27xNgọc Rồng 5 sao (old: 26) lydo: Nhặt từ map at 03/08/2023 4:53 PM
+BAG:hackiione add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/08/2023 4:57 PM
+BAG:hackiione add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/08/2023 4:59 PM
+BAG:hackiione add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/08/2023 4:59 PM
+BAG:hackiione add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/08/2023 4:59 PM
+BAG:hackiione add 1xMảnh Khủng long lydo: Nhặt từ map at 03/08/2023 4:59 PM
+BAG:hackiione add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/08/2023 4:59 PM
+BAG:hackiione add 1xGăng đồng Tron lydo: Lấy từ body vào hành trang at 03/08/2023 5:00 PM
+BAG:hackiione add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/08/2023 5:00 PM
+BAG:hackiione add 1xCải trang lydo: Lấy từ body vào hành trang at 03/08/2023 5:00 PM
+BAG:hackiione add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:00 PM
+BAG:hackiione add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:00 PM
+BAG:hackiione add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/08/2023 5:01 PM
+BAG:hackiione add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/08/2023 5:01 PM
+BAG:hackiione add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:01 PM
+BAG:hackiione add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/08/2023 5:01 PM
+BAG:hackiione add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/08/2023 5:01 PM
+BAG:hackiione add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/08/2023 5:02 PM
+BAG:hackiione add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/08/2023 5:02 PM
+BAG:hackiione add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/08/2023 5:02 PM
+BAG:hackiione add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/08/2023 5:03 PM
+BAG:hackiione add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/08/2023 5:03 PM
+BAG:hackiione add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/08/2023 5:04 PM
+BAG:hackiione add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/08/2023 5:04 PM
+BAG:hackiione add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/08/2023 5:04 PM
+BAG:hackiione add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/08/2023 5:04 PM
+BAG:hackiione add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/08/2023 5:04 PM
+BAG:hackiione add 28xNgọc Rồng 5 sao (old: 27) lydo: Nhặt từ map at 03/08/2023 5:04 PM
+BAG:hackiione add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/08/2023 5:04 PM
+BAG:hackiione add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/08/2023 5:04 PM
+BAG:hackiione add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/08/2023 5:05 PM
+BAG:hackiione add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/08/2023 5:05 PM
+BAG:hackiione add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/08/2023 5:05 PM
+BAG:hackiione add 29xNgọc Rồng 5 sao (old: 28) lydo: Nhặt từ map at 03/08/2023 5:05 PM
+BAG:hackiione add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/08/2023 5:05 PM
+BAG:hackiione add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/08/2023 5:06 PM
+BAG:hackiione add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:06 PM
+BAG:hackiione add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/08/2023 5:06 PM
+BAG:hackiione add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/08/2023 5:06 PM
+BAG:hackiione add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/08/2023 5:06 PM
+BAG:hackiione add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/08/2023 5:07 PM
+BAG:hackiione add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:07 PM
+BAG:hackiione add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/08/2023 5:07 PM
+BAG:hackiione add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/08/2023 5:08 PM
+BAG:hackiione add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:08 PM
+BAG:hackiione add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:08 PM
+BAG:hackiione add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/08/2023 5:08 PM
+BAG:hackiione add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/08/2023 5:08 PM
+BAG:hackiione add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/08/2023 5:09 PM
+BAG:hackiione add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/08/2023 5:09 PM
+BAG:hackiione add 1xMảnh Khủng long lydo: Nhặt từ map at 03/08/2023 5:09 PM
+BAG:hackiione add 1xMảnh Khủng long lydo: Nhặt từ map at 03/08/2023 5:09 PM
+BAG:hackiione add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/08/2023 5:09 PM
+BAG:hackiione add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:10 PM
+BAG:hackiione add 30xNgọc Rồng 5 sao (old: 29) lydo: Nhặt từ map at 03/08/2023 5:10 PM
+BAG:hackiione add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:10 PM
+BAG:hackiione add 1xGiầy sợi len lydo: Nhặt từ map at 03/08/2023 5:11 PM
+BAG:hackiione add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/08/2023 5:11 PM
+BAG:hackiione add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/08/2023 5:12 PM
+BAG:hackiione add 1xRada cấp 1 lydo: Nhặt từ map at 03/08/2023 5:13 PM
+BAG:hackiione add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/08/2023 5:13 PM
+BAG:hackiione add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/08/2023 5:14 PM
+BAG:hackiione add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/08/2023 5:14 PM
+BAG:hackiione add 1xQuần sợi len lydo: Nhặt từ map at 03/08/2023 5:14 PM
+BAG:hackiione add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:14 PM
+BAG:hackiione add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:14 PM
+BAG:hackiione add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/08/2023 5:14 PM
+BAG:hackiione add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/08/2023 5:14 PM
+BAG:hackiione add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/08/2023 5:14 PM
+BAG:hackiione add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/08/2023 5:15 PM
+BAG:hackiione add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/08/2023 5:15 PM

@@ -1,0 +1,486 @@
+BAG:zurocbd add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 12:21 AM
+BAG:zurocbd add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/04/2023 12:21 AM
+BAG:zurocbd add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/04/2023 12:42 AM
+BAG:zurocbd add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/04/2023 12:42 AM
+BAG:zurocbd add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/04/2023 12:42 AM
+BAG:zurocbd add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/04/2023 12:42 AM
+BAG:zurocbd add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/04/2023 12:42 AM
+BAG:zurocbd add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/04/2023 12:42 AM
+BAG:zurocbd add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/04/2023 12:42 AM
+BAG:zurocbd add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:zurocbd add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/04/2023 12:44 AM
+BAG:zurocbd add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/04/2023 12:44 AM
+BAG:zurocbd add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/04/2023 12:44 AM
+BAG:zurocbd add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/04/2023 12:44 AM
+BAG:zurocbd add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/04/2023 12:44 AM
+BAG:zurocbd add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/04/2023 12:44 AM
+BAG:zurocbd add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/04/2023 12:44 AM
+BAG:zurocbd add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/04/2023 12:45 AM
+BAG:zurocbd add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/04/2023 12:45 AM
+BAG:zurocbd add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/04/2023 12:45 AM
+BAG:zurocbd add 99xCuồng nộ lydo: Lấy từ rương qua người at 03/04/2023 12:47 AM
+BAG:zurocbd add 500xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/04/2023 12:55 AM
+BAG:zurocbd add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/04/2023 12:55 AM
+BAG:zurocbd add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/04/2023 1:38 AM
+BAG:zurocbd add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:43 AM
+BAG:zurocbd add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:43 AM
+BAG:zurocbd add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 1:44 AM
+BAG:zurocbd add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 1:44 AM
+BAG:zurocbd add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 1:44 AM
+BAG:zurocbd add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 1:44 AM
+BAG:zurocbd add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 1:44 AM
+BAG:zurocbd add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 1:44 AM
+BAG:zurocbd add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 1:57 AM
+BAG:zurocbd add 1xBột mì lydo: Nhặt từ map at 03/04/2023 1:57 AM
+BAG:zurocbd add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:57 AM
+BAG:zurocbd add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 1:57 AM
+BAG:zurocbd add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 1:57 AM
+BAG:zurocbd add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 1:58 AM
+BAG:zurocbd add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 1:58 AM
+BAG:zurocbd add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 1:58 AM
+BAG:zurocbd add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 1:58 AM
+BAG:zurocbd add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 1:58 AM
+BAG:zurocbd add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 1:58 AM
+BAG:zurocbd add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:zurocbd add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:zurocbd add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:zurocbd add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:zurocbd add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:zurocbd add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:zurocbd add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:zurocbd add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:zurocbd add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:zurocbd add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:zurocbd add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:zurocbd add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:zurocbd add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:zurocbd add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:zurocbd add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:zurocbd add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:zurocbd add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:zurocbd add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:zurocbd add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:zurocbd add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/04/2023 2:02 AM
+BAG:zurocbd add 1xGiày jean Calic lydo: Lấy từ rương qua người at 03/04/2023 2:03 AM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 2:04 AM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:15 AM
+BAG:zurocbd add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:15 AM
+BAG:zurocbd add 1xCải Trang Thần Zeno lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:15 AM
+BAG:zurocbd add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 2:16 AM
+BAG:zurocbd add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 2:16 AM
+BAG:zurocbd add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 2:16 AM
+BAG:zurocbd add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 2:16 AM
+BAG:zurocbd add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 2:16 AM
+BAG:zurocbd add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 2:16 AM
+BAG:zurocbd add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:zurocbd add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:zurocbd add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:zurocbd add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:zurocbd add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:zurocbd add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 2:21 AM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:13 AM
+BAG:zurocbd add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 9:13 AM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 9:13 AM
+BAG:zurocbd add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/04/2023 9:14 AM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 9:14 AM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 9:14 AM
+BAG:zurocbd add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 9:14 AM
+BAG:zurocbd add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 9:14 AM
+BAG:zurocbd add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 9:14 AM
+BAG:zurocbd add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 9:14 AM
+BAG:zurocbd add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 9:15 AM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 9:15 AM
+BAG:zurocbd add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 9:15 AM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 9:16 AM
+BAG:zurocbd add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 9:19 AM
+BAG:zurocbd add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 9:20 AM
+BAG:zurocbd add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 9:20 AM
+BAG:zurocbd add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 9:20 AM
+BAG:zurocbd add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 9:20 AM
+BAG:zurocbd add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 9:20 AM
+BAG:zurocbd add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 9:20 AM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 9:20 AM
+BAG:zurocbd add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 9:20 AM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 9:21 AM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 9:21 AM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 9:21 AM
+BAG:zurocbd add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 9:22 AM
+BAG:zurocbd add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 9:22 AM
+BAG:zurocbd add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 9:23 AM
+BAG:zurocbd add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 9:23 AM
+BAG:zurocbd add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 9:23 AM
+BAG:zurocbd add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 9:23 AM
+BAG:zurocbd add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 9:23 AM
+BAG:zurocbd add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 9:23 AM
+BAG:zurocbd add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 9:24 AM
+BAG:zurocbd add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 9:24 AM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 9:24 AM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 9:24 AM
+BAG:zurocbd add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 9:25 AM
+BAG:zurocbd add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 9:25 AM
+BAG:zurocbd add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 9:25 AM
+BAG:zurocbd add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 9:25 AM
+BAG:zurocbd add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 9:25 AM
+BAG:zurocbd add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 9:25 AM
+BAG:zurocbd add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 9:25 AM
+BAG:zurocbd add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 9:25 AM
+BAG:zurocbd add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 9:25 AM
+BAG:zurocbd add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 9:25 AM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 9:25 AM
+BAG:zurocbd add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 9:25 AM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 9:26 AM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 9:26 AM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 9:26 AM
+BAG:zurocbd add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 9:27 AM
+BAG:zurocbd add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 9:28 AM
+BAG:zurocbd add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 9:28 AM
+BAG:zurocbd add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 9:28 AM
+BAG:zurocbd add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 9:28 AM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 9:28 AM
+BAG:zurocbd add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 9:28 AM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 9:28 AM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 9:28 AM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 9:28 AM
+BAG:zurocbd add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/04/2023 9:29 AM
+BAG:zurocbd add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 9:29 AM
+BAG:zurocbd add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 9:29 AM
+BAG:zurocbd add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 9:30 AM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 9:30 AM
+BAG:zurocbd add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 9:31 AM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 9:31 AM
+BAG:zurocbd add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:47 AM
+BAG:zurocbd add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:47 AM
+BAG:zurocbd add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:47 AM
+BAG:zurocbd add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:47 AM
+BAG:zurocbd add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:47 AM
+BAG:zurocbd add 1xCải trang Super Cumber lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:47 AM
+BAG:zurocbd add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/04/2023 9:48 AM
+BAG:zurocbd add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 9:49 AM
+BAG:zurocbd add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:55 AM
+BAG:zurocbd add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/04/2023 10:04 AM
+BAG:zurocbd add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 10:05 AM
+BAG:zurocbd add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:45 AM
+BAG:zurocbd add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:45 AM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:45 AM
+BAG:zurocbd add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:45 AM
+BAG:zurocbd add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:45 AM
+BAG:zurocbd add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:45 AM
+BAG:zurocbd add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 11:00 AM
+BAG:zurocbd add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 11:11 AM
+BAG:zurocbd add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 11:11 AM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/04/2023 11:11 AM
+BAG:zurocbd add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 11:11 AM
+BAG:zurocbd add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 11:11 AM
+BAG:zurocbd add 1xCải Trang Thần Zeno Xayda lydo: Lấy từ body đệ vào hành trang at 03/04/2023 11:11 AM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:44 PM
+BAG:zurocbd add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:36 PM
+BAG:zurocbd add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:36 PM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:36 PM
+BAG:zurocbd add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:36 PM
+BAG:zurocbd add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:46 PM
+BAG:zurocbd add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:46 PM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:46 PM
+BAG:zurocbd add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:46 PM
+BAG:zurocbd add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 2:49 PM
+BAG:zurocbd add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 2:50 PM
+BAG:zurocbd add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 2:50 PM
+BAG:zurocbd add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 2:50 PM
+BAG:zurocbd add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 2:50 PM
+BAG:zurocbd add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 2:50 PM
+BAG:zurocbd add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 2:50 PM
+BAG:zurocbd add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 2:50 PM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 2:50 PM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 2:50 PM
+BAG:zurocbd add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 2:50 PM
+BAG:zurocbd add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 2:50 PM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 2:50 PM
+BAG:zurocbd add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 2:51 PM
+BAG:zurocbd add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 2:52 PM
+BAG:zurocbd add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 2:53 PM
+BAG:zurocbd add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/04/2023 2:54 PM
+BAG:zurocbd add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 2:55 PM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Lấy từ rương qua người at 03/04/2023 3:00 PM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/04/2023 3:00 PM
+BAG:zurocbd add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 3:01 PM
+BAG:zurocbd add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 3:24 PM
+BAG:zurocbd add 1xGiày jean Calic lydo: Lấy từ body vào hành trang at 03/04/2023 3:25 PM
+BAG:zurocbd add 1xĐậu thần cấp 10 lydo: Clan cho đậu at 03/04/2023 3:46 PM
+BAG:zurocbd add 2xĐậu thần cấp 10 (old: 1) lydo: Clan cho đậu at 03/04/2023 3:46 PM
+BAG:zurocbd add 3xĐậu thần cấp 10 (old: 2) lydo: Clan cho đậu at 03/04/2023 3:46 PM
+BAG:zurocbd add 4xĐậu thần cấp 10 (old: 3) lydo: Clan cho đậu at 03/04/2023 3:46 PM
+BAG:zurocbd add 5xĐậu thần cấp 10 (old: 4) lydo: Clan cho đậu at 03/04/2023 3:46 PM
+BAG:zurocbd add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 3:47 PM
+BAG:zurocbd add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 3:47 PM
+BAG:zurocbd add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/04/2023 3:47 PM
+BAG:zurocbd add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 3:47 PM
+BAG:zurocbd add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 3:47 PM
+BAG:zurocbd add 1xCải Trang Thần Zeno lydo: Lấy từ body đệ vào hành trang at 03/04/2023 3:47 PM
+BAG:zurocbd add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/04/2023 9:15 PM
+BAG:zurocbd add 1xCải trang Super Cumber lydo: Lấy từ rương qua người at 03/04/2023 9:15 PM
+BAG:zurocbd add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 9:16 PM
+BAG:zurocbd add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 9:17 PM
+BAG:zurocbd add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 9:20 PM
+BAG:zurocbd add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 9:20 PM
+BAG:zurocbd add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 9:20 PM
+BAG:zurocbd add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 9:20 PM
+BAG:zurocbd add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 9:21 PM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 9:21 PM
+BAG:zurocbd add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 9:21 PM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 9:22 PM
+BAG:zurocbd add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 9:22 PM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 9:22 PM
+BAG:zurocbd add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 9:22 PM
+BAG:zurocbd add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 9:22 PM
+BAG:zurocbd add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 9:22 PM
+BAG:zurocbd add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 9:22 PM
+BAG:zurocbd add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 9:22 PM
+BAG:zurocbd add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 9:22 PM
+BAG:zurocbd add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 9:22 PM
+BAG:zurocbd add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 9:22 PM
+BAG:zurocbd add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 9:23 PM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 9:23 PM
+BAG:zurocbd add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 9:51 PM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 9:52 PM
+BAG:zurocbd add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 9:52 PM
+BAG:zurocbd add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 9:52 PM
+BAG:zurocbd add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 9:53 PM
+BAG:zurocbd add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 9:53 PM
+BAG:zurocbd add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 9:54 PM
+BAG:zurocbd add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 9:54 PM
+BAG:zurocbd add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 9:54 PM
+BAG:zurocbd add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:59 PM
+BAG:zurocbd add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:59 PM
+BAG:zurocbd add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:59 PM
+BAG:zurocbd add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:59 PM
+BAG:zurocbd add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:59 PM
+BAG:zurocbd add 1xCải trang Super Cumber lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:59 PM
+BAG:zurocbd add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 10:04 PM
+BAG:zurocbd add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/04/2023 10:05 PM
+BAG:zurocbd add 1xGiáp tập luyện cấp 2 lydo: Mua từ cửa hàng at 03/04/2023 10:05 PM
+BAG:zurocbd add 98xCuồng nộ lydo: Lấy từ rương qua người at 03/04/2023 10:10 PM
+BAG:zurocbd add 1xCánh thiên thần lydo: Mua từ cửa hàng at 03/04/2023 10:11 PM
+BAG:zurocbd add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 10:13 PM
+BAG:zurocbd add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 10:19 PM

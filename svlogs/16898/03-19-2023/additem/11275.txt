@@ -1,0 +1,55 @@
+BAG:adchipani add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 03/19/2023 10:29 PM
+BAG:adchipani add 1xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/19/2023 10:29 PM
+BAG:adchipani add 8xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/19/2023 10:30 PM
+BAG:adchipani add 13xĐậu thần cấp 5 (old: 1) lydo: Lấy từ rương qua người at 03/19/2023 10:30 PM
+BAG:adchipani add 28xĐậu thần cấp 10 (old: 8) lydo: Lấy từ rương qua người at 03/19/2023 10:30 PM
+BAG:adchipani add 48xĐậu thần cấp 10 (old: 28) lydo: Lấy từ rương qua người at 03/19/2023 10:30 PM
+BAG:adchipani add 68xĐậu thần cấp 10 (old: 48) lydo: Lấy từ rương qua người at 03/19/2023 10:30 PM
+BAG:adchipani add 88xĐậu thần cấp 10 (old: 68) lydo: Lấy từ rương qua người at 03/19/2023 10:30 PM
+BAG:adchipani add 9xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/19/2023 10:31 PM
+BAG:adchipani add 99xĐậu thần cấp 10 (old: 88) lydo: Lấy từ rương qua người at 03/19/2023 10:31 PM
+BAG:adchipani add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/19/2023 10:31 PM
+BAG:adchipani add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/19/2023 10:36 PM
+BAG:adchipani add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/19/2023 10:36 PM
+BAG:adchipani add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/19/2023 10:37 PM
+BAG:adchipani add 1xĐá Saphia lydo: Nhặt từ map at 03/19/2023 10:39 PM
+BAG:adchipani add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/19/2023 10:40 PM
+BAG:adchipani add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/19/2023 10:40 PM
+BAG:adchipani add 1xĐá Titan lydo: Nhặt từ map at 03/19/2023 10:40 PM
+BAG:adchipani add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/19/2023 10:41 PM
+BAG:adchipani add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/19/2023 10:41 PM
+BAG:adchipani add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/19/2023 10:41 PM
+BAG:adchipani add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/19/2023 10:41 PM
+BAG:adchipani add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/19/2023 10:42 PM
+BAG:adchipani add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/19/2023 10:42 PM
+BAG:adchipani add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/19/2023 10:45 PM
+BAG:adchipani add 1xĐá lục bảo lydo: Nhặt từ map at 03/19/2023 10:45 PM
+BAG:adchipani add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/19/2023 10:45 PM
+BAG:adchipani add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/19/2023 10:46 PM
+BAG:adchipani add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/19/2023 10:47 PM
+BAG:adchipani add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/19/2023 10:47 PM
+BAG:adchipani add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/19/2023 10:47 PM
+BAG:adchipani add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/19/2023 10:47 PM
+BAG:adchipani add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/19/2023 10:47 PM
+BAG:adchipani add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/19/2023 10:47 PM
+BAG:adchipani add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/19/2023 10:48 PM
+BAG:adchipani add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/19/2023 10:48 PM
+BAG:adchipani add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/19/2023 10:48 PM
+BAG:adchipani add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/19/2023 10:48 PM
+BAG:adchipani add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/19/2023 10:48 PM
+BAG:adchipani add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/19/2023 10:48 PM
+BAG:adchipani add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/19/2023 10:49 PM
+BAG:adchipani add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/19/2023 10:49 PM
+BAG:adchipani add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/19/2023 10:49 PM
+BAG:adchipani add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/19/2023 10:49 PM
+BAG:adchipani add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/19/2023 10:49 PM
+BAG:adchipani add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/19/2023 10:49 PM
+BAG:adchipani add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/19/2023 10:55 PM
+BAG:adchipani add 5xPháo hoa lydo: Nhặt từ map at 03/19/2023 11:56 PM
+BAG:adchipani add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/19/2023 11:58 PM
+BAG:adchipani add 1xĐá lục bảo lydo: Nhặt từ map at 03/19/2023 11:59 PM
+BAG:adchipani add 50xThỏi vàng lydo: Giftcode at 03/19/2023 11:59 PM
+BAG:adchipani add 10xSao pha lê lydo: Giftcode at 03/19/2023 11:59 PM
+BAG:adchipani add 10xSao pha lê lydo: Giftcode at 03/19/2023 11:59 PM
+BAG:adchipani add 10xSao pha lê lydo: Giftcode at 03/19/2023 11:59 PM
+BAG:adchipani add 1xCải trang Hit lydo: Giftcode at 03/19/2023 11:59 PM

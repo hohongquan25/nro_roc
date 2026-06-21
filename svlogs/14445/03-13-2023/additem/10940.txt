@@ -1,0 +1,833 @@
+BAG:ndksjsbdx add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 03/13/2023 12:00 AM
+BAG:ndksjsbdx add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 03/13/2023 12:00 AM
+BAG:ndksjsbdx add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 03/13/2023 12:00 AM
+BAG:ndksjsbdx add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 03/13/2023 12:00 AM
+BAG:ndksjsbdx add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 03/13/2023 12:00 AM
+BAG:ndksjsbdx add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 03/13/2023 12:00 AM
+BAG:ndksjsbdx add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 03/13/2023 12:01 AM
+BAG:ndksjsbdx add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/13/2023 12:01 AM
+BAG:ndksjsbdx add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/13/2023 12:01 AM
+BAG:ndksjsbdx add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/13/2023 12:01 AM
+BAG:ndksjsbdx add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/13/2023 12:01 AM
+BAG:ndksjsbdx add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/13/2023 12:01 AM
+BAG:ndksjsbdx add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/13/2023 12:01 AM
+BAG:ndksjsbdx add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/13/2023 12:01 AM
+BAG:ndksjsbdx add 1xCuồng nộ lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 2xCuồng nộ (old: 1) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 1xGiáp Xên bọ hung lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 1xNgọc Rồng 7 sao lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 1xNgọc Rồng 4 sao lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 1xBổ khí lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 1xNgọc Rồng 5 sao lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 2xBổ khí (old: 1) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 3xBổ khí (old: 2) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 3xCuồng nộ (old: 2) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 4xCuồng nộ (old: 3) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 4xBổ khí (old: 3) lydo: HQT at 03/13/2023 12:49 AM
+BAG:ndksjsbdx add 5xCuồng nộ (old: 4) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 6xCuồng nộ (old: 5) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 5xBổ khí (old: 4) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 1xNgọc Rồng 6 sao lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 6xBổ khí (old: 5) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 7xCuồng nộ (old: 6) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 1xBổ huyết lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 2xBổ huyết (old: 1) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 9xGiáp Xên bọ hung (old: 8) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 8xCuồng nộ (old: 7) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 10xGiáp Xên bọ hung (old: 9) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 7xBổ khí (old: 6) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/13/2023 12:55 AM
+BAG:ndksjsbdx add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 8xBổ khí (old: 7) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 3xBổ huyết (old: 2) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 9xBổ khí (old: 8) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 10xBổ khí (old: 9) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 9xCuồng nộ (old: 8) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 4xBổ huyết (old: 3) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 10xCuồng nộ (old: 9) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 17xGiáp Xên bọ hung (old: 16) lydo: HQT at 03/13/2023 12:56 AM
+BAG:ndksjsbdx add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/13/2023 12:58 AM
+BAG:ndksjsbdx add 4xĐậu thần cấp 1 (old: 3) lydo: Clan cho đậu at 03/13/2023 12:59 AM
+BAG:ndksjsbdx add 5xĐậu thần cấp 1 (old: 4) lydo: Clan cho đậu at 03/13/2023 12:59 AM
+BAG:ndksjsbdx add 6xĐậu thần cấp 1 (old: 5) lydo: Clan cho đậu at 03/13/2023 12:59 AM
+BAG:ndksjsbdx add 1xĐậu thần cấp 8 lydo: Clan cho đậu at 03/13/2023 12:59 AM
+BAG:ndksjsbdx add 2xĐậu thần cấp 8 (old: 1) lydo: Clan cho đậu at 03/13/2023 1:00 AM
+BAG:ndksjsbdx add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 1:00 AM
+BAG:ndksjsbdx add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 9:28 AM
+BAG:ndksjsbdx add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 9:32 AM
+BAG:ndksjsbdx add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/13/2023 9:37 AM
+BAG:ndksjsbdx add 11xCuồng nộ (old: 10) lydo: HQT at 03/13/2023 9:37 AM
+BAG:ndksjsbdx add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 5xBổ huyết (old: 4) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 18xGiáp Xên bọ hung (old: 17) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 6xBổ huyết (old: 5) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 7xBổ huyết (old: 6) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/13/2023 9:38 AM
+BAG:ndksjsbdx add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 9:41 AM
+BAG:ndksjsbdx add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/13/2023 9:47 AM
+BAG:ndksjsbdx add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 9:52 AM
+BAG:ndksjsbdx add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/13/2023 9:53 AM
+BAG:ndksjsbdx add 8xBổ huyết (old: 7) lydo: HQT at 03/13/2023 9:53 AM
+BAG:ndksjsbdx add 9xBổ huyết (old: 8) lydo: HQT at 03/13/2023 9:53 AM
+BAG:ndksjsbdx add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/13/2023 9:53 AM
+BAG:ndksjsbdx add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/13/2023 9:54 AM
+BAG:ndksjsbdx add 12xCuồng nộ (old: 11) lydo: HQT at 03/13/2023 9:54 AM
+BAG:ndksjsbdx add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/13/2023 9:55 AM
+BAG:ndksjsbdx add 384xThỏi vàng (old: 134) lydo: Giftcode at 03/13/2023 9:59 AM
+BAG:ndksjsbdx add 40xNgọc Rồng 3 sao lydo: Giftcode at 03/13/2023 9:59 AM
+BAG:ndksjsbdx add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/13/2023 10:11 AM
+BAG:ndksjsbdx add 1xCải trang Chaien lydo: Lấy từ rương qua người at 03/13/2023 10:29 AM
+BAG:ndksjsbdx add 1xCải trang Xuka lydo: Lấy từ rương qua người at 03/13/2023 10:29 AM
+BAG:ndksjsbdx add 1xCải trang Xekô lydo: Lấy từ rương qua người at 03/13/2023 10:29 AM
+BAG:ndksjsbdx add 1xCải trang Nobita lydo: Lấy từ rương qua người at 03/13/2023 10:29 AM
+BAG:ndksjsbdx add 1xCải trang Đôrêmon lydo: Lấy từ rương qua người at 03/13/2023 10:29 AM
+BAG:ndksjsbdx add 5xSao pha lê lydo: Lấy từ rương qua người at 03/13/2023 10:30 AM
+BAG:ndksjsbdx add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 10:54 AM
+BAG:ndksjsbdx add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 10:59 AM
+BAG:ndksjsbdx add 1xSách Trói lv1 lydo: Mua từ cửa hàng at 03/13/2023 11:17 AM
+BAG:ndksjsbdx add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 03/13/2023 11:17 AM
+BAG:ndksjsbdx add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 03/13/2023 11:17 AM
+BAG:ndksjsbdx add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 03/13/2023 11:17 AM
+BAG:ndksjsbdx add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 03/13/2023 11:17 AM
+BAG:ndksjsbdx add 1xSách Trói lv6 lydo: Mua từ cửa hàng at 03/13/2023 11:18 AM
+BAG:ndksjsbdx add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 03/13/2023 11:18 AM
+BAG:ndksjsbdx add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/13/2023 11:18 AM
+BAG:ndksjsbdx add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/13/2023 11:18 AM
+BAG:ndksjsbdx add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/13/2023 11:18 AM
+BAG:ndksjsbdx add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/13/2023 11:18 AM
+BAG:ndksjsbdx add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/13/2023 11:18 AM
+BAG:ndksjsbdx add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/13/2023 11:18 AM
+BAG:ndksjsbdx add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/13/2023 11:18 AM
+BAG:ndksjsbdx add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 1xBổ khí lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 1xCuồng nộ lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 19xNgọc Rồng 5 sao (old: 18) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 1xGiáp Xên bọ hung lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 1xCuồng nộ lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 2xCuồng nộ (old: 1) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 3xCuồng nộ (old: 2) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 20xNgọc Rồng 5 sao (old: 19) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 2xBổ khí (old: 1) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/13/2023 11:20 AM
+BAG:ndksjsbdx add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 3xBổ khí (old: 2) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 1xBổ huyết lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 21xNgọc Rồng 5 sao (old: 20) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 22xNgọc Rồng 5 sao (old: 21) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 4xCuồng nộ (old: 3) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 2xBổ huyết (old: 1) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 5xCuồng nộ (old: 4) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 15xNgọc Rồng 6 sao (old: 14) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 6xCuồng nộ (old: 5) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 7xCuồng nộ (old: 6) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 4xBổ khí (old: 3) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 3xBổ huyết (old: 2) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 8xCuồng nộ (old: 7) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 9xCuồng nộ (old: 8) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 23xNgọc Rồng 5 sao (old: 22) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 5xBổ khí (old: 4) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 24xNgọc Rồng 5 sao (old: 23) lydo: HQT at 03/13/2023 11:21 AM
+BAG:ndksjsbdx add 10xCuồng nộ (old: 9) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 25xNgọc Rồng 5 sao (old: 24) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 4xBổ huyết (old: 3) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 11xCuồng nộ (old: 10) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 26xNgọc Rồng 5 sao (old: 25) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 6xBổ khí (old: 5) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 16xNgọc Rồng 6 sao (old: 15) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 27xNgọc Rồng 5 sao (old: 26) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 7xBổ khí (old: 6) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 12xCuồng nộ (old: 11) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 28xNgọc Rồng 5 sao (old: 27) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 18xNgọc Rồng 7 sao (old: 17) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 19xNgọc Rồng 7 sao (old: 18) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 29xNgọc Rồng 5 sao (old: 28) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 5xBổ huyết (old: 4) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 9xGiáp Xên bọ hung (old: 8) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 20xNgọc Rồng 7 sao (old: 19) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 10xGiáp Xên bọ hung (old: 9) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 6xBổ huyết (old: 5) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 30xNgọc Rồng 5 sao (old: 29) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 31xNgọc Rồng 5 sao (old: 30) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 8xBổ khí (old: 7) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/13/2023 11:22 AM
+BAG:ndksjsbdx add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 9xBổ khí (old: 8) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 21xNgọc Rồng 7 sao (old: 20) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 32xNgọc Rồng 5 sao (old: 31) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 33xNgọc Rồng 5 sao (old: 32) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 34xNgọc Rồng 5 sao (old: 33) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 21xNgọc Rồng 6 sao (old: 20) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 22xNgọc Rồng 6 sao (old: 21) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 7xBổ huyết (old: 6) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 13xCuồng nộ (old: 12) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 8xBổ huyết (old: 7) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 22xNgọc Rồng 7 sao (old: 21) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 23xNgọc Rồng 6 sao (old: 22) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 35xNgọc Rồng 5 sao (old: 34) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 14xCuồng nộ (old: 13) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 15xCuồng nộ (old: 14) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 23xNgọc Rồng 7 sao (old: 22) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 36xNgọc Rồng 5 sao (old: 35) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 10xBổ khí (old: 9) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 37xNgọc Rồng 5 sao (old: 36) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 38xNgọc Rồng 5 sao (old: 37) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 11xBổ khí (old: 10) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 9xBổ huyết (old: 8) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 24xNgọc Rồng 7 sao (old: 23) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 16xCuồng nộ (old: 15) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 39xNgọc Rồng 5 sao (old: 38) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 10xBổ huyết (old: 9) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 11xBổ huyết (old: 10) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 40xNgọc Rồng 5 sao (old: 39) lydo: HQT at 03/13/2023 11:23 AM
+BAG:ndksjsbdx add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 12xBổ khí (old: 11) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 41xNgọc Rồng 5 sao (old: 40) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 12xBổ huyết (old: 11) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 17xGiáp Xên bọ hung (old: 16) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 13xBổ khí (old: 12) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 25xNgọc Rồng 7 sao (old: 24) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 13xBổ huyết (old: 12) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 14xBổ khí (old: 13) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 42xNgọc Rồng 5 sao (old: 41) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 15xBổ khí (old: 14) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 43xNgọc Rồng 5 sao (old: 42) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 18xGiáp Xên bọ hung (old: 17) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 22xNgọc Rồng 4 sao (old: 21) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 14xBổ huyết (old: 13) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 19xGiáp Xên bọ hung (old: 18) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 17xCuồng nộ (old: 16) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 44xNgọc Rồng 5 sao (old: 43) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 24xNgọc Rồng 6 sao (old: 23) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 26xNgọc Rồng 7 sao (old: 25) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 27xNgọc Rồng 7 sao (old: 26) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 25xNgọc Rồng 6 sao (old: 24) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 16xBổ khí (old: 15) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 28xNgọc Rồng 7 sao (old: 27) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 18xCuồng nộ (old: 17) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 19xCuồng nộ (old: 18) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 29xNgọc Rồng 7 sao (old: 28) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 20xCuồng nộ (old: 19) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 20xGiáp Xên bọ hung (old: 19) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 17xBổ khí (old: 16) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 30xNgọc Rồng 7 sao (old: 29) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 15xBổ huyết (old: 14) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 23xNgọc Rồng 4 sao (old: 22) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 18xBổ khí (old: 17) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 21xCuồng nộ (old: 20) lydo: HQT at 03/13/2023 11:24 AM
+BAG:ndksjsbdx add 22xCuồng nộ (old: 21) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 31xNgọc Rồng 7 sao (old: 30) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 26xNgọc Rồng 6 sao (old: 25) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 24xNgọc Rồng 4 sao (old: 23) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 32xNgọc Rồng 7 sao (old: 31) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 45xNgọc Rồng 5 sao (old: 44) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 33xNgọc Rồng 7 sao (old: 32) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 21xGiáp Xên bọ hung (old: 20) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 34xNgọc Rồng 7 sao (old: 33) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 27xNgọc Rồng 6 sao (old: 26) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 22xGiáp Xên bọ hung (old: 21) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 26xNgọc Rồng 4 sao (old: 25) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 23xCuồng nộ (old: 22) lydo: HQT at 03/13/2023 11:25 AM
+BAG:ndksjsbdx add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/13/2023 11:31 AM
+BAG:ndksjsbdx add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/13/2023 11:56 AM
+BAG:ndksjsbdx add 1xRada cấp 12 lydo: Mua từ cửa hàng at 03/13/2023 11:57 AM
+BAG:ndksjsbdx add 1xRada cấp 3 lydo: Mua từ cửa hàng at 03/13/2023 11:58 AM
+BAG:ndksjsbdx add 1xGiày lưỡng long lydo: Mua từ cửa hàng at 03/13/2023 11:58 AM
+BAG:ndksjsbdx add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/13/2023 11:59 AM
+BAG:ndksjsbdx add 29xNgọc Rồng 3 sao (old: 28) lydo: Nhập ngọc at 03/13/2023 12:00 PM
+BAG:ndksjsbdx add 30xNgọc Rồng 3 sao (old: 29) lydo: Nhập ngọc at 03/13/2023 12:00 PM
+BAG:ndksjsbdx add 31xNgọc Rồng 3 sao (old: 30) lydo: Nhập ngọc at 03/13/2023 12:00 PM
+BAG:ndksjsbdx add 1xGiày lưỡng long lydo: Lấy từ body vào hành trang at 03/13/2023 12:01 PM
+BAG:ndksjsbdx add 1xGăng lưỡng long lydo: Lấy từ body vào hành trang at 03/13/2023 12:01 PM
+BAG:ndksjsbdx add 54xĐậu thần cấp 10 (old: 34) lydo: Lấy từ rương qua người at 03/13/2023 12:30 PM
+BAG:ndksjsbdx add 74xĐậu thần cấp 10 (old: 54) lydo: Lấy từ rương qua người at 03/13/2023 12:30 PM
+BAG:ndksjsbdx add 94xĐậu thần cấp 10 (old: 74) lydo: Lấy từ rương qua người at 03/13/2023 12:31 PM
+BAG:ndksjsbdx add 99xThỏi vàng lydo: Tách thỏi vàng at 03/13/2023 12:49 PM
+BAG:ndksjsbdx add 99xThỏi vàng lydo: Tách thỏi vàng at 03/13/2023 12:49 PM
+BAG:ndksjsbdx add 99xThỏi vàng lydo: Tách thỏi vàng at 03/13/2023 12:50 PM
+BAG:ndksjsbdx add 12xSao pha lê lydo: Lấy từ rương qua người at 03/13/2023 12:58 PM
+BAG:ndksjsbdx add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/13/2023 1:02 PM
+BAG:ndksjsbdx add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 1:02 PM
+BAG:ndksjsbdx add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/13/2023 1:19 PM
+BAG:ndksjsbdx add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 1:22 PM
+BAG:ndksjsbdx add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 1:22 PM
+BAG:ndksjsbdx add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 1:23 PM
+BAG:ndksjsbdx add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 1:23 PM
+BAG:ndksjsbdx add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 1:23 PM
+BAG:ndksjsbdx add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 1:23 PM
+BAG:ndksjsbdx add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 1:24 PM
+BAG:ndksjsbdx add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/13/2023 1:24 PM
+BAG:ndksjsbdx add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 1:25 PM
+BAG:ndksjsbdx add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 1:25 PM
+BAG:ndksjsbdx add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 1:25 PM
+BAG:ndksjsbdx add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 1:25 PM
+BAG:ndksjsbdx add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/13/2023 1:25 PM
+BAG:ndksjsbdx add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/13/2023 1:25 PM
+BAG:ndksjsbdx add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/13/2023 1:26 PM
+BAG:ndksjsbdx add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/13/2023 1:26 PM
+BAG:ndksjsbdx add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 1:26 PM
+BAG:ndksjsbdx add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/13/2023 1:26 PM
+BAG:ndksjsbdx add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/13/2023 1:26 PM
+BAG:ndksjsbdx add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/13/2023 1:26 PM
+BAG:ndksjsbdx add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/13/2023 1:26 PM
+BAG:ndksjsbdx add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/13/2023 1:27 PM
+BAG:ndksjsbdx add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/13/2023 1:27 PM
+BAG:ndksjsbdx add 46xNgọc Rồng 5 sao (old: 45) lydo: Nhặt từ map at 03/13/2023 1:27 PM
+BAG:ndksjsbdx add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/13/2023 1:27 PM
+BAG:ndksjsbdx add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/13/2023 1:27 PM
+BAG:ndksjsbdx add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 1:27 PM
+BAG:ndksjsbdx add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 1:27 PM
+BAG:ndksjsbdx add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/13/2023 1:28 PM
+BAG:ndksjsbdx add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/13/2023 1:28 PM
+BAG:ndksjsbdx add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/13/2023 1:28 PM
+BAG:ndksjsbdx add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/13/2023 1:31 PM
+BAG:ndksjsbdx add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/13/2023 6:08 PM
+BAG:ndksjsbdx add 47xNgọc Rồng 5 sao (old: 46) lydo: Nhặt từ map at 03/13/2023 6:08 PM
+BAG:ndksjsbdx add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/13/2023 6:08 PM
+BAG:ndksjsbdx add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 6:09 PM
+BAG:ndksjsbdx add 48xNgọc Rồng 5 sao (old: 47) lydo: Nhặt từ map at 03/13/2023 6:09 PM
+BAG:ndksjsbdx add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 6:12 PM
+BAG:ndksjsbdx add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/13/2023 6:14 PM
+BAG:ndksjsbdx add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:15 PM
+BAG:ndksjsbdx add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/13/2023 6:19 PM
+BAG:ndksjsbdx add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/13/2023 6:21 PM
+BAG:ndksjsbdx add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/13/2023 6:22 PM
+BAG:ndksjsbdx add 49xNgọc Rồng 5 sao (old: 48) lydo: Nhặt từ map at 03/13/2023 6:27 PM
+BAG:ndksjsbdx add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/13/2023 6:28 PM
+BAG:ndksjsbdx add 5xPháo hoa lydo: Nhặt từ map at 03/13/2023 6:29 PM
+BAG:ndksjsbdx add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/13/2023 6:30 PM
+BAG:ndksjsbdx add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/13/2023 6:34 PM
+BAG:ndksjsbdx add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/13/2023 6:35 PM
+BAG:ndksjsbdx add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/13/2023 6:35 PM
+BAG:ndksjsbdx add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhặt từ map at 03/13/2023 6:36 PM
+BAG:ndksjsbdx add 1xPháo hoa lydo: Nhặt từ map at 03/13/2023 6:36 PM
+BAG:ndksjsbdx add 20xCuồng nộ (old: 19) lydo: HQT at 03/13/2023 6:36 PM
+BAG:ndksjsbdx add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/13/2023 6:40 PM
+BAG:ndksjsbdx add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/13/2023 6:43 PM
+BAG:ndksjsbdx add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/13/2023 6:44 PM
+BAG:ndksjsbdx add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/13/2023 6:44 PM
+BAG:ndksjsbdx add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/13/2023 6:45 PM
+BAG:ndksjsbdx add 13xPháo hoa (old: 8) lydo: Nhặt từ map at 03/13/2023 6:50 PM
+BAG:ndksjsbdx add 29xNgọc Rồng 6 sao (old: 28) lydo: Nhặt từ map at 03/13/2023 6:52 PM
+BAG:ndksjsbdx add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/13/2023 6:52 PM
+BAG:ndksjsbdx add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/13/2023 7:04 PM
+BAG:ndksjsbdx add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/13/2023 7:13 PM
+BAG:ndksjsbdx add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/13/2023 7:13 PM
+BAG:ndksjsbdx add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/13/2023 7:15 PM
+BAG:ndksjsbdx add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/13/2023 7:15 PM
+BAG:ndksjsbdx add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/13/2023 7:16 PM
+BAG:ndksjsbdx add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/13/2023 7:16 PM
+BAG:ndksjsbdx add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/13/2023 7:16 PM
+BAG:ndksjsbdx add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/13/2023 7:16 PM
+BAG:ndksjsbdx add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/13/2023 7:17 PM
+BAG:ndksjsbdx add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/13/2023 7:17 PM
+BAG:ndksjsbdx add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/13/2023 7:17 PM
+BAG:ndksjsbdx add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/13/2023 7:18 PM
+BAG:ndksjsbdx add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/13/2023 7:19 PM
+BAG:ndksjsbdx add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/13/2023 7:19 PM
+BAG:ndksjsbdx add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/13/2023 7:20 PM
+BAG:ndksjsbdx add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/13/2023 7:20 PM
+BAG:ndksjsbdx add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/13/2023 7:20 PM
+BAG:ndksjsbdx add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/13/2023 7:20 PM
+BAG:ndksjsbdx add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/13/2023 7:21 PM
+BAG:ndksjsbdx add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/13/2023 7:21 PM
+BAG:ndksjsbdx add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/13/2023 7:21 PM
+BAG:ndksjsbdx add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/13/2023 7:21 PM
+BAG:ndksjsbdx add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/13/2023 7:22 PM
+BAG:ndksjsbdx add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/13/2023 7:25 PM
+BAG:ndksjsbdx add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/13/2023 7:25 PM
+BAG:ndksjsbdx add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/13/2023 7:28 PM
+BAG:ndksjsbdx add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/13/2023 7:28 PM
+BAG:ndksjsbdx add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/13/2023 7:29 PM
+BAG:ndksjsbdx add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/13/2023 7:29 PM
+BAG:ndksjsbdx add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/13/2023 7:31 PM
+BAG:ndksjsbdx add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 15xBổ huyết (old: 14) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 35xNgọc Rồng 7 sao (old: 34) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 21xCuồng nộ (old: 20) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 36xNgọc Rồng 7 sao (old: 35) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 22xCuồng nộ (old: 21) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 16xBổ huyết (old: 15) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 50xNgọc Rồng 5 sao (old: 49) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 37xNgọc Rồng 7 sao (old: 36) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 17xBổ huyết (old: 16) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 30xNgọc Rồng 6 sao (old: 29) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 19xBổ khí (old: 18) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 18xBổ huyết (old: 17) lydo: HQT at 03/13/2023 7:32 PM
+BAG:ndksjsbdx add 23xCuồng nộ (old: 22) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 24xCuồng nộ (old: 23) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 51xNgọc Rồng 5 sao (old: 50) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 38xNgọc Rồng 7 sao (old: 37) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 31xNgọc Rồng 6 sao (old: 30) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 25xCuồng nộ (old: 24) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 22xGiáp Xên bọ hung (old: 21) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 23xGiáp Xên bọ hung (old: 22) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 32xNgọc Rồng 6 sao (old: 31) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 20xBổ khí (old: 19) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 26xCuồng nộ (old: 25) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 52xNgọc Rồng 5 sao (old: 51) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 53xNgọc Rồng 5 sao (old: 52) lydo: Nhặt từ map at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 54xNgọc Rồng 5 sao (old: 53) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 55xNgọc Rồng 5 sao (old: 54) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 22xNgọc Rồng 4 sao (old: 21) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 19xBổ huyết (old: 18) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 27xCuồng nộ (old: 26) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 21xBổ khí (old: 20) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 33xNgọc Rồng 6 sao (old: 32) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 34xNgọc Rồng 6 sao (old: 33) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 28xCuồng nộ (old: 27) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 23xNgọc Rồng 4 sao (old: 22) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 35xNgọc Rồng 6 sao (old: 34) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 56xNgọc Rồng 5 sao (old: 55) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 22xBổ khí (old: 21) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 39xNgọc Rồng 7 sao (old: 38) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 29xCuồng nộ (old: 28) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 20xBổ huyết (old: 19) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 21xBổ huyết (old: 20) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 23xBổ khí (old: 22) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 22xBổ huyết (old: 21) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 57xNgọc Rồng 5 sao (old: 56) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 23xBổ huyết (old: 22) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 24xBổ huyết (old: 23) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 25xBổ huyết (old: 24) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 40xNgọc Rồng 7 sao (old: 39) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 41xNgọc Rồng 7 sao (old: 40) lydo: HQT at 03/13/2023 7:33 PM
+BAG:ndksjsbdx add 30xCuồng nộ (old: 29) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 58xNgọc Rồng 5 sao (old: 57) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 26xBổ huyết (old: 25) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 27xBổ huyết (old: 26) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 31xCuồng nộ (old: 30) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 32xCuồng nộ (old: 31) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 24xBổ khí (old: 23) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 42xNgọc Rồng 7 sao (old: 41) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 24xNgọc Rồng 4 sao (old: 23) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 25xBổ khí (old: 24) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 26xBổ khí (old: 25) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 28xBổ huyết (old: 27) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 27xBổ khí (old: 26) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 33xCuồng nộ (old: 32) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 28xBổ khí (old: 27) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 43xNgọc Rồng 7 sao (old: 42) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 44xNgọc Rồng 7 sao (old: 43) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 25xGiáp Xên bọ hung (old: 24) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 29xBổ khí (old: 28) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 26xGiáp Xên bọ hung (old: 25) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 45xNgọc Rồng 7 sao (old: 44) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 36xNgọc Rồng 6 sao (old: 35) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 29xBổ huyết (old: 28) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 34xCuồng nộ (old: 33) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 46xNgọc Rồng 7 sao (old: 45) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 37xNgọc Rồng 6 sao (old: 36) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 38xNgọc Rồng 6 sao (old: 37) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 59xNgọc Rồng 5 sao (old: 58) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 27xGiáp Xên bọ hung (old: 26) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 30xBổ huyết (old: 29) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 31xBổ huyết (old: 30) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 30xBổ khí (old: 29) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 39xNgọc Rồng 6 sao (old: 38) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 40xNgọc Rồng 6 sao (old: 39) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 28xGiáp Xên bọ hung (old: 27) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 47xNgọc Rồng 7 sao (old: 46) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 60xNgọc Rồng 5 sao (old: 59) lydo: HQT at 03/13/2023 7:34 PM
+BAG:ndksjsbdx add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/13/2023 7:36 PM
+BAG:ndksjsbdx add 41xNgọc Rồng 6 sao (old: 40) lydo: Nhặt từ map at 03/13/2023 7:36 PM
+BAG:ndksjsbdx add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/13/2023 7:36 PM
+BAG:ndksjsbdx add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/13/2023 7:38 PM
+BAG:ndksjsbdx add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/13/2023 7:38 PM
+BAG:ndksjsbdx add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/13/2023 7:40 PM
+BAG:ndksjsbdx add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 03/13/2023 7:40 PM
+BAG:ndksjsbdx add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/13/2023 7:41 PM
+BAG:ndksjsbdx add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/13/2023 7:42 PM
+BAG:ndksjsbdx add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/13/2023 7:42 PM
+BAG:ndksjsbdx add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/13/2023 7:46 PM
+BAG:ndksjsbdx add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/13/2023 7:46 PM
+BAG:ndksjsbdx add 61xNgọc Rồng 5 sao (old: 60) lydo: Nhặt từ map at 03/13/2023 7:46 PM
+BAG:ndksjsbdx add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/13/2023 7:46 PM
+BAG:ndksjsbdx add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/13/2023 7:47 PM
+BAG:ndksjsbdx add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/13/2023 7:47 PM
+BAG:ndksjsbdx add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/13/2023 7:48 PM
+BAG:ndksjsbdx add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/13/2023 7:48 PM
+BAG:ndksjsbdx add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/13/2023 7:48 PM
+BAG:ndksjsbdx add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/13/2023 7:51 PM
+BAG:ndksjsbdx add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/13/2023 7:51 PM
+BAG:ndksjsbdx add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/13/2023 7:52 PM
+BAG:ndksjsbdx add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/13/2023 7:54 PM
+BAG:ndksjsbdx add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/13/2023 7:57 PM
+BAG:ndksjsbdx add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/13/2023 7:57 PM
+BAG:ndksjsbdx add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/13/2023 7:58 PM
+BAG:ndksjsbdx add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/13/2023 7:58 PM
+BAG:ndksjsbdx add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/13/2023 7:58 PM
+BAG:ndksjsbdx add 42xNgọc Rồng 6 sao (old: 41) lydo: Nhặt từ map at 03/13/2023 7:59 PM
+BAG:ndksjsbdx add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/13/2023 7:59 PM
+BAG:ndksjsbdx add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 03/13/2023 7:59 PM
+BAG:ndksjsbdx add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/13/2023 8:00 PM
+BAG:ndksjsbdx add 43xNgọc Rồng 6 sao (old: 42) lydo: Nhặt từ map at 03/13/2023 8:00 PM
+BAG:ndksjsbdx add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/13/2023 8:00 PM
+BAG:ndksjsbdx add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/13/2023 8:00 PM
+BAG:ndksjsbdx add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/13/2023 8:00 PM
+BAG:ndksjsbdx add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/13/2023 8:00 PM
+BAG:ndksjsbdx add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/13/2023 8:01 PM
+BAG:ndksjsbdx add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/13/2023 8:01 PM
+BAG:ndksjsbdx add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 03/13/2023 8:01 PM
+BAG:ndksjsbdx add 44xNgọc Rồng 6 sao (old: 43) lydo: Nhặt từ map at 03/13/2023 8:01 PM
+BAG:ndksjsbdx add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/13/2023 8:02 PM
+BAG:ndksjsbdx add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/13/2023 8:02 PM
+BAG:ndksjsbdx add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/13/2023 8:03 PM
+BAG:ndksjsbdx add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/13/2023 8:04 PM
+BAG:ndksjsbdx add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/13/2023 8:05 PM
+BAG:ndksjsbdx add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/13/2023 8:05 PM
+BAG:ndksjsbdx add 45xNgọc Rồng 6 sao (old: 44) lydo: Nhặt từ map at 03/13/2023 8:06 PM
+BAG:ndksjsbdx add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 03/13/2023 8:06 PM
+BAG:ndksjsbdx add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/13/2023 8:06 PM
+BAG:ndksjsbdx add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/13/2023 8:06 PM
+BAG:ndksjsbdx add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 03/13/2023 8:07 PM
+BAG:ndksjsbdx add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/13/2023 8:07 PM
+BAG:ndksjsbdx add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/13/2023 8:07 PM
+BAG:ndksjsbdx add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/13/2023 8:07 PM
+BAG:ndksjsbdx add 46xNgọc Rồng 6 sao (old: 45) lydo: Nhặt từ map at 03/13/2023 8:07 PM
+BAG:ndksjsbdx add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/13/2023 8:08 PM
+BAG:ndksjsbdx add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 03/13/2023 8:08 PM
+BAG:ndksjsbdx add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/13/2023 8:08 PM
+BAG:ndksjsbdx add 62xNgọc Rồng 5 sao (old: 61) lydo: Nhặt từ map at 03/13/2023 8:09 PM
+BAG:ndksjsbdx add 63xNgọc Rồng 5 sao (old: 62) lydo: Nhặt từ map at 03/13/2023 8:09 PM
+BAG:ndksjsbdx add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/13/2023 8:09 PM
+BAG:ndksjsbdx add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 03/13/2023 8:09 PM
+BAG:ndksjsbdx add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/13/2023 8:15 PM
+BAG:ndksjsbdx add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/13/2023 8:15 PM
+BAG:ndksjsbdx add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/13/2023 8:15 PM
+BAG:ndksjsbdx add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/13/2023 8:15 PM
+BAG:ndksjsbdx add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/13/2023 8:16 PM
+BAG:ndksjsbdx add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/13/2023 8:16 PM
+BAG:ndksjsbdx add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/13/2023 8:16 PM
+BAG:ndksjsbdx add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/13/2023 8:16 PM
+BAG:ndksjsbdx add 64xNgọc Rồng 5 sao (old: 63) lydo: Nhặt từ map at 03/13/2023 8:16 PM
+BAG:ndksjsbdx add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/13/2023 8:16 PM
+BAG:ndksjsbdx add 47xNgọc Rồng 6 sao (old: 46) lydo: Nhặt từ map at 03/13/2023 8:16 PM
+BAG:ndksjsbdx add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/13/2023 8:16 PM
+BAG:ndksjsbdx add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 03/13/2023 8:17 PM
+BAG:ndksjsbdx add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 03/13/2023 8:17 PM
+BAG:ndksjsbdx add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 03/13/2023 8:17 PM
+BAG:ndksjsbdx add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/13/2023 8:17 PM
+BAG:ndksjsbdx add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/13/2023 8:17 PM
+BAG:ndksjsbdx add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/13/2023 8:17 PM
+BAG:ndksjsbdx add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/13/2023 8:18 PM
+BAG:ndksjsbdx add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/13/2023 8:18 PM
+BAG:ndksjsbdx add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 03/13/2023 8:18 PM
+BAG:ndksjsbdx add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/13/2023 8:18 PM
+BAG:ndksjsbdx add 48xNgọc Rồng 6 sao (old: 47) lydo: Nhặt từ map at 03/13/2023 8:18 PM
+BAG:ndksjsbdx add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 03/13/2023 8:19 PM
+BAG:ndksjsbdx add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/13/2023 8:20 PM
+BAG:ndksjsbdx add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/13/2023 8:20 PM
+BAG:ndksjsbdx add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/13/2023 8:20 PM
+BAG:ndksjsbdx add 65xNgọc Rồng 5 sao (old: 64) lydo: Nhặt từ map at 03/13/2023 8:20 PM
+BAG:ndksjsbdx add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/13/2023 8:20 PM
+BAG:ndksjsbdx add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/13/2023 8:21 PM
+BAG:ndksjsbdx add 66xNgọc Rồng 5 sao (old: 65) lydo: Nhặt từ map at 03/13/2023 8:21 PM
+BAG:ndksjsbdx add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 03/13/2023 8:21 PM
+BAG:ndksjsbdx add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/13/2023 8:22 PM
+BAG:ndksjsbdx add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/13/2023 8:22 PM
+BAG:ndksjsbdx add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/13/2023 8:22 PM
+BAG:ndksjsbdx add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 03/13/2023 8:23 PM
+BAG:ndksjsbdx add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/13/2023 8:24 PM
+BAG:ndksjsbdx add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/13/2023 8:24 PM
+BAG:ndksjsbdx add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/13/2023 8:24 PM
+BAG:ndksjsbdx add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/13/2023 8:24 PM
+BAG:ndksjsbdx add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/13/2023 8:25 PM
+BAG:ndksjsbdx add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/13/2023 8:25 PM
+BAG:ndksjsbdx add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 03/13/2023 8:25 PM
+BAG:ndksjsbdx add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/13/2023 8:25 PM
+BAG:ndksjsbdx add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/13/2023 8:25 PM
+BAG:ndksjsbdx add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/13/2023 8:25 PM
+BAG:ndksjsbdx add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/13/2023 8:25 PM
+BAG:ndksjsbdx add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/13/2023 8:26 PM
+BAG:ndksjsbdx add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 03/13/2023 8:26 PM
+BAG:ndksjsbdx add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/13/2023 8:26 PM
+BAG:ndksjsbdx add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/13/2023 8:26 PM
+BAG:ndksjsbdx add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/13/2023 8:27 PM
+BAG:ndksjsbdx add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 03/13/2023 8:27 PM
+BAG:ndksjsbdx add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/13/2023 8:27 PM
+BAG:ndksjsbdx add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 03/13/2023 8:27 PM
+BAG:ndksjsbdx add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/13/2023 8:27 PM
+BAG:ndksjsbdx add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/13/2023 8:30 PM
+BAG:ndksjsbdx add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/13/2023 8:30 PM
+BAG:ndksjsbdx add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/13/2023 8:32 PM
+BAG:ndksjsbdx add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/13/2023 8:32 PM
+BAG:ndksjsbdx add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/13/2023 8:32 PM
+BAG:ndksjsbdx add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 03/13/2023 8:32 PM
+BAG:ndksjsbdx add 67xNgọc Rồng 5 sao (old: 66) lydo: Nhặt từ map at 03/13/2023 8:32 PM
+BAG:ndksjsbdx add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 03/13/2023 8:33 PM
+BAG:ndksjsbdx add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/13/2023 8:33 PM
+BAG:ndksjsbdx add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 03/13/2023 8:33 PM
+BAG:ndksjsbdx add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 03/13/2023 8:34 PM
+BAG:ndksjsbdx add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 03/13/2023 8:34 PM
+BAG:ndksjsbdx add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhặt từ map at 03/13/2023 8:34 PM
+BAG:ndksjsbdx add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/13/2023 8:34 PM
+BAG:ndksjsbdx add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/13/2023 8:35 PM
+BAG:ndksjsbdx add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/13/2023 8:35 PM
+BAG:ndksjsbdx add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhặt từ map at 03/13/2023 8:35 PM
+BAG:ndksjsbdx add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/13/2023 8:36 PM
+BAG:ndksjsbdx add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/13/2023 8:37 PM
+BAG:ndksjsbdx add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/13/2023 8:37 PM
+BAG:ndksjsbdx add 55xNgọc Rồng 4 sao (old: 54) lydo: Nhặt từ map at 03/13/2023 8:37 PM
+BAG:ndksjsbdx add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/13/2023 8:37 PM
+BAG:ndksjsbdx add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:ndksjsbdx add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:ndksjsbdx add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:ndksjsbdx add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:ndksjsbdx add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:ndksjsbdx add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:ndksjsbdx add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:ndksjsbdx add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:ndksjsbdx add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:ndksjsbdx add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/13/2023 8:38 PM
+BAG:ndksjsbdx add 58xNgọc Rồng 4 sao (old: 57) lydo: Nhặt từ map at 03/13/2023 8:39 PM
+BAG:ndksjsbdx add 59xNgọc Rồng 4 sao (old: 58) lydo: Nhặt từ map at 03/13/2023 8:39 PM
+BAG:ndksjsbdx add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/13/2023 8:40 PM
+BAG:ndksjsbdx add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/13/2023 8:40 PM
+BAG:ndksjsbdx add 49xNgọc Rồng 6 sao (old: 48) lydo: Nhặt từ map at 03/13/2023 8:41 PM
+BAG:ndksjsbdx add 68xNgọc Rồng 5 sao (old: 67) lydo: Nhặt từ map at 03/13/2023 8:41 PM
+BAG:ndksjsbdx add 60xNgọc Rồng 4 sao (old: 59) lydo: Nhặt từ map at 03/13/2023 8:41 PM
+BAG:ndksjsbdx add 61xNgọc Rồng 4 sao (old: 60) lydo: Nhặt từ map at 03/13/2023 8:41 PM
+BAG:ndksjsbdx add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/13/2023 8:41 PM
+BAG:ndksjsbdx add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/13/2023 8:41 PM
+BAG:ndksjsbdx add 50xNgọc Rồng 6 sao (old: 49) lydo: Nhặt từ map at 03/13/2023 8:41 PM
+BAG:ndksjsbdx add 62xNgọc Rồng 4 sao (old: 61) lydo: Nhặt từ map at 03/13/2023 8:41 PM
+BAG:ndksjsbdx add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/13/2023 8:42 PM
+BAG:ndksjsbdx add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/13/2023 8:43 PM
+BAG:ndksjsbdx add 63xNgọc Rồng 4 sao (old: 62) lydo: Nhặt từ map at 03/13/2023 8:43 PM
+BAG:ndksjsbdx add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/13/2023 8:43 PM
+BAG:ndksjsbdx add 64xNgọc Rồng 4 sao (old: 63) lydo: Nhặt từ map at 03/13/2023 8:43 PM
+BAG:ndksjsbdx add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/13/2023 8:44 PM
+BAG:ndksjsbdx add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/13/2023 8:44 PM
+BAG:ndksjsbdx add 65xNgọc Rồng 4 sao (old: 64) lydo: Nhặt từ map at 03/13/2023 8:44 PM
+BAG:ndksjsbdx add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/13/2023 8:47 PM
+BAG:ndksjsbdx add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/13/2023 8:47 PM
+BAG:ndksjsbdx add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/13/2023 8:47 PM
+BAG:ndksjsbdx add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/13/2023 8:48 PM
+BAG:ndksjsbdx add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/13/2023 8:48 PM
+BAG:ndksjsbdx add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/13/2023 8:48 PM
+BAG:ndksjsbdx add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/13/2023 8:49 PM
+BAG:ndksjsbdx add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/13/2023 8:49 PM
+BAG:ndksjsbdx add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/13/2023 8:52 PM
+BAG:ndksjsbdx add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/13/2023 8:52 PM
+BAG:ndksjsbdx add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/13/2023 8:53 PM
+BAG:ndksjsbdx add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/13/2023 8:54 PM
+BAG:ndksjsbdx add 66xNgọc Rồng 4 sao (old: 65) lydo: Nhặt từ map at 03/13/2023 8:54 PM
+BAG:ndksjsbdx add 69xNgọc Rồng 5 sao (old: 68) lydo: Nhặt từ map at 03/13/2023 8:54 PM
+BAG:ndksjsbdx add 67xNgọc Rồng 4 sao (old: 66) lydo: Nhặt từ map at 03/13/2023 8:54 PM
+BAG:ndksjsbdx add 51xNgọc Rồng 6 sao (old: 50) lydo: Nhặt từ map at 03/13/2023 8:55 PM
+BAG:ndksjsbdx add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/13/2023 8:55 PM
+BAG:ndksjsbdx add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/13/2023 8:56 PM
+BAG:ndksjsbdx add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/13/2023 8:56 PM
+BAG:ndksjsbdx add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/13/2023 8:56 PM
+BAG:ndksjsbdx add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/13/2023 8:56 PM
+BAG:ndksjsbdx add 68xNgọc Rồng 4 sao (old: 67) lydo: Nhặt từ map at 03/13/2023 8:57 PM
+BAG:ndksjsbdx add 69xNgọc Rồng 4 sao (old: 68) lydo: Nhặt từ map at 03/13/2023 8:57 PM
+BAG:ndksjsbdx add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/13/2023 8:58 PM
+BAG:ndksjsbdx add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/13/2023 8:58 PM
+BAG:ndksjsbdx add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/13/2023 8:59 PM
+BAG:ndksjsbdx add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/13/2023 8:59 PM
+BAG:ndksjsbdx add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/13/2023 8:59 PM
+BAG:ndksjsbdx add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/13/2023 8:59 PM
+BAG:ndksjsbdx add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/13/2023 9:00 PM
+BAG:ndksjsbdx add 70xNgọc Rồng 4 sao (old: 69) lydo: Nhặt từ map at 03/13/2023 9:00 PM
+BAG:ndksjsbdx add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/13/2023 9:00 PM
+BAG:ndksjsbdx add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/13/2023 9:00 PM
+BAG:ndksjsbdx add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/13/2023 9:01 PM
+BAG:ndksjsbdx add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/13/2023 9:01 PM
+BAG:ndksjsbdx add 71xNgọc Rồng 4 sao (old: 70) lydo: Nhặt từ map at 03/13/2023 9:01 PM
+BAG:ndksjsbdx add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/13/2023 9:01 PM
+BAG:ndksjsbdx add 72xNgọc Rồng 4 sao (old: 71) lydo: Nhặt từ map at 03/13/2023 9:02 PM
+BAG:ndksjsbdx add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/13/2023 9:02 PM
+BAG:ndksjsbdx add 73xNgọc Rồng 4 sao (old: 72) lydo: Nhặt từ map at 03/13/2023 9:02 PM
+BAG:ndksjsbdx add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/13/2023 9:02 PM
+BAG:ndksjsbdx add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/13/2023 9:02 PM
+BAG:ndksjsbdx add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/13/2023 9:02 PM
+BAG:ndksjsbdx add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/13/2023 9:03 PM
+BAG:ndksjsbdx add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/13/2023 9:03 PM
+BAG:ndksjsbdx add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/13/2023 9:03 PM
+BAG:ndksjsbdx add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/13/2023 9:03 PM
+BAG:ndksjsbdx add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/13/2023 9:03 PM
+BAG:ndksjsbdx add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/13/2023 9:03 PM
+BAG:ndksjsbdx add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/13/2023 9:04 PM
+BAG:ndksjsbdx add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/13/2023 9:04 PM
+BAG:ndksjsbdx add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/13/2023 9:04 PM
+BAG:ndksjsbdx add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/13/2023 9:04 PM
+BAG:ndksjsbdx add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/13/2023 9:05 PM
+BAG:ndksjsbdx add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/13/2023 9:06 PM
+BAG:ndksjsbdx add 52xNgọc Rồng 6 sao (old: 51) lydo: Nhặt từ map at 03/13/2023 9:07 PM
+BAG:ndksjsbdx add 70xNgọc Rồng 5 sao (old: 69) lydo: Nhặt từ map at 03/13/2023 9:07 PM
+BAG:ndksjsbdx add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/13/2023 9:07 PM
+BAG:ndksjsbdx add 3xPháo hoa (old: 2) lydo: Nhặt từ map at 03/13/2023 9:12 PM
+BAG:ndksjsbdx add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/13/2023 9:25 PM
+BAG:ndksjsbdx add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/13/2023 9:27 PM
+BAG:ndksjsbdx add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 03/13/2023 9:28 PM
+BAG:ndksjsbdx add 74xNgọc Rồng 4 sao (old: 73) lydo: Nhặt từ map at 03/13/2023 9:28 PM
+BAG:ndksjsbdx add 71xNgọc Rồng 5 sao (old: 70) lydo: Nhặt từ map at 03/13/2023 9:28 PM
+BAG:ndksjsbdx add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/13/2023 9:29 PM
+BAG:ndksjsbdx add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/13/2023 9:29 PM
+BAG:ndksjsbdx add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/13/2023 9:29 PM
+BAG:ndksjsbdx add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/13/2023 9:29 PM
+BAG:ndksjsbdx add 75xNgọc Rồng 4 sao (old: 74) lydo: Nhặt từ map at 03/13/2023 9:30 PM
+BAG:ndksjsbdx add 76xNgọc Rồng 4 sao (old: 75) lydo: Nhặt từ map at 03/13/2023 9:30 PM
+BAG:ndksjsbdx add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/13/2023 9:30 PM
+BAG:ndksjsbdx add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 03/13/2023 9:30 PM
+BAG:ndksjsbdx add 77xNgọc Rồng 4 sao (old: 76) lydo: Nhặt từ map at 03/13/2023 9:30 PM
+BAG:ndksjsbdx add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/13/2023 9:30 PM
+BAG:ndksjsbdx add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/13/2023 9:31 PM
+BAG:ndksjsbdx add 72xNgọc Rồng 5 sao (old: 71) lydo: Nhặt từ map at 03/13/2023 9:31 PM
+BAG:ndksjsbdx add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/13/2023 9:31 PM
+BAG:ndksjsbdx add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 03/13/2023 9:32 PM
+BAG:ndksjsbdx add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/13/2023 9:32 PM
+BAG:ndksjsbdx add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/13/2023 9:33 PM
+BAG:ndksjsbdx add 73xNgọc Rồng 5 sao (old: 72) lydo: Nhặt từ map at 03/13/2023 9:33 PM
+BAG:ndksjsbdx add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/13/2023 9:33 PM
+BAG:ndksjsbdx add 78xNgọc Rồng 4 sao (old: 77) lydo: Nhặt từ map at 03/13/2023 9:33 PM
+BAG:ndksjsbdx add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/13/2023 9:33 PM
+BAG:ndksjsbdx add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/13/2023 9:34 PM
+BAG:ndksjsbdx add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/13/2023 9:34 PM
+BAG:ndksjsbdx add 79xNgọc Rồng 4 sao (old: 78) lydo: Nhặt từ map at 03/13/2023 9:35 PM
+BAG:ndksjsbdx add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 03/13/2023 9:35 PM
+BAG:ndksjsbdx add 80xNgọc Rồng 4 sao (old: 79) lydo: Nhặt từ map at 03/13/2023 9:35 PM
+BAG:ndksjsbdx add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/13/2023 9:36 PM
+BAG:ndksjsbdx add 53xNgọc Rồng 6 sao (old: 52) lydo: Nhặt từ map at 03/13/2023 9:37 PM
+BAG:ndksjsbdx add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 03/13/2023 9:37 PM
+BAG:ndksjsbdx add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/13/2023 9:37 PM
+BAG:ndksjsbdx add 81xNgọc Rồng 4 sao (old: 80) lydo: Nhặt từ map at 03/13/2023 9:37 PM
+BAG:ndksjsbdx add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/13/2023 9:38 PM
+BAG:ndksjsbdx add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/13/2023 9:38 PM
+BAG:ndksjsbdx add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/13/2023 9:39 PM
+BAG:ndksjsbdx add 74xNgọc Rồng 5 sao (old: 73) lydo: Nhặt từ map at 03/13/2023 9:39 PM
+BAG:ndksjsbdx add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/13/2023 9:39 PM
+BAG:ndksjsbdx add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/13/2023 9:39 PM
+BAG:ndksjsbdx add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/13/2023 9:40 PM
+BAG:ndksjsbdx add 82xNgọc Rồng 4 sao (old: 81) lydo: Nhặt từ map at 03/13/2023 9:41 PM
+BAG:ndksjsbdx add 83xNgọc Rồng 4 sao (old: 82) lydo: Nhặt từ map at 03/13/2023 9:41 PM
+BAG:ndksjsbdx add 4xPháo hoa (old: 3) lydo: Nhặt từ map at 03/13/2023 9:47 PM
+BAG:ndksjsbdx add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/13/2023 9:49 PM
+BAG:ndksjsbdx add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 9:59 PM
+BAG:ndksjsbdx add 5xPháo hoa (old: 4) lydo: Nhặt từ map at 03/13/2023 10:05 PM
+BAG:ndksjsbdx add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/13/2023 10:08 PM
+BAG:ndksjsbdx add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 03/13/2023 10:10 PM
+BAG:ndksjsbdx add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/13/2023 10:10 PM
+BAG:ndksjsbdx add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/13/2023 10:12 PM
+BAG:ndksjsbdx add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/13/2023 10:13 PM
+BAG:ndksjsbdx add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/13/2023 10:14 PM
+BAG:ndksjsbdx add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/13/2023 10:15 PM
+BAG:ndksjsbdx add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 10:19 PM
+BAG:ndksjsbdx add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/13/2023 10:24 PM
+BAG:ndksjsbdx add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/13/2023 10:24 PM
+BAG:ndksjsbdx add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:09 PM
+BAG:ndksjsbdx add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:09 PM
+BAG:ndksjsbdx add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/13/2023 11:10 PM
+BAG:ndksjsbdx add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 11:10 PM
+BAG:ndksjsbdx add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 11:10 PM
+BAG:ndksjsbdx add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 11:10 PM
+BAG:ndksjsbdx add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 11:11 PM
+BAG:ndksjsbdx add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 11:11 PM
+BAG:ndksjsbdx add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 11:11 PM
+BAG:ndksjsbdx add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 11:12 PM
+BAG:ndksjsbdx add 1xGiày lưỡng long lydo: Lấy từ body vào hành trang at 03/13/2023 11:12 PM
+BAG:ndksjsbdx add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/13/2023 11:12 PM
+BAG:ndksjsbdx add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/13/2023 11:12 PM
+BAG:ndksjsbdx add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 11:13 PM
+BAG:ndksjsbdx add 1xGăng lưỡng long lydo: Lấy từ body vào hành trang at 03/13/2023 11:19 PM
+BAG:ndksjsbdx add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/13/2023 11:21 PM
+BAG:ndksjsbdx add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 11:56 PM
+BAG:ndksjsbdx add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 11:56 PM
+BAG:ndksjsbdx add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 11:56 PM
+BAG:ndksjsbdx add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 11:56 PM
+BAG:ndksjsbdx add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 11:56 PM
+BAG:ndksjsbdx add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 11:56 PM

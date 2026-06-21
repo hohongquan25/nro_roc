@@ -1,0 +1,416 @@
+BAG:bengoc add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/29/2023 1:41 AM
+BAG:bengoc add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/29/2023 1:41 AM
+BAG:bengoc add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/29/2023 1:41 AM
+BAG:bengoc add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 1:42 AM
+BAG:bengoc add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 1:42 AM
+BAG:bengoc add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 1:42 AM
+BAG:bengoc add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 1:43 AM
+BAG:bengoc add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/29/2023 1:43 AM
+BAG:bengoc add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 1:44 AM
+BAG:bengoc add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 1:45 AM
+BAG:bengoc add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 1:45 AM
+BAG:bengoc add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 1:45 AM
+BAG:bengoc add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 1:46 AM
+BAG:bengoc add 1xQuần sợi len lydo: Nhặt từ map at 03/29/2023 9:17 AM
+BAG:bengoc add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 9:17 AM
+BAG:bengoc add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 9:17 AM
+BAG:bengoc add 33xĐậu thần cấp 10 (old: 13) lydo: Lấy từ rương qua người at 03/29/2023 9:25 AM
+BAG:bengoc add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 9:25 AM
+BAG:bengoc add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 9:26 AM
+BAG:bengoc add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/29/2023 9:26 AM
+BAG:bengoc add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/29/2023 9:27 AM
+BAG:bengoc add 1xMảnh Phi long lydo: Nhặt từ map at 03/29/2023 9:27 AM
+BAG:bengoc add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 9:27 AM
+BAG:bengoc add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 9:27 AM
+BAG:bengoc add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/29/2023 9:27 AM
+BAG:bengoc add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 9:27 AM
+BAG:bengoc add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 9:28 AM
+BAG:bengoc add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 03/29/2023 9:29 AM
+BAG:bengoc add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/29/2023 9:29 AM
+BAG:bengoc add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/29/2023 9:29 AM
+BAG:bengoc add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/29/2023 9:29 AM
+BAG:bengoc add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/29/2023 9:29 AM
+BAG:bengoc add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/29/2023 9:29 AM
+BAG:bengoc add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 03/29/2023 9:29 AM
+BAG:bengoc add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 03/29/2023 9:29 AM
+BAG:bengoc add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 03/29/2023 9:30 AM
+BAG:bengoc add 1xSách học Trị thương lv3 lydo: Mua từ cửa hàng at 03/29/2023 9:30 AM
+BAG:bengoc add 1xSách học Trị thương lv4 lydo: Mua từ cửa hàng at 03/29/2023 9:30 AM
+BAG:bengoc add 1xSách học Trị thương lv5 lydo: Mua từ cửa hàng at 03/29/2023 9:30 AM
+BAG:bengoc add 1xSách học Trị thương lv6 lydo: Mua từ cửa hàng at 03/29/2023 9:30 AM
+BAG:bengoc add 1xSách học Trị thương lv7 lydo: Mua từ cửa hàng at 03/29/2023 9:30 AM
+BAG:bengoc add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/29/2023 9:30 AM
+BAG:bengoc add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/29/2023 9:30 AM
+BAG:bengoc add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/29/2023 9:31 AM
+BAG:bengoc add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/29/2023 9:32 AM
+BAG:bengoc add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/29/2023 9:32 AM
+BAG:bengoc add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/29/2023 9:32 AM
+BAG:bengoc add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/29/2023 9:32 AM
+BAG:bengoc add 10xNgọc Rồng 5 sao lydo: Giftcode at 03/29/2023 9:32 AM
+BAG:bengoc add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/29/2023 9:32 AM
+BAG:bengoc add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/29/2023 9:32 AM
+BAG:bengoc add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/29/2023 9:32 AM
+BAG:bengoc add 25xThỏi vàng lydo: Đổi vàng at 03/29/2023 9:32 AM
+BAG:bengoc add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/29/2023 9:32 AM
+BAG:bengoc add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 9:32 AM
+BAG:bengoc add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/29/2023 9:33 AM
+BAG:bengoc add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 9:34 AM
+BAG:bengoc add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 9:35 AM
+BAG:bengoc add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 9:35 AM
+BAG:bengoc add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/29/2023 9:37 AM
+BAG:bengoc add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 9:38 AM
+BAG:bengoc add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 9:39 AM
+BAG:bengoc add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 9:39 AM
+BAG:bengoc add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 9:39 AM
+BAG:bengoc add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 9:39 AM
+BAG:bengoc add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 9:39 AM
+BAG:bengoc add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 9:39 AM
+BAG:bengoc add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 9:39 AM
+BAG:bengoc add 1xGăng vàng Zealot lydo: Mua từ cửa hàng at 03/29/2023 9:43 AM
+BAG:bengoc add 42xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/29/2023 9:43 AM
+BAG:bengoc add 38xĐậu thần cấp 10 (old: 18) lydo: Lấy từ rương qua người at 03/29/2023 9:44 AM
+BAG:bengoc add 58xĐậu thần cấp 10 (old: 38) lydo: Lấy từ rương qua người at 03/29/2023 9:44 AM
+BAG:bengoc add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/29/2023 9:53 AM
+BAG:bengoc add 1000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/29/2023 9:54 AM
+BAG:bengoc add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/29/2023 9:54 AM
+BAG:bengoc add 1xCT Genma 01 lydo: Mua từ bill at 03/29/2023 9:54 AM
+BAG:bengoc add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/29/2023 9:55 AM
+BAG:bengoc add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/29/2023 9:56 AM
+BAG:bengoc add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 9:57 AM
+BAG:bengoc add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 9:57 AM
+BAG:bengoc add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 9:57 AM
+BAG:bengoc add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 9:57 AM
+BAG:bengoc add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 9:57 AM
+BAG:bengoc add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 9:58 AM
+BAG:bengoc add 1xQuần sợi len lydo: Nhặt từ map at 03/29/2023 9:59 AM
+BAG:bengoc add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/29/2023 9:59 AM
+BAG:bengoc add 1xQuần sợi len lydo: Nhặt từ map at 03/29/2023 10:00 AM
+BAG:bengoc add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 10:00 AM
+BAG:bengoc add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/29/2023 10:00 AM
+BAG:bengoc add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/29/2023 10:01 AM
+BAG:bengoc add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/29/2023 10:01 AM
+BAG:bengoc add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 10:01 AM
+BAG:bengoc add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/29/2023 10:01 AM
+BAG:bengoc add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/29/2023 10:02 AM
+BAG:bengoc add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/29/2023 10:02 AM
+BAG:bengoc add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 10:03 AM
+BAG:bengoc add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/29/2023 10:03 AM
+BAG:bengoc add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 10:03 AM
+BAG:bengoc add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/29/2023 10:04 AM
+BAG:bengoc add 1xGăng sợi len lydo: Nhặt từ map at 03/29/2023 10:04 AM
+BAG:bengoc add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/29/2023 10:04 AM
+BAG:bengoc add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/29/2023 10:04 AM
+BAG:bengoc add 1xÁo sợi len lydo: Nhặt từ map at 03/29/2023 10:04 AM
+BAG:bengoc add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/29/2023 10:04 AM
+BAG:bengoc add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/29/2023 10:05 AM
+BAG:bengoc add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/29/2023 10:05 AM
+BAG:bengoc add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/29/2023 10:05 AM
+BAG:bengoc add 1xGăng sợi len lydo: Nhặt từ map at 03/29/2023 10:06 AM
+BAG:bengoc add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/29/2023 10:06 AM
+BAG:bengoc add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 10:07 AM
+BAG:bengoc add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 10:07 AM
+BAG:bengoc add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 10:07 AM
+BAG:bengoc add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 10:07 AM
+BAG:bengoc add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 10:07 AM
+BAG:bengoc add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 10:07 AM
+BAG:bengoc add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 10:07 AM
+BAG:bengoc add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 10:07 AM
+BAG:bengoc add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 10:08 AM
+BAG:bengoc add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 10:08 AM
+BAG:bengoc add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 10:08 AM
+BAG:bengoc add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 10:08 AM
+BAG:bengoc add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 10:08 AM
+BAG:bengoc add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 10:08 AM
+BAG:bengoc add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 10:08 AM
+BAG:bengoc add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/29/2023 10:08 AM
+BAG:bengoc add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 10:09 AM
+BAG:bengoc add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 10:09 AM
+BAG:bengoc add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 10:09 AM
+BAG:bengoc add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 10:09 AM
+BAG:bengoc add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 10:10 AM
+BAG:bengoc add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/29/2023 10:11 AM
+BAG:bengoc add 1xGăng Thần Namếc lydo: Cường Hóa trang bị at 03/29/2023 10:11 AM
+BAG:bengoc add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 10:12 AM
+BAG:bengoc add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 10:12 AM
+BAG:bengoc add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 10:12 AM
+BAG:bengoc add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 10:12 AM
+BAG:bengoc add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 10:12 AM
+BAG:bengoc add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/29/2023 10:13 AM
+BAG:bengoc add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/29/2023 10:14 AM
+BAG:bengoc add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 10:14 AM
+BAG:bengoc add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 10:14 AM
+BAG:bengoc add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/29/2023 10:15 AM
+BAG:bengoc add 1xGăng Thần Namếc lydo: Cường Hóa trang bị at 03/29/2023 10:15 AM
+BAG:bengoc add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 10:15 AM
+BAG:bengoc add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 10:15 AM
+BAG:bengoc add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 10:15 AM
+BAG:bengoc add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 10:15 AM
+BAG:bengoc add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 10:15 AM
+BAG:bengoc add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 10:15 AM
+BAG:bengoc add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 10:15 AM
+BAG:bengoc add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 10:15 AM
+BAG:bengoc add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/29/2023 10:16 AM
+BAG:bengoc add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/29/2023 10:17 AM
+BAG:bengoc add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/29/2023 10:17 AM
+BAG:bengoc add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/29/2023 10:17 AM
+BAG:bengoc add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/29/2023 10:17 AM
+BAG:bengoc add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 10:18 AM
+BAG:bengoc add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 10:18 AM
+BAG:bengoc add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/29/2023 10:18 AM
+BAG:bengoc add 1xÁo sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 10:18 AM
+BAG:bengoc add 1xÁo vàng Zealot lydo: Cường Hóa trang bị at 03/29/2023 10:19 AM
+BAG:bengoc add 1xQuần vàng Zealot lydo: Cường Hóa trang bị at 03/29/2023 10:19 AM
+BAG:bengoc add 1xGiày vàng Zealot lydo: Cường Hóa trang bị at 03/29/2023 10:19 AM
+BAG:bengoc add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 10:20 AM
+BAG:bengoc add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 10:20 AM
+BAG:bengoc add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 10:20 AM
+BAG:bengoc add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 10:20 AM
+BAG:bengoc add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 10:20 AM
+BAG:bengoc add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 10:20 AM
+BAG:bengoc add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 10:20 AM
+BAG:bengoc add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 10:20 AM
+BAG:bengoc add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 10:20 AM
+BAG:bengoc add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 10:20 AM
+BAG:bengoc add 1xGiầy Thần Namếc lydo: Cường Hóa trang bị at 03/29/2023 10:20 AM
+BAG:bengoc add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 10:21 AM
+BAG:bengoc add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 10:21 AM
+BAG:bengoc add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 10:21 AM
+BAG:bengoc add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 10:21 AM
+BAG:bengoc add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 10:22 AM
+BAG:bengoc add 1xÁo Thần Namếc lydo: Cường Hóa trang bị at 03/29/2023 10:22 AM
+BAG:bengoc add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 10:23 AM
+BAG:bengoc add 1xÁo Thần Namếc lydo: Lấy từ body vào hành trang at 03/29/2023 10:24 AM
+BAG:bengoc add 1xQuần vàng Zealot lydo: Lấy từ body vào hành trang at 03/29/2023 10:24 AM
+BAG:bengoc add 1xGiầy Thần Namếc lydo: Lấy từ body vào hành trang at 03/29/2023 10:24 AM
+BAG:bengoc add 1004xThỏi vàng (old: 4) lydo: Đổi vàng at 03/29/2023 10:30 AM
+BAG:bengoc add 1xÁo Thần Namếc lydo: Lấy từ body đệ vào hành trang at 03/29/2023 10:51 AM
+BAG:bengoc add 1xQuần vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/29/2023 10:51 AM
+BAG:bengoc add 1xGiầy Thần Namếc lydo: Lấy từ body đệ vào hành trang at 03/29/2023 10:51 AM
+BAG:bengoc add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/29/2023 10:53 AM
+BAG:bengoc add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/29/2023 10:54 AM
+BAG:bengoc add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/29/2023 10:54 AM
+BAG:bengoc add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/29/2023 10:55 AM
+BAG:bengoc add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/29/2023 10:56 AM
+BAG:bengoc add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/29/2023 10:56 AM
+BAG:bengoc add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:bengoc add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:bengoc add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:bengoc add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/29/2023 10:58 AM
+BAG:bengoc add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/29/2023 10:59 AM
+BAG:bengoc add 1xGăng sợi len lydo: Nhặt từ map at 03/29/2023 10:59 AM
+BAG:bengoc add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 11:00 AM
+BAG:bengoc add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/29/2023 11:01 AM
+BAG:bengoc add 1xÁo sợi len lydo: Nhặt từ map at 03/29/2023 11:02 AM
+BAG:bengoc add 1xCải trang Black Goku SSJ White lydo: Mua từ cửa hàng at 03/29/2023 2:05 PM
+BAG:bengoc add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/29/2023 2:16 PM
+BAG:bengoc add 1xRada cấp 9 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 2:16 PM
+BAG:bengoc add 1xCải trang Black Goku SSJ White lydo: Lấy từ body đệ vào hành trang at 03/29/2023 2:16 PM
+BAG:bengoc add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 7xNâng cấp kỹ năng 2 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 8xNâng cấp kỹ năng 2 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 9xNâng cấp kỹ năng 2 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 2:19 PM
+BAG:bengoc add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 7xNâng cấp kỹ năng 4 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 8xNâng cấp kỹ năng 4 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/29/2023 2:20 PM
+BAG:bengoc add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 2:20 PM
+BAG:bengoc add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 2:21 PM
+BAG:bengoc add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 2:21 PM
+BAG:bengoc add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 2:21 PM
+BAG:bengoc add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/29/2023 2:21 PM
+BAG:bengoc add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 2:21 PM
+BAG:bengoc add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 2:21 PM
+BAG:bengoc add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 1xGăng Thần Namếc lydo: Cường Hóa trang bị at 03/29/2023 2:22 PM
+BAG:bengoc add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 2:22 PM
+BAG:bengoc add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 2:23 PM
+BAG:bengoc add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 2:23 PM
+BAG:bengoc add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 2:23 PM
+BAG:bengoc add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 2:23 PM
+BAG:bengoc add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 2:23 PM
+BAG:bengoc add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 2:23 PM
+BAG:bengoc add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 2:24 PM
+BAG:bengoc add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 2:24 PM
+BAG:bengoc add 1xGăng Thần Namếc lydo: Lấy từ body vào hành trang at 03/29/2023 3:47 PM
+BAG:bengoc add 1xQuần vàng Zealot lydo: Lấy từ body vào hành trang at 03/29/2023 3:50 PM
+BAG:bengoc add 1xÁo Thần Namếc lydo: Lấy từ body vào hành trang at 03/29/2023 3:50 PM
+BAG:bengoc add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/29/2023 3:51 PM
+BAG:bengoc add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 11:57 PM
+BAG:bengoc add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/29/2023 11:59 PM

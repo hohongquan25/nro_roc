@@ -1,0 +1,160 @@
+BAG:gohan add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/27/2023 10:06 PM
+BAG:gohan add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/27/2023 10:06 PM
+BAG:gohan add 1xĐá Ruby lydo: Nhặt từ map at 03/27/2023 10:09 PM
+BAG:gohan add 1xĐá Titan lydo: Nhặt từ map at 03/27/2023 10:10 PM
+BAG:gohan add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/27/2023 10:13 PM
+BAG:gohan add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/27/2023 10:14 PM
+BAG:gohan add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/27/2023 10:15 PM
+BAG:gohan add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/27/2023 10:16 PM
+BAG:gohan add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 03/27/2023 10:16 PM
+BAG:gohan add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/27/2023 10:16 PM
+BAG:gohan add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 03/27/2023 10:16 PM
+BAG:gohan add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 03/27/2023 10:16 PM
+BAG:gohan add 81xĐậu thần cấp 9 (old: 51) lydo: Mua từ cửa hàng at 03/27/2023 10:16 PM
+BAG:gohan add 12xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/27/2023 10:16 PM
+BAG:gohan add 99xĐậu thần cấp 9 (old: 81) lydo: Mua từ cửa hàng at 03/27/2023 10:16 PM
+BAG:gohan add 42xĐậu thần cấp 9 (old: 12) lydo: Mua từ cửa hàng at 03/27/2023 10:16 PM
+BAG:gohan add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/27/2023 10:16 PM
+BAG:gohan add 1xĐá lục bảo lydo: Nhặt từ map at 03/27/2023 10:17 PM
+BAG:gohan add 25xThỏi vàng lydo: Đổi vàng at 03/27/2023 10:20 PM
+BAG:gohan add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/27/2023 10:21 PM
+BAG:gohan add 1xPhóng lợn lydo: Mua từ cửa hàng at 03/27/2023 10:21 PM
+BAG:gohan add 1xKiếm ánh sáng lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/27/2023 10:22 PM
+BAG:gohan add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/27/2023 10:23 PM
+BAG:gohan add 1xCải trang Trâu vàng lydo: Mua từ bill at 03/27/2023 10:24 PM
+BAG:gohan add 1xCải trang Trâu vàng lydo: Mua từ bill at 03/27/2023 10:24 PM
+BAG:gohan add 1xCải trang Mị Nương lydo: Mua từ bill at 03/27/2023 10:25 PM
+BAG:gohan add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/27/2023 10:31 PM
+BAG:gohan add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/27/2023 10:31 PM
+BAG:gohan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/27/2023 10:32 PM
+BAG:gohan add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/27/2023 10:32 PM
+BAG:gohan add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/27/2023 10:32 PM
+BAG:gohan add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/27/2023 10:32 PM
+BAG:gohan add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/27/2023 10:32 PM
+BAG:gohan add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/27/2023 10:32 PM
+BAG:gohan add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/27/2023 10:32 PM
+BAG:gohan add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/27/2023 10:32 PM
+BAG:gohan add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/27/2023 10:32 PM
+BAG:gohan add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/27/2023 10:33 PM
+BAG:gohan add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/27/2023 10:36 PM
+BAG:gohan add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 9xNâng cấp kỹ năng 1 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 10xNâng cấp kỹ năng 1 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 11xNâng cấp kỹ năng 1 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 12xNâng cấp kỹ năng 1 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 13xNâng cấp kỹ năng 1 đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 14xNâng cấp kỹ năng 1 đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 15xNâng cấp kỹ năng 1 đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 16xNâng cấp kỹ năng 1 đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 17xNâng cấp kỹ năng 1 đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/27/2023 10:37 PM
+BAG:gohan add 5xPháo hoa lydo: Nhặt từ map at 03/27/2023 10:39 PM
+BAG:gohan add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/27/2023 10:39 PM
+BAG:gohan add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/27/2023 10:39 PM
+BAG:gohan add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/27/2023 10:41 PM
+BAG:gohan add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/27/2023 10:43 PM
+BAG:gohan add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/27/2023 10:43 PM
+BAG:gohan add 1xGiày jean Calic lydo: Mua từ cửa hàng at 03/27/2023 10:43 PM
+BAG:gohan add 1xGiày jean Calic lydo: Mua từ cửa hàng at 03/27/2023 10:43 PM
+BAG:gohan add 1xRada cấp 12 lydo: Mua từ cửa hàng at 03/27/2023 10:43 PM
+BAG:gohan add 1xRada cấp 12 lydo: Mua từ cửa hàng at 03/27/2023 10:43 PM
+BAG:gohan add 1xÁo jean Calic lydo: Mua từ cửa hàng at 03/27/2023 10:43 PM
+BAG:gohan add 1xÁo jean Calic lydo: Mua từ cửa hàng at 03/27/2023 10:43 PM
+BAG:gohan add 1xQuần jean Calic lydo: Mua từ cửa hàng at 03/27/2023 10:43 PM
+BAG:gohan add 1xQuần jean Calic lydo: Mua từ cửa hàng at 03/27/2023 10:43 PM
+BAG:gohan add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/27/2023 10:51 PM
+BAG:gohan add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/27/2023 10:51 PM
+BAG:gohan add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/27/2023 10:51 PM
+BAG:gohan add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/27/2023 10:51 PM
+BAG:gohan add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/27/2023 10:51 PM
+BAG:gohan add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/27/2023 10:51 PM
+BAG:gohan add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/27/2023 10:51 PM
+BAG:gohan add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/27/2023 10:51 PM
+BAG:gohan add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/27/2023 10:51 PM
+BAG:gohan add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/27/2023 10:51 PM
+BAG:gohan add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/27/2023 10:51 PM
+BAG:gohan add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/27/2023 10:52 PM
+BAG:gohan add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/27/2023 10:53 PM
+BAG:gohan add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xQuả cầu Kênh Khi lv2 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xQuả cầu Kênh Khi lv3 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xQuả cầu Kênh Khi lv4 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xQuả cầu Kênh Khi lv5 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xQuả cầu Kênh Khi lv6 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xQuả cầu Kênh Khi lv7 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/27/2023 10:54 PM
+BAG:gohan add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/27/2023 10:55 PM
+BAG:gohan add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/27/2023 10:55 PM

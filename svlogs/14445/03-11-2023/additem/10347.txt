@@ -1,0 +1,313 @@
+BAG:nroskill add 20xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 4:14 PM
+BAG:nroskill add 40xĐậu thần cấp 10 (old: 20) lydo: Lấy từ rương qua người at 03/11/2023 4:14 PM
+BAG:nroskill add 60xĐậu thần cấp 10 (old: 40) lydo: Lấy từ rương qua người at 03/11/2023 4:14 PM
+BAG:nroskill add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 4:16 PM
+BAG:nroskill add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 4:19 PM
+BAG:nroskill add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 4:20 PM
+BAG:nroskill add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:20 PM
+BAG:nroskill add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/11/2023 4:21 PM
+BAG:nroskill add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 4:22 PM
+BAG:nroskill add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 4:23 PM
+BAG:nroskill add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 4:23 PM
+BAG:nroskill add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 4:23 PM
+BAG:nroskill add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 4:24 PM
+BAG:nroskill add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 4:24 PM
+BAG:nroskill add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 4:24 PM
+BAG:nroskill add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 4:24 PM
+BAG:nroskill add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 4:24 PM
+BAG:nroskill add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 4:25 PM
+BAG:nroskill add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/11/2023 4:25 PM
+BAG:nroskill add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 4:25 PM
+BAG:nroskill add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 4:26 PM
+BAG:nroskill add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/11/2023 4:27 PM
+BAG:nroskill add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/11/2023 4:27 PM
+BAG:nroskill add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 4:27 PM
+BAG:nroskill add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 4:28 PM
+BAG:nroskill add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 4:28 PM
+BAG:nroskill add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 4:28 PM
+BAG:nroskill add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 4:28 PM
+BAG:nroskill add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 4:28 PM
+BAG:nroskill add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 4:29 PM
+BAG:nroskill add 50xThỏi vàng lydo: Giftcode at 03/11/2023 4:30 PM
+BAG:nroskill add 10xSao pha lê lydo: Giftcode at 03/11/2023 4:30 PM
+BAG:nroskill add 10xSao pha lê lydo: Giftcode at 03/11/2023 4:30 PM
+BAG:nroskill add 10xSao pha lê lydo: Giftcode at 03/11/2023 4:30 PM
+BAG:nroskill add 1xCải trang Hit lydo: Giftcode at 03/11/2023 4:30 PM
+BAG:nroskill add 10xCuồng nộ lydo: Giftcode at 03/11/2023 4:31 PM
+BAG:nroskill add 10xBổ huyết lydo: Giftcode at 03/11/2023 4:31 PM
+BAG:nroskill add 10xBổ khí lydo: Giftcode at 03/11/2023 4:31 PM
+BAG:nroskill add 10xGiáp Xên bọ hung lydo: Giftcode at 03/11/2023 4:31 PM
+BAG:nroskill add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/11/2023 4:32 PM
+BAG:nroskill add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/11/2023 4:33 PM
+BAG:nroskill add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:34 PM
+BAG:nroskill add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:34 PM
+BAG:nroskill add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:34 PM
+BAG:nroskill add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:34 PM
+BAG:nroskill add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:34 PM
+BAG:nroskill add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 4:34 PM
+BAG:nroskill add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 4:38 PM
+BAG:nroskill add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 4:38 PM
+BAG:nroskill add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 4:39 PM
+BAG:nroskill add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 4:39 PM
+BAG:nroskill add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/11/2023 4:39 PM
+BAG:nroskill add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 4:39 PM
+BAG:nroskill add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 4:39 PM
+BAG:nroskill add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 4:39 PM
+BAG:nroskill add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/11/2023 4:40 PM
+BAG:nroskill add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 4:40 PM
+BAG:nroskill add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 4:40 PM
+BAG:nroskill add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 4:51 PM
+BAG:nroskill add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 4:52 PM
+BAG:nroskill add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:52 PM
+BAG:nroskill add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/11/2023 4:52 PM
+BAG:nroskill add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 4:52 PM
+BAG:nroskill add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 4:52 PM
+BAG:nroskill add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 4:52 PM
+BAG:nroskill add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 4:52 PM
+BAG:nroskill add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 4:52 PM
+BAG:nroskill add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/11/2023 4:53 PM
+BAG:nroskill add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/11/2023 4:53 PM
+BAG:nroskill add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xSách Antomic lv5 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xSách Antomic lv6 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xSách Antomic lv7 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:nroskill add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 03/11/2023 4:55 PM
+BAG:nroskill add 1xCột nhà lydo: Mua từ cửa hàng at 03/11/2023 4:55 PM
+BAG:nroskill add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 4:55 PM
+BAG:nroskill add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 4:55 PM
+BAG:nroskill add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 4:55 PM
+BAG:nroskill add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 4:56 PM
+BAG:nroskill add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/11/2023 4:56 PM
+BAG:nroskill add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:56 PM
+BAG:nroskill add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:56 PM
+BAG:nroskill add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:56 PM
+BAG:nroskill add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:56 PM
+BAG:nroskill add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 4:56 PM
+BAG:nroskill add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 03/11/2023 4:58 PM
+BAG:nroskill add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/11/2023 5:00 PM
+BAG:nroskill add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 5:00 PM
+BAG:nroskill add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 5:03 PM
+BAG:nroskill add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 5:04 PM
+BAG:nroskill add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 5:05 PM
+BAG:nroskill add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 5:06 PM
+BAG:nroskill add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 5:06 PM
+BAG:nroskill add 1xCải trang Hit lydo: Lấy từ body vào hành trang at 03/11/2023 5:07 PM
+BAG:nroskill add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 5:13 PM
+BAG:nroskill add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 5:14 PM
+BAG:nroskill add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 5:14 PM
+BAG:nroskill add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/11/2023 5:15 PM
+BAG:nroskill add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 5:15 PM
+BAG:nroskill add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 5:17 PM
+BAG:nroskill add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/11/2023 5:20 PM
+BAG:nroskill add 10xSao pha lê lydo: Lấy từ rương qua người at 03/11/2023 5:20 PM
+BAG:nroskill add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 5:20 PM
+BAG:nroskill add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 5:21 PM
+BAG:nroskill add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 5:23 PM
+BAG:nroskill add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/11/2023 5:23 PM
+BAG:nroskill add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/11/2023 5:23 PM
+BAG:nroskill add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/11/2023 5:23 PM
+BAG:nroskill add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/11/2023 5:24 PM
+BAG:nroskill add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/11/2023 5:25 PM
+BAG:nroskill add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 5:53 PM
+BAG:nroskill add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/11/2023 5:55 PM
+BAG:nroskill add 49xPháo hoa (old: 44) lydo: Nhặt từ map at 03/11/2023 5:55 PM
+BAG:nroskill add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/11/2023 5:55 PM
+BAG:nroskill add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 5:55 PM
+BAG:nroskill add 1xCuồng nộ lydo: HQT at 03/11/2023 5:55 PM
+BAG:nroskill add 49xPháo hoa (old: 44) lydo: Nhặt từ map at 03/11/2023 5:55 PM
+BAG:nroskill add 1xGiáp Xên bọ hung lydo: HQT at 03/11/2023 5:55 PM
+BAG:nroskill add 2xCuồng nộ (old: 1) lydo: HQT at 03/11/2023 5:56 PM
+BAG:nroskill add 1xBổ khí lydo: HQT at 03/11/2023 5:56 PM
+BAG:nroskill add 2xBổ khí (old: 1) lydo: HQT at 03/11/2023 5:56 PM
+BAG:nroskill add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/11/2023 5:56 PM
+BAG:nroskill add 65xThỏi vàng (old: 40) lydo: Đổi vàng at 03/11/2023 6:24 PM
+BAG:nroskill add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 6:24 PM
+BAG:nroskill add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 6:24 PM
+BAG:nroskill add 600xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/11/2023 6:24 PM
+BAG:nroskill add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:nroskill add 41xPháo hoa (old: 36) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:nroskill add 46xPháo hoa (old: 41) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:nroskill add 315xThỏi vàng (old: 65) lydo: Đổi vàng at 03/11/2023 6:27 PM
+BAG:nroskill add 51xPháo hoa (old: 46) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:nroskill add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:nroskill add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/11/2023 6:28 PM
+BAG:nroskill add 1xMèo mun lydo: Mua từ bill at 03/11/2023 6:28 PM
+BAG:nroskill add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:nroskill add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:nroskill add 1xBó Hoa Hồng lydo: Mua từ bill at 03/11/2023 6:30 PM
+BAG:nroskill add 56xPháo hoa (old: 51) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:nroskill add 60xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/11/2023 6:31 PM
+BAG:nroskill add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:nroskill add 61xPháo hoa (old: 56) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:nroskill add 60xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/11/2023 6:33 PM
+BAG:nroskill add 321xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/11/2023 6:33 PM
+BAG:nroskill add 99xĐá ngũ sắc (old: 60) lydo: Lấy từ rương qua người at 03/11/2023 6:33 PM
+BAG:nroskill add 99xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/11/2023 6:33 PM
+BAG:nroskill add 321xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/11/2023 6:34 PM
+BAG:nroskill add 66xPháo hoa (old: 61) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:nroskill add 71xPháo hoa (old: 66) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:nroskill add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 6:35 PM
+BAG:nroskill add 1xCải trang Siêu Thần Xayda lydo: Mua từ bill at 03/11/2023 6:35 PM
+BAG:nroskill add 1xNezuko lydo: Mua từ bill at 03/11/2023 6:37 PM
+BAG:nroskill add 1xNgọc Rồng 5 sao lydo: HQT at 03/11/2023 6:37 PM
+BAG:nroskill add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/11/2023 6:37 PM
+BAG:nroskill add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 6:37 PM
+BAG:nroskill add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/11/2023 6:37 PM
+BAG:nroskill add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/11/2023 6:37 PM
+BAG:nroskill add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 6:37 PM
+BAG:nroskill add 1xNgọc Rồng 5 sao lydo: HQT at 03/11/2023 6:37 PM
+BAG:nroskill add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/11/2023 6:38 PM
+BAG:nroskill add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/11/2023 6:38 PM
+BAG:nroskill add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/11/2023 6:38 PM
+BAG:nroskill add 80xĐậu thần cấp 10 (old: 60) lydo: Lấy từ rương qua người at 03/11/2023 6:39 PM
+BAG:nroskill add 1xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 6:39 PM
+BAG:nroskill add 99xĐậu thần cấp 10 (old: 80) lydo: Lấy từ rương qua người at 03/11/2023 6:39 PM
+BAG:nroskill add 1xBổ huyết lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 1xGiáp Xên bọ hung lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 1xCuồng nộ lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 1xNgọc Rồng 5 sao lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 1xBổ khí lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 1xNgọc Rồng 6 sao lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 2xBổ khí (old: 1) lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/11/2023 6:40 PM
+BAG:nroskill add 2xCuồng nộ (old: 1) lydo: HQT at 03/11/2023 6:41 PM
+BAG:nroskill add 2xBổ huyết (old: 1) lydo: HQT at 03/11/2023 6:41 PM
+BAG:nroskill add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/11/2023 6:41 PM
+BAG:nroskill add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 6:41 PM
+BAG:nroskill add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/11/2023 6:41 PM
+BAG:nroskill add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/11/2023 6:41 PM
+BAG:nroskill add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/11/2023 6:41 PM
+BAG:nroskill add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:41 PM
+BAG:nroskill add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:nroskill add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 6:45 PM
+BAG:nroskill add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:nroskill add 99xThỏi vàng lydo: Tách thỏi vàng at 03/11/2023 6:48 PM
+BAG:nroskill add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 6:53 PM
+BAG:nroskill add 290xThỏi vàng (old: 200) lydo: Lấy từ rương qua người at 03/11/2023 6:55 PM
+BAG:nroskill add 1xCánh thiên thần 2 lydo: Lấy từ rương qua người at 03/11/2023 6:55 PM
+BAG:nroskill add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:nroskill add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:nroskill add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:nroskill add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 7:04 PM
+BAG:nroskill add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:nroskill add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:nroskill add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:nroskill add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:nroskill add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:nroskill add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:nroskill add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:nroskill add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:nroskill add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:nroskill add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:nroskill add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:nroskill add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:nroskill add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:nroskill add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:nroskill add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:nroskill add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:nroskill add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:nroskill add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:nroskill add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:nroskill add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:nroskill add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:nroskill add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:nroskill add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:nroskill add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:nroskill add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:nroskill add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:nroskill add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:nroskill add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:nroskill add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:nroskill add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 7:59 PM
+BAG:nroskill add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 8:00 PM
+BAG:nroskill add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 8:01 PM
+BAG:nroskill add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 8:01 PM
+BAG:nroskill add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 8:04 PM
+BAG:nroskill add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 8:04 PM
+BAG:nroskill add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 8:06 PM
+BAG:nroskill add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 8:10 PM
+BAG:nroskill add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 8:12 PM
+BAG:nroskill add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/11/2023 8:13 PM
+BAG:nroskill add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 8:13 PM
+BAG:nroskill add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:nroskill add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:nroskill add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/11/2023 8:16 PM
+BAG:nroskill add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/11/2023 8:17 PM
+BAG:nroskill add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 8:17 PM
+BAG:nroskill add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 8:17 PM
+BAG:nroskill add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:nroskill add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/11/2023 8:19 PM
+BAG:nroskill add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/11/2023 8:19 PM
+BAG:nroskill add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/11/2023 8:19 PM
+BAG:nroskill add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/11/2023 8:19 PM
+BAG:nroskill add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:nroskill add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:nroskill add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:nroskill add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 8:22 PM
+BAG:nroskill add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 8:22 PM
+BAG:nroskill add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/11/2023 8:23 PM
+BAG:nroskill add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:nroskill add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:nroskill add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:nroskill add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:nroskill add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 8:30 PM
+BAG:nroskill add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/11/2023 8:31 PM
+BAG:nroskill add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/11/2023 8:31 PM
+BAG:nroskill add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:nroskill add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:nroskill add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:nroskill add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:nroskill add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:nroskill add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:nroskill add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/11/2023 8:43 PM
+BAG:nroskill add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:46 PM
+BAG:nroskill add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:46 PM
+BAG:nroskill add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:46 PM
+BAG:nroskill add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:46 PM
+BAG:nroskill add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/11/2023 8:46 PM
+BAG:nroskill add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:46 PM
+BAG:nroskill add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:46 PM
+BAG:nroskill add 1xNezuko lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:46 PM
+BAG:nroskill add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/11/2023 8:47 PM
+BAG:nroskill add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/11/2023 8:47 PM
+BAG:nroskill add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:48 PM
+BAG:nroskill add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/11/2023 8:48 PM
+BAG:nroskill add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:48 PM
+BAG:nroskill add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:48 PM
+BAG:nroskill add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/11/2023 8:48 PM

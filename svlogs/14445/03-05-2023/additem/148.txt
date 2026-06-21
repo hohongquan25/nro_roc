@@ -1,0 +1,233 @@
+BAG:baomy add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/05/2023 6:43 PM
+BAG:baomy add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/05/2023 6:53 PM
+BAG:baomy add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 6:58 PM
+BAG:baomy add 6xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 03/05/2023 7:00 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:baomy add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:baomy add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:baomy add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/05/2023 9:45 PM
+BAG:baomy add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/05/2023 9:45 PM
+BAG:baomy add 1xÁo giáp bạc lydo: Mua từ cửa hàng at 03/05/2023 9:45 PM
+BAG:baomy add 1xGăng đồng lydo: Mua từ cửa hàng at 03/05/2023 9:46 PM
+BAG:baomy add 1xGiày vàng lydo: Mua từ cửa hàng at 03/05/2023 9:46 PM
+BAG:baomy add 1xRada cấp 5 lydo: Mua từ cửa hàng at 03/05/2023 9:46 PM
+BAG:baomy add 1xQuần giáp bạc lydo: Mua từ cửa hàng at 03/05/2023 9:46 PM
+BAG:baomy add 6xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/05/2023 9:48 PM
+BAG:baomy add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:baomy add 50xThỏi vàng lydo: Giftcode at 03/05/2023 9:51 PM
+BAG:baomy add 10xSao pha lê lydo: Giftcode at 03/05/2023 9:51 PM
+BAG:baomy add 10xSao pha lê lydo: Giftcode at 03/05/2023 9:51 PM
+BAG:baomy add 10xSao pha lê lydo: Giftcode at 03/05/2023 9:51 PM
+BAG:baomy add 1xCải trang Hit lydo: Giftcode at 03/05/2023 9:51 PM
+BAG:baomy add 10xCuồng nộ lydo: Giftcode at 03/05/2023 9:52 PM
+BAG:baomy add 10xBổ huyết lydo: Giftcode at 03/05/2023 9:52 PM
+BAG:baomy add 10xBổ khí lydo: Giftcode at 03/05/2023 9:52 PM
+BAG:baomy add 10xGiáp Xên bọ hung lydo: Giftcode at 03/05/2023 9:52 PM
+BAG:baomy add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/05/2023 9:53 PM
+BAG:baomy add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 9:53 PM
+BAG:baomy add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 9:53 PM
+BAG:baomy add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/05/2023 9:57 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:58 PM
+BAG:baomy add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/05/2023 9:59 PM
+BAG:baomy add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 9:59 PM
+BAG:baomy add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 9:59 PM
+BAG:baomy add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/05/2023 9:59 PM
+BAG:baomy add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/05/2023 10:00 PM
+BAG:baomy add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:00 PM
+BAG:baomy add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:00 PM
+BAG:baomy add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/05/2023 10:03 PM
+BAG:baomy add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 03/05/2023 10:05 PM
+BAG:baomy add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 03/05/2023 10:05 PM
+BAG:baomy add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 03/05/2023 10:05 PM
+BAG:baomy add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 03/05/2023 10:05 PM
+BAG:baomy add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 03/05/2023 10:05 PM
+BAG:baomy add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 03/05/2023 10:05 PM
+BAG:baomy add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 03/05/2023 10:05 PM
+BAG:baomy add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/05/2023 10:05 PM
+BAG:baomy add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/05/2023 10:06 PM
+BAG:baomy add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 10:06 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 10:09 PM
+BAG:baomy add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/05/2023 10:10 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 10:10 PM
+BAG:baomy add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 10:11 PM
+BAG:baomy add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 10:11 PM
+BAG:baomy add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/05/2023 10:11 PM
+BAG:baomy add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:12 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 10:12 PM
+BAG:baomy add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 10:13 PM
+BAG:baomy add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/05/2023 10:13 PM
+BAG:baomy add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/05/2023 10:13 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 10:13 PM
+BAG:baomy add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/05/2023 10:13 PM
+BAG:baomy add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/05/2023 10:13 PM
+BAG:baomy add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/05/2023 10:14 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:14 PM
+BAG:baomy add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/05/2023 10:15 PM
+BAG:baomy add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 10:17 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 10:17 PM
+BAG:baomy add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 10:17 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 10:17 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:18 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 10:18 PM
+BAG:baomy add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/05/2023 10:18 PM
+BAG:baomy add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/05/2023 10:19 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 10:19 PM
+BAG:baomy add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:19 PM
+BAG:baomy add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:19 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:19 PM
+BAG:baomy add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:19 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 10:20 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:20 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 10:20 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:31 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:31 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:32 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:32 PM
+BAG:baomy add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:34 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:34 PM
+BAG:baomy add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 10:34 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 10:34 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 10:35 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:35 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:35 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 10:36 PM
+BAG:baomy add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 10:36 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:36 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:37 PM
+BAG:baomy add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/05/2023 10:37 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:37 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 10:38 PM
+BAG:baomy add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 10:39 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:39 PM
+BAG:baomy add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 10:39 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 10:39 PM
+BAG:baomy add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 10:40 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 10:40 PM
+BAG:baomy add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 10:40 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:40 PM
+BAG:baomy add 1xGăng vải thô lydo: Nhặt từ map at 03/05/2023 10:40 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:41 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 10:42 PM
+BAG:baomy add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/05/2023 10:43 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 10:45 PM
+BAG:baomy add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/05/2023 10:45 PM
+BAG:baomy add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/05/2023 10:45 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:45 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 10:46 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:46 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:46 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:46 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 10:47 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:47 PM
+BAG:baomy add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/05/2023 10:47 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 10:48 PM
+BAG:baomy add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:48 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 10:49 PM
+BAG:baomy add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 10:49 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 10:49 PM
+BAG:baomy add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/05/2023 10:49 PM
+BAG:baomy add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 10:50 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 10:50 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 10:50 PM
+BAG:baomy add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:50 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 10:50 PM
+BAG:baomy add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/05/2023 10:51 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:51 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:51 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:51 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 10:52 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:52 PM
+BAG:baomy add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:52 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 10:53 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:53 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 10:53 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:53 PM
+BAG:baomy add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 10:53 PM
+BAG:baomy add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 10:54 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:54 PM
+BAG:baomy add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 10:54 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 10:54 PM
+BAG:baomy add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 10:54 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:54 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 10:55 PM
+BAG:baomy add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 10:55 PM
+BAG:baomy add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 10:55 PM
+BAG:baomy add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:55 PM
+BAG:baomy add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/05/2023 10:56 PM
+BAG:baomy add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 10:56 PM
+BAG:baomy add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 10:56 PM
+BAG:baomy add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 10:56 PM
+BAG:baomy add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 10:56 PM
+BAG:baomy add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 10:56 PM
+BAG:baomy add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/05/2023 10:56 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 10:59 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 11:00 PM
+BAG:baomy add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 11:02 PM
+BAG:baomy add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/05/2023 11:06 PM
+BAG:baomy add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 11:07 PM
+BAG:baomy add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/05/2023 11:09 PM
+BAG:baomy add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/05/2023 11:09 PM
+BAG:baomy add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/05/2023 11:09 PM
+BAG:baomy add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/05/2023 11:09 PM
+BAG:baomy add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/05/2023 11:09 PM
+BAG:baomy add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/05/2023 11:09 PM
+BAG:baomy add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/05/2023 11:09 PM
+BAG:baomy add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/05/2023 11:09 PM
+BAG:baomy add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/05/2023 11:09 PM
+BAG:baomy add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/05/2023 11:10 PM
+BAG:baomy add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/05/2023 11:10 PM
+BAG:baomy add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/05/2023 11:10 PM
+BAG:baomy add 9xCuồng nộ lydo: Lấy từ rương qua người at 03/05/2023 11:11 PM
+BAG:baomy add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/05/2023 11:11 PM
+BAG:baomy add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/05/2023 11:13 PM
+BAG:baomy add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/05/2023 11:14 PM
+BAG:baomy add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/05/2023 11:15 PM
+BAG:baomy add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/05/2023 11:15 PM
+BAG:baomy add 1xBột mì lydo: Nhặt từ map at 03/05/2023 11:15 PM
+BAG:baomy add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:baomy add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/05/2023 11:16 PM
+BAG:baomy add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 11:17 PM
+BAG:baomy add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/05/2023 11:18 PM
+BAG:baomy add 8xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/05/2023 11:19 PM
+BAG:baomy add 10xĐậu thần cấp 10 (old: 8) lydo: Thu hoạch đậu at 03/05/2023 11:19 PM
+BAG:baomy add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/05/2023 11:19 PM
+BAG:baomy add 9xBổ huyết lydo: Lấy từ rương qua người at 03/05/2023 11:19 PM
+BAG:baomy add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/05/2023 11:21 PM
+BAG:baomy add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:baomy add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:baomy add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:baomy add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:baomy add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/05/2023 11:30 PM
+BAG:baomy add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/05/2023 11:31 PM
+BAG:baomy add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/05/2023 11:31 PM
+BAG:baomy add 1xBột mì lydo: Nhặt từ map at 03/05/2023 11:34 PM
+BAG:baomy add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/05/2023 11:34 PM
+BAG:baomy add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/05/2023 11:35 PM
+BAG:baomy add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/05/2023 11:35 PM
+BAG:baomy add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/05/2023 11:37 PM
+BAG:baomy add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/05/2023 11:38 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:baomy add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:baomy add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 11:40 PM
+BAG:baomy add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xSách Huýt Sáo lv1 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xSách Huýt Sáo lv2 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xSách Huýt Sáo lv3 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xSách Huýt Sáo lv5 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xSách Huýt Sáo lv6 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xSách Huýt Sáo lv4 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 1xSách Huýt Sáo lv7 lydo: Mua từ cửa hàng at 03/05/2023 11:43 PM
+BAG:baomy add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/05/2023 11:44 PM
+BAG:baomy add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/05/2023 11:48 PM
+BAG:baomy add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/05/2023 11:49 PM

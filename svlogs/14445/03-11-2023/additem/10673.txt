@@ -1,0 +1,239 @@
+BAG:datnro add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 7:07 PM
+BAG:datnro add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:datnro add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:datnro add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:datnro add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:datnro add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:datnro add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:datnro add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:datnro add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 03/11/2023 7:17 PM
+BAG:datnro add 10xĐậu thần cấp 3 (old: 9) lydo: Thu hoạch đậu at 03/11/2023 7:17 PM
+BAG:datnro add 18xĐậu thần cấp 3 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 7:17 PM
+BAG:datnro add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:datnro add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:datnro add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 7:21 PM
+BAG:datnro add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/11/2023 7:22 PM
+BAG:datnro add 1xMảnh Quỷ đất mẹ lydo: Lấy từ rương qua người at 03/11/2023 7:22 PM
+BAG:datnro add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 7:24 PM
+BAG:datnro add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 7:25 PM
+BAG:datnro add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 7:25 PM
+BAG:datnro add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/11/2023 7:25 PM
+BAG:datnro add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/11/2023 7:25 PM
+BAG:datnro add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 7:25 PM
+BAG:datnro add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/11/2023 7:25 PM
+BAG:datnro add 31xĐậu thần cấp 10 (old: 11) lydo: Lấy từ rương qua người at 03/11/2023 7:25 PM
+BAG:datnro add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 8:08 PM
+BAG:datnro add 1xCột nhà lydo: Mua từ cửa hàng at 03/11/2023 8:09 PM
+BAG:datnro add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/11/2023 8:11 PM
+BAG:datnro add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 8:16 PM
+BAG:datnro add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 8:21 PM
+BAG:datnro add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 8:27 PM
+BAG:datnro add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 8:28 PM
+BAG:datnro add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 8:30 PM
+BAG:datnro add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:35 PM
+BAG:datnro add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:35 PM
+BAG:datnro add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:35 PM
+BAG:datnro add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 8:35 PM
+BAG:datnro add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 8:35 PM
+BAG:datnro add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 8:35 PM
+BAG:datnro add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/11/2023 8:36 PM
+BAG:datnro add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 8:39 PM
+BAG:datnro add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:datnro add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 8:47 PM
+BAG:datnro add 1xCuồng nộ lydo: HQT at 03/11/2023 8:47 PM
+BAG:datnro add 1xBổ khí lydo: HQT at 03/11/2023 8:47 PM
+BAG:datnro add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 8:50 PM
+BAG:datnro add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 8:50 PM
+BAG:datnro add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 8:50 PM
+BAG:datnro add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 8:50 PM
+BAG:datnro add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 8:52 PM
+BAG:datnro add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 8:52 PM
+BAG:datnro add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 8:53 PM
+BAG:datnro add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 8:54 PM
+BAG:datnro add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 8:54 PM
+BAG:datnro add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 03/11/2023 8:55 PM
+BAG:datnro add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 8:56 PM
+BAG:datnro add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 8:56 PM
+BAG:datnro add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 8:56 PM
+BAG:datnro add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 8:56 PM
+BAG:datnro add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 8:58 PM
+BAG:datnro add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 8:58 PM
+BAG:datnro add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 8:58 PM
+BAG:datnro add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 8:58 PM
+BAG:datnro add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/11/2023 8:59 PM
+BAG:datnro add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 9:00 PM
+BAG:datnro add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 9:00 PM
+BAG:datnro add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/11/2023 9:00 PM
+BAG:datnro add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 9:01 PM
+BAG:datnro add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:02 PM
+BAG:datnro add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/11/2023 9:02 PM
+BAG:datnro add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/11/2023 9:02 PM
+BAG:datnro add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/11/2023 9:02 PM
+BAG:datnro add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/11/2023 9:02 PM
+BAG:datnro add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/11/2023 9:02 PM
+BAG:datnro add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 9:03 PM
+BAG:datnro add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 9:03 PM
+BAG:datnro add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/11/2023 9:03 PM
+BAG:datnro add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 9:03 PM
+BAG:datnro add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 9:04 PM
+BAG:datnro add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/11/2023 9:04 PM
+BAG:datnro add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 9:05 PM
+BAG:datnro add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:05 PM
+BAG:datnro add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 9:05 PM
+BAG:datnro add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 9:06 PM
+BAG:datnro add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 9:08 PM
+BAG:datnro add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 9:09 PM
+BAG:datnro add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 9:09 PM
+BAG:datnro add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:datnro add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:datnro add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 9:11 PM
+BAG:datnro add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 9:12 PM
+BAG:datnro add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 9:12 PM
+BAG:datnro add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 9:14 PM
+BAG:datnro add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 9:14 PM
+BAG:datnro add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 9:15 PM
+BAG:datnro add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/11/2023 9:15 PM
+BAG:datnro add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 9:15 PM
+BAG:datnro add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/11/2023 9:15 PM
+BAG:datnro add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/11/2023 9:16 PM
+BAG:datnro add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 9:17 PM
+BAG:datnro add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:datnro add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:datnro add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:datnro add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 9:19 PM
+BAG:datnro add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 9:19 PM
+BAG:datnro add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 9:20 PM
+BAG:datnro add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 9:30 PM
+BAG:datnro add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 9:30 PM
+BAG:datnro add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 9:30 PM
+BAG:datnro add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 9:31 PM
+BAG:datnro add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:31 PM
+BAG:datnro add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:datnro add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:datnro add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:datnro add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/11/2023 9:34 PM
+BAG:datnro add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 9:35 PM
+BAG:datnro add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 9:35 PM
+BAG:datnro add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 9:36 PM
+BAG:datnro add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 9:38 PM
+BAG:datnro add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 9:42 PM
+BAG:datnro add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 9:45 PM
+BAG:datnro add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 9:45 PM
+BAG:datnro add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 9:46 PM
+BAG:datnro add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 9:47 PM
+BAG:datnro add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 9:49 PM
+BAG:datnro add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 9:54 PM
+BAG:datnro add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 9:54 PM
+BAG:datnro add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 9:55 PM
+BAG:datnro add 1xBổ huyết lydo: HQT at 03/11/2023 9:55 PM
+BAG:datnro add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/11/2023 9:56 PM
+BAG:datnro add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/11/2023 9:56 PM
+BAG:datnro add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/11/2023 9:56 PM
+BAG:datnro add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 9:56 PM
+BAG:datnro add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/11/2023 9:58 PM
+BAG:datnro add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 9:58 PM
+BAG:datnro add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/11/2023 9:59 PM
+BAG:datnro add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/11/2023 9:59 PM
+BAG:datnro add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 10:00 PM
+BAG:datnro add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/11/2023 10:00 PM
+BAG:datnro add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/11/2023 10:01 PM
+BAG:datnro add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 10:02 PM
+BAG:datnro add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/11/2023 10:03 PM
+BAG:datnro add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 10:04 PM
+BAG:datnro add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 10:04 PM
+BAG:datnro add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/11/2023 10:06 PM
+BAG:datnro add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 10:07 PM
+BAG:datnro add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/11/2023 10:08 PM
+BAG:datnro add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 10:10 PM
+BAG:datnro add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 10:10 PM
+BAG:datnro add 50xPháo hoa (old: 45) lydo: Nhặt từ map at 03/11/2023 10:10 PM
+BAG:datnro add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 10:11 PM
+BAG:datnro add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 10:11 PM
+BAG:datnro add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 10:12 PM
+BAG:datnro add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 10:12 PM
+BAG:datnro add 55xPháo hoa (old: 50) lydo: Nhặt từ map at 03/11/2023 10:15 PM
+BAG:datnro add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 10:15 PM
+BAG:datnro add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 10:15 PM
+BAG:datnro add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 10:15 PM
+BAG:datnro add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 10:16 PM
+BAG:datnro add 60xPháo hoa (old: 55) lydo: Nhặt từ map at 03/11/2023 10:16 PM
+BAG:datnro add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 10:17 PM
+BAG:datnro add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 10:17 PM
+BAG:datnro add 65xPháo hoa (old: 60) lydo: Nhặt từ map at 03/11/2023 10:18 PM
+BAG:datnro add 70xPháo hoa (old: 65) lydo: Nhặt từ map at 03/11/2023 10:18 PM
+BAG:datnro add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 10:20 PM
+BAG:datnro add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 10:20 PM
+BAG:datnro add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 10:22 PM
+BAG:datnro add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 10:23 PM
+BAG:datnro add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/11/2023 10:23 PM
+BAG:datnro add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 10:25 PM
+BAG:datnro add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/11/2023 10:34 PM
+BAG:datnro add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/11/2023 10:36 PM
+BAG:datnro add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 10:38 PM
+BAG:datnro add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 10:39 PM
+BAG:datnro add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 10:39 PM
+BAG:datnro add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 10:42 PM
+BAG:datnro add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 10:42 PM
+BAG:datnro add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/11/2023 10:44 PM
+BAG:datnro add 1xCuồng nộ lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 2xCuồng nộ (old: 1) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 3xCuồng nộ (old: 2) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 1xBổ khí lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 2xBổ khí (old: 1) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 3xBổ khí (old: 2) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 1xNgọc Rồng 5 sao lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 2xBổ huyết (old: 1) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 1xGiáp Xên bọ hung lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 3xBổ huyết (old: 2) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 4xBổ khí (old: 3) lydo: HQT at 03/11/2023 10:48 PM
+BAG:datnro add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/11/2023 10:49 PM
+BAG:datnro add 5xBổ khí (old: 4) lydo: HQT at 03/11/2023 10:49 PM
+BAG:datnro add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/11/2023 10:49 PM
+BAG:datnro add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/11/2023 10:49 PM
+BAG:datnro add 1xNgọc Rồng 6 sao lydo: HQT at 03/11/2023 10:49 PM
+BAG:datnro add 4xCuồng nộ (old: 3) lydo: HQT at 03/11/2023 10:49 PM
+BAG:datnro add 1xGiáp Xên bọ hung lydo: HQT at 03/11/2023 10:49 PM
+BAG:datnro add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/11/2023 10:49 PM
+BAG:datnro add 6xBổ khí (old: 5) lydo: HQT at 03/11/2023 10:49 PM
+BAG:datnro add 4xBổ huyết (old: 3) lydo: HQT at 03/11/2023 10:49 PM
+BAG:datnro add 7xBổ khí (old: 6) lydo: HQT at 03/11/2023 10:50 PM
+BAG:datnro add 5xBổ huyết (old: 4) lydo: HQT at 03/11/2023 10:50 PM
+BAG:datnro add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/11/2023 10:50 PM
+BAG:datnro add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/11/2023 10:50 PM
+BAG:datnro add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/11/2023 10:50 PM
+BAG:datnro add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/11/2023 10:50 PM
+BAG:datnro add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/11/2023 10:50 PM
+BAG:datnro add 6xBổ huyết (old: 5) lydo: HQT at 03/11/2023 10:50 PM
+BAG:datnro add 5xCuồng nộ (old: 4) lydo: Lấy từ rương qua người at 03/11/2023 10:51 PM
+BAG:datnro add 8xBổ khí (old: 7) lydo: Lấy từ rương qua người at 03/11/2023 10:51 PM
+BAG:datnro add 76xĐậu thần cấp 10 (old: 56) lydo: Lấy từ rương qua người at 03/11/2023 10:51 PM
+BAG:datnro add 96xĐậu thần cấp 10 (old: 76) lydo: Lấy từ rương qua người at 03/11/2023 10:51 PM
+BAG:datnro add 99xĐậu thần cấp 10 (old: 96) lydo: Lấy từ rương qua người at 03/11/2023 10:51 PM
+BAG:datnro add 20xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 10:52 PM
+BAG:datnro add 40xĐậu thần cấp 10 (old: 20) lydo: Lấy từ rương qua người at 03/11/2023 10:52 PM
+BAG:datnro add 60xĐậu thần cấp 10 (old: 40) lydo: Lấy từ rương qua người at 03/11/2023 10:52 PM
+BAG:datnro add 80xĐậu thần cấp 10 (old: 60) lydo: Lấy từ rương qua người at 03/11/2023 10:52 PM
+BAG:datnro add 1xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 10:52 PM
+BAG:datnro add 99xĐậu thần cấp 10 (old: 80) lydo: Lấy từ rương qua người at 03/11/2023 10:52 PM
+BAG:datnro add 1xÁo lông đỏ lydo: Mua từ cửa hàng at 03/11/2023 10:54 PM
+BAG:datnro add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 10:58 PM
+BAG:datnro add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 10:58 PM
+BAG:datnro add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 10:59 PM
+BAG:datnro add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 11:01 PM
+BAG:datnro add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 03/11/2023 11:02 PM
+BAG:datnro add 1xRada cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 11:03 PM
+BAG:datnro add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:datnro add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 11:07 PM
+BAG:datnro add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 11:10 PM
+BAG:datnro add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 11:11 PM
+BAG:datnro add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 11:11 PM
+BAG:datnro add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 11:15 PM
+BAG:datnro add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 11:16 PM

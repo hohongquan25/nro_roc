@@ -1,0 +1,101 @@
+BAG:baomy add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/02/2023 8:09 PM
+BAG:baomy add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/02/2023 8:13 PM
+BAG:baomy add 5xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 03/02/2023 8:18 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 8:20 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 8:24 PM
+BAG:baomy add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 8:24 PM
+BAG:baomy add 1xBột mì lydo: Nhặt từ map at 03/02/2023 8:25 PM
+BAG:baomy add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 8:26 PM
+BAG:baomy add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 8:27 PM
+BAG:baomy add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 8:28 PM
+BAG:baomy add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/02/2023 8:30 PM
+BAG:baomy add 4xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 03/02/2023 8:34 PM
+BAG:baomy add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/02/2023 8:34 PM
+BAG:baomy add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/02/2023 8:36 PM
+BAG:baomy add 10xĐậu thần cấp 2 (old: 7) lydo: Thu hoạch đậu at 03/02/2023 8:37 PM
+BAG:baomy add 1000000xThỏi vàng lydo: Giftcode at 03/02/2023 8:40 PM
+BAG:baomy add 10000xĐá ngũ sắc lydo: Giftcode at 03/02/2023 8:40 PM
+BAG:baomy add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/02/2023 8:40 PM
+BAG:baomy add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/02/2023 8:40 PM
+BAG:baomy add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 03/02/2023 8:41 PM
+BAG:baomy add 1000020xThỏi vàng (old: 1000000) lydo: Đổi vàng at 03/02/2023 8:41 PM
+BAG:baomy add 1xHợp thể Kamioren lydo: Mua từ bill at 03/02/2023 8:42 PM
+BAG:baomy add 1xCải trang Jiren lydo: Mua từ bill at 03/02/2023 8:42 PM
+BAG:baomy add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 8:43 PM
+BAG:baomy add 1xPhi Long VIP lydo: Mua từ cửa hàng at 03/02/2023 8:46 PM
+BAG:baomy add 1xĐá lục bảo lydo: Nhặt từ map at 03/02/2023 8:47 PM
+BAG:baomy add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/02/2023 8:54 PM
+BAG:baomy add 99xCuồng nộ lydo: Admin at 03/02/2023 8:58 PM
+BAG:baomy add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/02/2023 9:01 PM
+BAG:baomy add 26xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 9:01 PM
+BAG:baomy add 4xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 03/02/2023 9:01 PM
+BAG:baomy add 46xĐậu thần cấp 10 (old: 26) lydo: Lấy từ rương qua người at 03/02/2023 9:02 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 9:06 PM
+BAG:baomy add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 9:07 PM
+BAG:baomy add 1xÁo vải Pico lydo: Mua từ cửa hàng at 03/02/2023 9:09 PM
+BAG:baomy add 1xQuần vải cứng Pico lydo: Mua từ cửa hàng at 03/02/2023 9:09 PM
+BAG:baomy add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/02/2023 9:09 PM
+BAG:baomy add 1xGiày da Pico lydo: Mua từ cửa hàng at 03/02/2023 9:10 PM
+BAG:baomy add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/02/2023 9:10 PM
+BAG:baomy add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 9:10 PM
+BAG:baomy add 1xGiầy sợi len lydo: Nhặt từ map at 03/02/2023 9:11 PM
+BAG:baomy add 1xQuần sợi len lydo: Nhặt từ map at 03/02/2023 9:12 PM
+BAG:baomy add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 9:12 PM
+BAG:baomy add 1xBột mì lydo: Nhặt từ map at 03/02/2023 9:12 PM
+BAG:baomy add 1xGiầy sợi len lydo: Nhặt từ map at 03/02/2023 9:12 PM
+BAG:baomy add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 9:12 PM
+BAG:baomy add 1xĐá Saphia lydo: Nhặt từ map at 03/02/2023 9:12 PM
+BAG:baomy add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 9:13 PM
+BAG:baomy add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:baomy add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:baomy add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:baomy add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:baomy add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:baomy add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:baomy add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:baomy add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:baomy add 1xĐá Ruby lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:baomy add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 9:22 PM
+BAG:baomy add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 9:23 PM
+BAG:baomy add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 9:25 PM
+BAG:baomy add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:baomy add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:baomy add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/02/2023 9:28 PM
+BAG:baomy add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/02/2023 9:29 PM
+BAG:baomy add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/02/2023 9:30 PM
+BAG:baomy add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 9:32 PM
+BAG:baomy add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/02/2023 9:32 PM
+BAG:baomy add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/02/2023 9:34 PM
+BAG:baomy add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/02/2023 9:36 PM
+BAG:baomy add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/02/2023 9:37 PM
+BAG:baomy add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/02/2023 9:37 PM
+BAG:baomy add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/02/2023 9:41 PM
+BAG:baomy add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 9:42 PM
+BAG:baomy add 1000016xThỏi vàng lydo: Lấy từ rương qua người at 03/02/2023 9:44 PM
+BAG:baomy add 500xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/02/2023 9:44 PM
+BAG:baomy add 26xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 9:45 PM
+BAG:baomy add 42xĐậu thần cấp 10 (old: 26) lydo: Lấy từ rương qua người at 03/02/2023 9:46 PM
+BAG:baomy add 49xĐậu thần cấp 10 (old: 42) lydo: Lấy từ rương qua người at 03/02/2023 9:46 PM
+BAG:baomy add 1xHợp thể Kamioren lydo: Lấy từ body vào hành trang at 03/02/2023 9:47 PM
+BAG:baomy add 1xÁo vải Pico lydo: Lấy từ body vào hành trang at 03/02/2023 9:49 PM
+BAG:baomy add 1xQuần vải cứng Pico lydo: Lấy từ body vào hành trang at 03/02/2023 9:51 PM
+BAG:baomy add 1xGăng len cứng lydo: Lấy từ body vào hành trang at 03/02/2023 9:51 PM
+BAG:baomy add 1xGiày da Pico lydo: Lấy từ body vào hành trang at 03/02/2023 9:51 PM
+BAG:baomy add 1xRada cấp 7 lydo: Lấy từ body vào hành trang at 03/02/2023 9:51 PM
+BAG:baomy add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/02/2023 10:11 PM
+BAG:baomy add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/02/2023 10:11 PM
+BAG:baomy add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/02/2023 10:11 PM
+BAG:baomy add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/02/2023 10:11 PM
+BAG:baomy add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 10:12 PM
+BAG:baomy add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 10:14 PM
+BAG:baomy add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 10:15 PM
+BAG:baomy add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 10:15 PM
+BAG:baomy add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:baomy add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:baomy add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:baomy add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:baomy add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:baomy add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 10:19 PM
+BAG:baomy add 9998xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/02/2023 10:21 PM
+BAG:baomy add 1xCải trang lydo: Mua từ bill at 03/02/2023 10:29 PM

@@ -1,0 +1,81 @@
+BAG:myduen add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 6:01 PM
+BAG:myduen add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 6:03 PM
+BAG:myduen add 3xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 03/03/2023 6:06 PM
+BAG:myduen add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 6:09 PM
+BAG:myduen add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 7:13 PM
+BAG:myduen add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 7:15 PM
+BAG:myduen add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/03/2023 7:15 PM
+BAG:myduen add 15xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 7:15 PM
+BAG:myduen add 25xĐậu thần cấp 1 (old: 15) lydo: Lấy từ rương qua người at 03/03/2023 7:15 PM
+BAG:myduen add 1xBột mì lydo: Nhặt từ map at 03/03/2023 7:17 PM
+BAG:myduen add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 7:18 PM
+BAG:myduen add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 7:18 PM
+BAG:myduen add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 7:18 PM
+BAG:myduen add 1xGhế bay lydo: Mua từ cửa hàng at 03/03/2023 8:15 PM
+BAG:myduen add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/03/2023 8:15 PM
+BAG:myduen add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/03/2023 8:15 PM
+BAG:myduen add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/03/2023 8:15 PM
+BAG:myduen add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/03/2023 8:15 PM
+BAG:myduen add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/03/2023 8:15 PM
+BAG:myduen add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/03/2023 8:15 PM
+BAG:myduen add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/03/2023 8:16 PM
+BAG:myduen add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 03/03/2023 8:17 PM
+BAG:myduen add 47xĐậu thần cấp 1 (old: 17) lydo: Mua từ cửa hàng at 03/03/2023 8:17 PM
+BAG:myduen add 77xĐậu thần cấp 1 (old: 47) lydo: Mua từ cửa hàng at 03/03/2023 8:17 PM
+BAG:myduen add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 8:26 PM
+BAG:myduen add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 8:26 PM
+BAG:myduen add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 8:27 PM
+BAG:myduen add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 8:27 PM
+BAG:myduen add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/03/2023 8:28 PM
+BAG:myduen add 1xĐá Saphia lydo: Nhặt từ map at 03/03/2023 8:29 PM
+BAG:myduen add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 8:30 PM
+BAG:myduen add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 8:30 PM
+BAG:myduen add 1000000xThỏi vàng lydo: Giftcode at 03/03/2023 8:34 PM
+BAG:myduen add 10000xĐá ngũ sắc lydo: Giftcode at 03/03/2023 8:34 PM
+BAG:myduen add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/03/2023 8:34 PM
+BAG:myduen add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/03/2023 8:34 PM
+BAG:myduen add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 8:34 PM
+BAG:myduen add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/03/2023 8:35 PM
+BAG:myduen add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 8:35 PM
+BAG:myduen add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 8:35 PM
+BAG:myduen add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 03/03/2023 8:35 PM
+BAG:myduen add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 8:36 PM
+BAG:myduen add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 8:37 PM
+BAG:myduen add 5xĐậu thần cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 8:38 PM
+BAG:myduen add 25xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 8:38 PM
+BAG:myduen add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 81xĐậu thần cấp 9 (old: 51) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 12xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 99xĐậu thần cấp 9 (old: 81) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 42xĐậu thần cấp 9 (old: 12) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 72xĐậu thần cấp 9 (old: 42) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 3xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 99xĐậu thần cấp 9 (old: 72) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 33xĐậu thần cấp 9 (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 63xĐậu thần cấp 9 (old: 33) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 93xĐậu thần cấp 9 (old: 63) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 24xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 99xĐậu thần cấp 9 (old: 93) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 54xĐậu thần cấp 9 (old: 24) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 84xĐậu thần cấp 9 (old: 54) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 15xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 99xĐậu thần cấp 9 (old: 84) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 45xĐậu thần cấp 9 (old: 15) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 75xĐậu thần cấp 9 (old: 45) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 6xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 99xĐậu thần cấp 9 (old: 75) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 36xĐậu thần cấp 9 (old: 6) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 66xĐậu thần cấp 9 (old: 36) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 96xĐậu thần cấp 9 (old: 66) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 27xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 99xĐậu thần cấp 9 (old: 96) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 57xĐậu thần cấp 9 (old: 27) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 87xĐậu thần cấp 9 (old: 57) lydo: Mua từ cửa hàng at 03/03/2023 8:39 PM
+BAG:myduen add 1000017xThỏi vàng (old: 999997) lydo: Đổi vàng at 03/03/2023 8:41 PM
+BAG:myduen add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/03/2023 8:42 PM
+BAG:myduen add 1xCải Trang Zeno lydo: Mua từ bill at 03/03/2023 8:43 PM

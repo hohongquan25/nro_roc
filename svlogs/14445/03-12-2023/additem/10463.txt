@@ -1,0 +1,75 @@
+BAG:autometa add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/12/2023 10:25 AM
+BAG:autometa add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:autometa add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:autometa add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:autometa add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:autometa add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:autometa add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:autometa add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:autometa add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:autometa add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:autometa add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:autometa add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:autometa add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:autometa add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:autometa add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:autometa add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 10:35 AM
+BAG:autometa add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 10:35 AM
+BAG:autometa add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 10:35 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 10:36 AM
+BAG:autometa add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 10:36 AM
+BAG:autometa add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/12/2023 10:36 AM
+BAG:autometa add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/12/2023 10:36 AM
+BAG:autometa add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 10:36 AM
+BAG:autometa add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 10:36 AM
+BAG:autometa add 6xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 10:38 AM
+BAG:autometa add 23xĐậu thần cấp 10 (old: 6) lydo: Lấy từ rương qua người at 03/12/2023 10:38 AM
+BAG:autometa add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 10:38 AM
+BAG:autometa add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/12/2023 10:40 AM
+BAG:autometa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/12/2023 10:42 AM
+BAG:autometa add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 10:57 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 10:58 AM
+BAG:autometa add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/12/2023 10:58 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 11:00 AM
+BAG:autometa add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 11:00 AM
+BAG:autometa add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 11:00 AM
+BAG:autometa add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/12/2023 11:02 AM
+BAG:autometa add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 11:02 AM
+BAG:autometa add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 11:03 AM
+BAG:autometa add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/12/2023 11:03 AM
+BAG:autometa add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 11:04 AM
+BAG:autometa add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 11:04 AM
+BAG:autometa add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/12/2023 11:05 AM
+BAG:autometa add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/12/2023 11:05 AM
+BAG:autometa add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/12/2023 11:05 AM
+BAG:autometa add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 11:05 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 11:06 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 11:07 AM
+BAG:autometa add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 11:07 AM
+BAG:autometa add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/12/2023 11:08 AM
+BAG:autometa add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/12/2023 11:09 AM
+BAG:autometa add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/12/2023 11:09 AM
+BAG:autometa add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 11:10 AM
+BAG:autometa add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/12/2023 11:10 AM
+BAG:autometa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 11:10 AM
+BAG:autometa add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/12/2023 11:10 AM
+BAG:autometa add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 11:10 AM
+BAG:autometa add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 11:11 AM
+BAG:autometa add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/12/2023 11:12 AM
+BAG:autometa add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/12/2023 11:13 AM
+BAG:autometa add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:autometa add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:autometa add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:autometa add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:autometa add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:autometa add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:autometa add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:autometa add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:autometa add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:autometa add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/12/2023 11:15 AM

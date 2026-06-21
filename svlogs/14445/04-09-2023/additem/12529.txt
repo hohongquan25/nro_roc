@@ -1,0 +1,787 @@
+BAG:chinsu add 1xSách Trói lv1 lydo: Mua từ cửa hàng at 04/09/2023 6:56 PM
+BAG:chinsu add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 04/09/2023 6:56 PM
+BAG:chinsu add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 04/09/2023 6:56 PM
+BAG:chinsu add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 04/09/2023 6:56 PM
+BAG:chinsu add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 04/09/2023 6:56 PM
+BAG:chinsu add 1xSách Trói lv6 lydo: Mua từ cửa hàng at 04/09/2023 6:57 PM
+BAG:chinsu add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 04/09/2023 6:57 PM
+BAG:chinsu add 1xĐá Titan lydo: Nhặt từ map at 04/09/2023 6:59 PM
+BAG:chinsu add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 04/09/2023 7:03 PM
+BAG:chinsu add 1xĐá Saphia lydo: Nhặt từ map at 04/09/2023 7:03 PM
+BAG:chinsu add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 04/09/2023 7:03 PM
+BAG:chinsu add 1xPhóng lợn lydo: Mua từ cửa hàng at 04/09/2023 7:04 PM
+BAG:chinsu add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 04/09/2023 7:04 PM
+BAG:chinsu add 1xĐá lục bảo lydo: Nhặt từ map at 04/09/2023 7:06 PM
+BAG:chinsu add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 04/09/2023 7:06 PM
+BAG:chinsu add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 04/09/2023 7:07 PM
+BAG:chinsu add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 04/09/2023 7:08 PM
+BAG:chinsu add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 04/09/2023 7:09 PM
+BAG:chinsu add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 04/09/2023 7:10 PM
+BAG:chinsu add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 04/09/2023 9:21 PM
+BAG:chinsu add 1xĐá Vĩnh Hằng lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 1xĐá Hắc Hóa lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/09/2023 9:22 PM
+BAG:chinsu add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/09/2023 9:23 PM
+BAG:chinsu add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/09/2023 9:24 PM
+BAG:chinsu add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 9:24 PM
+BAG:chinsu add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 9:24 PM
+BAG:chinsu add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 04/09/2023 9:25 PM
+BAG:chinsu add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 04/09/2023 9:25 PM
+BAG:chinsu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 04/09/2023 9:31 PM
+BAG:chinsu add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 04/09/2023 9:31 PM
+BAG:chinsu add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 04/09/2023 9:32 PM
+BAG:chinsu add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 04/09/2023 9:32 PM
+BAG:chinsu add 1xQuần vải thô lydo: Nhặt từ map at 04/09/2023 9:33 PM
+BAG:chinsu add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 04/09/2023 9:33 PM
+BAG:chinsu add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 04/09/2023 9:34 PM
+BAG:chinsu add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 04/09/2023 9:34 PM
+BAG:chinsu add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 04/09/2023 9:34 PM
+BAG:chinsu add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 04/09/2023 9:35 PM
+BAG:chinsu add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 04/09/2023 9:35 PM
+BAG:chinsu add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 04/09/2023 9:35 PM
+BAG:chinsu add 3xMảnh Quỷ đất mẹ (old: 2) lydo: Nhặt từ map at 04/09/2023 9:36 PM
+BAG:chinsu add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 04/09/2023 9:36 PM
+BAG:chinsu add 4xMảnh Quỷ đất mẹ (old: 3) lydo: Nhặt từ map at 04/09/2023 9:37 PM
+BAG:chinsu add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 04/09/2023 9:37 PM
+BAG:chinsu add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 04/09/2023 9:37 PM
+BAG:chinsu add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 04/09/2023 9:37 PM
+BAG:chinsu add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 04/09/2023 9:38 PM
+BAG:chinsu add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 04/09/2023 9:39 PM
+BAG:chinsu add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 04/09/2023 9:39 PM
+BAG:chinsu add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 04/09/2023 9:39 PM
+BAG:chinsu add 1xĐá Vĩnh Hằng lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 1xĐá Hắc Hóa lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/09/2023 9:40 PM
+BAG:chinsu add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/09/2023 9:41 PM
+BAG:chinsu add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 9:41 PM
+BAG:chinsu add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 9:41 PM
+BAG:chinsu add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 04/09/2023 9:42 PM
+BAG:chinsu add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 04/09/2023 9:42 PM
+BAG:chinsu add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 04/09/2023 9:42 PM
+BAG:chinsu add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 04/09/2023 9:42 PM
+BAG:chinsu add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/09/2023 9:43 PM
+BAG:chinsu add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 9:43 PM
+BAG:chinsu add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 9:43 PM
+BAG:chinsu add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 1xÁo Thần Xayda lydo: Cường Hóa trang bị at 04/09/2023 9:44 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/09/2023 9:44 PM
+BAG:chinsu add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 04/09/2023 9:45 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/09/2023 9:45 PM
+BAG:chinsu add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 9:46 PM
+BAG:chinsu add 1xGiày lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 9:46 PM
+BAG:chinsu add 1xGiầy Thần Xayda lydo: Cường Hóa trang bị at 04/09/2023 9:46 PM
+BAG:chinsu add 1xĐá Vĩnh Hằng lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 1xĐá Hắc Hóa lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 04/09/2023 9:46 PM
+BAG:chinsu add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/09/2023 9:47 PM
+BAG:chinsu add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/09/2023 9:47 PM
+BAG:chinsu add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/09/2023 9:47 PM
+BAG:chinsu add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/09/2023 9:47 PM
+BAG:chinsu add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/09/2023 9:47 PM
+BAG:chinsu add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/09/2023 9:47 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 9:47 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 9:47 PM
+BAG:chinsu add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 04/09/2023 9:47 PM
+BAG:chinsu add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 04/09/2023 9:48 PM
+BAG:chinsu add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 04/09/2023 9:49 PM
+BAG:chinsu add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 04/09/2023 9:49 PM
+BAG:chinsu add 1xMảnh Quỷ bay lydo: Nhặt từ map at 04/09/2023 9:49 PM
+BAG:chinsu add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 04/09/2023 9:50 PM
+BAG:chinsu add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 04/09/2023 9:50 PM
+BAG:chinsu add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 04/09/2023 9:50 PM
+BAG:chinsu add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 04/09/2023 9:50 PM
+BAG:chinsu add 5xMảnh Quỷ bay (old: 4) lydo: Nhặt từ map at 04/09/2023 9:50 PM
+BAG:chinsu add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 04/09/2023 9:51 PM
+BAG:chinsu add 6xMảnh Quỷ bay (old: 5) lydo: Nhặt từ map at 04/09/2023 9:51 PM
+BAG:chinsu add 7xMảnh Quỷ bay (old: 6) lydo: Nhặt từ map at 04/09/2023 9:51 PM
+BAG:chinsu add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 04/09/2023 9:51 PM
+BAG:chinsu add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 04/09/2023 9:51 PM
+BAG:chinsu add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 04/09/2023 9:52 PM
+BAG:chinsu add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 04/09/2023 9:52 PM
+BAG:chinsu add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 04/09/2023 9:52 PM
+BAG:chinsu add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 04/09/2023 9:52 PM
+BAG:chinsu add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 04/09/2023 9:53 PM
+BAG:chinsu add 1xÁo vải thô lydo: Nhặt từ map at 04/09/2023 9:53 PM
+BAG:chinsu add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 04/09/2023 9:53 PM
+BAG:chinsu add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 04/09/2023 9:53 PM
+BAG:chinsu add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 04/09/2023 9:53 PM
+BAG:chinsu add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 04/09/2023 9:53 PM
+BAG:chinsu add 8xMảnh Quỷ bay (old: 7) lydo: Nhặt từ map at 04/09/2023 9:53 PM
+BAG:chinsu add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 04/09/2023 9:53 PM
+BAG:chinsu add 9xMảnh Quỷ bay (old: 8) lydo: Nhặt từ map at 04/09/2023 9:53 PM
+BAG:chinsu add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 04/09/2023 9:54 PM
+BAG:chinsu add 1xGăng vải thô lydo: Nhặt từ map at 04/09/2023 9:54 PM
+BAG:chinsu add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 04/09/2023 9:54 PM
+BAG:chinsu add 10xMảnh Quỷ bay (old: 9) lydo: Nhặt từ map at 04/09/2023 9:54 PM
+BAG:chinsu add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 04/09/2023 9:54 PM
+BAG:chinsu add 5xMảnh Quỷ đất mẹ (old: 4) lydo: Nhặt từ map at 04/09/2023 9:54 PM
+BAG:chinsu add 1xĐá Vĩnh Hằng lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 1xĐá Hắc Hóa lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/09/2023 9:55 PM
+BAG:chinsu add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/09/2023 9:56 PM
+BAG:chinsu add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 9:56 PM
+BAG:chinsu add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 9:56 PM
+BAG:chinsu add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 04/09/2023 9:56 PM
+BAG:chinsu add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 04/09/2023 9:57 PM
+BAG:chinsu add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 04/09/2023 9:57 PM
+BAG:chinsu add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/09/2023 9:58 PM
+BAG:chinsu add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 04/09/2023 9:59 PM
+BAG:chinsu add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 10:00 PM
+BAG:chinsu add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 10:00 PM
+BAG:chinsu add 1xÁo Thần Xayda lydo: Cường Hóa trang bị at 04/09/2023 10:00 PM
+BAG:chinsu add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 04/09/2023 10:00 PM
+BAG:chinsu add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 04/09/2023 10:01 PM
+BAG:chinsu add 11xMảnh Quỷ bay (old: 10) lydo: Nhặt từ map at 04/09/2023 10:02 PM
+BAG:chinsu add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 04/09/2023 10:02 PM
+BAG:chinsu add 1xRada cấp 1 lydo: Nhặt từ map at 04/09/2023 10:02 PM
+BAG:chinsu add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 04/09/2023 10:02 PM
+BAG:chinsu add 1xĐá thạch anh tím lydo: Nhặt từ map at 04/09/2023 10:02 PM
+BAG:chinsu add 1xRada cấp 1 lydo: Nhặt từ map at 04/09/2023 10:02 PM
+BAG:chinsu add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 04/09/2023 10:03 PM
+BAG:chinsu add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 04/09/2023 10:03 PM
+BAG:chinsu add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 04/09/2023 10:04 PM
+BAG:chinsu add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 04/09/2023 10:04 PM
+BAG:chinsu add 12xMảnh Quỷ bay (old: 11) lydo: Nhặt từ map at 04/09/2023 10:04 PM
+BAG:chinsu add 1xQuần vải thô lydo: Nhặt từ map at 04/09/2023 10:04 PM
+BAG:chinsu add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 04/09/2023 10:04 PM
+BAG:chinsu add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 04/09/2023 10:04 PM
+BAG:chinsu add 13xMảnh Quỷ bay (old: 12) lydo: Nhặt từ map at 04/09/2023 10:04 PM
+BAG:chinsu add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 04/09/2023 10:05 PM
+BAG:chinsu add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 04/09/2023 10:05 PM
+BAG:chinsu add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 04/09/2023 10:05 PM
+BAG:chinsu add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 04/09/2023 10:05 PM
+BAG:chinsu add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 04/09/2023 10:05 PM
+BAG:chinsu add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 04/09/2023 10:05 PM
+BAG:chinsu add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 04/09/2023 10:05 PM
+BAG:chinsu add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 04/09/2023 10:05 PM
+BAG:chinsu add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 04/09/2023 10:05 PM
+BAG:chinsu add 1xQuần vải thô lydo: Nhặt từ map at 04/09/2023 10:06 PM
+BAG:chinsu add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 04/09/2023 10:06 PM
+BAG:chinsu add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 04/09/2023 10:06 PM
+BAG:chinsu add 14xMảnh Quỷ bay (old: 13) lydo: Nhặt từ map at 04/09/2023 10:06 PM
+BAG:chinsu add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 04/09/2023 10:06 PM
+BAG:chinsu add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 04/09/2023 10:06 PM
+BAG:chinsu add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 04/09/2023 10:06 PM
+BAG:chinsu add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 04/09/2023 10:06 PM
+BAG:chinsu add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 04/09/2023 10:07 PM
+BAG:chinsu add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 04/09/2023 10:07 PM
+BAG:chinsu add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 04/09/2023 10:07 PM
+BAG:chinsu add 1xGiầy vải thô lydo: Nhặt từ map at 04/09/2023 10:07 PM
+BAG:chinsu add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 04/09/2023 10:07 PM
+BAG:chinsu add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 04/09/2023 10:07 PM
+BAG:chinsu add 6xMảnh Quỷ đất mẹ (old: 5) lydo: Nhặt từ map at 04/09/2023 10:08 PM
+BAG:chinsu add 1xGiầy vải thô lydo: Nhặt từ map at 04/09/2023 10:08 PM
+BAG:chinsu add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 04/09/2023 10:08 PM
+BAG:chinsu add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 04/09/2023 10:08 PM
+BAG:chinsu add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 04/09/2023 10:08 PM
+BAG:chinsu add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 04/09/2023 10:08 PM
+BAG:chinsu add 7xMảnh Quỷ đất mẹ (old: 6) lydo: Nhặt từ map at 04/09/2023 10:08 PM
+BAG:chinsu add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 04/09/2023 10:08 PM
+BAG:chinsu add 15xMảnh Quỷ bay (old: 14) lydo: Nhặt từ map at 04/09/2023 10:09 PM
+BAG:chinsu add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 04/09/2023 10:09 PM
+BAG:chinsu add 8xMảnh Quỷ đất mẹ (old: 7) lydo: Nhặt từ map at 04/09/2023 10:09 PM
+BAG:chinsu add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 04/09/2023 10:09 PM
+BAG:chinsu add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 04/09/2023 10:09 PM
+BAG:chinsu add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 04/09/2023 10:10 PM
+BAG:chinsu add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 04/09/2023 10:10 PM
+BAG:chinsu add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 04/09/2023 10:10 PM
+BAG:chinsu add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 04/09/2023 10:10 PM
+BAG:chinsu add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 04/09/2023 10:10 PM
+BAG:chinsu add 16xMảnh Quỷ bay (old: 15) lydo: Nhặt từ map at 04/09/2023 10:11 PM
+BAG:chinsu add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 04/09/2023 10:11 PM
+BAG:chinsu add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 04/09/2023 10:11 PM
+BAG:chinsu add 17xMảnh Quỷ bay (old: 16) lydo: Nhặt từ map at 04/09/2023 10:11 PM
+BAG:chinsu add 1xGiầy vải thô lydo: Nhặt từ map at 04/09/2023 10:11 PM
+BAG:chinsu add 1xQuần vải thô lydo: Nhặt từ map at 04/09/2023 10:11 PM
+BAG:chinsu add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 04/09/2023 10:12 PM
+BAG:chinsu add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 04/09/2023 10:12 PM
+BAG:chinsu add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 04/09/2023 10:12 PM
+BAG:chinsu add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 04/09/2023 10:12 PM
+BAG:chinsu add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 04/09/2023 10:12 PM
+BAG:chinsu add 1xÁo vải thô lydo: Nhặt từ map at 04/09/2023 10:12 PM
+BAG:chinsu add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 04/09/2023 10:13 PM
+BAG:chinsu add 18xMảnh Quỷ bay (old: 17) lydo: Nhặt từ map at 04/09/2023 10:13 PM
+BAG:chinsu add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 04/09/2023 10:13 PM
+BAG:chinsu add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 04/09/2023 10:13 PM
+BAG:chinsu add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 04/09/2023 10:14 PM
+BAG:chinsu add 1xGiầy vải thô lydo: Nhặt từ map at 04/09/2023 10:14 PM
+BAG:chinsu add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 04/09/2023 10:14 PM
+BAG:chinsu add 1xGiầy vải thô lydo: Nhặt từ map at 04/09/2023 10:14 PM
+BAG:chinsu add 1xRada cấp 1 lydo: Nhặt từ map at 04/09/2023 10:14 PM
+BAG:chinsu add 19xMảnh Quỷ bay (old: 18) lydo: Nhặt từ map at 04/09/2023 10:14 PM
+BAG:chinsu add 20xMảnh Quỷ bay (old: 19) lydo: Nhặt từ map at 04/09/2023 10:14 PM
+BAG:chinsu add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 04/09/2023 10:14 PM
+BAG:chinsu add 21xMảnh Quỷ bay (old: 20) lydo: Nhặt từ map at 04/09/2023 10:15 PM
+BAG:chinsu add 22xMảnh Quỷ bay (old: 21) lydo: Nhặt từ map at 04/09/2023 10:15 PM
+BAG:chinsu add 23xMảnh Quỷ bay (old: 22) lydo: Nhặt từ map at 04/09/2023 10:15 PM
+BAG:chinsu add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 04/09/2023 10:16 PM
+BAG:chinsu add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 04/09/2023 10:16 PM
+BAG:chinsu add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 04/09/2023 10:16 PM
+BAG:chinsu add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 04/09/2023 10:16 PM
+BAG:chinsu add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 04/09/2023 10:16 PM
+BAG:chinsu add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 04/09/2023 10:16 PM
+BAG:chinsu add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 04/09/2023 10:16 PM
+BAG:chinsu add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 04/09/2023 10:17 PM
+BAG:chinsu add 24xMảnh Quỷ bay (old: 23) lydo: Nhặt từ map at 04/09/2023 10:17 PM
+BAG:chinsu add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 04/09/2023 10:17 PM
+BAG:chinsu add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 04/09/2023 10:17 PM
+BAG:chinsu add 25xMảnh Quỷ bay (old: 24) lydo: Nhặt từ map at 04/09/2023 10:17 PM
+BAG:chinsu add 26xMảnh Quỷ bay (old: 25) lydo: Nhặt từ map at 04/09/2023 10:17 PM
+BAG:chinsu add 27xMảnh Quỷ bay (old: 26) lydo: Nhặt từ map at 04/09/2023 10:17 PM
+BAG:chinsu add 28xMảnh Quỷ bay (old: 27) lydo: Nhặt từ map at 04/09/2023 10:17 PM
+BAG:chinsu add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 04/09/2023 10:17 PM
+BAG:chinsu add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 24xMảnh Quỷ đất (old: 23) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 1xQuần vải thô lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 25xMảnh Quỷ đất (old: 24) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 29xMảnh Quỷ bay (old: 28) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 30xMảnh Quỷ bay (old: 29) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 26xMảnh Quỷ đất (old: 25) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 9xMảnh Quỷ đất mẹ (old: 8) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 31xMảnh Quỷ bay (old: 30) lydo: Nhặt từ map at 04/09/2023 10:18 PM
+BAG:chinsu add 32xMảnh Quỷ bay (old: 31) lydo: Nhặt từ map at 04/09/2023 10:19 PM
+BAG:chinsu add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 04/09/2023 10:19 PM
+BAG:chinsu add 33xMảnh Quỷ bay (old: 32) lydo: Nhặt từ map at 04/09/2023 10:19 PM
+BAG:chinsu add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 04/09/2023 10:19 PM
+BAG:chinsu add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 04/09/2023 10:20 PM
+BAG:chinsu add 1xGiầy vải thô lydo: Nhặt từ map at 04/09/2023 10:20 PM
+BAG:chinsu add 1xGiầy vải thô lydo: Nhặt từ map at 04/09/2023 10:20 PM
+BAG:chinsu add 34xMảnh Quỷ bay (old: 33) lydo: Nhặt từ map at 04/09/2023 10:20 PM
+BAG:chinsu add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 04/09/2023 10:20 PM
+BAG:chinsu add 27xMảnh Quỷ đất (old: 26) lydo: Nhặt từ map at 04/09/2023 10:20 PM
+BAG:chinsu add 28xMảnh Quỷ đất (old: 27) lydo: Nhặt từ map at 04/09/2023 10:21 PM
+BAG:chinsu add 29xMảnh Quỷ đất (old: 28) lydo: Nhặt từ map at 04/09/2023 10:21 PM
+BAG:chinsu add 1xGăng vải thô lydo: Nhặt từ map at 04/09/2023 10:21 PM
+BAG:chinsu add 1xÁo vải thô lydo: Nhặt từ map at 04/09/2023 10:21 PM
+BAG:chinsu add 35xMảnh Quỷ bay (old: 34) lydo: Nhặt từ map at 04/09/2023 10:21 PM
+BAG:chinsu add 1xRada cấp 1 lydo: Nhặt từ map at 04/09/2023 10:21 PM
+BAG:chinsu add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 04/09/2023 10:21 PM
+BAG:chinsu add 30xMảnh Quỷ đất (old: 29) lydo: Nhặt từ map at 04/09/2023 10:21 PM
+BAG:chinsu add 36xMảnh Quỷ bay (old: 35) lydo: Nhặt từ map at 04/09/2023 10:21 PM
+BAG:chinsu add 1xRada cấp 1 lydo: Lấy từ rương qua người at 04/09/2023 10:22 PM
+BAG:chinsu add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 04/09/2023 10:24 PM
+BAG:chinsu add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 04/09/2023 10:25 PM
+BAG:chinsu add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 04/09/2023 10:25 PM
+BAG:chinsu add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 10:25 PM
+BAG:chinsu add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 10:25 PM
+BAG:chinsu add 1xÁo Thần Xayda lydo: Cường Hóa trang bị at 04/09/2023 10:25 PM
+BAG:chinsu add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 04/09/2023 10:25 PM
+BAG:chinsu add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/09/2023 10:26 PM
+BAG:chinsu add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 04/09/2023 10:27 PM
+BAG:chinsu add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 40xĐá Vĩnh Hằng (old: 39) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 40xĐá Hắc Hóa (old: 39) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 41xĐá Vĩnh Hằng (old: 40) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 41xĐá Hắc Hóa (old: 40) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 42xĐá Vĩnh Hằng (old: 41) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 42xĐá Hắc Hóa (old: 41) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 43xĐá Vĩnh Hằng (old: 42) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 43xĐá Hắc Hóa (old: 42) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 44xĐá Vĩnh Hằng (old: 43) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 44xĐá Hắc Hóa (old: 43) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 45xĐá Vĩnh Hằng (old: 44) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 45xĐá Hắc Hóa (old: 44) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 46xĐá Vĩnh Hằng (old: 45) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 46xĐá Hắc Hóa (old: 45) lydo: Mua santa at 04/09/2023 10:28 PM
+BAG:chinsu add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 10:28 PM
+BAG:chinsu add 1xGiày lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 10:28 PM
+BAG:chinsu add 1xGiầy Thần Xayda lydo: Cường Hóa trang bị at 04/09/2023 10:29 PM
+BAG:chinsu add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 04/09/2023 10:29 PM
+BAG:chinsu add 1xRada cấp 9 lydo: Cường Hóa trang bị at 04/09/2023 10:29 PM
+BAG:chinsu add 1xRada cấp 12 lydo: Cường Hóa trang bị at 04/09/2023 10:29 PM
+BAG:chinsu add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 04/09/2023 10:30 PM
+BAG:chinsu add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 04/09/2023 10:31 PM
+BAG:chinsu add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 04/09/2023 10:32 PM
+BAG:chinsu add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 04/09/2023 10:32 PM
+BAG:chinsu add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 04/09/2023 10:32 PM
+BAG:chinsu add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 04/09/2023 10:32 PM
+BAG:chinsu add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 04/09/2023 10:32 PM
+BAG:chinsu add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 04/09/2023 10:32 PM
+BAG:chinsu add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 04/09/2023 10:32 PM
+BAG:chinsu add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 04/09/2023 10:32 PM
+BAG:chinsu add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 04/09/2023 10:32 PM
+BAG:chinsu add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 04/09/2023 10:32 PM
+BAG:chinsu add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 10:32 PM
+BAG:chinsu add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 10:32 PM
+BAG:chinsu add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 10:33 PM
+BAG:chinsu add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 10:33 PM
+BAG:chinsu add 1xGiày lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 10:33 PM
+BAG:chinsu add 1xGiầy Thần Xayda lydo: Cường Hóa trang bị at 04/09/2023 10:33 PM
+BAG:chinsu add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 04/09/2023 10:34 PM
+BAG:chinsu add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/09/2023 10:34 PM
+BAG:chinsu add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 04/09/2023 10:35 PM
+BAG:chinsu add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 10:36 PM
+BAG:chinsu add 1xGiày lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 10:36 PM
+BAG:chinsu add 1xGiầy Thần Xayda lydo: Cường Hóa trang bị at 04/09/2023 10:36 PM
+BAG:chinsu add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 10:37 PM
+BAG:chinsu add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 10:37 PM
+BAG:chinsu add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 04/09/2023 10:37 PM
+BAG:chinsu add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 04/09/2023 10:37 PM
+BAG:chinsu add 1xRada cấp 9 lydo: Cường Hóa trang bị at 04/09/2023 10:38 PM
+BAG:chinsu add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/09/2023 10:38 PM
+BAG:chinsu add 1xRada cấp 12 lydo: Cường Hóa trang bị at 04/09/2023 10:39 PM
+BAG:chinsu add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 04/09/2023 10:39 PM
+BAG:chinsu add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 04/09/2023 10:39 PM
+BAG:chinsu add 1xCải trang Black Goku SSJ White lydo: Mua từ cửa hàng at 04/09/2023 10:48 PM
+BAG:chinsu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 04/09/2023 10:49 PM
+BAG:chinsu add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 04/09/2023 10:50 PM
+BAG:chinsu add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 04/09/2023 10:50 PM
+BAG:chinsu add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 04/09/2023 10:50 PM
+BAG:chinsu add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 04/09/2023 10:50 PM
+BAG:chinsu add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 04/09/2023 10:50 PM
+BAG:chinsu add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 04/09/2023 10:50 PM
+BAG:chinsu add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 04/09/2023 10:50 PM
+BAG:chinsu add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 04/09/2023 10:51 PM
+BAG:chinsu add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 04/09/2023 10:51 PM
+BAG:chinsu add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 04/09/2023 10:51 PM
+BAG:chinsu add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 04/09/2023 10:51 PM
+BAG:chinsu add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 04/09/2023 10:51 PM
+BAG:chinsu add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 04/09/2023 10:52 PM
+BAG:chinsu add 1xĐá Saphia lydo: Nhặt từ map at 04/09/2023 10:54 PM
+BAG:chinsu add 5xPháo hoa lydo: Nhặt từ map at 04/09/2023 10:55 PM
+BAG:chinsu add 1xĐá Ruby lydo: Nhặt từ map at 04/09/2023 10:55 PM
+BAG:chinsu add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 04/09/2023 10:55 PM
+BAG:chinsu add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 04/09/2023 10:56 PM
+BAG:chinsu add 500xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 04/09/2023 11:01 PM
+BAG:chinsu add 5xPháo hoa lydo: Nhặt từ map at 04/09/2023 11:01 PM
+BAG:chinsu add 1xCải trang Oren lydo: Mua từ bill at 04/09/2023 11:01 PM
+BAG:chinsu add 20xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 04/09/2023 11:02 PM
+BAG:chinsu add 40xĐậu thần cấp 10 (old: 20) lydo: Lấy từ rương qua người at 04/09/2023 11:03 PM
+BAG:chinsu add 60xĐậu thần cấp 10 (old: 40) lydo: Lấy từ rương qua người at 04/09/2023 11:03 PM
+BAG:chinsu add 1xCon diều lydo: Mua từ cửa hàng at 04/09/2023 11:05 PM
+BAG:chinsu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 04/09/2023 11:05 PM
+BAG:chinsu add 1xĐá lục bảo lydo: Nhặt từ map at 04/09/2023 11:07 PM
+BAG:chinsu add 1xĐá thạch anh tím lydo: Nhặt từ map at 04/09/2023 11:07 PM
+BAG:chinsu add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 04/09/2023 11:08 PM

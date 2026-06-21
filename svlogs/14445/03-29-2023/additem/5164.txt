@@ -1,0 +1,756 @@
+BAG:onkill add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 12:07 AM
+BAG:onkill add 2xCuồng nộ (old: 1) lydo: HQT at 03/29/2023 12:07 AM
+BAG:onkill add 1xNgọc Rồng 7 sao lydo: HQT at 03/29/2023 12:07 AM
+BAG:onkill add 1xNgọc Rồng 6 sao lydo: HQT at 03/29/2023 12:07 AM
+BAG:onkill add 1xNgọc Rồng 4 sao lydo: HQT at 03/29/2023 12:07 AM
+BAG:onkill add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/29/2023 12:07 AM
+BAG:onkill add 1xBổ huyết lydo: HQT at 03/29/2023 12:07 AM
+BAG:onkill add 2xBổ huyết (old: 1) lydo: HQT at 03/29/2023 12:07 AM
+BAG:onkill add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/29/2023 12:07 AM
+BAG:onkill add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/29/2023 12:07 AM
+BAG:onkill add 7xNgọc Rồng 1 sao lydo: (GD) Nhận từ kamee1hp at 03/29/2023 12:08 AM
+BAG:onkill add 7xNgọc Rồng 2 sao lydo: (GD) Nhận từ kamee1hp at 03/29/2023 12:08 AM
+BAG:onkill add 7xNgọc Rồng 7 sao lydo: (GD) Nhận từ kamee1hp at 03/29/2023 12:08 AM
+BAG:onkill add 7xNgọc Rồng 5 sao lydo: (GD) Nhận từ kamee1hp at 03/29/2023 12:08 AM
+BAG:onkill add 21xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/29/2023 12:09 AM
+BAG:onkill add 7xNgọc Rồng 4 sao lydo: (GD) Nhận từ kamee1hp at 03/29/2023 12:09 AM
+BAG:onkill add 1xBổ khí lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 2xBổ khí (old: 1) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 3xCuồng nộ (old: 2) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 1xGiáp Xên bọ hung lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 4xCuồng nộ (old: 3) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 3xBổ huyết (old: 2) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 3xBổ khí (old: 2) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 1xNgọc Rồng 5 sao lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 4xBổ khí (old: 3) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 4xBổ huyết (old: 3) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 5xCuồng nộ (old: 4) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 5xBổ khí (old: 4) lydo: HQT at 03/29/2023 12:11 AM
+BAG:onkill add 6xCuồng nộ (old: 5) lydo: HQT at 03/29/2023 12:12 AM
+BAG:onkill add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/29/2023 12:12 AM
+BAG:onkill add 5xBổ huyết (old: 4) lydo: HQT at 03/29/2023 12:12 AM
+BAG:onkill add 7xCuồng nộ (old: 6) lydo: HQT at 03/29/2023 12:12 AM
+BAG:onkill add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/29/2023 12:12 AM
+BAG:onkill add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/29/2023 12:12 AM
+BAG:onkill add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/29/2023 12:12 AM
+BAG:onkill add 8xCuồng nộ (old: 7) lydo: HQT at 03/29/2023 12:12 AM
+BAG:onkill add 9xCuồng nộ (old: 8) lydo: HQT at 03/29/2023 12:12 AM
+BAG:onkill add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/29/2023 12:12 AM
+BAG:onkill add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 12:12 AM
+BAG:onkill add 1xÁo lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:14 AM
+BAG:onkill add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:14 AM
+BAG:onkill add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:14 AM
+BAG:onkill add 1xGiày lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:14 AM
+BAG:onkill add 1xRada cấp 12 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:14 AM
+BAG:onkill add 1xHợp thể Kamioren lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:14 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:14 AM
+BAG:onkill add 1xGăng Hủy Diệt lydo: Lấy từ rương qua người at 03/29/2023 12:15 AM
+BAG:onkill add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 12:15 AM
+BAG:onkill add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 12:17 AM
+BAG:onkill add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/29/2023 12:17 AM
+BAG:onkill add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/29/2023 12:18 AM
+BAG:onkill add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/29/2023 12:19 AM
+BAG:onkill add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 03/29/2023 12:19 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 12:23 AM
+BAG:onkill add 1xÁo lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:36 AM
+BAG:onkill add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:36 AM
+BAG:onkill add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:36 AM
+BAG:onkill add 1xGiày lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:36 AM
+BAG:onkill add 1xRada cấp 12 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:36 AM
+BAG:onkill add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:36 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:36 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 12:38 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 12:39 AM
+BAG:onkill add 1xPháo hoa lydo: Nhặt từ map at 03/29/2023 12:42 AM
+BAG:onkill add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/29/2023 12:44 AM
+BAG:onkill add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/29/2023 12:44 AM
+BAG:onkill add 1xÁo lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:00 AM
+BAG:onkill add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:00 AM
+BAG:onkill add 1xGiày lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:00 AM
+BAG:onkill add 1xRada cấp 12 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:00 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:00 AM
+BAG:onkill add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:00 AM
+BAG:onkill add 1xHợp thể Kamioren lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:00 AM
+BAG:onkill add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/29/2023 1:01 AM
+BAG:onkill add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/29/2023 1:02 AM
+BAG:onkill add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 03/29/2023 1:02 AM
+BAG:onkill add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/29/2023 1:02 AM
+BAG:onkill add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 03/29/2023 1:02 AM
+BAG:onkill add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/29/2023 1:02 AM
+BAG:onkill add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/29/2023 1:22 AM
+BAG:onkill add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/29/2023 1:22 AM
+BAG:onkill add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/29/2023 1:22 AM
+BAG:onkill add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/29/2023 1:22 AM
+BAG:onkill add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/29/2023 1:22 AM
+BAG:onkill add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/29/2023 1:22 AM
+BAG:onkill add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/29/2023 1:23 AM
+BAG:onkill add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/29/2023 1:24 AM
+BAG:onkill add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/29/2023 1:24 AM
+BAG:onkill add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/29/2023 1:24 AM
+BAG:onkill add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/29/2023 1:24 AM
+BAG:onkill add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 03/29/2023 1:24 AM
+BAG:onkill add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/29/2023 1:24 AM
+BAG:onkill add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/29/2023 1:25 AM
+BAG:onkill add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/29/2023 1:25 AM
+BAG:onkill add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/29/2023 1:26 AM
+BAG:onkill add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/29/2023 1:26 AM
+BAG:onkill add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/29/2023 1:26 AM
+BAG:onkill add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/29/2023 1:26 AM
+BAG:onkill add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/29/2023 1:27 AM
+BAG:onkill add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 03/29/2023 1:27 AM
+BAG:onkill add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/29/2023 1:27 AM
+BAG:onkill add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 03/29/2023 1:27 AM
+BAG:onkill add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/29/2023 1:27 AM
+BAG:onkill add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/29/2023 1:27 AM
+BAG:onkill add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/29/2023 1:27 AM
+BAG:onkill add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/29/2023 1:27 AM
+BAG:onkill add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/29/2023 1:28 AM
+BAG:onkill add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/29/2023 1:28 AM
+BAG:onkill add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/29/2023 1:28 AM
+BAG:onkill add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/29/2023 1:28 AM
+BAG:onkill add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/29/2023 1:28 AM
+BAG:onkill add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/29/2023 1:29 AM
+BAG:onkill add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/29/2023 1:29 AM
+BAG:onkill add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/29/2023 1:29 AM
+BAG:onkill add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/29/2023 1:29 AM
+BAG:onkill add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/29/2023 1:29 AM
+BAG:onkill add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 03/29/2023 1:29 AM
+BAG:onkill add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/29/2023 1:30 AM
+BAG:onkill add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/29/2023 1:30 AM
+BAG:onkill add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/29/2023 1:30 AM
+BAG:onkill add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/29/2023 1:31 AM
+BAG:onkill add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/29/2023 1:31 AM
+BAG:onkill add 70xĐá Ruby (old: 69) lydo: Nhặt từ map at 03/29/2023 1:31 AM
+BAG:onkill add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/29/2023 1:31 AM
+BAG:onkill add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/29/2023 1:31 AM
+BAG:onkill add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/29/2023 1:31 AM
+BAG:onkill add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/29/2023 1:31 AM
+BAG:onkill add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/29/2023 1:32 AM
+BAG:onkill add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/29/2023 1:32 AM
+BAG:onkill add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/29/2023 1:32 AM
+BAG:onkill add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/29/2023 1:32 AM
+BAG:onkill add 71xĐá Ruby (old: 70) lydo: Nhặt từ map at 03/29/2023 1:32 AM
+BAG:onkill add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/29/2023 1:32 AM
+BAG:onkill add 72xĐá Ruby (old: 71) lydo: Nhặt từ map at 03/29/2023 1:33 AM
+BAG:onkill add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/29/2023 1:33 AM
+BAG:onkill add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/29/2023 1:33 AM
+BAG:onkill add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/29/2023 1:33 AM
+BAG:onkill add 73xĐá Ruby (old: 72) lydo: Nhặt từ map at 03/29/2023 1:33 AM
+BAG:onkill add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 03/29/2023 1:34 AM
+BAG:onkill add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/29/2023 1:34 AM
+BAG:onkill add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/29/2023 1:34 AM
+BAG:onkill add 74xĐá Ruby (old: 73) lydo: Nhặt từ map at 03/29/2023 1:35 AM
+BAG:onkill add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/29/2023 1:35 AM
+BAG:onkill add 75xĐá Ruby (old: 74) lydo: Nhặt từ map at 03/29/2023 1:35 AM
+BAG:onkill add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 03/29/2023 1:35 AM
+BAG:onkill add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/29/2023 1:35 AM
+BAG:onkill add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/29/2023 1:35 AM
+BAG:onkill add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/29/2023 1:36 AM
+BAG:onkill add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhặt từ map at 03/29/2023 1:36 AM
+BAG:onkill add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/29/2023 1:36 AM
+BAG:onkill add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/29/2023 1:36 AM
+BAG:onkill add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/29/2023 1:36 AM
+BAG:onkill add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 03/29/2023 1:36 AM
+BAG:onkill add 76xĐá Ruby (old: 75) lydo: Nhặt từ map at 03/29/2023 1:37 AM
+BAG:onkill add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/29/2023 1:37 AM
+BAG:onkill add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/29/2023 1:37 AM
+BAG:onkill add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 03/29/2023 1:37 AM
+BAG:onkill add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/29/2023 1:37 AM
+BAG:onkill add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/29/2023 1:37 AM
+BAG:onkill add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 03/29/2023 1:38 AM
+BAG:onkill add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/29/2023 1:38 AM
+BAG:onkill add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/29/2023 1:38 AM
+BAG:onkill add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 03/29/2023 1:38 AM
+BAG:onkill add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/29/2023 1:39 AM
+BAG:onkill add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 03/29/2023 1:39 AM
+BAG:onkill add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/29/2023 1:39 AM
+BAG:onkill add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 03/29/2023 1:39 AM
+BAG:onkill add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 03/29/2023 1:40 AM
+BAG:onkill add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/29/2023 1:40 AM
+BAG:onkill add 77xĐá Ruby (old: 76) lydo: Nhặt từ map at 03/29/2023 1:40 AM
+BAG:onkill add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 03/29/2023 1:40 AM
+BAG:onkill add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/29/2023 1:40 AM
+BAG:onkill add 78xĐá Ruby (old: 77) lydo: Nhặt từ map at 03/29/2023 1:40 AM
+BAG:onkill add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/29/2023 1:41 AM
+BAG:onkill add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhặt từ map at 03/29/2023 1:41 AM
+BAG:onkill add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 03/29/2023 1:42 AM
+BAG:onkill add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/29/2023 1:42 AM
+BAG:onkill add 63xĐá Saphia (old: 62) lydo: Nhặt từ map at 03/29/2023 1:42 AM
+BAG:onkill add 79xĐá Ruby (old: 78) lydo: Nhặt từ map at 03/29/2023 1:43 AM
+BAG:onkill add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/29/2023 1:43 AM
+BAG:onkill add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/29/2023 1:43 AM
+BAG:onkill add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/29/2023 1:44 AM
+BAG:onkill add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/29/2023 1:44 AM
+BAG:onkill add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 03/29/2023 1:44 AM
+BAG:onkill add 80xĐá Ruby (old: 79) lydo: Nhặt từ map at 03/29/2023 1:45 AM
+BAG:onkill add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/29/2023 1:45 AM
+BAG:onkill add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/29/2023 1:46 AM
+BAG:onkill add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/29/2023 1:46 AM
+BAG:onkill add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/29/2023 1:47 AM
+BAG:onkill add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhặt từ map at 03/29/2023 1:47 AM
+BAG:onkill add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/29/2023 1:48 AM
+BAG:onkill add 81xĐá Ruby (old: 80) lydo: Nhặt từ map at 03/29/2023 1:48 AM
+BAG:onkill add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhặt từ map at 03/29/2023 1:48 AM
+BAG:onkill add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/29/2023 1:48 AM
+BAG:onkill add 64xĐá Saphia (old: 63) lydo: Nhặt từ map at 03/29/2023 1:48 AM
+BAG:onkill add 65xĐá Saphia (old: 64) lydo: Nhặt từ map at 03/29/2023 1:49 AM
+BAG:onkill add 82xĐá Ruby (old: 81) lydo: Nhặt từ map at 03/29/2023 1:49 AM
+BAG:onkill add 66xĐá Saphia (old: 65) lydo: Nhặt từ map at 03/29/2023 1:49 AM
+BAG:onkill add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 03/29/2023 1:50 AM
+BAG:onkill add 67xĐá Saphia (old: 66) lydo: Nhặt từ map at 03/29/2023 1:50 AM
+BAG:onkill add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/29/2023 1:50 AM
+BAG:onkill add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/29/2023 1:50 AM
+BAG:onkill add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 03/29/2023 1:50 AM
+BAG:onkill add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/29/2023 1:51 AM
+BAG:onkill add 83xĐá Ruby (old: 82) lydo: Nhặt từ map at 03/29/2023 1:51 AM
+BAG:onkill add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 03/29/2023 1:51 AM
+BAG:onkill add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 03/29/2023 1:51 AM
+BAG:onkill add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/29/2023 1:52 AM
+BAG:onkill add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/29/2023 1:52 AM
+BAG:onkill add 84xĐá Ruby (old: 83) lydo: Nhặt từ map at 03/29/2023 1:52 AM
+BAG:onkill add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/29/2023 1:52 AM
+BAG:onkill add 27xNgọc Rồng 6 sao (old: 26) lydo: Nhặt từ map at 03/29/2023 1:52 AM
+BAG:onkill add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 03/29/2023 1:52 AM
+BAG:onkill add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 03/29/2023 1:53 AM
+BAG:onkill add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/29/2023 1:54 AM
+BAG:onkill add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 03/29/2023 1:54 AM
+BAG:onkill add 85xĐá Ruby (old: 84) lydo: Nhặt từ map at 03/29/2023 1:54 AM
+BAG:onkill add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/29/2023 1:54 AM
+BAG:onkill add 86xĐá Ruby (old: 85) lydo: Nhặt từ map at 03/29/2023 1:54 AM
+BAG:onkill add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 03/29/2023 1:54 AM
+BAG:onkill add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 03/29/2023 1:54 AM
+BAG:onkill add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/29/2023 1:55 AM
+BAG:onkill add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/29/2023 1:55 AM
+BAG:onkill add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/29/2023 1:55 AM
+BAG:onkill add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/29/2023 1:55 AM
+BAG:onkill add 87xĐá Ruby (old: 86) lydo: Nhặt từ map at 03/29/2023 1:56 AM
+BAG:onkill add 68xĐá Saphia (old: 67) lydo: Nhặt từ map at 03/29/2023 1:56 AM
+BAG:onkill add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 03/29/2023 1:56 AM
+BAG:onkill add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/29/2023 1:57 AM
+BAG:onkill add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 03/29/2023 1:57 AM
+BAG:onkill add 1xÁo lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:57 AM
+BAG:onkill add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:57 AM
+BAG:onkill add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:57 AM
+BAG:onkill add 1xGiày lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:57 AM
+BAG:onkill add 1xRada cấp 12 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:57 AM
+BAG:onkill add 1xHợp thể Kamioren lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:58 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:58 AM
+BAG:onkill add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 1:58 AM
+BAG:onkill add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 1:58 AM
+BAG:onkill add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 1:58 AM
+BAG:onkill add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 1:58 AM
+BAG:onkill add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 1:58 AM
+BAG:onkill add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 1:59 AM
+BAG:onkill add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 1:59 AM
+BAG:onkill add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 1:59 AM
+BAG:onkill add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 1:59 AM
+BAG:onkill add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 1:59 AM
+BAG:onkill add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 1:59 AM
+BAG:onkill add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 1:59 AM
+BAG:onkill add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 1:59 AM
+BAG:onkill add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 1:59 AM
+BAG:onkill add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 1:59 AM
+BAG:onkill add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 1:59 AM
+BAG:onkill add 69xĐá Saphia (old: 68) lydo: Nhặt từ map at 03/29/2023 2:07 AM
+BAG:onkill add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/29/2023 2:08 AM
+BAG:onkill add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/29/2023 2:08 AM
+BAG:onkill add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/29/2023 2:12 AM
+BAG:onkill add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/29/2023 2:12 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 2:16 AM
+BAG:onkill add 88xĐá Ruby (old: 87) lydo: Nhặt từ map at 03/29/2023 2:30 AM
+BAG:onkill add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/29/2023 2:31 AM
+BAG:onkill add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/29/2023 2:31 AM
+BAG:onkill add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/29/2023 2:32 AM
+BAG:onkill add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/29/2023 2:32 AM
+BAG:onkill add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/29/2023 2:32 AM
+BAG:onkill add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/29/2023 2:32 AM
+BAG:onkill add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 03/29/2023 2:32 AM
+BAG:onkill add 89xĐá Ruby (old: 88) lydo: Nhặt từ map at 03/29/2023 2:32 AM
+BAG:onkill add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 03/29/2023 2:32 AM
+BAG:onkill add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 03/29/2023 2:32 AM
+BAG:onkill add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/29/2023 2:32 AM
+BAG:onkill add 90xĐá Ruby (old: 89) lydo: Nhặt từ map at 03/29/2023 2:33 AM
+BAG:onkill add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 03/29/2023 2:33 AM
+BAG:onkill add 91xĐá Ruby (old: 90) lydo: Nhặt từ map at 03/29/2023 2:34 AM
+BAG:onkill add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 03/29/2023 2:34 AM
+BAG:onkill add 70xĐá Saphia (old: 69) lydo: Nhặt từ map at 03/29/2023 2:34 AM
+BAG:onkill add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/29/2023 2:34 AM
+BAG:onkill add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 03/29/2023 2:35 AM
+BAG:onkill add 92xĐá Ruby (old: 91) lydo: Nhặt từ map at 03/29/2023 2:35 AM
+BAG:onkill add 71xĐá Saphia (old: 70) lydo: Nhặt từ map at 03/29/2023 2:35 AM
+BAG:onkill add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/29/2023 2:35 AM
+BAG:onkill add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 03/29/2023 2:36 AM
+BAG:onkill add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 03/29/2023 2:36 AM
+BAG:onkill add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 03/29/2023 2:36 AM
+BAG:onkill add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 03/29/2023 2:36 AM
+BAG:onkill add 93xĐá Ruby (old: 92) lydo: Nhặt từ map at 03/29/2023 2:37 AM
+BAG:onkill add 94xĐá Ruby (old: 93) lydo: Nhặt từ map at 03/29/2023 2:37 AM
+BAG:onkill add 95xĐá Ruby (old: 94) lydo: Nhặt từ map at 03/29/2023 2:37 AM
+BAG:onkill add 96xĐá Ruby (old: 95) lydo: Nhặt từ map at 03/29/2023 2:38 AM
+BAG:onkill add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhặt từ map at 03/29/2023 2:38 AM
+BAG:onkill add 97xĐá Ruby (old: 96) lydo: Nhặt từ map at 03/29/2023 2:38 AM
+BAG:onkill add 67xĐá Titan (old: 66) lydo: Nhặt từ map at 03/29/2023 2:38 AM
+BAG:onkill add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/29/2023 2:38 AM
+BAG:onkill add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/29/2023 2:38 AM
+BAG:onkill add 68xĐá Titan (old: 67) lydo: Nhặt từ map at 03/29/2023 2:38 AM
+BAG:onkill add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/29/2023 2:38 AM
+BAG:onkill add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 03/29/2023 2:39 AM
+BAG:onkill add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/29/2023 2:39 AM
+BAG:onkill add 69xĐá Titan (old: 68) lydo: Nhặt từ map at 03/29/2023 2:39 AM
+BAG:onkill add 72xĐá Saphia (old: 71) lydo: Nhặt từ map at 03/29/2023 2:39 AM
+BAG:onkill add 73xĐá Saphia (old: 72) lydo: Nhặt từ map at 03/29/2023 2:39 AM
+BAG:onkill add 74xĐá Saphia (old: 73) lydo: Nhặt từ map at 03/29/2023 2:39 AM
+BAG:onkill add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/29/2023 2:39 AM
+BAG:onkill add 70xĐá Titan (old: 69) lydo: Nhặt từ map at 03/29/2023 2:39 AM
+BAG:onkill add 98xĐá Ruby (old: 97) lydo: Nhặt từ map at 03/29/2023 2:40 AM
+BAG:onkill add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/29/2023 2:40 AM
+BAG:onkill add 75xĐá Saphia (old: 74) lydo: Nhặt từ map at 03/29/2023 2:40 AM
+BAG:onkill add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/29/2023 2:40 AM
+BAG:onkill add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/29/2023 2:40 AM
+BAG:onkill add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/29/2023 2:40 AM
+BAG:onkill add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 03/29/2023 2:40 AM
+BAG:onkill add 99xĐá Ruby (old: 98) lydo: Nhặt từ map at 03/29/2023 2:40 AM
+BAG:onkill add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/29/2023 2:41 AM
+BAG:onkill add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/29/2023 2:41 AM
+BAG:onkill add 76xĐá Saphia (old: 75) lydo: Nhặt từ map at 03/29/2023 2:41 AM
+BAG:onkill add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 03/29/2023 2:41 AM
+BAG:onkill add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 03/29/2023 2:42 AM
+BAG:onkill add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/29/2023 2:42 AM
+BAG:onkill add 77xĐá Saphia (old: 76) lydo: Nhặt từ map at 03/29/2023 2:43 AM
+BAG:onkill add 71xĐá Titan (old: 70) lydo: Nhặt từ map at 03/29/2023 2:45 AM
+BAG:onkill add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/29/2023 2:45 AM
+BAG:onkill add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/29/2023 2:45 AM
+BAG:onkill add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/29/2023 2:47 AM
+BAG:onkill add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/29/2023 2:47 AM
+BAG:onkill add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 03/29/2023 2:48 AM
+BAG:onkill add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/29/2023 2:48 AM
+BAG:onkill add 72xĐá Titan (old: 71) lydo: Nhặt từ map at 03/29/2023 2:48 AM
+BAG:onkill add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/29/2023 2:48 AM
+BAG:onkill add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/29/2023 2:48 AM
+BAG:onkill add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/29/2023 2:49 AM
+BAG:onkill add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 03/29/2023 2:49 AM
+BAG:onkill add 73xĐá Titan (old: 72) lydo: Nhặt từ map at 03/29/2023 2:49 AM
+BAG:onkill add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 03/29/2023 2:49 AM
+BAG:onkill add 74xĐá Titan (old: 73) lydo: Nhặt từ map at 03/29/2023 2:51 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ rương qua người at 03/29/2023 2:53 AM
+BAG:onkill add 1xHợp thể Kamioren lydo: Lấy từ rương qua người at 03/29/2023 2:53 AM
+BAG:onkill add 1xGiày lưỡng long lydo: Lấy từ rương qua người at 03/29/2023 2:53 AM
+BAG:onkill add 1xQuần lưỡng long lydo: Lấy từ rương qua người at 03/29/2023 2:53 AM
+BAG:onkill add 1xÁo lưỡng long lydo: Lấy từ rương qua người at 03/29/2023 2:53 AM
+BAG:onkill add 1xGăng Hủy Diệt lydo: Lấy từ rương qua người at 03/29/2023 2:53 AM
+BAG:onkill add 1xRada cấp 12 lydo: Lấy từ rương qua người at 03/29/2023 2:53 AM
+BAG:onkill add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 03/29/2023 2:54 AM
+BAG:onkill add 1xÁo lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 6:31 AM
+BAG:onkill add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 6:31 AM
+BAG:onkill add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/29/2023 6:31 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 6:32 AM
+BAG:onkill add 1xRada cấp 12 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 6:32 AM
+BAG:onkill add 1xGiày lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/29/2023 6:32 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/29/2023 6:32 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 7:20 AM
+BAG:onkill add 1xCá heo lydo: Mua từ bill at 03/29/2023 7:28 AM
+BAG:onkill add 1xXiên cá lydo: Mua từ cửa hàng at 03/29/2023 7:28 AM
+BAG:onkill add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 7:36 AM
+BAG:onkill add 1xQuần lông đỏ lydo: Lấy từ rương qua người at 03/29/2023 7:37 AM
+BAG:onkill add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/29/2023 7:37 AM
+BAG:onkill add 19xĐá Vĩnh Hằng (old: 2) lydo: Lấy từ rương qua người at 03/29/2023 7:37 AM
+BAG:onkill add 19xĐá Hắc Hóa (old: 2) lydo: Lấy từ rương qua người at 03/29/2023 7:37 AM
+BAG:onkill add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 7:38 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 7:39 AM
+BAG:onkill add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 7:45 AM
+BAG:onkill add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/29/2023 7:51 AM
+BAG:onkill add 2xNgọc Rồng 1 sao lydo: (GD) Nhận từ kamee1hp at 03/29/2023 7:53 AM
+BAG:onkill add 1xNgọc Rồng 2 sao lydo: (GD) Nhận từ kamee1hp at 03/29/2023 7:53 AM
+BAG:onkill add 2xNgọc Rồng 3 sao lydo: (GD) Nhận từ kamee1hp at 03/29/2023 7:53 AM
+BAG:onkill add 2xNgọc Rồng 4 sao lydo: (GD) Nhận từ kamee1hp at 03/29/2023 7:53 AM
+BAG:onkill add 2xNgọc Rồng 5 sao lydo: (GD) Nhận từ kamee1hp at 03/29/2023 7:53 AM
+BAG:onkill add 2xNgọc Rồng 7 sao lydo: (GD) Nhận từ kamee1hp at 03/29/2023 7:53 AM
+BAG:onkill add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/29/2023 8:01 AM
+BAG:onkill add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/29/2023 8:02 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 8:03 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 8:06 AM
+BAG:onkill add 3xPháo hoa (old: 2) lydo: Nhặt từ map at 03/29/2023 8:09 AM
+BAG:onkill add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/29/2023 8:14 AM
+BAG:onkill add 2xCuồng nộ (old: 1) lydo: HQT at 03/29/2023 8:14 AM
+BAG:onkill add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/29/2023 8:14 AM
+BAG:onkill add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/29/2023 8:14 AM
+BAG:onkill add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/29/2023 8:14 AM
+BAG:onkill add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/29/2023 8:14 AM
+BAG:onkill add 27xNgọc Rồng 6 sao (old: 26) lydo: HQT at 03/29/2023 8:14 AM
+BAG:onkill add 53xNgọc Rồng 4 sao (old: 52) lydo: HQT at 03/29/2023 8:14 AM
+BAG:onkill add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 4xBánh trung thu thập cẩm lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 7xBánh trung thu thập cẩm (old: 4) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 2xGà quay nguyên con lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 3xBột mì lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 3xTrứng vịt muối lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 8xBánh trung thu thập cẩm (old: 7) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 6xBột mì (old: 3) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 12xBánh trung thu thập cẩm (old: 8) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 10xBột mì (old: 6) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 14xBột mì (old: 10) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 1xCủ cà rốt lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 4xCủ cà rốt (old: 1) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 15xBánh trung thu thập cẩm (old: 12) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 5xCủ cà rốt (old: 4) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:onkill add 1xLồng đèn Ông Sao lydo: CSTT at 03/29/2023 8:19 AM
+BAG:onkill add 1xLồng đèn Con gà lydo: CSTT at 03/29/2023 8:19 AM
+BAG:onkill add 54xNgọc Rồng 4 sao (old: 53) lydo: CSTT at 03/29/2023 8:19 AM
+BAG:onkill add 55xNgọc Rồng 4 sao (old: 54) lydo: CSTT at 03/29/2023 8:19 AM
+BAG:onkill add 19xNgọc Rồng 5 sao (old: 18) lydo: CSTT at 03/29/2023 8:19 AM
+BAG:onkill add 1xLồng đèn Kéo Quân lydo: CSTT at 03/29/2023 8:19 AM
+BAG:onkill add 20xNgọc Rồng 5 sao (old: 19) lydo: CSTT at 03/29/2023 8:19 AM
+BAG:onkill add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/29/2023 8:21 AM
+BAG:onkill add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/29/2023 8:21 AM
+BAG:onkill add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/29/2023 8:21 AM
+BAG:onkill add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/29/2023 8:21 AM
+BAG:onkill add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/29/2023 8:21 AM
+BAG:onkill add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/29/2023 8:21 AM
+BAG:onkill add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 8:21 AM
+BAG:onkill add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 8:21 AM
+BAG:onkill add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/29/2023 8:23 AM
+BAG:onkill add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/29/2023 8:23 AM
+BAG:onkill add 2xĐậu xanh lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:onkill add 4xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:onkill add 6xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:onkill add 8xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:onkill add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:onkill add 5xCủ cà rốt (old: 4) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:onkill add 12xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:onkill add 4xPháo hoa (old: 3) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:onkill add 1xQuần jean Calic lydo: Nhặt từ map at 03/29/2023 8:26 AM
+BAG:onkill add 5xPháo hoa (old: 4) lydo: Nhặt từ map at 03/29/2023 8:26 AM
+BAG:onkill add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/29/2023 8:26 AM
+BAG:onkill add 78xĐá Saphia (old: 77) lydo: Nhặt từ map at 03/29/2023 8:27 AM
+BAG:onkill add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/29/2023 8:30 AM
+BAG:onkill add 6xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 8:30 AM
+BAG:onkill add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 8:30 AM
+BAG:onkill add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 8:31 AM
+BAG:onkill add 7xPháo hoa (old: 6) lydo: Nhặt từ map at 03/29/2023 8:31 AM
+BAG:onkill add 1xÁo lưỡng long lydo: Nhặt từ map at 03/29/2023 8:31 AM
+BAG:onkill add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/29/2023 8:34 AM
+BAG:onkill add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 8:34 AM
+BAG:onkill add 8xPháo hoa (old: 7) lydo: Nhặt từ map at 03/29/2023 8:35 AM
+BAG:onkill add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhặt từ map at 03/29/2023 8:37 AM
+BAG:onkill add 9xPháo hoa (old: 8) lydo: Nhặt từ map at 03/29/2023 8:37 AM
+BAG:onkill add 14xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/29/2023 8:38 AM
+BAG:onkill add 6xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/29/2023 8:38 AM
+BAG:onkill add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/29/2023 8:38 AM
+BAG:onkill add 17xBột mì (old: 14) lydo: Nhặt từ map at 03/29/2023 8:38 AM
+BAG:onkill add 18xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/29/2023 8:38 AM
+BAG:onkill add 7xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/29/2023 8:38 AM
+BAG:onkill add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 03/29/2023 8:42 AM
+BAG:onkill add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhặt từ map at 03/29/2023 8:43 AM
+BAG:onkill add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 03/29/2023 8:44 AM
+BAG:onkill add 29xNgọc Rồng 6 sao (old: 28) lydo: Nhặt từ map at 03/29/2023 8:45 AM
+BAG:onkill add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhặt từ map at 03/29/2023 8:45 AM
+BAG:onkill add 10xPháo hoa (old: 9) lydo: Nhặt từ map at 03/29/2023 8:45 AM
+BAG:onkill add 11xPháo hoa (old: 10) lydo: Nhặt từ map at 03/29/2023 8:45 AM
+BAG:onkill add 12xPháo hoa (old: 11) lydo: Nhặt từ map at 03/29/2023 8:45 AM
+BAG:onkill add 1xGiày lưỡng long lydo: Nhặt từ map at 03/29/2023 8:46 AM
+BAG:onkill add 1xMáy dò Capsule kì bí lydo: Mua từ cửa hàng at 03/29/2023 8:47 AM
+BAG:onkill add 2xMáy dò Capsule kì bí (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 8:47 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 8:49 AM
+BAG:onkill add 75xĐá Titan (old: 74) lydo: Nhặt từ map at 03/29/2023 8:52 AM
+BAG:onkill add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 8:52 AM
+BAG:onkill add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 8:52 AM
+BAG:onkill add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:onkill add 76xĐá Titan (old: 75) lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:onkill add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:onkill add 77xĐá Titan (old: 76) lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:onkill add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 03/29/2023 8:54 AM
+BAG:onkill add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/29/2023 8:54 AM
+BAG:onkill add 58xNgọc Rồng 4 sao (old: 57) lydo: Nhặt từ map at 03/29/2023 8:54 AM
+BAG:onkill add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/29/2023 8:54 AM
+BAG:onkill add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/29/2023 8:55 AM
+BAG:onkill add 79xĐá Saphia (old: 78) lydo: Nhặt từ map at 03/29/2023 8:55 AM
+BAG:onkill add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/29/2023 8:55 AM
+BAG:onkill add 78xĐá Titan (old: 77) lydo: Nhặt từ map at 03/29/2023 8:56 AM
+BAG:onkill add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/29/2023 8:56 AM
+BAG:onkill add 30xNgọc Rồng 6 sao (old: 29) lydo: Nhặt từ map at 03/29/2023 8:56 AM
+BAG:onkill add 59xNgọc Rồng 4 sao (old: 58) lydo: Nhặt từ map at 03/29/2023 8:56 AM
+BAG:onkill add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/29/2023 8:57 AM
+BAG:onkill add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 03/29/2023 8:57 AM
+BAG:onkill add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/29/2023 8:57 AM
+BAG:onkill add 31xNgọc Rồng 6 sao (old: 30) lydo: Nhặt từ map at 03/29/2023 8:57 AM
+BAG:onkill add 80xĐá Saphia (old: 79) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:onkill add 79xĐá Titan (old: 78) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:onkill add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:onkill add 80xĐá Titan (old: 79) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:onkill add 81xĐá Titan (old: 80) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:onkill add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:onkill add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:onkill add 82xĐá Titan (old: 81) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:onkill add 32xNgọc Rồng 6 sao (old: 31) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:onkill add 81xĐá Saphia (old: 80) lydo: Nhặt từ map at 03/29/2023 8:59 AM
+BAG:onkill add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/29/2023 8:59 AM
+BAG:onkill add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 03/29/2023 9:00 AM
+BAG:onkill add 83xĐá Titan (old: 82) lydo: Nhặt từ map at 03/29/2023 9:00 AM
+BAG:onkill add 60xNgọc Rồng 4 sao (old: 59) lydo: Nhặt từ map at 03/29/2023 9:01 AM
+BAG:onkill add 82xĐá Saphia (old: 81) lydo: Nhặt từ map at 03/29/2023 9:01 AM
+BAG:onkill add 61xNgọc Rồng 4 sao (old: 60) lydo: Nhặt từ map at 03/29/2023 9:01 AM
+BAG:onkill add 84xĐá Titan (old: 83) lydo: Nhặt từ map at 03/29/2023 9:01 AM
+BAG:onkill add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 03/29/2023 9:01 AM
+BAG:onkill add 62xNgọc Rồng 4 sao (old: 61) lydo: Nhặt từ map at 03/29/2023 9:02 AM
+BAG:onkill add 63xNgọc Rồng 4 sao (old: 62) lydo: Nhặt từ map at 03/29/2023 9:02 AM
+BAG:onkill add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 03/29/2023 9:02 AM
+BAG:onkill add 83xĐá Saphia (old: 82) lydo: Nhặt từ map at 03/29/2023 9:03 AM
+BAG:onkill add 64xNgọc Rồng 4 sao (old: 63) lydo: Nhặt từ map at 03/29/2023 9:03 AM
+BAG:onkill add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 03/29/2023 9:03 AM
+BAG:onkill add 85xĐá Titan (old: 84) lydo: Nhặt từ map at 03/29/2023 9:03 AM
+BAG:onkill add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/29/2023 9:03 AM
+BAG:onkill add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 03/29/2023 9:03 AM
+BAG:onkill add 65xNgọc Rồng 4 sao (old: 64) lydo: Nhặt từ map at 03/29/2023 9:03 AM
+BAG:onkill add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/29/2023 9:04 AM
+BAG:onkill add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 03/29/2023 9:04 AM
+BAG:onkill add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 03/29/2023 9:04 AM
+BAG:onkill add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 03/29/2023 9:04 AM
+BAG:onkill add 66xNgọc Rồng 4 sao (old: 65) lydo: Nhặt từ map at 03/29/2023 9:04 AM
+BAG:onkill add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 03/29/2023 9:04 AM
+BAG:onkill add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/29/2023 9:05 AM
+BAG:onkill add 67xNgọc Rồng 4 sao (old: 66) lydo: Nhặt từ map at 03/29/2023 9:05 AM
+BAG:onkill add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/29/2023 9:05 AM
+BAG:onkill add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/29/2023 9:05 AM
+BAG:onkill add 68xNgọc Rồng 4 sao (old: 67) lydo: Nhặt từ map at 03/29/2023 9:05 AM
+BAG:onkill add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/29/2023 9:05 AM
+BAG:onkill add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:onkill add 69xNgọc Rồng 4 sao (old: 68) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:onkill add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:onkill add 70xNgọc Rồng 4 sao (old: 69) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:onkill add 84xĐá Saphia (old: 83) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:onkill add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:onkill add 71xNgọc Rồng 4 sao (old: 70) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:onkill add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/29/2023 9:07 AM
+BAG:onkill add 72xNgọc Rồng 4 sao (old: 71) lydo: Nhặt từ map at 03/29/2023 9:07 AM
+BAG:onkill add 33xNgọc Rồng 6 sao (old: 32) lydo: Nhặt từ map at 03/29/2023 9:07 AM
+BAG:onkill add 73xNgọc Rồng 4 sao (old: 72) lydo: Nhặt từ map at 03/29/2023 9:07 AM
+BAG:onkill add 85xĐá Saphia (old: 84) lydo: Nhặt từ map at 03/29/2023 9:07 AM
+BAG:onkill add 74xNgọc Rồng 4 sao (old: 73) lydo: Nhặt từ map at 03/29/2023 9:08 AM
+BAG:onkill add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/29/2023 9:08 AM
+BAG:onkill add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/29/2023 9:08 AM
+BAG:onkill add 86xĐá Titan (old: 85) lydo: Nhặt từ map at 03/29/2023 9:08 AM
+BAG:onkill add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/29/2023 9:09 AM
+BAG:onkill add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/29/2023 9:09 AM
+BAG:onkill add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/29/2023 9:09 AM
+BAG:onkill add 87xĐá Titan (old: 86) lydo: Nhặt từ map at 03/29/2023 9:10 AM
+BAG:onkill add 75xNgọc Rồng 4 sao (old: 74) lydo: Nhặt từ map at 03/29/2023 9:10 AM
+BAG:onkill add 86xĐá Saphia (old: 85) lydo: Nhặt từ map at 03/29/2023 9:10 AM
+BAG:onkill add 87xĐá Saphia (old: 86) lydo: Nhặt từ map at 03/29/2023 9:11 AM
+BAG:onkill add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 03/29/2023 9:11 AM
+BAG:onkill add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/29/2023 9:11 AM
+BAG:onkill add 76xNgọc Rồng 4 sao (old: 75) lydo: Nhặt từ map at 03/29/2023 9:12 AM
+BAG:onkill add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/29/2023 9:12 AM
+BAG:onkill add 88xĐá Titan (old: 87) lydo: Nhặt từ map at 03/29/2023 9:12 AM
+BAG:onkill add 77xNgọc Rồng 4 sao (old: 76) lydo: Nhặt từ map at 03/29/2023 9:12 AM
+BAG:onkill add 78xNgọc Rồng 4 sao (old: 77) lydo: Nhặt từ map at 03/29/2023 9:12 AM
+BAG:onkill add 34xNgọc Rồng 6 sao (old: 33) lydo: Nhặt từ map at 03/29/2023 9:13 AM
+BAG:onkill add 89xĐá Titan (old: 88) lydo: Nhặt từ map at 03/29/2023 9:13 AM
+BAG:onkill add 88xĐá Saphia (old: 87) lydo: Nhặt từ map at 03/29/2023 9:14 AM
+BAG:onkill add 79xNgọc Rồng 4 sao (old: 78) lydo: Nhặt từ map at 03/29/2023 9:14 AM
+BAG:onkill add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/29/2023 9:15 AM
+BAG:onkill add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 03/29/2023 9:15 AM
+BAG:onkill add 90xĐá Titan (old: 89) lydo: Nhặt từ map at 03/29/2023 9:15 AM
+BAG:onkill add 80xNgọc Rồng 4 sao (old: 79) lydo: Nhặt từ map at 03/29/2023 9:16 AM
+BAG:onkill add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 03/29/2023 9:16 AM
+BAG:onkill add 81xNgọc Rồng 4 sao (old: 80) lydo: Nhặt từ map at 03/29/2023 9:16 AM
+BAG:onkill add 70xĐá lục bảo (old: 69) lydo: Nhặt từ map at 03/29/2023 9:16 AM
+BAG:onkill add 71xĐá lục bảo (old: 70) lydo: Nhặt từ map at 03/29/2023 9:16 AM
+BAG:onkill add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/29/2023 9:16 AM
+BAG:onkill add 91xĐá Titan (old: 90) lydo: Nhặt từ map at 03/29/2023 9:16 AM
+BAG:onkill add 72xĐá lục bảo (old: 71) lydo: Nhặt từ map at 03/29/2023 9:17 AM
+BAG:onkill add 82xNgọc Rồng 4 sao (old: 81) lydo: Nhặt từ map at 03/29/2023 9:17 AM
+BAG:onkill add 89xĐá Saphia (old: 88) lydo: Nhặt từ map at 03/29/2023 9:17 AM
+BAG:onkill add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/29/2023 9:17 AM
+BAG:onkill add 73xĐá lục bảo (old: 72) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:onkill add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:onkill add 83xNgọc Rồng 4 sao (old: 82) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:onkill add 74xĐá lục bảo (old: 73) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:onkill add 75xĐá lục bảo (old: 74) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:onkill add 84xNgọc Rồng 4 sao (old: 83) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:onkill add 92xĐá Titan (old: 91) lydo: Nhặt từ map at 03/29/2023 9:19 AM
+BAG:onkill add 93xĐá Titan (old: 92) lydo: Nhặt từ map at 03/29/2023 9:19 AM
+BAG:onkill add 94xĐá Titan (old: 93) lydo: Nhặt từ map at 03/29/2023 9:19 AM
+BAG:onkill add 95xĐá Titan (old: 94) lydo: Nhặt từ map at 03/29/2023 9:19 AM
+BAG:onkill add 90xĐá Saphia (old: 89) lydo: Nhặt từ map at 03/29/2023 9:19 AM
+BAG:onkill add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 03/29/2023 9:19 AM
+BAG:onkill add 76xĐá lục bảo (old: 75) lydo: Nhặt từ map at 03/29/2023 9:19 AM
+BAG:onkill add 77xĐá lục bảo (old: 76) lydo: Nhặt từ map at 03/29/2023 9:20 AM
+BAG:onkill add 27xNgọc Rồng 5 sao (old: 26) lydo: Nhặt từ map at 03/29/2023 9:20 AM
+BAG:onkill add 91xĐá Saphia (old: 90) lydo: Nhặt từ map at 03/29/2023 9:20 AM
+BAG:onkill add 85xNgọc Rồng 4 sao (old: 84) lydo: Nhặt từ map at 03/29/2023 9:20 AM
+BAG:onkill add 96xĐá Titan (old: 95) lydo: Nhặt từ map at 03/29/2023 9:20 AM
+BAG:onkill add 28xNgọc Rồng 5 sao (old: 27) lydo: Nhặt từ map at 03/29/2023 9:20 AM
+BAG:onkill add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 03/29/2023 9:21 AM
+BAG:onkill add 97xĐá Titan (old: 96) lydo: Nhặt từ map at 03/29/2023 9:21 AM
+BAG:onkill add 86xNgọc Rồng 4 sao (old: 85) lydo: Nhặt từ map at 03/29/2023 9:21 AM
+BAG:onkill add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 03/29/2023 9:21 AM
+BAG:onkill add 92xĐá Saphia (old: 91) lydo: Nhặt từ map at 03/29/2023 9:21 AM
+BAG:onkill add 78xĐá lục bảo (old: 77) lydo: Nhặt từ map at 03/29/2023 9:22 AM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 12:04 PM
+BAG:onkill add 93xĐá Saphia (old: 92) lydo: Nhặt từ map at 03/29/2023 12:07 PM
+BAG:onkill add 94xĐá Saphia (old: 93) lydo: Nhặt từ map at 03/29/2023 12:07 PM
+BAG:onkill add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/29/2023 12:08 PM
+BAG:onkill add 35xNgọc Rồng 6 sao (old: 34) lydo: Nhặt từ map at 03/29/2023 12:08 PM
+BAG:onkill add 95xĐá Saphia (old: 94) lydo: Nhặt từ map at 03/29/2023 12:08 PM
+BAG:onkill add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/29/2023 12:08 PM
+BAG:onkill add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 03/29/2023 12:09 PM
+BAG:onkill add 36xNgọc Rồng 6 sao (old: 35) lydo: Nhặt từ map at 03/29/2023 12:09 PM
+BAG:onkill add 96xĐá Saphia (old: 95) lydo: Nhặt từ map at 03/29/2023 12:09 PM
+BAG:onkill add 87xNgọc Rồng 4 sao (old: 86) lydo: Nhặt từ map at 03/29/2023 12:09 PM
+BAG:onkill add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 03/29/2023 12:10 PM
+BAG:onkill add 29xNgọc Rồng 5 sao (old: 28) lydo: Nhặt từ map at 03/29/2023 12:10 PM
+BAG:onkill add 97xĐá Saphia (old: 96) lydo: Nhặt từ map at 03/29/2023 12:10 PM
+BAG:onkill add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/29/2023 12:15 PM
+BAG:onkill add 13xPháo hoa (old: 12) lydo: Nhặt từ map at 03/29/2023 12:25 PM
+BAG:onkill add 98xĐá Titan (old: 97) lydo: Nhặt từ map at 03/29/2023 12:26 PM
+BAG:onkill add 99xĐá Titan (old: 98) lydo: Nhặt từ map at 03/29/2023 12:27 PM
+BAG:onkill add 98xĐá Saphia (old: 97) lydo: Nhặt từ map at 03/29/2023 12:28 PM
+BAG:onkill add 37xNgọc Rồng 6 sao (old: 36) lydo: Nhặt từ map at 03/29/2023 12:28 PM
+BAG:onkill add 88xNgọc Rồng 4 sao (old: 87) lydo: Nhặt từ map at 03/29/2023 12:28 PM
+BAG:onkill add 30xNgọc Rồng 5 sao (old: 29) lydo: Nhặt từ map at 03/29/2023 12:28 PM
+BAG:onkill add 99xĐá Saphia (old: 98) lydo: Nhặt từ map at 03/29/2023 12:30 PM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 12:32 PM
+BAG:onkill add 50xNgọc Rồng 3 sao lydo: (GD) Nhận từ masenco1hp at 03/29/2023 3:01 PM
+BAG:onkill add 10xNgọc Rồng 1 sao lydo: (GD) Nhận từ masenco1hp at 03/29/2023 3:01 PM
+BAG:onkill add 10xNgọc Rồng 2 sao lydo: (GD) Nhận từ masenco1hp at 03/29/2023 3:01 PM
+BAG:onkill add 10xNgọc Rồng 4 sao lydo: (GD) Nhận từ masenco1hp at 03/29/2023 3:01 PM
+BAG:onkill add 10xNgọc Rồng 6 sao lydo: (GD) Nhận từ masenco1hp at 03/29/2023 3:01 PM
+BAG:onkill add 10xNgọc Rồng 5 sao lydo: (GD) Nhận từ masenco1hp at 03/29/2023 3:01 PM
+BAG:onkill add 10xNgọc Rồng 7 sao lydo: (GD) Nhận từ masenco1hp at 03/29/2023 3:01 PM
+BAG:onkill add 11xNgọc Rồng 2 sao (old: 10) lydo: Lấy từ rương qua người at 03/29/2023 3:01 PM
+BAG:onkill add 60xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/29/2023 3:01 PM
+BAG:onkill add 99xNgọc Rồng 4 sao (old: 98) lydo: Lấy từ rương qua người at 03/29/2023 3:01 PM
+BAG:onkill add 51xNgọc Rồng 5 sao (old: 40) lydo: Lấy từ rương qua người at 03/29/2023 3:01 PM
+BAG:onkill add 22xNgọc Rồng 7 sao (old: 18) lydo: Lấy từ rương qua người at 03/29/2023 3:01 PM
+BAG:onkill add 50xNgọc Rồng 3 sao lydo: (GD) Nhận từ masenco1hp at 03/29/2023 3:02 PM
+BAG:onkill add 99xCuồng nộ lydo: (GD) Nhận từ masenco1hp at 03/29/2023 3:02 PM
+BAG:onkill add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/29/2023 3:03 PM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 3:05 PM
+BAG:onkill add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/29/2023 3:05 PM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 3:05 PM
+BAG:onkill add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/29/2023 3:05 PM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 3:05 PM
+BAG:onkill add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/29/2023 3:07 PM
+BAG:onkill add 1xQuần lông đỏ lydo: Lấy từ rương qua người at 03/29/2023 3:07 PM
+BAG:onkill add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 3:08 PM
+BAG:onkill add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/29/2023 3:10 PM
+BAG:onkill add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 3:10 PM
+BAG:onkill add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 3:11 PM
+BAG:onkill add 1xÁo Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 3:11 PM
+BAG:onkill add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 3:11 PM
+BAG:onkill add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 3:12 PM
+BAG:onkill add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/29/2023 3:12 PM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 4:09 PM
+BAG:onkill add 99xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/29/2023 4:24 PM
+BAG:onkill add 95xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/29/2023 4:25 PM
+BAG:onkill add 1xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 03/29/2023 4:25 PM
+BAG:onkill add 50xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/29/2023 4:25 PM
+BAG:onkill add 96xNgọc Rồng 3 sao (old: 95) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 97xNgọc Rồng 3 sao (old: 96) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 98xNgọc Rồng 3 sao (old: 97) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 99xNgọc Rồng 3 sao (old: 98) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhập ngọc at 03/29/2023 4:25 PM
+BAG:onkill add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/29/2023 4:26 PM
+BAG:onkill add 2xNgọc Rồng 1 sao (old: 1) lydo: Nhập ngọc at 03/29/2023 4:26 PM
+BAG:onkill add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/29/2023 4:26 PM
+BAG:onkill add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/29/2023 4:26 PM
+BAG:onkill add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/29/2023 4:26 PM
+BAG:onkill add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 9xNgọc Rồng 3 sao (old: 8) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 10xNgọc Rồng 3 sao (old: 9) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 11xNgọc Rồng 3 sao (old: 10) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 12xNgọc Rồng 3 sao (old: 11) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 13xNgọc Rồng 3 sao (old: 12) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 14xNgọc Rồng 3 sao (old: 13) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 15xNgọc Rồng 3 sao (old: 14) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 16xNgọc Rồng 3 sao (old: 15) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 17xNgọc Rồng 3 sao (old: 16) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 18xNgọc Rồng 3 sao (old: 17) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/29/2023 4:27 PM
+BAG:onkill add 41xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/29/2023 4:28 PM
+BAG:onkill add 12xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/29/2023 4:28 PM
+BAG:onkill add 37xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/29/2023 4:28 PM
+BAG:onkill add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/29/2023 4:28 PM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 4:29 PM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 7:47 PM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 7:53 PM
+BAG:onkill add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/29/2023 7:55 PM
+BAG:onkill add 1xNhẫn Thần Linh lydo: Nhặt từ map at 03/29/2023 7:55 PM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 8:57 PM
+BAG:onkill add 10xNgọc Rồng 3 sao (old: 9) lydo: Nhặt từ map at 03/29/2023 9:04 PM
+BAG:onkill add 1xQuần vàng Zealot lydo: Nhặt từ map at 03/29/2023 9:05 PM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/29/2023 10:00 PM
+BAG:onkill add 50xCuồng nộ lydo: (GD) Nhận từ hauholy at 03/29/2023 10:05 PM
+BAG:onkill add 1xKiếm ánh sáng lydo: Mua từ cửa hàng at 03/29/2023 10:08 PM
+BAG:onkill add 1xGiáp tập luyện cấp 3 lydo: Lấy từ rương qua người at 03/29/2023 10:15 PM
+BAG:onkill add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 10:27 PM
+BAG:onkill add 1xCải trang Siêu Thần Xayda lydo: Mua từ cửa hàng at 03/29/2023 10:28 PM

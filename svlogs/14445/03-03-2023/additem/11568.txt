@@ -1,0 +1,375 @@
+BAG:cucarotkakarot add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 5:09 AM
+BAG:cucarotkakarot add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 5:09 AM
+BAG:cucarotkakarot add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/03/2023 5:11 AM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 6:56 AM
+BAG:cucarotkakarot add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 6:57 AM
+BAG:cucarotkakarot add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 6:57 AM
+BAG:cucarotkakarot add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 6:57 AM
+BAG:cucarotkakarot add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 6:57 AM
+BAG:cucarotkakarot add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 6:57 AM
+BAG:cucarotkakarot add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 6:57 AM
+BAG:cucarotkakarot add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 6:57 AM
+BAG:cucarotkakarot add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 6:57 AM
+BAG:cucarotkakarot add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/03/2023 6:57 AM
+BAG:cucarotkakarot add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/03/2023 6:57 AM
+BAG:cucarotkakarot add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 6:58 AM
+BAG:cucarotkakarot add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 1xQuần lông đỏ lydo: Lấy từ rương qua người at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 1xQuần lông đỏ lydo: Lấy từ rương qua người at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 1xQuần lông đỏ lydo: Lấy từ rương qua người at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/03/2023 6:59 AM
+BAG:cucarotkakarot add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 7:00 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 7:00 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 7:00 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 7:00 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 7:00 AM
+BAG:cucarotkakarot add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 7:01 AM
+BAG:cucarotkakarot add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 7:01 AM
+BAG:cucarotkakarot add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 7:01 AM
+BAG:cucarotkakarot add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 7:01 AM
+BAG:cucarotkakarot add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 7:01 AM
+BAG:cucarotkakarot add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 7:01 AM
+BAG:cucarotkakarot add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 7:01 AM
+BAG:cucarotkakarot add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 7:01 AM
+BAG:cucarotkakarot add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 7:02 AM
+BAG:cucarotkakarot add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 7:02 AM
+BAG:cucarotkakarot add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 7:02 AM
+BAG:cucarotkakarot add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 7:02 AM
+BAG:cucarotkakarot add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 7:03 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 7:03 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 7:03 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 7:03 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 7:03 AM
+BAG:cucarotkakarot add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 7:04 AM
+BAG:cucarotkakarot add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 7:04 AM
+BAG:cucarotkakarot add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 7:04 AM
+BAG:cucarotkakarot add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 7:04 AM
+BAG:cucarotkakarot add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 7:04 AM
+BAG:cucarotkakarot add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 7:04 AM
+BAG:cucarotkakarot add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 7:04 AM
+BAG:cucarotkakarot add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 7:04 AM
+BAG:cucarotkakarot add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 7:06 AM
+BAG:cucarotkakarot add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 7:06 AM
+BAG:cucarotkakarot add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 7:06 AM
+BAG:cucarotkakarot add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 7:06 AM
+BAG:cucarotkakarot add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/03/2023 7:06 AM
+BAG:cucarotkakarot add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/03/2023 8:55 AM
+BAG:cucarotkakarot add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/03/2023 8:55 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 8:56 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 8:56 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 8:56 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 8:56 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 8:56 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 8:56 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 8:56 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 8:56 AM
+BAG:cucarotkakarot add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 8:56 AM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 8:57 AM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 8:57 AM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 8:58 AM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 8:58 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 8:58 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 8:58 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 8:58 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 8:58 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 8:58 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 8:58 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 8:58 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 8:58 AM
+BAG:cucarotkakarot add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/03/2023 8:58 AM
+BAG:cucarotkakarot add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/03/2023 8:59 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 8:59 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 8:59 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 8:59 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 8:59 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 8:59 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 8:59 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 8:59 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 8:59 AM
+BAG:cucarotkakarot add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:59 AM
+BAG:cucarotkakarot add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 03/03/2023 9:02 AM
+BAG:cucarotkakarot add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 03/03/2023 9:02 AM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 9:05 AM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 9:05 AM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 11:01 AM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 11:01 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 11:01 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 11:01 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 11:01 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 11:01 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 11:01 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 11:01 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 11:01 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 11:01 AM
+BAG:cucarotkakarot add 1xÁo Thần Xayda lydo: Cường Hóa trang bị at 03/03/2023 11:01 AM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 11:02 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 11:03 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 11:03 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 11:03 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 11:03 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 11:03 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 11:03 AM
+BAG:cucarotkakarot add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 11:03 AM
+BAG:cucarotkakarot add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 11:03 AM
+BAG:cucarotkakarot add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 11:03 AM
+BAG:cucarotkakarot add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 11:03 AM
+BAG:cucarotkakarot add 1xÁo Thần Xayda lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:04 AM
+BAG:cucarotkakarot add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 11:04 AM
+BAG:cucarotkakarot add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 11:07 AM
+BAG:cucarotkakarot add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 11:07 AM
+BAG:cucarotkakarot add 1xBột mì lydo: Nhặt từ map at 03/03/2023 11:08 AM
+BAG:cucarotkakarot add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 11:08 AM
+BAG:cucarotkakarot add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 11:08 AM
+BAG:cucarotkakarot add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:09 AM
+BAG:cucarotkakarot add 1xCải trang Jiren lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:09 AM
+BAG:cucarotkakarot add 1xQuần vải thô lydo: Nhặt từ map at 03/03/2023 11:09 AM
+BAG:cucarotkakarot add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 11:09 AM
+BAG:cucarotkakarot add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 11:10 AM
+BAG:cucarotkakarot add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 11:10 AM
+BAG:cucarotkakarot add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 11:10 AM
+BAG:cucarotkakarot add 1xQuần vải thô lydo: Nhặt từ map at 03/03/2023 11:12 AM
+BAG:cucarotkakarot add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 11:12 AM
+BAG:cucarotkakarot add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 11:12 AM
+BAG:cucarotkakarot add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 11:12 AM
+BAG:cucarotkakarot add 1xÁo vải thô lydo: Nhặt từ map at 03/03/2023 11:12 AM
+BAG:cucarotkakarot add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 11:13 AM
+BAG:cucarotkakarot add 1xÁo vải thô lydo: Nhặt từ map at 03/03/2023 11:13 AM
+BAG:cucarotkakarot add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 11:13 AM
+BAG:cucarotkakarot add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 11:13 AM
+BAG:cucarotkakarot add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 11:13 AM
+BAG:cucarotkakarot add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/03/2023 11:13 AM
+BAG:cucarotkakarot add 1xQuần vải thô lydo: Nhặt từ map at 03/03/2023 11:13 AM
+BAG:cucarotkakarot add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 11:13 AM
+BAG:cucarotkakarot add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 11:13 AM
+BAG:cucarotkakarot add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/03/2023 11:13 AM
+BAG:cucarotkakarot add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 11:14 AM
+BAG:cucarotkakarot add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 11:14 AM
+BAG:cucarotkakarot add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/03/2023 11:14 AM
+BAG:cucarotkakarot add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/03/2023 11:14 AM
+BAG:cucarotkakarot add 1xGăng vải thô lydo: Nhặt từ map at 03/03/2023 11:14 AM
+BAG:cucarotkakarot add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/03/2023 11:14 AM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 11:16 AM
+BAG:cucarotkakarot add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 11:17 AM
+BAG:cucarotkakarot add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/03/2023 11:18 AM
+BAG:cucarotkakarot add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 11:19 AM
+BAG:cucarotkakarot add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 1xÁo Thần Xayda lydo: Cường Hóa trang bị at 03/03/2023 11:20 AM
+BAG:cucarotkakarot add 1xGăng vải thô lydo: Nhặt từ map at 03/03/2023 11:23 AM
+BAG:cucarotkakarot add 1xQuần vải thô lydo: Nhặt từ map at 03/03/2023 11:29 AM
+BAG:cucarotkakarot add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 11:29 AM
+BAG:cucarotkakarot add 1xĐá Ruby lydo: Nhặt từ map at 03/03/2023 11:29 AM
+BAG:cucarotkakarot add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/03/2023 11:29 AM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 11:30 AM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 11:30 AM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 11:30 AM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 11:30 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 11:30 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 11:30 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 11:31 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 11:31 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 11:31 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 11:31 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 11:31 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 11:31 AM
+BAG:cucarotkakarot add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 11:37 AM
+BAG:cucarotkakarot add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/03/2023 11:38 AM
+BAG:cucarotkakarot add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/03/2023 11:38 AM
+BAG:cucarotkakarot add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/03/2023 11:38 AM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 11:38 AM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 11:38 AM
+BAG:cucarotkakarot add 1xCải trang Super Cumber lydo: Lấy từ body vào hành trang at 03/03/2023 11:38 AM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 11:39 AM
+BAG:cucarotkakarot add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/03/2023 11:40 AM
+BAG:cucarotkakarot add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/03/2023 11:40 AM
+BAG:cucarotkakarot add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/03/2023 11:40 AM
+BAG:cucarotkakarot add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 11:41 AM
+BAG:cucarotkakarot add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 11:41 AM
+BAG:cucarotkakarot add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 12:39 PM
+BAG:cucarotkakarot add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 12:41 PM
+BAG:cucarotkakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 12:43 PM
+BAG:cucarotkakarot add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/03/2023 12:43 PM
+BAG:cucarotkakarot add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/03/2023 12:43 PM
+BAG:cucarotkakarot add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/03/2023 12:43 PM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 12:48 PM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 12:48 PM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/03/2023 12:49 PM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 12:50 PM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 12:50 PM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 12:50 PM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 12:50 PM
+BAG:cucarotkakarot add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/03/2023 1:14 PM
+BAG:cucarotkakarot add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 1:15 PM
+BAG:cucarotkakarot add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 1:15 PM
+BAG:cucarotkakarot add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 1:15 PM
+BAG:cucarotkakarot add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 1:15 PM
+BAG:cucarotkakarot add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 1:15 PM
+BAG:cucarotkakarot add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 1:15 PM
+BAG:cucarotkakarot add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 1:15 PM
+BAG:cucarotkakarot add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 1:15 PM
+BAG:cucarotkakarot add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/03/2023 1:15 PM
+BAG:cucarotkakarot add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/03/2023 1:15 PM
+BAG:cucarotkakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:19 PM
+BAG:cucarotkakarot add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/03/2023 1:35 PM
+BAG:cucarotkakarot add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/03/2023 1:35 PM
+BAG:cucarotkakarot add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/03/2023 1:35 PM
+BAG:cucarotkakarot add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/03/2023 1:35 PM
+BAG:cucarotkakarot add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/03/2023 1:35 PM
+BAG:cucarotkakarot add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/03/2023 1:35 PM
+BAG:cucarotkakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 6:31 PM
+BAG:cucarotkakarot add 1xÁo Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:35 PM
+BAG:cucarotkakarot add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:35 PM
+BAG:cucarotkakarot add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:35 PM
+BAG:cucarotkakarot add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:35 PM

@@ -1,0 +1,612 @@
+BAG:sonsubin add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/04/2023 12:14 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 12:16 AM
+BAG:sonsubin add 6xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/04/2023 12:16 AM
+BAG:sonsubin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 12:29 AM
+BAG:sonsubin add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 12:29 AM
+BAG:sonsubin add 8xĐậu thần cấp 2 (old: 6) lydo: Thu hoạch đậu at 03/04/2023 12:31 AM
+BAG:sonsubin add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/04/2023 12:38 AM
+BAG:sonsubin add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/04/2023 12:38 AM
+BAG:sonsubin add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/04/2023 12:39 AM
+BAG:sonsubin add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/04/2023 12:39 AM
+BAG:sonsubin add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/04/2023 12:39 AM
+BAG:sonsubin add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/04/2023 12:39 AM
+BAG:sonsubin add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/04/2023 12:39 AM
+BAG:sonsubin add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/04/2023 12:39 AM
+BAG:sonsubin add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/04/2023 12:39 AM
+BAG:sonsubin add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/04/2023 12:39 AM
+BAG:sonsubin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 12:39 AM
+BAG:sonsubin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 12:40 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 12:41 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 12:41 AM
+BAG:sonsubin add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 12:41 AM
+BAG:sonsubin add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/04/2023 12:43 AM
+BAG:sonsubin add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 12:45 AM
+BAG:sonsubin add 1000000xThỏi vàng lydo: Giftcode at 03/04/2023 12:47 AM
+BAG:sonsubin add 10000xĐá ngũ sắc lydo: Giftcode at 03/04/2023 12:47 AM
+BAG:sonsubin add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/04/2023 12:48 AM
+BAG:sonsubin add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/04/2023 12:48 AM
+BAG:sonsubin add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/04/2023 12:48 AM
+BAG:sonsubin add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/04/2023 12:48 AM
+BAG:sonsubin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 12:49 AM
+BAG:sonsubin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 12:49 AM
+BAG:sonsubin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 12:49 AM
+BAG:sonsubin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 12:49 AM
+BAG:sonsubin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 12:49 AM
+BAG:sonsubin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 12:49 AM
+BAG:sonsubin add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 03/04/2023 12:50 AM
+BAG:sonsubin add 1xMèo mun lydo: Mua từ cửa hàng at 03/04/2023 12:50 AM
+BAG:sonsubin add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/04/2023 12:51 AM
+BAG:sonsubin add 1xCải trang lydo: Mua từ bill at 03/04/2023 12:52 AM
+BAG:sonsubin add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/04/2023 12:59 AM
+BAG:sonsubin add 25xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/04/2023 12:59 AM
+BAG:sonsubin add 5xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 03/04/2023 12:59 AM
+BAG:sonsubin add 45xĐậu thần cấp 10 (old: 25) lydo: Lấy từ rương qua người at 03/04/2023 12:59 AM
+BAG:sonsubin add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/04/2023 12:59 AM
+BAG:sonsubin add 1xPháo hoa lydo: Nhặt từ map at 03/04/2023 1:03 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 1:05 AM
+BAG:sonsubin add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/04/2023 1:05 AM
+BAG:sonsubin add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 1:05 AM
+BAG:sonsubin add 1xBột mì lydo: Nhặt từ map at 03/04/2023 1:06 AM
+BAG:sonsubin add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 1:06 AM
+BAG:sonsubin add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 1:06 AM
+BAG:sonsubin add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 1:07 AM
+BAG:sonsubin add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 1:07 AM
+BAG:sonsubin add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/04/2023 1:07 AM
+BAG:sonsubin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 1:08 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 1:08 AM
+BAG:sonsubin add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/04/2023 1:08 AM
+BAG:sonsubin add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 1:09 AM
+BAG:sonsubin add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 1:09 AM
+BAG:sonsubin add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 1:10 AM
+BAG:sonsubin add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:sonsubin add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:sonsubin add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 1:11 AM
+BAG:sonsubin add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/04/2023 1:12 AM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/04/2023 1:13 AM
+BAG:sonsubin add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 1:13 AM
+BAG:sonsubin add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/04/2023 1:13 AM
+BAG:sonsubin add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 1:14 AM
+BAG:sonsubin add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/04/2023 1:14 AM
+BAG:sonsubin add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/04/2023 1:14 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 1:14 AM
+BAG:sonsubin add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 1:14 AM
+BAG:sonsubin add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/04/2023 1:14 AM
+BAG:sonsubin add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/04/2023 1:15 AM
+BAG:sonsubin add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/04/2023 1:19 AM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 1:19 AM
+BAG:sonsubin add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/04/2023 1:20 AM
+BAG:sonsubin add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/04/2023 1:21 AM
+BAG:sonsubin add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/04/2023 1:21 AM
+BAG:sonsubin add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 1:22 AM
+BAG:sonsubin add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/04/2023 1:27 AM
+BAG:sonsubin add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/04/2023 1:27 AM
+BAG:sonsubin add 1xBột mì lydo: Nhặt từ map at 03/04/2023 1:28 AM
+BAG:sonsubin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 1:28 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 1:28 AM
+BAG:sonsubin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 1:28 AM
+BAG:sonsubin add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 1:28 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 1:32 AM
+BAG:sonsubin add 1xBột mì lydo: Nhặt từ map at 03/04/2023 1:32 AM
+BAG:sonsubin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 1:32 AM
+BAG:sonsubin add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 1:32 AM
+BAG:sonsubin add 1xBột mì lydo: Nhặt từ map at 03/04/2023 1:33 AM
+BAG:sonsubin add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 1:33 AM
+BAG:sonsubin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 1:34 AM
+BAG:sonsubin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 1:34 AM
+BAG:sonsubin add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 1:34 AM
+BAG:sonsubin add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:34 AM
+BAG:sonsubin add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:34 AM
+BAG:sonsubin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 1:34 AM
+BAG:sonsubin add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:sonsubin add 1xBột mì lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:sonsubin add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:sonsubin add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:sonsubin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:sonsubin add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:sonsubin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 1:36 AM
+BAG:sonsubin add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 1:36 AM
+BAG:sonsubin add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/04/2023 1:38 AM
+BAG:sonsubin add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/04/2023 1:38 AM
+BAG:sonsubin add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/04/2023 1:39 AM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 1:39 AM
+BAG:sonsubin add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 1:39 AM
+BAG:sonsubin add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 1:39 AM
+BAG:sonsubin add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 1:39 AM
+BAG:sonsubin add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 1:39 AM
+BAG:sonsubin add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 1:41 AM
+BAG:sonsubin add 1xPháo hoa lydo: Nhặt từ map at 03/04/2023 1:44 AM
+BAG:sonsubin add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:sonsubin add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:sonsubin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:sonsubin add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:sonsubin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:sonsubin add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:sonsubin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:sonsubin add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:sonsubin add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:sonsubin add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/04/2023 2:02 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 2:02 AM
+BAG:sonsubin add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 2:02 AM
+BAG:sonsubin add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 2:02 AM
+BAG:sonsubin add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 2:03 AM
+BAG:sonsubin add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 2:03 AM
+BAG:sonsubin add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 2:03 AM
+BAG:sonsubin add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 2:03 AM
+BAG:sonsubin add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 2:03 AM
+BAG:sonsubin add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/04/2023 2:04 AM
+BAG:sonsubin add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 2:04 AM
+BAG:sonsubin add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 2:04 AM
+BAG:sonsubin add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 2:04 AM
+BAG:sonsubin add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/04/2023 2:04 AM
+BAG:sonsubin add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 2:04 AM
+BAG:sonsubin add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 2:04 AM
+BAG:sonsubin add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 2:05 AM
+BAG:sonsubin add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 2:05 AM
+BAG:sonsubin add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 2:05 AM
+BAG:sonsubin add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/04/2023 2:05 AM
+BAG:sonsubin add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/04/2023 2:05 AM
+BAG:sonsubin add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 2:06 AM
+BAG:sonsubin add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/04/2023 2:06 AM
+BAG:sonsubin add 1xBột mì lydo: Nhặt từ map at 03/04/2023 2:06 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 2:06 AM
+BAG:sonsubin add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/04/2023 2:07 AM
+BAG:sonsubin add 1xĐá Saphia lydo: Nhặt từ map at 03/04/2023 2:07 AM
+BAG:sonsubin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 2:07 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 2:07 AM
+BAG:sonsubin add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/04/2023 2:07 AM
+BAG:sonsubin add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/04/2023 2:08 AM
+BAG:sonsubin add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/04/2023 2:08 AM
+BAG:sonsubin add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/04/2023 2:08 AM
+BAG:sonsubin add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/04/2023 2:08 AM
+BAG:sonsubin add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 2:08 AM
+BAG:sonsubin add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 2:08 AM
+BAG:sonsubin add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 2:09 AM
+BAG:sonsubin add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/04/2023 2:09 AM
+BAG:sonsubin add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/04/2023 2:09 AM
+BAG:sonsubin add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/04/2023 2:09 AM
+BAG:sonsubin add 1xĐá Ruby lydo: Nhặt từ map at 03/04/2023 2:09 AM
+BAG:sonsubin add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 2:09 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:10 AM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:10 AM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:10 AM
+BAG:sonsubin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:10 AM
+BAG:sonsubin add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/04/2023 2:12 AM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 2:12 AM
+BAG:sonsubin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 2:12 AM
+BAG:sonsubin add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:13 AM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 2:40 AM
+BAG:sonsubin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 2:44 AM
+BAG:sonsubin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 2:44 AM
+BAG:sonsubin add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 2:44 AM
+BAG:sonsubin add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 2:44 AM
+BAG:sonsubin add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 2:44 AM
+BAG:sonsubin add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 2:44 AM
+BAG:sonsubin add 1xCải trang Xuka lydo: Mua từ cửa hàng at 03/04/2023 2:44 AM
+BAG:sonsubin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 2:45 AM
+BAG:sonsubin add 48xĐậu thần cấp 10 (old: 47) lydo: Clan cho đậu at 03/04/2023 6:52 AM
+BAG:sonsubin add 49xĐậu thần cấp 10 (old: 48) lydo: Clan cho đậu at 03/04/2023 6:52 AM
+BAG:sonsubin add 50xĐậu thần cấp 10 (old: 49) lydo: Clan cho đậu at 03/04/2023 6:52 AM
+BAG:sonsubin add 51xĐậu thần cấp 10 (old: 50) lydo: Clan cho đậu at 03/04/2023 6:52 AM
+BAG:sonsubin add 52xĐậu thần cấp 10 (old: 51) lydo: Clan cho đậu at 03/04/2023 6:52 AM
+BAG:sonsubin add 44xĐậu thần cấp 10 (old: 43) lydo: Clan cho đậu at 03/04/2023 6:57 AM
+BAG:sonsubin add 45xĐậu thần cấp 10 (old: 44) lydo: Clan cho đậu at 03/04/2023 6:57 AM
+BAG:sonsubin add 45xĐậu thần cấp 10 (old: 44) lydo: Clan cho đậu at 03/04/2023 6:57 AM
+BAG:sonsubin add 46xĐậu thần cấp 10 (old: 45) lydo: Clan cho đậu at 03/04/2023 6:57 AM
+BAG:sonsubin add 47xĐậu thần cấp 10 (old: 46) lydo: Clan cho đậu at 03/04/2023 6:57 AM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 7:04 AM
+BAG:sonsubin add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/04/2023 7:05 AM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 7:25 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 7:28 AM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 7:28 AM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 7:28 AM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 7:28 AM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 7:29 AM
+BAG:sonsubin add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 7:30 AM
+BAG:sonsubin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 7:30 AM
+BAG:sonsubin add 1xBột mì lydo: Nhặt từ map at 03/04/2023 7:31 AM
+BAG:sonsubin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 7:32 AM
+BAG:sonsubin add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/04/2023 7:45 AM
+BAG:sonsubin add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/04/2023 7:45 AM
+BAG:sonsubin add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/04/2023 7:45 AM
+BAG:sonsubin add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/04/2023 7:45 AM
+BAG:sonsubin add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/04/2023 7:45 AM
+BAG:sonsubin add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/04/2023 7:45 AM
+BAG:sonsubin add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/04/2023 7:46 AM
+BAG:sonsubin add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/04/2023 7:46 AM
+BAG:sonsubin add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/04/2023 7:46 AM
+BAG:sonsubin add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/04/2023 7:46 AM
+BAG:sonsubin add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/04/2023 7:46 AM
+BAG:sonsubin add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/04/2023 7:46 AM
+BAG:sonsubin add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/04/2023 7:46 AM
+BAG:sonsubin add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/04/2023 7:46 AM
+BAG:sonsubin add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/04/2023 7:46 AM
+BAG:sonsubin add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/04/2023 7:46 AM
+BAG:sonsubin add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/04/2023 7:46 AM
+BAG:sonsubin add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/04/2023 7:47 AM
+BAG:sonsubin add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/04/2023 7:47 AM
+BAG:sonsubin add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/04/2023 7:47 AM
+BAG:sonsubin add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/04/2023 7:47 AM
+BAG:sonsubin add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/04/2023 7:47 AM
+BAG:sonsubin add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/04/2023 7:47 AM
+BAG:sonsubin add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/04/2023 7:47 AM
+BAG:sonsubin add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/04/2023 7:48 AM
+BAG:sonsubin add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/04/2023 7:48 AM
+BAG:sonsubin add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/04/2023 7:48 AM
+BAG:sonsubin add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/04/2023 7:48 AM
+BAG:sonsubin add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/04/2023 7:48 AM
+BAG:sonsubin add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/04/2023 7:48 AM
+BAG:sonsubin add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/04/2023 7:48 AM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 7:51 AM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/04/2023 8:09 AM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 8:09 AM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/04/2023 8:09 AM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 8:09 AM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 1:17 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:17 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:17 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:17 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:17 PM
+BAG:sonsubin add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:18 PM
+BAG:sonsubin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:18 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:18 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/04/2023 1:19 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 1:19 PM
+BAG:sonsubin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 1:19 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/04/2023 1:19 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 1:19 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 1:20 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 4:48 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 4:48 PM
+BAG:sonsubin add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 4:48 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 4:48 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 4:48 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 4:48 PM
+BAG:sonsubin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 4:48 PM
+BAG:sonsubin add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/04/2023 7:41 PM
+BAG:sonsubin add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 03/04/2023 7:46 PM
+BAG:sonsubin add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/04/2023 7:48 PM
+BAG:sonsubin add 53xĐậu thần cấp 10 (old: 33) lydo: Lấy từ rương qua người at 03/04/2023 7:49 PM
+BAG:sonsubin add 73xĐậu thần cấp 10 (old: 53) lydo: Lấy từ rương qua người at 03/04/2023 7:49 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:06 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:06 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:06 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:06 PM
+BAG:sonsubin add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/04/2023 8:12 PM
+BAG:sonsubin add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/04/2023 8:12 PM
+BAG:sonsubin add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/04/2023 8:12 PM
+BAG:sonsubin add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/04/2023 8:12 PM
+BAG:sonsubin add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/04/2023 8:12 PM
+BAG:sonsubin add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/04/2023 8:12 PM
+BAG:sonsubin add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/04/2023 8:13 PM
+BAG:sonsubin add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/04/2023 8:14 PM
+BAG:sonsubin add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/04/2023 8:14 PM
+BAG:sonsubin add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/04/2023 8:14 PM
+BAG:sonsubin add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/04/2023 8:14 PM
+BAG:sonsubin add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/04/2023 8:14 PM
+BAG:sonsubin add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/04/2023 8:14 PM
+BAG:sonsubin add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/04/2023 8:14 PM
+BAG:sonsubin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 8:16 PM
+BAG:sonsubin add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 8:17 PM
+BAG:sonsubin add 1xBột mì lydo: Nhặt từ map at 03/04/2023 8:21 PM
+BAG:sonsubin add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 8:21 PM
+BAG:sonsubin add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 8:21 PM
+BAG:sonsubin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 8:22 PM
+BAG:sonsubin add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/04/2023 8:22 PM
+BAG:sonsubin add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 8:22 PM
+BAG:sonsubin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 8:22 PM
+BAG:sonsubin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 8:23 PM
+BAG:sonsubin add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 8:23 PM
+BAG:sonsubin add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 8:23 PM
+BAG:sonsubin add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/04/2023 8:23 PM
+BAG:sonsubin add 1xPháo hoa lydo: Nhặt từ map at 03/04/2023 8:24 PM
+BAG:sonsubin add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/04/2023 8:25 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 8:30 PM
+BAG:sonsubin add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:31 PM
+BAG:sonsubin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:31 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:31 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/04/2023 8:32 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 8:32 PM
+BAG:sonsubin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 8:32 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/04/2023 8:32 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 8:33 PM
+BAG:sonsubin add 1xCải trang Xuka lydo: Lấy từ body vào hành trang at 03/04/2023 8:39 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 8:40 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 8:41 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:05 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:05 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:05 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:05 PM
+BAG:sonsubin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 9:09 PM
+BAG:sonsubin add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/04/2023 9:14 PM
+BAG:sonsubin add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/04/2023 9:16 PM
+BAG:sonsubin add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:17 PM
+BAG:sonsubin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:17 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:17 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/04/2023 9:18 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 9:18 PM
+BAG:sonsubin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 9:18 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/04/2023 9:18 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 9:18 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 9:19 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:41 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:41 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:41 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:41 PM
+BAG:sonsubin add 1xBột mì lydo: Nhặt từ map at 03/04/2023 9:42 PM
+BAG:sonsubin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 9:43 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 9:44 PM
+BAG:sonsubin add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:46 PM
+BAG:sonsubin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:46 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:46 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/04/2023 9:47 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 9:47 PM
+BAG:sonsubin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 9:47 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/04/2023 9:47 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 9:47 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 9:48 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:58 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:58 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:58 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 9:58 PM
+BAG:sonsubin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 10:03 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 10:04 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 10:06 PM
+BAG:sonsubin add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:06 PM
+BAG:sonsubin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:06 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:06 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 7xNâng cấp kỹ năng 2 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 8xNâng cấp kỹ năng 2 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 9xNâng cấp kỹ năng 2 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 10xNâng cấp kỹ năng 2 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 11xNâng cấp kỹ năng 2 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 12xNâng cấp kỹ năng 2 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 13xNâng cấp kỹ năng 2 đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 9xNâng cấp kỹ năng 1 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 10xNâng cấp kỹ năng 1 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 11xNâng cấp kỹ năng 1 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 12xNâng cấp kỹ năng 1 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 13xNâng cấp kỹ năng 1 đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 14xNâng cấp kỹ năng 1 đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 15xNâng cấp kỹ năng 1 đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 16xNâng cấp kỹ năng 1 đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 17xNâng cấp kỹ năng 1 đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 18xNâng cấp kỹ năng 1 đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 19xNâng cấp kỹ năng 1 đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 20xNâng cấp kỹ năng 1 đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 21xNâng cấp kỹ năng 1 đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 22xNâng cấp kỹ năng 1 đệ tử (old: 21) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 23xNâng cấp kỹ năng 1 đệ tử (old: 22) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 24xNâng cấp kỹ năng 1 đệ tử (old: 23) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 25xNâng cấp kỹ năng 1 đệ tử (old: 24) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 26xNâng cấp kỹ năng 1 đệ tử (old: 25) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 27xNâng cấp kỹ năng 1 đệ tử (old: 26) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 28xNâng cấp kỹ năng 1 đệ tử (old: 27) lydo: Mua từ cửa hàng at 03/04/2023 10:07 PM
+BAG:sonsubin add 29xNâng cấp kỹ năng 1 đệ tử (old: 28) lydo: Mua từ cửa hàng at 03/04/2023 10:08 PM
+BAG:sonsubin add 30xNâng cấp kỹ năng 1 đệ tử (old: 29) lydo: Mua từ cửa hàng at 03/04/2023 10:08 PM
+BAG:sonsubin add 31xNâng cấp kỹ năng 1 đệ tử (old: 30) lydo: Mua từ cửa hàng at 03/04/2023 10:08 PM
+BAG:sonsubin add 32xNâng cấp kỹ năng 1 đệ tử (old: 31) lydo: Mua từ cửa hàng at 03/04/2023 10:08 PM
+BAG:sonsubin add 33xNâng cấp kỹ năng 1 đệ tử (old: 32) lydo: Mua từ cửa hàng at 03/04/2023 10:08 PM
+BAG:sonsubin add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/04/2023 10:11 PM
+BAG:sonsubin add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/04/2023 10:11 PM
+BAG:sonsubin add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 03/04/2023 10:11 PM
+BAG:sonsubin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 10:14 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 10:20 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 10:22 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/04/2023 10:22 PM
+BAG:sonsubin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 10:22 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 10:22 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/04/2023 10:22 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:29 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:29 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:29 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:29 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 10:30 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 10:33 PM
+BAG:sonsubin add 14xĐậu thần cấp 10 (old: 13) lydo: Clan cho đậu at 03/04/2023 10:33 PM
+BAG:sonsubin add 15xĐậu thần cấp 10 (old: 14) lydo: Clan cho đậu at 03/04/2023 10:33 PM
+BAG:sonsubin add 16xĐậu thần cấp 10 (old: 15) lydo: Clan cho đậu at 03/04/2023 10:33 PM
+BAG:sonsubin add 17xĐậu thần cấp 10 (old: 16) lydo: Clan cho đậu at 03/04/2023 10:33 PM
+BAG:sonsubin add 18xĐậu thần cấp 10 (old: 17) lydo: Clan cho đậu at 03/04/2023 10:33 PM
+BAG:sonsubin add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:34 PM
+BAG:sonsubin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:34 PM
+BAG:sonsubin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:34 PM
+BAG:sonsubin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/04/2023 10:35 PM
+BAG:sonsubin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 10:35 PM
+BAG:sonsubin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 10:35 PM
+BAG:sonsubin add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/04/2023 10:35 PM
+BAG:sonsubin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 10:35 PM
+BAG:sonsubin add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/04/2023 10:55 PM
+BAG:sonsubin add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 10:55 PM
+BAG:sonsubin add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 10:56 PM
+BAG:sonsubin add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 10:56 PM
+BAG:sonsubin add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 10:56 PM
+BAG:sonsubin add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 10:56 PM
+BAG:sonsubin add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 10:56 PM
+BAG:sonsubin add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/04/2023 10:56 PM
+BAG:sonsubin add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/04/2023 10:56 PM
+BAG:sonsubin add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/04/2023 10:57 PM
+BAG:sonsubin add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/04/2023 10:57 PM
+BAG:sonsubin add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/04/2023 10:57 PM
+BAG:sonsubin add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/04/2023 10:57 PM
+BAG:sonsubin add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/04/2023 10:57 PM
+BAG:sonsubin add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhập ngọc at 03/04/2023 10:57 PM
+BAG:sonsubin add 16xNgọc Rồng 2 sao (old: 15) lydo: Nhập ngọc at 03/04/2023 10:57 PM
+BAG:sonsubin add 1xNgọc Rồng 6 sao lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhập ngọc at 03/04/2023 10:58 PM
+BAG:sonsubin add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/04/2023 11:00 PM
+BAG:sonsubin add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/04/2023 11:00 PM
+BAG:sonsubin add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/04/2023 11:00 PM
+BAG:sonsubin add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/04/2023 11:00 PM
+BAG:sonsubin add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/04/2023 11:01 PM
+BAG:sonsubin add 2xNgọc Rồng 1 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 11:01 PM
+BAG:sonsubin add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 16xNgọc Rồng 2 sao (old: 15) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 17xNgọc Rồng 2 sao (old: 16) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 18xNgọc Rồng 2 sao (old: 17) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 19xNgọc Rồng 2 sao (old: 18) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 20xNgọc Rồng 2 sao (old: 19) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 21xNgọc Rồng 2 sao (old: 20) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 22xNgọc Rồng 2 sao (old: 21) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 23xNgọc Rồng 2 sao (old: 22) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 24xNgọc Rồng 2 sao (old: 23) lydo: Nhập ngọc at 03/04/2023 11:03 PM
+BAG:sonsubin add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/04/2023 11:04 PM
+BAG:sonsubin add 2xNgọc Rồng 1 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 11:04 PM
+BAG:sonsubin add 3xNgọc Rồng 1 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 11:04 PM
+BAG:sonsubin add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/04/2023 11:05 PM
+BAG:sonsubin add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/04/2023 11:05 PM
+BAG:sonsubin add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/04/2023 11:07 PM
+BAG:sonsubin add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/04/2023 11:07 PM
+BAG:sonsubin add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/04/2023 11:07 PM
+BAG:sonsubin add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/04/2023 11:07 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 11:08 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 11:08 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 11:08 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 11:08 PM
+BAG:sonsubin add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 11:08 PM
+BAG:sonsubin add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 11:08 PM
+BAG:sonsubin add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 11:08 PM
+BAG:sonsubin add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 11:08 PM
+BAG:sonsubin add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 11:08 PM
+BAG:sonsubin add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 11:08 PM

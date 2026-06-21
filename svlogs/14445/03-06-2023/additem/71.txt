@@ -1,0 +1,53 @@
+BAG:kakarot add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 12:00 AM
+BAG:kakarot add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 12:00 AM
+BAG:kakarot add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 12:00 AM
+BAG:kakarot add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/06/2023 12:01 AM
+BAG:kakarot add 1xĐá Titan lydo: Nhặt từ map at 03/06/2023 12:02 AM
+BAG:kakarot add 1xĐá lục bảo lydo: Nhặt từ map at 03/06/2023 12:03 AM
+BAG:kakarot add 1xĐá Saphia lydo: Nhặt từ map at 03/06/2023 12:04 AM
+BAG:kakarot add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/06/2023 12:09 AM
+BAG:kakarot add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/06/2023 12:15 AM
+BAG:kakarot add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/06/2023 12:16 AM
+BAG:kakarot add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/06/2023 12:19 AM
+BAG:kakarot add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/06/2023 12:21 AM
+BAG:kakarot add 1xĐá Titan lydo: Nhặt từ map at 03/06/2023 12:22 AM
+BAG:kakarot add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/06/2023 12:22 AM
+BAG:kakarot add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/06/2023 12:23 AM
+BAG:kakarot add 1xĐá lục bảo lydo: Nhặt từ map at 03/06/2023 12:27 AM
+BAG:kakarot add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/06/2023 12:28 AM
+BAG:kakarot add 1xGăng da Xayda lydo: Lấy từ body đệ vào hành trang at 03/06/2023 12:51 AM
+BAG:kakarot add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 12:51 AM
+BAG:kakarot add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/06/2023 12:51 AM
+BAG:kakarot add 1xGăng vàng lydo: Mua từ cửa hàng at 03/06/2023 12:55 AM
+BAG:kakarot add 1xGăng lông Xayda lydo: Mua từ cửa hàng at 03/06/2023 12:55 AM
+BAG:kakarot add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 03/06/2023 12:55 AM
+BAG:kakarot add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 1:12 AM
+BAG:kakarot add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 1:12 AM
+BAG:kakarot add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 1:12 AM
+BAG:kakarot add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 1:12 AM
+BAG:kakarot add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 1:12 AM
+BAG:kakarot add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 1:12 AM
+BAG:kakarot add 1xBột mì lydo: Nhặt từ map at 03/06/2023 1:33 AM
+BAG:kakarot add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 1:42 AM
+BAG:kakarot add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 1:42 AM
+BAG:kakarot add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 1:42 AM
+BAG:kakarot add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 1:42 AM
+BAG:kakarot add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 1:42 AM
+BAG:kakarot add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 1:42 AM
+BAG:kakarot add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 03/06/2023 1:42 AM
+BAG:kakarot add 1xGăng Kaio lydo: Mua từ cửa hàng at 03/06/2023 1:42 AM
+BAG:kakarot add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/06/2023 1:42 AM
+BAG:kakarot add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/06/2023 6:17 AM
+BAG:kakarot add 1xMảnh vỡ bông tai lydo: Lấy từ rương qua người at 03/06/2023 6:18 AM
+BAG:kakarot add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/06/2023 6:18 AM
+BAG:kakarot add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/06/2023 6:18 AM
+BAG:kakarot add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/06/2023 6:18 AM
+BAG:kakarot add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/06/2023 12:42 PM
+BAG:kakarot add 1xĐá Saphia lydo: Nhặt từ map at 03/06/2023 12:42 PM
+BAG:kakarot add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/06/2023 12:49 PM
+BAG:kakarot add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 1:02 PM
+BAG:kakarot add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 1:02 PM
+BAG:kakarot add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 1:02 PM
+BAG:kakarot add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 1:02 PM
+BAG:kakarot add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 1:02 PM
+BAG:kakarot add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 1:02 PM

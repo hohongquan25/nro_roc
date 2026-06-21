@@ -1,0 +1,327 @@
+BAG:kaikayz add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 2:40 AM
+BAG:kaikayz add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 2:41 AM
+BAG:kaikayz add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 2:42 AM
+BAG:kaikayz add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 2:42 AM
+BAG:kaikayz add 20xThỏi vàng lydo: Đổi vàng at 03/03/2023 2:44 AM
+BAG:kaikayz add 2020xThỏi vàng (old: 20) lydo: Đổi vàng at 03/03/2023 2:44 AM
+BAG:kaikayz add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 2:44 AM
+BAG:kaikayz add 1xĐá ngũ sắc lydo: Mua từ cửa hàng at 03/03/2023 2:45 AM
+BAG:kaikayz add 2xĐá ngũ sắc (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 2:45 AM
+BAG:kaikayz add 3xĐá ngũ sắc (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 2:45 AM
+BAG:kaikayz add 4xĐá ngũ sắc (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 2:45 AM
+BAG:kaikayz add 5xĐá ngũ sắc (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 2:45 AM
+BAG:kaikayz add 1xCải trang lydo: Mua từ bill at 03/03/2023 2:47 AM
+BAG:kaikayz add 1xCải Trang Zeno lydo: Mua từ bill at 03/03/2023 2:47 AM
+BAG:kaikayz add 1xCải trang than meo Karin lydo: Mua từ bill at 03/03/2023 2:47 AM
+BAG:kaikayz add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 2:49 AM
+BAG:kaikayz add 1xBột mì lydo: Nhặt từ map at 03/03/2023 2:49 AM
+BAG:kaikayz add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 2:50 AM
+BAG:kaikayz add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 2:50 AM
+BAG:kaikayz add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 2:50 AM
+BAG:kaikayz add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 2:50 AM
+BAG:kaikayz add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 2:50 AM
+BAG:kaikayz add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 2:51 AM
+BAG:kaikayz add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 2:51 AM
+BAG:kaikayz add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 2:52 AM
+BAG:kaikayz add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 2:52 AM
+BAG:kaikayz add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 2:52 AM
+BAG:kaikayz add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 2:52 AM
+BAG:kaikayz add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 2:52 AM
+BAG:kaikayz add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 2:52 AM
+BAG:kaikayz add 6xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 2:55 AM
+BAG:kaikayz add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 2:55 AM
+BAG:kaikayz add 36xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 2:55 AM
+BAG:kaikayz add 4xĐậu thần cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 2:55 AM
+BAG:kaikayz add 56xĐậu thần cấp 10 (old: 36) lydo: Lấy từ rương qua người at 03/03/2023 2:55 AM
+BAG:kaikayz add 76xĐậu thần cấp 10 (old: 56) lydo: Lấy từ rương qua người at 03/03/2023 2:55 AM
+BAG:kaikayz add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 2:56 AM
+BAG:kaikayz add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 2:56 AM
+BAG:kaikayz add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/03/2023 2:59 AM
+BAG:kaikayz add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 3:00 AM
+BAG:kaikayz add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/03/2023 3:00 AM
+BAG:kaikayz add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/03/2023 3:01 AM
+BAG:kaikayz add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/03/2023 3:02 AM
+BAG:kaikayz add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/03/2023 3:03 AM
+BAG:kaikayz add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/03/2023 3:03 AM
+BAG:kaikayz add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 3:03 AM
+BAG:kaikayz add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/03/2023 3:03 AM
+BAG:kaikayz add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 3:03 AM
+BAG:kaikayz add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/03/2023 3:03 AM
+BAG:kaikayz add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/03/2023 3:04 AM
+BAG:kaikayz add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/03/2023 3:04 AM
+BAG:kaikayz add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/03/2023 3:04 AM
+BAG:kaikayz add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 3:04 AM
+BAG:kaikayz add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/03/2023 3:04 AM
+BAG:kaikayz add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 3:04 AM
+BAG:kaikayz add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/03/2023 3:04 AM
+BAG:kaikayz add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/03/2023 3:05 AM
+BAG:kaikayz add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 3:05 AM
+BAG:kaikayz add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/03/2023 3:05 AM
+BAG:kaikayz add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/03/2023 3:05 AM
+BAG:kaikayz add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 3:05 AM
+BAG:kaikayz add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/03/2023 3:05 AM
+BAG:kaikayz add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 3:05 AM
+BAG:kaikayz add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/03/2023 3:05 AM
+BAG:kaikayz add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/03/2023 3:05 AM
+BAG:kaikayz add 1xĐá Titan lydo: Nhặt từ map at 03/03/2023 3:05 AM
+BAG:kaikayz add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/03/2023 3:06 AM
+BAG:kaikayz add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 3:06 AM
+BAG:kaikayz add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/03/2023 3:06 AM
+BAG:kaikayz add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 3:06 AM
+BAG:kaikayz add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/03/2023 3:06 AM
+BAG:kaikayz add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 3:06 AM
+BAG:kaikayz add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 3:06 AM
+BAG:kaikayz add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 3:07 AM
+BAG:kaikayz add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 3:07 AM
+BAG:kaikayz add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/03/2023 3:07 AM
+BAG:kaikayz add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/03/2023 3:07 AM
+BAG:kaikayz add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 3:08 AM
+BAG:kaikayz add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/03/2023 3:08 AM
+BAG:kaikayz add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/03/2023 3:08 AM
+BAG:kaikayz add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/03/2023 3:08 AM
+BAG:kaikayz add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 3:08 AM
+BAG:kaikayz add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 3:08 AM
+BAG:kaikayz add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 3:08 AM
+BAG:kaikayz add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/03/2023 3:08 AM
+BAG:kaikayz add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 3:08 AM
+BAG:kaikayz add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/03/2023 3:09 AM
+BAG:kaikayz add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/03/2023 3:09 AM
+BAG:kaikayz add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/03/2023 3:09 AM
+BAG:kaikayz add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/03/2023 3:09 AM
+BAG:kaikayz add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/03/2023 3:09 AM
+BAG:kaikayz add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 3:09 AM
+BAG:kaikayz add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 3:09 AM
+BAG:kaikayz add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/03/2023 3:09 AM
+BAG:kaikayz add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/03/2023 3:09 AM
+BAG:kaikayz add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/03/2023 3:09 AM
+BAG:kaikayz add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/03/2023 3:09 AM
+BAG:kaikayz add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 3:10 AM
+BAG:kaikayz add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 3:10 AM
+BAG:kaikayz add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/03/2023 3:10 AM
+BAG:kaikayz add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 3:10 AM
+BAG:kaikayz add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 3:10 AM
+BAG:kaikayz add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/03/2023 3:10 AM
+BAG:kaikayz add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 3:10 AM
+BAG:kaikayz add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 3:10 AM
+BAG:kaikayz add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/03/2023 3:11 AM
+BAG:kaikayz add 1xĐá Saphia lydo: Nhặt từ map at 03/03/2023 3:11 AM
+BAG:kaikayz add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/03/2023 3:11 AM
+BAG:kaikayz add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 3:11 AM
+BAG:kaikayz add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 3:11 AM
+BAG:kaikayz add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/03/2023 3:11 AM
+BAG:kaikayz add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 3:13 AM
+BAG:kaikayz add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/03/2023 3:14 AM
+BAG:kaikayz add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/03/2023 3:14 AM
+BAG:kaikayz add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/03/2023 3:14 AM
+BAG:kaikayz add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 3:14 AM
+BAG:kaikayz add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/03/2023 3:16 AM
+BAG:kaikayz add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/03/2023 3:16 AM
+BAG:kaikayz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 3:17 AM
+BAG:kaikayz add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 3:18 AM
+BAG:kaikayz add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 3:18 AM
+BAG:kaikayz add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 3:18 AM
+BAG:kaikayz add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 3:18 AM
+BAG:kaikayz add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 3:18 AM
+BAG:kaikayz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/03/2023 3:54 AM
+BAG:kaikayz add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/03/2023 6:20 AM
+BAG:kaikayz add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 6:20 AM
+BAG:kaikayz add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 6:21 AM
+BAG:kaikayz add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/03/2023 6:21 AM
+BAG:kaikayz add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/03/2023 6:21 AM
+BAG:kaikayz add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/03/2023 6:21 AM
+BAG:kaikayz add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/03/2023 6:21 AM
+BAG:kaikayz add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/03/2023 6:21 AM
+BAG:kaikayz add 31xĐậu thần cấp 10 (old: 11) lydo: Lấy từ rương qua người at 03/03/2023 6:21 AM
+BAG:kaikayz add 51xĐậu thần cấp 10 (old: 31) lydo: Lấy từ rương qua người at 03/03/2023 6:22 AM
+BAG:kaikayz add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 6:22 AM
+BAG:kaikayz add 71xĐậu thần cấp 10 (old: 51) lydo: Lấy từ rương qua người at 03/03/2023 6:22 AM
+BAG:kaikayz add 90xĐậu thần cấp 10 (old: 71) lydo: Lấy từ rương qua người at 03/03/2023 6:22 AM
+BAG:kaikayz add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/03/2023 6:22 AM
+BAG:kaikayz add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/03/2023 6:22 AM
+BAG:kaikayz add 31xĐậu thần cấp 10 (old: 11) lydo: Lấy từ rương qua người at 03/03/2023 6:22 AM
+BAG:kaikayz add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/03/2023 7:14 AM
+BAG:kaikayz add 1xGăng da Pico lydo: Mua từ cửa hàng at 03/03/2023 7:21 AM
+BAG:kaikayz add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 03/03/2023 7:23 AM
+BAG:kaikayz add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/03/2023 7:27 AM
+BAG:kaikayz add 1xGăng đồng Tron lydo: Mua từ cửa hàng at 03/03/2023 7:32 AM
+BAG:kaikayz add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/03/2023 7:51 AM
+BAG:kaikayz add 1xGăng bạc Zealot lydo: Mua từ cửa hàng at 03/03/2023 7:58 AM
+BAG:kaikayz add 1xGiày vàng Zealot lydo: Mua từ cửa hàng at 03/03/2023 7:58 AM
+BAG:kaikayz add 1xRada cấp 10 lydo: Mua từ cửa hàng at 03/03/2023 7:59 AM
+BAG:kaikayz add 1xÁo vàng Zealot lydo: Mua từ cửa hàng at 03/03/2023 7:59 AM
+BAG:kaikayz add 1xQuần vàng Zealot lydo: Mua từ cửa hàng at 03/03/2023 7:59 AM
+BAG:kaikayz add 1xCải trang lydo: Mua từ cửa hàng at 03/03/2023 8:00 AM
+BAG:kaikayz add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/03/2023 8:01 AM
+BAG:kaikayz add 1xĐá Saphia lydo: Nhặt từ map at 03/03/2023 8:01 AM
+BAG:kaikayz add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 8:02 AM
+BAG:kaikayz add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 8:02 AM
+BAG:kaikayz add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 8:02 AM
+BAG:kaikayz add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 8:02 AM
+BAG:kaikayz add 1xSao pha lê lydo: Nhặt từ map at 03/03/2023 8:02 AM
+BAG:kaikayz add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/03/2023 8:06 AM
+BAG:kaikayz add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/03/2023 8:08 AM
+BAG:kaikayz add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/03/2023 8:08 AM
+BAG:kaikayz add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/03/2023 8:08 AM
+BAG:kaikayz add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/03/2023 8:09 AM
+BAG:kaikayz add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/03/2023 8:09 AM
+BAG:kaikayz add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/03/2023 8:09 AM
+BAG:kaikayz add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/03/2023 8:10 AM
+BAG:kaikayz add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/03/2023 8:10 AM
+BAG:kaikayz add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/03/2023 8:10 AM
+BAG:kaikayz add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/03/2023 8:11 AM
+BAG:kaikayz add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/03/2023 8:11 AM
+BAG:kaikayz add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/03/2023 8:11 AM
+BAG:kaikayz add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/03/2023 8:12 AM
+BAG:kaikayz add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/03/2023 8:12 AM
+BAG:kaikayz add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/03/2023 8:13 AM
+BAG:kaikayz add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/03/2023 8:13 AM
+BAG:kaikayz add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/03/2023 8:13 AM
+BAG:kaikayz add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/03/2023 8:14 AM
+BAG:kaikayz add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/03/2023 8:14 AM
+BAG:kaikayz add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/03/2023 8:15 AM
+BAG:kaikayz add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/03/2023 8:15 AM
+BAG:kaikayz add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/03/2023 8:15 AM
+BAG:kaikayz add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/03/2023 8:16 AM
+BAG:kaikayz add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/03/2023 8:16 AM
+BAG:kaikayz add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/03/2023 8:16 AM
+BAG:kaikayz add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/03/2023 8:16 AM
+BAG:kaikayz add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/03/2023 8:16 AM
+BAG:kaikayz add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/03/2023 8:17 AM
+BAG:kaikayz add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/03/2023 8:17 AM
+BAG:kaikayz add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/03/2023 8:18 AM
+BAG:kaikayz add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/03/2023 8:18 AM
+BAG:kaikayz add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/03/2023 8:19 AM
+BAG:kaikayz add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/03/2023 8:19 AM
+BAG:kaikayz add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/03/2023 8:20 AM
+BAG:kaikayz add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/03/2023 8:20 AM
+BAG:kaikayz add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/03/2023 8:21 AM
+BAG:kaikayz add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/03/2023 8:22 AM
+BAG:kaikayz add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/03/2023 8:22 AM
+BAG:kaikayz add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/03/2023 8:22 AM
+BAG:kaikayz add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/03/2023 8:23 AM
+BAG:kaikayz add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/03/2023 8:23 AM
+BAG:kaikayz add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/03/2023 8:23 AM
+BAG:kaikayz add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/03/2023 8:23 AM
+BAG:kaikayz add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/03/2023 8:23 AM
+BAG:kaikayz add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/03/2023 8:24 AM
+BAG:kaikayz add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/03/2023 8:24 AM
+BAG:kaikayz add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/03/2023 8:24 AM
+BAG:kaikayz add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/03/2023 8:25 AM
+BAG:kaikayz add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/03/2023 8:26 AM
+BAG:kaikayz add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/03/2023 8:26 AM
+BAG:kaikayz add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/03/2023 8:26 AM
+BAG:kaikayz add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/03/2023 8:27 AM
+BAG:kaikayz add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/03/2023 8:27 AM
+BAG:kaikayz add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/03/2023 8:28 AM
+BAG:kaikayz add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/03/2023 8:28 AM
+BAG:kaikayz add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/03/2023 8:29 AM
+BAG:kaikayz add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/03/2023 8:30 AM
+BAG:kaikayz add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/03/2023 8:31 AM
+BAG:kaikayz add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/03/2023 8:32 AM
+BAG:kaikayz add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/03/2023 8:32 AM
+BAG:kaikayz add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/03/2023 8:33 AM
+BAG:kaikayz add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/03/2023 8:33 AM
+BAG:kaikayz add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/03/2023 8:34 AM
+BAG:kaikayz add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/03/2023 8:34 AM
+BAG:kaikayz add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/03/2023 8:34 AM
+BAG:kaikayz add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/03/2023 8:35 AM
+BAG:kaikayz add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/03/2023 8:35 AM
+BAG:kaikayz add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/03/2023 8:35 AM
+BAG:kaikayz add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/03/2023 8:36 AM
+BAG:kaikayz add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/03/2023 8:36 AM
+BAG:kaikayz add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/03/2023 8:36 AM
+BAG:kaikayz add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/03/2023 8:36 AM
+BAG:kaikayz add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/03/2023 8:37 AM
+BAG:kaikayz add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/03/2023 8:37 AM
+BAG:kaikayz add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/03/2023 8:37 AM
+BAG:kaikayz add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/03/2023 8:38 AM
+BAG:kaikayz add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/03/2023 8:38 AM
+BAG:kaikayz add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 03/03/2023 8:38 AM
+BAG:kaikayz add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/03/2023 8:38 AM
+BAG:kaikayz add 1xCánh thiên thần lydo: Mua từ cửa hàng at 03/03/2023 9:12 AM
+BAG:kaikayz add 1xCải trang lydo: Lấy từ body vào hành trang at 03/03/2023 9:12 AM
+BAG:kaikayz add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/03/2023 9:16 AM
+BAG:kaikayz add 1xĐẻ trứng lv1 lydo: Mua từ cửa hàng at 03/03/2023 9:17 AM
+BAG:kaikayz add 1xĐẻ trứng lv2 lydo: Mua từ cửa hàng at 03/03/2023 9:17 AM
+BAG:kaikayz add 1xĐẻ trứng lv3 lydo: Mua từ cửa hàng at 03/03/2023 9:17 AM
+BAG:kaikayz add 1xĐẻ trứng lv4 lydo: Mua từ cửa hàng at 03/03/2023 9:17 AM
+BAG:kaikayz add 1xĐẻ trứng lv5 lydo: Mua từ cửa hàng at 03/03/2023 9:17 AM
+BAG:kaikayz add 1xĐẻ trứng lv6 lydo: Mua từ cửa hàng at 03/03/2023 9:17 AM
+BAG:kaikayz add 1xĐẻ trứng lv7 lydo: Mua từ cửa hàng at 03/03/2023 9:17 AM
+BAG:kaikayz add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/03/2023 9:17 AM
+BAG:kaikayz add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/03/2023 9:17 AM
+BAG:kaikayz add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/03/2023 9:17 AM
+BAG:kaikayz add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/03/2023 9:18 AM
+BAG:kaikayz add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/03/2023 9:18 AM
+BAG:kaikayz add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/03/2023 9:18 AM
+BAG:kaikayz add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/03/2023 9:18 AM
+BAG:kaikayz add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 03/03/2023 9:18 AM
+BAG:kaikayz add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 03/03/2023 9:18 AM
+BAG:kaikayz add 1xSách học Trị thương lv3 lydo: Mua từ cửa hàng at 03/03/2023 9:19 AM
+BAG:kaikayz add 1xSách học Trị thương lv4 lydo: Mua từ cửa hàng at 03/03/2023 9:19 AM
+BAG:kaikayz add 1xSách học Trị thương lv5 lydo: Mua từ cửa hàng at 03/03/2023 9:19 AM
+BAG:kaikayz add 1xSách học Trị thương lv6 lydo: Mua từ cửa hàng at 03/03/2023 9:19 AM
+BAG:kaikayz add 1xSách học Trị thương lv7 lydo: Mua từ cửa hàng at 03/03/2023 9:19 AM
+BAG:kaikayz add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/03/2023 9:19 AM
+BAG:kaikayz add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/03/2023 9:19 AM
+BAG:kaikayz add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/03/2023 9:19 AM
+BAG:kaikayz add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/03/2023 9:19 AM
+BAG:kaikayz add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/03/2023 9:19 AM
+BAG:kaikayz add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/03/2023 9:19 AM
+BAG:kaikayz add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/03/2023 9:20 AM
+BAG:kaikayz add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/03/2023 9:20 AM
+BAG:kaikayz add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/03/2023 9:24 AM
+BAG:kaikayz add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/03/2023 9:25 AM
+BAG:kaikayz add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/03/2023 9:25 AM
+BAG:kaikayz add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/03/2023 7:30 PM
+BAG:kaikayz add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/03/2023 7:33 PM
+BAG:kaikayz add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/03/2023 7:33 PM
+BAG:kaikayz add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/03/2023 7:34 PM
+BAG:kaikayz add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/03/2023 7:36 PM
+BAG:kaikayz add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/03/2023 7:38 PM
+BAG:kaikayz add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/03/2023 7:38 PM
+BAG:kaikayz add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/03/2023 7:38 PM
+BAG:kaikayz add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:kaikayz add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:kaikayz add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:kaikayz add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:kaikayz add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:kaikayz add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/03/2023 7:43 PM
+BAG:kaikayz add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:kaikayz add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:kaikayz add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:kaikayz add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/03/2023 7:47 PM
+BAG:kaikayz add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:kaikayz add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:kaikayz add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:kaikayz add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:kaikayz add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:kaikayz add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:kaikayz add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:kaikayz add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:kaikayz add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:kaikayz add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:kaikayz add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:kaikayz add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:kaikayz add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/03/2023 7:55 PM
+BAG:kaikayz add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/03/2023 7:55 PM
+BAG:kaikayz add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/03/2023 8:00 PM
+BAG:kaikayz add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/03/2023 8:00 PM
+BAG:kaikayz add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/03/2023 8:08 PM
+BAG:kaikayz add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/03/2023 8:08 PM
+BAG:kaikayz add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/03/2023 8:08 PM
+BAG:kaikayz add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/03/2023 8:09 PM
+BAG:kaikayz add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/03/2023 8:09 PM
+BAG:kaikayz add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/03/2023 8:09 PM

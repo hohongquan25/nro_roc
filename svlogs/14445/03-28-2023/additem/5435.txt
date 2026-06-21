@@ -1,0 +1,151 @@
+BAG:kaitaku add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/28/2023 7:07 PM
+BAG:kaitaku add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 7:10 PM
+BAG:kaitaku add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 7:10 PM
+BAG:kaitaku add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 7:11 PM
+BAG:kaitaku add 1xPhóng lợn lydo: Mua từ cửa hàng at 03/28/2023 7:12 PM
+BAG:kaitaku add 1xCải trang Black Goku SSJ White lydo: Mua từ cửa hàng at 03/28/2023 7:13 PM
+BAG:kaitaku add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:15 PM
+BAG:kaitaku add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 7:15 PM
+BAG:kaitaku add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 7:15 PM
+BAG:kaitaku add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 7:15 PM
+BAG:kaitaku add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 7:15 PM
+BAG:kaitaku add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 7:15 PM
+BAG:kaitaku add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 7:15 PM
+BAG:kaitaku add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 7:15 PM
+BAG:kaitaku add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 7:15 PM
+BAG:kaitaku add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 7:15 PM
+BAG:kaitaku add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:18 PM
+BAG:kaitaku add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 7:19 PM
+BAG:kaitaku add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 7:19 PM
+BAG:kaitaku add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 7:19 PM
+BAG:kaitaku add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:20 PM
+BAG:kaitaku add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 7:22 PM
+BAG:kaitaku add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:22 PM
+BAG:kaitaku add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:25 PM
+BAG:kaitaku add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 7:25 PM
+BAG:kaitaku add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 7:28 PM
+BAG:kaitaku add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 7:28 PM
+BAG:kaitaku add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 7:29 PM
+BAG:kaitaku add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 7:31 PM
+BAG:kaitaku add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 7:32 PM
+BAG:kaitaku add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 7:32 PM
+BAG:kaitaku add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 7:32 PM
+BAG:kaitaku add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 7:32 PM
+BAG:kaitaku add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 7:33 PM
+BAG:kaitaku add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 7:34 PM
+BAG:kaitaku add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 7:34 PM
+BAG:kaitaku add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 7:35 PM
+BAG:kaitaku add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 7:37 PM
+BAG:kaitaku add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 7:40 PM
+BAG:kaitaku add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 7:40 PM
+BAG:kaitaku add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 7:40 PM
+BAG:kaitaku add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 7:41 PM
+BAG:kaitaku add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 7:41 PM
+BAG:kaitaku add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:kaitaku add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:kaitaku add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:kaitaku add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 7:43 PM
+BAG:kaitaku add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 7:45 PM
+BAG:kaitaku add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 7:46 PM
+BAG:kaitaku add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 7:46 PM
+BAG:kaitaku add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 7:46 PM
+BAG:kaitaku add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 7:46 PM
+BAG:kaitaku add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 7:47 PM
+BAG:kaitaku add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 7:47 PM
+BAG:kaitaku add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 7:47 PM
+BAG:kaitaku add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 7:47 PM
+BAG:kaitaku add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 7:48 PM
+BAG:kaitaku add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 7:49 PM
+BAG:kaitaku add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 7:49 PM
+BAG:kaitaku add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 7:51 PM
+BAG:kaitaku add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 7:53 PM
+BAG:kaitaku add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 7:54 PM
+BAG:kaitaku add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 7:54 PM
+BAG:kaitaku add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 7:54 PM
+BAG:kaitaku add 1xGhế bay lydo: Mua từ cửa hàng at 03/28/2023 7:56 PM
+BAG:kaitaku add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 7:57 PM
+BAG:kaitaku add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 7:57 PM
+BAG:kaitaku add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 8:01 PM
+BAG:kaitaku add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/28/2023 8:01 PM
+BAG:kaitaku add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 8:02 PM
+BAG:kaitaku add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/28/2023 8:04 PM
+BAG:kaitaku add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 8:05 PM
+BAG:kaitaku add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 81xĐậu thần cấp 9 (old: 51) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 12xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 99xĐậu thần cấp 9 (old: 81) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 42xĐậu thần cấp 9 (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 72xĐậu thần cấp 9 (old: 42) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 3xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 99xĐậu thần cấp 9 (old: 72) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 33xĐậu thần cấp 9 (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 63xĐậu thần cấp 9 (old: 33) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 93xĐậu thần cấp 9 (old: 63) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 24xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 99xĐậu thần cấp 9 (old: 93) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 54xĐậu thần cấp 9 (old: 24) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 84xĐậu thần cấp 9 (old: 54) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 15xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 99xĐậu thần cấp 9 (old: 84) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 45xĐậu thần cấp 9 (old: 15) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 75xĐậu thần cấp 9 (old: 45) lydo: Mua từ cửa hàng at 03/28/2023 8:06 PM
+BAG:kaitaku add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 8:07 PM
+BAG:kaitaku add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 8:08 PM
+BAG:kaitaku add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/28/2023 8:12 PM
+BAG:kaitaku add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 8:13 PM
+BAG:kaitaku add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/28/2023 8:14 PM
+BAG:kaitaku add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 8:15 PM
+BAG:kaitaku add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 8:15 PM
+BAG:kaitaku add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 8:15 PM
+BAG:kaitaku add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 8:15 PM
+BAG:kaitaku add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 8:15 PM
+BAG:kaitaku add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/28/2023 8:15 PM
+BAG:kaitaku add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 8:15 PM
+BAG:kaitaku add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 8:15 PM
+BAG:kaitaku add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 8:16 PM
+BAG:kaitaku add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 8:16 PM
+BAG:kaitaku add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 8:16 PM
+BAG:kaitaku add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 8:16 PM
+BAG:kaitaku add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 8:16 PM
+BAG:kaitaku add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/28/2023 8:16 PM
+BAG:kaitaku add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 8:16 PM
+BAG:kaitaku add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 8:16 PM
+BAG:kaitaku add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 8:17 PM
+BAG:kaitaku add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/28/2023 8:19 PM
+BAG:kaitaku add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/28/2023 8:19 PM
+BAG:kaitaku add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/28/2023 8:19 PM
+BAG:kaitaku add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/28/2023 8:19 PM
+BAG:kaitaku add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 8:19 PM
+BAG:kaitaku add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/28/2023 8:20 PM
+BAG:kaitaku add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/28/2023 8:21 PM
+BAG:kaitaku add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 8:21 PM
+BAG:kaitaku add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 8:21 PM
+BAG:kaitaku add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 8:21 PM
+BAG:kaitaku add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/28/2023 8:21 PM
+BAG:kaitaku add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 8:21 PM
+BAG:kaitaku add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 8:22 PM
+BAG:kaitaku add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 8:22 PM
+BAG:kaitaku add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 8:22 PM
+BAG:kaitaku add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 8:22 PM
+BAG:kaitaku add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:22 PM
+BAG:kaitaku add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:22 PM
+BAG:kaitaku add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 8:25 PM
+BAG:kaitaku add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/28/2023 8:25 PM
+BAG:kaitaku add 1xCải trang Black Goku SSJ White lydo: Lấy từ body vào hành trang at 03/28/2023 8:25 PM
+BAG:kaitaku add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/28/2023 8:29 PM
+BAG:kaitaku add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 8:30 PM
+BAG:kaitaku add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 8:30 PM
+BAG:kaitaku add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 8:30 PM
+BAG:kaitaku add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 8:30 PM
+BAG:kaitaku add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 8:30 PM
+BAG:kaitaku add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/28/2023 8:30 PM
+BAG:kaitaku add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/28/2023 8:30 PM
+BAG:kaitaku add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:30 PM
+BAG:kaitaku add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 8:31 PM
+BAG:kaitaku add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:36 PM

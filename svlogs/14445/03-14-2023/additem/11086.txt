@@ -1,0 +1,612 @@
+BAG:tunkutohehe add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/14/2023 3:16 AM
+BAG:tunkutohehe add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/14/2023 3:17 AM
+BAG:tunkutohehe add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/14/2023 3:20 AM
+BAG:tunkutohehe add 1xMảnh Khủng long lydo: Nhặt từ map at 03/14/2023 3:20 AM
+BAG:tunkutohehe add 1xĐá Titan lydo: Nhặt từ map at 03/14/2023 3:21 AM
+BAG:tunkutohehe add 1xMảnh Khủng long lydo: Nhặt từ map at 03/14/2023 3:25 AM
+BAG:tunkutohehe add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/14/2023 3:26 AM
+BAG:tunkutohehe add 1xQuần vải đen lydo: Nhặt từ map at 03/14/2023 3:28 AM
+BAG:tunkutohehe add 37xĐậu thần cấp 10 (old: 17) lydo: Lấy từ rương qua người at 03/14/2023 3:29 AM
+BAG:tunkutohehe add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/14/2023 3:32 AM
+BAG:tunkutohehe add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/14/2023 3:32 AM
+BAG:tunkutohehe add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 03/14/2023 3:32 AM
+BAG:tunkutohehe add 1xGhế bay lydo: Mua từ cửa hàng at 03/14/2023 3:33 AM
+BAG:tunkutohehe add 1xĐá Ruby lydo: Nhặt từ map at 03/14/2023 3:34 AM
+BAG:tunkutohehe add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/14/2023 3:35 AM
+BAG:tunkutohehe add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/14/2023 3:35 AM
+BAG:tunkutohehe add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/14/2023 3:35 AM
+BAG:tunkutohehe add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/14/2023 3:36 AM
+BAG:tunkutohehe add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/14/2023 3:36 AM
+BAG:tunkutohehe add 68xĐậu thần cấp 10 (old: 48) lydo: Lấy từ rương qua người at 03/14/2023 3:38 AM
+BAG:tunkutohehe add 50xThỏi vàng lydo: Giftcode at 03/14/2023 3:38 AM
+BAG:tunkutohehe add 10xSao pha lê lydo: Giftcode at 03/14/2023 3:38 AM
+BAG:tunkutohehe add 10xSao pha lê lydo: Giftcode at 03/14/2023 3:38 AM
+BAG:tunkutohehe add 10xSao pha lê lydo: Giftcode at 03/14/2023 3:38 AM
+BAG:tunkutohehe add 1xCải trang Hit lydo: Giftcode at 03/14/2023 3:38 AM
+BAG:tunkutohehe add 10xCuồng nộ lydo: Giftcode at 03/14/2023 3:39 AM
+BAG:tunkutohehe add 10xBổ huyết lydo: Giftcode at 03/14/2023 3:39 AM
+BAG:tunkutohehe add 10xBổ khí lydo: Giftcode at 03/14/2023 3:39 AM
+BAG:tunkutohehe add 10xGiáp Xên bọ hung lydo: Giftcode at 03/14/2023 3:39 AM
+BAG:tunkutohehe add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/14/2023 3:41 AM
+BAG:tunkutohehe add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/14/2023 3:41 AM
+BAG:tunkutohehe add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 03/14/2023 3:41 AM
+BAG:tunkutohehe add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/14/2023 3:55 AM
+BAG:tunkutohehe add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 3:55 AM
+BAG:tunkutohehe add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 3:55 AM
+BAG:tunkutohehe add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/14/2023 3:58 AM
+BAG:tunkutohehe add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 3:58 AM
+BAG:tunkutohehe add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 3:58 AM
+BAG:tunkutohehe add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 3:58 AM
+BAG:tunkutohehe add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 3:58 AM
+BAG:tunkutohehe add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 3:58 AM
+BAG:tunkutohehe add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/14/2023 4:03 AM
+BAG:tunkutohehe add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 4:03 AM
+BAG:tunkutohehe add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 4:03 AM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 4:03 AM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 4:03 AM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 4:03 AM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 4:03 AM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 4:03 AM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 4:03 AM
+BAG:tunkutohehe add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 4:03 AM
+BAG:tunkutohehe add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 4:03 AM
+BAG:tunkutohehe add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/14/2023 4:06 AM
+BAG:tunkutohehe add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 4:06 AM
+BAG:tunkutohehe add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 4:06 AM
+BAG:tunkutohehe add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 4:06 AM
+BAG:tunkutohehe add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 4:06 AM
+BAG:tunkutohehe add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/14/2023 4:09 AM
+BAG:tunkutohehe add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 4:09 AM
+BAG:tunkutohehe add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 4:09 AM
+BAG:tunkutohehe add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 4:09 AM
+BAG:tunkutohehe add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 4:09 AM
+BAG:tunkutohehe add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 4:09 AM
+BAG:tunkutohehe add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/14/2023 4:09 AM
+BAG:tunkutohehe add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/14/2023 4:10 AM
+BAG:tunkutohehe add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 4:10 AM
+BAG:tunkutohehe add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 4:10 AM
+BAG:tunkutohehe add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/14/2023 4:11 AM
+BAG:tunkutohehe add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 4:11 AM
+BAG:tunkutohehe add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/14/2023 4:15 AM
+BAG:tunkutohehe add 1xĐá Titan lydo: Nhặt từ map at 03/14/2023 4:15 AM
+BAG:tunkutohehe add 1xĐá Saphia lydo: Nhặt từ map at 03/14/2023 4:19 AM
+BAG:tunkutohehe add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/14/2023 4:20 AM
+BAG:tunkutohehe add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/14/2023 4:22 AM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Mua từ cửa hàng at 03/14/2023 4:29 AM
+BAG:tunkutohehe add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/14/2023 4:29 AM
+BAG:tunkutohehe add 1xGiầy cao su lydo: Mua từ cửa hàng at 03/14/2023 4:30 AM
+BAG:tunkutohehe add 1xQuần thun đen lydo: Mua từ cửa hàng at 03/14/2023 4:30 AM
+BAG:tunkutohehe add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/14/2023 4:30 AM
+BAG:tunkutohehe add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/14/2023 4:59 AM
+BAG:tunkutohehe add 10xĐậu thần cấp 10 (old: 7) lydo: Thu hoạch đậu at 03/14/2023 5:01 AM
+BAG:tunkutohehe add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/14/2023 5:01 AM
+BAG:tunkutohehe add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/14/2023 5:01 AM
+BAG:tunkutohehe add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/14/2023 5:01 AM
+BAG:tunkutohehe add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/14/2023 5:03 AM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/14/2023 6:02 AM
+BAG:tunkutohehe add 1xQuần thun đen lydo: Lấy từ body đệ vào hành trang at 03/14/2023 6:02 AM
+BAG:tunkutohehe add 1xGăng vải Kame lydo: Lấy từ body đệ vào hành trang at 03/14/2023 6:02 AM
+BAG:tunkutohehe add 1xGiầy cao su lydo: Lấy từ body đệ vào hành trang at 03/14/2023 6:02 AM
+BAG:tunkutohehe add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 6:02 AM
+BAG:tunkutohehe add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 6:02 AM
+BAG:tunkutohehe add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 6:02 AM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 6:03 AM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 6:03 AM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 6:03 AM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 6:03 AM
+BAG:tunkutohehe add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/14/2023 6:34 AM
+BAG:tunkutohehe add 1xGăng vải Kame lydo: Lấy từ body vào hành trang at 03/14/2023 6:34 AM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 6:35 AM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 6:35 AM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/14/2023 6:42 AM
+BAG:tunkutohehe add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/14/2023 7:02 AM
+BAG:tunkutohehe add 1xGăng bạc Goku lydo: Mua từ cửa hàng at 03/14/2023 7:02 AM
+BAG:tunkutohehe add 1xGăng vàng Goku lydo: Mua từ cửa hàng at 03/14/2023 7:02 AM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 8:27 AM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 8:27 AM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 8:27 AM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 8:27 AM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 8:28 AM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 8:28 AM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 8:28 AM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 8:28 AM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 8:28 AM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 8:28 AM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 8:28 AM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 8:28 AM
+BAG:tunkutohehe add 1xGăng da Calic lydo: Mua từ cửa hàng at 03/14/2023 8:44 AM
+BAG:tunkutohehe add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/14/2023 8:48 AM
+BAG:tunkutohehe add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/14/2023 8:48 AM
+BAG:tunkutohehe add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/14/2023 8:48 AM
+BAG:tunkutohehe add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/14/2023 8:48 AM
+BAG:tunkutohehe add 34xĐậu thần cấp 10 (old: 14) lydo: Lấy từ rương qua người at 03/14/2023 9:16 AM
+BAG:tunkutohehe add 52xĐậu thần cấp 10 (old: 32) lydo: Lấy từ rương qua người at 03/14/2023 9:17 AM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 AM
+BAG:tunkutohehe add 1xQuần thun đen lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 AM
+BAG:tunkutohehe add 1xGăng da Calic lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 AM
+BAG:tunkutohehe add 1xGiầy cao su lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 AM
+BAG:tunkutohehe add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 AM
+BAG:tunkutohehe add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 AM
+BAG:tunkutohehe add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 AM
+BAG:tunkutohehe add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/14/2023 9:20 AM
+BAG:tunkutohehe add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/14/2023 9:20 AM
+BAG:tunkutohehe add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/14/2023 9:20 AM
+BAG:tunkutohehe add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/14/2023 9:20 AM
+BAG:tunkutohehe add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/14/2023 9:20 AM
+BAG:tunkutohehe add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/14/2023 9:20 AM
+BAG:tunkutohehe add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/14/2023 9:20 AM
+BAG:tunkutohehe add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/14/2023 9:21 AM
+BAG:tunkutohehe add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/14/2023 9:21 AM
+BAG:tunkutohehe add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/14/2023 9:21 AM
+BAG:tunkutohehe add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/14/2023 9:21 AM
+BAG:tunkutohehe add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/14/2023 9:21 AM
+BAG:tunkutohehe add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/14/2023 9:21 AM
+BAG:tunkutohehe add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/14/2023 9:21 AM
+BAG:tunkutohehe add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/14/2023 9:21 AM
+BAG:tunkutohehe add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/14/2023 9:21 AM
+BAG:tunkutohehe add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/14/2023 9:21 AM
+BAG:tunkutohehe add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/14/2023 9:22 AM
+BAG:tunkutohehe add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/14/2023 9:22 AM
+BAG:tunkutohehe add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/14/2023 9:22 AM
+BAG:tunkutohehe add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/14/2023 9:22 AM
+BAG:tunkutohehe add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/14/2023 9:22 AM
+BAG:tunkutohehe add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/14/2023 9:22 AM
+BAG:tunkutohehe add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/14/2023 9:23 AM
+BAG:tunkutohehe add 1xGăng thun Kame lydo: Mua từ cửa hàng at 03/14/2023 9:23 AM
+BAG:tunkutohehe add 1xGăng võ Kame lydo: Mua từ cửa hàng at 03/14/2023 9:23 AM
+BAG:tunkutohehe add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/14/2023 9:23 AM
+BAG:tunkutohehe add 1xGăng bạc Goku lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 9:24 AM
+BAG:tunkutohehe add 1xĐá Ruby lydo: Nhặt từ map at 03/14/2023 9:25 AM
+BAG:tunkutohehe add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/14/2023 9:25 AM
+BAG:tunkutohehe add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/14/2023 9:28 AM
+BAG:tunkutohehe add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/14/2023 10:24 AM
+BAG:tunkutohehe add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/14/2023 10:25 AM
+BAG:tunkutohehe add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/14/2023 10:25 AM
+BAG:tunkutohehe add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/14/2023 10:25 AM
+BAG:tunkutohehe add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/14/2023 10:25 AM
+BAG:tunkutohehe add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/14/2023 10:25 AM
+BAG:tunkutohehe add 1xĐá lục bảo lydo: Nhặt từ map at 03/14/2023 10:26 AM
+BAG:tunkutohehe add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/14/2023 10:26 AM
+BAG:tunkutohehe add 1xRada cấp 1 lydo: Nhặt từ map at 03/14/2023 10:26 AM
+BAG:tunkutohehe add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/14/2023 10:26 AM
+BAG:tunkutohehe add 1xMảnh Khủng long lydo: Nhặt từ map at 03/14/2023 10:26 AM
+BAG:tunkutohehe add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/14/2023 10:39 AM
+BAG:tunkutohehe add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/14/2023 10:39 AM
+BAG:tunkutohehe add 30xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/14/2023 11:12 AM
+BAG:tunkutohehe add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/14/2023 11:16 AM
+BAG:tunkutohehe add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/14/2023 11:17 AM
+BAG:tunkutohehe add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/14/2023 11:17 AM
+BAG:tunkutohehe add 1xQuần vải đen lydo: Nhặt từ map at 03/14/2023 11:17 AM
+BAG:tunkutohehe add 1xĐá Titan lydo: Nhặt từ map at 03/14/2023 11:17 AM
+BAG:tunkutohehe add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/14/2023 11:18 AM
+BAG:tunkutohehe add 1xMảnh Khủng long lydo: Nhặt từ map at 03/14/2023 11:18 AM
+BAG:tunkutohehe add 1xĐá Saphia lydo: Nhặt từ map at 03/14/2023 11:18 AM
+BAG:tunkutohehe add 1xGăng vải đen lydo: Nhặt từ map at 03/14/2023 11:18 AM
+BAG:tunkutohehe add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/14/2023 11:19 AM
+BAG:tunkutohehe add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/14/2023 11:19 AM
+BAG:tunkutohehe add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/14/2023 11:20 AM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/14/2023 11:20 AM
+BAG:tunkutohehe add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/14/2023 11:20 AM
+BAG:tunkutohehe add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/14/2023 11:20 AM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/14/2023 11:20 AM
+BAG:tunkutohehe add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/14/2023 11:21 AM
+BAG:tunkutohehe add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/14/2023 11:21 AM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/14/2023 11:21 AM
+BAG:tunkutohehe add 1xGăng vải đen lydo: Nhặt từ map at 03/14/2023 11:21 AM
+BAG:tunkutohehe add 1xMảnh Khủng long lydo: Nhặt từ map at 03/14/2023 11:22 AM
+BAG:tunkutohehe add 1xGăng da Calic lydo: Lấy từ body vào hành trang at 03/14/2023 11:22 AM
+BAG:tunkutohehe add 1xQuần vải đen lydo: Nhặt từ map at 03/14/2023 11:22 AM
+BAG:tunkutohehe add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 11:23 AM
+BAG:tunkutohehe add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/14/2023 11:23 AM
+BAG:tunkutohehe add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/14/2023 11:24 AM
+BAG:tunkutohehe add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/14/2023 11:24 AM
+BAG:tunkutohehe add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/14/2023 11:24 AM
+BAG:tunkutohehe add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/14/2023 11:25 AM
+BAG:tunkutohehe add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/14/2023 11:25 AM
+BAG:tunkutohehe add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/14/2023 11:25 AM
+BAG:tunkutohehe add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/14/2023 11:25 AM
+BAG:tunkutohehe add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/14/2023 11:25 AM
+BAG:tunkutohehe add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/14/2023 11:25 AM
+BAG:tunkutohehe add 1xQuần vải đen lydo: Nhặt từ map at 03/14/2023 11:25 AM
+BAG:tunkutohehe add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/14/2023 11:26 AM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/14/2023 11:26 AM
+BAG:tunkutohehe add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/14/2023 11:26 AM
+BAG:tunkutohehe add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/14/2023 11:26 AM
+BAG:tunkutohehe add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/14/2023 11:27 AM
+BAG:tunkutohehe add 6xMảnh Thằn lằn bay (old: 5) lydo: Nhặt từ map at 03/14/2023 11:27 AM
+BAG:tunkutohehe add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/14/2023 11:27 AM
+BAG:tunkutohehe add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/14/2023 11:27 AM
+BAG:tunkutohehe add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/14/2023 11:28 AM
+BAG:tunkutohehe add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/14/2023 11:28 AM
+BAG:tunkutohehe add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/14/2023 11:28 AM
+BAG:tunkutohehe add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/14/2023 11:28 AM
+BAG:tunkutohehe add 1xRada cấp 1 lydo: Nhặt từ map at 03/14/2023 11:29 AM
+BAG:tunkutohehe add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/14/2023 11:29 AM
+BAG:tunkutohehe add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/14/2023 11:29 AM
+BAG:tunkutohehe add 1xQuần vải đen lydo: Nhặt từ map at 03/14/2023 11:29 AM
+BAG:tunkutohehe add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/14/2023 11:29 AM
+BAG:tunkutohehe add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/14/2023 11:30 AM
+BAG:tunkutohehe add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/14/2023 11:30 AM
+BAG:tunkutohehe add 1xMảnh Khủng long lydo: Nhặt từ map at 03/14/2023 11:30 AM
+BAG:tunkutohehe add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/14/2023 11:31 AM
+BAG:tunkutohehe add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/14/2023 11:31 AM
+BAG:tunkutohehe add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/14/2023 11:31 AM
+BAG:tunkutohehe add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/14/2023 11:31 AM
+BAG:tunkutohehe add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/14/2023 11:31 AM
+BAG:tunkutohehe add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/14/2023 11:32 AM
+BAG:tunkutohehe add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/14/2023 11:32 AM
+BAG:tunkutohehe add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/14/2023 11:33 AM
+BAG:tunkutohehe add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/14/2023 11:33 AM
+BAG:tunkutohehe add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/14/2023 11:33 AM
+BAG:tunkutohehe add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/14/2023 11:33 AM
+BAG:tunkutohehe add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/14/2023 11:33 AM
+BAG:tunkutohehe add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/14/2023 11:33 AM
+BAG:tunkutohehe add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/14/2023 11:33 AM
+BAG:tunkutohehe add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/14/2023 11:34 AM
+BAG:tunkutohehe add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/14/2023 11:34 AM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/14/2023 11:34 AM
+BAG:tunkutohehe add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/14/2023 11:34 AM
+BAG:tunkutohehe add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/14/2023 11:34 AM
+BAG:tunkutohehe add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/14/2023 11:34 AM
+BAG:tunkutohehe add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/14/2023 11:35 AM
+BAG:tunkutohehe add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/14/2023 11:36 AM
+BAG:tunkutohehe add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/14/2023 11:36 AM
+BAG:tunkutohehe add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/14/2023 11:36 AM
+BAG:tunkutohehe add 1xCải trang lydo: Mua từ cửa hàng at 03/14/2023 11:52 AM
+BAG:tunkutohehe add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/14/2023 11:54 AM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 11:54 AM
+BAG:tunkutohehe add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/14/2023 11:54 AM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/14/2023 11:54 AM
+BAG:tunkutohehe add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/14/2023 11:55 AM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 11:55 AM
+BAG:tunkutohehe add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/14/2023 11:55 AM
+BAG:tunkutohehe add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/14/2023 11:55 AM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 11:55 AM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 11:55 AM
+BAG:tunkutohehe add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/14/2023 11:55 AM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/14/2023 11:55 AM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/14/2023 11:55 AM
+BAG:tunkutohehe add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/14/2023 11:56 AM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 11:56 AM
+BAG:tunkutohehe add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/14/2023 11:56 AM
+BAG:tunkutohehe add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/14/2023 11:56 AM
+BAG:tunkutohehe add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/14/2023 11:56 AM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 11:57 AM
+BAG:tunkutohehe add 1xGiầy nhựa lydo: Nhặt từ map at 03/14/2023 11:57 AM
+BAG:tunkutohehe add 1xRada cấp 1 lydo: Nhặt từ map at 03/14/2023 11:57 AM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 11:57 AM
+BAG:tunkutohehe add 1xGiầy nhựa lydo: Nhặt từ map at 03/14/2023 11:57 AM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 11:57 AM
+BAG:tunkutohehe add 1xGăng vải đen lydo: Nhặt từ map at 03/14/2023 11:58 AM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/14/2023 11:59 AM
+BAG:tunkutohehe add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/14/2023 11:59 AM
+BAG:tunkutohehe add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/14/2023 11:59 AM
+BAG:tunkutohehe add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/14/2023 11:59 AM
+BAG:tunkutohehe add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/14/2023 11:59 AM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 11:59 AM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 12:00 PM
+BAG:tunkutohehe add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/14/2023 12:00 PM
+BAG:tunkutohehe add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/14/2023 12:03 PM
+BAG:tunkutohehe add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/14/2023 12:03 PM
+BAG:tunkutohehe add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/14/2023 12:03 PM
+BAG:tunkutohehe add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/14/2023 12:03 PM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 12:37 PM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/14/2023 12:38 PM
+BAG:tunkutohehe add 1xQuần thun đen lydo: Lấy từ body đệ vào hành trang at 03/14/2023 12:38 PM
+BAG:tunkutohehe add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/14/2023 12:38 PM
+BAG:tunkutohehe add 1xGiầy cao su lydo: Lấy từ body đệ vào hành trang at 03/14/2023 12:39 PM
+BAG:tunkutohehe add 1xRada cấp 7 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 12:39 PM
+BAG:tunkutohehe add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 12:39 PM
+BAG:tunkutohehe add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 12:39 PM
+BAG:tunkutohehe add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/14/2023 12:41 PM
+BAG:tunkutohehe add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/14/2023 12:53 PM
+BAG:tunkutohehe add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/14/2023 12:54 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/14/2023 12:54 PM
+BAG:tunkutohehe add 1xQuần vải đen lydo: Nhặt từ map at 03/14/2023 12:54 PM
+BAG:tunkutohehe add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/14/2023 12:54 PM
+BAG:tunkutohehe add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/14/2023 12:54 PM
+BAG:tunkutohehe add 1xQuần vải đen lydo: Nhặt từ map at 03/14/2023 12:54 PM
+BAG:tunkutohehe add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/14/2023 12:54 PM
+BAG:tunkutohehe add 1xMảnh Khủng long lydo: Nhặt từ map at 03/14/2023 12:54 PM
+BAG:tunkutohehe add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/14/2023 12:55 PM
+BAG:tunkutohehe add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/14/2023 12:55 PM
+BAG:tunkutohehe add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/14/2023 12:55 PM
+BAG:tunkutohehe add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/14/2023 12:55 PM
+BAG:tunkutohehe add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/14/2023 12:55 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 12:55 PM
+BAG:tunkutohehe add 1xRada cấp 1 lydo: Nhặt từ map at 03/14/2023 12:56 PM
+BAG:tunkutohehe add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/14/2023 12:56 PM
+BAG:tunkutohehe add 1xGiầy nhựa lydo: Nhặt từ map at 03/14/2023 12:56 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 12:56 PM
+BAG:tunkutohehe add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/14/2023 12:56 PM
+BAG:tunkutohehe add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/14/2023 12:56 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 12:57 PM
+BAG:tunkutohehe add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/14/2023 12:57 PM
+BAG:tunkutohehe add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/14/2023 12:57 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 12:58 PM
+BAG:tunkutohehe add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/14/2023 12:58 PM
+BAG:tunkutohehe add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/14/2023 12:59 PM
+BAG:tunkutohehe add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/14/2023 12:59 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:00 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/14/2023 1:00 PM
+BAG:tunkutohehe add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/14/2023 1:01 PM
+BAG:tunkutohehe add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/14/2023 1:01 PM
+BAG:tunkutohehe add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/14/2023 1:01 PM
+BAG:tunkutohehe add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/14/2023 1:01 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:01 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/14/2023 1:01 PM
+BAG:tunkutohehe add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/14/2023 1:01 PM
+BAG:tunkutohehe add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/14/2023 1:02 PM
+BAG:tunkutohehe add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/14/2023 1:02 PM
+BAG:tunkutohehe add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/14/2023 1:03 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:03 PM
+BAG:tunkutohehe add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/14/2023 1:03 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:03 PM
+BAG:tunkutohehe add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/14/2023 1:03 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/14/2023 1:04 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/14/2023 1:04 PM
+BAG:tunkutohehe add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/14/2023 1:04 PM
+BAG:tunkutohehe add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/14/2023 1:05 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:05 PM
+BAG:tunkutohehe add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/14/2023 1:05 PM
+BAG:tunkutohehe add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/14/2023 1:06 PM
+BAG:tunkutohehe add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/14/2023 1:06 PM
+BAG:tunkutohehe add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/14/2023 1:06 PM
+BAG:tunkutohehe add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/14/2023 1:06 PM
+BAG:tunkutohehe add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/14/2023 1:07 PM
+BAG:tunkutohehe add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/14/2023 1:07 PM
+BAG:tunkutohehe add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/14/2023 1:07 PM
+BAG:tunkutohehe add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/14/2023 1:07 PM
+BAG:tunkutohehe add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/14/2023 1:08 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:08 PM
+BAG:tunkutohehe add 9xSao pha lê (old: 8) lydo: Nhặt từ map at 03/14/2023 1:08 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:08 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/14/2023 1:09 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:10 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:10 PM
+BAG:tunkutohehe add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/14/2023 1:10 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:11 PM
+BAG:tunkutohehe add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/14/2023 1:11 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:11 PM
+BAG:tunkutohehe add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/14/2023 1:12 PM
+BAG:tunkutohehe add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/14/2023 1:12 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:12 PM
+BAG:tunkutohehe add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/14/2023 1:12 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/14/2023 1:12 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Nhặt từ map at 03/14/2023 1:13 PM
+BAG:tunkutohehe add 10xSao pha lê (old: 9) lydo: Nhặt từ map at 03/14/2023 1:13 PM
+BAG:tunkutohehe add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/14/2023 1:13 PM
+BAG:tunkutohehe add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/14/2023 1:13 PM
+BAG:tunkutohehe add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/14/2023 1:13 PM
+BAG:tunkutohehe add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/14/2023 1:14 PM
+BAG:tunkutohehe add 1xPháo hoa lydo: Nhặt từ map at 03/14/2023 1:16 PM
+BAG:tunkutohehe add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/14/2023 1:18 PM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/14/2023 1:21 PM
+BAG:tunkutohehe add 1xRada cấp 7 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 1:22 PM
+BAG:tunkutohehe add 1xGiầy cao su lydo: Lấy từ body đệ vào hành trang at 03/14/2023 1:22 PM
+BAG:tunkutohehe add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/14/2023 2:09 PM
+BAG:tunkutohehe add 54xThỏi vàng (old: 29) lydo: Đổi vàng at 03/14/2023 4:45 PM
+BAG:tunkutohehe add 90xĐá ngũ sắc (old: 30) lydo: Đổi đá ngũ sắc at 03/14/2023 4:45 PM
+BAG:tunkutohehe add 1xCải trang Siêu Thần Trái Đất lydo: Mua từ bill at 03/14/2023 4:47 PM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/14/2023 4:48 PM
+BAG:tunkutohehe add 1xQuần thun đen lydo: Lấy từ body đệ vào hành trang at 03/14/2023 4:48 PM
+BAG:tunkutohehe add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/14/2023 4:48 PM
+BAG:tunkutohehe add 1xGiầy cao su lydo: Lấy từ body đệ vào hành trang at 03/14/2023 4:48 PM
+BAG:tunkutohehe add 1xRada cấp 7 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 4:48 PM
+BAG:tunkutohehe add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 4:48 PM
+BAG:tunkutohehe add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 4:48 PM
+BAG:tunkutohehe add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/14/2023 4:49 PM
+BAG:tunkutohehe add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/14/2023 4:56 PM
+BAG:tunkutohehe add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/14/2023 4:58 PM
+BAG:tunkutohehe add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/14/2023 4:59 PM
+BAG:tunkutohehe add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/14/2023 4:59 PM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 5:02 PM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 5:02 PM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 5:02 PM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 5:02 PM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 5:02 PM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 5:02 PM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/14/2023 5:06 PM
+BAG:tunkutohehe add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/14/2023 5:06 PM
+BAG:tunkutohehe add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/14/2023 5:06 PM
+BAG:tunkutohehe add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/14/2023 5:06 PM
+BAG:tunkutohehe add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/14/2023 5:06 PM
+BAG:tunkutohehe add 5xPháo hoa lydo: Nhặt từ map at 03/14/2023 5:10 PM
+BAG:tunkutohehe add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/14/2023 5:10 PM
+BAG:tunkutohehe add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/14/2023 5:10 PM
+BAG:tunkutohehe add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/14/2023 5:11 PM
+BAG:tunkutohehe add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/14/2023 5:11 PM
+BAG:tunkutohehe add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/14/2023 5:11 PM
+BAG:tunkutohehe add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/14/2023 5:11 PM
+BAG:tunkutohehe add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/14/2023 5:11 PM
+BAG:tunkutohehe add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/14/2023 5:12 PM
+BAG:tunkutohehe add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/14/2023 5:13 PM
+BAG:tunkutohehe add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/14/2023 5:15 PM
+BAG:tunkutohehe add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/14/2023 5:16 PM
+BAG:tunkutohehe add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/14/2023 5:16 PM
+BAG:tunkutohehe add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/14/2023 5:17 PM
+BAG:tunkutohehe add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/14/2023 5:17 PM
+BAG:tunkutohehe add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/14/2023 5:19 PM
+BAG:tunkutohehe add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/14/2023 5:19 PM
+BAG:tunkutohehe add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/14/2023 5:19 PM
+BAG:tunkutohehe add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/14/2023 5:20 PM
+BAG:tunkutohehe add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/14/2023 5:22 PM
+BAG:tunkutohehe add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/14/2023 5:22 PM
+BAG:tunkutohehe add 1xBổ khí lydo: HQT at 03/14/2023 5:27 PM
+BAG:tunkutohehe add 10xCuồng nộ (old: 9) lydo: HQT at 03/14/2023 5:27 PM
+BAG:tunkutohehe add 1xNgọc Rồng 7 sao lydo: HQT at 03/14/2023 5:27 PM
+BAG:tunkutohehe add 1xNgọc Rồng 4 sao lydo: HQT at 03/14/2023 5:27 PM
+BAG:tunkutohehe add 2xBổ khí (old: 1) lydo: HQT at 03/14/2023 5:28 PM
+BAG:tunkutohehe add 1xBổ huyết lydo: HQT at 03/14/2023 5:28 PM
+BAG:tunkutohehe add 1xGiáp Xên bọ hung lydo: HQT at 03/14/2023 5:28 PM
+BAG:tunkutohehe add 3xBổ khí (old: 2) lydo: HQT at 03/14/2023 5:28 PM
+BAG:tunkutohehe add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/14/2023 5:28 PM
+BAG:tunkutohehe add 11xCuồng nộ (old: 10) lydo: HQT at 03/14/2023 5:28 PM
+BAG:tunkutohehe add 12xCuồng nộ (old: 11) lydo: HQT at 03/14/2023 5:28 PM
+BAG:tunkutohehe add 4xBổ khí (old: 3) lydo: HQT at 03/14/2023 5:28 PM
+BAG:tunkutohehe add 13xCuồng nộ (old: 12) lydo: HQT at 03/14/2023 5:28 PM
+BAG:tunkutohehe add 5xBổ khí (old: 4) lydo: HQT at 03/14/2023 5:28 PM
+BAG:tunkutohehe add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/14/2023 5:28 PM
+BAG:tunkutohehe add 52xĐậu thần cấp 10 (old: 32) lydo: Lấy từ rương qua người at 03/14/2023 5:56 PM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/14/2023 5:56 PM
+BAG:tunkutohehe add 1xQuần thun đen lydo: Lấy từ body đệ vào hành trang at 03/14/2023 5:56 PM
+BAG:tunkutohehe add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/14/2023 5:56 PM
+BAG:tunkutohehe add 1xGiầy cao su lydo: Lấy từ body đệ vào hành trang at 03/14/2023 5:56 PM
+BAG:tunkutohehe add 1xRada cấp 7 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 5:56 PM
+BAG:tunkutohehe add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/14/2023 5:56 PM
+BAG:tunkutohehe add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 5:57 PM
+BAG:tunkutohehe add 100xThỏi vàng lydo: Đổi vàng at 03/14/2023 6:01 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 6xNgọc Rồng 5 sao (old: 5) lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 6xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/14/2023 6:07 PM
+BAG:tunkutohehe add 7xNgọc Rồng 5 sao (old: 6) lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/14/2023 6:15 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:17 PM
+BAG:tunkutohehe add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 03/14/2023 6:17 PM
+BAG:tunkutohehe add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 03/14/2023 6:17 PM
+BAG:tunkutohehe add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/14/2023 6:17 PM
+BAG:tunkutohehe add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/14/2023 6:17 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:17 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:17 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:17 PM
+BAG:tunkutohehe add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/14/2023 6:17 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:23 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:23 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:23 PM
+BAG:tunkutohehe add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/14/2023 6:23 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:23 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:23 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:23 PM
+BAG:tunkutohehe add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/14/2023 6:23 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:23 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 9xNgọc Rồng 4 sao (old: 8) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 10xNgọc Rồng 4 sao (old: 9) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 11xNgọc Rồng 4 sao (old: 10) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 8xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:24 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:25 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:25 PM
+BAG:tunkutohehe add 9xNgọc Rồng 6 sao (old: 8) lydo: Lấy từ lucky box at 03/14/2023 6:25 PM
+BAG:tunkutohehe add 8xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ lucky box at 03/14/2023 6:25 PM
+BAG:tunkutohehe add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/14/2023 6:25 PM
+BAG:tunkutohehe add 1xSao pha lê lydo: Lấy từ lucky box at 03/14/2023 6:25 PM
+BAG:tunkutohehe add 8xNgọc Rồng 5 sao (old: 7) lydo: Lấy từ lucky box at 03/14/2023 6:25 PM
+BAG:tunkutohehe add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/14/2023 6:25 PM
+BAG:tunkutohehe add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/14/2023 6:25 PM
+BAG:tunkutohehe add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/14/2023 6:25 PM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 1xQuần thun đen lydo: Lấy từ body đệ vào hành trang at 03/14/2023 6:28 PM
+BAG:tunkutohehe add 2xSao pha lê lydo: (GD) Nhận từ vuabipgame at 03/14/2023 6:31 PM
+BAG:tunkutohehe add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/14/2023 7:36 PM
+BAG:tunkutohehe add 3xPháo hoa (old: 2) lydo: Nhặt từ map at 03/14/2023 7:51 PM
+BAG:tunkutohehe add 4xPháo hoa (old: 3) lydo: Nhặt từ map at 03/14/2023 8:38 PM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/14/2023 8:39 PM
+BAG:tunkutohehe add 1xQuần thun đen lydo: Lấy từ body đệ vào hành trang at 03/14/2023 8:39 PM
+BAG:tunkutohehe add 1xGăng da Calic lydo: Lấy từ body đệ vào hành trang at 03/14/2023 8:39 PM
+BAG:tunkutohehe add 1xGiầy cao su lydo: Lấy từ body đệ vào hành trang at 03/14/2023 8:39 PM
+BAG:tunkutohehe add 1xRada cấp 7 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 8:39 PM
+BAG:tunkutohehe add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/14/2023 8:39 PM
+BAG:tunkutohehe add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 8:39 PM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 8:41 PM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 8:41 PM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 8:41 PM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 8:41 PM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 8:41 PM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 8:42 PM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 8:42 PM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 8:42 PM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 8:42 PM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 8:42 PM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 8:42 PM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 8:42 PM
+BAG:tunkutohehe add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/14/2023 9:12 PM
+BAG:tunkutohehe add 1xĐá Ruby lydo: Nhặt từ map at 03/14/2023 9:13 PM
+BAG:tunkutohehe add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 PM
+BAG:tunkutohehe add 1xQuần thun đen lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 PM
+BAG:tunkutohehe add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 PM
+BAG:tunkutohehe add 1xGiầy cao su lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 PM
+BAG:tunkutohehe add 1xRada cấp 7 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 PM
+BAG:tunkutohehe add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 PM
+BAG:tunkutohehe add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/14/2023 9:19 PM
+BAG:tunkutohehe add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 9:55 PM
+BAG:tunkutohehe add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 9:55 PM
+BAG:tunkutohehe add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 9:55 PM
+BAG:tunkutohehe add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 9:55 PM
+BAG:tunkutohehe add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/14/2023 9:55 PM
+BAG:tunkutohehe add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 9:55 PM
+BAG:tunkutohehe add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 9:55 PM

@@ -1,0 +1,515 @@
+BAG:xayda999 add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 5:15 PM
+BAG:xayda999 add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 5:16 PM
+BAG:xayda999 add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 5:16 PM
+BAG:xayda999 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 5:16 PM
+BAG:xayda999 add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:21 PM
+BAG:xayda999 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:22 PM
+BAG:xayda999 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 5:23 PM
+BAG:xayda999 add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:23 PM
+BAG:xayda999 add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/11/2023 5:24 PM
+BAG:xayda999 add 1xGhế bay lydo: Mua từ cửa hàng at 03/11/2023 5:24 PM
+BAG:xayda999 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 5:26 PM
+BAG:xayda999 add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 5:26 PM
+BAG:xayda999 add 50xThỏi vàng lydo: Giftcode at 03/11/2023 5:28 PM
+BAG:xayda999 add 10xSao pha lê lydo: Giftcode at 03/11/2023 5:28 PM
+BAG:xayda999 add 10xSao pha lê lydo: Giftcode at 03/11/2023 5:28 PM
+BAG:xayda999 add 10xSao pha lê lydo: Giftcode at 03/11/2023 5:28 PM
+BAG:xayda999 add 1xCải trang Hit lydo: Giftcode at 03/11/2023 5:28 PM
+BAG:xayda999 add 10xCuồng nộ lydo: Giftcode at 03/11/2023 5:29 PM
+BAG:xayda999 add 10xBổ huyết lydo: Giftcode at 03/11/2023 5:29 PM
+BAG:xayda999 add 10xBổ khí lydo: Giftcode at 03/11/2023 5:29 PM
+BAG:xayda999 add 10xGiáp Xên bọ hung lydo: Giftcode at 03/11/2023 5:29 PM
+BAG:xayda999 add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 5:30 PM
+BAG:xayda999 add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 5:31 PM
+BAG:xayda999 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 5:32 PM
+BAG:xayda999 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:33 PM
+BAG:xayda999 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 5:34 PM
+BAG:xayda999 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 5:34 PM
+BAG:xayda999 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 5:35 PM
+BAG:xayda999 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 5:35 PM
+BAG:xayda999 add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 5:35 PM
+BAG:xayda999 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 5:35 PM
+BAG:xayda999 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 5:35 PM
+BAG:xayda999 add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 5:35 PM
+BAG:xayda999 add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 5:35 PM
+BAG:xayda999 add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 5:35 PM
+BAG:xayda999 add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 5:35 PM
+BAG:xayda999 add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 21xĐổi đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 22xĐổi đệ tử (old: 21) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 23xĐổi đệ tử (old: 22) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 24xĐổi đệ tử (old: 23) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 25xĐổi đệ tử (old: 24) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 26xĐổi đệ tử (old: 25) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 27xĐổi đệ tử (old: 26) lydo: Mua từ cửa hàng at 03/11/2023 5:36 PM
+BAG:xayda999 add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/11/2023 5:37 PM
+BAG:xayda999 add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 5:38 PM
+BAG:xayda999 add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/11/2023 5:43 PM
+BAG:xayda999 add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:43 PM
+BAG:xayda999 add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:43 PM
+BAG:xayda999 add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/11/2023 5:43 PM
+BAG:xayda999 add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/11/2023 5:44 PM
+BAG:xayda999 add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/11/2023 5:44 PM
+BAG:xayda999 add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/11/2023 5:44 PM
+BAG:xayda999 add 1xSách đấm Galick lv1 lydo: Mua từ cửa hàng at 03/11/2023 5:44 PM
+BAG:xayda999 add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:44 PM
+BAG:xayda999 add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:44 PM
+BAG:xayda999 add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/11/2023 5:44 PM
+BAG:xayda999 add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/11/2023 5:44 PM
+BAG:xayda999 add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/11/2023 5:44 PM
+BAG:xayda999 add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/11/2023 5:44 PM
+BAG:xayda999 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:45 PM
+BAG:xayda999 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 5:46 PM
+BAG:xayda999 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:xayda999 add 1xÁo lông đỏ lydo: Mua từ cửa hàng at 03/11/2023 5:48 PM
+BAG:xayda999 add 1xQuần lông đỏ lydo: Mua từ cửa hàng at 03/11/2023 5:48 PM
+BAG:xayda999 add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/11/2023 5:48 PM
+BAG:xayda999 add 1xGiày lông đỏ lydo: Mua từ cửa hàng at 03/11/2023 5:49 PM
+BAG:xayda999 add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 5:49 PM
+BAG:xayda999 add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/11/2023 5:49 PM
+BAG:xayda999 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 5:50 PM
+BAG:xayda999 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 5:50 PM
+BAG:xayda999 add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:51 PM
+BAG:xayda999 add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 5:52 PM
+BAG:xayda999 add 150xThỏi vàng (old: 50) lydo: Giftcode at 03/11/2023 7:30 PM
+BAG:xayda999 add 1000xPháo hoa lydo: Giftcode at 03/11/2023 7:30 PM
+BAG:xayda999 add 1xNgọc Rồng 5 sao lydo: HQT at 03/11/2023 7:31 PM
+BAG:xayda999 add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 7:31 PM
+BAG:xayda999 add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/11/2023 7:31 PM
+BAG:xayda999 add 10xBổ huyết (old: 9) lydo: HQT at 03/11/2023 7:31 PM
+BAG:xayda999 add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 7:31 PM
+BAG:xayda999 add 1xGiáp Xên bọ hung lydo: HQT at 03/11/2023 7:31 PM
+BAG:xayda999 add 1xCuồng nộ lydo: HQT at 03/11/2023 7:31 PM
+BAG:xayda999 add 1xBổ khí lydo: HQT at 03/11/2023 7:31 PM
+BAG:xayda999 add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/11/2023 7:31 PM
+BAG:xayda999 add 1xNgọc Rồng 6 sao lydo: HQT at 03/11/2023 7:31 PM
+BAG:xayda999 add 1xBổ huyết lydo: HQT at 03/11/2023 7:31 PM
+BAG:xayda999 add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 2xBổ khí (old: 1) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 2xBổ huyết (old: 1) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 2xCuồng nộ (old: 1) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 3xCuồng nộ (old: 2) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 4xCuồng nộ (old: 3) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 3xBổ huyết (old: 2) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 3xBổ khí (old: 2) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 4xBổ huyết (old: 3) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 4xBổ khí (old: 3) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 5xBổ khí (old: 4) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 5xCuồng nộ (old: 4) lydo: HQT at 03/11/2023 7:32 PM
+BAG:xayda999 add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/11/2023 7:33 PM
+BAG:xayda999 add 6xBổ khí (old: 5) lydo: HQT at 03/11/2023 7:33 PM
+BAG:xayda999 add 7xBổ khí (old: 6) lydo: HQT at 03/11/2023 7:33 PM
+BAG:xayda999 add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/11/2023 7:33 PM
+BAG:xayda999 add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 6xCuồng nộ (old: 5) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 5xBổ huyết (old: 4) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 6xBổ huyết (old: 5) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 7xCuồng nộ (old: 6) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 7xBổ huyết (old: 6) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 8xCuồng nộ (old: 7) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 8xBổ huyết (old: 7) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 9xCuồng nộ (old: 8) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 10xCuồng nộ (old: 9) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 8xBổ khí (old: 7) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 11xCuồng nộ (old: 10) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 12xCuồng nộ (old: 11) lydo: HQT at 03/11/2023 7:34 PM
+BAG:xayda999 add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 13xCuồng nộ (old: 12) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 9xBổ huyết (old: 8) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 10xBổ huyết (old: 9) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 9xBổ khí (old: 8) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 11xBổ huyết (old: 10) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 12xBổ huyết (old: 11) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 10xBổ khí (old: 9) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 13xBổ huyết (old: 12) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 14xCuồng nộ (old: 13) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 11xBổ khí (old: 10) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 15xCuồng nộ (old: 14) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 12xBổ khí (old: 11) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 14xBổ huyết (old: 13) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 15xBổ huyết (old: 14) lydo: HQT at 03/11/2023 7:35 PM
+BAG:xayda999 add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 16xBổ huyết (old: 15) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 17xBổ huyết (old: 16) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 13xBổ khí (old: 12) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 14xBổ khí (old: 13) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 16xCuồng nộ (old: 15) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 17xCuồng nộ (old: 16) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 9xGiáp Xên bọ hung (old: 8) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 22xNgọc Rồng 4 sao (old: 21) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 10xGiáp Xên bọ hung (old: 9) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 23xNgọc Rồng 4 sao (old: 22) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 15xBổ khí (old: 14) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 15xNgọc Rồng 6 sao (old: 14) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 24xNgọc Rồng 4 sao (old: 23) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/11/2023 7:36 PM
+BAG:xayda999 add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 18xCuồng nộ (old: 17) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 16xBổ khí (old: 15) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 18xBổ huyết (old: 17) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 17xBổ khí (old: 16) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 19xCuồng nộ (old: 18) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 18xBổ khí (old: 17) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 19xBổ khí (old: 18) lydo: HQT at 03/11/2023 7:37 PM
+BAG:xayda999 add 24xGiáp Xên bọ hung (old: 15) lydo: Lấy từ rương qua người at 03/11/2023 7:38 PM
+BAG:xayda999 add 28xBổ khí (old: 19) lydo: Lấy từ rương qua người at 03/11/2023 7:38 PM
+BAG:xayda999 add 28xBổ huyết (old: 18) lydo: Lấy từ rương qua người at 03/11/2023 7:38 PM
+BAG:xayda999 add 28xCuồng nộ (old: 19) lydo: Lấy từ rương qua người at 03/11/2023 7:38 PM
+BAG:xayda999 add 29xBổ khí (old: 28) lydo: HQT at 03/11/2023 7:38 PM
+BAG:xayda999 add 29xBổ huyết (old: 28) lydo: HQT at 03/11/2023 7:38 PM
+BAG:xayda999 add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/11/2023 7:38 PM
+BAG:xayda999 add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/11/2023 7:38 PM
+BAG:xayda999 add 30xBổ huyết (old: 29) lydo: HQT at 03/11/2023 7:38 PM
+BAG:xayda999 add 31xBổ huyết (old: 30) lydo: HQT at 03/11/2023 7:38 PM
+BAG:xayda999 add 29xCuồng nộ (old: 28) lydo: HQT at 03/11/2023 7:38 PM
+BAG:xayda999 add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/11/2023 7:38 PM
+BAG:xayda999 add 26xNgọc Rồng 4 sao (old: 25) lydo: HQT at 03/11/2023 7:38 PM
+BAG:xayda999 add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/11/2023 7:38 PM
+BAG:xayda999 add 16xNgọc Rồng 6 sao (old: 15) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 32xBổ huyết (old: 31) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 25xGiáp Xên bọ hung (old: 24) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 30xBổ khí (old: 29) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 19xNgọc Rồng 5 sao (old: 18) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 33xBổ huyết (old: 32) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 26xGiáp Xên bọ hung (old: 25) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 34xBổ huyết (old: 33) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 31xBổ khí (old: 30) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 27xGiáp Xên bọ hung (old: 26) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 27xNgọc Rồng 4 sao (old: 26) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 20xNgọc Rồng 5 sao (old: 19) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 21xNgọc Rồng 5 sao (old: 20) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 18xNgọc Rồng 7 sao (old: 17) lydo: HQT at 03/11/2023 7:41 PM
+BAG:xayda999 add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 7:42 PM
+BAG:xayda999 add 32xBổ khí (old: 31) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 28xGiáp Xên bọ hung (old: 27) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 30xCuồng nộ (old: 29) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 31xCuồng nộ (old: 30) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 32xCuồng nộ (old: 31) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 33xCuồng nộ (old: 32) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 34xCuồng nộ (old: 33) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 28xNgọc Rồng 4 sao (old: 27) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 33xBổ khí (old: 32) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 34xBổ khí (old: 33) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 35xBổ khí (old: 34) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 19xNgọc Rồng 7 sao (old: 18) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 29xGiáp Xên bọ hung (old: 28) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 29xNgọc Rồng 4 sao (old: 28) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 30xNgọc Rồng 4 sao (old: 29) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 30xGiáp Xên bọ hung (old: 29) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 22xNgọc Rồng 5 sao (old: 21) lydo: HQT at 03/11/2023 7:43 PM
+BAG:xayda999 add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:xayda999 add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:xayda999 add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:xayda999 add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:xayda999 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:xayda999 add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:xayda999 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:xayda999 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:xayda999 add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 7:45 PM
+BAG:xayda999 add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/11/2023 7:45 PM
+BAG:xayda999 add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/11/2023 7:45 PM
+BAG:xayda999 add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/11/2023 7:45 PM
+BAG:xayda999 add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 20xNgọc Rồng 7 sao (old: 19) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 36xBổ khí (old: 35) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 35xCuồng nộ (old: 34) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 24xNgọc Rồng 5 sao (old: 23) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 37xBổ khí (old: 36) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 25xNgọc Rồng 5 sao (old: 24) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 38xBổ khí (old: 37) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 39xBổ khí (old: 38) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 40xBổ khí (old: 39) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 41xBổ khí (old: 40) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 21xNgọc Rồng 6 sao (old: 20) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 26xNgọc Rồng 5 sao (old: 25) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 35xBổ huyết (old: 34) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 21xNgọc Rồng 7 sao (old: 20) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 36xBổ huyết (old: 35) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 27xNgọc Rồng 5 sao (old: 26) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 22xNgọc Rồng 6 sao (old: 21) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 37xBổ huyết (old: 36) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 28xNgọc Rồng 5 sao (old: 27) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 29xNgọc Rồng 5 sao (old: 28) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 36xCuồng nộ (old: 35) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 31xGiáp Xên bọ hung (old: 30) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 38xBổ huyết (old: 37) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 23xNgọc Rồng 6 sao (old: 22) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 32xGiáp Xên bọ hung (old: 31) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 42xBổ khí (old: 41) lydo: HQT at 03/11/2023 7:46 PM
+BAG:xayda999 add 22xNgọc Rồng 7 sao (old: 21) lydo: HQT at 03/11/2023 7:48 PM
+BAG:xayda999 add 43xBổ khí (old: 42) lydo: HQT at 03/11/2023 7:48 PM
+BAG:xayda999 add 37xCuồng nộ (old: 36) lydo: HQT at 03/11/2023 7:48 PM
+BAG:xayda999 add 30xNgọc Rồng 5 sao (old: 29) lydo: HQT at 03/11/2023 7:48 PM
+BAG:xayda999 add 24xNgọc Rồng 6 sao (old: 23) lydo: HQT at 03/11/2023 7:48 PM
+BAG:xayda999 add 44xBổ khí (old: 43) lydo: HQT at 03/11/2023 7:48 PM
+BAG:xayda999 add 38xCuồng nộ (old: 37) lydo: HQT at 03/11/2023 7:48 PM
+BAG:xayda999 add 39xCuồng nộ (old: 38) lydo: HQT at 03/11/2023 7:48 PM
+BAG:xayda999 add 45xBổ khí (old: 44) lydo: HQT at 03/11/2023 7:48 PM
+BAG:xayda999 add 31xNgọc Rồng 5 sao (old: 30) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 33xGiáp Xên bọ hung (old: 32) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 34xGiáp Xên bọ hung (old: 33) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 32xNgọc Rồng 5 sao (old: 31) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 25xNgọc Rồng 6 sao (old: 24) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 26xNgọc Rồng 6 sao (old: 25) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 33xNgọc Rồng 5 sao (old: 32) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 35xGiáp Xên bọ hung (old: 34) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 39xBổ huyết (old: 38) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 36xGiáp Xên bọ hung (old: 35) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 46xBổ khí (old: 45) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 34xNgọc Rồng 5 sao (old: 33) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 40xBổ huyết (old: 39) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 40xCuồng nộ (old: 39) lydo: HQT at 03/11/2023 7:49 PM
+BAG:xayda999 add 47xBổ khí (old: 46) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 41xCuồng nộ (old: 40) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 41xBổ huyết (old: 40) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 23xNgọc Rồng 7 sao (old: 22) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 35xNgọc Rồng 5 sao (old: 34) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 27xNgọc Rồng 6 sao (old: 26) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 48xBổ khí (old: 47) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 24xNgọc Rồng 7 sao (old: 23) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 37xGiáp Xên bọ hung (old: 36) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 49xBổ khí (old: 48) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 38xGiáp Xên bọ hung (old: 37) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 42xCuồng nộ (old: 41) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 50xBổ khí (old: 49) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 36xNgọc Rồng 5 sao (old: 35) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 43xCuồng nộ (old: 42) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 28xNgọc Rồng 6 sao (old: 27) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 39xGiáp Xên bọ hung (old: 38) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 25xNgọc Rồng 7 sao (old: 24) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 42xBổ huyết (old: 41) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 51xBổ khí (old: 50) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 37xNgọc Rồng 5 sao (old: 36) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 44xCuồng nộ (old: 43) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 38xNgọc Rồng 5 sao (old: 37) lydo: HQT at 03/11/2023 7:50 PM
+BAG:xayda999 add 52xBổ khí (old: 51) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 40xGiáp Xên bọ hung (old: 39) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 45xCuồng nộ (old: 44) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 41xGiáp Xên bọ hung (old: 40) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 29xNgọc Rồng 6 sao (old: 28) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 42xGiáp Xên bọ hung (old: 41) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 43xBổ huyết (old: 42) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 30xNgọc Rồng 6 sao (old: 29) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 26xNgọc Rồng 7 sao (old: 25) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 44xBổ huyết (old: 43) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 46xCuồng nộ (old: 45) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 47xCuồng nộ (old: 46) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 43xGiáp Xên bọ hung (old: 42) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 27xNgọc Rồng 7 sao (old: 26) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 39xNgọc Rồng 5 sao (old: 38) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 40xNgọc Rồng 5 sao (old: 39) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 48xCuồng nộ (old: 47) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 28xNgọc Rồng 7 sao (old: 27) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 45xBổ huyết (old: 44) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 46xBổ huyết (old: 45) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 47xBổ huyết (old: 46) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 41xNgọc Rồng 5 sao (old: 40) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 48xBổ huyết (old: 47) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 44xGiáp Xên bọ hung (old: 43) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 49xCuồng nộ (old: 48) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 50xCuồng nộ (old: 49) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 22xNgọc Rồng 4 sao (old: 21) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 29xNgọc Rồng 7 sao (old: 28) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 30xNgọc Rồng 7 sao (old: 29) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 53xBổ khí (old: 52) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 31xNgọc Rồng 6 sao (old: 30) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 31xNgọc Rồng 7 sao (old: 30) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 45xGiáp Xên bọ hung (old: 44) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 32xNgọc Rồng 6 sao (old: 31) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 23xNgọc Rồng 4 sao (old: 22) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 24xNgọc Rồng 4 sao (old: 23) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 42xNgọc Rồng 5 sao (old: 41) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 32xNgọc Rồng 7 sao (old: 31) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 33xNgọc Rồng 6 sao (old: 32) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 46xGiáp Xên bọ hung (old: 45) lydo: HQT at 03/11/2023 7:51 PM
+BAG:xayda999 add 49xBổ huyết (old: 48) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 54xBổ khí (old: 53) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 43xNgọc Rồng 5 sao (old: 42) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 34xNgọc Rồng 6 sao (old: 33) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 35xNgọc Rồng 6 sao (old: 34) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 47xGiáp Xên bọ hung (old: 46) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 50xBổ huyết (old: 49) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 51xCuồng nộ (old: 50) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 51xBổ huyết (old: 50) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 55xBổ khí (old: 54) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 52xBổ huyết (old: 51) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 52xCuồng nộ (old: 51) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 36xNgọc Rồng 6 sao (old: 35) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 53xCuồng nộ (old: 52) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 26xNgọc Rồng 4 sao (old: 25) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 99xThỏi vàng lydo: Tách thỏi vàng at 03/11/2023 7:52 PM
+BAG:xayda999 add 27xNgọc Rồng 4 sao (old: 26) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 56xBổ khí (old: 55) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 33xNgọc Rồng 7 sao (old: 32) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 37xNgọc Rồng 6 sao (old: 36) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 44xNgọc Rồng 5 sao (old: 43) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 54xCuồng nộ (old: 53) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 34xNgọc Rồng 7 sao (old: 33) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 53xBổ huyết (old: 52) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 28xNgọc Rồng 4 sao (old: 27) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 48xGiáp Xên bọ hung (old: 47) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 29xNgọc Rồng 4 sao (old: 28) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 30xNgọc Rồng 4 sao (old: 29) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 54xBổ huyết (old: 53) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 49xGiáp Xên bọ hung (old: 48) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 45xNgọc Rồng 5 sao (old: 44) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 55xCuồng nộ (old: 54) lydo: HQT at 03/11/2023 7:52 PM
+BAG:xayda999 add 50xGiáp Xên bọ hung (old: 49) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 55xBổ huyết (old: 54) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 46xNgọc Rồng 5 sao (old: 45) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 51xGiáp Xên bọ hung (old: 50) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 52xGiáp Xên bọ hung (old: 51) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 31xNgọc Rồng 4 sao (old: 30) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 35xNgọc Rồng 7 sao (old: 34) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 53xGiáp Xên bọ hung (old: 52) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 32xNgọc Rồng 4 sao (old: 31) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 56xCuồng nộ (old: 55) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 33xNgọc Rồng 4 sao (old: 32) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 57xBổ khí (old: 56) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 56xBổ huyết (old: 55) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 57xBổ huyết (old: 56) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 57xCuồng nộ (old: 56) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 58xCuồng nộ (old: 57) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 58xBổ huyết (old: 57) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 38xNgọc Rồng 6 sao (old: 37) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 47xNgọc Rồng 5 sao (old: 46) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 36xNgọc Rồng 7 sao (old: 35) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 37xNgọc Rồng 7 sao (old: 36) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 38xNgọc Rồng 7 sao (old: 37) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 58xBổ khí (old: 57) lydo: HQT at 03/11/2023 7:53 PM
+BAG:xayda999 add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhập ngọc at 03/11/2023 7:53 PM
+BAG:xayda999 add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhập ngọc at 03/11/2023 7:53 PM
+BAG:xayda999 add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhập ngọc at 03/11/2023 7:53 PM
+BAG:xayda999 add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhập ngọc at 03/11/2023 7:53 PM
+BAG:xayda999 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 7:54 PM
+BAG:xayda999 add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 39xNgọc Rồng 6 sao (old: 38) lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 40xNgọc Rồng 6 sao (old: 39) lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 41xNgọc Rồng 6 sao (old: 40) lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 42xNgọc Rồng 6 sao (old: 41) lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 43xNgọc Rồng 6 sao (old: 42) lydo: Nhập ngọc at 03/11/2023 7:55 PM
+BAG:xayda999 add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhập ngọc at 03/11/2023 7:56 PM
+BAG:xayda999 add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhập ngọc at 03/11/2023 7:56 PM
+BAG:xayda999 add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhập ngọc at 03/11/2023 7:56 PM
+BAG:xayda999 add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhập ngọc at 03/11/2023 7:56 PM
+BAG:xayda999 add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhập ngọc at 03/11/2023 7:56 PM
+BAG:xayda999 add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhập ngọc at 03/11/2023 7:56 PM
+BAG:xayda999 add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhập ngọc at 03/11/2023 7:56 PM
+BAG:xayda999 add 53xĐậu thần cấp 10 (old: 33) lydo: Lấy từ rương qua người at 03/11/2023 7:57 PM
+BAG:xayda999 add 73xĐậu thần cấp 10 (old: 53) lydo: Lấy từ rương qua người at 03/11/2023 7:57 PM
+BAG:xayda999 add 93xĐậu thần cấp 10 (old: 73) lydo: Lấy từ rương qua người at 03/11/2023 7:57 PM
+BAG:xayda999 add 14xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM
+BAG:xayda999 add 99xĐậu thần cấp 10 (old: 93) lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM
+BAG:xayda999 add 34xĐậu thần cấp 10 (old: 14) lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM
+BAG:xayda999 add 54xĐậu thần cấp 10 (old: 34) lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM
+BAG:xayda999 add 74xĐậu thần cấp 10 (old: 54) lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM
+BAG:xayda999 add 94xĐậu thần cấp 10 (old: 74) lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM
+BAG:xayda999 add 15xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM
+BAG:xayda999 add 99xĐậu thần cấp 10 (old: 94) lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM

@@ -1,0 +1,12 @@
+BAG:sonsun add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/05/2023 5:58 PM
+BAG:sonsun add 10xĐậu thần cấp 9 lydo: Thu hoạch đậu at 03/05/2023 5:59 PM
+BAG:sonsun add 30xĐậu thần cấp 9 (old: 10) lydo: Lấy từ rương qua người at 03/05/2023 5:59 PM
+BAG:sonsun add 50xĐậu thần cấp 9 (old: 30) lydo: Lấy từ rương qua người at 03/05/2023 5:59 PM
+BAG:sonsun add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 6:00 PM
+BAG:sonsun add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 6:00 PM
+BAG:sonsun add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 6:00 PM
+BAG:sonsun add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 6:00 PM
+BAG:sonsun add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 6:00 PM
+BAG:sonsun add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 6:00 PM
+BAG:sonsun add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/05/2023 6:01 PM
+BAG:sonsun add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 03/05/2023 6:01 PM

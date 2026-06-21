@@ -1,0 +1,176 @@
+BAG:bokenu add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 7:45 PM
+BAG:bokenu add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 7:45 PM
+BAG:bokenu add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 7:45 PM
+BAG:bokenu add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 7:46 PM
+BAG:bokenu add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/11/2023 7:46 PM
+BAG:bokenu add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/11/2023 7:46 PM
+BAG:bokenu add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:bokenu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:bokenu add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:bokenu add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:bokenu add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:bokenu add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:bokenu add 1xVán bay VIP lydo: Mua từ cửa hàng at 03/11/2023 7:56 PM
+BAG:bokenu add 1xAvatar lydo: Mua từ cửa hàng at 03/11/2023 7:57 PM
+BAG:bokenu add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:bokenu add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:bokenu add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:bokenu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 7:59 PM
+BAG:bokenu add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 7:59 PM
+BAG:bokenu add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 8:00 PM
+BAG:bokenu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 8:00 PM
+BAG:bokenu add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 8:01 PM
+BAG:bokenu add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 03/11/2023 8:02 PM
+BAG:bokenu add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 03/11/2023 8:02 PM
+BAG:bokenu add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 03/11/2023 8:02 PM
+BAG:bokenu add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 03/11/2023 8:02 PM
+BAG:bokenu add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 03/11/2023 8:02 PM
+BAG:bokenu add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 03/11/2023 8:02 PM
+BAG:bokenu add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 03/11/2023 8:02 PM
+BAG:bokenu add 50xThỏi vàng lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:bokenu add 10xSao pha lê lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:bokenu add 10xSao pha lê lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:bokenu add 10xSao pha lê lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:bokenu add 1xCải trang Hit lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:bokenu add 10xCuồng nộ lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:bokenu add 10xBổ huyết lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:bokenu add 10xBổ khí lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:bokenu add 10xGiáp Xên bọ hung lydo: Giftcode at 03/11/2023 8:05 PM
+BAG:bokenu add 150xThỏi vàng (old: 50) lydo: Giftcode at 03/11/2023 8:06 PM
+BAG:bokenu add 1000xPháo hoa lydo: Giftcode at 03/11/2023 8:06 PM
+BAG:bokenu add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/11/2023 8:06 PM
+BAG:bokenu add 1xNgọc Rồng 6 sao lydo: HQT at 03/11/2023 8:06 PM
+BAG:bokenu add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/11/2023 8:06 PM
+BAG:bokenu add 11xBổ huyết (old: 10) lydo: HQT at 03/11/2023 8:06 PM
+BAG:bokenu add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/11/2023 8:06 PM
+BAG:bokenu add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/11/2023 8:06 PM
+BAG:bokenu add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 8:07 PM
+BAG:bokenu add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 8:11 PM
+BAG:bokenu add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 8:11 PM
+BAG:bokenu add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 8:12 PM
+BAG:bokenu add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/11/2023 8:12 PM
+BAG:bokenu add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/11/2023 8:12 PM
+BAG:bokenu add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 8:12 PM
+BAG:bokenu add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 8:13 PM
+BAG:bokenu add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/11/2023 8:13 PM
+BAG:bokenu add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/11/2023 8:13 PM
+BAG:bokenu add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 8:13 PM
+BAG:bokenu add 1xBổ khí lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 2xBổ khí (old: 1) lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 10xCuồng nộ (old: 9) lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 3xBổ khí (old: 2) lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 4xBổ khí (old: 3) lydo: HQT at 03/11/2023 8:13 PM
+BAG:bokenu add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:bokenu add 11xCuồng nộ (old: 10) lydo: HQT at 03/11/2023 8:14 PM
+BAG:bokenu add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:bokenu add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/11/2023 8:14 PM
+BAG:bokenu add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/11/2023 8:14 PM
+BAG:bokenu add 1xBổ khí lydo: HQT at 03/11/2023 8:14 PM
+BAG:bokenu add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/11/2023 8:14 PM
+BAG:bokenu add 2xBổ khí (old: 1) lydo: HQT at 03/11/2023 8:14 PM
+BAG:bokenu add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/11/2023 8:14 PM
+BAG:bokenu add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:bokenu add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:bokenu add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 8:16 PM
+BAG:bokenu add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 8:24 PM
+BAG:bokenu add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 8:24 PM
+BAG:bokenu add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 8:24 PM
+BAG:bokenu add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 8:24 PM
+BAG:bokenu add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:bokenu add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:bokenu add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:bokenu add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:bokenu add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:bokenu add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:bokenu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:bokenu add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 8:26 PM
+BAG:bokenu add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:bokenu add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:bokenu add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 8:27 PM
+BAG:bokenu add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 8:27 PM
+BAG:bokenu add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 8:27 PM
+BAG:bokenu add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 8:28 PM
+BAG:bokenu add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:bokenu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:bokenu add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:bokenu add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:bokenu add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:bokenu add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 8:30 PM
+BAG:bokenu add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 8:30 PM
+BAG:bokenu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 8:30 PM
+BAG:bokenu add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 8:30 PM
+BAG:bokenu add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 8:30 PM
+BAG:bokenu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 8:31 PM
+BAG:bokenu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 8:31 PM
+BAG:bokenu add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 8:31 PM
+BAG:bokenu add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 8:31 PM
+BAG:bokenu add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/11/2023 8:31 PM
+BAG:bokenu add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 8:31 PM
+BAG:bokenu add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:bokenu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:bokenu add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:bokenu add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:bokenu add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:bokenu add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:bokenu add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:bokenu add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:bokenu add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:bokenu add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:bokenu add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:bokenu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:bokenu add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:bokenu add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:bokenu add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:bokenu add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 8:36 PM
+BAG:bokenu add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 8:36 PM
+BAG:bokenu add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 8:36 PM
+BAG:bokenu add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 8:36 PM
+BAG:bokenu add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 8:36 PM
+BAG:bokenu add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 8:37 PM
+BAG:bokenu add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 8:37 PM
+BAG:bokenu add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 8:37 PM
+BAG:bokenu add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 8:37 PM
+BAG:bokenu add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 8:37 PM
+BAG:bokenu add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 8:38 PM
+BAG:bokenu add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 8:38 PM
+BAG:bokenu add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 8:38 PM
+BAG:bokenu add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 8:39 PM
+BAG:bokenu add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 8:39 PM
+BAG:bokenu add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 8:39 PM
+BAG:bokenu add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 8:39 PM
+BAG:bokenu add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 8:39 PM
+BAG:bokenu add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 8:39 PM
+BAG:bokenu add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/11/2023 8:39 PM
+BAG:bokenu add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 8:39 PM
+BAG:bokenu add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 8:39 PM
+BAG:bokenu add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 3xMảnh Quỷ đất mẹ (old: 2) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:bokenu add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 03/11/2023 8:41 PM
+BAG:bokenu add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 8:41 PM
+BAG:bokenu add 5xMảnh Quỷ bay (old: 4) lydo: Nhặt từ map at 03/11/2023 8:41 PM
+BAG:bokenu add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 8:41 PM
+BAG:bokenu add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 8:42 PM
+BAG:bokenu add 6xMảnh Quỷ bay (old: 5) lydo: Nhặt từ map at 03/11/2023 8:42 PM
+BAG:bokenu add 4xMảnh Quỷ đất mẹ (old: 3) lydo: Nhặt từ map at 03/11/2023 10:36 PM
+BAG:bokenu add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 10:37 PM
+BAG:bokenu add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 10:37 PM
+BAG:bokenu add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/11/2023 10:38 PM
+BAG:bokenu add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 11:59 PM

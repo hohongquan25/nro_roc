@@ -1,0 +1,231 @@
+BAG:chuem add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/18/2023 9:16 AM
+BAG:chuem add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/18/2023 9:16 AM
+BAG:chuem add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/18/2023 9:17 AM
+BAG:chuem add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/18/2023 9:17 AM
+BAG:chuem add 1xĐá Ruby lydo: Nhặt từ map at 03/18/2023 9:19 AM
+BAG:chuem add 1xĐá lục bảo lydo: Nhặt từ map at 03/18/2023 9:20 AM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 9:20 AM
+BAG:chuem add 1xĐá Saphia lydo: Nhặt từ map at 03/18/2023 9:20 AM
+BAG:chuem add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/18/2023 9:20 AM
+BAG:chuem add 1xĐá Titan lydo: Nhặt từ map at 03/18/2023 9:20 AM
+BAG:chuem add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/18/2023 9:21 AM
+BAG:chuem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/18/2023 9:21 AM
+BAG:chuem add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/18/2023 9:22 AM
+BAG:chuem add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/18/2023 9:22 AM
+BAG:chuem add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/18/2023 9:22 AM
+BAG:chuem add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/18/2023 9:23 AM
+BAG:chuem add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/18/2023 9:24 AM
+BAG:chuem add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/18/2023 9:24 AM
+BAG:chuem add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/18/2023 9:24 AM
+BAG:chuem add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/18/2023 9:25 AM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 9:26 AM
+BAG:chuem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/18/2023 9:26 AM
+BAG:chuem add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/18/2023 9:28 AM
+BAG:chuem add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/18/2023 9:28 AM
+BAG:chuem add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/18/2023 9:28 AM
+BAG:chuem add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/18/2023 9:28 AM
+BAG:chuem add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/18/2023 9:28 AM
+BAG:chuem add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/18/2023 9:28 AM
+BAG:chuem add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/18/2023 9:28 AM
+BAG:chuem add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/18/2023 9:29 AM
+BAG:chuem add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/18/2023 9:29 AM
+BAG:chuem add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/18/2023 9:29 AM
+BAG:chuem add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/18/2023 9:30 AM
+BAG:chuem add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/18/2023 9:30 AM
+BAG:chuem add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/18/2023 9:30 AM
+BAG:chuem add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/18/2023 9:30 AM
+BAG:chuem add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/18/2023 9:30 AM
+BAG:chuem add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/18/2023 9:30 AM
+BAG:chuem add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/18/2023 9:30 AM
+BAG:chuem add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/18/2023 9:31 AM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 9:31 AM
+BAG:chuem add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/18/2023 9:31 AM
+BAG:chuem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/18/2023 9:31 AM
+BAG:chuem add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/18/2023 9:31 AM
+BAG:chuem add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/18/2023 9:32 AM
+BAG:chuem add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/18/2023 9:33 AM
+BAG:chuem add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/18/2023 9:33 AM
+BAG:chuem add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/18/2023 9:33 AM
+BAG:chuem add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/18/2023 9:33 AM
+BAG:chuem add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/18/2023 9:34 AM
+BAG:chuem add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/18/2023 9:34 AM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 9:34 AM
+BAG:chuem add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/18/2023 9:35 AM
+BAG:chuem add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/18/2023 9:36 AM
+BAG:chuem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/18/2023 9:37 AM
+BAG:chuem add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/18/2023 9:37 AM
+BAG:chuem add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/18/2023 9:39 AM
+BAG:chuem add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/18/2023 9:40 AM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 9:40 AM
+BAG:chuem add 1xGăng vải thô lydo: Nhặt từ map at 03/18/2023 9:41 AM
+BAG:chuem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/18/2023 9:42 AM
+BAG:chuem add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/18/2023 9:42 AM
+BAG:chuem add 1xGăng vải thô lydo: Nhặt từ map at 03/18/2023 9:42 AM
+BAG:chuem add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/18/2023 9:43 AM
+BAG:chuem add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/18/2023 9:44 AM
+BAG:chuem add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/18/2023 9:44 AM
+BAG:chuem add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/18/2023 9:44 AM
+BAG:chuem add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/18/2023 9:45 AM
+BAG:chuem add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/18/2023 9:45 AM
+BAG:chuem add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/18/2023 9:45 AM
+BAG:chuem add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/18/2023 9:46 AM
+BAG:chuem add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/18/2023 9:46 AM
+BAG:chuem add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/18/2023 9:46 AM
+BAG:chuem add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/18/2023 9:46 AM
+BAG:chuem add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/18/2023 9:46 AM
+BAG:chuem add 1xÁo vải thô lydo: Nhặt từ map at 03/18/2023 9:46 AM
+BAG:chuem add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/18/2023 9:47 AM
+BAG:chuem add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/18/2023 9:47 AM
+BAG:chuem add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/18/2023 9:48 AM
+BAG:chuem add 1xÁo vải thô lydo: Nhặt từ map at 03/18/2023 9:48 AM
+BAG:chuem add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/18/2023 9:48 AM
+BAG:chuem add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/18/2023 9:48 AM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 9:50 AM
+BAG:chuem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/18/2023 9:50 AM
+BAG:chuem add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/18/2023 9:50 AM
+BAG:chuem add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/18/2023 9:51 AM
+BAG:chuem add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/18/2023 9:51 AM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 9:51 AM
+BAG:chuem add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/18/2023 9:52 AM
+BAG:chuem add 1xGiầy vải thô lydo: Nhặt từ map at 03/18/2023 9:52 AM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 9:53 AM
+BAG:chuem add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/18/2023 9:53 AM
+BAG:chuem add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/18/2023 9:54 AM
+BAG:chuem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/18/2023 9:55 AM
+BAG:chuem add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/18/2023 9:55 AM
+BAG:chuem add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/18/2023 9:56 AM
+BAG:chuem add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/18/2023 9:58 AM
+BAG:chuem add 1xGăng vải thô lydo: Nhặt từ map at 03/18/2023 9:58 AM
+BAG:chuem add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/18/2023 9:58 AM
+BAG:chuem add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/18/2023 9:59 AM
+BAG:chuem add 1xÁo vải thô lydo: Nhặt từ map at 03/18/2023 10:00 AM
+BAG:chuem add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/18/2023 10:00 AM
+BAG:chuem add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/18/2023 10:01 AM
+BAG:chuem add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/18/2023 10:02 AM
+BAG:chuem add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/18/2023 10:02 AM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 10:03 AM
+BAG:chuem add 1xQuần vải thô lydo: Nhặt từ map at 03/18/2023 10:04 AM
+BAG:chuem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/18/2023 10:04 AM
+BAG:chuem add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/18/2023 10:04 AM
+BAG:chuem add 1xQuần vải thô lydo: Nhặt từ map at 03/18/2023 10:05 AM
+BAG:chuem add 1xGăng vải thô lydo: Nhặt từ map at 03/18/2023 10:07 AM
+BAG:chuem add 1xĐá Titan lydo: Nhặt từ map at 03/18/2023 10:07 AM
+BAG:chuem add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/18/2023 10:08 AM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 10:08 AM
+BAG:chuem add 1xÁo vải thô lydo: Nhặt từ map at 03/18/2023 10:08 AM
+BAG:chuem add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/18/2023 10:09 AM
+BAG:chuem add 1xĐá lục bảo lydo: Nhặt từ map at 03/18/2023 10:09 AM
+BAG:chuem add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/18/2023 10:09 AM
+BAG:chuem add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/18/2023 10:10 AM
+BAG:chuem add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/18/2023 10:10 AM
+BAG:chuem add 1xĐá Ruby lydo: Nhặt từ map at 03/18/2023 10:10 AM
+BAG:chuem add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/18/2023 10:10 AM
+BAG:chuem add 1xGiầy vải thô lydo: Nhặt từ map at 03/18/2023 10:11 AM
+BAG:chuem add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/18/2023 10:12 AM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 12:48 PM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 12:48 PM
+BAG:chuem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/18/2023 12:49 PM
+BAG:chuem add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/18/2023 12:49 PM
+BAG:chuem add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/18/2023 12:49 PM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 12:51 PM
+BAG:chuem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/18/2023 12:51 PM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 12:54 PM
+BAG:chuem add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/18/2023 12:55 PM
+BAG:chuem add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/18/2023 12:55 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 12:57 PM
+BAG:chuem add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/18/2023 12:57 PM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 12:58 PM
+BAG:chuem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/18/2023 12:58 PM
+BAG:chuem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/18/2023 12:59 PM
+BAG:chuem add 1xGăng vải thô lydo: Nhặt từ map at 03/18/2023 12:59 PM
+BAG:chuem add 1xĐá Saphia lydo: Nhặt từ map at 03/18/2023 12:59 PM
+BAG:chuem add 1xĐá Saphia lydo: Nhặt từ map at 03/18/2023 12:59 PM
+BAG:chuem add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/18/2023 1:00 PM
+BAG:chuem add 1xĐá Ruby lydo: Nhặt từ map at 03/18/2023 1:04 PM
+BAG:chuem add 1xĐá Saphia lydo: Nhặt từ map at 03/18/2023 3:15 PM
+BAG:chuem add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/18/2023 3:20 PM
+BAG:chuem add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/18/2023 3:26 PM
+BAG:chuem add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/18/2023 3:26 PM
+BAG:chuem add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/18/2023 3:27 PM
+BAG:chuem add 1xĐá Titan lydo: Nhặt từ map at 03/18/2023 3:35 PM
+BAG:chuem add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/18/2023 3:35 PM
+BAG:chuem add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/18/2023 3:38 PM
+BAG:chuem add 1xĐá lục bảo lydo: Nhặt từ map at 03/18/2023 3:41 PM
+BAG:chuem add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/18/2023 3:45 PM
+BAG:chuem add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/18/2023 4:02 PM
+BAG:chuem add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/18/2023 4:03 PM
+BAG:chuem add 29xĐậu thần cấp 10 (old: 9) lydo: Lấy từ rương qua người at 03/18/2023 8:10 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:10 PM
+BAG:chuem add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/18/2023 8:11 PM
+BAG:chuem add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/18/2023 8:11 PM
+BAG:chuem add 1xGăng vải thô lydo: Nhặt từ map at 03/18/2023 8:13 PM
+BAG:chuem add 1xĐá Titan lydo: Nhặt từ map at 03/18/2023 8:14 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:14 PM
+BAG:chuem add 1xĐá lục bảo lydo: Nhặt từ map at 03/18/2023 8:15 PM
+BAG:chuem add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/18/2023 8:15 PM
+BAG:chuem add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/18/2023 8:16 PM
+BAG:chuem add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/18/2023 8:17 PM
+BAG:chuem add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/18/2023 8:17 PM
+BAG:chuem add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/18/2023 8:17 PM
+BAG:chuem add 1xGăng vải thô lydo: Nhặt từ map at 03/18/2023 8:17 PM
+BAG:chuem add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/18/2023 8:17 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:18 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:19 PM
+BAG:chuem add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/18/2023 8:19 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:19 PM
+BAG:chuem add 1xĐá Saphia lydo: Nhặt từ map at 03/18/2023 8:19 PM
+BAG:chuem add 1xQuần vải thô lydo: Nhặt từ map at 03/18/2023 8:20 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:20 PM
+BAG:chuem add 1xÁo vải thô lydo: Nhặt từ map at 03/18/2023 8:20 PM
+BAG:chuem add 1xÁo vải thô lydo: Nhặt từ map at 03/18/2023 8:21 PM
+BAG:chuem add 1xĐá Titan lydo: Nhặt từ map at 03/18/2023 8:21 PM
+BAG:chuem add 1xĐá Saphia lydo: Nhặt từ map at 03/18/2023 8:22 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:22 PM
+BAG:chuem add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/18/2023 8:22 PM
+BAG:chuem add 1xQuần vải thô lydo: Nhặt từ map at 03/18/2023 8:23 PM
+BAG:chuem add 1xGăng vải thô lydo: Nhặt từ map at 03/18/2023 8:23 PM
+BAG:chuem add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/18/2023 8:23 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:24 PM
+BAG:chuem add 1xGăng vải thô lydo: Nhặt từ map at 03/18/2023 8:24 PM
+BAG:chuem add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/18/2023 8:25 PM
+BAG:chuem add 1xQuần vải thô lydo: Nhặt từ map at 03/18/2023 8:25 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:25 PM
+BAG:chuem add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/18/2023 8:25 PM
+BAG:chuem add 1xGiầy vải thô lydo: Nhặt từ map at 03/18/2023 8:25 PM
+BAG:chuem add 1xĐá lục bảo lydo: Nhặt từ map at 03/18/2023 8:26 PM
+BAG:chuem add 1xGiầy vải thô lydo: Nhặt từ map at 03/18/2023 8:26 PM
+BAG:chuem add 1xĐá Titan lydo: Nhặt từ map at 03/18/2023 8:27 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:28 PM
+BAG:chuem add 1xQuần vải thô lydo: Nhặt từ map at 03/18/2023 8:28 PM
+BAG:chuem add 1xĐá Ruby lydo: Nhặt từ map at 03/18/2023 8:30 PM
+BAG:chuem add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/18/2023 8:30 PM
+BAG:chuem add 1xĐá Ruby lydo: Nhặt từ map at 03/18/2023 8:30 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:32 PM
+BAG:chuem add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/18/2023 8:32 PM
+BAG:chuem add 1xĐá Saphia lydo: Nhặt từ map at 03/18/2023 8:32 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:33 PM
+BAG:chuem add 1xGăng vải thô lydo: Nhặt từ map at 03/18/2023 8:33 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:33 PM
+BAG:chuem add 1xĐá Ruby lydo: Nhặt từ map at 03/18/2023 8:34 PM
+BAG:chuem add 1xGiầy vải thô lydo: Nhặt từ map at 03/18/2023 8:36 PM
+BAG:chuem add 1xGăng vải thô lydo: Nhặt từ map at 03/18/2023 8:37 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:37 PM
+BAG:chuem add 1xĐá Titan lydo: Nhặt từ map at 03/18/2023 8:38 PM
+BAG:chuem add 1xĐá Ruby lydo: Nhặt từ map at 03/18/2023 8:38 PM
+BAG:chuem add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/18/2023 8:38 PM
+BAG:chuem add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/18/2023 8:39 PM
+BAG:chuem add 1xQuần vải thô lydo: Nhặt từ map at 03/18/2023 8:39 PM
+BAG:chuem add 1xĐá Saphia lydo: Nhặt từ map at 03/18/2023 8:40 PM
+BAG:chuem add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/18/2023 8:40 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:40 PM
+BAG:chuem add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/18/2023 8:40 PM
+BAG:chuem add 1xĐá lục bảo lydo: Nhặt từ map at 03/18/2023 8:41 PM
+BAG:chuem add 1xGiầy vải thô lydo: Nhặt từ map at 03/18/2023 8:41 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:41 PM
+BAG:chuem add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/18/2023 8:42 PM
+BAG:chuem add 1xGiầy vải thô lydo: Nhặt từ map at 03/18/2023 8:43 PM
+BAG:chuem add 1xĐá Saphia lydo: Nhặt từ map at 03/18/2023 8:43 PM
+BAG:chuem add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/18/2023 10:13 PM
+BAG:chuem add 1xĐá Titan lydo: Nhặt từ map at 03/18/2023 10:13 PM
+BAG:chuem add 1xÁo vải thô lydo: Nhặt từ map at 03/18/2023 10:13 PM
+BAG:chuem add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/18/2023 10:14 PM

@@ -1,0 +1,644 @@
+BAG:testkame add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/04/2023 12:22 AM
+BAG:testkame add 1xĐá Ruby lydo: Nhặt từ map at 03/04/2023 1:07 AM
+BAG:testkame add 1xĐá Saphia lydo: Nhặt từ map at 03/04/2023 4:17 AM
+BAG:testkame add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 5:59 AM
+BAG:testkame add 1xQuần Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/04/2023 5:59 AM
+BAG:testkame add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/04/2023 5:59 AM
+BAG:testkame add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 5:59 AM
+BAG:testkame add 1xNhẫn Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/04/2023 5:59 AM
+BAG:testkame add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 5:59 AM
+BAG:testkame add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 5:59 AM
+BAG:testkame add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 6:00 AM
+BAG:testkame add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 6:01 AM
+BAG:testkame add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 6:01 AM
+BAG:testkame add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 6:02 AM
+BAG:testkame add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 6:02 AM
+BAG:testkame add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 6:02 AM
+BAG:testkame add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 6:02 AM
+BAG:testkame add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 6:02 AM
+BAG:testkame add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 6:03 AM
+BAG:testkame add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 6:03 AM
+BAG:testkame add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 6:03 AM
+BAG:testkame add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 6:03 AM
+BAG:testkame add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/04/2023 6:03 AM
+BAG:testkame add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 6:04 AM
+BAG:testkame add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 6:04 AM
+BAG:testkame add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 6:05 AM
+BAG:testkame add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 6:05 AM
+BAG:testkame add 1xBột mì lydo: Nhặt từ map at 03/04/2023 6:05 AM
+BAG:testkame add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 6:05 AM
+BAG:testkame add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/04/2023 6:06 AM
+BAG:testkame add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/04/2023 6:06 AM
+BAG:testkame add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 6:06 AM
+BAG:testkame add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/04/2023 6:06 AM
+BAG:testkame add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 6:06 AM
+BAG:testkame add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/04/2023 6:06 AM
+BAG:testkame add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 6:07 AM
+BAG:testkame add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/04/2023 6:07 AM
+BAG:testkame add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 6:07 AM
+BAG:testkame add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 6:07 AM
+BAG:testkame add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 6:07 AM
+BAG:testkame add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/04/2023 6:08 AM
+BAG:testkame add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/04/2023 6:08 AM
+BAG:testkame add 10xNgọc Rồng 5 sao lydo: (GD) Nhận từ rgqgrer at 03/04/2023 6:11 AM
+BAG:testkame add 30xNgọc Rồng 3 sao lydo: (GD) Nhận từ rgqgrer at 03/04/2023 6:11 AM
+BAG:testkame add 10xNgọc Rồng 5 sao lydo: (GD) Nhận từ dbnstefh at 03/04/2023 6:11 AM
+BAG:testkame add 10xNgọc Rồng 5 sao lydo: (GD) Nhận từ brdtxdfh at 03/04/2023 6:12 AM
+BAG:testkame add 10xNgọc Rồng 5 sao lydo: (GD) Nhận từ dcwdgw at 03/04/2023 6:16 AM
+BAG:testkame add 10xNgọc Rồng 5 sao lydo: (GD) Nhận từ etheter5 at 03/04/2023 6:16 AM
+BAG:testkame add 10xNgọc Rồng 5 sao lydo: (GD) Nhận từ sfnst56 at 03/04/2023 6:17 AM
+BAG:testkame add 61xĐá Vĩnh Hằng (old: 60) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 60xĐá Hắc Hóa (old: 59) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 62xĐá Vĩnh Hằng (old: 61) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 61xĐá Hắc Hóa (old: 60) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 63xĐá Vĩnh Hằng (old: 62) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 62xĐá Hắc Hóa (old: 61) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 64xĐá Vĩnh Hằng (old: 63) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 63xĐá Hắc Hóa (old: 62) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 65xĐá Vĩnh Hằng (old: 64) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 64xĐá Hắc Hóa (old: 63) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 66xĐá Vĩnh Hằng (old: 65) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 65xĐá Hắc Hóa (old: 64) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 67xĐá Vĩnh Hằng (old: 66) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 66xĐá Hắc Hóa (old: 65) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 68xĐá Vĩnh Hằng (old: 67) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 67xĐá Hắc Hóa (old: 66) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 69xĐá Vĩnh Hằng (old: 68) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 68xĐá Hắc Hóa (old: 67) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 70xĐá Vĩnh Hằng (old: 69) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 69xĐá Hắc Hóa (old: 68) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 71xĐá Vĩnh Hằng (old: 70) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 70xĐá Hắc Hóa (old: 69) lydo: Mua santa at 03/04/2023 6:17 AM
+BAG:testkame add 72xĐá Vĩnh Hằng (old: 71) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 71xĐá Hắc Hóa (old: 70) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 73xĐá Vĩnh Hằng (old: 72) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 72xĐá Hắc Hóa (old: 71) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 74xĐá Vĩnh Hằng (old: 73) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 73xĐá Hắc Hóa (old: 72) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 75xĐá Vĩnh Hằng (old: 74) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 74xĐá Hắc Hóa (old: 73) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 76xĐá Vĩnh Hằng (old: 75) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 75xĐá Hắc Hóa (old: 74) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 77xĐá Vĩnh Hằng (old: 76) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 76xĐá Hắc Hóa (old: 75) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 78xĐá Vĩnh Hằng (old: 77) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 77xĐá Hắc Hóa (old: 76) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 79xĐá Vĩnh Hằng (old: 78) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 78xĐá Hắc Hóa (old: 77) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 80xĐá Vĩnh Hằng (old: 79) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 79xĐá Hắc Hóa (old: 78) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 81xĐá Vĩnh Hằng (old: 80) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 80xĐá Hắc Hóa (old: 79) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 82xĐá Vĩnh Hằng (old: 81) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 81xĐá Hắc Hóa (old: 80) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 83xĐá Vĩnh Hằng (old: 82) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 82xĐá Hắc Hóa (old: 81) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 84xĐá Vĩnh Hằng (old: 83) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 83xĐá Hắc Hóa (old: 82) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 85xĐá Vĩnh Hằng (old: 84) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 84xĐá Hắc Hóa (old: 83) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 86xĐá Vĩnh Hằng (old: 85) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 85xĐá Hắc Hóa (old: 84) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 87xĐá Vĩnh Hằng (old: 86) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 86xĐá Hắc Hóa (old: 85) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 88xĐá Vĩnh Hằng (old: 87) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 87xĐá Hắc Hóa (old: 86) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 89xĐá Vĩnh Hằng (old: 88) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 88xĐá Hắc Hóa (old: 87) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 90xĐá Vĩnh Hằng (old: 89) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 89xĐá Hắc Hóa (old: 88) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 91xĐá Vĩnh Hằng (old: 90) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 90xĐá Hắc Hóa (old: 89) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 92xĐá Vĩnh Hằng (old: 91) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 91xĐá Hắc Hóa (old: 90) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 93xĐá Vĩnh Hằng (old: 92) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 92xĐá Hắc Hóa (old: 91) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 94xĐá Vĩnh Hằng (old: 93) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 93xĐá Hắc Hóa (old: 92) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 95xĐá Vĩnh Hằng (old: 94) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 94xĐá Hắc Hóa (old: 93) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 96xĐá Vĩnh Hằng (old: 95) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 95xĐá Hắc Hóa (old: 94) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 97xĐá Vĩnh Hằng (old: 96) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 96xĐá Hắc Hóa (old: 95) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 98xĐá Vĩnh Hằng (old: 97) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 97xĐá Hắc Hóa (old: 96) lydo: Mua santa at 03/04/2023 6:18 AM
+BAG:testkame add 99xĐá Vĩnh Hằng (old: 98) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 98xĐá Hắc Hóa (old: 97) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 99xĐá Hắc Hóa (old: 98) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 6:19 AM
+BAG:testkame add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 6:20 AM
+BAG:testkame add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 6:20 AM
+BAG:testkame add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 6:20 AM
+BAG:testkame add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 6:20 AM
+BAG:testkame add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 6:20 AM
+BAG:testkame add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 6:21 AM
+BAG:testkame add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 6:21 AM
+BAG:testkame add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 6:21 AM
+BAG:testkame add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 6:21 AM
+BAG:testkame add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 6:21 AM
+BAG:testkame add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 6:21 AM
+BAG:testkame add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 6:21 AM
+BAG:testkame add 1xCà rốt lydo: Nhặt từ map at 03/04/2023 6:31 AM
+BAG:testkame add 98xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/04/2023 7:50 AM
+BAG:testkame add 20xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/04/2023 7:50 AM
+BAG:testkame add 61xNgọc Rồng 5 sao (old: 60) lydo: Lấy từ rương qua người at 03/04/2023 7:50 AM
+BAG:testkame add 79xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 03/04/2023 7:50 AM
+BAG:testkame add 4xNgọc Rồng 1 sao lydo: Lấy từ rương qua người at 03/04/2023 7:50 AM
+BAG:testkame add 44xNgọc Rồng 3 sao (old: 30) lydo: Lấy từ rương qua người at 03/04/2023 7:50 AM
+BAG:testkame add 5xNgọc Rồng 1 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 7:50 AM
+BAG:testkame add 6xNgọc Rồng 1 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 7:50 AM
+BAG:testkame add 7xNgọc Rồng 1 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 7:50 AM
+BAG:testkame add 1xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/04/2023 7:51 AM
+BAG:testkame add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhập ngọc at 03/04/2023 7:51 AM
+BAG:testkame add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhập ngọc at 03/04/2023 7:51 AM
+BAG:testkame add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhập ngọc at 03/04/2023 7:51 AM
+BAG:testkame add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhập ngọc at 03/04/2023 7:51 AM
+BAG:testkame add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhập ngọc at 03/04/2023 7:51 AM
+BAG:testkame add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhập ngọc at 03/04/2023 7:51 AM
+BAG:testkame add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/04/2023 7:52 AM
+BAG:testkame add 46xĐậu thần cấp 10 (old: 41) lydo: Nhận đậu từ clan at 03/04/2023 8:12 AM
+BAG:testkame add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:12 AM
+BAG:testkame add 1xQuần Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:12 AM
+BAG:testkame add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:13 AM
+BAG:testkame add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:13 AM
+BAG:testkame add 1xNhẫn Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:13 AM
+BAG:testkame add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:13 AM
+BAG:testkame add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:13 AM
+BAG:testkame add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/04/2023 8:19 AM
+BAG:testkame add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:testkame add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:testkame add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:testkame add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:testkame add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:testkame add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/04/2023 8:25 AM
+BAG:testkame add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/04/2023 8:25 AM
+BAG:testkame add 1xĐá Ruby lydo: Nhặt từ map at 03/04/2023 8:28 AM
+BAG:testkame add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/04/2023 8:28 AM
+BAG:testkame add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/04/2023 8:28 AM
+BAG:testkame add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/04/2023 8:29 AM
+BAG:testkame add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/04/2023 8:29 AM
+BAG:testkame add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/04/2023 8:29 AM
+BAG:testkame add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/04/2023 8:29 AM
+BAG:testkame add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 8:29 AM
+BAG:testkame add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 8:29 AM
+BAG:testkame add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/04/2023 8:29 AM
+BAG:testkame add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 8:29 AM
+BAG:testkame add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/04/2023 8:29 AM
+BAG:testkame add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/04/2023 8:29 AM
+BAG:testkame add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/04/2023 8:29 AM
+BAG:testkame add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/04/2023 8:30 AM
+BAG:testkame add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/04/2023 8:30 AM
+BAG:testkame add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/04/2023 8:33 AM
+BAG:testkame add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/04/2023 8:34 AM
+BAG:testkame add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/04/2023 8:38 AM
+BAG:testkame add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 8:39 AM
+BAG:testkame add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/04/2023 8:45 AM
+BAG:testkame add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/04/2023 8:45 AM
+BAG:testkame add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/04/2023 8:49 AM
+BAG:testkame add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/04/2023 8:50 AM
+BAG:testkame add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/04/2023 8:51 AM
+BAG:testkame add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 8:51 AM
+BAG:testkame add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/04/2023 8:52 AM
+BAG:testkame add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/04/2023 8:52 AM
+BAG:testkame add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/04/2023 8:52 AM
+BAG:testkame add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/04/2023 8:52 AM
+BAG:testkame add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/04/2023 8:52 AM
+BAG:testkame add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/04/2023 8:53 AM
+BAG:testkame add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/04/2023 8:54 AM
+BAG:testkame add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/04/2023 8:54 AM
+BAG:testkame add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/04/2023 8:54 AM
+BAG:testkame add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/04/2023 8:54 AM
+BAG:testkame add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/04/2023 8:54 AM
+BAG:testkame add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/04/2023 8:55 AM
+BAG:testkame add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/04/2023 8:55 AM
+BAG:testkame add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/04/2023 8:55 AM
+BAG:testkame add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/04/2023 8:55 AM
+BAG:testkame add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/04/2023 8:55 AM
+BAG:testkame add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/04/2023 8:57 AM
+BAG:testkame add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/04/2023 8:58 AM
+BAG:testkame add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/04/2023 8:58 AM
+BAG:testkame add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/04/2023 9:01 AM
+BAG:testkame add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/04/2023 9:01 AM
+BAG:testkame add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/04/2023 9:01 AM
+BAG:testkame add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/04/2023 9:01 AM
+BAG:testkame add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/04/2023 9:01 AM
+BAG:testkame add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/04/2023 9:01 AM
+BAG:testkame add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/04/2023 9:01 AM
+BAG:testkame add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/04/2023 9:02 AM
+BAG:testkame add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/04/2023 9:02 AM
+BAG:testkame add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/04/2023 9:05 AM
+BAG:testkame add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/04/2023 9:05 AM
+BAG:testkame add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/04/2023 9:06 AM
+BAG:testkame add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/04/2023 9:11 AM
+BAG:testkame add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/04/2023 9:11 AM
+BAG:testkame add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/04/2023 9:12 AM
+BAG:testkame add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/04/2023 9:12 AM
+BAG:testkame add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/04/2023 9:12 AM
+BAG:testkame add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/04/2023 9:12 AM
+BAG:testkame add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/04/2023 9:12 AM
+BAG:testkame add 1xĐá Titan lydo: Nhặt từ map at 03/04/2023 9:12 AM
+BAG:testkame add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/04/2023 9:13 AM
+BAG:testkame add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/04/2023 9:13 AM
+BAG:testkame add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/04/2023 9:13 AM
+BAG:testkame add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/04/2023 9:13 AM
+BAG:testkame add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/04/2023 9:13 AM
+BAG:testkame add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/04/2023 9:14 AM
+BAG:testkame add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/04/2023 9:14 AM
+BAG:testkame add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/04/2023 9:14 AM
+BAG:testkame add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/04/2023 9:14 AM
+BAG:testkame add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/04/2023 9:14 AM
+BAG:testkame add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/04/2023 9:15 AM
+BAG:testkame add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/04/2023 9:15 AM
+BAG:testkame add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/04/2023 9:15 AM
+BAG:testkame add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/04/2023 9:15 AM
+BAG:testkame add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/04/2023 9:15 AM
+BAG:testkame add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/04/2023 9:15 AM
+BAG:testkame add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/04/2023 9:16 AM
+BAG:testkame add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/04/2023 9:16 AM
+BAG:testkame add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/04/2023 9:16 AM
+BAG:testkame add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/04/2023 9:16 AM
+BAG:testkame add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/04/2023 9:16 AM
+BAG:testkame add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/04/2023 9:16 AM
+BAG:testkame add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/04/2023 9:16 AM
+BAG:testkame add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/04/2023 9:16 AM
+BAG:testkame add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/04/2023 9:17 AM
+BAG:testkame add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 03/04/2023 9:17 AM
+BAG:testkame add 44xGà quay nguyên con (old: 43) lydo: Nhặt từ map at 03/04/2023 9:17 AM
+BAG:testkame add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/04/2023 9:17 AM
+BAG:testkame add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/04/2023 9:17 AM
+BAG:testkame add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/04/2023 9:17 AM
+BAG:testkame add 45xGà quay nguyên con (old: 44) lydo: Nhặt từ map at 03/04/2023 9:17 AM
+BAG:testkame add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/04/2023 9:17 AM
+BAG:testkame add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/04/2023 9:18 AM
+BAG:testkame add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/04/2023 9:18 AM
+BAG:testkame add 46xGà quay nguyên con (old: 45) lydo: Nhặt từ map at 03/04/2023 9:19 AM
+BAG:testkame add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/04/2023 9:19 AM
+BAG:testkame add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/04/2023 9:19 AM
+BAG:testkame add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/04/2023 9:19 AM
+BAG:testkame add 47xGà quay nguyên con (old: 46) lydo: Nhặt từ map at 03/04/2023 9:20 AM
+BAG:testkame add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/04/2023 9:21 AM
+BAG:testkame add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/04/2023 9:21 AM
+BAG:testkame add 48xGà quay nguyên con (old: 47) lydo: Nhặt từ map at 03/04/2023 9:21 AM
+BAG:testkame add 49xGà quay nguyên con (old: 48) lydo: Nhặt từ map at 03/04/2023 9:21 AM
+BAG:testkame add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/04/2023 9:21 AM
+BAG:testkame add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/04/2023 9:21 AM
+BAG:testkame add 50xGà quay nguyên con (old: 49) lydo: Nhặt từ map at 03/04/2023 9:21 AM
+BAG:testkame add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/04/2023 9:21 AM
+BAG:testkame add 51xGà quay nguyên con (old: 50) lydo: Nhặt từ map at 03/04/2023 9:21 AM
+BAG:testkame add 52xGà quay nguyên con (old: 51) lydo: Nhặt từ map at 03/04/2023 9:21 AM
+BAG:testkame add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/04/2023 9:22 AM
+BAG:testkame add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/04/2023 9:22 AM
+BAG:testkame add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/04/2023 9:22 AM
+BAG:testkame add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/04/2023 9:22 AM
+BAG:testkame add 53xGà quay nguyên con (old: 52) lydo: Nhặt từ map at 03/04/2023 9:22 AM
+BAG:testkame add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/04/2023 9:22 AM
+BAG:testkame add 54xGà quay nguyên con (old: 53) lydo: Nhặt từ map at 03/04/2023 9:23 AM
+BAG:testkame add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/04/2023 9:23 AM
+BAG:testkame add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/04/2023 9:23 AM
+BAG:testkame add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/04/2023 9:23 AM
+BAG:testkame add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/04/2023 9:24 AM
+BAG:testkame add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/04/2023 9:24 AM
+BAG:testkame add 55xGà quay nguyên con (old: 54) lydo: Nhặt từ map at 03/04/2023 9:24 AM
+BAG:testkame add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/04/2023 9:24 AM
+BAG:testkame add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/04/2023 9:25 AM
+BAG:testkame add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/04/2023 9:25 AM
+BAG:testkame add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/04/2023 9:25 AM
+BAG:testkame add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/04/2023 9:26 AM
+BAG:testkame add 56xGà quay nguyên con (old: 55) lydo: Nhặt từ map at 03/04/2023 9:26 AM
+BAG:testkame add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/04/2023 9:26 AM
+BAG:testkame add 39xBột mì (old: 38) lydo: Nhặt từ map at 03/04/2023 9:26 AM
+BAG:testkame add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/04/2023 9:26 AM
+BAG:testkame add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/04/2023 9:26 AM
+BAG:testkame add 40xBột mì (old: 39) lydo: Nhặt từ map at 03/04/2023 9:26 AM
+BAG:testkame add 41xBột mì (old: 40) lydo: Nhặt từ map at 03/04/2023 9:26 AM
+BAG:testkame add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/04/2023 9:26 AM
+BAG:testkame add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/04/2023 9:27 AM
+BAG:testkame add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/04/2023 9:27 AM
+BAG:testkame add 42xBột mì (old: 41) lydo: Nhặt từ map at 03/04/2023 9:27 AM
+BAG:testkame add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/04/2023 9:27 AM
+BAG:testkame add 43xBột mì (old: 42) lydo: Nhặt từ map at 03/04/2023 9:27 AM
+BAG:testkame add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/04/2023 9:28 AM
+BAG:testkame add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/04/2023 9:28 AM
+BAG:testkame add 44xBột mì (old: 43) lydo: Nhặt từ map at 03/04/2023 9:28 AM
+BAG:testkame add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/04/2023 9:28 AM
+BAG:testkame add 57xGà quay nguyên con (old: 56) lydo: Nhặt từ map at 03/04/2023 9:28 AM
+BAG:testkame add 42xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 03/04/2023 9:28 AM
+BAG:testkame add 43xTrứng vịt muối (old: 42) lydo: Nhặt từ map at 03/04/2023 9:28 AM
+BAG:testkame add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/04/2023 9:28 AM
+BAG:testkame add 44xTrứng vịt muối (old: 43) lydo: Nhặt từ map at 03/04/2023 9:29 AM
+BAG:testkame add 45xBột mì (old: 44) lydo: Nhặt từ map at 03/04/2023 9:29 AM
+BAG:testkame add 46xBột mì (old: 45) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 46xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 47xTrứng vịt muối (old: 46) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 48xTrứng vịt muối (old: 47) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 58xGà quay nguyên con (old: 57) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 59xGà quay nguyên con (old: 58) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/04/2023 9:30 AM
+BAG:testkame add 60xGà quay nguyên con (old: 59) lydo: Nhặt từ map at 03/04/2023 9:31 AM
+BAG:testkame add 61xGà quay nguyên con (old: 60) lydo: Nhặt từ map at 03/04/2023 9:31 AM
+BAG:testkame add 49xTrứng vịt muối (old: 48) lydo: Nhặt từ map at 03/04/2023 9:31 AM
+BAG:testkame add 62xGà quay nguyên con (old: 61) lydo: Nhặt từ map at 03/04/2023 9:31 AM
+BAG:testkame add 63xGà quay nguyên con (old: 62) lydo: Nhặt từ map at 03/04/2023 9:31 AM
+BAG:testkame add 64xGà quay nguyên con (old: 63) lydo: Nhặt từ map at 03/04/2023 9:31 AM
+BAG:testkame add 47xBột mì (old: 46) lydo: Nhặt từ map at 03/04/2023 9:31 AM
+BAG:testkame add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/04/2023 9:31 AM
+BAG:testkame add 48xBột mì (old: 47) lydo: Nhặt từ map at 03/04/2023 9:31 AM
+BAG:testkame add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/04/2023 9:31 AM
+BAG:testkame add 49xBột mì (old: 48) lydo: Nhặt từ map at 03/04/2023 9:32 AM
+BAG:testkame add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/04/2023 9:32 AM
+BAG:testkame add 50xTrứng vịt muối (old: 49) lydo: Nhặt từ map at 03/04/2023 9:32 AM
+BAG:testkame add 51xTrứng vịt muối (old: 50) lydo: Nhặt từ map at 03/04/2023 9:32 AM
+BAG:testkame add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/04/2023 9:32 AM
+BAG:testkame add 44xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/04/2023 9:32 AM
+BAG:testkame add 45xĐậu xanh (old: 44) lydo: Nhặt từ map at 03/04/2023 9:33 AM
+BAG:testkame add 46xĐậu xanh (old: 45) lydo: Nhặt từ map at 03/04/2023 9:33 AM
+BAG:testkame add 52xTrứng vịt muối (old: 51) lydo: Nhặt từ map at 03/04/2023 9:33 AM
+BAG:testkame add 47xĐậu xanh (old: 46) lydo: Nhặt từ map at 03/04/2023 9:33 AM
+BAG:testkame add 48xĐậu xanh (old: 47) lydo: Nhặt từ map at 03/04/2023 9:33 AM
+BAG:testkame add 65xGà quay nguyên con (old: 64) lydo: Nhặt từ map at 03/04/2023 9:34 AM
+BAG:testkame add 50xBột mì (old: 49) lydo: Nhặt từ map at 03/04/2023 9:34 AM
+BAG:testkame add 49xĐậu xanh (old: 48) lydo: Nhặt từ map at 03/04/2023 9:34 AM
+BAG:testkame add 50xĐậu xanh (old: 49) lydo: Nhặt từ map at 03/04/2023 9:34 AM
+BAG:testkame add 66xGà quay nguyên con (old: 65) lydo: Nhặt từ map at 03/04/2023 9:34 AM
+BAG:testkame add 51xBột mì (old: 50) lydo: Nhặt từ map at 03/04/2023 9:34 AM
+BAG:testkame add 53xTrứng vịt muối (old: 52) lydo: Nhặt từ map at 03/04/2023 9:34 AM
+BAG:testkame add 52xBột mì (old: 51) lydo: Nhặt từ map at 03/04/2023 9:34 AM
+BAG:testkame add 67xGà quay nguyên con (old: 66) lydo: Nhặt từ map at 03/04/2023 9:35 AM
+BAG:testkame add 54xTrứng vịt muối (old: 53) lydo: Nhặt từ map at 03/04/2023 9:35 AM
+BAG:testkame add 53xBột mì (old: 52) lydo: Nhặt từ map at 03/04/2023 9:35 AM
+BAG:testkame add 54xBột mì (old: 53) lydo: Nhặt từ map at 03/04/2023 9:35 AM
+BAG:testkame add 55xTrứng vịt muối (old: 54) lydo: Nhặt từ map at 03/04/2023 9:36 AM
+BAG:testkame add 68xGà quay nguyên con (old: 67) lydo: Nhặt từ map at 03/04/2023 9:36 AM
+BAG:testkame add 69xGà quay nguyên con (old: 68) lydo: Nhặt từ map at 03/04/2023 9:36 AM
+BAG:testkame add 55xBột mì (old: 54) lydo: Nhặt từ map at 03/04/2023 9:37 AM
+BAG:testkame add 56xBột mì (old: 55) lydo: Nhặt từ map at 03/04/2023 9:37 AM
+BAG:testkame add 57xBột mì (old: 56) lydo: Nhặt từ map at 03/04/2023 9:37 AM
+BAG:testkame add 51xĐậu xanh (old: 50) lydo: Nhặt từ map at 03/04/2023 9:37 AM
+BAG:testkame add 58xBột mì (old: 57) lydo: Nhặt từ map at 03/04/2023 9:37 AM
+BAG:testkame add 52xĐậu xanh (old: 51) lydo: Nhặt từ map at 03/04/2023 9:38 AM
+BAG:testkame add 59xBột mì (old: 58) lydo: Nhặt từ map at 03/04/2023 9:38 AM
+BAG:testkame add 53xĐậu xanh (old: 52) lydo: Nhặt từ map at 03/04/2023 9:38 AM
+BAG:testkame add 54xĐậu xanh (old: 53) lydo: Nhặt từ map at 03/04/2023 9:38 AM
+BAG:testkame add 70xGà quay nguyên con (old: 69) lydo: Nhặt từ map at 03/04/2023 9:39 AM
+BAG:testkame add 71xGà quay nguyên con (old: 70) lydo: Nhặt từ map at 03/04/2023 9:39 AM
+BAG:testkame add 60xBột mì (old: 59) lydo: Nhặt từ map at 03/04/2023 9:39 AM
+BAG:testkame add 55xĐậu xanh (old: 54) lydo: Nhặt từ map at 03/04/2023 9:39 AM
+BAG:testkame add 56xTrứng vịt muối (old: 55) lydo: Nhặt từ map at 03/04/2023 9:39 AM
+BAG:testkame add 72xGà quay nguyên con (old: 71) lydo: Nhặt từ map at 03/04/2023 9:40 AM
+BAG:testkame add 56xĐậu xanh (old: 55) lydo: Nhặt từ map at 03/04/2023 9:40 AM
+BAG:testkame add 57xTrứng vịt muối (old: 56) lydo: Nhặt từ map at 03/04/2023 9:40 AM
+BAG:testkame add 61xBột mì (old: 60) lydo: Nhặt từ map at 03/04/2023 9:40 AM
+BAG:testkame add 57xĐậu xanh (old: 56) lydo: Nhặt từ map at 03/04/2023 9:40 AM
+BAG:testkame add 58xĐậu xanh (old: 57) lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:testkame add 62xBột mì (old: 61) lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:testkame add 73xGà quay nguyên con (old: 72) lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:testkame add 63xBột mì (old: 62) lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:testkame add 58xTrứng vịt muối (old: 57) lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:testkame add 74xGà quay nguyên con (old: 73) lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:testkame add 59xTrứng vịt muối (old: 58) lydo: Nhặt từ map at 03/04/2023 9:42 AM
+BAG:testkame add 75xGà quay nguyên con (old: 74) lydo: Nhặt từ map at 03/04/2023 9:42 AM
+BAG:testkame add 64xBột mì (old: 63) lydo: Nhặt từ map at 03/04/2023 9:42 AM
+BAG:testkame add 60xTrứng vịt muối (old: 59) lydo: Nhặt từ map at 03/04/2023 9:42 AM
+BAG:testkame add 59xĐậu xanh (old: 58) lydo: Nhặt từ map at 03/04/2023 9:42 AM
+BAG:testkame add 76xGà quay nguyên con (old: 75) lydo: Nhặt từ map at 03/04/2023 9:43 AM
+BAG:testkame add 61xTrứng vịt muối (old: 60) lydo: Nhặt từ map at 03/04/2023 9:45 AM
+BAG:testkame add 62xTrứng vịt muối (old: 61) lydo: Nhặt từ map at 03/04/2023 9:45 AM
+BAG:testkame add 63xTrứng vịt muối (old: 62) lydo: Nhặt từ map at 03/04/2023 9:45 AM
+BAG:testkame add 65xBột mì (old: 64) lydo: Nhặt từ map at 03/04/2023 9:45 AM
+BAG:testkame add 77xGà quay nguyên con (old: 76) lydo: Nhặt từ map at 03/04/2023 9:46 AM
+BAG:testkame add 66xBột mì (old: 65) lydo: Nhặt từ map at 03/04/2023 9:46 AM
+BAG:testkame add 78xGà quay nguyên con (old: 77) lydo: Nhặt từ map at 03/04/2023 9:46 AM
+BAG:testkame add 64xTrứng vịt muối (old: 63) lydo: Nhặt từ map at 03/04/2023 9:46 AM
+BAG:testkame add 79xGà quay nguyên con (old: 78) lydo: Nhặt từ map at 03/04/2023 9:46 AM
+BAG:testkame add 80xGà quay nguyên con (old: 79) lydo: Nhặt từ map at 03/04/2023 9:46 AM
+BAG:testkame add 81xGà quay nguyên con (old: 80) lydo: Nhặt từ map at 03/04/2023 9:46 AM
+BAG:testkame add 82xGà quay nguyên con (old: 81) lydo: Nhặt từ map at 03/04/2023 9:47 AM
+BAG:testkame add 83xGà quay nguyên con (old: 82) lydo: Nhặt từ map at 03/04/2023 9:47 AM
+BAG:testkame add 67xBột mì (old: 66) lydo: Nhặt từ map at 03/04/2023 9:47 AM
+BAG:testkame add 84xGà quay nguyên con (old: 83) lydo: Nhặt từ map at 03/04/2023 9:47 AM
+BAG:testkame add 68xBột mì (old: 67) lydo: Nhặt từ map at 03/04/2023 9:47 AM
+BAG:testkame add 65xTrứng vịt muối (old: 64) lydo: Nhặt từ map at 03/04/2023 9:47 AM
+BAG:testkame add 85xGà quay nguyên con (old: 84) lydo: Nhặt từ map at 03/04/2023 9:47 AM
+BAG:testkame add 86xGà quay nguyên con (old: 85) lydo: Nhặt từ map at 03/04/2023 9:48 AM
+BAG:testkame add 60xĐậu xanh (old: 59) lydo: Nhặt từ map at 03/04/2023 9:48 AM
+BAG:testkame add 61xĐậu xanh (old: 60) lydo: Nhặt từ map at 03/04/2023 9:48 AM
+BAG:testkame add 69xBột mì (old: 68) lydo: Nhặt từ map at 03/04/2023 9:48 AM
+BAG:testkame add 87xGà quay nguyên con (old: 86) lydo: Nhặt từ map at 03/04/2023 9:48 AM
+BAG:testkame add 62xĐậu xanh (old: 61) lydo: Nhặt từ map at 03/04/2023 9:48 AM
+BAG:testkame add 70xBột mì (old: 69) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:testkame add 63xĐậu xanh (old: 62) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:testkame add 71xBột mì (old: 70) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:testkame add 72xBột mì (old: 71) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:testkame add 88xGà quay nguyên con (old: 87) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:testkame add 89xGà quay nguyên con (old: 88) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:testkame add 66xTrứng vịt muối (old: 65) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:testkame add 67xTrứng vịt muối (old: 66) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:testkame add 64xĐậu xanh (old: 63) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:testkame add 68xTrứng vịt muối (old: 67) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:testkame add 73xBột mì (old: 72) lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:testkame add 65xĐậu xanh (old: 64) lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:testkame add 66xĐậu xanh (old: 65) lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:testkame add 90xGà quay nguyên con (old: 89) lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:testkame add 74xBột mì (old: 73) lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:testkame add 67xĐậu xanh (old: 66) lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:testkame add 91xGà quay nguyên con (old: 90) lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:testkame add 75xBột mì (old: 74) lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:testkame add 69xTrứng vịt muối (old: 68) lydo: Nhặt từ map at 03/04/2023 9:51 AM
+BAG:testkame add 92xGà quay nguyên con (old: 91) lydo: Nhặt từ map at 03/04/2023 9:51 AM
+BAG:testkame add 70xTrứng vịt muối (old: 69) lydo: Nhặt từ map at 03/04/2023 9:51 AM
+BAG:testkame add 93xGà quay nguyên con (old: 92) lydo: Nhặt từ map at 03/04/2023 9:51 AM
+BAG:testkame add 68xĐậu xanh (old: 67) lydo: Nhặt từ map at 03/04/2023 9:51 AM
+BAG:testkame add 76xBột mì (old: 75) lydo: Nhặt từ map at 03/04/2023 9:51 AM
+BAG:testkame add 69xĐậu xanh (old: 68) lydo: Nhặt từ map at 03/04/2023 9:51 AM
+BAG:testkame add 71xTrứng vịt muối (old: 70) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:testkame add 77xBột mì (old: 76) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:testkame add 78xBột mì (old: 77) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:testkame add 94xGà quay nguyên con (old: 93) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:testkame add 79xBột mì (old: 78) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:testkame add 72xTrứng vịt muối (old: 71) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:testkame add 70xĐậu xanh (old: 69) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:testkame add 73xTrứng vịt muối (old: 72) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:testkame add 74xTrứng vịt muối (old: 73) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:testkame add 71xĐậu xanh (old: 70) lydo: Nhặt từ map at 03/04/2023 9:53 AM
+BAG:testkame add 95xGà quay nguyên con (old: 94) lydo: Nhặt từ map at 03/04/2023 9:53 AM
+BAG:testkame add 96xGà quay nguyên con (old: 95) lydo: Nhặt từ map at 03/04/2023 9:53 AM
+BAG:testkame add 72xĐậu xanh (old: 71) lydo: Nhặt từ map at 03/04/2023 9:53 AM
+BAG:testkame add 75xTrứng vịt muối (old: 74) lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:testkame add 97xGà quay nguyên con (old: 96) lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:testkame add 76xTrứng vịt muối (old: 75) lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:testkame add 80xBột mì (old: 79) lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:testkame add 98xGà quay nguyên con (old: 97) lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:testkame add 73xĐậu xanh (old: 72) lydo: Nhặt từ map at 03/04/2023 9:55 AM
+BAG:testkame add 74xĐậu xanh (old: 73) lydo: Nhặt từ map at 03/04/2023 9:55 AM
+BAG:testkame add 75xĐậu xanh (old: 74) lydo: Nhặt từ map at 03/04/2023 9:55 AM
+BAG:testkame add 76xĐậu xanh (old: 75) lydo: Nhặt từ map at 03/04/2023 9:55 AM
+BAG:testkame add 77xĐậu xanh (old: 76) lydo: Nhặt từ map at 03/04/2023 9:55 AM
+BAG:testkame add 77xTrứng vịt muối (old: 76) lydo: Nhặt từ map at 03/04/2023 9:55 AM
+BAG:testkame add 78xĐậu xanh (old: 77) lydo: Nhặt từ map at 03/04/2023 9:56 AM
+BAG:testkame add 81xBột mì (old: 80) lydo: Nhặt từ map at 03/04/2023 9:56 AM
+BAG:testkame add 82xBột mì (old: 81) lydo: Nhặt từ map at 03/04/2023 9:56 AM
+BAG:testkame add 83xBột mì (old: 82) lydo: Nhặt từ map at 03/04/2023 9:56 AM
+BAG:testkame add 79xĐậu xanh (old: 78) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:testkame add 84xBột mì (old: 83) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:testkame add 80xĐậu xanh (old: 79) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:testkame add 81xĐậu xanh (old: 80) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:testkame add 99xGà quay nguyên con (old: 98) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:testkame add 78xTrứng vịt muối (old: 77) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:testkame add 85xBột mì (old: 84) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:testkame add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 9:58 AM
+BAG:testkame add 86xBột mì (old: 85) lydo: Nhặt từ map at 03/04/2023 9:58 AM
+BAG:testkame add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 9:58 AM
+BAG:testkame add 79xTrứng vịt muối (old: 78) lydo: Nhặt từ map at 03/04/2023 9:58 AM
+BAG:testkame add 82xĐậu xanh (old: 81) lydo: Nhặt từ map at 03/04/2023 9:58 AM
+BAG:testkame add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 9:58 AM
+BAG:testkame add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 9:58 AM
+BAG:testkame add 80xTrứng vịt muối (old: 79) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:testkame add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:testkame add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:testkame add 81xTrứng vịt muối (old: 80) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:testkame add 87xBột mì (old: 86) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:testkame add 83xĐậu xanh (old: 82) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:testkame add 88xBột mì (old: 87) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:testkame add 89xBột mì (old: 88) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:testkame add 84xĐậu xanh (old: 83) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:testkame add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/04/2023 10:00 AM
+BAG:testkame add 2xBánh trung thu thập cẩm (old: 1) lydo: Làm bánh at 03/04/2023 10:00 AM
+BAG:testkame add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/04/2023 10:00 AM
+BAG:testkame add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:testkame add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:testkame add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 10:02 AM
+BAG:testkame add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/04/2023 10:02 AM
+BAG:testkame add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/04/2023 10:02 AM
+BAG:testkame add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 10:02 AM
+BAG:testkame add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/04/2023 10:02 AM
+BAG:testkame add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/04/2023 10:02 AM
+BAG:testkame add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:testkame add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:testkame add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:testkame add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:testkame add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:testkame add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:testkame add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:testkame add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:testkame add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:testkame add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:testkame add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:testkame add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:testkame add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:testkame add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:testkame add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/04/2023 10:05 AM
+BAG:testkame add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/04/2023 10:05 AM
+BAG:testkame add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:testkame add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:testkame add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:testkame add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:testkame add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:testkame add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:testkame add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:testkame add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/04/2023 10:07 AM
+BAG:testkame add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/04/2023 10:07 AM
+BAG:testkame add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/04/2023 10:07 AM
+BAG:testkame add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/04/2023 10:07 AM
+BAG:testkame add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/04/2023 10:07 AM
+BAG:testkame add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/04/2023 10:07 AM
+BAG:testkame add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/04/2023 10:07 AM
+BAG:testkame add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:testkame add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:testkame add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:testkame add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:testkame add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:testkame add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:testkame add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:testkame add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/04/2023 10:09 AM
+BAG:testkame add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/04/2023 10:09 AM
+BAG:testkame add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/04/2023 10:09 AM
+BAG:testkame add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/04/2023 10:10 AM
+BAG:testkame add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/04/2023 10:11 AM
+BAG:testkame add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/04/2023 10:11 AM
+BAG:testkame add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/04/2023 10:12 AM
+BAG:testkame add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/04/2023 10:12 AM
+BAG:testkame add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/04/2023 10:12 AM
+BAG:testkame add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:testkame add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:testkame add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:testkame add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:testkame add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:testkame add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:testkame add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:testkame add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/04/2023 10:14 AM
+BAG:testkame add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/04/2023 10:14 AM
+BAG:testkame add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/04/2023 10:14 AM
+BAG:testkame add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/04/2023 10:15 AM
+BAG:testkame add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/04/2023 10:15 AM
+BAG:testkame add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/04/2023 10:16 AM
+BAG:testkame add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/04/2023 10:16 AM
+BAG:testkame add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 03/04/2023 10:16 AM
+BAG:testkame add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/04/2023 10:17 AM
+BAG:testkame add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/04/2023 10:17 AM
+BAG:testkame add 44xGà quay nguyên con (old: 43) lydo: Nhặt từ map at 03/04/2023 10:17 AM
+BAG:testkame add 45xGà quay nguyên con (old: 44) lydo: Nhặt từ map at 03/04/2023 10:18 AM
+BAG:testkame add 46xGà quay nguyên con (old: 45) lydo: Nhặt từ map at 03/04/2023 10:19 AM
+BAG:testkame add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/04/2023 10:20 AM
+BAG:testkame add 47xGà quay nguyên con (old: 46) lydo: Nhặt từ map at 03/04/2023 10:21 AM
+BAG:testkame add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/04/2023 10:21 AM
+BAG:testkame add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/04/2023 10:21 AM
+BAG:testkame add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/04/2023 10:21 AM
+BAG:testkame add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/04/2023 10:22 AM
+BAG:testkame add 48xGà quay nguyên con (old: 47) lydo: Nhặt từ map at 03/04/2023 10:23 AM
+BAG:testkame add 49xGà quay nguyên con (old: 48) lydo: Nhặt từ map at 03/04/2023 10:23 AM
+BAG:testkame add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/04/2023 10:23 AM
+BAG:testkame add 50xGà quay nguyên con (old: 49) lydo: Nhặt từ map at 03/04/2023 10:23 AM
+BAG:testkame add 51xGà quay nguyên con (old: 50) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:testkame add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:testkame add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:testkame add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:testkame add 52xGà quay nguyên con (old: 51) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:testkame add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:testkame add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/04/2023 10:25 AM
+BAG:testkame add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/04/2023 4:48 PM

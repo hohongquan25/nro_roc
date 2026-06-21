@@ -1,0 +1,765 @@
+BAG:hydra add 1xRada cấp 1 lydo: buff at 03/05/2023 6:34 PM
+BAG:hydra add 1xViên Capsule đặc biệt lydo: buff at 03/05/2023 8:04 PM
+BAG:hydra add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/05/2023 8:08 PM
+BAG:hydra add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/05/2023 8:08 PM
+BAG:hydra add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/05/2023 8:08 PM
+BAG:hydra add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/05/2023 8:15 PM
+BAG:hydra add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/05/2023 8:15 PM
+BAG:hydra add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/05/2023 8:15 PM
+BAG:hydra add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/05/2023 8:15 PM
+BAG:hydra add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/05/2023 8:15 PM
+BAG:hydra add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/05/2023 8:15 PM
+BAG:hydra add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/05/2023 8:15 PM
+BAG:hydra add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/05/2023 8:16 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:hydra add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:hydra add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:hydra add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 8:17 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 8:20 PM
+BAG:hydra add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/05/2023 8:20 PM
+BAG:hydra add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/05/2023 8:20 PM
+BAG:hydra add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/05/2023 8:20 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 8:21 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 8:21 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 8:21 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 8:21 PM
+BAG:hydra add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/05/2023 8:21 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 8:21 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 8:22 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 8:22 PM
+BAG:hydra add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/05/2023 8:22 PM
+BAG:hydra add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/05/2023 8:22 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 8:22 PM
+BAG:hydra add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/05/2023 8:22 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 8:22 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 8:23 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 8:23 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 8:23 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 8:24 PM
+BAG:hydra add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/05/2023 8:24 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 8:24 PM
+BAG:hydra add 1xÁo vải thô lydo: Mua từ cửa hàng at 03/05/2023 8:24 PM
+BAG:hydra add 1xQuần vải thô lydo: Mua từ cửa hàng at 03/05/2023 8:25 PM
+BAG:hydra add 1xGiầy vải thô lydo: Mua từ cửa hàng at 03/05/2023 8:25 PM
+BAG:hydra add 1xÁo vải thô lydo: admin at 03/05/2023 8:25 PM
+BAG:hydra add 1xQuần vải thô lydo: admin at 03/05/2023 8:26 PM
+BAG:hydra add 1xGăng vải thô lydo: admin at 03/05/2023 8:26 PM
+BAG:hydra add 1xGiầy vải thô lydo: admin at 03/05/2023 8:26 PM
+BAG:hydra add 1xRada cấp 1 lydo: admin at 03/05/2023 8:26 PM
+BAG:hydra add 1xÁo vải thô lydo: admin at 03/05/2023 8:27 PM
+BAG:hydra add 1xQuần vải thô lydo: admin at 03/05/2023 8:27 PM
+BAG:hydra add 1xGiầy vải thô lydo: admin at 03/05/2023 8:28 PM
+BAG:hydra add 1xRada cấp 1 lydo: admin at 03/05/2023 8:28 PM
+BAG:hydra add 1xRada cấp 1 lydo: admin at 03/05/2023 8:28 PM
+BAG:hydra add 25xThỏi vàng lydo: Đổi vàng at 03/05/2023 8:48 PM
+BAG:hydra add 2525xThỏi vàng (old: 25) lydo: Đổi vàng at 03/05/2023 8:48 PM
+BAG:hydra add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 8:49 PM
+BAG:hydra add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 8:49 PM
+BAG:hydra add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 8:49 PM
+BAG:hydra add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 8:49 PM
+BAG:hydra add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/05/2023 8:49 PM
+BAG:hydra add 50xSao pha lê lydo: buff at 03/05/2023 8:54 PM
+BAG:hydra add 1xSao pha lê lydo: buff at 03/05/2023 8:56 PM
+BAG:hydra add 2xSao pha lê (old: 1) lydo: buff at 03/05/2023 8:56 PM
+BAG:hydra add 1xSao pha lê lydo: buff at 03/05/2023 8:56 PM
+BAG:hydra add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/05/2023 8:58 PM
+BAG:hydra add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/05/2023 8:58 PM
+BAG:hydra add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/05/2023 8:58 PM
+BAG:hydra add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/05/2023 8:58 PM
+BAG:hydra add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/05/2023 8:58 PM
+BAG:hydra add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/05/2023 8:58 PM
+BAG:hydra add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/05/2023 8:58 PM
+BAG:hydra add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/05/2023 8:58 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 8:59 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 8:59 PM
+BAG:hydra add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/05/2023 8:59 PM
+BAG:hydra add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/05/2023 8:59 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 8:59 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 8:59 PM
+BAG:hydra add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 8:59 PM
+BAG:hydra add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/05/2023 8:59 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 8:59 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:00 PM
+BAG:hydra add 90xCuồng nộ lydo: buff at 03/05/2023 9:00 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:00 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:00 PM
+BAG:hydra add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/05/2023 9:00 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:00 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:01 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:01 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:02 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:02 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:02 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:03 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:03 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:03 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:03 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:03 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:03 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:04 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:04 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:04 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:04 PM
+BAG:hydra add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 9:04 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:04 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:04 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:04 PM
+BAG:hydra add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 9:04 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:05 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:05 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:05 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:05 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:05 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:06 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:06 PM
+BAG:hydra add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/05/2023 9:06 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:06 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:06 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:06 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:06 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:07 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:08 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:08 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:08 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:08 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:08 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:08 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:09 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:09 PM
+BAG:hydra add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 9:09 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:09 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:09 PM
+BAG:hydra add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 9:09 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:09 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:10 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:10 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:10 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:10 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:11 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:11 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:11 PM
+BAG:hydra add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/05/2023 9:11 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:12 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:12 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:12 PM
+BAG:hydra add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/05/2023 9:12 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:12 PM
+BAG:hydra add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/05/2023 9:13 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:13 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:13 PM
+BAG:hydra add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/05/2023 9:13 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:13 PM
+BAG:hydra add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/05/2023 9:14 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:14 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:14 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:14 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:14 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:14 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:14 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:15 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:15 PM
+BAG:hydra add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/05/2023 9:15 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:15 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:15 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:15 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:16 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:16 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:16 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:16 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:17 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:17 PM
+BAG:hydra add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/05/2023 9:17 PM
+BAG:hydra add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/05/2023 9:18 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:18 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:19 PM
+BAG:hydra add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/05/2023 9:19 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:19 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:19 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:19 PM
+BAG:hydra add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/05/2023 9:20 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:20 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:21 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:21 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:22 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:22 PM
+BAG:hydra add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/05/2023 9:22 PM
+BAG:hydra add 1xNhẫn thời không sai lệch lydo: buff at 03/05/2023 9:22 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:23 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:23 PM
+BAG:hydra add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:hydra add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:hydra add 1xĐá ngũ sắc lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:hydra add 1xHồn linh thú lydo: Nhặt từ map at 03/05/2023 9:24 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:25 PM
+BAG:hydra add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/05/2023 9:25 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:25 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:25 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:25 PM
+BAG:hydra add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/05/2023 9:25 PM
+BAG:hydra add 2xHồn linh thú (old: 1) lydo: Nhặt từ map at 03/05/2023 9:25 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:25 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:26 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:26 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:26 PM
+BAG:hydra add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:27 PM
+BAG:hydra add 3xHồn linh thú (old: 2) lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:hydra add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:hydra add 4xHồn linh thú (old: 3) lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:hydra add 5xHồn linh thú (old: 4) lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:hydra add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:28 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:29 PM
+BAG:hydra add 6xHồn linh thú (old: 5) lydo: Nhặt từ map at 03/05/2023 9:29 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:29 PM
+BAG:hydra add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/05/2023 9:29 PM
+BAG:hydra add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/05/2023 9:29 PM
+BAG:hydra add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/05/2023 9:29 PM
+BAG:hydra add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/05/2023 9:29 PM
+BAG:hydra add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/05/2023 9:29 PM
+BAG:hydra add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 9:30 PM
+BAG:hydra add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/05/2023 9:31 PM
+BAG:hydra add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 1xGăng Hủy Diệt lydo: buff at 03/05/2023 9:32 PM
+BAG:hydra add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/05/2023 9:32 PM
+BAG:hydra add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/05/2023 9:33 PM
+BAG:hydra add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:34 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/05/2023 9:35 PM
+BAG:hydra add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:36 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/05/2023 9:37 PM
+BAG:hydra add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/05/2023 9:38 PM
+BAG:hydra add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/05/2023 9:39 PM
+BAG:hydra add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/05/2023 9:40 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/05/2023 9:41 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/05/2023 9:42 PM
+BAG:hydra add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/05/2023 9:43 PM
+BAG:hydra add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/05/2023 9:44 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/05/2023 9:45 PM
+BAG:hydra add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/05/2023 9:46 PM
+BAG:hydra add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:47 PM
+BAG:hydra add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/05/2023 9:48 PM
+BAG:hydra add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/05/2023 9:49 PM
+BAG:hydra add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/05/2023 9:50 PM
+BAG:hydra add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 1xBột mì lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/05/2023 9:51 PM
+BAG:hydra add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:53 PM
+BAG:hydra add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/05/2023 9:53 PM
+BAG:hydra add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/05/2023 9:53 PM
+BAG:hydra add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/05/2023 9:53 PM
+BAG:hydra add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/05/2023 9:53 PM
+BAG:hydra add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/05/2023 9:54 PM
+BAG:hydra add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/05/2023 9:54 PM
+BAG:hydra add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/05/2023 9:54 PM
+BAG:hydra add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/05/2023 9:54 PM
+BAG:hydra add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/05/2023 9:54 PM
+BAG:hydra add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 10:27 PM
+BAG:hydra add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 10:34 PM
+BAG:hydra add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 10:34 PM
+BAG:hydra add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/05/2023 10:34 PM
+BAG:hydra add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 10:34 PM
+BAG:hydra add 99xNgọc Rồng 3 sao lydo: buff at 03/05/2023 10:49 PM
+BAG:hydra add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/05/2023 10:54 PM
+BAG:hydra add 3xSao pha lê lydo: buff at 03/05/2023 10:57 PM
+BAG:hydra add 3xSao pha lê lydo: buff at 03/05/2023 10:57 PM
+BAG:hydra add 1xSách Trói lv1 lydo: Mua từ cửa hàng at 03/05/2023 11:00 PM
+BAG:hydra add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 03/05/2023 11:00 PM
+BAG:hydra add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 03/05/2023 11:00 PM
+BAG:hydra add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 03/05/2023 11:00 PM
+BAG:hydra add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 03/05/2023 11:00 PM
+BAG:hydra add 1xSách Trói lv6 lydo: Mua từ cửa hàng at 03/05/2023 11:00 PM
+BAG:hydra add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 03/05/2023 11:00 PM
+BAG:hydra add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/05/2023 11:00 PM
+BAG:hydra add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/05/2023 11:00 PM
+BAG:hydra add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/05/2023 11:00 PM
+BAG:hydra add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/05/2023 11:00 PM
+BAG:hydra add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/05/2023 11:00 PM
+BAG:hydra add 1xCải trang Black Gohan Rose lydo: buff at 03/05/2023 11:01 PM
+BAG:vegeta add 1xBông tai Porata lydo: buff at 03/05/2023 11:04 PM
+BAG:vegeta add 1xBánh Pudding lydo: buff at 03/05/2023 11:05 PM
+BAG:vegeta add 91xBánh Pudding (old: 1) lydo: buff at 03/05/2023 11:05 PM
+BAG:vegeta add 1xHộp bánh Trung Thu lydo: buff at 03/05/2023 11:05 PM
+BAG:vegeta add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:05 PM
+BAG:vegeta add 1xCải trang Black Gohan Rose lydo: buff at 03/05/2023 11:06 PM
+BAG:vegeta add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:06 PM
+BAG:vegeta add 1xPháo hoa lydo: Nhặt từ map at 03/05/2023 11:07 PM
+BAG:vegeta add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:08 PM
+BAG:vegeta add 6xĐá xanh lam lydo: buff at 03/05/2023 11:11 PM
+BAG:vegeta add 93xĐá xanh lam (old: 3) lydo: buff at 03/05/2023 11:12 PM
+BAG:vegeta add 21xMảnh hồn bông tai lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 99xMảnh hồn bông tai (old: 21) lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 21xMảnh hồn bông tai lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 99xMảnh hồn bông tai (old: 21) lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 21xMảnh hồn bông tai lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 99xMảnh hồn bông tai (old: 21) lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 21xMảnh hồn bông tai lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 99xMảnh hồn bông tai (old: 21) lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 21xMảnh hồn bông tai lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 99xMảnh hồn bông tai (old: 21) lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 21xMảnh hồn bông tai lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 99xMảnh hồn bông tai (old: 21) lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 21xMảnh hồn bông tai lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 99xMảnh hồn bông tai (old: 21) lydo: buff at 03/05/2023 11:13 PM
+BAG:vegeta add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:vegeta add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:vegeta add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:vegeta add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 11:22 PM
+BAG:vegeta add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:vegeta add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:vegeta add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:vegeta add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:vegeta add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:vegeta add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:vegeta add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:vegeta add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:vegeta add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:vegeta add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:vegeta add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 11:23 PM
+BAG:vegeta add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:vegeta add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:vegeta add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:vegeta add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:vegeta add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:vegeta add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:vegeta add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 11:24 PM
+BAG:vegeta add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:vegeta add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:vegeta add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:vegeta add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:vegeta add 1xBột mì lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:vegeta add 1xCT Genma 01 lydo: buff at 03/05/2023 11:25 PM
+BAG:vegeta add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:vegeta add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 11:25 PM
+BAG:vegeta add 1xCải Trang Thần Zeno Xayda lydo: buff at 03/05/2023 11:26 PM
+BAG:vegeta add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:vegeta add 1xCải Trang Thần Zeno Namec lydo: buff at 03/05/2023 11:26 PM
+BAG:vegeta add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:vegeta add 1xCT Genma 01 lydo: buff at 03/05/2023 11:26 PM
+BAG:vegeta add 1xCải Trang Thần Zeno lydo: buff at 03/05/2023 11:26 PM
+BAG:vegeta add 1xBột mì lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:vegeta add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:vegeta add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:vegeta add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:vegeta add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:vegeta add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:vegeta add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:vegeta add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:vegeta add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:vegeta add 1xBột mì lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:vegeta add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:28 PM
+BAG:vegeta add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:vegeta add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:vegeta add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:vegeta add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:28 PM
+BAG:vegeta add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:vegeta add 1xBột mì lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:vegeta add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:vegeta add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:vegeta add 1xBột mì lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:vegeta add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 11:29 PM
+BAG:vegeta add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:36 PM
+BAG:vegeta add 1xPháo hoa lydo: Nhặt từ map at 03/05/2023 11:39 PM
+BAG:vegeta add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:46 PM

@@ -1,0 +1,42 @@
+BAG:thuha add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 2:59 AM
+BAG:thuha add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 3:00 AM
+BAG:thuha add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 3:00 AM
+BAG:thuha add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/12/2023 3:00 AM
+BAG:thuha add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/12/2023 3:00 AM
+BAG:thuha add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 3:07 AM
+BAG:thuha add 1xMảnh Phi long lydo: Nhặt từ map at 03/12/2023 3:09 AM
+BAG:thuha add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/12/2023 3:09 AM
+BAG:thuha add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 3:10 AM
+BAG:thuha add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/12/2023 3:10 AM
+BAG:thuha add 1xMảnh Phi long lydo: Nhặt từ map at 03/12/2023 3:11 AM
+BAG:thuha add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 03/12/2023 3:11 AM
+BAG:thuha add 3xMảnh Phi long (old: 2) lydo: Nhặt từ map at 03/12/2023 3:12 AM
+BAG:thuha add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 3:12 AM
+BAG:thuha add 1xPhi Long VIP lydo: Mua từ cửa hàng at 03/12/2023 3:13 AM
+BAG:thuha add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 3:14 AM
+BAG:thuha add 1xGăng thun Pico lydo: Mua từ cửa hàng at 03/12/2023 3:14 AM
+BAG:thuha add 50xThỏi vàng lydo: Giftcode at 03/12/2023 3:14 AM
+BAG:thuha add 10xSao pha lê lydo: Giftcode at 03/12/2023 3:14 AM
+BAG:thuha add 10xSao pha lê lydo: Giftcode at 03/12/2023 3:14 AM
+BAG:thuha add 10xSao pha lê lydo: Giftcode at 03/12/2023 3:14 AM
+BAG:thuha add 1xCải trang Hit lydo: Giftcode at 03/12/2023 3:14 AM
+BAG:thuha add 150xThỏi vàng (old: 50) lydo: Giftcode at 03/12/2023 3:15 AM
+BAG:thuha add 1000xPháo hoa lydo: Giftcode at 03/12/2023 3:15 AM
+BAG:thuha add 1xBổ huyết lydo: HQT at 03/12/2023 3:15 AM
+BAG:thuha add 1xBổ khí lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 1xNgọc Rồng 7 sao lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 1xNgọc Rồng 4 sao lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 1xNgọc Rồng 6 sao lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 1xCuồng nộ lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 2xCuồng nộ (old: 1) lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 1xGiáp Xên bọ hung lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 1xNgọc Rồng 5 sao lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/12/2023 3:16 AM
+BAG:thuha add 1xCải trang Gohan Bư lydo: Mua từ cửa hàng at 03/12/2023 3:17 AM
+BAG:thuha add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 3:17 AM
+BAG:thuha add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 3:24 AM
+BAG:thuha add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 3:24 AM

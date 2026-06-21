@@ -1,0 +1,901 @@
+BAG:hentaizin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 12:00 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 12:00 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 12:00 AM
+BAG:hentaizin add 999204xThỏi vàng (old: 999105) lydo: Lấy từ rương qua người at 03/03/2023 12:02 AM
+BAG:hentaizin add 99xĐá Hắc Hóa lydo: Admin at 03/03/2023 12:02 AM
+BAG:hentaizin add 999303xThỏi vàng (old: 999204) lydo: Lấy từ rương qua người at 03/03/2023 12:02 AM
+BAG:hentaizin add 99xCây mai lydo: Admin at 03/03/2023 12:02 AM
+BAG:hentaizin add 999402xThỏi vàng (old: 999303) lydo: Lấy từ rương qua người at 03/03/2023 12:03 AM
+BAG:hentaizin add 999501xThỏi vàng (old: 999402) lydo: Lấy từ rương qua người at 03/03/2023 12:03 AM
+BAG:hentaizin add 999600xThỏi vàng (old: 999501) lydo: Lấy từ rương qua người at 03/03/2023 12:03 AM
+BAG:hentaizin add 999699xThỏi vàng (old: 999600) lydo: Lấy từ rương qua người at 03/03/2023 12:03 AM
+BAG:hentaizin add 999798xThỏi vàng (old: 999699) lydo: Lấy từ rương qua người at 03/03/2023 12:03 AM
+BAG:hentaizin add 999897xThỏi vàng (old: 999798) lydo: Lấy từ rương qua người at 03/03/2023 12:03 AM
+BAG:hentaizin add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 12:09 AM
+BAG:hentaizin add 1xMèo mun lydo: Mua từ cửa hàng at 03/03/2023 12:10 AM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/03/2023 12:11 AM
+BAG:hentaizin add 1xCải trang Jiren lydo: Mua từ bill at 03/03/2023 12:12 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/03/2023 12:12 AM
+BAG:hentaizin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/03/2023 12:12 AM
+BAG:hentaizin add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/03/2023 12:12 AM
+BAG:hentaizin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/03/2023 12:12 AM
+BAG:hentaizin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 12:12 AM
+BAG:hentaizin add 500xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/03/2023 12:18 AM
+BAG:hentaizin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 12:21 AM
+BAG:hentaizin add 1xĐậu thần cấp 2 lydo: Clan cho đậu at 03/03/2023 12:32 AM
+BAG:hentaizin add 1xBông tai Porata lydo: Admin at 03/03/2023 12:33 AM
+BAG:hentaizin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:35 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:48 AM
+BAG:hentaizin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:48 AM
+BAG:hentaizin add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:48 AM
+BAG:hentaizin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:48 AM
+BAG:hentaizin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:48 AM
+BAG:hentaizin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:48 AM
+BAG:hentaizin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 9xNâng cấp kỹ năng 1 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 10xNâng cấp kỹ năng 1 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 11xNâng cấp kỹ năng 1 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 12xNâng cấp kỹ năng 1 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 13xNâng cấp kỹ năng 1 đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 14xNâng cấp kỹ năng 1 đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 15xNâng cấp kỹ năng 1 đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/03/2023 12:51 AM
+BAG:hentaizin add 1xCải trang lydo: Mua từ bill at 03/03/2023 12:53 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:53 AM
+BAG:hentaizin add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:02 AM
+BAG:hentaizin add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:02 AM
+BAG:hentaizin add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:03 AM
+BAG:hentaizin add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:03 AM
+BAG:hentaizin add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 1:03 AM
+BAG:hentaizin add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 1:03 AM
+BAG:hentaizin add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 1:03 AM
+BAG:hentaizin add 14xNgọc Rồng 1 sao lydo: Admin at 03/03/2023 1:11 AM
+BAG:hentaizin add 15xNgọc Rồng 2 sao lydo: Admin at 03/03/2023 1:12 AM
+BAG:hentaizin add 17xNgọc Rồng 4 sao lydo: Admin at 03/03/2023 1:13 AM
+BAG:hentaizin add 18xNgọc Rồng 5 sao lydo: Admin at 03/03/2023 1:13 AM
+BAG:hentaizin add 36xNgọc Rồng 5 sao (old: 18) lydo: Admin at 03/03/2023 1:14 AM
+BAG:hentaizin add 19xNgọc Rồng 6 sao lydo: Admin at 03/03/2023 1:14 AM
+BAG:hentaizin add 20xNgọc Rồng 7 sao lydo: Admin at 03/03/2023 1:15 AM
+BAG:hentaizin add 1xAvatar VIP lydo: Ước NR at 03/03/2023 1:17 AM
+BAG:hentaizin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:18 AM
+BAG:hentaizin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:18 AM
+BAG:hentaizin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 1:18 AM
+BAG:hentaizin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 1:18 AM
+BAG:hentaizin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 1:18 AM
+BAG:hentaizin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 1:18 AM
+BAG:hentaizin add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:19 AM
+BAG:hentaizin add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:19 AM
+BAG:hentaizin add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 1:19 AM
+BAG:hentaizin add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 1:19 AM
+BAG:hentaizin add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 1:19 AM
+BAG:hentaizin add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 1:19 AM
+BAG:hentaizin add 1xĐá Saphia lydo: Nhặt từ map at 03/03/2023 1:19 AM
+BAG:hentaizin add 99xĐá Hắc Hóa lydo: Admin at 03/03/2023 1:27 AM
+BAG:hentaizin add 198xCây mai (old: 99) lydo: Admin at 03/03/2023 1:27 AM
+BAG:hentaizin add 297xCây mai (old: 198) lydo: Admin at 03/03/2023 1:41 AM
+BAG:hentaizin add 99xĐá Vĩnh Hằng lydo: Admin at 03/03/2023 1:46 AM
+BAG:hentaizin add 99xĐá thạch anh tím lydo: Admin at 03/03/2023 1:46 AM
+BAG:hentaizin add 99xĐá thạch anh tím lydo: Admin at 03/03/2023 1:46 AM
+BAG:hentaizin add 99xĐá thạch anh tím lydo: Admin at 03/03/2023 1:47 AM
+BAG:hentaizin add 99xĐá Vĩnh Hằng lydo: Admin at 03/03/2023 1:48 AM
+BAG:hentaizin add 15xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/03/2023 1:51 AM
+BAG:hentaizin add 32xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/03/2023 1:51 AM
+BAG:hentaizin add 16xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/03/2023 1:51 AM
+BAG:hentaizin add 13xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/03/2023 1:51 AM
+BAG:hentaizin add 10xNgọc Rồng 1 sao lydo: Lấy từ rương qua người at 03/03/2023 1:51 AM
+BAG:hentaizin add 11xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 03/03/2023 1:52 AM
+BAG:hentaizin add 99xThỏ đen Android 18 lydo: Admin at 03/03/2023 1:57 AM
+BAG:hentaizin add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:57 AM
+BAG:hentaizin add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:57 AM
+BAG:hentaizin add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 1:57 AM
+BAG:hentaizin add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 1:57 AM
+BAG:hentaizin add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 1:58 AM
+BAG:hentaizin add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 1:58 AM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:59 AM
+BAG:hentaizin add 1xCải trang lydo: Lấy từ body vào hành trang at 03/03/2023 1:59 AM
+BAG:hentaizin add 9995xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/03/2023 2:00 AM
+BAG:hentaizin add 1xCải trang Super Cumber lydo: Mua từ bill at 03/03/2023 2:01 AM
+BAG:hentaizin add 1xCải trang Oren lydo: Mua từ bill at 03/03/2023 2:01 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/03/2023 2:03 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Lấy từ body vào hành trang at 03/03/2023 2:04 AM
+BAG:hentaizin add 99xSao pha lê lydo: Lấy từ rương qua người at 03/03/2023 2:05 AM
+BAG:hentaizin add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/03/2023 2:09 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/03/2023 2:13 AM
+BAG:hentaizin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/03/2023 2:13 AM
+BAG:hentaizin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/03/2023 2:13 AM
+BAG:hentaizin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 2:13 AM
+BAG:hentaizin add 99xCuồng nộ lydo: Lấy từ rương qua người at 03/03/2023 2:14 AM
+BAG:hentaizin add 53xĐậu thần cấp 9 (old: 23) lydo: Mua từ cửa hàng at 03/03/2023 2:15 AM
+BAG:hentaizin add 83xĐậu thần cấp 9 (old: 53) lydo: Mua từ cửa hàng at 03/03/2023 2:15 AM
+BAG:hentaizin add 14xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/03/2023 2:15 AM
+BAG:hentaizin add 99xĐậu thần cấp 9 (old: 83) lydo: Mua từ cửa hàng at 03/03/2023 2:15 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 2:17 AM
+BAG:hentaizin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 2:19 AM
+BAG:hentaizin add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 2:20 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 2:23 AM
+BAG:hentaizin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 6:56 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 6:58 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 6:59 AM
+BAG:hentaizin add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 7:02 AM
+BAG:hentaizin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 7:05 AM
+BAG:hentaizin add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/03/2023 7:05 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Lấy từ body vào hành trang at 03/03/2023 7:05 AM
+BAG:hentaizin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/03/2023 7:05 AM
+BAG:hentaizin add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/03/2023 7:06 AM
+BAG:hentaizin add 15xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/03/2023 7:09 AM
+BAG:hentaizin add 32xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/03/2023 7:09 AM
+BAG:hentaizin add 16xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/03/2023 7:09 AM
+BAG:hentaizin add 13xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/03/2023 7:09 AM
+BAG:hentaizin add 10xNgọc Rồng 1 sao lydo: Lấy từ rương qua người at 03/03/2023 7:09 AM
+BAG:hentaizin add 11xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 03/03/2023 7:09 AM
+BAG:hentaizin add 456xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/03/2023 7:09 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/03/2023 7:09 AM
+BAG:hentaizin add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 7:13 AM
+BAG:hentaizin add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 7:13 AM
+BAG:hentaizin add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 7:13 AM
+BAG:hentaizin add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 7:14 AM
+BAG:hentaizin add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 7:14 AM
+BAG:hentaizin add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 7:14 AM
+BAG:hentaizin add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 7:14 AM
+BAG:hentaizin add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 7:14 AM
+BAG:hentaizin add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 7:14 AM
+BAG:hentaizin add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 7:14 AM
+BAG:hentaizin add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 7:14 AM
+BAG:hentaizin add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 7:14 AM
+BAG:hentaizin add 1xCải trang lydo: Mua từ bill at 03/03/2023 7:16 AM
+BAG:hentaizin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/03/2023 7:43 AM
+BAG:hentaizin add 1xĐậu thần cấp 10 lydo: Clan cho đậu at 03/03/2023 7:49 AM
+BAG:hentaizin add 2xĐậu thần cấp 10 (old: 1) lydo: Clan cho đậu at 03/03/2023 7:49 AM
+BAG:hentaizin add 3xĐậu thần cấp 10 (old: 2) lydo: Clan cho đậu at 03/03/2023 7:49 AM
+BAG:hentaizin add 4xĐậu thần cấp 10 (old: 3) lydo: Clan cho đậu at 03/03/2023 7:49 AM
+BAG:hentaizin add 5xĐậu thần cấp 10 (old: 4) lydo: Clan cho đậu at 03/03/2023 7:49 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 8:16 AM
+BAG:hentaizin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 8:16 AM
+BAG:hentaizin add 110xThỏi vàng (old: 90) lydo: Đổi vàng at 03/03/2023 8:19 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 8:20 AM
+BAG:hentaizin add 6xĐậu thần cấp 10 (old: 5) lydo: Clan cho đậu at 03/03/2023 8:21 AM
+BAG:hentaizin add 7xĐậu thần cấp 10 (old: 6) lydo: Clan cho đậu at 03/03/2023 8:21 AM
+BAG:hentaizin add 8xĐậu thần cấp 10 (old: 7) lydo: Clan cho đậu at 03/03/2023 8:21 AM
+BAG:hentaizin add 9xĐậu thần cấp 10 (old: 8) lydo: Clan cho đậu at 03/03/2023 8:21 AM
+BAG:hentaizin add 10xĐậu thần cấp 10 (old: 9) lydo: Clan cho đậu at 03/03/2023 8:21 AM
+BAG:hentaizin add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 8:24 AM
+BAG:hentaizin add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 8:25 AM
+BAG:hentaizin add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 8:25 AM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 8:26 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 8:27 AM
+BAG:hentaizin add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 8:27 AM
+BAG:hentaizin add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 8:27 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 8:29 AM
+BAG:hentaizin add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 8:31 AM
+BAG:hentaizin add 99xThỏ đen Android 18 lydo: Lấy từ body vào hành trang at 03/03/2023 8:31 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 8:31 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 8:32 AM
+BAG:hentaizin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 8:32 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 8:32 AM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 8:35 AM
+BAG:hentaizin add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 8:35 AM
+BAG:hentaizin add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 8:35 AM
+BAG:hentaizin add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 8:35 AM
+BAG:hentaizin add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 8:40 AM
+BAG:hentaizin add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 8:40 AM
+BAG:hentaizin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 8:40 AM
+BAG:hentaizin add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 8:41 AM
+BAG:hentaizin add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 8:42 AM
+BAG:hentaizin add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 8:42 AM
+BAG:hentaizin add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 8:44 AM
+BAG:hentaizin add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/03/2023 8:47 AM
+BAG:hentaizin add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/03/2023 8:47 AM
+BAG:hentaizin add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 8:47 AM
+BAG:hentaizin add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/03/2023 8:48 AM
+BAG:hentaizin add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 8:48 AM
+BAG:hentaizin add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 8:48 AM
+BAG:hentaizin add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/03/2023 8:48 AM
+BAG:hentaizin add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/03/2023 8:49 AM
+BAG:hentaizin add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/03/2023 8:52 AM
+BAG:hentaizin add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/03/2023 8:52 AM
+BAG:hentaizin add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 8:53 AM
+BAG:hentaizin add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 8:54 AM
+BAG:hentaizin add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/03/2023 8:57 AM
+BAG:hentaizin add 11xĐậu thần cấp 10 (old: 10) lydo: Clan cho đậu at 03/03/2023 9:20 AM
+BAG:hentaizin add 12xĐậu thần cấp 10 (old: 11) lydo: Clan cho đậu at 03/03/2023 9:20 AM
+BAG:hentaizin add 13xĐậu thần cấp 10 (old: 12) lydo: Clan cho đậu at 03/03/2023 9:20 AM
+BAG:hentaizin add 14xĐậu thần cấp 10 (old: 13) lydo: Clan cho đậu at 03/03/2023 9:20 AM
+BAG:hentaizin add 15xĐậu thần cấp 10 (old: 14) lydo: Clan cho đậu at 03/03/2023 9:20 AM
+BAG:hentaizin add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 03/03/2023 9:24 AM
+BAG:hentaizin add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/03/2023 9:24 AM
+BAG:hentaizin add 91xSao pha lê lydo: Lấy từ rương qua người at 03/03/2023 9:25 AM
+BAG:hentaizin add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/03/2023 9:26 AM
+BAG:hentaizin add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/03/2023 9:26 AM
+BAG:hentaizin add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 9:27 AM
+BAG:hentaizin add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 9:27 AM
+BAG:hentaizin add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 9:27 AM
+BAG:hentaizin add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 9:27 AM
+BAG:hentaizin add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 9:27 AM
+BAG:hentaizin add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 9:27 AM
+BAG:hentaizin add 99xSao pha lê lydo: Lấy từ rương qua người at 03/03/2023 9:32 AM
+BAG:hentaizin add 297xCây mai lydo: Lấy từ rương qua người at 03/03/2023 9:34 AM
+BAG:hentaizin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/03/2023 9:35 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Lấy từ body vào hành trang at 03/03/2023 9:45 AM
+BAG:hentaizin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:08 AM
+BAG:hentaizin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 10:09 AM
+BAG:hentaizin add 1xCải trang lydo: Lấy từ body vào hành trang at 03/03/2023 10:10 AM
+BAG:hentaizin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:11 AM
+BAG:hentaizin add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/03/2023 10:12 AM
+BAG:hentaizin add 1xCải Trang Thần Zeno lydo: Lấy từ body vào hành trang at 03/03/2023 10:12 AM
+BAG:hentaizin add 1xCải Trang Cumber lydo: Mua từ bill at 03/03/2023 10:12 AM
+BAG:hentaizin add 1xCải trang Super Cumber lydo: Lấy từ body vào hành trang at 03/03/2023 10:13 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Lấy từ body vào hành trang at 03/03/2023 10:14 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:15 AM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:15 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:16 AM
+BAG:hentaizin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 10:16 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:16 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/03/2023 10:16 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:16 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:17 AM
+BAG:hentaizin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 10:17 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/03/2023 10:17 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:17 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/03/2023 10:18 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:19 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:19 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:20 AM
+BAG:hentaizin add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 10:20 AM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:20 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/03/2023 10:20 AM
+BAG:hentaizin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 10:21 AM
+BAG:hentaizin add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 10:21 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/03/2023 10:21 AM
+BAG:hentaizin add 1xGăng vải đen lydo: Nhặt từ map at 03/03/2023 10:22 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:22 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:22 AM
+BAG:hentaizin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 10:23 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:23 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:23 AM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:23 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:23 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:24 AM
+BAG:hentaizin add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 10:25 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 10:25 AM
+BAG:hentaizin add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 10:25 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 10:25 AM
+BAG:hentaizin add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 10:26 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 10:26 AM
+BAG:hentaizin add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 10:27 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 10:27 AM
+BAG:hentaizin add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:28 AM
+BAG:hentaizin add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 10:28 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 10:28 AM
+BAG:hentaizin add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 10:29 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 10:29 AM
+BAG:hentaizin add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/03/2023 10:29 AM
+BAG:hentaizin add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/03/2023 10:29 AM
+BAG:hentaizin add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 10:30 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 10:30 AM
+BAG:hentaizin add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 10:30 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 10:30 AM
+BAG:hentaizin add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 10:31 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 10:31 AM
+BAG:hentaizin add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 10:31 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 10:31 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:33 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:33 AM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:33 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:33 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:33 AM
+BAG:hentaizin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 10:34 AM
+BAG:hentaizin add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 10:34 AM
+BAG:hentaizin add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 10:35 AM
+BAG:hentaizin add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 10:36 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 10:36 AM
+BAG:hentaizin add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 10:37 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 10:37 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:38 AM
+BAG:hentaizin add 1xĐá Titan lydo: Nhặt từ map at 03/03/2023 10:38 AM
+BAG:hentaizin add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 10:38 AM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:39 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:39 AM
+BAG:hentaizin add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 10:39 AM
+BAG:hentaizin add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 10:39 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 10:40 AM
+BAG:hentaizin add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 10:40 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 10:40 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:41 AM
+BAG:hentaizin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:41 AM
+BAG:hentaizin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:41 AM
+BAG:hentaizin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:41 AM
+BAG:hentaizin add 58xĐậu thần cấp 9 (old: 28) lydo: Mua từ cửa hàng at 03/03/2023 10:42 AM
+BAG:hentaizin add 88xĐậu thần cấp 9 (old: 58) lydo: Mua từ cửa hàng at 03/03/2023 10:42 AM
+BAG:hentaizin add 1xGăng vải đen lydo: Nhặt từ map at 03/03/2023 10:42 AM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:42 AM
+BAG:hentaizin add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 10:42 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/03/2023 10:43 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:43 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/03/2023 10:43 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:43 AM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:43 AM
+BAG:hentaizin add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 10:44 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 10:44 AM
+BAG:hentaizin add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 10:44 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 10:45 AM
+BAG:hentaizin add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 10:45 AM
+BAG:hentaizin add 1xGiầy nhựa lydo: Nhặt từ map at 03/03/2023 10:46 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:46 AM
+BAG:hentaizin add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 10:46 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:46 AM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:46 AM
+BAG:hentaizin add 1xGăng vải đen lydo: Nhặt từ map at 03/03/2023 10:46 AM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:46 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:47 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/03/2023 10:47 AM
+BAG:hentaizin add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 10:48 AM
+BAG:hentaizin add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 10:48 AM
+BAG:hentaizin add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 10:48 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/03/2023 10:48 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 10:50 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:50 AM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ rương qua người at 03/03/2023 10:55 AM
+BAG:hentaizin add 453xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/03/2023 10:55 AM
+BAG:hentaizin add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 10:55 AM
+BAG:hentaizin add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/03/2023 10:55 AM
+BAG:hentaizin add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/03/2023 10:55 AM
+BAG:hentaizin add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/03/2023 10:55 AM
+BAG:hentaizin add 14xNgọc Rồng 1 sao lydo: Admin at 03/03/2023 11:27 AM
+BAG:hentaizin add 15xNgọc Rồng 2 sao lydo: Admin at 03/03/2023 11:27 AM
+BAG:hentaizin add 17xNgọc Rồng 4 sao lydo: Admin at 03/03/2023 11:27 AM
+BAG:hentaizin add 18xNgọc Rồng 5 sao lydo: Admin at 03/03/2023 11:28 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 11:28 AM
+BAG:hentaizin add 19xNgọc Rồng 6 sao lydo: Admin at 03/03/2023 11:28 AM
+BAG:hentaizin add 34xNgọc Rồng 4 sao (old: 17) lydo: Admin at 03/03/2023 11:28 AM
+BAG:hentaizin add 20xNgọc Rồng 7 sao lydo: Admin at 03/03/2023 11:29 AM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:35 AM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 11:38 AM
+BAG:hentaizin add 98xCuồng nộ lydo: Lấy từ rương qua người at 03/03/2023 11:39 AM
+BAG:hentaizin add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/03/2023 11:39 AM
+BAG:hentaizin add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/03/2023 11:39 AM
+BAG:hentaizin add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/03/2023 11:39 AM
+BAG:hentaizin add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/03/2023 11:40 AM
+BAG:hentaizin add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/03/2023 11:40 AM
+BAG:hentaizin add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/03/2023 11:40 AM
+BAG:hentaizin add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/03/2023 11:40 AM
+BAG:hentaizin add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/03/2023 11:40 AM
+BAG:hentaizin add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/03/2023 11:40 AM
+BAG:hentaizin add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/03/2023 11:40 AM
+BAG:hentaizin add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/03/2023 11:40 AM
+BAG:hentaizin add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/03/2023 11:40 AM
+BAG:hentaizin add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/03/2023 11:41 AM
+BAG:hentaizin add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/03/2023 11:41 AM
+BAG:hentaizin add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/03/2023 11:41 AM
+BAG:hentaizin add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/03/2023 11:41 AM
+BAG:hentaizin add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/03/2023 11:41 AM
+BAG:hentaizin add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/03/2023 11:41 AM
+BAG:hentaizin add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/03/2023 11:41 AM
+BAG:hentaizin add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/03/2023 11:41 AM
+BAG:hentaizin add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/03/2023 11:41 AM
+BAG:hentaizin add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/03/2023 11:42 AM
+BAG:hentaizin add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/03/2023 11:43 AM
+BAG:hentaizin add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/03/2023 11:43 AM
+BAG:hentaizin add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 03/03/2023 11:43 AM
+BAG:hentaizin add 1xQuả cầu Kênh Khi lv2 lydo: Mua từ cửa hàng at 03/03/2023 11:43 AM
+BAG:hentaizin add 1xQuả cầu Kênh Khi lv3 lydo: Mua từ cửa hàng at 03/03/2023 11:43 AM
+BAG:hentaizin add 1xQuả cầu Kênh Khi lv4 lydo: Mua từ cửa hàng at 03/03/2023 11:43 AM
+BAG:hentaizin add 1xQuả cầu Kênh Khi lv5 lydo: Mua từ cửa hàng at 03/03/2023 11:43 AM
+BAG:hentaizin add 1xQuả cầu Kênh Khi lv6 lydo: Mua từ cửa hàng at 03/03/2023 11:43 AM
+BAG:hentaizin add 1xQuả cầu Kênh Khi lv7 lydo: Mua từ cửa hàng at 03/03/2023 11:43 AM
+BAG:hentaizin add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/03/2023 11:44 AM
+BAG:hentaizin add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/03/2023 11:44 AM
+BAG:hentaizin add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/03/2023 11:44 AM
+BAG:hentaizin add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/03/2023 11:44 AM
+BAG:hentaizin add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/03/2023 11:44 AM
+BAG:hentaizin add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/03/2023 11:44 AM
+BAG:hentaizin add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/03/2023 11:44 AM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 11:46 AM
+BAG:hentaizin add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 03/03/2023 11:47 AM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 11:48 AM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 11:48 AM
+BAG:hentaizin add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 03/03/2023 11:49 AM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 11:51 AM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 11:52 AM
+BAG:hentaizin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 11:52 AM
+BAG:hentaizin add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 11:53 AM
+BAG:hentaizin add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 11:53 AM
+BAG:hentaizin add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 11:53 AM
+BAG:hentaizin add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 11:53 AM
+BAG:hentaizin add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 11:54 AM
+BAG:hentaizin add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 11:54 AM
+BAG:hentaizin add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 11:54 AM
+BAG:hentaizin add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/03/2023 11:55 AM
+BAG:hentaizin add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 11:55 AM
+BAG:hentaizin add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 11:55 AM
+BAG:hentaizin add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/03/2023 12:00 PM
+BAG:hentaizin add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 12:00 PM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 12:00 PM
+BAG:hentaizin add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/03/2023 12:00 PM
+BAG:hentaizin add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 12:02 PM
+BAG:hentaizin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 12:02 PM
+BAG:hentaizin add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/03/2023 12:02 PM
+BAG:hentaizin add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 12:02 PM
+BAG:hentaizin add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/03/2023 12:04 PM
+BAG:hentaizin add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/03/2023 12:04 PM
+BAG:hentaizin add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/03/2023 12:04 PM
+BAG:hentaizin add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/03/2023 12:05 PM
+BAG:hentaizin add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/03/2023 12:05 PM
+BAG:hentaizin add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 12:06 PM
+BAG:hentaizin add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/03/2023 12:06 PM
+BAG:hentaizin add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/03/2023 12:07 PM
+BAG:hentaizin add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/03/2023 12:08 PM
+BAG:hentaizin add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/03/2023 12:08 PM
+BAG:hentaizin add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/03/2023 12:08 PM
+BAG:hentaizin add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/03/2023 12:09 PM
+BAG:hentaizin add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 12:09 PM
+BAG:hentaizin add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/03/2023 12:10 PM
+BAG:hentaizin add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/03/2023 12:10 PM
+BAG:hentaizin add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/03/2023 12:11 PM
+BAG:hentaizin add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/03/2023 12:11 PM
+BAG:hentaizin add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/03/2023 12:11 PM
+BAG:hentaizin add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/03/2023 12:11 PM
+BAG:hentaizin add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/03/2023 12:12 PM
+BAG:hentaizin add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/03/2023 12:12 PM
+BAG:hentaizin add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/03/2023 12:12 PM
+BAG:hentaizin add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:hentaizin add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:hentaizin add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:hentaizin add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:hentaizin add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:hentaizin add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/03/2023 12:14 PM
+BAG:hentaizin add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:hentaizin add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:hentaizin add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:hentaizin add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:hentaizin add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/03/2023 12:16 PM
+BAG:hentaizin add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/03/2023 12:16 PM
+BAG:hentaizin add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/03/2023 12:16 PM
+BAG:hentaizin add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/03/2023 12:17 PM
+BAG:hentaizin add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:hentaizin add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:hentaizin add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:hentaizin add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:hentaizin add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:hentaizin add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:hentaizin add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:hentaizin add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/03/2023 12:20 PM
+BAG:hentaizin add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/03/2023 12:21 PM
+BAG:hentaizin add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/03/2023 12:21 PM
+BAG:hentaizin add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/03/2023 12:21 PM
+BAG:hentaizin add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:hentaizin add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:hentaizin add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:hentaizin add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:hentaizin add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:hentaizin add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:hentaizin add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:hentaizin add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:hentaizin add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:hentaizin add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:hentaizin add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:hentaizin add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:hentaizin add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:hentaizin add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:hentaizin add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/03/2023 12:31 PM
+BAG:hentaizin add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/03/2023 12:31 PM
+BAG:hentaizin add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:hentaizin add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:hentaizin add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:hentaizin add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:hentaizin add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/03/2023 12:36 PM
+BAG:hentaizin add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/03/2023 12:37 PM
+BAG:hentaizin add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/03/2023 12:38 PM
+BAG:hentaizin add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/03/2023 12:38 PM
+BAG:hentaizin add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/03/2023 12:38 PM
+BAG:hentaizin add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/03/2023 12:39 PM
+BAG:hentaizin add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/03/2023 12:39 PM
+BAG:hentaizin add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/03/2023 12:40 PM
+BAG:hentaizin add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/03/2023 12:43 PM
+BAG:hentaizin add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/03/2023 12:44 PM
+BAG:hentaizin add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/03/2023 12:45 PM
+BAG:hentaizin add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/03/2023 12:45 PM
+BAG:hentaizin add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/03/2023 12:45 PM
+BAG:hentaizin add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/03/2023 12:45 PM
+BAG:hentaizin add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/03/2023 12:45 PM
+BAG:hentaizin add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/03/2023 12:46 PM
+BAG:hentaizin add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/03/2023 12:46 PM
+BAG:hentaizin add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/03/2023 12:46 PM
+BAG:hentaizin add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/03/2023 12:47 PM
+BAG:hentaizin add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/03/2023 12:48 PM
+BAG:hentaizin add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/03/2023 12:48 PM
+BAG:hentaizin add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/03/2023 12:48 PM
+BAG:hentaizin add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/03/2023 12:48 PM
+BAG:hentaizin add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/03/2023 12:49 PM
+BAG:hentaizin add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/03/2023 12:49 PM
+BAG:hentaizin add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/03/2023 12:49 PM
+BAG:hentaizin add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/03/2023 12:50 PM
+BAG:hentaizin add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/03/2023 12:50 PM
+BAG:hentaizin add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/03/2023 12:50 PM
+BAG:hentaizin add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/03/2023 12:51 PM
+BAG:hentaizin add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/03/2023 12:51 PM
+BAG:hentaizin add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/03/2023 12:51 PM
+BAG:hentaizin add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/03/2023 12:52 PM
+BAG:hentaizin add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/03/2023 12:52 PM
+BAG:hentaizin add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/03/2023 12:53 PM
+BAG:hentaizin add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/03/2023 12:54 PM
+BAG:hentaizin add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/03/2023 12:54 PM
+BAG:hentaizin add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/03/2023 12:54 PM
+BAG:hentaizin add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/03/2023 12:54 PM
+BAG:hentaizin add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/03/2023 12:55 PM
+BAG:hentaizin add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/03/2023 12:56 PM
+BAG:hentaizin add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/03/2023 12:56 PM
+BAG:hentaizin add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/03/2023 12:57 PM
+BAG:hentaizin add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/03/2023 12:58 PM
+BAG:hentaizin add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/03/2023 12:58 PM
+BAG:hentaizin add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/03/2023 12:58 PM
+BAG:hentaizin add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/03/2023 12:59 PM
+BAG:hentaizin add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/03/2023 12:59 PM
+BAG:hentaizin add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/03/2023 1:00 PM
+BAG:hentaizin add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/03/2023 1:00 PM
+BAG:hentaizin add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/03/2023 1:01 PM
+BAG:hentaizin add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/03/2023 1:01 PM
+BAG:hentaizin add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/03/2023 1:01 PM
+BAG:hentaizin add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/03/2023 1:02 PM
+BAG:hentaizin add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/03/2023 1:02 PM
+BAG:hentaizin add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/03/2023 1:03 PM
+BAG:hentaizin add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/03/2023 1:03 PM
+BAG:hentaizin add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/03/2023 1:03 PM
+BAG:hentaizin add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/03/2023 1:04 PM
+BAG:hentaizin add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/03/2023 1:04 PM
+BAG:hentaizin add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/03/2023 1:04 PM
+BAG:hentaizin add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/03/2023 1:04 PM
+BAG:hentaizin add 44xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/03/2023 1:04 PM
+BAG:hentaizin add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/03/2023 1:05 PM
+BAG:hentaizin add 45xĐậu xanh (old: 44) lydo: Nhặt từ map at 03/03/2023 1:06 PM
+BAG:hentaizin add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/03/2023 1:06 PM
+BAG:hentaizin add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/03/2023 1:06 PM
+BAG:hentaizin add 46xĐậu xanh (old: 45) lydo: Nhặt từ map at 03/03/2023 1:06 PM
+BAG:hentaizin add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/03/2023 1:07 PM
+BAG:hentaizin add 47xĐậu xanh (old: 46) lydo: Nhặt từ map at 03/03/2023 1:07 PM
+BAG:hentaizin add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/03/2023 1:08 PM
+BAG:hentaizin add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/03/2023 1:09 PM
+BAG:hentaizin add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/03/2023 1:13 PM
+BAG:hentaizin add 48xĐậu xanh (old: 47) lydo: Nhặt từ map at 03/03/2023 1:14 PM
+BAG:hentaizin add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/03/2023 5:40 PM
+BAG:hentaizin add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/03/2023 5:41 PM
+BAG:hentaizin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 5:41 PM
+BAG:hentaizin add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/03/2023 5:41 PM
+BAG:hentaizin add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/03/2023 5:41 PM
+BAG:hentaizin add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/03/2023 5:41 PM
+BAG:hentaizin add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/03/2023 5:43 PM
+BAG:hentaizin add 39xBột mì (old: 38) lydo: Nhặt từ map at 03/03/2023 5:43 PM
+BAG:hentaizin add 40xBột mì (old: 39) lydo: Nhặt từ map at 03/03/2023 5:43 PM
+BAG:hentaizin add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 03/03/2023 5:43 PM
+BAG:hentaizin add 49xĐậu xanh (old: 48) lydo: Nhặt từ map at 03/03/2023 5:43 PM
+BAG:hentaizin add 41xBột mì (old: 40) lydo: Nhặt từ map at 03/03/2023 5:44 PM
+BAG:hentaizin add 50xĐậu xanh (old: 49) lydo: Nhặt từ map at 03/03/2023 6:01 PM
+BAG:hentaizin add 42xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 03/03/2023 6:01 PM
+BAG:hentaizin add 51xĐậu xanh (old: 50) lydo: Nhặt từ map at 03/03/2023 6:01 PM
+BAG:hentaizin add 43xTrứng vịt muối (old: 42) lydo: Nhặt từ map at 03/03/2023 6:02 PM
+BAG:hentaizin add 44xGà quay nguyên con (old: 43) lydo: Nhặt từ map at 03/03/2023 6:02 PM
+BAG:hentaizin add 42xBột mì (old: 41) lydo: Nhặt từ map at 03/03/2023 6:03 PM
+BAG:hentaizin add 44xTrứng vịt muối (old: 43) lydo: Nhặt từ map at 03/03/2023 6:03 PM
+BAG:hentaizin add 52xĐậu xanh (old: 51) lydo: Nhặt từ map at 03/03/2023 6:04 PM
+BAG:hentaizin add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 03/03/2023 6:05 PM
+BAG:hentaizin add 43xBột mì (old: 42) lydo: Nhặt từ map at 03/03/2023 6:05 PM
+BAG:hentaizin add 45xGà quay nguyên con (old: 44) lydo: Nhặt từ map at 03/03/2023 6:06 PM
+BAG:hentaizin add 46xGà quay nguyên con (old: 45) lydo: Nhặt từ map at 03/03/2023 6:06 PM
+BAG:hentaizin add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:07 PM
+BAG:hentaizin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 6:08 PM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 6:12 PM
+BAG:hentaizin add 1xCánh thiên thần lydo: Mua từ cửa hàng at 03/03/2023 6:13 PM
+BAG:hentaizin add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/03/2023 6:13 PM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 6:14 PM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 6:16 PM
+BAG:hentaizin add 47xGà quay nguyên con (old: 46) lydo: Nhặt từ map at 03/03/2023 6:22 PM
+BAG:hentaizin add 96xCuồng nộ lydo: Giftcode at 03/03/2023 6:23 PM
+BAG:hentaizin add 99xCuồng nộ (old: 96) lydo: Giftcode at 03/03/2023 6:23 PM
+BAG:hentaizin add 44xBột mì (old: 43) lydo: Nhặt từ map at 03/03/2023 6:24 PM
+BAG:hentaizin add 45xBột mì (old: 44) lydo: Nhặt từ map at 03/03/2023 6:24 PM
+BAG:hentaizin add 46xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 03/03/2023 6:27 PM
+BAG:hentaizin add 47xTrứng vịt muối (old: 46) lydo: Nhặt từ map at 03/03/2023 6:29 PM
+BAG:hentaizin add 46xBột mì (old: 45) lydo: Nhặt từ map at 03/03/2023 6:29 PM
+BAG:hentaizin add 53xĐậu xanh (old: 52) lydo: Nhặt từ map at 03/03/2023 6:30 PM
+BAG:hentaizin add 47xBột mì (old: 46) lydo: Nhặt từ map at 03/03/2023 6:30 PM
+BAG:hentaizin add 54xĐậu xanh (old: 53) lydo: Nhặt từ map at 03/03/2023 6:31 PM
+BAG:hentaizin add 48xGà quay nguyên con (old: 47) lydo: Nhặt từ map at 03/03/2023 6:31 PM
+BAG:hentaizin add 49xGà quay nguyên con (old: 48) lydo: Nhặt từ map at 03/03/2023 6:31 PM
+BAG:hentaizin add 50xGà quay nguyên con (old: 49) lydo: Nhặt từ map at 03/03/2023 6:32 PM
+BAG:hentaizin add 51xGà quay nguyên con (old: 50) lydo: Nhặt từ map at 03/03/2023 6:33 PM
+BAG:hentaizin add 52xGà quay nguyên con (old: 51) lydo: Nhặt từ map at 03/03/2023 6:33 PM
+BAG:hentaizin add 48xBột mì (old: 47) lydo: Nhặt từ map at 03/03/2023 6:33 PM
+BAG:hentaizin add 48xTrứng vịt muối (old: 47) lydo: Nhặt từ map at 03/03/2023 6:34 PM
+BAG:hentaizin add 49xBột mì (old: 48) lydo: Nhặt từ map at 03/03/2023 6:34 PM
+BAG:hentaizin add 50xBột mì (old: 49) lydo: Nhặt từ map at 03/03/2023 6:34 PM
+BAG:hentaizin add 49xTrứng vịt muối (old: 48) lydo: Nhặt từ map at 03/03/2023 6:35 PM
+BAG:hentaizin add 53xGà quay nguyên con (old: 52) lydo: Nhặt từ map at 03/03/2023 6:35 PM
+BAG:hentaizin add 50xTrứng vịt muối (old: 49) lydo: Nhặt từ map at 03/03/2023 6:35 PM
+BAG:hentaizin add 51xBột mì (old: 50) lydo: Nhặt từ map at 03/03/2023 6:36 PM
+BAG:hentaizin add 54xGà quay nguyên con (old: 53) lydo: Nhặt từ map at 03/03/2023 6:36 PM
+BAG:hentaizin add 55xGà quay nguyên con (old: 54) lydo: Nhặt từ map at 03/03/2023 6:37 PM
+BAG:hentaizin add 52xBột mì (old: 51) lydo: Nhặt từ map at 03/03/2023 6:41 PM
+BAG:hentaizin add 56xGà quay nguyên con (old: 55) lydo: Nhặt từ map at 03/03/2023 6:42 PM
+BAG:hentaizin add 55xĐậu xanh (old: 54) lydo: Nhặt từ map at 03/03/2023 6:42 PM
+BAG:hentaizin add 51xTrứng vịt muối (old: 50) lydo: Nhặt từ map at 03/03/2023 6:42 PM
+BAG:hentaizin add 52xTrứng vịt muối (old: 51) lydo: Nhặt từ map at 03/03/2023 6:46 PM
+BAG:hentaizin add 56xĐậu xanh (old: 55) lydo: Nhặt từ map at 03/03/2023 7:29 PM
+BAG:hentaizin add 57xĐậu xanh (old: 56) lydo: Nhặt từ map at 03/03/2023 7:30 PM
+BAG:hentaizin add 53xBột mì (old: 52) lydo: Nhặt từ map at 03/03/2023 7:30 PM
+BAG:hentaizin add 53xTrứng vịt muối (old: 52) lydo: Nhặt từ map at 03/03/2023 7:31 PM
+BAG:hentaizin add 54xTrứng vịt muối (old: 53) lydo: Nhặt từ map at 03/03/2023 7:34 PM
+BAG:hentaizin add 58xĐậu xanh (old: 57) lydo: Nhặt từ map at 03/03/2023 7:34 PM
+BAG:hentaizin add 57xGà quay nguyên con (old: 56) lydo: Nhặt từ map at 03/03/2023 7:35 PM
+BAG:hentaizin add 55xTrứng vịt muối (old: 54) lydo: Nhặt từ map at 03/03/2023 7:35 PM
+BAG:hentaizin add 58xGà quay nguyên con (old: 57) lydo: Nhặt từ map at 03/03/2023 7:35 PM
+BAG:hentaizin add 54xBột mì (old: 53) lydo: Nhặt từ map at 03/03/2023 7:36 PM
+BAG:hentaizin add 59xĐậu xanh (old: 58) lydo: Nhặt từ map at 03/03/2023 7:36 PM
+BAG:hentaizin add 55xBột mì (old: 54) lydo: Nhặt từ map at 03/03/2023 7:36 PM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 7:36 PM
+BAG:hentaizin add 60xĐậu xanh (old: 59) lydo: Nhặt từ map at 03/03/2023 7:36 PM
+BAG:hentaizin add 56xTrứng vịt muối (old: 55) lydo: Nhặt từ map at 03/03/2023 7:37 PM
+BAG:hentaizin add 61xĐậu xanh (old: 60) lydo: Nhặt từ map at 03/03/2023 7:38 PM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 7:38 PM
+BAG:hentaizin add 57xTrứng vịt muối (old: 56) lydo: Nhặt từ map at 03/03/2023 7:39 PM
+BAG:hentaizin add 58xTrứng vịt muối (old: 57) lydo: Nhặt từ map at 03/03/2023 7:40 PM
+BAG:hentaizin add 59xTrứng vịt muối (old: 58) lydo: Nhặt từ map at 03/03/2023 7:41 PM
+BAG:hentaizin add 56xBột mì (old: 55) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:hentaizin add 59xGà quay nguyên con (old: 58) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:hentaizin add 62xĐậu xanh (old: 61) lydo: Nhặt từ map at 03/03/2023 7:43 PM
+BAG:hentaizin add 60xGà quay nguyên con (old: 59) lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:hentaizin add 57xBột mì (old: 56) lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:hentaizin add 61xGà quay nguyên con (old: 60) lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:hentaizin add 63xĐậu xanh (old: 62) lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:hentaizin add 58xBột mì (old: 57) lydo: Nhặt từ map at 03/03/2023 7:55 PM
+BAG:hentaizin add 10xNgọc Rồng 2 sao (old: 2) lydo: Lấy từ rương qua người at 03/03/2023 8:18 PM
+BAG:hentaizin add 8xNgọc Rồng 1 sao (old: 1) lydo: Lấy từ rương qua người at 03/03/2023 8:18 PM
+BAG:hentaizin add 31xNgọc Rồng 4 sao (old: 21) lydo: Lấy từ rương qua người at 03/03/2023 8:18 PM
+BAG:hentaizin add 20xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ rương qua người at 03/03/2023 8:18 PM
+BAG:hentaizin add 18xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ rương qua người at 03/03/2023 8:18 PM
+BAG:hentaizin add 34xNgọc Rồng 5 sao (old: 5) lydo: Lấy từ rương qua người at 03/03/2023 8:18 PM
+BAG:hentaizin add 421xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/03/2023 8:18 PM
+BAG:hentaizin add 99xNgọc Rồng 7 sao (old: 20) lydo: Lấy từ rương qua người at 03/03/2023 8:18 PM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 8:24 PM
+BAG:hentaizin add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 8:28 PM
+BAG:hentaizin add 62xGà quay nguyên con (old: 61) lydo: Nhặt từ map at 03/03/2023 8:33 PM
+BAG:hentaizin add 84xSao pha lê lydo: Lấy từ rương qua người at 03/03/2023 8:42 PM
+BAG:hentaizin add 98xSao pha lê lydo: Lấy từ rương qua người at 03/03/2023 8:42 PM
+BAG:hentaizin add 1xAvatar VIP lydo: Ước NR at 03/03/2023 8:46 PM
+BAG:hentaizin add 1xCải trang Kamin lydo: Mua từ bill at 03/03/2023 8:50 PM
+BAG:hentaizin add 1xCải trang Oren lydo: Mua từ bill at 03/03/2023 8:50 PM
+BAG:hentaizin add 1xHợp thể Kamioren lydo: Mua từ bill at 03/03/2023 8:50 PM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 8:51 PM
+BAG:hentaizin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 8:52 PM
+BAG:hentaizin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 8:55 PM
+BAG:hentaizin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 8:55 PM
+BAG:hentaizin add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 8:55 PM
+BAG:hentaizin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 8:56 PM
+BAG:hentaizin add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 8:57 PM
+BAG:hentaizin add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/03/2023 8:58 PM
+BAG:hentaizin add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/03/2023 8:58 PM
+BAG:hentaizin add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/03/2023 8:58 PM
+BAG:hentaizin add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/03/2023 8:58 PM
+BAG:hentaizin add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 03/03/2023 8:59 PM
+BAG:hentaizin add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/03/2023 8:59 PM
+BAG:hentaizin add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 03/03/2023 8:59 PM
+BAG:hentaizin add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 03/03/2023 8:59 PM
+BAG:hentaizin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 8:59 PM
+BAG:hentaizin add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 8:59 PM
+BAG:hentaizin add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 8:59 PM
+BAG:hentaizin add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 9:00 PM
+BAG:hentaizin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 9:01 PM
+BAG:hentaizin add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 9:01 PM
+BAG:hentaizin add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 9:02 PM
+BAG:hentaizin add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/03/2023 9:02 PM
+BAG:hentaizin add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 9:02 PM
+BAG:hentaizin add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:hentaizin add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 9:03 PM
+BAG:hentaizin add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 9:04 PM
+BAG:hentaizin add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/03/2023 9:04 PM
+BAG:hentaizin add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/03/2023 9:04 PM
+BAG:hentaizin add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/03/2023 9:04 PM
+BAG:hentaizin add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 9:05 PM
+BAG:hentaizin add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 9:06 PM
+BAG:hentaizin add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/03/2023 9:06 PM
+BAG:hentaizin add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/03/2023 9:06 PM
+BAG:hentaizin add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/03/2023 9:07 PM
+BAG:hentaizin add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/03/2023 9:07 PM
+BAG:hentaizin add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 9:07 PM
+BAG:hentaizin add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/03/2023 9:08 PM
+BAG:hentaizin add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/03/2023 9:09 PM
+BAG:hentaizin add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 9:10 PM
+BAG:hentaizin add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/03/2023 9:10 PM
+BAG:hentaizin add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/03/2023 9:10 PM
+BAG:hentaizin add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/03/2023 9:10 PM
+BAG:hentaizin add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/03/2023 9:10 PM
+BAG:hentaizin add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/03/2023 9:11 PM
+BAG:hentaizin add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/03/2023 9:11 PM
+BAG:hentaizin add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/03/2023 9:11 PM
+BAG:hentaizin add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/03/2023 9:12 PM
+BAG:hentaizin add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/03/2023 9:12 PM
+BAG:hentaizin add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/03/2023 9:13 PM
+BAG:hentaizin add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/03/2023 9:13 PM
+BAG:hentaizin add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/03/2023 9:14 PM
+BAG:hentaizin add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/03/2023 9:14 PM
+BAG:hentaizin add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/03/2023 9:14 PM
+BAG:hentaizin add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/03/2023 9:14 PM
+BAG:hentaizin add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/03/2023 9:14 PM
+BAG:hentaizin add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/03/2023 9:14 PM
+BAG:hentaizin add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/03/2023 9:15 PM
+BAG:hentaizin add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/03/2023 9:15 PM
+BAG:hentaizin add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/03/2023 9:16 PM
+BAG:hentaizin add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/03/2023 9:16 PM
+BAG:hentaizin add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/03/2023 9:16 PM
+BAG:hentaizin add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/03/2023 9:16 PM
+BAG:hentaizin add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/03/2023 9:16 PM
+BAG:hentaizin add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/03/2023 9:16 PM
+BAG:hentaizin add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/03/2023 9:17 PM
+BAG:hentaizin add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/03/2023 9:17 PM
+BAG:hentaizin add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/03/2023 9:17 PM
+BAG:hentaizin add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/03/2023 9:17 PM
+BAG:hentaizin add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/03/2023 9:17 PM
+BAG:hentaizin add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/03/2023 9:18 PM
+BAG:hentaizin add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/03/2023 9:18 PM
+BAG:hentaizin add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/03/2023 9:18 PM
+BAG:hentaizin add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:hentaizin add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:hentaizin add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:hentaizin add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/03/2023 9:20 PM
+BAG:hentaizin add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/03/2023 9:20 PM
+BAG:hentaizin add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/03/2023 9:21 PM
+BAG:hentaizin add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/03/2023 9:22 PM
+BAG:hentaizin add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/03/2023 9:23 PM
+BAG:hentaizin add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/03/2023 9:24 PM
+BAG:hentaizin add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/03/2023 9:24 PM
+BAG:hentaizin add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/03/2023 9:24 PM
+BAG:hentaizin add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/03/2023 10:02 PM
+BAG:hentaizin add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/03/2023 10:44 PM
+BAG:hentaizin add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/03/2023 10:44 PM
+BAG:hentaizin add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/03/2023 10:44 PM
+BAG:hentaizin add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/03/2023 10:44 PM
+BAG:hentaizin add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/03/2023 10:45 PM
+BAG:hentaizin add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/03/2023 10:45 PM
+BAG:hentaizin add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/03/2023 10:45 PM
+BAG:hentaizin add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/03/2023 10:46 PM
+BAG:hentaizin add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/03/2023 10:46 PM
+BAG:hentaizin add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/03/2023 10:47 PM
+BAG:hentaizin add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/03/2023 10:47 PM
+BAG:hentaizin add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/03/2023 10:47 PM
+BAG:hentaizin add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/03/2023 10:48 PM
+BAG:hentaizin add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/03/2023 10:49 PM
+BAG:hentaizin add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/03/2023 10:49 PM
+BAG:hentaizin add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/03/2023 10:49 PM
+BAG:hentaizin add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/03/2023 10:50 PM
+BAG:hentaizin add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/03/2023 10:51 PM
+BAG:hentaizin add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/03/2023 10:52 PM
+BAG:hentaizin add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/03/2023 10:52 PM
+BAG:hentaizin add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/03/2023 10:52 PM
+BAG:hentaizin add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/03/2023 10:52 PM
+BAG:hentaizin add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/03/2023 10:53 PM
+BAG:hentaizin add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/03/2023 10:53 PM
+BAG:hentaizin add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/03/2023 10:53 PM
+BAG:hentaizin add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/03/2023 10:53 PM
+BAG:hentaizin add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/03/2023 10:54 PM
+BAG:hentaizin add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/03/2023 10:54 PM
+BAG:hentaizin add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/03/2023 10:54 PM
+BAG:hentaizin add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:hentaizin add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:hentaizin add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:hentaizin add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/03/2023 10:56 PM
+BAG:hentaizin add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/03/2023 10:56 PM
+BAG:hentaizin add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/03/2023 10:56 PM
+BAG:hentaizin add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/03/2023 10:57 PM
+BAG:hentaizin add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/03/2023 10:58 PM
+BAG:hentaizin add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/03/2023 10:58 PM
+BAG:hentaizin add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/03/2023 10:58 PM
+BAG:hentaizin add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/03/2023 10:59 PM
+BAG:hentaizin add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/03/2023 10:59 PM
+BAG:hentaizin add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/03/2023 10:59 PM
+BAG:hentaizin add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/03/2023 10:59 PM
+BAG:hentaizin add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/03/2023 11:00 PM
+BAG:hentaizin add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/03/2023 11:00 PM
+BAG:hentaizin add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/03/2023 11:01 PM
+BAG:hentaizin add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/03/2023 11:02 PM
+BAG:hentaizin add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/03/2023 11:02 PM
+BAG:hentaizin add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/03/2023 11:03 PM
+BAG:hentaizin add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/03/2023 11:03 PM
+BAG:hentaizin add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/03/2023 11:04 PM
+BAG:hentaizin add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/03/2023 11:04 PM
+BAG:hentaizin add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/03/2023 11:05 PM
+BAG:hentaizin add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/03/2023 11:05 PM
+BAG:hentaizin add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/03/2023 11:06 PM
+BAG:hentaizin add 39xBột mì (old: 38) lydo: Nhặt từ map at 03/03/2023 11:06 PM
+BAG:hentaizin add 40xBột mì (old: 39) lydo: Nhặt từ map at 03/03/2023 11:06 PM
+BAG:hentaizin add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/03/2023 11:06 PM
+BAG:hentaizin add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/03/2023 11:06 PM
+BAG:hentaizin add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/03/2023 11:07 PM
+BAG:hentaizin add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/03/2023 11:07 PM
+BAG:hentaizin add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/03/2023 11:07 PM
+BAG:hentaizin add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/03/2023 11:08 PM
+BAG:hentaizin add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/03/2023 11:08 PM
+BAG:hentaizin add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/03/2023 11:09 PM
+BAG:hentaizin add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/03/2023 11:09 PM
+BAG:hentaizin add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/03/2023 11:10 PM
+BAG:hentaizin add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/03/2023 11:10 PM
+BAG:hentaizin add 41xBột mì (old: 40) lydo: Nhặt từ map at 03/03/2023 11:10 PM
+BAG:hentaizin add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/03/2023 11:10 PM
+BAG:hentaizin add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/03/2023 11:10 PM
+BAG:hentaizin add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/03/2023 11:10 PM
+BAG:hentaizin add 42xBột mì (old: 41) lydo: Nhặt từ map at 03/03/2023 11:11 PM
+BAG:hentaizin add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/03/2023 11:11 PM
+BAG:hentaizin add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/03/2023 11:12 PM
+BAG:hentaizin add 43xBột mì (old: 42) lydo: Nhặt từ map at 03/03/2023 11:12 PM
+BAG:hentaizin add 44xBột mì (old: 43) lydo: Nhặt từ map at 03/03/2023 11:12 PM
+BAG:hentaizin add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/03/2023 11:12 PM
+BAG:hentaizin add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/03/2023 11:13 PM
+BAG:hentaizin add 45xBột mì (old: 44) lydo: Nhặt từ map at 03/03/2023 11:13 PM
+BAG:hentaizin add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/03/2023 11:13 PM
+BAG:hentaizin add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/03/2023 11:13 PM
+BAG:hentaizin add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/03/2023 11:13 PM
+BAG:hentaizin add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/03/2023 11:13 PM
+BAG:hentaizin add 46xBột mì (old: 45) lydo: Nhặt từ map at 03/03/2023 11:14 PM
+BAG:hentaizin add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/03/2023 11:15 PM
+BAG:hentaizin add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/03/2023 11:15 PM
+BAG:hentaizin add 47xBột mì (old: 46) lydo: Nhặt từ map at 03/03/2023 11:15 PM
+BAG:hentaizin add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 03/03/2023 11:16 PM
+BAG:hentaizin add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/03/2023 11:16 PM
+BAG:hentaizin add 48xBột mì (old: 47) lydo: Nhặt từ map at 03/03/2023 11:17 PM
+BAG:hentaizin add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/03/2023 11:19 PM
+BAG:hentaizin add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/03/2023 11:19 PM
+BAG:hentaizin add 44xGà quay nguyên con (old: 43) lydo: Nhặt từ map at 03/03/2023 11:19 PM
+BAG:hentaizin add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/03/2023 11:20 PM
+BAG:hentaizin add 45xGà quay nguyên con (old: 44) lydo: Nhặt từ map at 03/03/2023 11:20 PM
+BAG:hentaizin add 46xGà quay nguyên con (old: 45) lydo: Nhặt từ map at 03/03/2023 11:20 PM
+BAG:hentaizin add 47xGà quay nguyên con (old: 46) lydo: Nhặt từ map at 03/03/2023 11:21 PM
+BAG:hentaizin add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/03/2023 11:21 PM
+BAG:hentaizin add 49xBột mì (old: 48) lydo: Nhặt từ map at 03/03/2023 11:21 PM
+BAG:hentaizin add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/03/2023 11:21 PM
+BAG:hentaizin add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/03/2023 11:21 PM
+BAG:hentaizin add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/03/2023 11:21 PM
+BAG:hentaizin add 50xBột mì (old: 49) lydo: Nhặt từ map at 03/03/2023 11:21 PM
+BAG:hentaizin add 51xBột mì (old: 50) lydo: Nhặt từ map at 03/03/2023 11:22 PM
+BAG:hentaizin add 52xBột mì (old: 51) lydo: Nhặt từ map at 03/03/2023 11:22 PM
+BAG:hentaizin add 42xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 03/03/2023 11:22 PM
+BAG:hentaizin add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/03/2023 11:23 PM
+BAG:hentaizin add 43xTrứng vịt muối (old: 42) lydo: Nhặt từ map at 03/03/2023 11:23 PM
+BAG:hentaizin add 48xGà quay nguyên con (old: 47) lydo: Nhặt từ map at 03/03/2023 11:24 PM
+BAG:hentaizin add 44xTrứng vịt muối (old: 43) lydo: Nhặt từ map at 03/03/2023 11:25 PM
+BAG:hentaizin add 49xGà quay nguyên con (old: 48) lydo: Nhặt từ map at 03/03/2023 11:25 PM
+BAG:hentaizin add 53xBột mì (old: 52) lydo: Nhặt từ map at 03/03/2023 11:25 PM
+BAG:hentaizin add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 03/03/2023 11:26 PM
+BAG:hentaizin add 46xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 03/03/2023 11:26 PM
+BAG:hentaizin add 50xGà quay nguyên con (old: 49) lydo: Nhặt từ map at 03/03/2023 11:26 PM
+BAG:hentaizin add 54xBột mì (old: 53) lydo: Nhặt từ map at 03/03/2023 11:27 PM
+BAG:hentaizin add 55xBột mì (old: 54) lydo: Nhặt từ map at 03/03/2023 11:27 PM
+BAG:hentaizin add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/03/2023 11:27 PM
+BAG:hentaizin add 56xBột mì (old: 55) lydo: Nhặt từ map at 03/03/2023 11:27 PM
+BAG:hentaizin add 51xGà quay nguyên con (old: 50) lydo: Nhặt từ map at 03/03/2023 11:27 PM
+BAG:hentaizin add 47xTrứng vịt muối (old: 46) lydo: Nhặt từ map at 03/03/2023 11:28 PM
+BAG:hentaizin add 52xGà quay nguyên con (old: 51) lydo: Nhặt từ map at 03/03/2023 11:29 PM
+BAG:hentaizin add 57xBột mì (old: 56) lydo: Nhặt từ map at 03/03/2023 11:29 PM
+BAG:hentaizin add 58xBột mì (old: 57) lydo: Nhặt từ map at 03/03/2023 11:29 PM
+BAG:hentaizin add 48xTrứng vịt muối (old: 47) lydo: Nhặt từ map at 03/03/2023 11:29 PM
+BAG:hentaizin add 44xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/03/2023 11:30 PM
+BAG:hentaizin add 45xĐậu xanh (old: 44) lydo: Nhặt từ map at 03/03/2023 11:30 PM
+BAG:hentaizin add 59xBột mì (old: 58) lydo: Nhặt từ map at 03/03/2023 11:30 PM
+BAG:hentaizin add 46xĐậu xanh (old: 45) lydo: Nhặt từ map at 03/03/2023 11:30 PM
+BAG:hentaizin add 53xGà quay nguyên con (old: 52) lydo: Nhặt từ map at 03/03/2023 11:30 PM
+BAG:hentaizin add 54xGà quay nguyên con (old: 53) lydo: Nhặt từ map at 03/03/2023 11:30 PM
+BAG:hentaizin add 60xBột mì (old: 59) lydo: Nhặt từ map at 03/03/2023 11:30 PM
+BAG:hentaizin add 61xBột mì (old: 60) lydo: Nhặt từ map at 03/03/2023 11:30 PM

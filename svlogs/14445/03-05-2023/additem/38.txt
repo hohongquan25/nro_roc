@@ -1,0 +1,488 @@
+BAG:gokussj add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/05/2023 5:44 PM
+BAG:gokussj add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/05/2023 5:44 PM
+BAG:gokussj add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/05/2023 5:46 PM
+BAG:gokussj add 20xĐậu thần cấp 8 lydo: Lấy từ rương qua người at 03/05/2023 5:46 PM
+BAG:gokussj add 40xĐậu thần cấp 8 (old: 20) lydo: Lấy từ rương qua người at 03/05/2023 5:47 PM
+BAG:gokussj add 57xĐậu thần cấp 8 (old: 40) lydo: Lấy từ rương qua người at 03/05/2023 5:47 PM
+BAG:gokussj add 76xĐậu thần cấp 8 (old: 57) lydo: Lấy từ rương qua người at 03/05/2023 5:47 PM
+BAG:gokussj add 94xĐậu thần cấp 8 (old: 75) lydo: Lấy từ rương qua người at 03/05/2023 5:51 PM
+BAG:gokussj add 1xBột mì lydo: Nhặt từ map at 03/05/2023 5:51 PM
+BAG:gokussj add 1xAvatar lydo: Mua từ cửa hàng at 03/05/2023 5:53 PM
+BAG:gokussj add 1xVán bay VIP lydo: Mua từ cửa hàng at 03/05/2023 5:53 PM
+BAG:gokussj add 1xGhế bay lydo: Mua từ cửa hàng at 03/05/2023 5:53 PM
+BAG:gokussj add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xSách Antomic lv5 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xSách Antomic lv6 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 1xSách Antomic lv7 lydo: Mua từ cửa hàng at 03/05/2023 5:54 PM
+BAG:gokussj add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/05/2023 5:55 PM
+BAG:gokussj add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 5:55 PM
+BAG:gokussj add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 5:55 PM
+BAG:gokussj add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/05/2023 5:56 PM
+BAG:gokussj add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/05/2023 5:56 PM
+BAG:gokussj add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 5:57 PM
+BAG:gokussj add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 5:57 PM
+BAG:gokussj add 1xGăng bạc lydo: Mua từ cửa hàng at 03/05/2023 5:57 PM
+BAG:gokussj add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/05/2023 5:57 PM
+BAG:gokussj add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/05/2023 6:01 PM
+BAG:gokussj add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 6:01 PM
+BAG:gokussj add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 6:01 PM
+BAG:gokussj add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 6:01 PM
+BAG:gokussj add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 6:01 PM
+BAG:gokussj add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 6:01 PM
+BAG:gokussj add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 6:01 PM
+BAG:gokussj add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/05/2023 6:03 PM
+BAG:gokussj add 50xThỏi vàng lydo: Giftcode at 03/05/2023 6:10 PM
+BAG:gokussj add 10xSao pha lê lydo: Giftcode at 03/05/2023 6:10 PM
+BAG:gokussj add 10xSao pha lê lydo: Giftcode at 03/05/2023 6:10 PM
+BAG:gokussj add 10xSao pha lê lydo: Giftcode at 03/05/2023 6:10 PM
+BAG:gokussj add 1xCải trang Hit lydo: Giftcode at 03/05/2023 6:10 PM
+BAG:gokussj add 10xCuồng nộ lydo: Giftcode at 03/05/2023 6:10 PM
+BAG:gokussj add 10xBổ huyết lydo: Giftcode at 03/05/2023 6:10 PM
+BAG:gokussj add 10xBổ khí lydo: Giftcode at 03/05/2023 6:10 PM
+BAG:gokussj add 10xGiáp Xên bọ hung lydo: Giftcode at 03/05/2023 6:10 PM
+BAG:gokussj add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 6:10 PM
+BAG:gokussj add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 6:13 PM
+BAG:gokussj add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/05/2023 6:16 PM
+BAG:gokussj add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/05/2023 6:17 PM
+BAG:gokussj add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/05/2023 6:17 PM
+BAG:gokussj add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/05/2023 6:17 PM
+BAG:gokussj add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/05/2023 6:17 PM
+BAG:gokussj add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/05/2023 6:17 PM
+BAG:gokussj add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/05/2023 6:17 PM
+BAG:gokussj add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/05/2023 6:17 PM
+BAG:gokussj add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 03/05/2023 6:17 PM
+BAG:gokussj add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 03/05/2023 6:17 PM
+BAG:gokussj add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 03/05/2023 6:18 PM
+BAG:gokussj add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 03/05/2023 6:18 PM
+BAG:gokussj add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 03/05/2023 6:18 PM
+BAG:gokussj add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 03/05/2023 6:18 PM
+BAG:gokussj add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 03/05/2023 6:18 PM
+BAG:gokussj add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/05/2023 6:28 PM
+BAG:gokussj add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 6:31 PM
+BAG:gokussj add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/05/2023 6:31 PM
+BAG:gokussj add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 6:32 PM
+BAG:gokussj add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/05/2023 6:36 PM
+BAG:gokussj add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/05/2023 6:36 PM
+BAG:gokussj add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/05/2023 6:40 PM
+BAG:gokussj add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 6:41 PM
+BAG:gokussj add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/05/2023 6:41 PM
+BAG:gokussj add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/05/2023 6:41 PM
+BAG:gokussj add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/05/2023 6:41 PM
+BAG:gokussj add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/05/2023 6:42 PM
+BAG:gokussj add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 6:42 PM
+BAG:gokussj add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/05/2023 6:43 PM
+BAG:gokussj add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 6:43 PM
+BAG:gokussj add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/05/2023 6:44 PM
+BAG:gokussj add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 6:46 PM
+BAG:gokussj add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 6:47 PM
+BAG:gokussj add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/05/2023 6:47 PM
+BAG:gokussj add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/05/2023 6:47 PM
+BAG:gokussj add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/05/2023 6:48 PM
+BAG:gokussj add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/05/2023 6:48 PM
+BAG:gokussj add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 6:48 PM
+BAG:gokussj add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/05/2023 6:56 PM
+BAG:gokussj add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 6:57 PM
+BAG:gokussj add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/05/2023 6:57 PM
+BAG:gokussj add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/05/2023 6:58 PM
+BAG:gokussj add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:gokussj add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:gokussj add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:gokussj add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/05/2023 6:59 PM
+BAG:gokussj add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/05/2023 7:01 PM
+BAG:gokussj add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 7:02 PM
+BAG:gokussj add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/05/2023 7:02 PM
+BAG:gokussj add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/05/2023 7:02 PM
+BAG:gokussj add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 7:02 PM
+BAG:gokussj add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/05/2023 7:02 PM
+BAG:gokussj add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/05/2023 7:03 PM
+BAG:gokussj add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/05/2023 7:03 PM
+BAG:gokussj add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/05/2023 7:03 PM
+BAG:gokussj add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/05/2023 7:03 PM
+BAG:gokussj add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/05/2023 7:03 PM
+BAG:gokussj add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/05/2023 7:03 PM
+BAG:gokussj add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/05/2023 7:04 PM
+BAG:gokussj add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/05/2023 7:04 PM
+BAG:gokussj add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/05/2023 7:05 PM
+BAG:gokussj add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/05/2023 7:05 PM
+BAG:gokussj add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/05/2023 7:06 PM
+BAG:gokussj add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/05/2023 7:06 PM
+BAG:gokussj add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/05/2023 7:59 PM
+BAG:gokussj add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/05/2023 7:59 PM
+BAG:gokussj add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/05/2023 7:59 PM
+BAG:gokussj add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/05/2023 8:00 PM
+BAG:gokussj add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/05/2023 8:00 PM
+BAG:gokussj add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/05/2023 8:00 PM
+BAG:gokussj add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/05/2023 8:00 PM
+BAG:gokussj add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 8:01 PM
+BAG:gokussj add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/05/2023 8:02 PM
+BAG:gokussj add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/05/2023 8:02 PM
+BAG:gokussj add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/05/2023 8:05 PM
+BAG:gokussj add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/05/2023 8:05 PM
+BAG:gokussj add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/05/2023 8:05 PM
+BAG:gokussj add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/05/2023 8:05 PM
+BAG:gokussj add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/05/2023 8:09 PM
+BAG:gokussj add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/05/2023 8:10 PM
+BAG:gokussj add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/05/2023 8:10 PM
+BAG:gokussj add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/05/2023 8:10 PM
+BAG:gokussj add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/05/2023 8:11 PM
+BAG:gokussj add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/05/2023 8:12 PM
+BAG:gokussj add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/05/2023 8:12 PM
+BAG:gokussj add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/05/2023 8:12 PM
+BAG:gokussj add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/05/2023 8:13 PM
+BAG:gokussj add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 8:15 PM
+BAG:gokussj add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 03/05/2023 8:15 PM
+BAG:gokussj add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 8:15 PM
+BAG:gokussj add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:15 PM
+BAG:gokussj add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:15 PM
+BAG:gokussj add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 8:15 PM
+BAG:gokussj add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 8:15 PM
+BAG:gokussj add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/05/2023 8:15 PM
+BAG:gokussj add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:15 PM
+BAG:gokussj add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/05/2023 8:15 PM
+BAG:gokussj add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:17 PM
+BAG:gokussj add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:17 PM
+BAG:gokussj add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/05/2023 8:17 PM
+BAG:gokussj add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:17 PM
+BAG:gokussj add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:17 PM
+BAG:gokussj add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:17 PM
+BAG:gokussj add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:17 PM
+BAG:gokussj add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:17 PM
+BAG:gokussj add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:17 PM
+BAG:gokussj add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:18 PM
+BAG:gokussj add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/05/2023 8:18 PM
+BAG:gokussj add 5xNgọc Rồng 5 sao (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:19 PM
+BAG:gokussj add 13xNgọc Rồng 4 sao (old: 12) lydo: Lấy từ lucky box at 03/05/2023 8:19 PM
+BAG:gokussj add 14xNgọc Rồng 4 sao (old: 13) lydo: Lấy từ lucky box at 03/05/2023 8:19 PM
+BAG:gokussj add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:20 PM
+BAG:gokussj add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/05/2023 8:20 PM
+BAG:gokussj add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 8:20 PM
+BAG:gokussj add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/05/2023 8:21 PM
+BAG:gokussj add 1xGăng lưỡng long lydo: Lấy từ body vào hành trang at 03/05/2023 8:22 PM
+BAG:gokussj add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 15xNgọc Rồng 4 sao (old: 14) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xNgọc Rồng 5 sao (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xNgọc Rồng 5 sao (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 16xNgọc Rồng 4 sao (old: 15) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 8xNgọc Rồng 5 sao (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 8xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 17xNgọc Rồng 4 sao (old: 16) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 18xNgọc Rồng 4 sao (old: 17) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 9xNgọc Rồng 5 sao (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 9xNgọc Rồng 6 sao (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 10xNgọc Rồng 6 sao (old: 9) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 11xNgọc Rồng 6 sao (old: 10) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 19xNgọc Rồng 4 sao (old: 18) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 12xNgọc Rồng 6 sao (old: 11) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 20xNgọc Rồng 4 sao (old: 19) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 13xNgọc Rồng 6 sao (old: 12) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 10xNgọc Rồng 5 sao (old: 9) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 11xNgọc Rồng 5 sao (old: 10) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 14xNgọc Rồng 6 sao (old: 13) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 21xNgọc Rồng 4 sao (old: 20) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 12xNgọc Rồng 5 sao (old: 11) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 15xNgọc Rồng 6 sao (old: 14) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 16xNgọc Rồng 6 sao (old: 15) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 13xNgọc Rồng 5 sao (old: 12) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 8xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 11xVệ tinh trí lực (old: 10) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 8xVệ tinh phòng thủ (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 12xVệ tinh trí lực (old: 11) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 22xNgọc Rồng 4 sao (old: 21) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 9xVệ tinh phòng thủ (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 13xVệ tinh trí lực (old: 12) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 14xNgọc Rồng 5 sao (old: 13) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 15xNgọc Rồng 5 sao (old: 14) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 9xNgọc Rồng 7 sao (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 10xNgọc Rồng 7 sao (old: 9) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 16xNgọc Rồng 5 sao (old: 15) lydo: Lấy từ lucky box at 03/05/2023 8:25 PM
+BAG:gokussj add 17xNgọc Rồng 5 sao (old: 16) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 23xNgọc Rồng 4 sao (old: 22) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 13xVệ tinh sinh lực (old: 12) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 12xVệ tinh trí tuệ (old: 11) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 14xVệ tinh sinh lực (old: 13) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 18xNgọc Rồng 5 sao (old: 17) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 17xNgọc Rồng 6 sao (old: 16) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 24xNgọc Rồng 4 sao (old: 23) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 18xNgọc Rồng 6 sao (old: 17) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 19xNgọc Rồng 5 sao (old: 18) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 14xVệ tinh trí lực (old: 13) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 15xVệ tinh trí lực (old: 14) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 15xVệ tinh sinh lực (old: 14) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 10xVệ tinh phòng thủ (old: 9) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 16xVệ tinh trí lực (old: 15) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 25xNgọc Rồng 4 sao (old: 24) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 11xNgọc Rồng 7 sao (old: 10) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 26xNgọc Rồng 4 sao (old: 25) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 19xNgọc Rồng 6 sao (old: 18) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 20xNgọc Rồng 5 sao (old: 19) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 11xVệ tinh phòng thủ (old: 10) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 12xNgọc Rồng 7 sao (old: 11) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 13xVệ tinh trí tuệ (old: 12) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 17xVệ tinh trí lực (old: 16) lydo: Lấy từ lucky box at 03/05/2023 8:26 PM
+BAG:gokussj add 5xSao pha lê (old: 4) lydo: Lấy từ rương qua người at 03/05/2023 8:27 PM
+BAG:gokussj add 1xGiầy vải thô lydo: Mua từ cửa hàng at 03/05/2023 8:27 PM
+BAG:gokussj add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/05/2023 8:31 PM
+BAG:gokussj add 1xBột mì lydo: Nhặt từ map at 03/05/2023 8:32 PM
+BAG:gokussj add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/05/2023 8:32 PM
+BAG:gokussj add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 8:33 PM
+BAG:gokussj add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/05/2023 8:33 PM
+BAG:gokussj add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/05/2023 8:33 PM
+BAG:gokussj add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 8:35 PM
+BAG:gokussj add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/05/2023 8:37 PM
+BAG:gokussj add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/05/2023 8:38 PM
+BAG:gokussj add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 8:38 PM
+BAG:gokussj add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 8:38 PM
+BAG:gokussj add 66xĐậu thần cấp 8 (old: 46) lydo: Lấy từ rương qua người at 03/05/2023 8:48 PM
+BAG:gokussj add 80xĐậu thần cấp 8 (old: 66) lydo: Lấy từ rương qua người at 03/05/2023 8:48 PM
+BAG:gokussj add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/05/2023 8:49 PM
+BAG:gokussj add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 8:50 PM
+BAG:gokussj add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 8:50 PM
+BAG:gokussj add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/05/2023 8:50 PM
+BAG:gokussj add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/05/2023 8:50 PM
+BAG:gokussj add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/05/2023 8:50 PM
+BAG:gokussj add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/05/2023 8:55 PM
+BAG:gokussj add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 8:56 PM
+BAG:gokussj add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/05/2023 9:09 PM
+BAG:gokussj add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/05/2023 9:10 PM
+BAG:gokussj add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/05/2023 9:13 PM
+BAG:gokussj add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/05/2023 9:18 PM
+BAG:gokussj add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/05/2023 9:26 PM
+BAG:gokussj add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/05/2023 9:27 PM
+BAG:gokussj add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 9:29 PM
+BAG:gokussj add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 9:29 PM
+BAG:gokussj add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 9:29 PM
+BAG:gokussj add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/05/2023 9:29 PM
+BAG:gokussj add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 9:37 PM
+BAG:gokussj add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 9:37 PM
+BAG:gokussj add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 9:37 PM
+BAG:gokussj add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 9:37 PM
+BAG:gokussj add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/05/2023 9:40 PM
+BAG:gokussj add 1xGăng lưỡng long lydo: Lấy từ body vào hành trang at 03/05/2023 9:40 PM
+BAG:gokussj add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 9:41 PM
+BAG:gokussj add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 9:41 PM
+BAG:gokussj add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 9:41 PM
+BAG:gokussj add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/05/2023 9:41 PM
+BAG:gokussj add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/05/2023 9:47 PM
+BAG:gokussj add 1xCải trang Black Goku SSJ White lydo: Lấy từ body vào hành trang at 03/05/2023 9:53 PM
+BAG:gokussj add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/05/2023 10:00 PM
+BAG:gokussj add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:00 PM
+BAG:gokussj add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:00 PM
+BAG:gokussj add 1xGăng da Xayda lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:00 PM
+BAG:gokussj add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:00 PM
+BAG:gokussj add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:00 PM
+BAG:gokussj add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/05/2023 10:00 PM
+BAG:gokussj add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/05/2023 10:00 PM
+BAG:gokussj add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/05/2023 10:00 PM
+BAG:gokussj add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/05/2023 10:00 PM
+BAG:gokussj add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/05/2023 10:10 PM
+BAG:gokussj add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/05/2023 10:13 PM
+BAG:gokussj add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 10:16 PM
+BAG:gokussj add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 10:16 PM
+BAG:gokussj add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/05/2023 10:16 PM
+BAG:gokussj add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/05/2023 10:16 PM
+BAG:gokussj add 1xSách Huýt Sáo lv1 lydo: Mua từ cửa hàng at 03/05/2023 10:26 PM
+BAG:gokussj add 1xSách Huýt Sáo lv2 lydo: Mua từ cửa hàng at 03/05/2023 10:26 PM
+BAG:gokussj add 1xSách Huýt Sáo lv3 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách Huýt Sáo lv4 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách Huýt Sáo lv5 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách Huýt Sáo lv6 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách Huýt Sáo lv7 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách Trói lv1 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách Trói lv6 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 03/05/2023 10:27 PM
+BAG:gokussj add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/05/2023 10:35 PM
+BAG:gokussj add 1xPháo hoa lydo: Nhặt từ map at 03/05/2023 10:35 PM
+BAG:gokussj add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:36 PM
+BAG:gokussj add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:36 PM
+BAG:gokussj add 1xGăng da Xayda lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:36 PM
+BAG:gokussj add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:36 PM
+BAG:gokussj add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:36 PM
+BAG:gokussj add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:36 PM
+BAG:gokussj add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:41 PM
+BAG:gokussj add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:41 PM
+BAG:gokussj add 1xGăng da Xayda lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:41 PM
+BAG:gokussj add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:41 PM
+BAG:gokussj add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 10:41 PM
+BAG:gokussj add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 10:42 PM
+BAG:gokussj add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 10:42 PM
+BAG:gokussj add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 10:42 PM
+BAG:gokussj add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 10:42 PM
+BAG:gokussj add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 10:42 PM
+BAG:gokussj add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 10:42 PM
+BAG:gokussj add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/05/2023 10:51 PM
+BAG:gokussj add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/05/2023 11:13 PM
+BAG:gokussj add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 11:13 PM
+BAG:gokussj add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 11:13 PM
+BAG:gokussj add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 11:13 PM
+BAG:gokussj add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 11:13 PM
+BAG:gokussj add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 11:13 PM
+BAG:gokussj add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 11:13 PM
+BAG:gokussj add 19xSao pha lê (old: 9) lydo: Lấy từ rương qua người at 03/05/2023 11:15 PM
+BAG:gokussj add 64xĐậu thần cấp 8 (old: 44) lydo: Lấy từ rương qua người at 03/05/2023 11:16 PM
+BAG:gokussj add 80xĐậu thần cấp 8 (old: 64) lydo: Lấy từ rương qua người at 03/05/2023 11:16 PM
+BAG:gokussj add 99xĐậu thần cấp 8 (old: 80) lydo: Lấy từ rương qua người at 03/05/2023 11:16 PM
+BAG:gokussj add 19xĐậu thần cấp 8 lydo: Lấy từ rương qua người at 03/05/2023 11:16 PM
+BAG:gokussj add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 03/05/2023 11:17 PM
+BAG:gokussj add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/05/2023 11:17 PM
+BAG:gokussj add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 11:17 PM
+BAG:gokussj add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/05/2023 11:17 PM
+BAG:gokussj add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/05/2023 11:17 PM
+BAG:gokussj add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/05/2023 11:20 PM
+BAG:gokussj add 1xGăng siêu Xayda lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:42 PM
+BAG:gokussj add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 11:44 PM
+BAG:gokussj add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 11:44 PM
+BAG:gokussj add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 11:44 PM
+BAG:gokussj add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 11:44 PM
+BAG:gokussj add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 11:44 PM
+BAG:gokussj add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 11:44 PM
+BAG:gokussj add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/05/2023 11:44 PM
+BAG:gokussj add 1xCải trang lydo: Mua từ cửa hàng at 03/05/2023 11:44 PM
+BAG:gokussj add 31xĐậu thần cấp 8 (old: 12) lydo: Lấy từ rương qua người at 03/05/2023 11:54 PM
+BAG:gokussj add 50xĐậu thần cấp 8 (old: 31) lydo: Lấy từ rương qua người at 03/05/2023 11:54 PM
+BAG:gokussj add 69xĐậu thần cấp 8 (old: 50) lydo: Lấy từ rương qua người at 03/05/2023 11:55 PM
+BAG:gokussj add 88xĐậu thần cấp 8 (old: 69) lydo: Lấy từ rương qua người at 03/05/2023 11:55 PM
+BAG:gokussj add 8xĐậu thần cấp 8 lydo: Lấy từ rương qua người at 03/05/2023 11:55 PM
+BAG:gokussj add 99xĐậu thần cấp 8 (old: 88) lydo: Lấy từ rương qua người at 03/05/2023 11:55 PM
+BAG:gokussj add 27xĐậu thần cấp 8 (old: 8) lydo: Lấy từ rương qua người at 03/05/2023 11:55 PM
+BAG:gokussj add 46xĐậu thần cấp 8 (old: 27) lydo: Lấy từ rương qua người at 03/05/2023 11:55 PM

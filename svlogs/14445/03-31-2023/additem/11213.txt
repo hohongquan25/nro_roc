@@ -1,0 +1,835 @@
+BAG:kamekame add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/31/2023 8:12 AM
+BAG:kamekame add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/31/2023 8:12 AM
+BAG:kamekame add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/31/2023 8:12 AM
+BAG:kamekame add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/31/2023 8:12 AM
+BAG:kamekame add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 03/31/2023 8:13 AM
+BAG:kamekame add 4xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/31/2023 8:13 AM
+BAG:kamekame add 99xĐậu thần cấp 10 (old: 83) lydo: Lấy từ rương qua người at 03/31/2023 8:13 AM
+BAG:kamekame add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/31/2023 8:19 AM
+BAG:kamekame add 1xĐá Ruby lydo: Nhặt từ map at 03/31/2023 12:02 PM
+BAG:kamekame add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/31/2023 12:03 PM
+BAG:kamekame add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/31/2023 12:04 PM
+BAG:kamekame add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/31/2023 12:05 PM
+BAG:kamekame add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/31/2023 12:05 PM
+BAG:kamekame add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/31/2023 12:13 PM
+BAG:kamekame add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/31/2023 12:14 PM
+BAG:kamekame add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/31/2023 12:15 PM
+BAG:kamekame add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/31/2023 12:15 PM
+BAG:kamekame add 25xThỏi vàng lydo: Đổi vàng at 03/31/2023 12:16 PM
+BAG:kamekame add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/31/2023 12:21 PM
+BAG:kamekame add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/31/2023 12:21 PM
+BAG:kamekame add 1xĐá Titan lydo: Nhặt từ map at 03/31/2023 12:24 PM
+BAG:kamekame add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/31/2023 12:25 PM
+BAG:kamekame add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/31/2023 12:25 PM
+BAG:kamekame add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/31/2023 12:25 PM
+BAG:kamekame add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/31/2023 12:25 PM
+BAG:kamekame add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/31/2023 12:32 PM
+BAG:kamekame add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/31/2023 12:33 PM
+BAG:kamekame add 1xĐá Saphia lydo: Nhặt từ map at 03/31/2023 12:34 PM
+BAG:kamekame add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/31/2023 12:34 PM
+BAG:kamekame add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/31/2023 12:34 PM
+BAG:kamekame add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/31/2023 12:34 PM
+BAG:kamekame add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/31/2023 12:35 PM
+BAG:kamekame add 1xĐá lục bảo lydo: Nhặt từ map at 03/31/2023 12:35 PM
+BAG:kamekame add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/31/2023 12:35 PM
+BAG:kamekame add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/31/2023 12:36 PM
+BAG:kamekame add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/31/2023 12:37 PM
+BAG:kamekame add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/31/2023 12:41 PM
+BAG:kamekame add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/31/2023 12:41 PM
+BAG:kamekame add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/31/2023 12:42 PM
+BAG:kamekame add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/31/2023 12:42 PM
+BAG:kamekame add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/31/2023 12:46 PM
+BAG:kamekame add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/31/2023 12:47 PM
+BAG:kamekame add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/31/2023 12:47 PM
+BAG:kamekame add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/31/2023 12:47 PM
+BAG:kamekame add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/31/2023 12:47 PM
+BAG:kamekame add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/31/2023 12:54 PM
+BAG:kamekame add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/31/2023 12:54 PM
+BAG:kamekame add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/31/2023 12:55 PM
+BAG:kamekame add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/31/2023 1:00 PM
+BAG:kamekame add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/31/2023 1:00 PM
+BAG:kamekame add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/31/2023 1:01 PM
+BAG:kamekame add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/31/2023 1:01 PM
+BAG:kamekame add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/31/2023 1:02 PM
+BAG:kamekame add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/31/2023 1:02 PM
+BAG:kamekame add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/31/2023 1:02 PM
+BAG:kamekame add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/31/2023 1:02 PM
+BAG:kamekame add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/31/2023 1:02 PM
+BAG:kamekame add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/31/2023 1:07 PM
+BAG:kamekame add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/31/2023 1:11 PM
+BAG:kamekame add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/31/2023 1:11 PM
+BAG:kamekame add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/31/2023 1:13 PM
+BAG:kamekame add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/31/2023 1:20 PM
+BAG:kamekame add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/31/2023 1:21 PM
+BAG:kamekame add 1xMở rộng rương đồ lydo: Mua từ shop gold bar at 03/31/2023 1:25 PM
+BAG:kamekame add 1xMở rộng rương đồ lydo: Mua từ shop gold bar at 03/31/2023 1:25 PM
+BAG:kamekame add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/31/2023 1:25 PM
+BAG:kamekame add 1xCá heo lydo: Mua từ bill at 03/31/2023 1:25 PM
+BAG:kamekame add 1xNezuko lydo: Mua từ bill at 03/31/2023 1:26 PM
+BAG:kamekame add 1xGăng vải đen lydo: Nhặt từ map at 03/31/2023 1:30 PM
+BAG:kamekame add 1xMảnh Khủng long lydo: Nhặt từ map at 03/31/2023 1:30 PM
+BAG:kamekame add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/31/2023 1:30 PM
+BAG:kamekame add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/31/2023 1:30 PM
+BAG:kamekame add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/31/2023 1:31 PM
+BAG:kamekame add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/31/2023 1:31 PM
+BAG:kamekame add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/31/2023 1:31 PM
+BAG:kamekame add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/31/2023 1:31 PM
+BAG:kamekame add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/31/2023 1:31 PM
+BAG:kamekame add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/31/2023 1:32 PM
+BAG:kamekame add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/31/2023 1:32 PM
+BAG:kamekame add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/31/2023 1:33 PM
+BAG:kamekame add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/31/2023 1:34 PM
+BAG:kamekame add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/31/2023 1:34 PM
+BAG:kamekame add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/31/2023 1:34 PM
+BAG:kamekame add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/31/2023 1:34 PM
+BAG:kamekame add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/31/2023 1:34 PM
+BAG:kamekame add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/31/2023 1:35 PM
+BAG:kamekame add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/31/2023 1:35 PM
+BAG:kamekame add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/31/2023 1:35 PM
+BAG:kamekame add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/31/2023 1:35 PM
+BAG:kamekame add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/31/2023 1:36 PM
+BAG:kamekame add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/31/2023 1:36 PM
+BAG:kamekame add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/31/2023 1:36 PM
+BAG:kamekame add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/31/2023 1:37 PM
+BAG:kamekame add 1xQuần vải đen lydo: Nhặt từ map at 03/31/2023 1:37 PM
+BAG:kamekame add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/31/2023 1:37 PM
+BAG:kamekame add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/31/2023 1:38 PM
+BAG:kamekame add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/31/2023 1:38 PM
+BAG:kamekame add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/31/2023 1:38 PM
+BAG:kamekame add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/31/2023 1:38 PM
+BAG:kamekame add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/31/2023 1:39 PM
+BAG:kamekame add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/31/2023 1:39 PM
+BAG:kamekame add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/31/2023 1:39 PM
+BAG:kamekame add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/31/2023 1:39 PM
+BAG:kamekame add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/31/2023 1:39 PM
+BAG:kamekame add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/31/2023 1:39 PM
+BAG:kamekame add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/31/2023 1:39 PM
+BAG:kamekame add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/31/2023 1:39 PM
+BAG:kamekame add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/31/2023 1:40 PM
+BAG:kamekame add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/31/2023 1:40 PM
+BAG:kamekame add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/31/2023 1:40 PM
+BAG:kamekame add 27xMảnh Khủng long (old: 26) lydo: Nhặt từ map at 03/31/2023 1:40 PM
+BAG:kamekame add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/31/2023 1:41 PM
+BAG:kamekame add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/31/2023 1:41 PM
+BAG:kamekame add 28xMảnh Khủng long (old: 27) lydo: Nhặt từ map at 03/31/2023 1:41 PM
+BAG:kamekame add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 1:41 PM
+BAG:kamekame add 1xGăng vải đen lydo: Nhặt từ map at 03/31/2023 1:42 PM
+BAG:kamekame add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/31/2023 1:42 PM
+BAG:kamekame add 29xMảnh Khủng long (old: 28) lydo: Nhặt từ map at 03/31/2023 1:42 PM
+BAG:kamekame add 30xMảnh Khủng long (old: 29) lydo: Nhặt từ map at 03/31/2023 1:42 PM
+BAG:kamekame add 31xMảnh Khủng long (old: 30) lydo: Nhặt từ map at 03/31/2023 1:43 PM
+BAG:kamekame add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/31/2023 1:43 PM
+BAG:kamekame add 1xRada cấp 1 lydo: Nhặt từ map at 03/31/2023 1:43 PM
+BAG:kamekame add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 1:44 PM
+BAG:kamekame add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/31/2023 1:44 PM
+BAG:kamekame add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/31/2023 1:44 PM
+BAG:kamekame add 32xMảnh Khủng long (old: 31) lydo: Nhặt từ map at 03/31/2023 1:45 PM
+BAG:kamekame add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/31/2023 1:45 PM
+BAG:kamekame add 33xMảnh Khủng long (old: 32) lydo: Nhặt từ map at 03/31/2023 1:45 PM
+BAG:kamekame add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 1:46 PM
+BAG:kamekame add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 1:47 PM
+BAG:kamekame add 34xMảnh Khủng long (old: 33) lydo: Nhặt từ map at 03/31/2023 1:47 PM
+BAG:kamekame add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/31/2023 1:47 PM
+BAG:kamekame add 35xMảnh Khủng long (old: 34) lydo: Nhặt từ map at 03/31/2023 1:47 PM
+BAG:kamekame add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/31/2023 1:47 PM
+BAG:kamekame add 1xRada cấp 1 lydo: Nhặt từ map at 03/31/2023 1:47 PM
+BAG:kamekame add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/31/2023 1:47 PM
+BAG:kamekame add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/31/2023 1:48 PM
+BAG:kamekame add 36xMảnh Khủng long (old: 35) lydo: Nhặt từ map at 03/31/2023 1:48 PM
+BAG:kamekame add 37xMảnh Khủng long (old: 36) lydo: Nhặt từ map at 03/31/2023 1:48 PM
+BAG:kamekame add 38xMảnh Khủng long (old: 37) lydo: Nhặt từ map at 03/31/2023 1:48 PM
+BAG:kamekame add 1xRada cấp 1 lydo: Nhặt từ map at 03/31/2023 1:49 PM
+BAG:kamekame add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/31/2023 1:49 PM
+BAG:kamekame add 39xMảnh Khủng long (old: 38) lydo: Nhặt từ map at 03/31/2023 1:50 PM
+BAG:kamekame add 1xRada cấp 1 lydo: Nhặt từ map at 03/31/2023 1:50 PM
+BAG:kamekame add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/31/2023 1:50 PM
+BAG:kamekame add 1xQuần vải đen lydo: Nhặt từ map at 03/31/2023 1:50 PM
+BAG:kamekame add 40xMảnh Khủng long (old: 39) lydo: Nhặt từ map at 03/31/2023 1:50 PM
+BAG:kamekame add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/31/2023 1:50 PM
+BAG:kamekame add 1xGăng vải đen lydo: Nhặt từ map at 03/31/2023 1:50 PM
+BAG:kamekame add 41xMảnh Khủng long (old: 40) lydo: Nhặt từ map at 03/31/2023 1:50 PM
+BAG:kamekame add 42xMảnh Khủng long (old: 41) lydo: Nhặt từ map at 03/31/2023 1:50 PM
+BAG:kamekame add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/31/2023 1:51 PM
+BAG:kamekame add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 1:51 PM
+BAG:kamekame add 43xMảnh Khủng long (old: 42) lydo: Nhặt từ map at 03/31/2023 1:51 PM
+BAG:kamekame add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 1:51 PM
+BAG:kamekame add 44xMảnh Khủng long (old: 43) lydo: Nhặt từ map at 03/31/2023 1:51 PM
+BAG:kamekame add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/31/2023 1:51 PM
+BAG:kamekame add 45xMảnh Khủng long (old: 44) lydo: Nhặt từ map at 03/31/2023 1:52 PM
+BAG:kamekame add 46xMảnh Khủng long (old: 45) lydo: Nhặt từ map at 03/31/2023 1:52 PM
+BAG:kamekame add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 1:53 PM
+BAG:kamekame add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/31/2023 1:53 PM
+BAG:kamekame add 47xMảnh Khủng long (old: 46) lydo: Nhặt từ map at 03/31/2023 1:53 PM
+BAG:kamekame add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/31/2023 1:53 PM
+BAG:kamekame add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/31/2023 1:53 PM
+BAG:kamekame add 48xMảnh Khủng long (old: 47) lydo: Nhặt từ map at 03/31/2023 1:53 PM
+BAG:kamekame add 49xMảnh Khủng long (old: 48) lydo: Nhặt từ map at 03/31/2023 1:53 PM
+BAG:kamekame add 1xGăng vải đen lydo: Nhặt từ map at 03/31/2023 1:54 PM
+BAG:kamekame add 50xMảnh Khủng long (old: 49) lydo: Nhặt từ map at 03/31/2023 1:54 PM
+BAG:kamekame add 51xMảnh Khủng long (old: 50) lydo: Nhặt từ map at 03/31/2023 1:54 PM
+BAG:kamekame add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/31/2023 1:54 PM
+BAG:kamekame add 52xMảnh Khủng long (old: 51) lydo: Nhặt từ map at 03/31/2023 1:55 PM
+BAG:kamekame add 53xMảnh Khủng long (old: 52) lydo: Nhặt từ map at 03/31/2023 1:56 PM
+BAG:kamekame add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/31/2023 1:56 PM
+BAG:kamekame add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/31/2023 1:56 PM
+BAG:kamekame add 54xMảnh Khủng long (old: 53) lydo: Nhặt từ map at 03/31/2023 1:57 PM
+BAG:kamekame add 55xMảnh Khủng long (old: 54) lydo: Nhặt từ map at 03/31/2023 1:57 PM
+BAG:kamekame add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/31/2023 1:57 PM
+BAG:kamekame add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/31/2023 1:58 PM
+BAG:kamekame add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 1:58 PM
+BAG:kamekame add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 1:58 PM
+BAG:kamekame add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 1:59 PM
+BAG:kamekame add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/31/2023 2:00 PM
+BAG:kamekame add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/31/2023 2:01 PM
+BAG:kamekame add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/31/2023 2:02 PM
+BAG:kamekame add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xQuả cầu Kênh Khi lv2 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xQuả cầu Kênh Khi lv3 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xQuả cầu Kênh Khi lv4 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xQuả cầu Kênh Khi lv5 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xQuả cầu Kênh Khi lv6 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xQuả cầu Kênh Khi lv7 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/31/2023 2:03 PM
+BAG:kamekame add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/31/2023 2:04 PM
+BAG:kamekame add 1xĐá Hắc Hóa lydo: Mua santa at 03/31/2023 2:04 PM
+BAG:kamekame add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/31/2023 2:04 PM
+BAG:kamekame add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/31/2023 2:04 PM
+BAG:kamekame add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/31/2023 2:04 PM
+BAG:kamekame add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/31/2023 2:04 PM
+BAG:kamekame add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/31/2023 2:04 PM
+BAG:kamekame add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/31/2023 2:04 PM
+BAG:kamekame add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/31/2023 2:05 PM
+BAG:kamekame add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/31/2023 2:06 PM
+BAG:kamekame add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 40xĐá Vĩnh Hằng (old: 39) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 40xĐá Hắc Hóa (old: 39) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 41xĐá Vĩnh Hằng (old: 40) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 41xĐá Hắc Hóa (old: 40) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 42xĐá Vĩnh Hằng (old: 41) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 42xĐá Hắc Hóa (old: 41) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 43xĐá Vĩnh Hằng (old: 42) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 43xĐá Hắc Hóa (old: 42) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 44xĐá Vĩnh Hằng (old: 43) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 44xĐá Hắc Hóa (old: 43) lydo: Mua santa at 03/31/2023 2:07 PM
+BAG:kamekame add 45xĐá Vĩnh Hằng (old: 44) lydo: Mua santa at 03/31/2023 2:08 PM
+BAG:kamekame add 45xĐá Hắc Hóa (old: 44) lydo: Mua santa at 03/31/2023 2:08 PM
+BAG:kamekame add 46xĐá Vĩnh Hằng (old: 45) lydo: Mua santa at 03/31/2023 2:08 PM
+BAG:kamekame add 46xĐá Hắc Hóa (old: 45) lydo: Mua santa at 03/31/2023 2:08 PM
+BAG:kamekame add 47xĐá Vĩnh Hằng (old: 46) lydo: Mua santa at 03/31/2023 2:08 PM
+BAG:kamekame add 47xĐá Hắc Hóa (old: 46) lydo: Mua santa at 03/31/2023 2:08 PM
+BAG:kamekame add 48xĐá Vĩnh Hằng (old: 47) lydo: Mua santa at 03/31/2023 2:08 PM
+BAG:kamekame add 48xĐá Hắc Hóa (old: 47) lydo: Mua santa at 03/31/2023 2:08 PM
+BAG:kamekame add 49xĐá Vĩnh Hằng (old: 48) lydo: Mua santa at 03/31/2023 2:08 PM
+BAG:kamekame add 49xĐá Hắc Hóa (old: 48) lydo: Mua santa at 03/31/2023 2:08 PM
+BAG:kamekame add 50xĐá Vĩnh Hằng (old: 49) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 50xĐá Hắc Hóa (old: 49) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 51xĐá Vĩnh Hằng (old: 50) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 51xĐá Hắc Hóa (old: 50) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 52xĐá Vĩnh Hằng (old: 51) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 52xĐá Hắc Hóa (old: 51) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 53xĐá Vĩnh Hằng (old: 52) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 53xĐá Hắc Hóa (old: 52) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 54xĐá Vĩnh Hằng (old: 53) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 54xĐá Hắc Hóa (old: 53) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 55xĐá Vĩnh Hằng (old: 54) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 55xĐá Hắc Hóa (old: 54) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 56xĐá Vĩnh Hằng (old: 55) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 56xĐá Hắc Hóa (old: 55) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 57xĐá Vĩnh Hằng (old: 56) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 57xĐá Hắc Hóa (old: 56) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 58xĐá Vĩnh Hằng (old: 57) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 58xĐá Hắc Hóa (old: 57) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 59xĐá Vĩnh Hằng (old: 58) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 59xĐá Hắc Hóa (old: 58) lydo: Mua santa at 03/31/2023 2:09 PM
+BAG:kamekame add 60xĐá Vĩnh Hằng (old: 59) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 60xĐá Hắc Hóa (old: 59) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 61xĐá Vĩnh Hằng (old: 60) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 61xĐá Hắc Hóa (old: 60) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 62xĐá Vĩnh Hằng (old: 61) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 62xĐá Hắc Hóa (old: 61) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 63xĐá Vĩnh Hằng (old: 62) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 63xĐá Hắc Hóa (old: 62) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 64xĐá Vĩnh Hằng (old: 63) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 64xĐá Hắc Hóa (old: 63) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 65xĐá Vĩnh Hằng (old: 64) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 65xĐá Hắc Hóa (old: 64) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 66xĐá Vĩnh Hằng (old: 65) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 66xĐá Hắc Hóa (old: 65) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 67xĐá Vĩnh Hằng (old: 66) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 67xĐá Hắc Hóa (old: 66) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 68xĐá Vĩnh Hằng (old: 67) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 68xĐá Hắc Hóa (old: 67) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 69xĐá Vĩnh Hằng (old: 68) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 69xĐá Hắc Hóa (old: 68) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 70xĐá Vĩnh Hằng (old: 69) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 70xĐá Hắc Hóa (old: 69) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 71xĐá Vĩnh Hằng (old: 70) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 71xĐá Hắc Hóa (old: 70) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 72xĐá Vĩnh Hằng (old: 71) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 72xĐá Hắc Hóa (old: 71) lydo: Mua santa at 03/31/2023 2:10 PM
+BAG:kamekame add 73xĐá Vĩnh Hằng (old: 72) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 73xĐá Hắc Hóa (old: 72) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 74xĐá Vĩnh Hằng (old: 73) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 74xĐá Hắc Hóa (old: 73) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 75xĐá Vĩnh Hằng (old: 74) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 75xĐá Hắc Hóa (old: 74) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 76xĐá Vĩnh Hằng (old: 75) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 76xĐá Hắc Hóa (old: 75) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 77xĐá Vĩnh Hằng (old: 76) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 77xĐá Hắc Hóa (old: 76) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 78xĐá Vĩnh Hằng (old: 77) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 78xĐá Hắc Hóa (old: 77) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 79xĐá Vĩnh Hằng (old: 78) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 79xĐá Hắc Hóa (old: 78) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 80xĐá Vĩnh Hằng (old: 79) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 80xĐá Hắc Hóa (old: 79) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 81xĐá Vĩnh Hằng (old: 80) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 81xĐá Hắc Hóa (old: 80) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 82xĐá Vĩnh Hằng (old: 81) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 82xĐá Hắc Hóa (old: 81) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 83xĐá Vĩnh Hằng (old: 82) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 83xĐá Hắc Hóa (old: 82) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 84xĐá Vĩnh Hằng (old: 83) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 84xĐá Hắc Hóa (old: 83) lydo: Mua santa at 03/31/2023 2:11 PM
+BAG:kamekame add 85xĐá Vĩnh Hằng (old: 84) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 85xĐá Hắc Hóa (old: 84) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 86xĐá Vĩnh Hằng (old: 85) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 86xĐá Hắc Hóa (old: 85) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 87xĐá Vĩnh Hằng (old: 86) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 87xĐá Hắc Hóa (old: 86) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 88xĐá Vĩnh Hằng (old: 87) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 88xĐá Hắc Hóa (old: 87) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 89xĐá Vĩnh Hằng (old: 88) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 89xĐá Hắc Hóa (old: 88) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 90xĐá Vĩnh Hằng (old: 89) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 90xĐá Hắc Hóa (old: 89) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 91xĐá Vĩnh Hằng (old: 90) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 91xĐá Hắc Hóa (old: 90) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 92xĐá Vĩnh Hằng (old: 91) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 92xĐá Hắc Hóa (old: 91) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 93xĐá Vĩnh Hằng (old: 92) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 93xĐá Hắc Hóa (old: 92) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 94xĐá Vĩnh Hằng (old: 93) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 94xĐá Hắc Hóa (old: 93) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 95xĐá Vĩnh Hằng (old: 94) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 95xĐá Hắc Hóa (old: 94) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 96xĐá Vĩnh Hằng (old: 95) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 96xĐá Hắc Hóa (old: 95) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 97xĐá Vĩnh Hằng (old: 96) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 97xĐá Hắc Hóa (old: 96) lydo: Mua santa at 03/31/2023 2:12 PM
+BAG:kamekame add 98xĐá Vĩnh Hằng (old: 97) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 98xĐá Hắc Hóa (old: 97) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 99xĐá Vĩnh Hằng (old: 98) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 99xĐá Hắc Hóa (old: 98) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 1xĐá Hắc Hóa lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/31/2023 2:13 PM
+BAG:kamekame add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/31/2023 2:14 PM
+BAG:kamekame add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/31/2023 2:15 PM
+BAG:kamekame add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/31/2023 2:16 PM
+BAG:kamekame add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/31/2023 2:16 PM
+BAG:kamekame add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/31/2023 2:16 PM
+BAG:kamekame add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/31/2023 2:16 PM
+BAG:kamekame add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/31/2023 2:16 PM
+BAG:kamekame add 1xÁo jean Calic lydo: Cường Hóa trang bị at 03/31/2023 2:17 PM
+BAG:kamekame add 1xQuần jean Calic lydo: Cường Hóa trang bị at 03/31/2023 2:17 PM
+BAG:kamekame add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/31/2023 2:17 PM
+BAG:kamekame add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/31/2023 2:17 PM
+BAG:kamekame add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/31/2023 2:17 PM
+BAG:kamekame add 1xÁo Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:17 PM
+BAG:kamekame add 1xQuần Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:17 PM
+BAG:kamekame add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:17 PM
+BAG:kamekame add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:18 PM
+BAG:kamekame add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:18 PM
+BAG:kamekame add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:18 PM
+BAG:kamekame add 1xQuần Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:18 PM
+BAG:kamekame add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:18 PM
+BAG:kamekame add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:18 PM
+BAG:kamekame add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:18 PM
+BAG:kamekame add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/31/2023 2:19 PM
+BAG:kamekame add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/31/2023 2:19 PM
+BAG:kamekame add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/31/2023 2:19 PM
+BAG:kamekame add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/31/2023 2:19 PM
+BAG:kamekame add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/31/2023 2:19 PM
+BAG:kamekame add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/31/2023 2:19 PM
+BAG:kamekame add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/31/2023 2:19 PM
+BAG:kamekame add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/31/2023 2:19 PM
+BAG:kamekame add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 03/31/2023 2:23 PM
+BAG:kamekame add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/31/2023 2:24 PM
+BAG:kamekame add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/31/2023 2:24 PM
+BAG:kamekame add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/31/2023 2:24 PM
+BAG:kamekame add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/31/2023 2:24 PM
+BAG:kamekame add 1xQuần jean Calic lydo: Cường Hóa trang bị at 03/31/2023 2:25 PM
+BAG:kamekame add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/31/2023 2:25 PM
+BAG:kamekame add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/31/2023 2:25 PM
+BAG:kamekame add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/31/2023 2:25 PM
+BAG:kamekame add 1xQuần Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:26 PM
+BAG:kamekame add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:26 PM
+BAG:kamekame add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/31/2023 2:26 PM
+BAG:kamekame add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/31/2023 2:26 PM
+BAG:kamekame add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/31/2023 2:27 PM
+BAG:kamekame add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/31/2023 2:27 PM
+BAG:kamekame add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/31/2023 2:27 PM
+BAG:kamekame add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/31/2023 2:27 PM
+BAG:kamekame add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/31/2023 2:27 PM
+BAG:kamekame add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/31/2023 2:27 PM
+BAG:kamekame add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/31/2023 2:28 PM
+BAG:kamekame add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/31/2023 2:28 PM
+BAG:kamekame add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/31/2023 2:28 PM
+BAG:kamekame add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/31/2023 2:28 PM
+BAG:kamekame add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/31/2023 2:28 PM
+BAG:kamekame add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/31/2023 2:28 PM
+BAG:kamekame add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/31/2023 2:28 PM
+BAG:kamekame add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/31/2023 2:28 PM
+BAG:kamekame add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/31/2023 2:30 PM
+BAG:kamekame add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/31/2023 2:31 PM
+BAG:kamekame add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 03/31/2023 2:32 PM
+BAG:kamekame add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 40xĐá Vĩnh Hằng (old: 39) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 40xĐá Hắc Hóa (old: 39) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 41xĐá Vĩnh Hằng (old: 40) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 41xĐá Hắc Hóa (old: 40) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 42xĐá Vĩnh Hằng (old: 41) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 42xĐá Hắc Hóa (old: 41) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 43xĐá Vĩnh Hằng (old: 42) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 43xĐá Hắc Hóa (old: 42) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 44xĐá Vĩnh Hằng (old: 43) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 44xĐá Hắc Hóa (old: 43) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 45xĐá Vĩnh Hằng (old: 44) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 45xĐá Hắc Hóa (old: 44) lydo: Mua santa at 03/31/2023 2:33 PM
+BAG:kamekame add 46xĐá Vĩnh Hằng (old: 45) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 46xĐá Hắc Hóa (old: 45) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 47xĐá Vĩnh Hằng (old: 46) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 47xĐá Hắc Hóa (old: 46) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 48xĐá Vĩnh Hằng (old: 47) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 48xĐá Hắc Hóa (old: 47) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 49xĐá Vĩnh Hằng (old: 48) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 49xĐá Hắc Hóa (old: 48) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 50xĐá Vĩnh Hằng (old: 49) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 50xĐá Hắc Hóa (old: 49) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 51xĐá Vĩnh Hằng (old: 50) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 51xĐá Hắc Hóa (old: 50) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 52xĐá Vĩnh Hằng (old: 51) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 52xĐá Hắc Hóa (old: 51) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 53xĐá Vĩnh Hằng (old: 52) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 53xĐá Hắc Hóa (old: 52) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 54xĐá Vĩnh Hằng (old: 53) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 54xĐá Hắc Hóa (old: 53) lydo: Mua santa at 03/31/2023 2:34 PM
+BAG:kamekame add 55xĐá Vĩnh Hằng (old: 54) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 55xĐá Hắc Hóa (old: 54) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 56xĐá Vĩnh Hằng (old: 55) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 56xĐá Hắc Hóa (old: 55) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 57xĐá Vĩnh Hằng (old: 56) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 57xĐá Hắc Hóa (old: 56) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 58xĐá Vĩnh Hằng (old: 57) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 58xĐá Hắc Hóa (old: 57) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 59xĐá Vĩnh Hằng (old: 58) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 59xĐá Hắc Hóa (old: 58) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 60xĐá Vĩnh Hằng (old: 59) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 60xĐá Hắc Hóa (old: 59) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 61xĐá Vĩnh Hằng (old: 60) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 61xĐá Hắc Hóa (old: 60) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 62xĐá Vĩnh Hằng (old: 61) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 62xĐá Hắc Hóa (old: 61) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 63xĐá Vĩnh Hằng (old: 62) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 63xĐá Hắc Hóa (old: 62) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 64xĐá Vĩnh Hằng (old: 63) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 64xĐá Hắc Hóa (old: 63) lydo: Mua santa at 03/31/2023 2:35 PM
+BAG:kamekame add 65xĐá Vĩnh Hằng (old: 64) lydo: Mua santa at 03/31/2023 2:36 PM
+BAG:kamekame add 65xĐá Hắc Hóa (old: 64) lydo: Mua santa at 03/31/2023 2:36 PM
+BAG:kamekame add 66xĐá Vĩnh Hằng (old: 65) lydo: Mua santa at 03/31/2023 2:36 PM
+BAG:kamekame add 66xĐá Hắc Hóa (old: 65) lydo: Mua santa at 03/31/2023 2:36 PM
+BAG:kamekame add 67xĐá Vĩnh Hằng (old: 66) lydo: Mua santa at 03/31/2023 2:36 PM
+BAG:kamekame add 67xĐá Hắc Hóa (old: 66) lydo: Mua santa at 03/31/2023 2:36 PM
+BAG:kamekame add 68xĐá Vĩnh Hằng (old: 67) lydo: Mua santa at 03/31/2023 2:36 PM
+BAG:kamekame add 68xĐá Hắc Hóa (old: 67) lydo: Mua santa at 03/31/2023 2:36 PM
+BAG:kamekame add 1xQuần Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:37 PM
+BAG:kamekame add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:37 PM
+BAG:kamekame add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:37 PM
+BAG:kamekame add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:37 PM
+BAG:kamekame add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:38 PM
+BAG:kamekame add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:38 PM
+BAG:kamekame add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/31/2023 2:39 PM
+BAG:kamekame add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/31/2023 2:39 PM
+BAG:kamekame add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/31/2023 2:39 PM
+BAG:kamekame add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/31/2023 2:39 PM
+BAG:kamekame add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:40 PM
+BAG:kamekame add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:40 PM
+BAG:kamekame add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/31/2023 2:40 PM
+BAG:kamekame add 1xĐá Hắc Hóa lydo: Mua santa at 03/31/2023 2:40 PM
+BAG:kamekame add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/31/2023 2:40 PM
+BAG:kamekame add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/31/2023 2:40 PM
+BAG:kamekame add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/31/2023 2:40 PM
+BAG:kamekame add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/31/2023 2:40 PM
+BAG:kamekame add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/31/2023 2:41 PM
+BAG:kamekame add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/31/2023 2:42 PM
+BAG:kamekame add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:42 PM
+BAG:kamekame add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:42 PM
+BAG:kamekame add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/31/2023 2:43 PM
+BAG:kamekame add 1xĐá Hắc Hóa lydo: Mua santa at 03/31/2023 2:43 PM
+BAG:kamekame add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/31/2023 2:43 PM
+BAG:kamekame add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/31/2023 2:43 PM
+BAG:kamekame add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/31/2023 2:43 PM
+BAG:kamekame add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/31/2023 2:43 PM
+BAG:kamekame add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/31/2023 2:43 PM
+BAG:kamekame add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/31/2023 2:43 PM
+BAG:kamekame add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/31/2023 2:44 PM
+BAG:kamekame add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/31/2023 2:45 PM
+BAG:kamekame add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/31/2023 2:46 PM
+BAG:kamekame add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/31/2023 2:47 PM
+BAG:kamekame add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/31/2023 2:47 PM
+BAG:kamekame add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:47 PM
+BAG:kamekame add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:47 PM
+BAG:kamekame add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/31/2023 2:48 PM
+BAG:kamekame add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/31/2023 2:49 PM
+BAG:kamekame add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/31/2023 2:50 PM
+BAG:kamekame add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/31/2023 2:50 PM
+BAG:kamekame add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/31/2023 2:51 PM
+BAG:kamekame add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/31/2023 2:51 PM
+BAG:kamekame add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/31/2023 2:51 PM

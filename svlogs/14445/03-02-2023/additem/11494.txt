@@ -1,0 +1,236 @@
+BAG:nmsdkk add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/02/2023 7:31 PM
+BAG:nmsdkk add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/02/2023 7:35 PM
+BAG:nmsdkk add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 03/02/2023 7:35 PM
+BAG:nmsdkk add 1xHồn ma Pôcôlô lydo: Mua từ cửa hàng at 03/02/2023 7:35 PM
+BAG:nmsdkk add 20xThỏi vàng lydo: Đổi vàng at 03/02/2023 7:35 PM
+BAG:nmsdkk add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 7:36 PM
+BAG:nmsdkk add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 7:36 PM
+BAG:nmsdkk add 1000020xThỏi vàng (old: 20) lydo: Giftcode at 03/02/2023 7:36 PM
+BAG:nmsdkk add 10000xĐá ngũ sắc lydo: Giftcode at 03/02/2023 7:36 PM
+BAG:nmsdkk add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 7:38 PM
+BAG:nmsdkk add 1xÁo sợi len lydo: Nhặt từ map at 03/02/2023 7:38 PM
+BAG:nmsdkk add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 7:39 PM
+BAG:nmsdkk add 1xCải trang lydo: Mua từ bill at 03/02/2023 7:40 PM
+BAG:nmsdkk add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/02/2023 7:40 PM
+BAG:nmsdkk add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 7:42 PM
+BAG:nmsdkk add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 7:42 PM
+BAG:nmsdkk add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 7:42 PM
+BAG:nmsdkk add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 7:42 PM
+BAG:nmsdkk add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 7:42 PM
+BAG:nmsdkk add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 7:42 PM
+BAG:nmsdkk add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 7:42 PM
+BAG:nmsdkk add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 7:42 PM
+BAG:nmsdkk add 1002020xThỏi vàng (old: 1000020) lydo: Đổi vàng at 03/02/2023 7:42 PM
+BAG:nmsdkk add 1xBột mì lydo: Nhặt từ map at 03/02/2023 7:43 PM
+BAG:nmsdkk add 1xCột nhà lydo: Mua từ cửa hàng at 03/02/2023 7:44 PM
+BAG:nmsdkk add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/02/2023 7:44 PM
+BAG:nmsdkk add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/02/2023 7:45 PM
+BAG:nmsdkk add 20xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 7:45 PM
+BAG:nmsdkk add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/02/2023 7:46 PM
+BAG:nmsdkk add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 7:47 PM
+BAG:nmsdkk add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 7:47 PM
+BAG:nmsdkk add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 7:47 PM
+BAG:nmsdkk add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 7:47 PM
+BAG:nmsdkk add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 7:48 PM
+BAG:nmsdkk add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 7:48 PM
+BAG:nmsdkk add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:nmsdkk add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:nmsdkk add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:nmsdkk add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 7:49 PM
+BAG:nmsdkk add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/02/2023 7:50 PM
+BAG:nmsdkk add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/02/2023 7:52 PM
+BAG:nmsdkk add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/02/2023 7:54 PM
+BAG:nmsdkk add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/02/2023 7:57 PM
+BAG:nmsdkk add 1xÁo sợi len lydo: Nhặt từ map at 03/02/2023 8:00 PM
+BAG:nmsdkk add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:nmsdkk add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:nmsdkk add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:nmsdkk add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:nmsdkk add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:nmsdkk add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 8:01 PM
+BAG:nmsdkk add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 8:02 PM
+BAG:nmsdkk add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 8:02 PM
+BAG:nmsdkk add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/02/2023 8:02 PM
+BAG:nmsdkk add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/02/2023 8:02 PM
+BAG:nmsdkk add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/02/2023 8:02 PM
+BAG:nmsdkk add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/02/2023 8:03 PM
+BAG:nmsdkk add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/02/2023 8:03 PM
+BAG:nmsdkk add 1xGăng sợi len lydo: Nhặt từ map at 03/02/2023 8:03 PM
+BAG:nmsdkk add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/02/2023 8:03 PM
+BAG:nmsdkk add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/02/2023 8:03 PM
+BAG:nmsdkk add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/02/2023 8:03 PM
+BAG:nmsdkk add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/02/2023 8:03 PM
+BAG:nmsdkk add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/02/2023 8:03 PM
+BAG:nmsdkk add 1xQuần sợi len lydo: Nhặt từ map at 03/02/2023 8:04 PM
+BAG:nmsdkk add 1xGiầy sợi len lydo: Nhặt từ map at 03/02/2023 8:04 PM
+BAG:nmsdkk add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/02/2023 8:05 PM
+BAG:nmsdkk add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/02/2023 8:05 PM
+BAG:nmsdkk add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/02/2023 8:05 PM
+BAG:nmsdkk add 10xĐậu thần cấp 2 (old: 7) lydo: Thu hoạch đậu at 03/02/2023 8:05 PM
+BAG:nmsdkk add 21xĐậu thần cấp 2 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 8:06 PM
+BAG:nmsdkk add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/02/2023 8:06 PM
+BAG:nmsdkk add 1xGiầy sợi len lydo: Nhặt từ map at 03/02/2023 8:06 PM
+BAG:nmsdkk add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/02/2023 8:07 PM
+BAG:nmsdkk add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/02/2023 8:07 PM
+BAG:nmsdkk add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/02/2023 8:07 PM
+BAG:nmsdkk add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/02/2023 8:07 PM
+BAG:nmsdkk add 1xGiầy sợi len lydo: Nhặt từ map at 03/02/2023 8:07 PM
+BAG:nmsdkk add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/02/2023 8:07 PM
+BAG:nmsdkk add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/02/2023 8:08 PM
+BAG:nmsdkk add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/02/2023 8:08 PM
+BAG:nmsdkk add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/02/2023 8:09 PM
+BAG:nmsdkk add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/02/2023 8:14 PM
+BAG:nmsdkk add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/02/2023 8:14 PM
+BAG:nmsdkk add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/02/2023 8:18 PM
+BAG:nmsdkk add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/02/2023 8:18 PM
+BAG:nmsdkk add 1xQuần sợi len lydo: Nhặt từ map at 03/02/2023 8:18 PM
+BAG:nmsdkk add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/02/2023 8:18 PM
+BAG:nmsdkk add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/02/2023 8:18 PM
+BAG:nmsdkk add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/02/2023 8:18 PM
+BAG:nmsdkk add 1xQuần sợi len lydo: Nhặt từ map at 03/02/2023 8:18 PM
+BAG:nmsdkk add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/02/2023 8:18 PM
+BAG:nmsdkk add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/02/2023 8:19 PM
+BAG:nmsdkk add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/02/2023 8:19 PM
+BAG:nmsdkk add 1xLồng đèn cá chép lydo: CSTT at 03/02/2023 8:19 PM
+BAG:nmsdkk add 1xGiầy sợi len lydo: Nhặt từ map at 03/02/2023 8:20 PM
+BAG:nmsdkk add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 8:20 PM
+BAG:nmsdkk add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 8:20 PM
+BAG:nmsdkk add 1xÁo sợi len lydo: Nhặt từ map at 03/02/2023 8:20 PM
+BAG:nmsdkk add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/02/2023 8:20 PM
+BAG:nmsdkk add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/02/2023 8:36 PM
+BAG:nmsdkk add 1xĐá Saphia lydo: Nhặt từ map at 03/02/2023 8:37 PM
+BAG:nmsdkk add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/02/2023 8:37 PM
+BAG:nmsdkk add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 8:37 PM
+BAG:nmsdkk add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 8:38 PM
+BAG:nmsdkk add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 8:38 PM
+BAG:nmsdkk add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/02/2023 8:38 PM
+BAG:nmsdkk add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/02/2023 8:38 PM
+BAG:nmsdkk add 1xQuần sợi len lydo: Nhặt từ map at 03/02/2023 8:39 PM
+BAG:nmsdkk add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/02/2023 8:39 PM
+BAG:nmsdkk add 1xQuần sợi len lydo: Nhặt từ map at 03/02/2023 8:39 PM
+BAG:nmsdkk add 1xÁo sợi len lydo: Nhặt từ map at 03/02/2023 8:39 PM
+BAG:nmsdkk add 1xGiầy sợi len lydo: Nhặt từ map at 03/02/2023 8:40 PM
+BAG:nmsdkk add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 8:40 PM
+BAG:nmsdkk add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/02/2023 8:40 PM
+BAG:nmsdkk add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 8:40 PM
+BAG:nmsdkk add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/02/2023 8:40 PM
+BAG:nmsdkk add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/02/2023 8:40 PM
+BAG:nmsdkk add 1xÁo sợi len lydo: Nhặt từ map at 03/02/2023 8:40 PM
+BAG:nmsdkk add 1xÁo sợi len lydo: Nhặt từ map at 03/02/2023 8:41 PM
+BAG:nmsdkk add 1xGiầy sợi len lydo: Nhặt từ map at 03/02/2023 8:41 PM
+BAG:nmsdkk add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/02/2023 8:41 PM
+BAG:nmsdkk add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/02/2023 8:41 PM
+BAG:nmsdkk add 1xÁo sợi len lydo: Nhặt từ map at 03/02/2023 8:41 PM
+BAG:nmsdkk add 1xÁo sợi len lydo: Nhặt từ map at 03/02/2023 8:41 PM
+BAG:nmsdkk add 1xGăng sợi len lydo: Nhặt từ map at 03/02/2023 8:42 PM
+BAG:nmsdkk add 1xGăng sợi len lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:nmsdkk add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:nmsdkk add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:nmsdkk add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:nmsdkk add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 8:51 PM
+BAG:nmsdkk add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/02/2023 8:51 PM
+BAG:nmsdkk add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/02/2023 8:52 PM
+BAG:nmsdkk add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/02/2023 8:55 PM
+BAG:nmsdkk add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:nmsdkk add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/02/2023 9:04 PM
+BAG:nmsdkk add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:nmsdkk add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:nmsdkk add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:nmsdkk add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/02/2023 9:07 PM
+BAG:nmsdkk add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/02/2023 9:08 PM
+BAG:nmsdkk add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/02/2023 9:08 PM
+BAG:nmsdkk add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/02/2023 9:09 PM
+BAG:nmsdkk add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/02/2023 9:09 PM
+BAG:nmsdkk add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/02/2023 9:09 PM
+BAG:nmsdkk add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/02/2023 9:10 PM
+BAG:nmsdkk add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/02/2023 9:12 PM
+BAG:nmsdkk add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/02/2023 9:12 PM
+BAG:nmsdkk add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/02/2023 9:13 PM
+BAG:nmsdkk add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/02/2023 9:13 PM
+BAG:nmsdkk add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:nmsdkk add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:nmsdkk add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:nmsdkk add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:nmsdkk add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:nmsdkk add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:nmsdkk add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:nmsdkk add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:nmsdkk add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:nmsdkk add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:nmsdkk add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:nmsdkk add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:nmsdkk add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:nmsdkk add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/02/2023 9:22 PM
+BAG:nmsdkk add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/02/2023 9:22 PM
+BAG:nmsdkk add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 9:25 PM
+BAG:nmsdkk add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 9:25 PM
+BAG:nmsdkk add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 9:25 PM
+BAG:nmsdkk add 99xThỏi vàng lydo: Tách thỏi vàng at 03/02/2023 9:26 PM
+BAG:nmsdkk add 99xThỏi vàng lydo: Tách thỏi vàng at 03/02/2023 9:26 PM
+BAG:nmsdkk add 1xÁo sắt Tron lydo: Cường Hóa trang bị at 03/02/2023 9:27 PM
+BAG:nmsdkk add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 9:27 PM
+BAG:nmsdkk add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 9:27 PM
+BAG:nmsdkk add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 9:27 PM
+BAG:nmsdkk add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 9:27 PM
+BAG:nmsdkk add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 9:28 PM
+BAG:nmsdkk add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 9:29 PM
+BAG:nmsdkk add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 9:30 PM
+BAG:nmsdkk add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/02/2023 9:31 PM
+BAG:nmsdkk add 1xCải Trang Thần Zeno Namec lydo: Lấy từ body vào hành trang at 03/02/2023 9:32 PM
+BAG:nmsdkk add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 9:33 PM
+BAG:nmsdkk add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 9:37 PM
+BAG:nmsdkk add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 9:39 PM
+BAG:nmsdkk add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/02/2023 10:18 PM
+BAG:nmsdkk add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/02/2023 10:19 PM
+BAG:nmsdkk add 7xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/02/2023 10:22 PM
+BAG:nmsdkk add 27xĐậu thần cấp 10 (old: 7) lydo: Lấy từ rương qua người at 03/02/2023 10:23 PM
+BAG:nmsdkk add 46xĐậu thần cấp 10 (old: 27) lydo: Lấy từ rương qua người at 03/02/2023 10:23 PM
+BAG:nmsdkk add 66xĐậu thần cấp 10 (old: 46) lydo: Lấy từ rương qua người at 03/02/2023 10:23 PM
+BAG:nmsdkk add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/02/2023 10:24 PM
+BAG:nmsdkk add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 10:25 PM
+BAG:nmsdkk add 1xQuần sợi len lydo: Nhặt từ map at 03/02/2023 10:25 PM
+BAG:nmsdkk add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/02/2023 10:25 PM
+BAG:nmsdkk add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/02/2023 10:25 PM
+BAG:nmsdkk add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/02/2023 10:25 PM
+BAG:nmsdkk add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 10:27 PM
+BAG:nmsdkk add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:nmsdkk add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:nmsdkk add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:nmsdkk add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:nmsdkk add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:nmsdkk add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:nmsdkk add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:nmsdkk add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/02/2023 10:38 PM
+BAG:nmsdkk add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/02/2023 10:38 PM
+BAG:nmsdkk add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/02/2023 10:39 PM
+BAG:nmsdkk add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/02/2023 10:40 PM
+BAG:nmsdkk add 1xCải trang lydo: Mua từ cửa hàng at 03/02/2023 10:40 PM
+BAG:nmsdkk add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/02/2023 10:41 PM
+BAG:nmsdkk add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/02/2023 10:41 PM
+BAG:nmsdkk add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/02/2023 10:41 PM
+BAG:nmsdkk add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/02/2023 10:42 PM
+BAG:nmsdkk add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/02/2023 10:42 PM
+BAG:nmsdkk add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/02/2023 10:42 PM
+BAG:nmsdkk add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/02/2023 10:43 PM
+BAG:nmsdkk add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/02/2023 10:43 PM
+BAG:nmsdkk add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/02/2023 10:44 PM
+BAG:nmsdkk add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/02/2023 10:44 PM
+BAG:nmsdkk add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/02/2023 10:45 PM
+BAG:nmsdkk add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/02/2023 10:45 PM
+BAG:nmsdkk add 1xCải trang lydo: Lấy từ body đệ vào hành trang at 03/02/2023 10:46 PM
+BAG:nmsdkk add 1xCải Trang Thần Zeno Namec lydo: Lấy từ body vào hành trang at 03/02/2023 10:46 PM
+BAG:nmsdkk add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 10:46 PM
+BAG:nmsdkk add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 10:46 PM
+BAG:nmsdkk add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 10:46 PM
+BAG:nmsdkk add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/02/2023 10:46 PM
+BAG:nmsdkk add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/02/2023 10:46 PM
+BAG:nmsdkk add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/02/2023 10:48 PM
+BAG:nmsdkk add 1xGăng thun cứng lydo: Mua từ cửa hàng at 03/02/2023 10:48 PM
+BAG:nmsdkk add 1xGăng vải Pico lydo: Mua từ cửa hàng at 03/02/2023 10:48 PM
+BAG:nmsdkk add 51xĐậu thần cấp 10 (old: 31) lydo: Lấy từ rương qua người at 03/02/2023 10:53 PM
+BAG:nmsdkk add 71xĐậu thần cấp 10 (old: 51) lydo: Lấy từ rương qua người at 03/02/2023 10:53 PM
+BAG:nmsdkk add 91xĐậu thần cấp 10 (old: 71) lydo: Lấy từ rương qua người at 03/02/2023 10:53 PM
+BAG:nmsdkk add 12xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/02/2023 10:53 PM
+BAG:nmsdkk add 99xĐậu thần cấp 10 (old: 91) lydo: Lấy từ rương qua người at 03/02/2023 10:53 PM
+BAG:nmsdkk add 32xĐậu thần cấp 10 (old: 12) lydo: Lấy từ rương qua người at 03/02/2023 10:53 PM
+BAG:nmsdkk add 52xĐậu thần cấp 10 (old: 32) lydo: Lấy từ rương qua người at 03/02/2023 10:53 PM

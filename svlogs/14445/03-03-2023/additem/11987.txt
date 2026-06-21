@@ -1,0 +1,93 @@
+BAG:galvin add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 9:30 PM
+BAG:galvin add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/03/2023 9:30 PM
+BAG:galvin add 19xĐậu thần cấp 1 (old: 9) lydo: Lấy từ rương qua người at 03/03/2023 9:31 PM
+BAG:galvin add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 9:31 PM
+BAG:galvin add 39xĐậu thần cấp 1 (old: 19) lydo: Lấy từ rương qua người at 03/03/2023 9:32 PM
+BAG:galvin add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 9:48 PM
+BAG:galvin add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 9:55 PM
+BAG:galvin add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:00 PM
+BAG:galvin add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 10:00 PM
+BAG:galvin add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/03/2023 10:00 PM
+BAG:galvin add 30xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 10:01 PM
+BAG:galvin add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 10:07 PM
+BAG:galvin add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 10:08 PM
+BAG:galvin add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/03/2023 10:09 PM
+BAG:galvin add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 10:16 PM
+BAG:galvin add 26xĐậu thần cấp 1 (old: 6) lydo: Lấy từ rương qua người at 03/03/2023 10:17 PM
+BAG:galvin add 1000000xThỏi vàng lydo: Giftcode at 03/03/2023 10:18 PM
+BAG:galvin add 10000xĐá ngũ sắc lydo: Giftcode at 03/03/2023 10:18 PM
+BAG:galvin add 99xThỏi vàng lydo: Tách thỏi vàng at 03/03/2023 10:18 PM
+BAG:galvin add 99xThỏi vàng lydo: Tách thỏi vàng at 03/03/2023 10:18 PM
+BAG:galvin add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 10:19 PM
+BAG:galvin add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/03/2023 10:19 PM
+BAG:galvin add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 10:19 PM
+BAG:galvin add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 10:19 PM
+BAG:galvin add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 10:19 PM
+BAG:galvin add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 10:19 PM
+BAG:galvin add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 10:19 PM
+BAG:galvin add 1xDiều rồng lydo: Mua từ cửa hàng at 03/03/2023 10:20 PM
+BAG:galvin add 999822xThỏi vàng (old: 999802) lydo: Đổi vàng at 03/03/2023 10:21 PM
+BAG:galvin add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 10:22 PM
+BAG:galvin add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 10:22 PM
+BAG:galvin add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 10:23 PM
+BAG:galvin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:24 PM
+BAG:galvin add 1xCánh thiên thần lydo: Mua từ cửa hàng at 03/03/2023 10:26 PM
+BAG:galvin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 10:37 PM
+BAG:galvin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 10:37 PM
+BAG:galvin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 10:37 PM
+BAG:galvin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 10:37 PM
+BAG:galvin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 10:37 PM
+BAG:galvin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 10:37 PM
+BAG:galvin add 1xÁo da Pico lydo: Mua từ cửa hàng at 03/03/2023 10:39 PM
+BAG:galvin add 1xQuần vải mềm Pico lydo: Mua từ cửa hàng at 03/03/2023 10:40 PM
+BAG:galvin add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/03/2023 10:40 PM
+BAG:galvin add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:43 PM
+BAG:galvin add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 10:44 PM
+BAG:galvin add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 10:46 PM
+BAG:galvin add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 10:46 PM
+BAG:galvin add 49xĐậu thần cấp 10 (old: 29) lydo: Lấy từ rương qua người at 03/03/2023 10:47 PM
+BAG:galvin add 69xĐậu thần cấp 10 (old: 49) lydo: Lấy từ rương qua người at 03/03/2023 10:47 PM
+BAG:galvin add 89xĐậu thần cấp 10 (old: 69) lydo: Lấy từ rương qua người at 03/03/2023 10:47 PM
+BAG:galvin add 10xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/03/2023 10:47 PM
+BAG:galvin add 99xĐậu thần cấp 10 (old: 89) lydo: Lấy từ rương qua người at 03/03/2023 10:47 PM
+BAG:galvin add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 10:47 PM
+BAG:galvin add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/03/2023 10:47 PM
+BAG:galvin add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/03/2023 10:48 PM
+BAG:galvin add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/03/2023 10:48 PM
+BAG:galvin add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/03/2023 10:48 PM
+BAG:galvin add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/03/2023 10:48 PM
+BAG:galvin add 1xGiày sắt Pico lydo: Mua từ cửa hàng at 03/03/2023 10:49 PM
+BAG:galvin add 1xGiày sắt Pico lydo: Lấy từ body vào hành trang at 03/03/2023 10:49 PM
+BAG:galvin add 1xGiày sắt Pico lydo: Lấy từ body vào hành trang at 03/03/2023 10:50 PM
+BAG:galvin add 1xGiày sắt Pico lydo: Mua từ cửa hàng at 03/03/2023 10:50 PM
+BAG:galvin add 1xGăng thun cứng lydo: Mua từ cửa hàng at 03/03/2023 10:50 PM
+BAG:galvin add 1xÁo da Pico lydo: Mua từ cửa hàng at 03/03/2023 10:51 PM
+BAG:galvin add 1xQuần vải mềm Pico lydo: Mua từ cửa hàng at 03/03/2023 10:51 PM
+BAG:galvin add 1xGăng vải Pico lydo: Mua từ cửa hàng at 03/03/2023 10:51 PM
+BAG:galvin add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/03/2023 10:52 PM
+BAG:galvin add 1xGăng vải Pico lydo: Lấy từ body vào hành trang at 03/03/2023 10:58 PM
+BAG:galvin add 1xGăng da Pico lydo: Mua từ cửa hàng at 03/03/2023 11:00 PM
+BAG:galvin add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 03/03/2023 11:04 PM
+BAG:galvin add 1xGiày đồng Tron lydo: Mua từ cửa hàng at 03/03/2023 11:04 PM
+BAG:galvin add 1xÁo đồng Tron lydo: Mua từ cửa hàng at 03/03/2023 11:04 PM
+BAG:galvin add 1xQuần đồng Tron lydo: Mua từ cửa hàng at 03/03/2023 11:05 PM
+BAG:galvin add 1xÁo đồng Tron lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:10 PM
+BAG:galvin add 1xQuần đồng Tron lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:10 PM
+BAG:galvin add 1xGăng sắt Tron lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:10 PM
+BAG:galvin add 1xGiày đồng Tron lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:10 PM
+BAG:galvin add 1xRada cấp 8 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:10 PM
+BAG:galvin add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:10 PM
+BAG:galvin add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/03/2023 11:11 PM
+BAG:galvin add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 11:11 PM
+BAG:galvin add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 11:11 PM
+BAG:galvin add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 11:11 PM
+BAG:galvin add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 11:11 PM
+BAG:galvin add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 11:11 PM
+BAG:galvin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 11:26 PM
+BAG:galvin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 11:26 PM
+BAG:galvin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 11:26 PM
+BAG:galvin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 11:26 PM
+BAG:galvin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 11:26 PM
+BAG:galvin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 11:26 PM
+BAG:galvin add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/03/2023 11:26 PM
+BAG:galvin add 1xGiày sắt Pico lydo: Lấy từ body vào hành trang at 03/03/2023 11:30 PM

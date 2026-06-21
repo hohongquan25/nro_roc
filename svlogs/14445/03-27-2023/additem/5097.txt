@@ -1,0 +1,133 @@
+BAG:pocollo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/27/2023 10:49 PM
+BAG:pocollo add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/27/2023 10:51 PM
+BAG:pocollo add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/27/2023 10:51 PM
+BAG:pocollo add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/27/2023 10:51 PM
+BAG:pocollo add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/27/2023 11:01 PM
+BAG:pocollo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/27/2023 11:02 PM
+BAG:pocollo add 1xĐá Ruby lydo: Nhặt từ map at 03/27/2023 11:03 PM
+BAG:pocollo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/27/2023 11:05 PM
+BAG:pocollo add 1xĐá Titan lydo: Nhặt từ map at 03/27/2023 11:08 PM
+BAG:pocollo add 1xĐá Saphia lydo: Nhặt từ map at 03/27/2023 11:08 PM
+BAG:pocollo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/27/2023 11:10 PM
+BAG:pocollo add 1xĐá lục bảo lydo: Nhặt từ map at 03/27/2023 11:11 PM
+BAG:pocollo add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/27/2023 11:13 PM
+BAG:pocollo add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/27/2023 11:13 PM
+BAG:pocollo add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/27/2023 11:13 PM
+BAG:pocollo add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/27/2023 11:13 PM
+BAG:pocollo add 11xNgọc Rồng 5 sao (old: 1) lydo: Giftcode at 03/27/2023 11:13 PM
+BAG:pocollo add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/27/2023 11:13 PM
+BAG:pocollo add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/27/2023 11:13 PM
+BAG:pocollo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/27/2023 11:14 PM
+BAG:pocollo add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/27/2023 11:14 PM
+BAG:pocollo add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/27/2023 11:14 PM
+BAG:pocollo add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/27/2023 11:14 PM
+BAG:pocollo add 1xPhóng lợn lydo: Mua từ cửa hàng at 03/27/2023 11:14 PM
+BAG:pocollo add 1xCải trang Mighty Mask lydo: Mua từ cửa hàng at 03/27/2023 11:16 PM
+BAG:pocollo add 1xDiều rồng lydo: Mua từ cửa hàng at 03/27/2023 11:18 PM
+BAG:pocollo add 1xPhóng lợn lydo: Mua từ cửa hàng at 03/27/2023 11:18 PM
+BAG:pocollo add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/27/2023 11:19 PM
+BAG:pocollo add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/27/2023 11:22 PM
+BAG:pocollo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/27/2023 11:22 PM
+BAG:pocollo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/27/2023 11:23 PM
+BAG:pocollo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/27/2023 11:23 PM
+BAG:pocollo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/27/2023 11:23 PM
+BAG:pocollo add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/27/2023 11:24 PM
+BAG:pocollo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/27/2023 11:24 PM
+BAG:pocollo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/27/2023 11:24 PM
+BAG:pocollo add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/27/2023 11:25 PM
+BAG:pocollo add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/27/2023 11:25 PM
+BAG:pocollo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/27/2023 11:25 PM
+BAG:pocollo add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/27/2023 11:26 PM
+BAG:pocollo add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/27/2023 11:26 PM
+BAG:pocollo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/27/2023 11:26 PM
+BAG:pocollo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/27/2023 11:27 PM
+BAG:pocollo add 1xMảnh Phi long lydo: Nhặt từ map at 03/27/2023 11:27 PM
+BAG:pocollo add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/27/2023 11:27 PM
+BAG:pocollo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/27/2023 11:27 PM
+BAG:pocollo add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/27/2023 11:27 PM
+BAG:pocollo add 1xViên Capsule đặc biệt lydo: Lấy từ rương qua người at 03/27/2023 11:28 PM
+BAG:pocollo add 1xMảnh Khủng long lydo: Nhặt từ map at 03/27/2023 11:28 PM
+BAG:pocollo add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/27/2023 11:28 PM
+BAG:pocollo add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/27/2023 11:29 PM
+BAG:pocollo add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/27/2023 11:29 PM
+BAG:pocollo add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/27/2023 11:29 PM
+BAG:pocollo add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/27/2023 11:29 PM
+BAG:pocollo add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/27/2023 11:30 PM
+BAG:pocollo add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/27/2023 11:30 PM
+BAG:pocollo add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/27/2023 11:30 PM
+BAG:pocollo add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/27/2023 11:30 PM
+BAG:pocollo add 48xĐậu thần cấp 10 (old: 28) lydo: Lấy từ rương qua người at 03/27/2023 11:32 PM
+BAG:pocollo add 68xĐậu thần cấp 10 (old: 48) lydo: Lấy từ rương qua người at 03/27/2023 11:32 PM
+BAG:pocollo add 88xĐậu thần cấp 10 (old: 68) lydo: Lấy từ rương qua người at 03/27/2023 11:33 PM
+BAG:pocollo add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/27/2023 11:33 PM
+BAG:pocollo add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/27/2023 11:33 PM
+BAG:pocollo add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/27/2023 11:34 PM
+BAG:pocollo add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/27/2023 11:34 PM
+BAG:pocollo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/27/2023 11:35 PM
+BAG:pocollo add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/27/2023 11:35 PM
+BAG:pocollo add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/27/2023 11:36 PM
+BAG:pocollo add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/27/2023 11:36 PM
+BAG:pocollo add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/27/2023 11:36 PM
+BAG:pocollo add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/27/2023 11:36 PM
+BAG:pocollo add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/27/2023 11:36 PM
+BAG:pocollo add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/27/2023 11:36 PM
+BAG:pocollo add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/27/2023 11:36 PM
+BAG:pocollo add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/27/2023 11:37 PM
+BAG:pocollo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:pocollo add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:pocollo add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:pocollo add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:pocollo add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:pocollo add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:pocollo add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/27/2023 11:39 PM
+BAG:pocollo add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/27/2023 11:40 PM
+BAG:pocollo add 1xGiầy sợi len lydo: Nhặt từ map at 03/27/2023 11:40 PM
+BAG:pocollo add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/27/2023 11:40 PM
+BAG:pocollo add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/27/2023 11:40 PM
+BAG:pocollo add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:pocollo add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:pocollo add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/27/2023 11:41 PM
+BAG:pocollo add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:pocollo add 1xGăng sợi len lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:pocollo add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:pocollo add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:pocollo add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:pocollo add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:pocollo add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:pocollo add 1xGăng sợi len lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:pocollo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/27/2023 11:42 PM
+BAG:pocollo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:pocollo add 1xGăng sợi len lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:pocollo add 1xRada cấp 1 lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:pocollo add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:pocollo add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:pocollo add 1xGiầy sợi len lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:pocollo add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/27/2023 11:43 PM
+BAG:pocollo add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:pocollo add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/27/2023 11:44 PM
+BAG:pocollo add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/27/2023 11:45 PM
+BAG:pocollo add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 03/27/2023 11:45 PM
+BAG:pocollo add 7xMảnh Lợn lòi mẹ (old: 6) lydo: Nhặt từ map at 03/27/2023 11:46 PM
+BAG:pocollo add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/27/2023 11:46 PM
+BAG:pocollo add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/27/2023 11:46 PM
+BAG:pocollo add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/27/2023 11:47 PM
+BAG:pocollo add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/27/2023 11:47 PM
+BAG:pocollo add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/27/2023 11:47 PM
+BAG:pocollo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/27/2023 11:47 PM
+BAG:pocollo add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/27/2023 11:47 PM
+BAG:pocollo add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/27/2023 11:47 PM
+BAG:pocollo add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/27/2023 11:48 PM
+BAG:pocollo add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/27/2023 11:48 PM
+BAG:pocollo add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/27/2023 11:48 PM
+BAG:pocollo add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:pocollo add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:pocollo add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/27/2023 11:49 PM
+BAG:pocollo add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:pocollo add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:pocollo add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:pocollo add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/27/2023 11:50 PM
+BAG:pocollo add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:pocollo add 8xMảnh Lợn lòi mẹ (old: 7) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:pocollo add 9xMảnh Lợn lòi mẹ (old: 8) lydo: Nhặt từ map at 03/27/2023 11:51 PM
+BAG:pocollo add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/27/2023 11:52 PM
+BAG:pocollo add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/27/2023 11:52 PM

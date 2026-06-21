@@ -1,0 +1,616 @@
+BAG:trumsv add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 7:03 PM
+BAG:trumsv add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 7:03 PM
+BAG:trumsv add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/11/2023 7:03 PM
+BAG:trumsv add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/11/2023 7:04 PM
+BAG:trumsv add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 03/11/2023 7:04 PM
+BAG:trumsv add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 7:04 PM
+BAG:trumsv add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:trumsv add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:trumsv add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:trumsv add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:trumsv add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:trumsv add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:trumsv add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:trumsv add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:trumsv add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:trumsv add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:trumsv add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:trumsv add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:trumsv add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:trumsv add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:trumsv add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:trumsv add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:trumsv add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:trumsv add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:trumsv add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:trumsv add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 7:17 PM
+BAG:trumsv add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:trumsv add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:trumsv add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:trumsv add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:trumsv add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:trumsv add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:trumsv add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:trumsv add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:trumsv add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:trumsv add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:trumsv add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:trumsv add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:trumsv add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/11/2023 7:21 PM
+BAG:trumsv add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 7:21 PM
+BAG:trumsv add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:trumsv add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:trumsv add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:trumsv add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:trumsv add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:trumsv add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:trumsv add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:trumsv add 6xMảnh Thằn lằn bay (old: 5) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:trumsv add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:trumsv add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:trumsv add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:trumsv add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:trumsv add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:25 PM
+BAG:trumsv add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 7:25 PM
+BAG:trumsv add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 7:25 PM
+BAG:trumsv add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 7:25 PM
+BAG:trumsv add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 7:25 PM
+BAG:trumsv add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:trumsv add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:trumsv add 7xMảnh Thằn lằn bay (old: 6) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:trumsv add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:trumsv add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:trumsv add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:trumsv add 8xMảnh Thằn lằn bay (old: 7) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:trumsv add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:trumsv add 100xThỏi vàng lydo: Giftcode at 03/11/2023 7:32 PM
+BAG:trumsv add 1000xPháo hoa lydo: Giftcode at 03/11/2023 7:32 PM
+BAG:trumsv add 1xCuồng nộ lydo: HQT at 03/11/2023 7:35 PM
+BAG:trumsv add 1xBổ huyết lydo: HQT at 03/11/2023 7:35 PM
+BAG:trumsv add 1xGiáp Xên bọ hung lydo: HQT at 03/11/2023 7:35 PM
+BAG:trumsv add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/11/2023 7:35 PM
+BAG:trumsv add 2xCuồng nộ (old: 1) lydo: HQT at 03/11/2023 7:35 PM
+BAG:trumsv add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 7:36 PM
+BAG:trumsv add 1xViên Capsule đặc biệt lydo: Lấy từ rương qua người at 03/11/2023 7:36 PM
+BAG:trumsv add 989xPháo hoa lydo: Lấy từ rương qua người at 03/11/2023 7:36 PM
+BAG:trumsv add 100xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 7:36 PM
+BAG:trumsv add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 3xCuồng nộ (old: 2) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 1xBổ khí lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 4xCuồng nộ (old: 3) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 5xCuồng nộ (old: 4) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 2xBổ huyết (old: 1) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 3xBổ huyết (old: 2) lydo: HQT at 03/11/2023 7:38 PM
+BAG:trumsv add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/11/2023 7:39 PM
+BAG:trumsv add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/11/2023 7:39 PM
+BAG:trumsv add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/11/2023 7:39 PM
+BAG:trumsv add 2xBổ khí (old: 1) lydo: HQT at 03/11/2023 7:39 PM
+BAG:trumsv add 4xBổ huyết (old: 3) lydo: HQT at 03/11/2023 7:39 PM
+BAG:trumsv add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 7:40 PM
+BAG:trumsv add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 7:40 PM
+BAG:trumsv add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/11/2023 7:43 PM
+BAG:trumsv add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/11/2023 7:45 PM
+BAG:trumsv add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/11/2023 8:30 PM
+BAG:trumsv add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/11/2023 8:30 PM
+BAG:trumsv add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/11/2023 8:31 PM
+BAG:trumsv add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/11/2023 8:31 PM
+BAG:trumsv add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/11/2023 8:31 PM
+BAG:trumsv add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/11/2023 8:31 PM
+BAG:trumsv add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/11/2023 8:31 PM
+BAG:trumsv add 1xPháo hoa lydo: Nhặt từ map at 03/11/2023 8:32 PM
+BAG:trumsv add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:34 PM
+BAG:trumsv add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:34 PM
+BAG:trumsv add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:34 PM
+BAG:trumsv add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 8:34 PM
+BAG:trumsv add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 8:34 PM
+BAG:trumsv add 1xGăng võ Kame lydo: Mua từ cửa hàng at 03/11/2023 8:48 PM
+BAG:trumsv add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:49 PM
+BAG:trumsv add 1xGăng bạc Goku lydo: Mua từ cửa hàng at 03/11/2023 9:11 PM
+BAG:trumsv add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/11/2023 9:11 PM
+BAG:trumsv add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:40 PM
+BAG:trumsv add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:40 PM
+BAG:trumsv add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 10:01 PM
+BAG:trumsv add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 10:01 PM
+BAG:trumsv add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 10:01 PM
+BAG:trumsv add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 10:01 PM
+BAG:trumsv add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 10:01 PM
+BAG:trumsv add 1xBổ khí lydo: HQT at 03/11/2023 10:19 PM
+BAG:trumsv add 5xBổ huyết (old: 4) lydo: HQT at 03/11/2023 10:19 PM
+BAG:trumsv add 2xBổ khí (old: 1) lydo: HQT at 03/11/2023 10:19 PM
+BAG:trumsv add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/11/2023 10:19 PM
+BAG:trumsv add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/11/2023 10:19 PM
+BAG:trumsv add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 3xBổ khí (old: 2) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 6xCuồng nộ (old: 5) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 7xCuồng nộ (old: 6) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 8xCuồng nộ (old: 7) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 6xBổ huyết (old: 5) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 9xCuồng nộ (old: 8) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 10xCuồng nộ (old: 9) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/11/2023 10:20 PM
+BAG:trumsv add 4xBổ khí (old: 3) lydo: HQT at 03/11/2023 10:21 PM
+BAG:trumsv add 11xCuồng nộ (old: 10) lydo: HQT at 03/11/2023 10:21 PM
+BAG:trumsv add 5xBổ khí (old: 4) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 7xBổ huyết (old: 6) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 9xGiáp Xên bọ hung (old: 8) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 12xCuồng nộ (old: 11) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 10xGiáp Xên bọ hung (old: 9) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 6xBổ khí (old: 5) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 8xBổ huyết (old: 7) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 13xCuồng nộ (old: 12) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 9xBổ huyết (old: 8) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/11/2023 10:22 PM
+BAG:trumsv add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/11/2023 10:23 PM
+BAG:trumsv add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/11/2023 10:23 PM
+BAG:trumsv add 10xBổ huyết (old: 9) lydo: HQT at 03/11/2023 10:23 PM
+BAG:trumsv add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/11/2023 10:23 PM
+BAG:trumsv add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/11/2023 10:23 PM
+BAG:trumsv add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/11/2023 10:23 PM
+BAG:trumsv add 14xCuồng nộ (old: 13) lydo: HQT at 03/11/2023 10:23 PM
+BAG:trumsv add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/11/2023 10:23 PM
+BAG:trumsv add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/11/2023 10:23 PM
+BAG:trumsv add 7xBổ khí (old: 6) lydo: HQT at 03/11/2023 10:23 PM
+BAG:trumsv add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/11/2023 10:23 PM
+BAG:trumsv add 11xBổ huyết (old: 10) lydo: HQT at 03/11/2023 10:24 PM
+BAG:trumsv add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/11/2023 10:24 PM
+BAG:trumsv add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/11/2023 10:24 PM
+BAG:trumsv add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 17xGiáp Xên bọ hung (old: 16) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 15xCuồng nộ (old: 14) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 18xGiáp Xên bọ hung (old: 17) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 12xBổ huyết (old: 11) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 19xGiáp Xên bọ hung (old: 18) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 20xGiáp Xên bọ hung (old: 19) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 21xGiáp Xên bọ hung (old: 20) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 16xCuồng nộ (old: 15) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 22xGiáp Xên bọ hung (old: 21) lydo: HQT at 03/11/2023 10:25 PM
+BAG:trumsv add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/11/2023 10:26 PM
+BAG:trumsv add 13xBổ huyết (old: 12) lydo: HQT at 03/11/2023 10:26 PM
+BAG:trumsv add 17xCuồng nộ (old: 16) lydo: HQT at 03/11/2023 10:26 PM
+BAG:trumsv add 18xCuồng nộ (old: 17) lydo: HQT at 03/11/2023 10:26 PM
+BAG:trumsv add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/11/2023 10:26 PM
+BAG:trumsv add 14xBổ huyết (old: 13) lydo: HQT at 03/11/2023 10:26 PM
+BAG:trumsv add 8xBổ khí (old: 7) lydo: HQT at 03/11/2023 10:26 PM
+BAG:trumsv add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/11/2023 10:27 PM
+BAG:trumsv add 23xGiáp Xên bọ hung (old: 22) lydo: HQT at 03/11/2023 10:27 PM
+BAG:trumsv add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/11/2023 10:27 PM
+BAG:trumsv add 19xCuồng nộ (old: 18) lydo: HQT at 03/11/2023 10:27 PM
+BAG:trumsv add 9xBổ khí (old: 8) lydo: HQT at 03/11/2023 10:27 PM
+BAG:trumsv add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/11/2023 10:27 PM
+BAG:trumsv add 10xBổ khí (old: 9) lydo: HQT at 03/11/2023 10:27 PM
+BAG:trumsv add 19xNgọc Rồng 5 sao (old: 18) lydo: HQT at 03/11/2023 10:27 PM
+BAG:trumsv add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/11/2023 10:27 PM
+BAG:trumsv add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/11/2023 10:27 PM
+BAG:trumsv add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/11/2023 10:27 PM
+BAG:trumsv add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 10:58 PM
+BAG:trumsv add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/11/2023 11:00 PM
+BAG:trumsv add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 11:01 PM
+BAG:trumsv add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/11/2023 11:02 PM
+BAG:trumsv add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/11/2023 11:02 PM
+BAG:trumsv add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/11/2023 11:02 PM
+BAG:trumsv add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/11/2023 11:02 PM
+BAG:trumsv add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/11/2023 11:03 PM
+BAG:trumsv add 145xThỏi vàng (old: 95) lydo: Giftcode at 03/11/2023 11:03 PM
+BAG:trumsv add 10xSao pha lê lydo: Giftcode at 03/11/2023 11:03 PM
+BAG:trumsv add 10xSao pha lê lydo: Giftcode at 03/11/2023 11:03 PM
+BAG:trumsv add 10xSao pha lê lydo: Giftcode at 03/11/2023 11:03 PM
+BAG:trumsv add 1xCải trang Hit lydo: Giftcode at 03/11/2023 11:03 PM
+BAG:trumsv add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 11:03 PM
+BAG:trumsv add 29xCuồng nộ (old: 19) lydo: Giftcode at 03/11/2023 11:03 PM
+BAG:trumsv add 24xBổ huyết (old: 14) lydo: Giftcode at 03/11/2023 11:03 PM
+BAG:trumsv add 20xBổ khí (old: 10) lydo: Giftcode at 03/11/2023 11:03 PM
+BAG:trumsv add 34xGiáp Xên bọ hung (old: 24) lydo: Giftcode at 03/11/2023 11:03 PM
+BAG:trumsv add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/11/2023 11:04 PM
+BAG:trumsv add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/11/2023 11:05 PM
+BAG:trumsv add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 03/11/2023 11:06 PM
+BAG:trumsv add 1xQuả cầu Kênh Khi lv2 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xQuả cầu Kênh Khi lv3 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xQuả cầu Kênh Khi lv4 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xQuả cầu Kênh Khi lv5 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xQuả cầu Kênh Khi lv6 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xQuả cầu Kênh Khi lv7 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/11/2023 11:07 PM
+BAG:trumsv add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/11/2023 11:09 PM
+BAG:trumsv add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/11/2023 11:09 PM
+BAG:trumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 11:10 PM
+BAG:trumsv add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/11/2023 11:15 PM
+BAG:trumsv add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 11:15 PM
+BAG:trumsv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 11:16 PM
+BAG:trumsv add 21xBổ khí (old: 20) lydo: HQT at 03/11/2023 11:16 PM
+BAG:trumsv add 29xCuồng nộ (old: 28) lydo: HQT at 03/11/2023 11:16 PM
+BAG:trumsv add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/11/2023 11:16 PM
+BAG:trumsv add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 11:16 PM
+BAG:trumsv add 20xNgọc Rồng 5 sao (old: 19) lydo: HQT at 03/11/2023 11:16 PM
+BAG:trumsv add 21xNgọc Rồng 5 sao (old: 20) lydo: HQT at 03/11/2023 11:16 PM
+BAG:trumsv add 22xBổ khí (old: 21) lydo: HQT at 03/11/2023 11:16 PM
+BAG:trumsv add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 11:16 PM
+BAG:trumsv add 30xCuồng nộ (old: 29) lydo: HQT at 03/11/2023 11:16 PM
+BAG:trumsv add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 11:17 PM
+BAG:trumsv add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 11:17 PM
+BAG:trumsv add 22xNgọc Rồng 5 sao (old: 21) lydo: HQT at 03/11/2023 11:17 PM
+BAG:trumsv add 15xNgọc Rồng 6 sao (old: 14) lydo: HQT at 03/11/2023 11:17 PM
+BAG:trumsv add 24xBổ huyết (old: 23) lydo: HQT at 03/11/2023 11:17 PM
+BAG:trumsv add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 11:17 PM
+BAG:trumsv add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/11/2023 11:17 PM
+BAG:trumsv add 25xBổ huyết (old: 24) lydo: HQT at 03/11/2023 11:17 PM
+BAG:trumsv add 23xNgọc Rồng 5 sao (old: 22) lydo: HQT at 03/11/2023 11:17 PM
+BAG:trumsv add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 11:18 PM
+BAG:trumsv add 5xPháo hoa lydo: Nhặt từ map at 03/11/2023 11:18 PM
+BAG:trumsv add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/11/2023 11:18 PM
+BAG:trumsv add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 11:18 PM
+BAG:trumsv add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 11:19 PM
+BAG:trumsv add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/11/2023 11:19 PM
+BAG:trumsv add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/11/2023 11:20 PM
+BAG:trumsv add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/11/2023 11:20 PM
+BAG:trumsv add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/11/2023 11:21 PM
+BAG:trumsv add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/11/2023 11:21 PM
+BAG:trumsv add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 11:22 PM
+BAG:trumsv add 1xPháo hoa lydo: Nhặt từ map at 03/11/2023 11:22 PM
+BAG:trumsv add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 11:22 PM
+BAG:trumsv add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/11/2023 11:23 PM
+BAG:trumsv add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 03/11/2023 11:23 PM
+BAG:trumsv add 16xNgọc Rồng 6 sao (old: 15) lydo: HQT at 03/11/2023 11:26 PM
+BAG:trumsv add 31xCuồng nộ (old: 30) lydo: HQT at 03/11/2023 11:26 PM
+BAG:trumsv add 32xCuồng nộ (old: 31) lydo: HQT at 03/11/2023 11:26 PM
+BAG:trumsv add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/11/2023 11:26 PM
+BAG:trumsv add 33xCuồng nộ (old: 32) lydo: HQT at 03/11/2023 11:30 PM
+BAG:trumsv add 1xGăng thun Kame lydo: Mua từ cửa hàng at 03/11/2023 11:30 PM
+BAG:trumsv add 1xGăng võ Kame lydo: Mua từ cửa hàng at 03/11/2023 11:30 PM
+BAG:trumsv add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/11/2023 11:30 PM
+BAG:trumsv add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/11/2023 11:30 PM
+BAG:trumsv add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/11/2023 11:30 PM
+BAG:trumsv add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 11:32 PM
+BAG:trumsv add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 11:32 PM
+BAG:trumsv add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 11:32 PM
+BAG:trumsv add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 11:32 PM
+BAG:trumsv add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 11:32 PM
+BAG:trumsv add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 11:32 PM
+BAG:trumsv add 34xGiáp Xên bọ hung (old: 33) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 26xBổ huyết (old: 25) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 23xBổ khí (old: 22) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 34xCuồng nộ (old: 33) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 24xNgọc Rồng 5 sao (old: 23) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 35xGiáp Xên bọ hung (old: 34) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 27xBổ huyết (old: 26) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 28xBổ huyết (old: 27) lydo: HQT at 03/11/2023 11:34 PM
+BAG:trumsv add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/11/2023 11:47 PM
+BAG:trumsv add 29xBổ huyết (old: 28) lydo: HQT at 03/11/2023 11:47 PM
+BAG:trumsv add 25xNgọc Rồng 5 sao (old: 24) lydo: HQT at 03/11/2023 11:47 PM
+BAG:trumsv add 26xNgọc Rồng 5 sao (old: 25) lydo: HQT at 03/11/2023 11:47 PM
+BAG:trumsv add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/11/2023 11:47 PM
+BAG:trumsv add 36xGiáp Xên bọ hung (old: 35) lydo: HQT at 03/11/2023 11:47 PM
+BAG:trumsv add 27xNgọc Rồng 5 sao (old: 26) lydo: HQT at 03/11/2023 11:47 PM
+BAG:trumsv add 24xBổ khí (old: 23) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 30xBổ huyết (old: 29) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 25xBổ khí (old: 24) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 26xBổ khí (old: 25) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 35xCuồng nộ (old: 34) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 27xBổ khí (old: 26) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 28xNgọc Rồng 5 sao (old: 27) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 28xBổ khí (old: 27) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 29xBổ khí (old: 28) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 29xNgọc Rồng 5 sao (old: 28) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 22xNgọc Rồng 4 sao (old: 21) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 37xGiáp Xên bọ hung (old: 36) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 38xGiáp Xên bọ hung (old: 37) lydo: HQT at 03/11/2023 11:48 PM
+BAG:trumsv add 36xCuồng nộ (old: 35) lydo: HQT at 03/11/2023 11:49 PM
+BAG:trumsv add 37xCuồng nộ (old: 36) lydo: HQT at 03/11/2023 11:49 PM
+BAG:trumsv add 38xCuồng nộ (old: 37) lydo: HQT at 03/11/2023 11:49 PM
+BAG:trumsv add 30xNgọc Rồng 5 sao (old: 29) lydo: HQT at 03/11/2023 11:49 PM
+BAG:trumsv add 30xBổ khí (old: 29) lydo: HQT at 03/11/2023 11:49 PM
+BAG:trumsv add 31xNgọc Rồng 5 sao (old: 30) lydo: HQT at 03/11/2023 11:49 PM
+BAG:trumsv add 31xBổ khí (old: 30) lydo: HQT at 03/11/2023 11:49 PM
+BAG:trumsv add 31xBổ huyết (old: 30) lydo: HQT at 03/11/2023 11:49 PM
+BAG:trumsv add 32xBổ huyết (old: 31) lydo: HQT at 03/11/2023 11:49 PM
+BAG:trumsv add 32xNgọc Rồng 5 sao (old: 31) lydo: HQT at 03/11/2023 11:49 PM
+BAG:trumsv add 39xCuồng nộ (old: 38) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 33xBổ huyết (old: 32) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 33xNgọc Rồng 5 sao (old: 32) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 39xGiáp Xên bọ hung (old: 38) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 23xNgọc Rồng 4 sao (old: 22) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 32xBổ khí (old: 31) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 40xCuồng nộ (old: 39) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 34xNgọc Rồng 5 sao (old: 33) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 34xBổ huyết (old: 33) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 33xBổ khí (old: 32) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 35xBổ huyết (old: 34) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 18xNgọc Rồng 7 sao (old: 17) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 41xCuồng nộ (old: 40) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 24xNgọc Rồng 4 sao (old: 23) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 34xBổ khí (old: 33) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 35xBổ khí (old: 34) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 36xBổ huyết (old: 35) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 37xBổ huyết (old: 36) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 19xNgọc Rồng 7 sao (old: 18) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 36xBổ khí (old: 35) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 38xBổ huyết (old: 37) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 37xBổ khí (old: 36) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 38xBổ khí (old: 37) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 20xNgọc Rồng 7 sao (old: 19) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 35xNgọc Rồng 5 sao (old: 34) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 36xNgọc Rồng 5 sao (old: 35) lydo: HQT at 03/11/2023 11:50 PM
+BAG:trumsv add 37xNgọc Rồng 5 sao (old: 36) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 21xNgọc Rồng 7 sao (old: 20) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 39xBổ huyết (old: 38) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 40xGiáp Xên bọ hung (old: 39) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 41xGiáp Xên bọ hung (old: 40) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 39xBổ khí (old: 38) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 38xNgọc Rồng 5 sao (old: 37) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 22xNgọc Rồng 7 sao (old: 21) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 26xNgọc Rồng 4 sao (old: 25) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 40xBổ khí (old: 39) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 42xCuồng nộ (old: 41) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 39xNgọc Rồng 5 sao (old: 38) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 40xBổ huyết (old: 39) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 42xGiáp Xên bọ hung (old: 41) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 40xNgọc Rồng 5 sao (old: 39) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 23xNgọc Rồng 7 sao (old: 22) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 43xGiáp Xên bọ hung (old: 42) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 44xGiáp Xên bọ hung (old: 43) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 41xBổ huyết (old: 40) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 41xBổ khí (old: 40) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 27xNgọc Rồng 4 sao (old: 26) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 28xNgọc Rồng 4 sao (old: 27) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 29xNgọc Rồng 4 sao (old: 28) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 30xNgọc Rồng 4 sao (old: 29) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 31xNgọc Rồng 4 sao (old: 30) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 41xNgọc Rồng 5 sao (old: 40) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 43xCuồng nộ (old: 42) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 24xNgọc Rồng 7 sao (old: 23) lydo: HQT at 03/11/2023 11:51 PM
+BAG:trumsv add 45xGiáp Xên bọ hung (old: 44) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 44xCuồng nộ (old: 43) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 42xNgọc Rồng 5 sao (old: 41) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 25xNgọc Rồng 7 sao (old: 24) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 45xCuồng nộ (old: 44) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 21xNgọc Rồng 6 sao (old: 20) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 46xCuồng nộ (old: 45) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 47xCuồng nộ (old: 46) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 46xGiáp Xên bọ hung (old: 45) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 48xCuồng nộ (old: 47) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 43xNgọc Rồng 5 sao (old: 42) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 22xNgọc Rồng 6 sao (old: 21) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 42xBổ khí (old: 41) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 49xCuồng nộ (old: 48) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 42xBổ huyết (old: 41) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 32xNgọc Rồng 4 sao (old: 31) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 33xNgọc Rồng 4 sao (old: 32) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 50xCuồng nộ (old: 49) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 26xNgọc Rồng 7 sao (old: 25) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 47xGiáp Xên bọ hung (old: 46) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 43xBổ khí (old: 42) lydo: HQT at 03/11/2023 11:52 PM
+BAG:trumsv add 27xNgọc Rồng 7 sao (old: 26) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 23xNgọc Rồng 6 sao (old: 22) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 51xCuồng nộ (old: 50) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 34xNgọc Rồng 4 sao (old: 33) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 24xNgọc Rồng 6 sao (old: 23) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 25xNgọc Rồng 6 sao (old: 24) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 44xBổ khí (old: 43) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 52xCuồng nộ (old: 51) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 48xGiáp Xên bọ hung (old: 47) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 45xBổ khí (old: 44) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 26xNgọc Rồng 6 sao (old: 25) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 44xNgọc Rồng 5 sao (old: 43) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 27xNgọc Rồng 6 sao (old: 26) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 43xBổ huyết (old: 42) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 46xBổ khí (old: 45) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 47xBổ khí (old: 46) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 53xCuồng nộ (old: 52) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 28xNgọc Rồng 6 sao (old: 27) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 35xNgọc Rồng 4 sao (old: 34) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 36xNgọc Rồng 4 sao (old: 35) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 45xNgọc Rồng 5 sao (old: 44) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 54xCuồng nộ (old: 53) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 48xBổ khí (old: 47) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 46xNgọc Rồng 5 sao (old: 45) lydo: HQT at 03/11/2023 11:53 PM
+BAG:trumsv add 49xGiáp Xên bọ hung (old: 48) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 50xGiáp Xên bọ hung (old: 49) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 29xNgọc Rồng 6 sao (old: 28) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 49xBổ khí (old: 48) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 47xNgọc Rồng 5 sao (old: 46) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 28xNgọc Rồng 7 sao (old: 27) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 50xBổ khí (old: 49) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 29xNgọc Rồng 7 sao (old: 28) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 51xGiáp Xên bọ hung (old: 50) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 55xCuồng nộ (old: 54) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 52xGiáp Xên bọ hung (old: 51) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 30xNgọc Rồng 6 sao (old: 29) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 30xNgọc Rồng 7 sao (old: 29) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 31xNgọc Rồng 6 sao (old: 30) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 56xCuồng nộ (old: 55) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 53xGiáp Xên bọ hung (old: 52) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 44xBổ huyết (old: 43) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 51xBổ khí (old: 50) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 57xCuồng nộ (old: 56) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 54xGiáp Xên bọ hung (old: 53) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 52xBổ khí (old: 51) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 58xCuồng nộ (old: 57) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 45xBổ huyết (old: 44) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 46xBổ huyết (old: 45) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 31xNgọc Rồng 7 sao (old: 30) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 47xBổ huyết (old: 46) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 55xGiáp Xên bọ hung (old: 54) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 59xCuồng nộ (old: 58) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 37xNgọc Rồng 4 sao (old: 36) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 48xBổ huyết (old: 47) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 48xNgọc Rồng 5 sao (old: 47) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 32xNgọc Rồng 6 sao (old: 31) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 49xBổ huyết (old: 48) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 33xNgọc Rồng 6 sao (old: 32) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 32xNgọc Rồng 7 sao (old: 31) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 53xBổ khí (old: 52) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 54xBổ khí (old: 53) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 38xNgọc Rồng 4 sao (old: 37) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 55xBổ khí (old: 54) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 39xNgọc Rồng 4 sao (old: 38) lydo: HQT at 03/11/2023 11:54 PM
+BAG:trumsv add 33xNgọc Rồng 7 sao (old: 32) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 34xNgọc Rồng 6 sao (old: 33) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 60xCuồng nộ (old: 59) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 49xNgọc Rồng 5 sao (old: 48) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 61xCuồng nộ (old: 60) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 35xNgọc Rồng 6 sao (old: 34) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 50xNgọc Rồng 5 sao (old: 49) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 62xCuồng nộ (old: 61) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 63xCuồng nộ (old: 62) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 56xBổ khí (old: 55) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 57xBổ khí (old: 56) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 56xGiáp Xên bọ hung (old: 55) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 57xGiáp Xên bọ hung (old: 56) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 64xCuồng nộ (old: 63) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 36xNgọc Rồng 6 sao (old: 35) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 50xBổ huyết (old: 49) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 37xNgọc Rồng 6 sao (old: 36) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 40xNgọc Rồng 4 sao (old: 39) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 65xCuồng nộ (old: 64) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 58xGiáp Xên bọ hung (old: 57) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 34xNgọc Rồng 7 sao (old: 33) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 51xNgọc Rồng 5 sao (old: 50) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 52xNgọc Rồng 5 sao (old: 51) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 38xNgọc Rồng 6 sao (old: 37) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 39xNgọc Rồng 6 sao (old: 38) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 66xCuồng nộ (old: 65) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 40xNgọc Rồng 6 sao (old: 39) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 41xNgọc Rồng 4 sao (old: 40) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 35xNgọc Rồng 7 sao (old: 34) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 67xCuồng nộ (old: 66) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 42xNgọc Rồng 4 sao (old: 41) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 36xNgọc Rồng 7 sao (old: 35) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 53xNgọc Rồng 5 sao (old: 52) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 43xNgọc Rồng 4 sao (old: 42) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 44xNgọc Rồng 4 sao (old: 43) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 41xNgọc Rồng 6 sao (old: 40) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 37xNgọc Rồng 7 sao (old: 36) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 51xBổ huyết (old: 50) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 59xGiáp Xên bọ hung (old: 58) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 54xNgọc Rồng 5 sao (old: 53) lydo: HQT at 03/11/2023 11:55 PM
+BAG:trumsv add 99xThỏi vàng lydo: Tách thỏi vàng at 03/11/2023 11:55 PM
+BAG:trumsv add 42xNgọc Rồng 6 sao (old: 41) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 38xNgọc Rồng 7 sao (old: 37) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 68xCuồng nộ (old: 67) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 69xCuồng nộ (old: 68) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 43xNgọc Rồng 6 sao (old: 42) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 44xNgọc Rồng 6 sao (old: 43) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 52xBổ huyết (old: 51) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 58xBổ khí (old: 57) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 55xNgọc Rồng 5 sao (old: 54) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 56xNgọc Rồng 5 sao (old: 55) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 60xGiáp Xên bọ hung (old: 59) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 39xNgọc Rồng 7 sao (old: 38) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 61xGiáp Xên bọ hung (old: 60) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 62xGiáp Xên bọ hung (old: 61) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 45xNgọc Rồng 4 sao (old: 44) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 53xBổ huyết (old: 52) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 57xNgọc Rồng 5 sao (old: 56) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 59xBổ khí (old: 58) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 63xGiáp Xên bọ hung (old: 62) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 45xNgọc Rồng 6 sao (old: 44) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 58xNgọc Rồng 5 sao (old: 57) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 60xBổ khí (old: 59) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 54xBổ huyết (old: 53) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 61xBổ khí (old: 60) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 59xNgọc Rồng 5 sao (old: 58) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 70xCuồng nộ (old: 69) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 62xBổ khí (old: 61) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 46xNgọc Rồng 6 sao (old: 45) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 60xNgọc Rồng 5 sao (old: 59) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 61xNgọc Rồng 5 sao (old: 60) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 55xBổ huyết (old: 54) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 47xNgọc Rồng 6 sao (old: 46) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 46xNgọc Rồng 4 sao (old: 45) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 56xBổ huyết (old: 55) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 62xNgọc Rồng 5 sao (old: 61) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 57xBổ huyết (old: 56) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 71xCuồng nộ (old: 70) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 48xNgọc Rồng 6 sao (old: 47) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 64xGiáp Xên bọ hung (old: 63) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 58xBổ huyết (old: 57) lydo: HQT at 03/11/2023 11:56 PM
+BAG:trumsv add 63xBổ khí (old: 62) lydo: HQT at 03/11/2023 11:57 PM

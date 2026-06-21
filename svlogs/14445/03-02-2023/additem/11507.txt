@@ -1,0 +1,430 @@
+BAG:bisbon add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/02/2023 7:52 PM
+BAG:bisbon add 6xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 03/02/2023 7:57 PM
+BAG:bisbon add 10xĐậu thần cấp 1 (old: 6) lydo: Thu hoạch đậu at 03/02/2023 7:57 PM
+BAG:bisbon add 21xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 7:57 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 7:57 PM
+BAG:bisbon add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 7:57 PM
+BAG:bisbon add 1xBột mì lydo: Nhặt từ map at 03/02/2023 8:24 PM
+BAG:bisbon add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/02/2023 8:26 PM
+BAG:bisbon add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/02/2023 8:26 PM
+BAG:bisbon add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/02/2023 8:26 PM
+BAG:bisbon add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/02/2023 8:26 PM
+BAG:bisbon add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/02/2023 8:26 PM
+BAG:bisbon add 1xGhế bay lydo: Mua từ cửa hàng at 03/02/2023 8:27 PM
+BAG:bisbon add 33xĐậu thần cấp 1 (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 8:36 PM
+BAG:bisbon add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 8:37 PM
+BAG:bisbon add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/02/2023 8:39 PM
+BAG:bisbon add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 8:40 PM
+BAG:bisbon add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 8:41 PM
+BAG:bisbon add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 8:42 PM
+BAG:bisbon add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 8:43 PM
+BAG:bisbon add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 8:43 PM
+BAG:bisbon add 1000000xThỏi vàng lydo: Giftcode at 03/02/2023 8:46 PM
+BAG:bisbon add 10000xĐá ngũ sắc lydo: Giftcode at 03/02/2023 8:46 PM
+BAG:bisbon add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/02/2023 8:48 PM
+BAG:bisbon add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/02/2023 8:48 PM
+BAG:bisbon add 99xThỏi vàng lydo: Tách thỏi vàng at 03/02/2023 8:48 PM
+BAG:bisbon add 999921xThỏi vàng (old: 999901) lydo: Đổi vàng at 03/02/2023 8:48 PM
+BAG:bisbon add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/02/2023 8:49 PM
+BAG:bisbon add 1xCải trang Chaien lydo: Mua từ cửa hàng at 03/02/2023 8:50 PM
+BAG:bisbon add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/02/2023 8:50 PM
+BAG:bisbon add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/02/2023 8:50 PM
+BAG:bisbon add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/02/2023 8:53 PM
+BAG:bisbon add 25xĐậu thần cấp 5 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 8:54 PM
+BAG:bisbon add 38xĐậu thần cấp 5 (old: 25) lydo: Lấy từ rương qua người at 03/02/2023 8:56 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 8:57 PM
+BAG:bisbon add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 8:58 PM
+BAG:bisbon add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 8:58 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 8:59 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 8:59 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 8:59 PM
+BAG:bisbon add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/02/2023 8:59 PM
+BAG:bisbon add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 8:59 PM
+BAG:bisbon add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 8:59 PM
+BAG:bisbon add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 8:59 PM
+BAG:bisbon add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/02/2023 9:00 PM
+BAG:bisbon add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 9:00 PM
+BAG:bisbon add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 9:00 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:00 PM
+BAG:bisbon add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 9:00 PM
+BAG:bisbon add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/02/2023 9:00 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:00 PM
+BAG:bisbon add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/02/2023 9:01 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:01 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:01 PM
+BAG:bisbon add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/02/2023 9:02 PM
+BAG:bisbon add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/02/2023 9:02 PM
+BAG:bisbon add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/02/2023 9:02 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:bisbon add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:bisbon add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/02/2023 9:03 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:bisbon add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 9:04 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:04 PM
+BAG:bisbon add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/02/2023 9:04 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/02/2023 9:04 PM
+BAG:bisbon add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/02/2023 9:06 PM
+BAG:bisbon add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/02/2023 9:08 PM
+BAG:bisbon add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/02/2023 9:08 PM
+BAG:bisbon add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/02/2023 9:08 PM
+BAG:bisbon add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/02/2023 9:08 PM
+BAG:bisbon add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/02/2023 9:08 PM
+BAG:bisbon add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/02/2023 9:08 PM
+BAG:bisbon add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 9:09 PM
+BAG:bisbon add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/02/2023 9:09 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 9:09 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:09 PM
+BAG:bisbon add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/02/2023 9:12 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:13 PM
+BAG:bisbon add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/02/2023 9:13 PM
+BAG:bisbon add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 9:13 PM
+BAG:bisbon add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/02/2023 9:13 PM
+BAG:bisbon add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/02/2023 9:13 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 9:14 PM
+BAG:bisbon add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/02/2023 9:14 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 9:14 PM
+BAG:bisbon add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/02/2023 9:14 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:bisbon add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:bisbon add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:bisbon add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:bisbon add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:bisbon add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:bisbon add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:bisbon add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:bisbon add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:bisbon add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:bisbon add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:bisbon add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:bisbon add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:bisbon add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:bisbon add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:bisbon add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:bisbon add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:bisbon add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:bisbon add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:bisbon add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:bisbon add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:bisbon add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:bisbon add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:bisbon add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:bisbon add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:21 PM
+BAG:bisbon add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/02/2023 9:22 PM
+BAG:bisbon add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/02/2023 9:23 PM
+BAG:bisbon add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/02/2023 9:23 PM
+BAG:bisbon add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:bisbon add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:bisbon add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:bisbon add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:bisbon add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:bisbon add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:bisbon add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/02/2023 9:26 PM
+BAG:bisbon add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/02/2023 9:26 PM
+BAG:bisbon add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/02/2023 9:28 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/02/2023 9:30 PM
+BAG:bisbon add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/02/2023 9:30 PM
+BAG:bisbon add 1xCánh thiên thần lydo: Mua từ cửa hàng at 03/02/2023 9:31 PM
+BAG:bisbon add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/02/2023 9:32 PM
+BAG:bisbon add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/02/2023 9:40 PM
+BAG:bisbon add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/02/2023 9:41 PM
+BAG:bisbon add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/02/2023 9:43 PM
+BAG:bisbon add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/02/2023 9:47 PM
+BAG:bisbon add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/02/2023 9:47 PM
+BAG:bisbon add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/02/2023 9:47 PM
+BAG:bisbon add 99xCuồng nộ lydo: Admin at 03/02/2023 9:48 PM
+BAG:bisbon add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/02/2023 9:48 PM
+BAG:bisbon add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/02/2023 9:48 PM
+BAG:bisbon add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/02/2023 9:49 PM
+BAG:bisbon add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/02/2023 9:50 PM
+BAG:bisbon add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/02/2023 9:50 PM
+BAG:bisbon add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/02/2023 9:50 PM
+BAG:bisbon add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/02/2023 9:50 PM
+BAG:bisbon add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/02/2023 9:51 PM
+BAG:bisbon add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/02/2023 9:51 PM
+BAG:bisbon add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/02/2023 9:52 PM
+BAG:bisbon add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/02/2023 9:52 PM
+BAG:bisbon add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/02/2023 9:52 PM
+BAG:bisbon add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/02/2023 9:52 PM
+BAG:bisbon add 31xĐậu thần cấp 5 (old: 21) lydo: Lấy từ rương qua người at 03/02/2023 9:54 PM
+BAG:bisbon add 1xĐá lục bảo lydo: Nhặt từ map at 03/02/2023 9:54 PM
+BAG:bisbon add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/02/2023 9:55 PM
+BAG:bisbon add 1xCải Trang Thần Zeno lydo: Lấy từ body đệ vào hành trang at 03/02/2023 9:58 PM
+BAG:bisbon add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/02/2023 9:58 PM
+BAG:bisbon add 1xCải Trang Thần Zeno lydo: Lấy từ body vào hành trang at 03/02/2023 10:02 PM
+BAG:bisbon add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/02/2023 10:03 PM
+BAG:bisbon add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/02/2023 10:03 PM
+BAG:bisbon add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/02/2023 10:03 PM
+BAG:bisbon add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/02/2023 10:04 PM
+BAG:bisbon add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/02/2023 10:04 PM
+BAG:bisbon add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/02/2023 10:04 PM
+BAG:bisbon add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/02/2023 10:04 PM
+BAG:bisbon add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/02/2023 10:05 PM
+BAG:bisbon add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/02/2023 10:07 PM
+BAG:bisbon add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/02/2023 10:07 PM
+BAG:bisbon add 99xSao pha lê lydo: Admin at 03/02/2023 10:09 PM
+BAG:bisbon add 99xThỏi vàng lydo: Tách thỏi vàng at 03/02/2023 10:10 PM
+BAG:bisbon add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/02/2023 10:11 PM
+BAG:bisbon add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/02/2023 10:11 PM
+BAG:bisbon add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/02/2023 10:12 PM
+BAG:bisbon add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/02/2023 10:12 PM
+BAG:bisbon add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/02/2023 10:12 PM
+BAG:bisbon add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/02/2023 10:14 PM
+BAG:bisbon add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/02/2023 10:15 PM
+BAG:bisbon add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:bisbon add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:bisbon add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:bisbon add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:bisbon add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:bisbon add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:bisbon add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/02/2023 10:16 PM
+BAG:bisbon add 1xÁo vải thô lydo: (GD) Nhận từ shadow at 03/02/2023 10:19 PM
+BAG:bisbon add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/02/2023 10:19 PM
+BAG:bisbon add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/02/2023 10:21 PM
+BAG:bisbon add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/02/2023 10:21 PM
+BAG:bisbon add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/02/2023 10:23 PM
+BAG:bisbon add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/02/2023 10:23 PM
+BAG:bisbon add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/02/2023 10:24 PM
+BAG:bisbon add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/02/2023 10:24 PM
+BAG:bisbon add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/02/2023 10:25 PM
+BAG:bisbon add 39xBột mì (old: 38) lydo: Nhặt từ map at 03/02/2023 10:25 PM
+BAG:bisbon add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/02/2023 10:25 PM
+BAG:bisbon add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/02/2023 10:27 PM
+BAG:bisbon add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/02/2023 10:29 PM
+BAG:bisbon add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:bisbon add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:bisbon add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:bisbon add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:bisbon add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:bisbon add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:bisbon add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:bisbon add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:bisbon add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:bisbon add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/02/2023 10:30 PM
+BAG:bisbon add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xQuả cầu Kênh Khi lv2 lydo: Mua từ cửa hàng at 03/02/2023 10:31 PM
+BAG:bisbon add 1xQuả cầu Kênh Khi lv4 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xQuả cầu Kênh Khi lv3 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xQuả cầu Kênh Khi lv5 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xQuả cầu Kênh Khi lv6 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xQuả cầu Kênh Khi lv7 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/02/2023 10:32 PM
+BAG:bisbon add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/02/2023 10:33 PM
+BAG:bisbon add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/02/2023 10:33 PM
+BAG:bisbon add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 03/02/2023 10:34 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/02/2023 10:37 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/02/2023 10:37 PM
+BAG:bisbon add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 10:38 PM
+BAG:bisbon add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 10:38 PM
+BAG:bisbon add 999907xThỏi vàng (old: 999808) lydo: Lấy từ rương qua người at 03/02/2023 10:42 PM
+BAG:bisbon add 1000006xThỏi vàng (old: 999907) lydo: Lấy từ rương qua người at 03/02/2023 10:42 PM
+BAG:bisbon add 1xĐá Vĩnh Hằng lydo: Admin at 03/02/2023 10:43 PM
+BAG:bisbon add 99xĐá Vĩnh Hằng (old: 1) lydo: Admin at 03/02/2023 10:43 PM
+BAG:bisbon add 1xĐá Hắc Hóa lydo: Admin at 03/02/2023 10:43 PM
+BAG:bisbon add 99xĐá Hắc Hóa (old: 1) lydo: Admin at 03/02/2023 10:43 PM
+BAG:bisbon add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/02/2023 10:44 PM
+BAG:bisbon add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/02/2023 10:44 PM
+BAG:bisbon add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/02/2023 10:44 PM
+BAG:bisbon add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/02/2023 10:45 PM
+BAG:bisbon add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/02/2023 10:46 PM
+BAG:bisbon add 1xCải trang lydo: Mua từ bill at 03/02/2023 10:49 PM
+BAG:bisbon add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 10:49 PM
+BAG:bisbon add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 10:49 PM
+BAG:bisbon add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 10:50 PM
+BAG:bisbon add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 10:50 PM
+BAG:bisbon add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 10:50 PM
+BAG:bisbon add 1xÁo bạc Goku lydo: Lấy từ body vào hành trang at 03/02/2023 10:50 PM
+BAG:bisbon add 1xQuần bạc Goku lydo: Lấy từ body vào hành trang at 03/02/2023 10:50 PM
+BAG:bisbon add 1xRada cấp 9 lydo: Lấy từ body vào hành trang at 03/02/2023 10:50 PM
+BAG:bisbon add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/02/2023 10:53 PM
+BAG:bisbon add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/02/2023 10:53 PM
+BAG:bisbon add 1xGiày jean Calic lydo: Mua từ cửa hàng at 03/02/2023 10:53 PM
+BAG:bisbon add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/02/2023 10:53 PM
+BAG:bisbon add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/02/2023 10:54 PM
+BAG:bisbon add 1xGiày jean Calic lydo: Lấy từ body vào hành trang at 03/02/2023 10:55 PM
+BAG:bisbon add 1xRada cấp 12 lydo: Mua từ cửa hàng at 03/02/2023 10:56 PM
+BAG:bisbon add 1xRada cấp 12 lydo: Lấy từ body vào hành trang at 03/02/2023 10:56 PM
+BAG:bisbon add 1xGăng jean Calic lydo: Lấy từ body vào hành trang at 03/02/2023 10:57 PM
+BAG:bisbon add 1xGiày jean Calic lydo: Lấy từ body vào hành trang at 03/02/2023 10:57 PM
+BAG:bisbon add 1xRada cấp 12 lydo: Lấy từ body vào hành trang at 03/02/2023 10:57 PM
+BAG:bisbon add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/02/2023 10:58 PM
+BAG:bisbon add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/02/2023 10:58 PM
+BAG:bisbon add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/02/2023 10:58 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 10:58 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 10:58 PM
+BAG:bisbon add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/02/2023 10:59 PM
+BAG:bisbon add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/02/2023 10:59 PM
+BAG:bisbon add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/02/2023 10:59 PM
+BAG:bisbon add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/02/2023 10:59 PM
+BAG:bisbon add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/02/2023 10:59 PM
+BAG:bisbon add 40xBột mì (old: 39) lydo: Nhặt từ map at 03/02/2023 11:00 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 11:00 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 11:00 PM
+BAG:bisbon add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/02/2023 11:00 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/02/2023 11:00 PM
+BAG:bisbon add 41xBột mì (old: 40) lydo: Nhặt từ map at 03/02/2023 11:00 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 11:00 PM
+BAG:bisbon add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 11:00 PM
+BAG:bisbon add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/02/2023 11:01 PM
+BAG:bisbon add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/02/2023 11:01 PM
+BAG:bisbon add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/02/2023 11:01 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 11:01 PM
+BAG:bisbon add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/02/2023 11:01 PM
+BAG:bisbon add 42xBột mì (old: 41) lydo: Nhặt từ map at 03/02/2023 11:01 PM
+BAG:bisbon add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/02/2023 11:02 PM
+BAG:bisbon add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 11:02 PM
+BAG:bisbon add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 11:03 PM
+BAG:bisbon add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 11:03 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/02/2023 11:03 PM
+BAG:bisbon add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/02/2023 11:03 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/02/2023 11:03 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/02/2023 11:03 PM
+BAG:bisbon add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/02/2023 11:04 PM
+BAG:bisbon add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 11:04 PM
+BAG:bisbon add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/02/2023 11:07 PM
+BAG:bisbon add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/02/2023 11:07 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:07 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:08 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 11:08 PM
+BAG:bisbon add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/02/2023 11:08 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 11:09 PM
+BAG:bisbon add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/02/2023 11:09 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:09 PM
+BAG:bisbon add 43xBột mì (old: 42) lydo: Nhặt từ map at 03/02/2023 11:09 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:09 PM
+BAG:bisbon add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 11:10 PM
+BAG:bisbon add 44xBột mì (old: 43) lydo: Nhặt từ map at 03/02/2023 11:10 PM
+BAG:bisbon add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 11:10 PM
+BAG:bisbon add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/02/2023 11:10 PM
+BAG:bisbon add 45xBột mì (old: 44) lydo: Nhặt từ map at 03/02/2023 11:10 PM
+BAG:bisbon add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/02/2023 11:10 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 11:10 PM
+BAG:bisbon add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/02/2023 11:11 PM
+BAG:bisbon add 46xBột mì (old: 45) lydo: Nhặt từ map at 03/02/2023 11:11 PM
+BAG:bisbon add 47xBột mì (old: 46) lydo: Nhặt từ map at 03/02/2023 11:11 PM
+BAG:bisbon add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/02/2023 11:12 PM
+BAG:bisbon add 48xBột mì (old: 47) lydo: Nhặt từ map at 03/02/2023 11:12 PM
+BAG:bisbon add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/02/2023 11:12 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 11:13 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 11:13 PM
+BAG:bisbon add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/02/2023 11:13 PM
+BAG:bisbon add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/02/2023 11:14 PM
+BAG:bisbon add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/02/2023 11:14 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 11:14 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 11:14 PM
+BAG:bisbon add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 11:14 PM
+BAG:bisbon add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 11:14 PM
+BAG:bisbon add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 11:14 PM
+BAG:bisbon add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 11:14 PM
+BAG:bisbon add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 11:15 PM
+BAG:bisbon add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 11:15 PM
+BAG:bisbon add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 11:15 PM
+BAG:bisbon add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 11:16 PM
+BAG:bisbon add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/02/2023 11:16 PM
+BAG:bisbon add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/02/2023 11:16 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:16 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:17 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:17 PM
+BAG:bisbon add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/02/2023 11:17 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 11:17 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:18 PM
+BAG:bisbon add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/02/2023 11:18 PM
+BAG:bisbon add 49xBột mì (old: 48) lydo: Nhặt từ map at 03/02/2023 11:18 PM
+BAG:bisbon add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/02/2023 11:18 PM
+BAG:bisbon add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/02/2023 11:18 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 11:18 PM
+BAG:bisbon add 50xBột mì (old: 49) lydo: Nhặt từ map at 03/02/2023 11:18 PM
+BAG:bisbon add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/02/2023 11:19 PM
+BAG:bisbon add 51xBột mì (old: 50) lydo: Nhặt từ map at 03/02/2023 11:19 PM
+BAG:bisbon add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 11:19 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 11:19 PM
+BAG:bisbon add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/02/2023 11:19 PM
+BAG:bisbon add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/02/2023 11:19 PM
+BAG:bisbon add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/02/2023 11:19 PM
+BAG:bisbon add 44xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/02/2023 11:19 PM
+BAG:bisbon add 42xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 03/02/2023 11:19 PM
+BAG:bisbon add 52xBột mì (old: 51) lydo: Nhặt từ map at 03/02/2023 11:20 PM
+BAG:bisbon add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 11:20 PM
+BAG:bisbon add 43xTrứng vịt muối (old: 42) lydo: Nhặt từ map at 03/02/2023 11:20 PM
+BAG:bisbon add 45xĐậu xanh (old: 44) lydo: Nhặt từ map at 03/02/2023 11:21 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:21 PM
+BAG:bisbon add 46xĐậu xanh (old: 45) lydo: Nhặt từ map at 03/02/2023 11:21 PM
+BAG:bisbon add 47xĐậu xanh (old: 46) lydo: Nhặt từ map at 03/02/2023 11:23 PM
+BAG:bisbon add 44xTrứng vịt muối (old: 43) lydo: Nhặt từ map at 03/02/2023 11:23 PM
+BAG:bisbon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 11:23 PM
+BAG:bisbon add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 11:24 PM
+BAG:bisbon add 53xBột mì (old: 52) lydo: Nhặt từ map at 03/02/2023 11:25 PM
+BAG:bisbon add 48xĐậu xanh (old: 47) lydo: Nhặt từ map at 03/02/2023 11:26 PM
+BAG:bisbon add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/02/2023 11:26 PM
+BAG:bisbon add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 03/02/2023 11:26 PM
+BAG:bisbon add 49xĐậu xanh (old: 48) lydo: Nhặt từ map at 03/02/2023 11:26 PM
+BAG:bisbon add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 11:26 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:26 PM
+BAG:bisbon add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 11:26 PM
+BAG:bisbon add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 11:27 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:27 PM
+BAG:bisbon add 46xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 03/02/2023 11:27 PM
+BAG:bisbon add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 11:27 PM
+BAG:bisbon add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/02/2023 11:27 PM
+BAG:bisbon add 54xBột mì (old: 53) lydo: Nhặt từ map at 03/02/2023 11:27 PM
+BAG:bisbon add 55xBột mì (old: 54) lydo: Nhặt từ map at 03/02/2023 11:27 PM
+BAG:bisbon add 1xÁo bạc Goku lydo: Lấy từ body vào hành trang at 03/02/2023 11:28 PM
+BAG:bisbon add 1xGăng bạc Goku lydo: Lấy từ body vào hành trang at 03/02/2023 11:28 PM
+BAG:bisbon add 1xQuần bạc Goku lydo: Lấy từ body vào hành trang at 03/02/2023 11:32 PM
+BAG:bisbon add 1xGiày bạc Goku lydo: Lấy từ body vào hành trang at 03/02/2023 11:34 PM
+BAG:bisbon add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/02/2023 11:34 PM
+BAG:bisbon add 16xNgọc Rồng 3 sao lydo: Admin at 03/02/2023 11:37 PM
+BAG:bisbon add 1xGăng bạc Goku lydo: Lấy từ body vào hành trang at 03/02/2023 11:38 PM
+BAG:bisbon add 1xGăng bạc Goku lydo: Lấy từ body vào hành trang at 03/02/2023 11:44 PM
+BAG:bisbon add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 11:46 PM
+BAG:bisbon add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 11:46 PM
+BAG:bisbon add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 11:46 PM
+BAG:bisbon add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 11:46 PM
+BAG:bisbon add 24xNgọc Rồng 3 sao (old: 8) lydo: Admin at 03/02/2023 11:49 PM
+BAG:bisbon add 40xNgọc Rồng 3 sao (old: 24) lydo: Admin at 03/02/2023 11:51 PM
+BAG:bisbon add 56xNgọc Rồng 3 sao (old: 40) lydo: Admin at 03/02/2023 11:53 PM

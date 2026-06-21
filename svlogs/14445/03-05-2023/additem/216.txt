@@ -1,0 +1,15 @@
+BAG:cudamsamset add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/05/2023 11:21 PM
+BAG:cudamsamset add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 03/05/2023 11:21 PM
+BAG:cudamsamset add 11xĐậu thần cấp 4 (old: 10) lydo: Lấy từ rương qua người at 03/05/2023 11:22 PM
+BAG:cudamsamset add 19xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/05/2023 11:22 PM
+BAG:cudamsamset add 39xĐậu thần cấp 10 (old: 19) lydo: Lấy từ rương qua người at 03/05/2023 11:22 PM
+BAG:cudamsamset add 59xĐậu thần cấp 10 (old: 39) lydo: Lấy từ rương qua người at 03/05/2023 11:22 PM
+BAG:cudamsamset add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:cudamsamset add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:cudamsamset add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:cudamsamset add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 11:26 PM
+BAG:cudamsamset add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 11:27 PM
+BAG:cudamsamset add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:cudamsamset add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:cudamsamset add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/05/2023 11:28 PM
+BAG:cudamsamset add 1xĐá Ruby lydo: Nhặt từ map at 03/05/2023 11:28 PM

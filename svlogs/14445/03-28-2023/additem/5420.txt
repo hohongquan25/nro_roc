@@ -1,0 +1,88 @@
+BAG:ngocminhne add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/28/2023 6:21 PM
+BAG:ngocminhne add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 6:24 PM
+BAG:ngocminhne add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 6:24 PM
+BAG:ngocminhne add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/28/2023 6:24 PM
+BAG:ngocminhne add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/28/2023 6:24 PM
+BAG:ngocminhne add 1xCải trang Black Goku SSJ White lydo: Mua từ cửa hàng at 03/28/2023 6:29 PM
+BAG:ngocminhne add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 6:30 PM
+BAG:ngocminhne add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 6:30 PM
+BAG:ngocminhne add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 6:30 PM
+BAG:ngocminhne add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 6:30 PM
+BAG:ngocminhne add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 6:30 PM
+BAG:ngocminhne add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 6:30 PM
+BAG:ngocminhne add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 6:30 PM
+BAG:ngocminhne add 1xMèo mun lydo: Mua từ cửa hàng at 03/28/2023 6:30 PM
+BAG:ngocminhne add 25xThỏi vàng lydo: Đổi vàng at 03/28/2023 6:31 PM
+BAG:ngocminhne add 5025xThỏi vàng (old: 25) lydo: Đổi vàng at 03/28/2023 6:31 PM
+BAG:ngocminhne add 10025xThỏi vàng (old: 5025) lydo: Đổi vàng at 03/28/2023 6:31 PM
+BAG:ngocminhne add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 6:31 PM
+BAG:ngocminhne add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 6:31 PM
+BAG:ngocminhne add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 6:31 PM
+BAG:ngocminhne add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 6:31 PM
+BAG:ngocminhne add 1xCải trang Mị Nương lydo: Mua từ bill at 03/28/2023 6:32 PM
+BAG:ngocminhne add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/28/2023 6:33 PM
+BAG:ngocminhne add 1xCá heo lydo: Mua từ bill at 03/28/2023 6:33 PM
+BAG:ngocminhne add 1xCải trang Super Cumber lydo: Mua từ bill at 03/28/2023 6:33 PM
+BAG:ngocminhne add 1xCải Trang Cumber lydo: Mua từ bill at 03/28/2023 6:33 PM
+BAG:ngocminhne add 1xCải trang Trâu trắng lydo: Mua từ bill at 03/28/2023 6:33 PM
+BAG:ngocminhne add 1xCải trang Trâu Nâu lydo: Mua từ bill at 03/28/2023 6:33 PM
+BAG:ngocminhne add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 6:35 PM
+BAG:ngocminhne add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 6:36 PM
+BAG:ngocminhne add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 6:43 PM
+BAG:ngocminhne add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 6:44 PM
+BAG:ngocminhne add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 6:44 PM
+BAG:ngocminhne add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 9:08 PM
+BAG:ngocminhne add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/28/2023 9:11 PM
+BAG:ngocminhne add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 9:12 PM
+BAG:ngocminhne add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/28/2023 9:12 PM
+BAG:ngocminhne add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/28/2023 9:12 PM
+BAG:ngocminhne add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/28/2023 9:12 PM
+BAG:ngocminhne add 10xNgọc Rồng 1 sao lydo: (GD) Nhận từ vegoakun at 03/28/2023 9:16 PM
+BAG:ngocminhne add 10xNgọc Rồng 2 sao lydo: (GD) Nhận từ vegoakun at 03/28/2023 9:16 PM
+BAG:ngocminhne add 50xNgọc Rồng 3 sao lydo: (GD) Nhận từ vegoakun at 03/28/2023 9:16 PM
+BAG:ngocminhne add 10xNgọc Rồng 4 sao lydo: (GD) Nhận từ vegoakun at 03/28/2023 9:16 PM
+BAG:ngocminhne add 10xNgọc Rồng 5 sao lydo: (GD) Nhận từ vegoakun at 03/28/2023 9:16 PM
+BAG:ngocminhne add 10xNgọc Rồng 6 sao lydo: (GD) Nhận từ vegoakun at 03/28/2023 9:16 PM
+BAG:ngocminhne add 10xNgọc Rồng 7 sao lydo: (GD) Nhận từ vegoakun at 03/28/2023 9:16 PM
+BAG:ngocminhne add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/28/2023 9:17 PM
+BAG:ngocminhne add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 9:17 PM
+BAG:ngocminhne add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 9:17 PM
+BAG:ngocminhne add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/28/2023 9:17 PM
+BAG:ngocminhne add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 9:18 PM
+BAG:ngocminhne add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 9:18 PM
+BAG:ngocminhne add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/28/2023 9:19 PM
+BAG:ngocminhne add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/28/2023 9:20 PM
+BAG:ngocminhne add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/28/2023 9:20 PM
+BAG:ngocminhne add 1xQuần lưỡng long lydo: Mua từ cửa hàng at 03/28/2023 9:20 PM
+BAG:ngocminhne add 1xÁo lưỡng long lydo: Mua từ cửa hàng at 03/28/2023 9:20 PM
+BAG:ngocminhne add 1xÁo lưỡng long lydo: Mua từ cửa hàng at 03/28/2023 9:20 PM
+BAG:ngocminhne add 1xAvatar VIP lydo: Ước NR at 03/28/2023 9:20 PM
+BAG:ngocminhne add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 10:45 PM
+BAG:ngocminhne add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 10:46 PM
+BAG:ngocminhne add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 10:46 PM

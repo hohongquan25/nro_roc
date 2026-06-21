@@ -1,0 +1,764 @@
+BAG:thanhbuliem add 1xTanjiro lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:50 AM
+BAG:thanhbuliem add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 03/30/2023 1:10 PM
+BAG:thanhbuliem add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/30/2023 1:10 PM
+BAG:thanhbuliem add 1xQuần Hủy Diệt lydo: Lấy từ body vào hành trang at 03/30/2023 1:10 PM
+BAG:thanhbuliem add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 03/30/2023 1:10 PM
+BAG:thanhbuliem add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/30/2023 1:10 PM
+BAG:thanhbuliem add 9xBổ khí lydo: Lấy từ rương qua người at 03/30/2023 1:11 PM
+BAG:thanhbuliem add 50xSao pha lê lydo: Lấy từ rương qua người at 03/30/2023 1:11 PM
+BAG:thanhbuliem add 50xSao pha lê lydo: Lấy từ rương qua người at 03/30/2023 1:11 PM
+BAG:thanhbuliem add 170xThỏi vàng (old: 71) lydo: Lấy từ rương qua người at 03/30/2023 1:11 PM
+BAG:thanhbuliem add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/30/2023 1:11 PM
+BAG:thanhbuliem add 1xMảnh Khủng long lydo: Nhặt từ map at 03/30/2023 1:12 PM
+BAG:thanhbuliem add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/30/2023 1:12 PM
+BAG:thanhbuliem add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/30/2023 1:12 PM
+BAG:thanhbuliem add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/30/2023 1:13 PM
+BAG:thanhbuliem add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/30/2023 1:13 PM
+BAG:thanhbuliem add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/30/2023 1:13 PM
+BAG:thanhbuliem add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/30/2023 1:14 PM
+BAG:thanhbuliem add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/30/2023 1:14 PM
+BAG:thanhbuliem add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/30/2023 1:14 PM
+BAG:thanhbuliem add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/30/2023 1:14 PM
+BAG:thanhbuliem add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/30/2023 1:14 PM
+BAG:thanhbuliem add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/30/2023 1:15 PM
+BAG:thanhbuliem add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/30/2023 1:15 PM
+BAG:thanhbuliem add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/30/2023 1:15 PM
+BAG:thanhbuliem add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 03/30/2023 1:16 PM
+BAG:thanhbuliem add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/30/2023 1:17 PM
+BAG:thanhbuliem add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/30/2023 1:17 PM
+BAG:thanhbuliem add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/30/2023 1:17 PM
+BAG:thanhbuliem add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/30/2023 1:18 PM
+BAG:thanhbuliem add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/30/2023 1:18 PM
+BAG:thanhbuliem add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/30/2023 1:19 PM
+BAG:thanhbuliem add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/30/2023 1:19 PM
+BAG:thanhbuliem add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/30/2023 1:20 PM
+BAG:thanhbuliem add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/30/2023 1:20 PM
+BAG:thanhbuliem add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/30/2023 1:20 PM
+BAG:thanhbuliem add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/30/2023 1:20 PM
+BAG:thanhbuliem add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/30/2023 1:20 PM
+BAG:thanhbuliem add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/30/2023 1:21 PM
+BAG:thanhbuliem add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/30/2023 1:21 PM
+BAG:thanhbuliem add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/30/2023 1:21 PM
+BAG:thanhbuliem add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/30/2023 1:21 PM
+BAG:thanhbuliem add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/30/2023 1:21 PM
+BAG:thanhbuliem add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/30/2023 1:22 PM
+BAG:thanhbuliem add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/30/2023 1:22 PM
+BAG:thanhbuliem add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/30/2023 1:22 PM
+BAG:thanhbuliem add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/30/2023 1:23 PM
+BAG:thanhbuliem add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/30/2023 1:23 PM
+BAG:thanhbuliem add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/30/2023 1:23 PM
+BAG:thanhbuliem add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/30/2023 1:23 PM
+BAG:thanhbuliem add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/30/2023 1:24 PM
+BAG:thanhbuliem add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/30/2023 1:25 PM
+BAG:thanhbuliem add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/30/2023 1:25 PM
+BAG:thanhbuliem add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/30/2023 1:26 PM
+BAG:thanhbuliem add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/30/2023 1:26 PM
+BAG:thanhbuliem add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/30/2023 1:26 PM
+BAG:thanhbuliem add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/30/2023 1:26 PM
+BAG:thanhbuliem add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/30/2023 1:27 PM
+BAG:thanhbuliem add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/30/2023 1:27 PM
+BAG:thanhbuliem add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/30/2023 1:28 PM
+BAG:thanhbuliem add 1xQuần vải đen lydo: Nhặt từ map at 03/30/2023 1:28 PM
+BAG:thanhbuliem add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/30/2023 1:29 PM
+BAG:thanhbuliem add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/30/2023 1:29 PM
+BAG:thanhbuliem add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/30/2023 1:30 PM
+BAG:thanhbuliem add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/30/2023 1:32 PM
+BAG:thanhbuliem add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/30/2023 1:32 PM
+BAG:thanhbuliem add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/30/2023 1:33 PM
+BAG:thanhbuliem add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/30/2023 1:33 PM
+BAG:thanhbuliem add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/30/2023 1:33 PM
+BAG:thanhbuliem add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/30/2023 1:33 PM
+BAG:thanhbuliem add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/30/2023 1:34 PM
+BAG:thanhbuliem add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/30/2023 1:35 PM
+BAG:thanhbuliem add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/30/2023 1:35 PM
+BAG:thanhbuliem add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/30/2023 1:35 PM
+BAG:thanhbuliem add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/30/2023 1:36 PM
+BAG:thanhbuliem add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/30/2023 1:36 PM
+BAG:thanhbuliem add 1xRada cấp 1 lydo: Nhặt từ map at 03/30/2023 1:37 PM
+BAG:thanhbuliem add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/30/2023 1:37 PM
+BAG:thanhbuliem add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/30/2023 1:37 PM
+BAG:thanhbuliem add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/30/2023 1:37 PM
+BAG:thanhbuliem add 27xMảnh Khủng long (old: 26) lydo: Nhặt từ map at 03/30/2023 1:37 PM
+BAG:thanhbuliem add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/30/2023 1:38 PM
+BAG:thanhbuliem add 1xRada cấp 1 lydo: Nhặt từ map at 03/30/2023 1:38 PM
+BAG:thanhbuliem add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/30/2023 1:39 PM
+BAG:thanhbuliem add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/30/2023 1:39 PM
+BAG:thanhbuliem add 1xTanjiro lydo: Lấy từ body đệ vào hành trang at 03/30/2023 1:39 PM
+BAG:thanhbuliem add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/30/2023 1:39 PM
+BAG:thanhbuliem add 1xĐá Hắc Hóa lydo: Mua santa at 03/30/2023 1:39 PM
+BAG:thanhbuliem add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/30/2023 1:40 PM
+BAG:thanhbuliem add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/30/2023 1:41 PM
+BAG:thanhbuliem add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/30/2023 1:42 PM
+BAG:thanhbuliem add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/30/2023 1:42 PM
+BAG:thanhbuliem add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/30/2023 1:42 PM
+BAG:thanhbuliem add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/30/2023 1:42 PM
+BAG:thanhbuliem add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/30/2023 1:42 PM
+BAG:thanhbuliem add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/30/2023 1:42 PM
+BAG:thanhbuliem add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/30/2023 1:42 PM
+BAG:thanhbuliem add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/30/2023 1:42 PM
+BAG:thanhbuliem add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/30/2023 1:42 PM
+BAG:thanhbuliem add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/30/2023 1:42 PM
+BAG:thanhbuliem add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/30/2023 1:43 PM
+BAG:thanhbuliem add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 40xĐá Vĩnh Hằng (old: 39) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 40xĐá Hắc Hóa (old: 39) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 41xĐá Vĩnh Hằng (old: 40) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 41xĐá Hắc Hóa (old: 40) lydo: Mua santa at 03/30/2023 1:46 PM
+BAG:thanhbuliem add 42xĐá Vĩnh Hằng (old: 41) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 42xĐá Hắc Hóa (old: 41) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 43xĐá Vĩnh Hằng (old: 42) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 43xĐá Hắc Hóa (old: 42) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 44xĐá Vĩnh Hằng (old: 43) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 44xĐá Hắc Hóa (old: 43) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 45xĐá Vĩnh Hằng (old: 44) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 45xĐá Hắc Hóa (old: 44) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 46xĐá Vĩnh Hằng (old: 45) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 46xĐá Hắc Hóa (old: 45) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 47xĐá Vĩnh Hằng (old: 46) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 47xĐá Hắc Hóa (old: 46) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 48xĐá Vĩnh Hằng (old: 47) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 48xĐá Hắc Hóa (old: 47) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 49xĐá Vĩnh Hằng (old: 48) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 49xĐá Hắc Hóa (old: 48) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 50xĐá Vĩnh Hằng (old: 49) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 50xĐá Hắc Hóa (old: 49) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 51xĐá Vĩnh Hằng (old: 50) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 51xĐá Hắc Hóa (old: 50) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 52xĐá Vĩnh Hằng (old: 51) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 52xĐá Hắc Hóa (old: 51) lydo: Mua santa at 03/30/2023 1:47 PM
+BAG:thanhbuliem add 53xĐá Vĩnh Hằng (old: 52) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 53xĐá Hắc Hóa (old: 52) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 54xĐá Vĩnh Hằng (old: 53) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 54xĐá Hắc Hóa (old: 53) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 55xĐá Vĩnh Hằng (old: 54) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 55xĐá Hắc Hóa (old: 54) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 56xĐá Vĩnh Hằng (old: 55) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 56xĐá Hắc Hóa (old: 55) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 57xĐá Vĩnh Hằng (old: 56) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 57xĐá Hắc Hóa (old: 56) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 58xĐá Vĩnh Hằng (old: 57) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 58xĐá Hắc Hóa (old: 57) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 59xĐá Vĩnh Hằng (old: 58) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 59xĐá Hắc Hóa (old: 58) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 60xĐá Vĩnh Hằng (old: 59) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 60xĐá Hắc Hóa (old: 59) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 61xĐá Vĩnh Hằng (old: 60) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 61xĐá Hắc Hóa (old: 60) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 62xĐá Vĩnh Hằng (old: 61) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 62xĐá Hắc Hóa (old: 61) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 63xĐá Vĩnh Hằng (old: 62) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 63xĐá Hắc Hóa (old: 62) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 64xĐá Vĩnh Hằng (old: 63) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 64xĐá Hắc Hóa (old: 63) lydo: Mua santa at 03/30/2023 1:48 PM
+BAG:thanhbuliem add 65xĐá Vĩnh Hằng (old: 64) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 65xĐá Hắc Hóa (old: 64) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 66xĐá Vĩnh Hằng (old: 65) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 66xĐá Hắc Hóa (old: 65) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 67xĐá Vĩnh Hằng (old: 66) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 67xĐá Hắc Hóa (old: 66) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 68xĐá Vĩnh Hằng (old: 67) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 68xĐá Hắc Hóa (old: 67) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 69xĐá Vĩnh Hằng (old: 68) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 69xĐá Hắc Hóa (old: 68) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 70xĐá Vĩnh Hằng (old: 69) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 70xĐá Hắc Hóa (old: 69) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 71xĐá Vĩnh Hằng (old: 70) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 71xĐá Hắc Hóa (old: 70) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 72xĐá Vĩnh Hằng (old: 71) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 72xĐá Hắc Hóa (old: 71) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 73xĐá Vĩnh Hằng (old: 72) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 73xĐá Hắc Hóa (old: 72) lydo: Mua santa at 03/30/2023 1:49 PM
+BAG:thanhbuliem add 74xĐá Vĩnh Hằng (old: 73) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 74xĐá Hắc Hóa (old: 73) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 75xĐá Vĩnh Hằng (old: 74) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 75xĐá Hắc Hóa (old: 74) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 76xĐá Vĩnh Hằng (old: 75) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 76xĐá Hắc Hóa (old: 75) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 77xĐá Vĩnh Hằng (old: 76) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 77xĐá Hắc Hóa (old: 76) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 78xĐá Vĩnh Hằng (old: 77) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 78xĐá Hắc Hóa (old: 77) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 79xĐá Vĩnh Hằng (old: 78) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 79xĐá Hắc Hóa (old: 78) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 80xĐá Vĩnh Hằng (old: 79) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 80xĐá Hắc Hóa (old: 79) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 81xĐá Vĩnh Hằng (old: 80) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 81xĐá Hắc Hóa (old: 80) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 82xĐá Vĩnh Hằng (old: 81) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 82xĐá Hắc Hóa (old: 81) lydo: Mua santa at 03/30/2023 1:50 PM
+BAG:thanhbuliem add 83xĐá Vĩnh Hằng (old: 82) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 83xĐá Hắc Hóa (old: 82) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 84xĐá Vĩnh Hằng (old: 83) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 84xĐá Hắc Hóa (old: 83) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 85xĐá Vĩnh Hằng (old: 84) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 85xĐá Hắc Hóa (old: 84) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 86xĐá Vĩnh Hằng (old: 85) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 86xĐá Hắc Hóa (old: 85) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 87xĐá Vĩnh Hằng (old: 86) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 87xĐá Hắc Hóa (old: 86) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 88xĐá Vĩnh Hằng (old: 87) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 88xĐá Hắc Hóa (old: 87) lydo: Mua santa at 03/30/2023 1:51 PM
+BAG:thanhbuliem add 89xĐá Vĩnh Hằng (old: 88) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 89xĐá Hắc Hóa (old: 88) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 90xĐá Vĩnh Hằng (old: 89) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 90xĐá Hắc Hóa (old: 89) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 91xĐá Vĩnh Hằng (old: 90) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 91xĐá Hắc Hóa (old: 90) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 92xĐá Vĩnh Hằng (old: 91) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 92xĐá Hắc Hóa (old: 91) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 93xĐá Vĩnh Hằng (old: 92) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 93xĐá Hắc Hóa (old: 92) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 94xĐá Vĩnh Hằng (old: 93) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 94xĐá Hắc Hóa (old: 93) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 95xĐá Vĩnh Hằng (old: 94) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 95xĐá Hắc Hóa (old: 94) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 96xĐá Vĩnh Hằng (old: 95) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 96xĐá Hắc Hóa (old: 95) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 97xĐá Vĩnh Hằng (old: 96) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 97xĐá Hắc Hóa (old: 96) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 98xĐá Vĩnh Hằng (old: 97) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 98xĐá Hắc Hóa (old: 97) lydo: Mua santa at 03/30/2023 1:52 PM
+BAG:thanhbuliem add 99xĐá Vĩnh Hằng (old: 98) lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 99xĐá Hắc Hóa (old: 98) lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 1xĐá Hắc Hóa lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/30/2023 1:53 PM
+BAG:thanhbuliem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 1xQuần jean Calic lydo: Cường Hóa trang bị at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 1xÁo jean Calic lydo: Cường Hóa trang bị at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/30/2023 1:54 PM
+BAG:thanhbuliem add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/30/2023 1:55 PM
+BAG:thanhbuliem add 1xQuần Thần Linh lydo: Cường Hóa trang bị at 03/30/2023 1:55 PM
+BAG:thanhbuliem add 1xÁo Thần Linh lydo: Cường Hóa trang bị at 03/30/2023 1:55 PM
+BAG:thanhbuliem add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/30/2023 1:55 PM
+BAG:thanhbuliem add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/30/2023 1:55 PM
+BAG:thanhbuliem add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/30/2023 1:55 PM
+BAG:thanhbuliem add 1xQuần Hủy Diệt lydo: Cường Hóa trang bị at 03/30/2023 1:55 PM
+BAG:thanhbuliem add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 03/30/2023 1:55 PM
+BAG:thanhbuliem add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/30/2023 1:55 PM
+BAG:thanhbuliem add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/30/2023 1:55 PM
+BAG:thanhbuliem add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/30/2023 1:57 PM
+BAG:thanhbuliem add 1xTanjiro lydo: Lấy từ body đệ vào hành trang at 03/30/2023 1:57 PM
+BAG:thanhbuliem add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/30/2023 1:57 PM
+BAG:thanhbuliem add 28xMảnh Khủng long (old: 27) lydo: Nhặt từ map at 03/30/2023 1:57 PM
+BAG:thanhbuliem add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/30/2023 1:58 PM
+BAG:thanhbuliem add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/30/2023 1:58 PM
+BAG:thanhbuliem add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/30/2023 1:59 PM
+BAG:thanhbuliem add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/30/2023 1:59 PM
+BAG:thanhbuliem add 29xMảnh Khủng long (old: 28) lydo: Nhặt từ map at 03/30/2023 2:00 PM
+BAG:thanhbuliem add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/30/2023 2:01 PM
+BAG:thanhbuliem add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/30/2023 2:02 PM
+BAG:thanhbuliem add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/30/2023 2:02 PM
+BAG:thanhbuliem add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/30/2023 2:02 PM
+BAG:thanhbuliem add 8xMảnh Khủng long mẹ (old: 7) lydo: Nhặt từ map at 03/30/2023 2:03 PM
+BAG:thanhbuliem add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhặt từ map at 03/30/2023 2:03 PM
+BAG:thanhbuliem add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/30/2023 2:03 PM
+BAG:thanhbuliem add 9xMảnh Khủng long mẹ (old: 8) lydo: Nhặt từ map at 03/30/2023 2:03 PM
+BAG:thanhbuliem add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/30/2023 2:05 PM
+BAG:thanhbuliem add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/30/2023 2:05 PM
+BAG:thanhbuliem add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/30/2023 2:05 PM
+BAG:thanhbuliem add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/30/2023 2:05 PM
+BAG:thanhbuliem add 10xMảnh Khủng long mẹ (old: 9) lydo: Nhặt từ map at 03/30/2023 2:06 PM
+BAG:thanhbuliem add 11xMảnh Khủng long mẹ (old: 10) lydo: Nhặt từ map at 03/30/2023 2:06 PM
+BAG:thanhbuliem add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/30/2023 2:06 PM
+BAG:thanhbuliem add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:06 PM
+BAG:thanhbuliem add 1xQuần vải đen lydo: Nhặt từ map at 03/30/2023 2:07 PM
+BAG:thanhbuliem add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/30/2023 2:07 PM
+BAG:thanhbuliem add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:07 PM
+BAG:thanhbuliem add 1xQuần Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:07 PM
+BAG:thanhbuliem add 1xGiầy Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:07 PM
+BAG:thanhbuliem add 1xNhẫn Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:07 PM
+BAG:thanhbuliem add 1xÁo Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:07 PM
+BAG:thanhbuliem add 1xTanjiro lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:07 PM
+BAG:thanhbuliem add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:07 PM
+BAG:thanhbuliem add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/30/2023 2:08 PM
+BAG:thanhbuliem add 30xMảnh Khủng long (old: 29) lydo: Nhặt từ map at 03/30/2023 2:09 PM
+BAG:thanhbuliem add 1xQuần vải đen lydo: Nhặt từ map at 03/30/2023 2:09 PM
+BAG:thanhbuliem add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/30/2023 2:09 PM
+BAG:thanhbuliem add 99xThỏi vàng lydo: Tách thỏi vàng at 03/30/2023 2:10 PM
+BAG:thanhbuliem add 31xMảnh Khủng long (old: 30) lydo: Nhặt từ map at 03/30/2023 2:11 PM
+BAG:thanhbuliem add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/30/2023 2:11 PM
+BAG:thanhbuliem add 32xMảnh Khủng long (old: 31) lydo: Nhặt từ map at 03/30/2023 2:12 PM
+BAG:thanhbuliem add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/30/2023 2:12 PM
+BAG:thanhbuliem add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhặt từ map at 03/30/2023 2:12 PM
+BAG:thanhbuliem add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/30/2023 2:12 PM
+BAG:thanhbuliem add 33xMảnh Khủng long (old: 32) lydo: Nhặt từ map at 03/30/2023 2:13 PM
+BAG:thanhbuliem add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/30/2023 2:13 PM
+BAG:thanhbuliem add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/30/2023 2:13 PM
+BAG:thanhbuliem add 12xMảnh Khủng long mẹ (old: 11) lydo: Nhặt từ map at 03/30/2023 2:13 PM
+BAG:thanhbuliem add 1xGăng vải đen lydo: Nhặt từ map at 03/30/2023 2:14 PM
+BAG:thanhbuliem add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/30/2023 2:14 PM
+BAG:thanhbuliem add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/30/2023 2:14 PM
+BAG:thanhbuliem add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/30/2023 2:14 PM
+BAG:thanhbuliem add 34xMảnh Khủng long (old: 33) lydo: Nhặt từ map at 03/30/2023 2:14 PM
+BAG:thanhbuliem add 13xMảnh Khủng long mẹ (old: 12) lydo: Nhặt từ map at 03/30/2023 2:15 PM
+BAG:thanhbuliem add 35xMảnh Khủng long (old: 34) lydo: Nhặt từ map at 03/30/2023 2:15 PM
+BAG:thanhbuliem add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/30/2023 2:15 PM
+BAG:thanhbuliem add 14xMảnh Khủng long mẹ (old: 13) lydo: Nhặt từ map at 03/30/2023 2:15 PM
+BAG:thanhbuliem add 36xMảnh Khủng long (old: 35) lydo: Nhặt từ map at 03/30/2023 2:15 PM
+BAG:thanhbuliem add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/30/2023 2:16 PM
+BAG:thanhbuliem add 37xMảnh Khủng long (old: 36) lydo: Nhặt từ map at 03/30/2023 2:17 PM
+BAG:thanhbuliem add 1xGăng vải đen lydo: Nhặt từ map at 03/30/2023 2:17 PM
+BAG:thanhbuliem add 15xMảnh Khủng long mẹ (old: 14) lydo: Nhặt từ map at 03/30/2023 2:17 PM
+BAG:thanhbuliem add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhặt từ map at 03/30/2023 2:17 PM
+BAG:thanhbuliem add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/30/2023 2:17 PM
+BAG:thanhbuliem add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/30/2023 2:18 PM
+BAG:thanhbuliem add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/30/2023 2:18 PM
+BAG:thanhbuliem add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/30/2023 2:18 PM
+BAG:thanhbuliem add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhặt từ map at 03/30/2023 2:19 PM
+BAG:thanhbuliem add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/30/2023 2:20 PM
+BAG:thanhbuliem add 38xMảnh Khủng long (old: 37) lydo: Nhặt từ map at 03/30/2023 2:20 PM
+BAG:thanhbuliem add 16xMảnh Khủng long mẹ (old: 15) lydo: Nhặt từ map at 03/30/2023 2:21 PM
+BAG:thanhbuliem add 39xMảnh Khủng long (old: 38) lydo: Nhặt từ map at 03/30/2023 2:21 PM
+BAG:thanhbuliem add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/30/2023 2:21 PM
+BAG:thanhbuliem add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/30/2023 2:21 PM
+BAG:thanhbuliem add 17xMảnh Khủng long mẹ (old: 16) lydo: Nhặt từ map at 03/30/2023 2:21 PM
+BAG:thanhbuliem add 40xMảnh Khủng long (old: 39) lydo: Nhặt từ map at 03/30/2023 2:22 PM
+BAG:thanhbuliem add 41xMảnh Khủng long (old: 40) lydo: Nhặt từ map at 03/30/2023 2:22 PM
+BAG:thanhbuliem add 18xMảnh Khủng long mẹ (old: 17) lydo: Nhặt từ map at 03/30/2023 2:22 PM
+BAG:thanhbuliem add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/30/2023 2:23 PM
+BAG:thanhbuliem add 42xMảnh Khủng long (old: 41) lydo: Nhặt từ map at 03/30/2023 2:23 PM
+BAG:thanhbuliem add 1xGăng vải đen lydo: Nhặt từ map at 03/30/2023 2:23 PM
+BAG:thanhbuliem add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/30/2023 2:24 PM
+BAG:thanhbuliem add 19xMảnh Khủng long mẹ (old: 18) lydo: Nhặt từ map at 03/30/2023 2:24 PM
+BAG:thanhbuliem add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/30/2023 2:25 PM
+BAG:thanhbuliem add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/30/2023 2:25 PM
+BAG:thanhbuliem add 20xMảnh Khủng long mẹ (old: 19) lydo: Nhặt từ map at 03/30/2023 2:25 PM
+BAG:thanhbuliem add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/30/2023 2:25 PM
+BAG:thanhbuliem add 43xMảnh Khủng long (old: 42) lydo: Nhặt từ map at 03/30/2023 2:26 PM
+BAG:thanhbuliem add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/30/2023 2:26 PM
+BAG:thanhbuliem add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/30/2023 2:26 PM
+BAG:thanhbuliem add 44xMảnh Khủng long (old: 43) lydo: Nhặt từ map at 03/30/2023 2:26 PM
+BAG:thanhbuliem add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/30/2023 2:26 PM
+BAG:thanhbuliem add 45xMảnh Khủng long (old: 44) lydo: Nhặt từ map at 03/30/2023 2:27 PM
+BAG:thanhbuliem add 21xMảnh Khủng long mẹ (old: 20) lydo: Nhặt từ map at 03/30/2023 2:27 PM
+BAG:thanhbuliem add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/30/2023 2:27 PM
+BAG:thanhbuliem add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/30/2023 2:27 PM
+BAG:thanhbuliem add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/30/2023 2:27 PM
+BAG:thanhbuliem add 46xMảnh Khủng long (old: 45) lydo: Nhặt từ map at 03/30/2023 2:27 PM
+BAG:thanhbuliem add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/30/2023 2:27 PM
+BAG:thanhbuliem add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/30/2023 2:27 PM
+BAG:thanhbuliem add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/30/2023 2:28 PM
+BAG:thanhbuliem add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/30/2023 2:28 PM
+BAG:thanhbuliem add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/30/2023 2:28 PM
+BAG:thanhbuliem add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/30/2023 2:29 PM
+BAG:thanhbuliem add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/30/2023 2:29 PM
+BAG:thanhbuliem add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/30/2023 2:30 PM
+BAG:thanhbuliem add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/30/2023 2:31 PM
+BAG:thanhbuliem add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/30/2023 2:31 PM
+BAG:thanhbuliem add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/30/2023 2:31 PM
+BAG:thanhbuliem add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/30/2023 2:31 PM
+BAG:thanhbuliem add 47xMảnh Khủng long (old: 46) lydo: Nhặt từ map at 03/30/2023 2:31 PM
+BAG:thanhbuliem add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/30/2023 2:31 PM
+BAG:thanhbuliem add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/30/2023 2:31 PM
+BAG:thanhbuliem add 22xMảnh Khủng long mẹ (old: 21) lydo: Nhặt từ map at 03/30/2023 2:32 PM
+BAG:thanhbuliem add 6xMảnh Thằn lằn bay (old: 5) lydo: Nhặt từ map at 03/30/2023 2:32 PM
+BAG:thanhbuliem add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/30/2023 2:32 PM
+BAG:thanhbuliem add 48xMảnh Khủng long (old: 47) lydo: Nhặt từ map at 03/30/2023 2:32 PM
+BAG:thanhbuliem add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/30/2023 2:32 PM
+BAG:thanhbuliem add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/30/2023 2:33 PM
+BAG:thanhbuliem add 49xMảnh Khủng long (old: 48) lydo: Nhặt từ map at 03/30/2023 2:33 PM
+BAG:thanhbuliem add 50xMảnh Khủng long (old: 49) lydo: Nhặt từ map at 03/30/2023 2:33 PM
+BAG:thanhbuliem add 23xMảnh Khủng long mẹ (old: 22) lydo: Nhặt từ map at 03/30/2023 2:33 PM
+BAG:thanhbuliem add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/30/2023 2:33 PM
+BAG:thanhbuliem add 7xMảnh Thằn lằn bay (old: 6) lydo: Nhặt từ map at 03/30/2023 2:34 PM
+BAG:thanhbuliem add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/30/2023 2:34 PM
+BAG:thanhbuliem add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/30/2023 2:34 PM
+BAG:thanhbuliem add 24xMảnh Khủng long mẹ (old: 23) lydo: Nhặt từ map at 03/30/2023 2:34 PM
+BAG:thanhbuliem add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/30/2023 2:35 PM
+BAG:thanhbuliem add 1xQuần vải đen lydo: Nhặt từ map at 03/30/2023 2:35 PM
+BAG:thanhbuliem add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/30/2023 2:35 PM
+BAG:thanhbuliem add 8xMảnh Thằn lằn bay (old: 7) lydo: Nhặt từ map at 03/30/2023 2:35 PM
+BAG:thanhbuliem add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 03/30/2023 2:36 PM
+BAG:thanhbuliem add 51xMảnh Khủng long (old: 50) lydo: Nhặt từ map at 03/30/2023 2:36 PM
+BAG:thanhbuliem add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/30/2023 2:36 PM
+BAG:thanhbuliem add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/30/2023 2:37 PM
+BAG:thanhbuliem add 25xMảnh Khủng long mẹ (old: 24) lydo: Nhặt từ map at 03/30/2023 2:37 PM
+BAG:thanhbuliem add 5xPháo hoa lydo: Nhặt từ map at 03/30/2023 2:37 PM
+BAG:thanhbuliem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/30/2023 2:38 PM
+BAG:thanhbuliem add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/30/2023 2:39 PM
+BAG:thanhbuliem add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 27xNgọc Rồng 6 sao (old: 26) lydo: HQT at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/30/2023 2:40 PM
+BAG:thanhbuliem add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/30/2023 2:41 PM
+BAG:thanhbuliem add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/30/2023 2:41 PM
+BAG:thanhbuliem add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/30/2023 2:41 PM
+BAG:thanhbuliem add 1xÁo jean Calic lydo: Cường Hóa trang bị at 03/30/2023 2:41 PM
+BAG:thanhbuliem add 1xÁo Thần Linh lydo: Cường Hóa trang bị at 03/30/2023 2:41 PM
+BAG:thanhbuliem add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/30/2023 2:41 PM
+BAG:thanhbuliem add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/30/2023 2:41 PM
+BAG:thanhbuliem add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 03/30/2023 2:41 PM
+BAG:thanhbuliem add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 5xPháo hoa lydo: Nhặt từ map at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/30/2023 2:42 PM
+BAG:thanhbuliem add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/30/2023 2:43 PM
+BAG:thanhbuliem add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/30/2023 2:43 PM
+BAG:thanhbuliem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/30/2023 2:44 PM
+BAG:thanhbuliem add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/30/2023 2:45 PM
+BAG:thanhbuliem add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/30/2023 2:46 PM
+BAG:thanhbuliem add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/30/2023 2:46 PM
+BAG:thanhbuliem add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/30/2023 2:46 PM
+BAG:thanhbuliem add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/30/2023 2:46 PM
+BAG:thanhbuliem add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/30/2023 2:46 PM
+BAG:thanhbuliem add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/30/2023 2:46 PM
+BAG:thanhbuliem add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/30/2023 2:46 PM
+BAG:thanhbuliem add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/30/2023 2:46 PM
+BAG:thanhbuliem add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/30/2023 2:46 PM
+BAG:thanhbuliem add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/30/2023 2:46 PM
+BAG:thanhbuliem add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/30/2023 2:47 PM
+BAG:thanhbuliem add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/30/2023 2:47 PM
+BAG:thanhbuliem add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/30/2023 2:47 PM
+BAG:thanhbuliem add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/30/2023 2:47 PM
+BAG:thanhbuliem add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 03/30/2023 2:47 PM
+BAG:thanhbuliem add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 03/30/2023 2:47 PM
+BAG:thanhbuliem add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/30/2023 2:47 PM
+BAG:thanhbuliem add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/30/2023 2:47 PM
+BAG:thanhbuliem add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/30/2023 2:47 PM
+BAG:thanhbuliem add 1xÁo jean Calic lydo: Cường Hóa trang bị at 03/30/2023 2:47 PM
+BAG:thanhbuliem add 1xÁo Thần Linh lydo: Cường Hóa trang bị at 03/30/2023 2:47 PM
+BAG:thanhbuliem add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 03/30/2023 2:48 PM
+BAG:thanhbuliem add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/30/2023 2:48 PM
+BAG:thanhbuliem add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/30/2023 2:48 PM
+BAG:thanhbuliem add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/30/2023 2:48 PM
+BAG:thanhbuliem add 1xÁo Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:48 PM
+BAG:thanhbuliem add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:49 PM
+BAG:thanhbuliem add 1xQuần Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:49 PM
+BAG:thanhbuliem add 1xGiầy Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:49 PM
+BAG:thanhbuliem add 1xNhẫn Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:49 PM
+BAG:thanhbuliem add 1xTanjiro lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:49 PM
+BAG:thanhbuliem add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:49 PM
+BAG:thanhbuliem add 50xPháo hoa (old: 45) lydo: Nhặt từ map at 03/30/2023 2:49 PM
+BAG:thanhbuliem add 55xPháo hoa (old: 50) lydo: Nhặt từ map at 03/30/2023 2:49 PM
+BAG:thanhbuliem add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/30/2023 2:50 PM
+BAG:thanhbuliem add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/30/2023 2:50 PM
+BAG:thanhbuliem add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/30/2023 2:51 PM
+BAG:thanhbuliem add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 03/30/2023 2:51 PM
+BAG:thanhbuliem add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/30/2023 2:51 PM
+BAG:thanhbuliem add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/30/2023 2:51 PM
+BAG:thanhbuliem add 60xPháo hoa (old: 55) lydo: Nhặt từ map at 03/30/2023 2:52 PM
+BAG:thanhbuliem add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/30/2023 2:52 PM
+BAG:thanhbuliem add 65xPháo hoa (old: 60) lydo: Nhặt từ map at 03/30/2023 2:53 PM
+BAG:thanhbuliem add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/30/2023 2:53 PM
+BAG:thanhbuliem add 52xMảnh Khủng long (old: 51) lydo: Nhặt từ map at 03/30/2023 2:53 PM
+BAG:thanhbuliem add 1xTanjiro lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:53 PM
+BAG:thanhbuliem add 1xQuần Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:53 PM
+BAG:thanhbuliem add 1xÁo Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:54 PM
+BAG:thanhbuliem add 1xGăng vải đen lydo: Nhặt từ map at 03/30/2023 2:54 PM
+BAG:thanhbuliem add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:54 PM
+BAG:thanhbuliem add 1xGiầy Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:54 PM
+BAG:thanhbuliem add 1xNhẫn Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:54 PM
+BAG:thanhbuliem add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:54 PM
+BAG:thanhbuliem add 53xMảnh Khủng long (old: 52) lydo: Nhặt từ map at 03/30/2023 2:54 PM
+BAG:thanhbuliem add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/30/2023 2:54 PM
+BAG:thanhbuliem add 1xRada cấp 1 lydo: Nhặt từ map at 03/30/2023 2:54 PM
+BAG:thanhbuliem add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/30/2023 2:54 PM
+BAG:thanhbuliem add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/30/2023 2:54 PM
+BAG:thanhbuliem add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/30/2023 2:55 PM
+BAG:thanhbuliem add 26xMảnh Khủng long mẹ (old: 25) lydo: Nhặt từ map at 03/30/2023 2:55 PM
+BAG:thanhbuliem add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/30/2023 2:55 PM
+BAG:thanhbuliem add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/30/2023 2:55 PM
+BAG:thanhbuliem add 54xMảnh Khủng long (old: 53) lydo: Nhặt từ map at 03/30/2023 2:56 PM
+BAG:thanhbuliem add 55xMảnh Khủng long (old: 54) lydo: Nhặt từ map at 03/30/2023 2:56 PM
+BAG:thanhbuliem add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/30/2023 2:56 PM
+BAG:thanhbuliem add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/30/2023 2:56 PM
+BAG:thanhbuliem add 56xMảnh Khủng long (old: 55) lydo: Nhặt từ map at 03/30/2023 2:57 PM
+BAG:thanhbuliem add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/30/2023 2:57 PM
+BAG:thanhbuliem add 27xMảnh Khủng long mẹ (old: 26) lydo: Nhặt từ map at 03/30/2023 2:58 PM
+BAG:thanhbuliem add 57xMảnh Khủng long (old: 56) lydo: Nhặt từ map at 03/30/2023 2:58 PM
+BAG:thanhbuliem add 58xMảnh Khủng long (old: 57) lydo: Nhặt từ map at 03/30/2023 2:58 PM
+BAG:thanhbuliem add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/30/2023 2:58 PM
+BAG:thanhbuliem add 59xMảnh Khủng long (old: 58) lydo: Nhặt từ map at 03/30/2023 2:58 PM
+BAG:thanhbuliem add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/30/2023 2:59 PM
+BAG:thanhbuliem add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/30/2023 2:59 PM
+BAG:thanhbuliem add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/30/2023 2:59 PM
+BAG:thanhbuliem add 1xGiáp Xên bọ hung lydo: HQT at 03/30/2023 2:59 PM
+BAG:thanhbuliem add 5xCuồng nộ (old: 4) lydo: HQT at 03/30/2023 2:59 PM
+BAG:thanhbuliem add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/30/2023 2:59 PM
+BAG:thanhbuliem add 12xBổ huyết (old: 11) lydo: HQT at 03/30/2023 2:59 PM
+BAG:thanhbuliem add 10xBổ khí (old: 9) lydo: HQT at 03/30/2023 2:59 PM
+BAG:thanhbuliem add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/30/2023 2:59 PM
+BAG:thanhbuliem add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/30/2023 2:59 PM
+BAG:thanhbuliem add 28xMảnh Khủng long mẹ (old: 27) lydo: Nhặt từ map at 03/30/2023 3:00 PM
+BAG:thanhbuliem add 29xMảnh Khủng long mẹ (old: 28) lydo: Nhặt từ map at 03/30/2023 3:00 PM
+BAG:thanhbuliem add 60xMảnh Khủng long (old: 59) lydo: Nhặt từ map at 03/30/2023 3:00 PM
+BAG:thanhbuliem add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/30/2023 3:01 PM
+BAG:thanhbuliem add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/30/2023 3:01 PM
+BAG:thanhbuliem add 61xMảnh Khủng long (old: 60) lydo: Nhặt từ map at 03/30/2023 3:01 PM
+BAG:thanhbuliem add 30xMảnh Khủng long mẹ (old: 29) lydo: Nhặt từ map at 03/30/2023 3:01 PM
+BAG:thanhbuliem add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/30/2023 3:01 PM
+BAG:thanhbuliem add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/30/2023 3:01 PM
+BAG:thanhbuliem add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhặt từ map at 03/30/2023 3:02 PM
+BAG:thanhbuliem add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/30/2023 3:02 PM
+BAG:thanhbuliem add 1xGiầy nhựa lydo: Nhặt từ map at 03/30/2023 3:02 PM
+BAG:thanhbuliem add 31xMảnh Khủng long mẹ (old: 30) lydo: Nhặt từ map at 03/30/2023 3:02 PM
+BAG:thanhbuliem add 62xMảnh Khủng long (old: 61) lydo: Nhặt từ map at 03/30/2023 3:02 PM
+BAG:thanhbuliem add 32xMảnh Khủng long mẹ (old: 31) lydo: Nhặt từ map at 03/30/2023 3:02 PM
+BAG:thanhbuliem add 63xMảnh Khủng long (old: 62) lydo: Nhặt từ map at 03/30/2023 3:03 PM
+BAG:thanhbuliem add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/30/2023 3:04 PM
+BAG:thanhbuliem add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 03/30/2023 3:05 PM
+BAG:thanhbuliem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/30/2023 3:05 PM
+BAG:thanhbuliem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/30/2023 3:05 PM
+BAG:thanhbuliem add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/30/2023 3:09 PM
+BAG:thanhbuliem add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/30/2023 3:09 PM
+BAG:thanhbuliem add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/30/2023 3:09 PM
+BAG:thanhbuliem add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/30/2023 3:09 PM
+BAG:thanhbuliem add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/30/2023 3:09 PM
+BAG:thanhbuliem add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/30/2023 3:09 PM
+BAG:thanhbuliem add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/30/2023 3:09 PM
+BAG:thanhbuliem add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/30/2023 3:09 PM
+BAG:thanhbuliem add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/30/2023 3:12 PM
+BAG:thanhbuliem add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/30/2023 3:12 PM
+BAG:thanhbuliem add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/30/2023 3:13 PM
+BAG:thanhbuliem add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/30/2023 3:13 PM
+BAG:thanhbuliem add 1xĐá Hắc Hóa lydo: Mua santa at 03/30/2023 3:13 PM
+BAG:thanhbuliem add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/30/2023 3:13 PM
+BAG:thanhbuliem add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/30/2023 3:13 PM
+BAG:thanhbuliem add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/30/2023 3:13 PM
+BAG:thanhbuliem add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/30/2023 3:13 PM
+BAG:thanhbuliem add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/30/2023 3:13 PM
+BAG:thanhbuliem add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/30/2023 3:13 PM
+BAG:thanhbuliem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/30/2023 3:16 PM
+BAG:thanhbuliem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/30/2023 3:16 PM
+BAG:thanhbuliem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/30/2023 3:16 PM
+BAG:thanhbuliem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/30/2023 3:16 PM
+BAG:thanhbuliem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/30/2023 3:16 PM
+BAG:thanhbuliem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/30/2023 3:16 PM
+BAG:thanhbuliem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/30/2023 3:16 PM
+BAG:thanhbuliem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/30/2023 3:16 PM
+BAG:thanhbuliem add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/30/2023 3:16 PM
+BAG:thanhbuliem add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/30/2023 3:16 PM
+BAG:thanhbuliem add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/30/2023 3:17 PM
+BAG:thanhbuliem add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/30/2023 3:18 PM
+BAG:thanhbuliem add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/30/2023 3:19 PM
+BAG:thanhbuliem add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/30/2023 3:19 PM
+BAG:thanhbuliem add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/30/2023 3:22 PM
+BAG:thanhbuliem add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/30/2023 3:22 PM
+BAG:thanhbuliem add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/30/2023 3:22 PM
+BAG:thanhbuliem add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/30/2023 3:22 PM
+BAG:thanhbuliem add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/30/2023 3:22 PM
+BAG:thanhbuliem add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/30/2023 3:22 PM
+BAG:thanhbuliem add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/30/2023 3:22 PM
+BAG:thanhbuliem add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/30/2023 3:22 PM
+BAG:thanhbuliem add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/30/2023 3:22 PM
+BAG:thanhbuliem add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/30/2023 3:23 PM
+BAG:thanhbuliem add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/30/2023 3:23 PM
+BAG:thanhbuliem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/30/2023 3:23 PM
+BAG:thanhbuliem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/30/2023 3:23 PM
+BAG:thanhbuliem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/30/2023 3:23 PM
+BAG:thanhbuliem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/30/2023 3:23 PM
+BAG:thanhbuliem add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/30/2023 3:23 PM
+BAG:thanhbuliem add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 03/30/2023 3:24 PM
+BAG:thanhbuliem add 1xQuần Hủy Diệt lydo: Lấy từ body vào hành trang at 03/30/2023 3:24 PM
+BAG:thanhbuliem add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/30/2023 3:24 PM
+BAG:thanhbuliem add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 03/30/2023 3:24 PM
+BAG:thanhbuliem add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/30/2023 3:24 PM

@@ -1,0 +1,420 @@
+BAG:laze1vila add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/10/2023 12:41 PM
+BAG:laze1vila add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/10/2023 12:41 PM
+BAG:laze1vila add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/10/2023 12:41 PM
+BAG:laze1vila add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/10/2023 12:41 PM
+BAG:laze1vila add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/10/2023 12:41 PM
+BAG:laze1vila add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/10/2023 12:41 PM
+BAG:laze1vila add 10xĐậu thần cấp 10 (old: 9) lydo: Thu hoạch đậu at 03/10/2023 12:41 PM
+BAG:laze1vila add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/10/2023 12:42 PM
+BAG:laze1vila add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/10/2023 12:42 PM
+BAG:laze1vila add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/10/2023 12:42 PM
+BAG:laze1vila add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/10/2023 12:42 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 12:42 PM
+BAG:laze1vila add 1xNgọc Rồng 7 sao lydo: HQT at 03/10/2023 12:43 PM
+BAG:laze1vila add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/10/2023 12:43 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 4:57 PM
+BAG:laze1vila add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/10/2023 4:57 PM
+BAG:laze1vila add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/10/2023 4:58 PM
+BAG:laze1vila add 1xGiáp Xên bọ hung lydo: HQT at 03/10/2023 4:58 PM
+BAG:laze1vila add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/10/2023 4:58 PM
+BAG:laze1vila add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/10/2023 5:00 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:01 PM
+BAG:laze1vila add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/10/2023 5:01 PM
+BAG:laze1vila add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/10/2023 5:01 PM
+BAG:laze1vila add 12xPháo hoa (old: 7) lydo: Nhặt từ map at 03/10/2023 5:01 PM
+BAG:laze1vila add 33xNgọc Rồng 6 sao (old: 32) lydo: HQT at 03/10/2023 5:01 PM
+BAG:laze1vila add 34xNgọc Rồng 6 sao (old: 33) lydo: HQT at 03/10/2023 5:01 PM
+BAG:laze1vila add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/10/2023 5:01 PM
+BAG:laze1vila add 26xNgọc Rồng 4 sao (old: 25) lydo: HQT at 03/10/2023 5:01 PM
+BAG:laze1vila add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/10/2023 5:01 PM
+BAG:laze1vila add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/10/2023 5:01 PM
+BAG:laze1vila add 1xBổ khí lydo: HQT at 03/10/2023 5:01 PM
+BAG:laze1vila add 35xNgọc Rồng 6 sao (old: 34) lydo: HQT at 03/10/2023 5:01 PM
+BAG:laze1vila add 6xPháo hoa (old: 1) lydo: Nhặt từ map at 03/10/2023 5:01 PM
+BAG:laze1vila add 1xBổ huyết lydo: HQT at 03/10/2023 5:01 PM
+BAG:laze1vila add 36xNgọc Rồng 6 sao (old: 35) lydo: HQT at 03/10/2023 5:01 PM
+BAG:laze1vila add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/10/2023 5:01 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:01 PM
+BAG:laze1vila add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/10/2023 5:02 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:02 PM
+BAG:laze1vila add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/10/2023 5:02 PM
+BAG:laze1vila add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/10/2023 5:02 PM
+BAG:laze1vila add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/10/2023 5:03 PM
+BAG:laze1vila add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/10/2023 5:03 PM
+BAG:laze1vila add 37xNgọc Rồng 6 sao (old: 36) lydo: HQT at 03/10/2023 5:03 PM
+BAG:laze1vila add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/10/2023 5:03 PM
+BAG:laze1vila add 2xBổ huyết (old: 1) lydo: HQT at 03/10/2023 5:03 PM
+BAG:laze1vila add 3xBổ huyết (old: 2) lydo: HQT at 03/10/2023 5:03 PM
+BAG:laze1vila add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/10/2023 5:03 PM
+BAG:laze1vila add 1xCuồng nộ lydo: HQT at 03/10/2023 5:03 PM
+BAG:laze1vila add 27xNgọc Rồng 4 sao (old: 26) lydo: HQT at 03/10/2023 5:03 PM
+BAG:laze1vila add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/10/2023 5:03 PM
+BAG:laze1vila add 2xCuồng nộ (old: 1) lydo: HQT at 03/10/2023 5:03 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:04 PM
+BAG:laze1vila add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/10/2023 5:04 PM
+BAG:laze1vila add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/10/2023 5:04 PM
+BAG:laze1vila add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/10/2023 5:04 PM
+BAG:laze1vila add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/10/2023 5:05 PM
+BAG:laze1vila add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/10/2023 5:05 PM
+BAG:laze1vila add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/10/2023 5:05 PM
+BAG:laze1vila add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/10/2023 5:06 PM
+BAG:laze1vila add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/10/2023 5:06 PM
+BAG:laze1vila add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/10/2023 5:06 PM
+BAG:laze1vila add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/10/2023 5:06 PM
+BAG:laze1vila add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/10/2023 5:06 PM
+BAG:laze1vila add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/10/2023 5:06 PM
+BAG:laze1vila add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/10/2023 5:07 PM
+BAG:laze1vila add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/10/2023 5:07 PM
+BAG:laze1vila add 28xNgọc Rồng 4 sao (old: 27) lydo: HQT at 03/10/2023 5:07 PM
+BAG:laze1vila add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/10/2023 5:07 PM
+BAG:laze1vila add 3xCuồng nộ (old: 2) lydo: HQT at 03/10/2023 5:07 PM
+BAG:laze1vila add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/10/2023 5:08 PM
+BAG:laze1vila add 29xNgọc Rồng 4 sao (old: 28) lydo: HQT at 03/10/2023 5:08 PM
+BAG:laze1vila add 2xBổ khí (old: 1) lydo: HQT at 03/10/2023 5:08 PM
+BAG:laze1vila add 4xBổ huyết (old: 3) lydo: HQT at 03/10/2023 5:08 PM
+BAG:laze1vila add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/10/2023 5:08 PM
+BAG:laze1vila add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/10/2023 5:08 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:08 PM
+BAG:laze1vila add 3xBổ khí (old: 2) lydo: HQT at 03/10/2023 5:08 PM
+BAG:laze1vila add 38xNgọc Rồng 6 sao (old: 37) lydo: HQT at 03/10/2023 5:08 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:08 PM
+BAG:laze1vila add 30xNgọc Rồng 4 sao (old: 29) lydo: HQT at 03/10/2023 5:08 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:08 PM
+BAG:laze1vila add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/10/2023 5:08 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:08 PM
+BAG:laze1vila add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/10/2023 5:08 PM
+BAG:laze1vila add 4xCuồng nộ (old: 3) lydo: HQT at 03/10/2023 5:08 PM
+BAG:laze1vila add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/10/2023 5:09 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:09 PM
+BAG:laze1vila add 39xNgọc Rồng 6 sao (old: 38) lydo: HQT at 03/10/2023 5:09 PM
+BAG:laze1vila add 9xPháo hoa (old: 4) lydo: Nhặt từ map at 03/10/2023 5:09 PM
+BAG:laze1vila add 4xBổ khí (old: 3) lydo: HQT at 03/10/2023 5:09 PM
+BAG:laze1vila add 5xBổ khí (old: 4) lydo: HQT at 03/10/2023 5:09 PM
+BAG:laze1vila add 5xCuồng nộ (old: 4) lydo: HQT at 03/10/2023 5:09 PM
+BAG:laze1vila add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/10/2023 5:09 PM
+BAG:laze1vila add 40xNgọc Rồng 6 sao (old: 39) lydo: HQT at 03/10/2023 5:09 PM
+BAG:laze1vila add 6xPháo hoa (old: 1) lydo: Nhặt từ map at 03/10/2023 5:10 PM
+BAG:laze1vila add 6xCuồng nộ (old: 5) lydo: HQT at 03/10/2023 5:10 PM
+BAG:laze1vila add 7xCuồng nộ (old: 6) lydo: HQT at 03/10/2023 5:10 PM
+BAG:laze1vila add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/10/2023 5:10 PM
+BAG:laze1vila add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/10/2023 5:10 PM
+BAG:laze1vila add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/10/2023 5:10 PM
+BAG:laze1vila add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/10/2023 5:11 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:11 PM
+BAG:laze1vila add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/10/2023 5:11 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:11 PM
+BAG:laze1vila add 31xNgọc Rồng 4 sao (old: 30) lydo: HQT at 03/10/2023 5:11 PM
+BAG:laze1vila add 41xNgọc Rồng 6 sao (old: 40) lydo: HQT at 03/10/2023 5:11 PM
+BAG:laze1vila add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/10/2023 5:11 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:11 PM
+BAG:laze1vila add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/10/2023 5:12 PM
+BAG:laze1vila add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/10/2023 5:12 PM
+BAG:laze1vila add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/10/2023 5:12 PM
+BAG:laze1vila add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/10/2023 5:13 PM
+BAG:laze1vila add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/10/2023 5:13 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:13 PM
+BAG:laze1vila add 6xBổ khí (old: 5) lydo: HQT at 03/10/2023 5:13 PM
+BAG:laze1vila add 32xNgọc Rồng 4 sao (old: 31) lydo: HQT at 03/10/2023 5:13 PM
+BAG:laze1vila add 7xBổ khí (old: 6) lydo: HQT at 03/10/2023 5:13 PM
+BAG:laze1vila add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/10/2023 5:13 PM
+BAG:laze1vila add 33xNgọc Rồng 4 sao (old: 32) lydo: HQT at 03/10/2023 5:13 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:13 PM
+BAG:laze1vila add 42xNgọc Rồng 6 sao (old: 41) lydo: HQT at 03/10/2023 5:14 PM
+BAG:laze1vila add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/10/2023 5:14 PM
+BAG:laze1vila add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/10/2023 5:14 PM
+BAG:laze1vila add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/10/2023 5:14 PM
+BAG:laze1vila add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/10/2023 5:14 PM
+BAG:laze1vila add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/10/2023 5:14 PM
+BAG:laze1vila add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/10/2023 5:14 PM
+BAG:laze1vila add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/10/2023 5:14 PM
+BAG:laze1vila add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/10/2023 5:14 PM
+BAG:laze1vila add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/10/2023 5:15 PM
+BAG:laze1vila add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/10/2023 5:15 PM
+BAG:laze1vila add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/10/2023 5:15 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:15 PM
+BAG:laze1vila add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/10/2023 5:16 PM
+BAG:laze1vila add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/10/2023 5:16 PM
+BAG:laze1vila add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/10/2023 5:16 PM
+BAG:laze1vila add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/10/2023 5:16 PM
+BAG:laze1vila add 1xĐá Saphia lydo: Nhặt từ map at 03/10/2023 5:16 PM
+BAG:laze1vila add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/10/2023 5:16 PM
+BAG:laze1vila add 1xĐá Titan lydo: Nhặt từ map at 03/10/2023 5:17 PM
+BAG:laze1vila add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/10/2023 5:17 PM
+BAG:laze1vila add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/10/2023 5:17 PM
+BAG:laze1vila add 1xĐá lục bảo lydo: Nhặt từ map at 03/10/2023 5:18 PM
+BAG:laze1vila add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/10/2023 5:18 PM
+BAG:laze1vila add 1xNgọc Rồng 6 sao lydo: HQT at 03/10/2023 5:18 PM
+BAG:laze1vila add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/10/2023 5:18 PM
+BAG:laze1vila add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/10/2023 5:18 PM
+BAG:laze1vila add 1xBổ huyết lydo: HQT at 03/10/2023 5:18 PM
+BAG:laze1vila add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/10/2023 5:18 PM
+BAG:laze1vila add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/10/2023 5:18 PM
+BAG:laze1vila add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/10/2023 5:18 PM
+BAG:laze1vila add 1xNgọc Rồng 4 sao lydo: HQT at 03/10/2023 5:18 PM
+BAG:laze1vila add 1xGiáp Xên bọ hung lydo: HQT at 03/10/2023 5:18 PM
+BAG:laze1vila add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/10/2023 5:18 PM
+BAG:laze1vila add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/10/2023 5:18 PM
+BAG:laze1vila add 1xĐá Ruby lydo: Nhặt từ map at 03/10/2023 5:18 PM
+BAG:laze1vila add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/10/2023 5:19 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:19 PM
+BAG:laze1vila add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/10/2023 5:19 PM
+BAG:laze1vila add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/10/2023 5:20 PM
+BAG:laze1vila add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/10/2023 5:20 PM
+BAG:laze1vila add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/10/2023 5:20 PM
+BAG:laze1vila add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/10/2023 5:20 PM
+BAG:laze1vila add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/10/2023 5:21 PM
+BAG:laze1vila add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/10/2023 5:21 PM
+BAG:laze1vila add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/10/2023 5:21 PM
+BAG:laze1vila add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/10/2023 5:21 PM
+BAG:laze1vila add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/10/2023 5:22 PM
+BAG:laze1vila add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/10/2023 5:22 PM
+BAG:laze1vila add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/10/2023 5:22 PM
+BAG:laze1vila add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/10/2023 5:22 PM
+BAG:laze1vila add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/10/2023 5:22 PM
+BAG:laze1vila add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/10/2023 5:23 PM
+BAG:laze1vila add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/10/2023 5:23 PM
+BAG:laze1vila add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/10/2023 5:23 PM
+BAG:laze1vila add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/10/2023 5:23 PM
+BAG:laze1vila add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/10/2023 5:24 PM
+BAG:laze1vila add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/10/2023 5:25 PM
+BAG:laze1vila add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/10/2023 5:25 PM
+BAG:laze1vila add 50xPháo hoa (old: 45) lydo: Nhặt từ map at 03/10/2023 5:25 PM
+BAG:laze1vila add 55xPháo hoa (old: 50) lydo: Nhặt từ map at 03/10/2023 5:26 PM
+BAG:laze1vila add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 2xBổ huyết (old: 1) lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 3xBổ huyết (old: 2) lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 1xCuồng nộ lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 2xCuồng nộ (old: 1) lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 1xNgọc Rồng 7 sao lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 3xCuồng nộ (old: 2) lydo: HQT at 03/10/2023 5:26 PM
+BAG:laze1vila add 37xPháo hoa (old: 32) lydo: Nhặt từ map at 03/10/2023 5:26 PM
+BAG:laze1vila add 42xPháo hoa (old: 37) lydo: Nhặt từ map at 03/10/2023 5:27 PM
+BAG:laze1vila add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/10/2023 5:27 PM
+BAG:laze1vila add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/10/2023 5:27 PM
+BAG:laze1vila add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/10/2023 5:27 PM
+BAG:laze1vila add 47xPháo hoa (old: 42) lydo: Nhặt từ map at 03/10/2023 5:27 PM
+BAG:laze1vila add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/10/2023 5:28 PM
+BAG:laze1vila add 52xPháo hoa (old: 47) lydo: Nhặt từ map at 03/10/2023 5:28 PM
+BAG:laze1vila add 57xPháo hoa (old: 52) lydo: Nhặt từ map at 03/10/2023 5:28 PM
+BAG:laze1vila add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/10/2023 5:29 PM
+BAG:laze1vila add 62xPháo hoa (old: 57) lydo: Nhặt từ map at 03/10/2023 5:29 PM
+BAG:laze1vila add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/10/2023 5:30 PM
+BAG:laze1vila add 67xPháo hoa (old: 62) lydo: Nhặt từ map at 03/10/2023 5:30 PM
+BAG:laze1vila add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/10/2023 5:30 PM
+BAG:laze1vila add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/10/2023 5:30 PM
+BAG:laze1vila add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/10/2023 5:31 PM
+BAG:laze1vila add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/10/2023 5:31 PM
+BAG:laze1vila add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/10/2023 5:31 PM
+BAG:laze1vila add 72xPháo hoa (old: 67) lydo: Nhặt từ map at 03/10/2023 5:31 PM
+BAG:laze1vila add 77xPháo hoa (old: 72) lydo: Nhặt từ map at 03/10/2023 5:31 PM
+BAG:laze1vila add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/10/2023 5:31 PM
+BAG:laze1vila add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/10/2023 5:31 PM
+BAG:laze1vila add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/10/2023 5:32 PM
+BAG:laze1vila add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/10/2023 5:32 PM
+BAG:laze1vila add 82xPháo hoa (old: 77) lydo: Nhặt từ map at 03/10/2023 5:32 PM
+BAG:laze1vila add 87xPháo hoa (old: 82) lydo: Nhặt từ map at 03/10/2023 5:33 PM
+BAG:laze1vila add 92xPháo hoa (old: 87) lydo: Nhặt từ map at 03/10/2023 5:33 PM
+BAG:laze1vila add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/10/2023 5:33 PM
+BAG:laze1vila add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/10/2023 5:44 PM
+BAG:laze1vila add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/10/2023 5:44 PM
+BAG:laze1vila add 4xBổ huyết (old: 3) lydo: HQT at 03/10/2023 5:44 PM
+BAG:laze1vila add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/10/2023 5:44 PM
+BAG:laze1vila add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/10/2023 5:44 PM
+BAG:laze1vila add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/10/2023 5:44 PM
+BAG:laze1vila add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/10/2023 5:44 PM
+BAG:laze1vila add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/10/2023 5:44 PM
+BAG:laze1vila add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/10/2023 5:44 PM
+BAG:laze1vila add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/10/2023 5:44 PM
+BAG:laze1vila add 83xPháo hoa (old: 78) lydo: Nhặt từ map at 03/10/2023 5:45 PM
+BAG:laze1vila add 88xPháo hoa (old: 83) lydo: Nhặt từ map at 03/10/2023 5:45 PM
+BAG:laze1vila add 93xPháo hoa (old: 88) lydo: Nhặt từ map at 03/10/2023 5:46 PM
+BAG:laze1vila add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 4xCuồng nộ (old: 3) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 5xBổ huyết (old: 4) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 1xBổ khí lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 5xCuồng nộ (old: 4) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 78xPháo hoa (old: 73) lydo: Nhặt từ map at 03/10/2023 5:46 PM
+BAG:laze1vila add 6xBổ huyết (old: 5) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 6xCuồng nộ (old: 5) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 2xBổ khí (old: 1) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/10/2023 5:46 PM
+BAG:laze1vila add 58xPháo hoa (old: 53) lydo: Nhặt từ map at 03/10/2023 5:47 PM
+BAG:laze1vila add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 7xBổ huyết (old: 6) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 7xCuồng nộ (old: 6) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 8xBổ huyết (old: 7) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 3xBổ khí (old: 2) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 9xBổ huyết (old: 8) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 10xBổ huyết (old: 9) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 22xPháo hoa (old: 17) lydo: Nhặt từ map at 03/10/2023 5:47 PM
+BAG:laze1vila add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 15xNgọc Rồng 6 sao (old: 14) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 23xPháo hoa (old: 18) lydo: Nhặt từ map at 03/10/2023 5:47 PM
+BAG:laze1vila add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 11xBổ huyết (old: 10) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/10/2023 5:47 PM
+BAG:laze1vila add 16xNgọc Rồng 6 sao (old: 15) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/10/2023 5:47 PM
+BAG:laze1vila add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/10/2023 5:48 PM
+BAG:laze1vila add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/10/2023 5:48 PM
+BAG:laze1vila add 4xBổ khí (old: 3) lydo: HQT at 03/10/2023 5:48 PM
+BAG:laze1vila add 19xNgọc Rồng 5 sao (old: 18) lydo: HQT at 03/10/2023 5:48 PM
+BAG:laze1vila add 8xCuồng nộ (old: 7) lydo: HQT at 03/10/2023 5:48 PM
+BAG:laze1vila add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/10/2023 5:48 PM
+BAG:laze1vila add 20xNgọc Rồng 5 sao (old: 19) lydo: HQT at 03/10/2023 5:48 PM
+BAG:laze1vila add 12xBổ huyết (old: 11) lydo: HQT at 03/10/2023 5:48 PM
+BAG:laze1vila add 13xBổ huyết (old: 12) lydo: HQT at 03/10/2023 5:48 PM
+BAG:laze1vila add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/10/2023 5:48 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:48 PM
+BAG:laze1vila add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/10/2023 5:48 PM
+BAG:laze1vila add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/10/2023 5:48 PM
+BAG:laze1vila add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/10/2023 5:48 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 5:48 PM
+BAG:laze1vila add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/10/2023 5:49 PM
+BAG:laze1vila add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/10/2023 5:49 PM
+BAG:laze1vila add 9xCuồng nộ (old: 8) lydo: HQT at 03/10/2023 5:50 PM
+BAG:laze1vila add 14xBổ huyết (old: 13) lydo: HQT at 03/10/2023 5:50 PM
+BAG:laze1vila add 11xPháo hoa (old: 6) lydo: Nhặt từ map at 03/10/2023 5:50 PM
+BAG:laze1vila add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/10/2023 5:50 PM
+BAG:laze1vila add 21xNgọc Rồng 5 sao (old: 20) lydo: HQT at 03/10/2023 5:50 PM
+BAG:laze1vila add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/10/2023 5:50 PM
+BAG:laze1vila add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/10/2023 5:51 PM
+BAG:laze1vila add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 03/10/2023 5:53 PM
+BAG:laze1vila add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/10/2023 5:53 PM
+BAG:laze1vila add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/10/2023 5:53 PM
+BAG:laze1vila add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/10/2023 5:54 PM
+BAG:laze1vila add 1xCải trang Black Goku SSJ White lydo: Lấy từ body vào hành trang at 03/10/2023 5:54 PM
+BAG:laze1vila add 5xPháo hoa lydo: Nhặt từ map at 03/10/2023 6:01 PM
+BAG:laze1vila add 15xBổ huyết (old: 14) lydo: HQT at 03/10/2023 6:01 PM
+BAG:laze1vila add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/10/2023 6:01 PM
+BAG:laze1vila add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/10/2023 6:37 PM
+BAG:laze1vila add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/10/2023 7:24 PM
+BAG:laze1vila add 1xPháo hoa lydo: Nhặt từ map at 03/10/2023 7:25 PM
+BAG:laze1vila add 1xCải trang Black Goku SSJ White lydo: Lấy từ body vào hành trang at 03/10/2023 7:26 PM
+BAG:laze1vila add 1xĐá Ruby lydo: Nhặt từ map at 03/10/2023 7:27 PM
+BAG:laze1vila add 1xĐá Titan lydo: Nhặt từ map at 03/10/2023 7:27 PM
+BAG:laze1vila add 24xCuồng nộ lydo: Lấy từ rương qua người at 03/10/2023 7:32 PM
+BAG:laze1vila add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/10/2023 7:32 PM
+BAG:laze1vila add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/10/2023 7:38 PM
+BAG:laze1vila add 1xÁo vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/10/2023 7:39 PM
+BAG:laze1vila add 1xQuần vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/10/2023 7:39 PM
+BAG:laze1vila add 1xGăng vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/10/2023 7:39 PM
+BAG:laze1vila add 1xGiày vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/10/2023 7:39 PM
+BAG:laze1vila add 1xRada cấp 12 lydo: Lấy từ body đệ vào hành trang at 03/10/2023 7:39 PM
+BAG:laze1vila add 1xCải trang Black Goku SSJ White lydo: Lấy từ body đệ vào hành trang at 03/10/2023 7:39 PM
+BAG:laze1vila add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/10/2023 7:39 PM
+BAG:laze1vila add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/10/2023 7:41 PM
+BAG:laze1vila add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/10/2023 7:42 PM
+BAG:laze1vila add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:42 PM
+BAG:laze1vila add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:42 PM
+BAG:laze1vila add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:42 PM
+BAG:laze1vila add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:42 PM
+BAG:laze1vila add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:42 PM
+BAG:laze1vila add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/10/2023 7:42 PM
+BAG:laze1vila add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:42 PM
+BAG:laze1vila add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:43 PM
+BAG:laze1vila add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:43 PM
+BAG:laze1vila add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:43 PM
+BAG:laze1vila add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:43 PM
+BAG:laze1vila add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/10/2023 7:43 PM
+BAG:laze1vila add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/10/2023 7:43 PM
+BAG:laze1vila add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:44 PM
+BAG:laze1vila add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:44 PM
+BAG:laze1vila add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:44 PM
+BAG:laze1vila add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/10/2023 7:44 PM
+BAG:laze1vila add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/10/2023 7:44 PM
+BAG:laze1vila add 1xCải trang lydo: Mua từ cửa hàng at 03/10/2023 7:50 PM
+BAG:laze1vila add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/10/2023 8:06 PM
+BAG:laze1vila add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/10/2023 8:09 PM
+BAG:laze1vila add 1xĐá Saphia lydo: Nhặt từ map at 03/10/2023 8:10 PM
+BAG:laze1vila add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/10/2023 8:10 PM
+BAG:laze1vila add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/10/2023 8:10 PM
+BAG:laze1vila add 1xĐá lục bảo lydo: Nhặt từ map at 03/10/2023 8:12 PM
+BAG:laze1vila add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/10/2023 8:13 PM
+BAG:laze1vila add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/10/2023 8:14 PM
+BAG:laze1vila add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/10/2023 8:15 PM
+BAG:laze1vila add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/10/2023 8:16 PM
+BAG:laze1vila add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/10/2023 8:17 PM
+BAG:laze1vila add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/10/2023 8:17 PM
+BAG:laze1vila add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/10/2023 8:17 PM
+BAG:laze1vila add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/10/2023 8:21 PM
+BAG:laze1vila add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/10/2023 8:22 PM
+BAG:laze1vila add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/10/2023 8:27 PM
+BAG:laze1vila add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/10/2023 8:28 PM
+BAG:laze1vila add 25xGiáp Xên bọ hung lydo: Lấy từ rương qua người at 03/10/2023 8:29 PM
+BAG:laze1vila add 29xBổ huyết lydo: Lấy từ rương qua người at 03/10/2023 8:29 PM
+BAG:laze1vila add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/10/2023 8:30 PM
+BAG:laze1vila add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/10/2023 8:31 PM
+BAG:laze1vila add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/10/2023 8:31 PM
+BAG:laze1vila add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/10/2023 8:31 PM
+BAG:laze1vila add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/10/2023 8:32 PM
+BAG:laze1vila add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/10/2023 8:32 PM
+BAG:laze1vila add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/10/2023 8:33 PM
+BAG:laze1vila add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/10/2023 8:33 PM
+BAG:laze1vila add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/10/2023 8:34 PM
+BAG:laze1vila add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/10/2023 8:38 PM
+BAG:laze1vila add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/10/2023 8:39 PM
+BAG:laze1vila add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/10/2023 8:41 PM
+BAG:laze1vila add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/10/2023 8:42 PM
+BAG:laze1vila add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/10/2023 8:44 PM
+BAG:laze1vila add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/10/2023 8:57 PM
+BAG:laze1vila add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/10/2023 8:57 PM
+BAG:laze1vila add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/10/2023 9:16 PM
+BAG:laze1vila add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/10/2023 9:16 PM
+BAG:laze1vila add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/10/2023 9:16 PM
+BAG:laze1vila add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/10/2023 9:18 PM
+BAG:laze1vila add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/10/2023 9:20 PM
+BAG:laze1vila add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/10/2023 9:20 PM
+BAG:laze1vila add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/10/2023 9:20 PM
+BAG:laze1vila add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/10/2023 9:20 PM
+BAG:laze1vila add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/10/2023 9:20 PM
+BAG:laze1vila add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/10/2023 9:20 PM
+BAG:laze1vila add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/10/2023 9:21 PM
+BAG:laze1vila add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/10/2023 9:22 PM
+BAG:laze1vila add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/10/2023 9:24 PM
+BAG:laze1vila add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/10/2023 9:25 PM
+BAG:laze1vila add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/10/2023 9:28 PM
+BAG:laze1vila add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/10/2023 9:28 PM
+BAG:laze1vila add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/10/2023 9:29 PM
+BAG:laze1vila add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/10/2023 9:31 PM
+BAG:laze1vila add 1xMảnh Khủng long lydo: Nhặt từ map at 03/10/2023 10:52 PM
+BAG:laze1vila add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/10/2023 10:52 PM
+BAG:laze1vila add 1xQuần sợi len lydo: Nhặt từ map at 03/10/2023 10:53 PM

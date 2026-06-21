@@ -1,0 +1,126 @@
+BAG:cancasvv add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/09/2023 12:04 AM
+BAG:cancasvv add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/09/2023 1:00 AM
+BAG:cancasvv add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/09/2023 1:00 AM
+BAG:cancasvv add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/09/2023 1:00 AM
+BAG:cancasvv add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/09/2023 1:00 AM
+BAG:cancasvv add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/09/2023 1:00 AM
+BAG:cancasvv add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/09/2023 1:00 AM
+BAG:cancasvv add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/09/2023 1:46 AM
+BAG:cancasvv add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/09/2023 4:27 AM
+BAG:cancasvv add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/09/2023 4:27 AM
+BAG:cancasvv add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/09/2023 4:27 AM
+BAG:cancasvv add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/09/2023 4:27 AM
+BAG:cancasvv add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/09/2023 4:27 AM
+BAG:yengg add 1xCải trang Jiren lydo: buff at 03/09/2023 4:35 AM
+BAG:yengg add 1xQuần vải thô Pico lydo: buff at 03/09/2023 4:35 AM
+BAG:yengg add 1xCải trang Jiren lydo: buff at 03/09/2023 4:35 AM
+BAG:yengg add 1xCải trang Jiren lydo: Lấy từ body vào hành trang at 03/09/2023 4:36 AM
+BAG:yengg add 1xGăng Thiên Sứ lydo: admin at 03/09/2023 4:38 AM
+BAG:yengg add 1xGăng Thiên Sứ lydo: admin at 03/09/2023 4:38 AM
+BAG:yengg add 1xGăng Thiên Sứ lydo: admin at 03/09/2023 4:39 AM
+BAG:yengg add 1xGăng Thiên Sứ lydo: admin at 03/09/2023 4:39 AM
+BAG:yengg add 1xÁo Thiên Sứ lydo: admin at 03/09/2023 4:41 AM
+BAG:yengg add 1xQuần Thiên Sứ lydo: admin at 03/09/2023 4:41 AM
+BAG:yengg add 1xÁo Thiên Sứ lydo: admin at 03/09/2023 4:42 AM
+BAG:yengg add 1xQuần Thiên Sứ lydo: admin at 03/09/2023 4:43 AM
+BAG:yengg add 1xGăng Thiên Sứ lydo: admin at 03/09/2023 4:45 AM
+BAG:yengg add 1xGiầy Thiên Sứ lydo: admin at 03/09/2023 4:45 AM
+BAG:yengg add 1xGiầy Thiên Sứ lydo: admin at 03/09/2023 4:46 AM
+BAG:yengg add 1xNhẫn Thiên Sứ lydo: admin at 03/09/2023 4:46 AM
+BAG:yengg add 1xNhẫn Thiên Sứ lydo: admin at 03/09/2023 4:46 AM
+BAG:yengg add 1xGiầy Thiên Sứ lydo: admin at 03/09/2023 4:48 AM
+BAG:yengg add 1xÁo sợi len lydo: admin at 03/09/2023 4:50 AM
+BAG:yengg add 1xQuần sợi len lydo: admin at 03/09/2023 4:51 AM
+BAG:yengg add 1xGăng vàng Zealot lydo: admin at 03/09/2023 4:52 AM
+BAG:yengg add 1xRada cấp 1 lydo: admin at 03/09/2023 4:52 AM
+BAG:yengg add 1xGiầy sợi len lydo: admin at 03/09/2023 4:52 AM
+BAG:yengg add 99xSao pha lê lydo: buff at 03/09/2023 5:00 AM
+BAG:yengg add 99xSao pha lê lydo: buff at 03/09/2023 5:01 AM
+BAG:yengg add 99xSao pha lê lydo: buff at 03/09/2023 5:01 AM
+BAG:yengg add 1xCải trang Jiren lydo: Lấy từ body đệ vào hành trang at 03/09/2023 5:01 AM
+BAG:yengg add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/09/2023 5:01 AM
+BAG:yengg add 1xGăng vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/09/2023 5:01 AM
+BAG:yengg add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/09/2023 5:01 AM
+BAG:yengg add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/09/2023 5:01 AM
+BAG:yengg add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/09/2023 5:01 AM
+BAG:yengg add 99xNgọc Rồng 3 sao lydo: buff at 03/09/2023 5:01 AM
+BAG:yengg add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/09/2023 5:06 AM
+BAG:yengg add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/09/2023 5:13 AM
+BAG:yengg add 1xĐá Ruby lydo: Nhặt từ map at 03/09/2023 9:00 AM
+BAG:yengg add 1xĐá lục bảo lydo: Nhặt từ map at 03/09/2023 9:03 AM
+BAG:yengg add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/09/2023 9:07 AM
+BAG:yengg add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/09/2023 9:19 AM
+BAG:yengg add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/09/2023 9:32 AM
+BAG:yengg add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/09/2023 9:34 AM
+BAG:yengg add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/09/2023 9:36 AM
+BAG:yengg add 1xĐá Saphia lydo: Nhặt từ map at 03/09/2023 9:44 AM
+BAG:yengg add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/09/2023 9:46 AM
+BAG:yengg add 1xCải trang Black Goku SSJ White lydo: Lấy từ body đệ vào hành trang at 03/09/2023 9:47 AM
+BAG:yengg add 1xGăng vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/09/2023 9:48 AM
+BAG:yengg add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/09/2023 9:48 AM
+BAG:yengg add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/09/2023 9:48 AM
+BAG:yengg add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/09/2023 9:51 AM
+BAG:yengg add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/09/2023 9:51 AM
+BAG:yengg add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/09/2023 9:51 AM
+BAG:yengg add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/09/2023 9:51 AM
+BAG:yengg add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/09/2023 9:51 AM
+BAG:yengg add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/09/2023 9:51 AM
+BAG:yengg add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/09/2023 9:56 AM
+BAG:yengg add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/09/2023 9:57 AM
+BAG:yengg add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/09/2023 9:57 AM
+BAG:yengg add 1xCải trang Black Goku SSJ White lydo: Lấy từ body đệ vào hành trang at 03/09/2023 9:57 AM
+BAG:yengg add 1xGăng vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/09/2023 9:58 AM
+BAG:yengg add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/09/2023 9:58 AM
+BAG:yengg add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/09/2023 10:00 AM
+BAG:yengg add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/09/2023 10:01 AM
+BAG:yengg add 1xGăng vàng Zealot lydo: Lấy từ body đệ vào hành trang at 03/09/2023 10:04 AM
+BAG:yengg add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/09/2023 10:04 AM
+BAG:yengg add 1xCải trang Black Goku SSJ White lydo: Lấy từ body đệ vào hành trang at 03/09/2023 10:04 AM
+BAG:yengg add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/09/2023 10:04 AM
+BAG:yengg add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/09/2023 10:04 AM
+BAG:yengg add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/09/2023 10:05 AM
+BAG:yengg add 1xBông tai Porata lydo: buff at 03/09/2023 10:18 AM
+BAG:yengg add 1xGăng Thiên Sứ lydo: admin at 03/09/2023 10:19 AM
+BAG:yengg add 1xGiầy Thiên Sứ lydo: admin at 03/09/2023 10:21 AM
+BAG:yengg add 1xÁo Thiên Sứ lydo: admin at 03/09/2023 10:22 AM
+BAG:yengg add 1xQuần Thiên Sứ lydo: admin at 03/09/2023 10:22 AM
+BAG:yengg add 1xQuần Thiên Sứ lydo: admin at 03/09/2023 10:23 AM
+BAG:yengg add 1xÁo Thiên Sứ lydo: Lấy từ body vào hành trang at 03/09/2023 11:00 AM
+BAG:yengg add 1xQuần Thiên Sứ lydo: Lấy từ body vào hành trang at 03/09/2023 11:00 AM
+BAG:yengg add 1xGăng Thiên Sứ lydo: Lấy từ body vào hành trang at 03/09/2023 11:00 AM
+BAG:yengg add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/09/2023 11:00 AM
+BAG:yengg add 1xGiầy Thiên Sứ lydo: Lấy từ body vào hành trang at 03/09/2023 11:00 AM
+BAG:yengg add 1xCải trang Jiren lydo: Lấy từ rương qua người at 03/09/2023 11:11 AM
+BAG:yengg add 85xSao pha lê (old: 75) lydo: Lấy từ rương qua người at 03/09/2023 11:11 AM
+BAG:yengg add 7xSao pha lê lydo: Lấy từ rương qua người at 03/09/2023 11:11 AM
+BAG:yengg add 9xSao pha lê lydo: Lấy từ rương qua người at 03/09/2023 11:11 AM
+BAG:yengg add 1xCải trang Jiren lydo: Lấy từ rương qua người at 03/09/2023 11:11 AM
+BAG:yengg add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/09/2023 11:12 AM
+BAG:yengg add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/09/2023 11:12 AM
+BAG:yengg add 99xBí ngô 1 sao lydo: buff at 03/09/2023 11:17 AM
+BAG:yengg add 99xBí ngô 2 sao lydo: buff at 03/09/2023 11:17 AM
+BAG:yengg add 99xBí ngô 3 sao lydo: buff at 03/09/2023 11:18 AM
+BAG:yengg add 99xBí ngô 4 sao lydo: buff at 03/09/2023 11:18 AM
+BAG:yengg add 99xBí ngô 5 sao lydo: buff at 03/09/2023 11:18 AM
+BAG:yengg add 99xBí ngô 6 sao lydo: buff at 03/09/2023 11:18 AM
+BAG:yengg add 99xBí ngô 7 sao lydo: buff at 03/09/2023 11:18 AM
+BAG:yengg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/09/2023 11:19 AM
+BAG:yengg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/09/2023 11:20 AM
+BAG:yengg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/09/2023 11:20 AM
+BAG:yengg add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/09/2023 11:27 AM
+BAG:yengg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/09/2023 11:38 AM
+BAG:yengg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/09/2023 11:38 AM
+BAG:yengg add 1xHộp bánh Trung Thu lydo: buff at 03/09/2023 11:41 AM
+BAG:yengg add 1xHộp bánh Trung Thu lydo: buff at 03/09/2023 11:41 AM
+BAG:yengg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/09/2023 11:42 AM
+BAG:yengg add 99xCuồng nộ lydo: Admin at 03/09/2023 12:47 PM
+BAG:yengg add 99xMì ly lydo: Admin at 03/09/2023 12:48 PM
+BAG:yengg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/09/2023 1:10 PM
+BAG:yengg add 1xGiầy Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/09/2023 1:11 PM
+BAG:yengg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/09/2023 11:35 PM
+BAG:yengg add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/09/2023 11:35 PM
+BAG:yengg add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/09/2023 11:57 PM
+BAG:yengg add 1xGăng Thiên Sứ lydo: Lấy từ body vào hành trang at 03/09/2023 11:57 PM
+BAG:yengg add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/09/2023 11:57 PM
+BAG:yengg add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/09/2023 11:57 PM
+BAG:yengg add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/09/2023 11:57 PM

@@ -1,0 +1,466 @@
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 12:12 AM
+BAG:pigeon add 65xNgọc Rồng 3 sao (old: 64) lydo: Nhặt từ map at 03/03/2023 12:13 AM
+BAG:pigeon add 5xPháo hoa (old: 4) lydo: Nhặt từ map at 03/03/2023 12:13 AM
+BAG:pigeon add 6xPháo hoa (old: 5) lydo: Nhặt từ map at 03/03/2023 12:13 AM
+BAG:pigeon add 66xNgọc Rồng 3 sao (old: 65) lydo: Nhặt từ map at 03/03/2023 12:13 AM
+BAG:pigeon add 67xNgọc Rồng 3 sao (old: 66) lydo: Nhặt từ map at 03/03/2023 12:13 AM
+BAG:pigeon add 1xGiày lưỡng long lydo: Nhặt từ map at 03/03/2023 12:13 AM
+BAG:pigeon add 7xPháo hoa (old: 6) lydo: Nhặt từ map at 03/03/2023 12:13 AM
+BAG:pigeon add 1xGiầy Thần Namếc lydo: Nhặt từ map at 03/03/2023 12:21 AM
+BAG:pigeon add 67xNgọc Rồng 2 sao (old: 66) lydo: Nhặt từ map at 03/03/2023 12:21 AM
+BAG:pigeon add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 12:33 AM
+BAG:pigeon add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 12:33 AM
+BAG:pigeon add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 12:33 AM
+BAG:pigeon add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 12:33 AM
+BAG:pigeon add 1xBột mì lydo: Nhặt từ map at 03/03/2023 12:34 AM
+BAG:pigeon add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 12:34 AM
+BAG:pigeon add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 12:34 AM
+BAG:pigeon add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 12:34 AM
+BAG:pigeon add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 12:34 AM
+BAG:pigeon add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 12:34 AM
+BAG:pigeon add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 12:35 AM
+BAG:pigeon add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 12:35 AM
+BAG:pigeon add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 12:35 AM
+BAG:pigeon add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 12:35 AM
+BAG:pigeon add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/03/2023 12:35 AM
+BAG:pigeon add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 12:36 AM
+BAG:pigeon add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/03/2023 12:36 AM
+BAG:pigeon add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/03/2023 12:36 AM
+BAG:pigeon add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/03/2023 12:37 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 12:44 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 12:45 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 12:52 AM
+BAG:pigeon add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 12:57 AM
+BAG:pigeon add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/03/2023 12:57 AM
+BAG:pigeon add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 12:57 AM
+BAG:pigeon add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 12:57 AM
+BAG:pigeon add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/03/2023 12:57 AM
+BAG:pigeon add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/03/2023 12:57 AM
+BAG:pigeon add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 12:57 AM
+BAG:pigeon add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/03/2023 12:58 AM
+BAG:pigeon add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 12:58 AM
+BAG:pigeon add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/03/2023 12:58 AM
+BAG:pigeon add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/03/2023 12:58 AM
+BAG:pigeon add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/03/2023 12:59 AM
+BAG:pigeon add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/03/2023 1:00 AM
+BAG:pigeon add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/03/2023 1:00 AM
+BAG:pigeon add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/03/2023 1:00 AM
+BAG:pigeon add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/03/2023 1:00 AM
+BAG:pigeon add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/03/2023 1:00 AM
+BAG:pigeon add 1xMáy dò Capsule kì bí lydo: Mua từ cửa hàng at 03/03/2023 1:02 AM
+BAG:pigeon add 2xMáy dò Capsule kì bí (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:02 AM
+BAG:pigeon add 3xMáy dò Capsule kì bí (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 1:02 AM
+BAG:pigeon add 4xMáy dò Capsule kì bí (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 1:02 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:04 AM
+BAG:pigeon add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/03/2023 1:04 AM
+BAG:pigeon add 68xNgọc Rồng 2 sao (old: 67) lydo: Nhặt từ map at 03/03/2023 1:06 AM
+BAG:pigeon add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/03/2023 1:08 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:08 AM
+BAG:pigeon add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/03/2023 1:10 AM
+BAG:pigeon add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/03/2023 1:10 AM
+BAG:pigeon add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/03/2023 1:10 AM
+BAG:pigeon add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/03/2023 1:10 AM
+BAG:pigeon add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/03/2023 1:10 AM
+BAG:pigeon add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/03/2023 1:11 AM
+BAG:pigeon add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/03/2023 1:11 AM
+BAG:pigeon add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/03/2023 1:11 AM
+BAG:pigeon add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/03/2023 1:14 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:16 AM
+BAG:pigeon add 8xPháo hoa (old: 7) lydo: Nhặt từ map at 03/03/2023 1:18 AM
+BAG:pigeon add 69xNgọc Rồng 2 sao (old: 68) lydo: Nhặt từ map at 03/03/2023 1:18 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:22 AM
+BAG:pigeon add 68xNgọc Rồng 3 sao (old: 67) lydo: Nhặt từ map at 03/03/2023 1:23 AM
+BAG:pigeon add 9xPháo hoa (old: 8) lydo: Nhặt từ map at 03/03/2023 1:23 AM
+BAG:pigeon add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/03/2023 1:23 AM
+BAG:pigeon add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/03/2023 1:24 AM
+BAG:pigeon add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/03/2023 1:24 AM
+BAG:pigeon add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/03/2023 1:24 AM
+BAG:pigeon add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/03/2023 1:25 AM
+BAG:pigeon add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 1:25 AM
+BAG:pigeon add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/03/2023 1:26 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:28 AM
+BAG:pigeon add 10xPháo hoa (old: 9) lydo: Nhặt từ map at 03/03/2023 1:30 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:32 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:33 AM
+BAG:pigeon add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/03/2023 1:33 AM
+BAG:pigeon add 11xPháo hoa (old: 10) lydo: Nhặt từ map at 03/03/2023 1:35 AM
+BAG:pigeon add 12xPháo hoa (old: 11) lydo: Nhặt từ map at 03/03/2023 1:35 AM
+BAG:pigeon add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/03/2023 1:35 AM
+BAG:pigeon add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/03/2023 1:35 AM
+BAG:pigeon add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/03/2023 1:36 AM
+BAG:pigeon add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/03/2023 1:37 AM
+BAG:pigeon add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/03/2023 1:37 AM
+BAG:pigeon add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/03/2023 1:37 AM
+BAG:pigeon add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/03/2023 1:37 AM
+BAG:pigeon add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/03/2023 1:37 AM
+BAG:pigeon add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/03/2023 1:37 AM
+BAG:pigeon add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/03/2023 1:37 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:39 AM
+BAG:pigeon add 66xNgọc Rồng 2 sao (old: 65) lydo: Nhặt từ map at 03/03/2023 1:41 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:43 AM
+BAG:pigeon add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/03/2023 1:44 AM
+BAG:pigeon add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/03/2023 1:44 AM
+BAG:pigeon add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/03/2023 1:45 AM
+BAG:pigeon add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/03/2023 1:45 AM
+BAG:pigeon add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/03/2023 1:45 AM
+BAG:pigeon add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/03/2023 1:45 AM
+BAG:pigeon add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/03/2023 1:45 AM
+BAG:pigeon add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/03/2023 1:45 AM
+BAG:pigeon add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/03/2023 1:46 AM
+BAG:pigeon add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/03/2023 1:46 AM
+BAG:pigeon add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/03/2023 1:46 AM
+BAG:pigeon add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/03/2023 1:46 AM
+BAG:pigeon add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/03/2023 1:46 AM
+BAG:pigeon add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/03/2023 1:46 AM
+BAG:pigeon add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/03/2023 1:47 AM
+BAG:pigeon add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/03/2023 1:48 AM
+BAG:pigeon add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/03/2023 1:48 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:48 AM
+BAG:pigeon add 13xPháo hoa (old: 12) lydo: Nhặt từ map at 03/03/2023 1:50 AM
+BAG:pigeon add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/03/2023 1:50 AM
+BAG:pigeon add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/03/2023 1:50 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:53 AM
+BAG:pigeon add 14xPháo hoa (old: 13) lydo: Nhặt từ map at 03/03/2023 1:54 AM
+BAG:pigeon add 1xNhẫn thời không sai lệch lydo: Nhặt từ map at 03/03/2023 1:54 AM
+BAG:pigeon add 1xGiầy Thần Namếc lydo: Nhặt từ map at 03/03/2023 1:54 AM
+BAG:pigeon add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/03/2023 1:54 AM
+BAG:pigeon add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/03/2023 1:55 AM
+BAG:pigeon add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/03/2023 1:55 AM
+BAG:pigeon add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/03/2023 1:55 AM
+BAG:pigeon add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/03/2023 1:55 AM
+BAG:pigeon add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/03/2023 1:55 AM
+BAG:pigeon add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/03/2023 1:55 AM
+BAG:pigeon add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/03/2023 1:56 AM
+BAG:pigeon add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/03/2023 1:56 AM
+BAG:pigeon add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/03/2023 1:56 AM
+BAG:pigeon add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/03/2023 1:56 AM
+BAG:pigeon add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/03/2023 1:57 AM
+BAG:pigeon add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/03/2023 1:57 AM
+BAG:pigeon add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/03/2023 1:58 AM
+BAG:pigeon add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/03/2023 1:58 AM
+BAG:pigeon add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/03/2023 1:58 AM
+BAG:pigeon add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/03/2023 1:58 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:58 AM
+BAG:pigeon add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/03/2023 1:58 AM
+BAG:pigeon add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/03/2023 1:59 AM
+BAG:pigeon add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/03/2023 1:59 AM
+BAG:pigeon add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/03/2023 1:59 AM
+BAG:pigeon add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/03/2023 1:59 AM
+BAG:pigeon add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/03/2023 2:00 AM
+BAG:pigeon add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/03/2023 2:00 AM
+BAG:pigeon add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/03/2023 2:01 AM
+BAG:pigeon add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/03/2023 2:01 AM
+BAG:pigeon add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/03/2023 2:01 AM
+BAG:pigeon add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/03/2023 2:01 AM
+BAG:pigeon add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/03/2023 2:01 AM
+BAG:pigeon add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/03/2023 2:02 AM
+BAG:pigeon add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/03/2023 2:02 AM
+BAG:pigeon add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/03/2023 2:03 AM
+BAG:pigeon add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/03/2023 2:03 AM
+BAG:pigeon add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/03/2023 2:03 AM
+BAG:pigeon add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/03/2023 2:03 AM
+BAG:pigeon add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/03/2023 2:03 AM
+BAG:pigeon add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/03/2023 2:04 AM
+BAG:pigeon add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/03/2023 2:04 AM
+BAG:pigeon add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/03/2023 2:04 AM
+BAG:pigeon add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/03/2023 2:04 AM
+BAG:pigeon add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/03/2023 2:05 AM
+BAG:pigeon add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/03/2023 2:05 AM
+BAG:pigeon add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/03/2023 2:05 AM
+BAG:pigeon add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/03/2023 2:05 AM
+BAG:pigeon add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/03/2023 2:05 AM
+BAG:pigeon add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/03/2023 2:05 AM
+BAG:pigeon add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/03/2023 2:05 AM
+BAG:pigeon add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/03/2023 2:05 AM
+BAG:pigeon add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/03/2023 2:06 AM
+BAG:pigeon add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/03/2023 2:06 AM
+BAG:pigeon add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/03/2023 2:07 AM
+BAG:pigeon add 39xBột mì (old: 38) lydo: Nhặt từ map at 03/03/2023 2:07 AM
+BAG:pigeon add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/03/2023 2:07 AM
+BAG:pigeon add 40xBột mì (old: 39) lydo: Nhặt từ map at 03/03/2023 2:07 AM
+BAG:pigeon add 41xBột mì (old: 40) lydo: Nhặt từ map at 03/03/2023 2:07 AM
+BAG:pigeon add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/03/2023 2:07 AM
+BAG:pigeon add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/03/2023 2:07 AM
+BAG:pigeon add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/03/2023 2:07 AM
+BAG:pigeon add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/03/2023 2:07 AM
+BAG:pigeon add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/03/2023 2:07 AM
+BAG:pigeon add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/03/2023 2:08 AM
+BAG:pigeon add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/03/2023 2:08 AM
+BAG:pigeon add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/03/2023 2:08 AM
+BAG:pigeon add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/03/2023 2:08 AM
+BAG:pigeon add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/03/2023 2:08 AM
+BAG:pigeon add 42xBột mì (old: 41) lydo: Nhặt từ map at 03/03/2023 2:09 AM
+BAG:pigeon add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/03/2023 2:09 AM
+BAG:pigeon add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/03/2023 2:09 AM
+BAG:pigeon add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/03/2023 2:09 AM
+BAG:pigeon add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/03/2023 2:09 AM
+BAG:pigeon add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/03/2023 2:09 AM
+BAG:pigeon add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/03/2023 2:09 AM
+BAG:pigeon add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/03/2023 2:09 AM
+BAG:pigeon add 43xBột mì (old: 42) lydo: Nhặt từ map at 03/03/2023 2:10 AM
+BAG:pigeon add 44xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/03/2023 2:10 AM
+BAG:pigeon add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/03/2023 2:10 AM
+BAG:pigeon add 45xĐậu xanh (old: 44) lydo: Nhặt từ map at 03/03/2023 2:10 AM
+BAG:pigeon add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/03/2023 2:10 AM
+BAG:pigeon add 46xĐậu xanh (old: 45) lydo: Nhặt từ map at 03/03/2023 2:10 AM
+BAG:pigeon add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/03/2023 2:10 AM
+BAG:pigeon add 47xĐậu xanh (old: 46) lydo: Nhặt từ map at 03/03/2023 2:10 AM
+BAG:pigeon add 48xĐậu xanh (old: 47) lydo: Nhặt từ map at 03/03/2023 2:11 AM
+BAG:pigeon add 49xĐậu xanh (old: 48) lydo: Nhặt từ map at 03/03/2023 2:11 AM
+BAG:pigeon add 1xĐá Saphia lydo: Nhặt từ map at 03/03/2023 2:11 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 2:12 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 2:14 AM
+BAG:pigeon add 15xPháo hoa (old: 14) lydo: Nhặt từ map at 03/03/2023 2:14 AM
+BAG:pigeon add 16xPháo hoa (old: 15) lydo: Nhặt từ map at 03/03/2023 2:14 AM
+BAG:pigeon add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/03/2023 2:15 AM
+BAG:pigeon add 2xBánh trung thu thập cẩm (old: 1) lydo: Làm bánh at 03/03/2023 2:15 AM
+BAG:pigeon add 3xBánh trung thu thập cẩm (old: 2) lydo: Làm bánh at 03/03/2023 2:15 AM
+BAG:pigeon add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 2:17 AM
+BAG:pigeon add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 2:18 AM
+BAG:pigeon add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 2:18 AM
+BAG:pigeon add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 2:18 AM
+BAG:pigeon add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 2:18 AM
+BAG:pigeon add 1xMèo mun lydo: Mua từ cửa hàng at 03/03/2023 11:02 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 11:05 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 11:09 AM
+BAG:pigeon add 11xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/03/2023 11:10 AM
+BAG:pigeon add 16xBột mì (old: 13) lydo: Nhặt từ map at 03/03/2023 11:10 AM
+BAG:pigeon add 14xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/03/2023 11:10 AM
+BAG:pigeon add 16xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/03/2023 11:10 AM
+BAG:pigeon add 1xCủ cà rốt lydo: Nhặt từ map at 03/03/2023 11:10 AM
+BAG:pigeon add 20xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/03/2023 11:10 AM
+BAG:pigeon add 17xPháo hoa (old: 16) lydo: Nhặt từ map at 03/03/2023 11:10 AM
+BAG:pigeon add 23xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/03/2023 11:11 AM
+BAG:pigeon add 2xCủ cà rốt (old: 1) lydo: Nhặt từ map at 03/03/2023 11:11 AM
+BAG:pigeon add 3xCủ cà rốt (old: 2) lydo: Nhặt từ map at 03/03/2023 11:11 AM
+BAG:pigeon add 23xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/03/2023 11:11 AM
+BAG:pigeon add 87xCuồng nộ lydo: Giftcode at 03/03/2023 11:11 AM
+BAG:pigeon add 99xCuồng nộ (old: 87) lydo: Giftcode at 03/03/2023 11:11 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 11:16 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 11:22 AM
+BAG:pigeon add 67xNgọc Rồng 2 sao (old: 66) lydo: Nhặt từ map at 03/03/2023 11:24 AM
+BAG:pigeon add 18xPháo hoa (old: 17) lydo: Nhặt từ map at 03/03/2023 11:24 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 11:30 AM
+BAG:pigeon add 1xQuần Thần namếc lydo: Nhặt từ map at 03/03/2023 11:31 AM
+BAG:pigeon add 68xNgọc Rồng 2 sao (old: 67) lydo: Nhặt từ map at 03/03/2023 11:31 AM
+BAG:pigeon add 19xPháo hoa (old: 18) lydo: Nhặt từ map at 03/03/2023 11:31 AM
+BAG:pigeon add 1xÁo Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:40 AM
+BAG:pigeon add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:40 AM
+BAG:pigeon add 1xGiầy Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:40 AM
+BAG:pigeon add 1xNhẫn Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:40 AM
+BAG:pigeon add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:40 AM
+BAG:pigeon add 1xCải Trang Thần Zeno Xayda lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:40 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:40 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 11:46 AM
+BAG:pigeon add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/03/2023 11:50 AM
+BAG:pigeon add 1xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/03/2023 11:54 AM
+BAG:pigeon add 1xAvatar VIP lydo: Ước NR at 03/03/2023 11:54 AM
+BAG:pigeon add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/03/2023 11:56 AM
+BAG:pigeon add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 11:57 AM
+BAG:pigeon add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/03/2023 11:57 AM
+BAG:pigeon add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/03/2023 11:58 AM
+BAG:pigeon add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/03/2023 11:58 AM
+BAG:pigeon add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/03/2023 11:58 AM
+BAG:pigeon add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/03/2023 11:58 AM
+BAG:pigeon add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/03/2023 11:59 AM
+BAG:pigeon add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/03/2023 11:59 AM
+BAG:pigeon add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/03/2023 11:59 AM
+BAG:pigeon add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/03/2023 11:59 AM
+BAG:pigeon add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/03/2023 11:59 AM
+BAG:pigeon add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/03/2023 12:00 PM
+BAG:pigeon add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/03/2023 12:00 PM
+BAG:pigeon add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/03/2023 12:00 PM
+BAG:pigeon add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/03/2023 12:00 PM
+BAG:pigeon add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/03/2023 12:01 PM
+BAG:pigeon add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/03/2023 12:01 PM
+BAG:pigeon add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/03/2023 12:02 PM
+BAG:pigeon add 1xĐá Titan lydo: Nhặt từ map at 03/03/2023 12:02 PM
+BAG:pigeon add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/03/2023 12:02 PM
+BAG:pigeon add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/03/2023 12:03 PM
+BAG:pigeon add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/03/2023 12:04 PM
+BAG:pigeon add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/03/2023 12:04 PM
+BAG:pigeon add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/03/2023 12:04 PM
+BAG:pigeon add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/03/2023 12:04 PM
+BAG:pigeon add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/03/2023 12:04 PM
+BAG:pigeon add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/03/2023 12:07 PM
+BAG:pigeon add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/03/2023 12:07 PM
+BAG:pigeon add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/03/2023 12:07 PM
+BAG:pigeon add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/03/2023 12:07 PM
+BAG:pigeon add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/03/2023 12:08 PM
+BAG:pigeon add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/03/2023 12:08 PM
+BAG:pigeon add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/03/2023 12:08 PM
+BAG:pigeon add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/03/2023 12:08 PM
+BAG:pigeon add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/03/2023 12:08 PM
+BAG:pigeon add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/03/2023 12:08 PM
+BAG:pigeon add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/03/2023 12:09 PM
+BAG:pigeon add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/03/2023 12:09 PM
+BAG:pigeon add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/03/2023 12:09 PM
+BAG:pigeon add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/03/2023 12:09 PM
+BAG:pigeon add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/03/2023 12:09 PM
+BAG:pigeon add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/03/2023 12:09 PM
+BAG:pigeon add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/03/2023 12:09 PM
+BAG:pigeon add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/03/2023 12:10 PM
+BAG:pigeon add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/03/2023 12:10 PM
+BAG:pigeon add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/03/2023 12:10 PM
+BAG:pigeon add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/03/2023 12:11 PM
+BAG:pigeon add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/03/2023 12:11 PM
+BAG:pigeon add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/03/2023 12:11 PM
+BAG:pigeon add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/03/2023 12:11 PM
+BAG:pigeon add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/03/2023 12:12 PM
+BAG:pigeon add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/03/2023 12:12 PM
+BAG:pigeon add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/03/2023 12:12 PM
+BAG:pigeon add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:pigeon add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:pigeon add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:pigeon add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:pigeon add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:pigeon add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:pigeon add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:pigeon add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/03/2023 12:14 PM
+BAG:pigeon add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/03/2023 12:14 PM
+BAG:pigeon add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/03/2023 12:14 PM
+BAG:pigeon add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/03/2023 12:14 PM
+BAG:pigeon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/03/2023 12:14 PM
+BAG:pigeon add 1xHộp bánh Trung Thu lydo: Admin at 03/03/2023 12:15 PM
+BAG:pigeon add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:pigeon add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:pigeon add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:pigeon add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:pigeon add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/03/2023 12:16 PM
+BAG:pigeon add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/03/2023 12:16 PM
+BAG:pigeon add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/03/2023 12:16 PM
+BAG:pigeon add 42xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 03/03/2023 12:16 PM
+BAG:pigeon add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/03/2023 12:17 PM
+BAG:pigeon add 43xTrứng vịt muối (old: 42) lydo: Nhặt từ map at 03/03/2023 12:17 PM
+BAG:pigeon add 99xMì ly lydo: Admin at 03/03/2023 12:17 PM
+BAG:pigeon add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:pigeon add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:pigeon add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:pigeon add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:pigeon add 44xTrứng vịt muối (old: 43) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:pigeon add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:pigeon add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/03/2023 12:20 PM
+BAG:pigeon add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/03/2023 12:21 PM
+BAG:pigeon add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 03/03/2023 12:21 PM
+BAG:pigeon add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/03/2023 12:22 PM
+BAG:pigeon add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/03/2023 12:22 PM
+BAG:pigeon add 46xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:pigeon add 44xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:pigeon add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:pigeon add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:pigeon add 45xĐậu xanh (old: 44) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:pigeon add 47xTrứng vịt muối (old: 46) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:pigeon add 46xĐậu xanh (old: 45) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:pigeon add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:pigeon add 48xTrứng vịt muối (old: 47) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:pigeon add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/03/2023 12:24 PM
+BAG:pigeon add 47xĐậu xanh (old: 46) lydo: Nhặt từ map at 03/03/2023 12:24 PM
+BAG:pigeon add 48xĐậu xanh (old: 47) lydo: Nhặt từ map at 03/03/2023 12:24 PM
+BAG:pigeon add 49xĐậu xanh (old: 48) lydo: Nhặt từ map at 03/03/2023 12:25 PM
+BAG:pigeon add 50xĐậu xanh (old: 49) lydo: Nhặt từ map at 03/03/2023 12:25 PM
+BAG:pigeon add 39xBột mì (old: 38) lydo: Nhặt từ map at 03/03/2023 12:25 PM
+BAG:pigeon add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:pigeon add 51xĐậu xanh (old: 50) lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:pigeon add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:pigeon add 40xBột mì (old: 39) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:pigeon add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:pigeon add 41xBột mì (old: 40) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:pigeon add 52xĐậu xanh (old: 51) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:pigeon add 42xBột mì (old: 41) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:pigeon add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:pigeon add 43xBột mì (old: 42) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:pigeon add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:pigeon add 44xBột mì (old: 43) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:pigeon add 45xBột mì (old: 44) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:pigeon add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:pigeon add 49xTrứng vịt muối (old: 48) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:pigeon add 53xĐậu xanh (old: 52) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:pigeon add 54xĐậu xanh (old: 53) lydo: Nhặt từ map at 03/03/2023 12:31 PM
+BAG:pigeon add 50xTrứng vịt muối (old: 49) lydo: Nhặt từ map at 03/03/2023 12:31 PM
+BAG:pigeon add 51xTrứng vịt muối (old: 50) lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:pigeon add 55xĐậu xanh (old: 54) lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:pigeon add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:pigeon add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:pigeon add 56xĐậu xanh (old: 55) lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:pigeon add 57xĐậu xanh (old: 56) lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:pigeon add 58xĐậu xanh (old: 57) lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:pigeon add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/03/2023 12:35 PM
+BAG:pigeon add 46xBột mì (old: 45) lydo: Nhặt từ map at 03/03/2023 12:35 PM
+BAG:pigeon add 52xTrứng vịt muối (old: 51) lydo: Nhặt từ map at 03/03/2023 12:35 PM
+BAG:pigeon add 53xTrứng vịt muối (old: 52) lydo: Nhặt từ map at 03/03/2023 12:35 PM
+BAG:pigeon add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/03/2023 12:36 PM
+BAG:pigeon add 47xBột mì (old: 46) lydo: Nhặt từ map at 03/03/2023 12:36 PM
+BAG:pigeon add 54xTrứng vịt muối (old: 53) lydo: Nhặt từ map at 03/03/2023 12:36 PM
+BAG:pigeon add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/03/2023 12:37 PM
+BAG:pigeon add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/03/2023 12:37 PM
+BAG:pigeon add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/03/2023 12:38 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 12:41 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 12:52 PM
+BAG:pigeon add 20xPháo hoa (old: 19) lydo: Nhặt từ map at 03/03/2023 1:00 PM
+BAG:pigeon add 21xPháo hoa (old: 20) lydo: Nhặt từ map at 03/03/2023 1:00 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 1:08 PM
+BAG:pigeon add 22xPháo hoa (old: 21) lydo: Nhặt từ map at 03/03/2023 1:09 PM
+BAG:pigeon add 23xPháo hoa (old: 22) lydo: Nhặt từ map at 03/03/2023 1:09 PM
+BAG:pigeon add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/03/2023 1:10 PM
+BAG:pigeon add 55xTrứng vịt muối (old: 54) lydo: Nhặt từ map at 03/03/2023 1:10 PM
+BAG:pigeon add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/03/2023 5:33 PM
+BAG:pigeon add 1xLồng đèn Con tàu lydo: CSTT at 03/03/2023 5:33 PM
+BAG:pigeon add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/03/2023 5:33 PM
+BAG:pigeon add 2xBánh trung thu thập cẩm (old: 1) lydo: Làm bánh at 03/03/2023 5:33 PM
+BAG:pigeon add 3xBánh trung thu thập cẩm (old: 2) lydo: Làm bánh at 03/03/2023 5:33 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 5:38 PM
+BAG:pigeon add 1xÁo Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:42 PM
+BAG:pigeon add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:42 PM
+BAG:pigeon add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:42 PM
+BAG:pigeon add 1xGiầy Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:42 PM
+BAG:pigeon add 1xNhẫn Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:42 PM
+BAG:pigeon add 1xCải Trang Thần Zeno Xayda lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:42 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:42 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 5:48 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 5:50 PM
+BAG:pigeon add 1xÁo Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:51 PM
+BAG:pigeon add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:51 PM
+BAG:pigeon add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:51 PM
+BAG:pigeon add 1xGiầy Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:51 PM
+BAG:pigeon add 1xNhẫn Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:51 PM
+BAG:pigeon add 1xCải Trang Thần Zeno Xayda lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:51 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:51 PM
+BAG:pigeon add 1xÁo Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:03 PM
+BAG:pigeon add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:03 PM
+BAG:pigeon add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:03 PM
+BAG:pigeon add 1xGiầy Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:03 PM
+BAG:pigeon add 1xNhẫn Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:03 PM
+BAG:pigeon add 1xCải Trang Thần Zeno Xayda lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:03 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:03 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 6:05 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 6:08 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 6:29 PM
+BAG:pigeon add 68xNgọc Rồng 2 sao (old: 67) lydo: Nhặt từ map at 03/03/2023 6:30 PM
+BAG:pigeon add 69xNgọc Rồng 2 sao (old: 68) lydo: Nhặt từ map at 03/03/2023 6:31 PM
+BAG:pigeon add 56xNgọc Rồng 3 sao (old: 55) lydo: Nhặt từ map at 03/03/2023 6:34 PM
+BAG:pigeon add 24xPháo hoa (old: 23) lydo: Nhặt từ map at 03/03/2023 6:34 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 6:41 PM
+BAG:pigeon add 70xNgọc Rồng 2 sao (old: 69) lydo: Nhặt từ map at 03/03/2023 6:42 PM
+BAG:pigeon add 25xPháo hoa (old: 24) lydo: Nhặt từ map at 03/03/2023 6:42 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 6:46 PM
+BAG:pigeon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 6:52 PM
+BAG:pigeon add 71xNgọc Rồng 2 sao (old: 70) lydo: Nhặt từ map at 03/03/2023 6:53 PM

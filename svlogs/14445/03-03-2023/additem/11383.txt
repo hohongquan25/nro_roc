@@ -1,0 +1,85 @@
+BAG:alpha add 1xÁo vải thô lydo: Mua từ cửa hàng at 03/03/2023 6:30 AM
+BAG:alpha add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 6:32 AM
+BAG:alpha add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/03/2023 6:32 AM
+BAG:alpha add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 6:33 AM
+BAG:alpha add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 6:33 AM
+BAG:alpha add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 6:33 AM
+BAG:alpha add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 6:33 AM
+BAG:alpha add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 6:33 AM
+BAG:alpha add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 6:33 AM
+BAG:alpha add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/03/2023 8:01 AM
+BAG:alpha add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/03/2023 8:01 AM
+BAG:alpha add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/03/2023 8:01 AM
+BAG:alpha add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/03/2023 8:01 AM
+BAG:alpha add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/03/2023 8:01 AM
+BAG:alpha add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/03/2023 8:01 AM
+BAG:alpha add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 03/03/2023 8:02 AM
+BAG:alpha add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 03/03/2023 8:02 AM
+BAG:alpha add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 03/03/2023 8:02 AM
+BAG:alpha add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 03/03/2023 8:02 AM
+BAG:alpha add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 03/03/2023 8:02 AM
+BAG:alpha add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 03/03/2023 8:02 AM
+BAG:alpha add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 03/03/2023 8:02 AM
+BAG:alpha add 1xSách Trói lv1 lydo: Mua từ cửa hàng at 03/03/2023 8:03 AM
+BAG:alpha add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 03/03/2023 8:03 AM
+BAG:alpha add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 03/03/2023 8:03 AM
+BAG:alpha add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 03/03/2023 8:03 AM
+BAG:alpha add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 03/03/2023 8:03 AM
+BAG:alpha add 1xSách Trói lv6 lydo: Mua từ cửa hàng at 03/03/2023 8:03 AM
+BAG:alpha add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 03/03/2023 8:03 AM
+BAG:alpha add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/03/2023 8:03 AM
+BAG:alpha add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/03/2023 8:06 AM
+BAG:alpha add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/03/2023 8:06 AM
+BAG:alpha add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/03/2023 8:06 AM
+BAG:alpha add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/03/2023 8:06 AM
+BAG:alpha add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/03/2023 8:06 AM
+BAG:alpha add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/03/2023 8:06 AM
+BAG:alpha add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xSách Huýt Sáo lv1 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xSách Huýt Sáo lv2 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xSách Huýt Sáo lv3 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xSách Huýt Sáo lv4 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xSách Huýt Sáo lv5 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xSách Huýt Sáo lv6 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xSách Huýt Sáo lv7 lydo: Mua từ cửa hàng at 03/03/2023 8:09 AM
+BAG:alpha add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/03/2023 8:10 AM
+BAG:alpha add 72xGà quay nguyên con (old: 71) lydo: Nhặt từ map at 03/03/2023 8:19 AM
+BAG:alpha add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/03/2023 8:20 AM
+BAG:alpha add 81xĐậu xanh (old: 80) lydo: Nhặt từ map at 03/03/2023 8:21 AM
+BAG:alpha add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/03/2023 8:27 AM
+BAG:alpha add 2xBánh trung thu thập cẩm (old: 1) lydo: Làm bánh at 03/03/2023 8:28 AM
+BAG:alpha add 3xBánh trung thu thập cẩm (old: 2) lydo: Làm bánh at 03/03/2023 8:28 AM
+BAG:alpha add 4xBánh trung thu thập cẩm (old: 3) lydo: Làm bánh at 03/03/2023 8:28 AM
+BAG:alpha add 5xBánh trung thu thập cẩm (old: 4) lydo: Làm bánh at 03/03/2023 8:28 AM
+BAG:alpha add 6xBánh trung thu thập cẩm (old: 5) lydo: Làm bánh at 03/03/2023 8:28 AM
+BAG:alpha add 7xBánh trung thu thập cẩm (old: 6) lydo: Làm bánh at 03/03/2023 8:28 AM
+BAG:alpha add 8xBánh trung thu thập cẩm (old: 7) lydo: Làm bánh at 03/03/2023 8:28 AM
+BAG:alpha add 9xBánh trung thu thập cẩm (old: 8) lydo: Làm bánh at 03/03/2023 8:28 AM
+BAG:alpha add 1xNgọc Rồng 3 sao lydo: CSTT at 03/03/2023 8:28 AM
+BAG:alpha add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:14 PM
+BAG:alpha add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:15 PM
+BAG:alpha add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:15 PM
+BAG:alpha add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 1:15 PM
+BAG:alpha add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 1:15 PM
+BAG:alpha add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 1:15 PM
+BAG:alpha add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 1:15 PM
+BAG:alpha add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/03/2023 1:34 PM
+BAG:alpha add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:54 PM
+BAG:alpha add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:54 PM
+BAG:alpha add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 1:54 PM
+BAG:alpha add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 1:54 PM
+BAG:alpha add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 1:54 PM
+BAG:alpha add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 1:54 PM
+BAG:alpha add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 5:27 PM
+BAG:alpha add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 5:27 PM
+BAG:alpha add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 5:27 PM
+BAG:alpha add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 5:27 PM
+BAG:alpha add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 5:27 PM
+BAG:alpha add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 5:27 PM
+BAG:alpha add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/03/2023 9:05 PM

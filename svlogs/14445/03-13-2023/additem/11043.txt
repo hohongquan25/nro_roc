@@ -1,0 +1,462 @@
+BAG:kamee1jack add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 8:55 AM
+BAG:kamee1jack add 10xĐậu thần cấp 8 lydo: Thu hoạch đậu at 03/13/2023 8:57 AM
+BAG:kamee1jack add 30xĐậu thần cấp 8 (old: 10) lydo: Lấy từ rương qua người at 03/13/2023 8:57 AM
+BAG:kamee1jack add 50xĐậu thần cấp 8 (old: 30) lydo: Lấy từ rương qua người at 03/13/2023 8:57 AM
+BAG:kamee1jack add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 9:05 AM
+BAG:kamee1jack add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 9:05 AM
+BAG:kamee1jack add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/13/2023 9:09 AM
+BAG:kamee1jack add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/13/2023 9:10 AM
+BAG:kamee1jack add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/13/2023 9:12 AM
+BAG:kamee1jack add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/13/2023 9:12 AM
+BAG:kamee1jack add 1xMảnh Khủng long lydo: Nhặt từ map at 03/13/2023 9:13 AM
+BAG:kamee1jack add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/13/2023 9:15 AM
+BAG:kamee1jack add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/13/2023 9:15 AM
+BAG:kamee1jack add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 9:15 AM
+BAG:kamee1jack add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/13/2023 9:16 AM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 9:16 AM
+BAG:kamee1jack add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/13/2023 9:16 AM
+BAG:kamee1jack add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 9:17 AM
+BAG:kamee1jack add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 9:17 AM
+BAG:kamee1jack add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/13/2023 9:17 AM
+BAG:kamee1jack add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 9:18 AM
+BAG:kamee1jack add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/13/2023 9:18 AM
+BAG:kamee1jack add 1xGhế bay lydo: Mua từ cửa hàng at 03/13/2023 9:20 AM
+BAG:kamee1jack add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/13/2023 9:20 AM
+BAG:kamee1jack add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/13/2023 9:20 AM
+BAG:kamee1jack add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/13/2023 9:20 AM
+BAG:kamee1jack add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/13/2023 9:20 AM
+BAG:kamee1jack add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/13/2023 9:20 AM
+BAG:kamee1jack add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/13/2023 9:20 AM
+BAG:kamee1jack add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/13/2023 9:21 AM
+BAG:kamee1jack add 64xĐậu thần cấp 8 (old: 44) lydo: Lấy từ rương qua người at 03/13/2023 9:22 AM
+BAG:kamee1jack add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/13/2023 9:22 AM
+BAG:kamee1jack add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/13/2023 9:22 AM
+BAG:kamee1jack add 1xGiày cao su Kame lydo: Mua từ cửa hàng at 03/13/2023 9:23 AM
+BAG:kamee1jack add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 9:25 AM
+BAG:kamee1jack add 1xMảnh Phi long lydo: Nhặt từ map at 03/13/2023 9:25 AM
+BAG:kamee1jack add 10xCuồng nộ lydo: Giftcode at 03/13/2023 9:26 AM
+BAG:kamee1jack add 10xBổ huyết lydo: Giftcode at 03/13/2023 9:26 AM
+BAG:kamee1jack add 10xBổ khí lydo: Giftcode at 03/13/2023 9:26 AM
+BAG:kamee1jack add 10xGiáp Xên bọ hung lydo: Giftcode at 03/13/2023 9:26 AM
+BAG:kamee1jack add 50xThỏi vàng lydo: Giftcode at 03/13/2023 9:28 AM
+BAG:kamee1jack add 10xSao pha lê lydo: Giftcode at 03/13/2023 9:28 AM
+BAG:kamee1jack add 10xSao pha lê lydo: Giftcode at 03/13/2023 9:28 AM
+BAG:kamee1jack add 10xSao pha lê lydo: Giftcode at 03/13/2023 9:28 AM
+BAG:kamee1jack add 1xCải trang Hit lydo: Giftcode at 03/13/2023 9:28 AM
+BAG:kamee1jack add 300xThỏi vàng (old: 50) lydo: Giftcode at 03/13/2023 9:29 AM
+BAG:kamee1jack add 40xNgọc Rồng 3 sao lydo: Giftcode at 03/13/2023 9:29 AM
+BAG:kamee1jack add 5xPháo hoa lydo: Nhặt từ map at 03/13/2023 9:32 AM
+BAG:kamee1jack add 400xThỏi vàng (old: 300) lydo: Giftcode at 03/13/2023 9:35 AM
+BAG:kamee1jack add 906xPháo hoa lydo: Giftcode at 03/13/2023 9:35 AM
+BAG:kamee1jack add 99xPháo hoa (old: 5) lydo: Giftcode at 03/13/2023 9:35 AM
+BAG:kamee1jack add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/13/2023 9:36 AM
+BAG:kamee1jack add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 9:36 AM
+BAG:kamee1jack add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 9:37 AM
+BAG:kamee1jack add 1xĐậu thần cấp 10 lydo: Clan cho đậu at 03/13/2023 9:37 AM
+BAG:kamee1jack add 2xĐậu thần cấp 10 (old: 1) lydo: Clan cho đậu at 03/13/2023 9:37 AM
+BAG:kamee1jack add 3xĐậu thần cấp 10 (old: 2) lydo: Clan cho đậu at 03/13/2023 9:37 AM
+BAG:kamee1jack add 4xĐậu thần cấp 10 (old: 3) lydo: Clan cho đậu at 03/13/2023 9:37 AM
+BAG:kamee1jack add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 9:38 AM
+BAG:kamee1jack add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 9:39 AM
+BAG:kamee1jack add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 9:39 AM
+BAG:kamee1jack add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 9:39 AM
+BAG:kamee1jack add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/13/2023 9:40 AM
+BAG:kamee1jack add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 9:41 AM
+BAG:kamee1jack add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 9:41 AM
+BAG:kamee1jack add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 9:41 AM
+BAG:kamee1jack add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 9:42 AM
+BAG:kamee1jack add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 9:42 AM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 9:42 AM
+BAG:kamee1jack add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 9:43 AM
+BAG:kamee1jack add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/13/2023 9:44 AM
+BAG:kamee1jack add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 9:44 AM
+BAG:kamee1jack add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 9:46 AM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 9:46 AM
+BAG:kamee1jack add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 9:46 AM
+BAG:kamee1jack add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/13/2023 9:46 AM
+BAG:kamee1jack add 1xNgọc Rồng 5 sao lydo: HQT at 03/13/2023 9:46 AM
+BAG:kamee1jack add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/13/2023 9:46 AM
+BAG:kamee1jack add 11xBổ khí (old: 10) lydo: HQT at 03/13/2023 9:46 AM
+BAG:kamee1jack add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 9:46 AM
+BAG:kamee1jack add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 9:47 AM
+BAG:kamee1jack add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/13/2023 9:48 AM
+BAG:kamee1jack add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 9:48 AM
+BAG:kamee1jack add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 9:49 AM
+BAG:kamee1jack add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 9:50 AM
+BAG:kamee1jack add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 9:50 AM
+BAG:kamee1jack add 2xMảnh Khủng long mẹ lydo: Lấy từ rương qua người at 03/13/2023 9:52 AM
+BAG:kamee1jack add 3xĐá Titan lydo: Lấy từ rương qua người at 03/13/2023 9:52 AM
+BAG:kamee1jack add 1xMảnh Lợn lòi lydo: Lấy từ rương qua người at 03/13/2023 9:52 AM
+BAG:kamee1jack add 1xĐá Saphia lydo: Lấy từ rương qua người at 03/13/2023 9:52 AM
+BAG:kamee1jack add 1xMảnh Quỷ đất mẹ lydo: Lấy từ rương qua người at 03/13/2023 9:52 AM
+BAG:kamee1jack add 4xMảnh Khủng long lydo: Lấy từ rương qua người at 03/13/2023 9:52 AM
+BAG:kamee1jack add 2xMảnh Thằn lằn bay lydo: Lấy từ rương qua người at 03/13/2023 9:52 AM
+BAG:kamee1jack add 3xĐá lục bảo lydo: Lấy từ rương qua người at 03/13/2023 9:52 AM
+BAG:kamee1jack add 1xĐá Ruby lydo: Lấy từ rương qua người at 03/13/2023 9:52 AM
+BAG:kamee1jack add 1xĐá thạch anh tím lydo: Lấy từ rương qua người at 03/13/2023 9:52 AM
+BAG:kamee1jack add 1xMảnh Phi long lydo: Lấy từ rương qua người at 03/13/2023 9:53 AM
+BAG:kamee1jack add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/13/2023 10:00 AM
+BAG:kamee1jack add 1xCuồng nộ lydo: HQT at 03/13/2023 10:03 AM
+BAG:kamee1jack add 1xGiáp Xên bọ hung lydo: HQT at 03/13/2023 10:03 AM
+BAG:kamee1jack add 1xNgọc Rồng 5 sao lydo: HQT at 03/13/2023 10:03 AM
+BAG:kamee1jack add 1xBổ huyết lydo: HQT at 03/13/2023 10:03 AM
+BAG:kamee1jack add 1xBổ khí lydo: HQT at 03/13/2023 10:03 AM
+BAG:kamee1jack add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 10:04 AM
+BAG:kamee1jack add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/13/2023 10:04 AM
+BAG:kamee1jack add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 10:09 AM
+BAG:kamee1jack add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 10:09 AM
+BAG:kamee1jack add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 10:10 AM
+BAG:kamee1jack add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 10:12 AM
+BAG:kamee1jack add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 10:15 AM
+BAG:kamee1jack add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/13/2023 10:17 AM
+BAG:kamee1jack add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/13/2023 10:17 AM
+BAG:kamee1jack add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/13/2023 10:17 AM
+BAG:kamee1jack add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/13/2023 10:18 AM
+BAG:kamee1jack add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/13/2023 10:18 AM
+BAG:kamee1jack add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/13/2023 10:18 AM
+BAG:kamee1jack add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/13/2023 10:18 AM
+BAG:kamee1jack add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/13/2023 10:19 AM
+BAG:kamee1jack add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/13/2023 10:19 AM
+BAG:kamee1jack add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/13/2023 10:19 AM
+BAG:kamee1jack add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/13/2023 10:19 AM
+BAG:kamee1jack add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/13/2023 10:19 AM
+BAG:kamee1jack add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/13/2023 10:19 AM
+BAG:kamee1jack add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/13/2023 10:19 AM
+BAG:kamee1jack add 1xGăng võ Kame lydo: Mua từ cửa hàng at 03/13/2023 10:21 AM
+BAG:kamee1jack add 1xGăng thun Kame lydo: Mua từ cửa hàng at 03/13/2023 10:21 AM
+BAG:kamee1jack add 1xGiày cao su Kame lydo: Mua từ cửa hàng at 03/13/2023 10:21 AM
+BAG:kamee1jack add 1xÁo vải Kame lydo: Mua từ cửa hàng at 03/13/2023 10:21 AM
+BAG:kamee1jack add 1xQuần vải Kame lydo: Mua từ cửa hàng at 03/13/2023 10:21 AM
+BAG:kamee1jack add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/13/2023 10:28 AM
+BAG:kamee1jack add 80xPháo hoa (old: 75) lydo: Nhặt từ map at 03/13/2023 10:29 AM
+BAG:kamee1jack add 1xCải trang lydo: Mua từ cửa hàng at 03/13/2023 10:29 AM
+BAG:kamee1jack add 85xPháo hoa (old: 80) lydo: Nhặt từ map at 03/13/2023 10:29 AM
+BAG:kamee1jack add 2xBổ khí (old: 1) lydo: HQT at 03/13/2023 10:30 AM
+BAG:kamee1jack add 2xCuồng nộ (old: 1) lydo: HQT at 03/13/2023 10:30 AM
+BAG:kamee1jack add 3xCuồng nộ (old: 2) lydo: HQT at 03/13/2023 10:30 AM
+BAG:kamee1jack add 3xBổ khí (old: 2) lydo: HQT at 03/13/2023 10:30 AM
+BAG:kamee1jack add 4xBổ khí (old: 3) lydo: HQT at 03/13/2023 10:30 AM
+BAG:kamee1jack add 4xCuồng nộ (old: 3) lydo: HQT at 03/13/2023 10:30 AM
+BAG:kamee1jack add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 10:30 AM
+BAG:kamee1jack add 1xNgọc Rồng 7 sao lydo: HQT at 03/13/2023 10:30 AM
+BAG:kamee1jack add 1xNgọc Rồng 4 sao lydo: HQT at 03/13/2023 10:30 AM
+BAG:kamee1jack add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/13/2023 10:30 AM
+BAG:kamee1jack add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/13/2023 10:30 AM
+BAG:kamee1jack add 1xNgọc Rồng 6 sao lydo: HQT at 03/13/2023 10:30 AM
+BAG:kamee1jack add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 10:30 AM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 10:31 AM
+BAG:kamee1jack add 5xCuồng nộ (old: 4) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 5xBổ khí (old: 4) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 6xBổ khí (old: 5) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 2xBổ huyết (old: 1) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 7xBổ khí (old: 6) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 6xCuồng nộ (old: 5) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 7xCuồng nộ (old: 6) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 3xBổ huyết (old: 2) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 1xNgọc Rồng 5 sao lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/13/2023 10:32 AM
+BAG:kamee1jack add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/13/2023 10:33 AM
+BAG:kamee1jack add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/13/2023 10:33 AM
+BAG:kamee1jack add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/13/2023 10:33 AM
+BAG:kamee1jack add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/13/2023 10:33 AM
+BAG:kamee1jack add 4xBổ huyết (old: 3) lydo: HQT at 03/13/2023 10:34 AM
+BAG:kamee1jack add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/13/2023 10:34 AM
+BAG:kamee1jack add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/13/2023 10:34 AM
+BAG:kamee1jack add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/13/2023 10:34 AM
+BAG:kamee1jack add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/13/2023 10:34 AM
+BAG:kamee1jack add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/13/2023 10:39 AM
+BAG:kamee1jack add 1xSao pha lê lydo: Lấy từ lucky box at 03/13/2023 10:39 AM
+BAG:kamee1jack add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/13/2023 10:39 AM
+BAG:kamee1jack add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/13/2023 10:39 AM
+BAG:kamee1jack add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/13/2023 10:39 AM
+BAG:kamee1jack add 906xPháo hoa lydo: Lấy từ rương qua người at 03/13/2023 10:40 AM
+BAG:kamee1jack add 99xThỏi vàng lydo: Tách thỏi vàng at 03/13/2023 10:41 AM
+BAG:kamee1jack add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/13/2023 10:43 AM
+BAG:kamee1jack add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/13/2023 10:44 AM
+BAG:kamee1jack add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/13/2023 10:45 AM
+BAG:kamee1jack add 1xSao pha lê lydo: Lấy từ lucky box at 03/13/2023 10:45 AM
+BAG:kamee1jack add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/13/2023 10:45 AM
+BAG:kamee1jack add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/13/2023 10:45 AM
+BAG:kamee1jack add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/13/2023 10:45 AM
+BAG:kamee1jack add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/13/2023 10:45 AM
+BAG:kamee1jack add 1xÁo vải Kame lydo: Lấy từ rương qua người at 03/13/2023 10:46 AM
+BAG:kamee1jack add 1xGăng thun Kame lydo: Lấy từ rương qua người at 03/13/2023 10:47 AM
+BAG:kamee1jack add 1xRada cấp 6 lydo: Mua từ cửa hàng at 03/13/2023 10:47 AM
+BAG:kamee1jack add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/13/2023 10:47 AM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 1:01 PM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 1:02 PM
+BAG:kamee1jack add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/13/2023 1:02 PM
+BAG:kamee1jack add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/13/2023 1:03 PM
+BAG:kamee1jack add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/13/2023 1:21 PM
+BAG:kamee1jack add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 1:21 PM
+BAG:kamee1jack add 5xPháo hoa lydo: Nhặt từ map at 03/13/2023 5:51 PM
+BAG:kamee1jack add 1xÁo vải Kame lydo: Lấy từ body đệ vào hành trang at 03/13/2023 5:52 PM
+BAG:kamee1jack add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 5:52 PM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 5:52 PM
+BAG:kamee1jack add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/13/2023 5:54 PM
+BAG:kamee1jack add 1xNgọc Rồng 4 sao lydo: HQT at 03/13/2023 5:54 PM
+BAG:kamee1jack add 1xGiáp Xên bọ hung lydo: HQT at 03/13/2023 5:54 PM
+BAG:kamee1jack add 1xNgọc Rồng 7 sao lydo: HQT at 03/13/2023 5:54 PM
+BAG:kamee1jack add 1xBổ khí lydo: HQT at 03/13/2023 5:54 PM
+BAG:kamee1jack add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/13/2023 5:54 PM
+BAG:kamee1jack add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/13/2023 5:54 PM
+BAG:kamee1jack add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/13/2023 5:55 PM
+BAG:kamee1jack add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/13/2023 5:55 PM
+BAG:kamee1jack add 1xCuồng nộ lydo: HQT at 03/13/2023 5:55 PM
+BAG:kamee1jack add 1xBổ khí lydo: HQT at 03/13/2023 5:55 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 5:55 PM
+BAG:kamee1jack add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/13/2023 5:56 PM
+BAG:kamee1jack add 2xCuồng nộ (old: 1) lydo: HQT at 03/13/2023 5:56 PM
+BAG:kamee1jack add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/13/2023 5:56 PM
+BAG:kamee1jack add 1xNgọc Rồng 6 sao lydo: HQT at 03/13/2023 5:56 PM
+BAG:kamee1jack add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/13/2023 5:56 PM
+BAG:kamee1jack add 3xCuồng nộ (old: 2) lydo: HQT at 03/13/2023 5:56 PM
+BAG:kamee1jack add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/13/2023 5:56 PM
+BAG:kamee1jack add 1xÁo vải Kame lydo: Lấy từ body đệ vào hành trang at 03/13/2023 5:57 PM
+BAG:kamee1jack add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 5:58 PM
+BAG:kamee1jack add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 5:58 PM
+BAG:kamee1jack add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 5:58 PM
+BAG:kamee1jack add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 5:58 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 5:59 PM
+BAG:kamee1jack add 1xQuần vải Kame lydo: Lấy từ rương qua người at 03/13/2023 6:00 PM
+BAG:kamee1jack add 1xGiày cao su Kame lydo: Lấy từ rương qua người at 03/13/2023 6:00 PM
+BAG:kamee1jack add 1xGăng võ Kame lydo: Lấy từ rương qua người at 03/13/2023 6:00 PM
+BAG:kamee1jack add 64xĐậu thần cấp 8 (old: 44) lydo: Lấy từ rương qua người at 03/13/2023 6:00 PM
+BAG:kamee1jack add 75xĐậu thần cấp 8 (old: 64) lydo: Lấy từ rương qua người at 03/13/2023 6:00 PM
+BAG:kamee1jack add 1xNgọc Rồng 7 sao lydo: HQT at 03/13/2023 6:02 PM
+BAG:kamee1jack add 1xBổ huyết lydo: HQT at 03/13/2023 6:02 PM
+BAG:kamee1jack add 1xNgọc Rồng 6 sao lydo: HQT at 03/13/2023 6:02 PM
+BAG:kamee1jack add 1xCuồng nộ lydo: HQT at 03/13/2023 6:02 PM
+BAG:kamee1jack add 2xCuồng nộ (old: 1) lydo: HQT at 03/13/2023 6:02 PM
+BAG:kamee1jack add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/13/2023 6:02 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:02 PM
+BAG:kamee1jack add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/13/2023 6:02 PM
+BAG:kamee1jack add 1xBổ khí lydo: HQT at 03/13/2023 6:02 PM
+BAG:kamee1jack add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/13/2023 6:02 PM
+BAG:kamee1jack add 2xBổ khí (old: 1) lydo: HQT at 03/13/2023 6:02 PM
+BAG:kamee1jack add 1xNgọc Rồng 5 sao lydo: HQT at 03/13/2023 6:02 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:02 PM
+BAG:kamee1jack add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 6:03 PM
+BAG:kamee1jack add 1xNgọc Rồng 4 sao lydo: HQT at 03/13/2023 6:03 PM
+BAG:kamee1jack add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/13/2023 6:03 PM
+BAG:kamee1jack add 3xBổ khí (old: 2) lydo: HQT at 03/13/2023 6:03 PM
+BAG:kamee1jack add 3xCuồng nộ (old: 2) lydo: HQT at 03/13/2023 6:03 PM
+BAG:kamee1jack add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/13/2023 6:03 PM
+BAG:kamee1jack add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/13/2023 6:03 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:03 PM
+BAG:kamee1jack add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 6:03 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:04 PM
+BAG:kamee1jack add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 6:04 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:04 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:04 PM
+BAG:kamee1jack add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 6:05 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:05 PM
+BAG:kamee1jack add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 6:05 PM
+BAG:kamee1jack add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/13/2023 6:05 PM
+BAG:kamee1jack add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 6:05 PM
+BAG:kamee1jack add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/13/2023 6:05 PM
+BAG:kamee1jack add 3xBổ khí (old: 2) lydo: HQT at 03/13/2023 6:05 PM
+BAG:kamee1jack add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/13/2023 6:05 PM
+BAG:kamee1jack add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/13/2023 6:05 PM
+BAG:kamee1jack add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/13/2023 6:05 PM
+BAG:kamee1jack add 1xBổ huyết lydo: HQT at 03/13/2023 6:05 PM
+BAG:kamee1jack add 4xBổ khí (old: 3) lydo: HQT at 03/13/2023 6:06 PM
+BAG:kamee1jack add 1xNgọc Rồng 7 sao lydo: HQT at 03/13/2023 6:06 PM
+BAG:kamee1jack add 2xBổ huyết (old: 1) lydo: HQT at 03/13/2023 6:06 PM
+BAG:kamee1jack add 3xBổ huyết (old: 2) lydo: HQT at 03/13/2023 6:06 PM
+BAG:kamee1jack add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/13/2023 6:06 PM
+BAG:kamee1jack add 1xNgọc Rồng 6 sao lydo: HQT at 03/13/2023 6:06 PM
+BAG:kamee1jack add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/13/2023 6:06 PM
+BAG:kamee1jack add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 6:06 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:06 PM
+BAG:kamee1jack add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 6:08 PM
+BAG:kamee1jack add 9xPháo hoa (old: 4) lydo: Nhặt từ map at 03/13/2023 6:08 PM
+BAG:kamee1jack add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 6:08 PM
+BAG:kamee1jack add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 6:08 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:09 PM
+BAG:kamee1jack add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 6:09 PM
+BAG:kamee1jack add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/13/2023 6:09 PM
+BAG:kamee1jack add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 6:09 PM
+BAG:kamee1jack add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/13/2023 6:09 PM
+BAG:kamee1jack add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 6:09 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:10 PM
+BAG:kamee1jack add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/13/2023 6:10 PM
+BAG:kamee1jack add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/13/2023 6:12 PM
+BAG:kamee1jack add 1xPháo hoa lydo: Nhặt từ map at 03/13/2023 6:13 PM
+BAG:kamee1jack add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/13/2023 6:14 PM
+BAG:kamee1jack add 1xÁo vải Kame lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:17 PM
+BAG:kamee1jack add 1xQuần vải Kame lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:17 PM
+BAG:kamee1jack add 1xGăng võ Kame lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:17 PM
+BAG:kamee1jack add 1xGiày cao su Kame lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:17 PM
+BAG:kamee1jack add 1xRada cấp 6 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:17 PM
+BAG:kamee1jack add 1xCải trang lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:17 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:20 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:21 PM
+BAG:kamee1jack add 1xNgọc Rồng 7 sao lydo: HQT at 03/13/2023 6:21 PM
+BAG:kamee1jack add 1xNgọc Rồng 6 sao lydo: HQT at 03/13/2023 6:21 PM
+BAG:kamee1jack add 1xBổ huyết lydo: HQT at 03/13/2023 6:21 PM
+BAG:kamee1jack add 2xBổ huyết (old: 1) lydo: HQT at 03/13/2023 6:21 PM
+BAG:kamee1jack add 1xNgọc Rồng 4 sao lydo: HQT at 03/13/2023 6:21 PM
+BAG:kamee1jack add 3xBổ huyết (old: 2) lydo: HQT at 03/13/2023 6:21 PM
+BAG:kamee1jack add 1xNgọc Rồng 7 sao lydo: HQT at 03/13/2023 6:22 PM
+BAG:kamee1jack add 1xNgọc Rồng 5 sao lydo: HQT at 03/13/2023 6:22 PM
+BAG:kamee1jack add 1xNgọc Rồng 6 sao lydo: HQT at 03/13/2023 6:22 PM
+BAG:kamee1jack add 4xBổ huyết (old: 3) lydo: HQT at 03/13/2023 6:22 PM
+BAG:kamee1jack add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/13/2023 6:22 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:22 PM
+BAG:kamee1jack add 1xQuần vải Kame lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:23 PM
+BAG:kamee1jack add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/13/2023 6:23 PM
+BAG:kamee1jack add 14xPháo hoa (old: 9) lydo: Nhặt từ map at 03/13/2023 6:24 PM
+BAG:kamee1jack add 19xPháo hoa (old: 14) lydo: Nhặt từ map at 03/13/2023 6:24 PM
+BAG:kamee1jack add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/13/2023 6:24 PM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 6:25 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:25 PM
+BAG:kamee1jack add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 6:26 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:27 PM
+BAG:kamee1jack add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/13/2023 6:27 PM
+BAG:kamee1jack add 24xPháo hoa (old: 19) lydo: Nhặt từ map at 03/13/2023 6:27 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:29 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:29 PM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 6:30 PM
+BAG:kamee1jack add 29xPháo hoa (old: 24) lydo: Nhặt từ map at 03/13/2023 6:30 PM
+BAG:kamee1jack add 1xQuần vải Kame lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:31 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:31 PM
+BAG:kamee1jack add 1xGiày cao su Kame lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:31 PM
+BAG:kamee1jack add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/13/2023 6:32 PM
+BAG:kamee1jack add 1xRada cấp 6 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:33 PM
+BAG:kamee1jack add 34xPháo hoa (old: 29) lydo: Nhặt từ map at 03/13/2023 6:33 PM
+BAG:kamee1jack add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/13/2023 6:33 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:33 PM
+BAG:kamee1jack add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 6:33 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:34 PM
+BAG:kamee1jack add 39xPháo hoa (old: 34) lydo: Nhặt từ map at 03/13/2023 6:34 PM
+BAG:kamee1jack add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/13/2023 6:34 PM
+BAG:kamee1jack add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 6:35 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:39 PM
+BAG:kamee1jack add 44xPháo hoa (old: 39) lydo: Nhặt từ map at 03/13/2023 6:39 PM
+BAG:kamee1jack add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 6:40 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:40 PM
+BAG:kamee1jack add 49xPháo hoa (old: 44) lydo: Nhặt từ map at 03/13/2023 6:40 PM
+BAG:kamee1jack add 54xPháo hoa (old: 49) lydo: Nhặt từ map at 03/13/2023 6:40 PM
+BAG:kamee1jack add 59xPháo hoa (old: 54) lydo: Nhặt từ map at 03/13/2023 6:41 PM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 6:41 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:41 PM
+BAG:kamee1jack add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 6:41 PM
+BAG:kamee1jack add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 6:42 PM
+BAG:kamee1jack add 64xPháo hoa (old: 59) lydo: Nhặt từ map at 03/13/2023 6:42 PM
+BAG:kamee1jack add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/13/2023 6:42 PM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 6:42 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:42 PM
+BAG:kamee1jack add 69xPháo hoa (old: 64) lydo: Nhặt từ map at 03/13/2023 6:42 PM
+BAG:kamee1jack add 74xPháo hoa (old: 69) lydo: Nhặt từ map at 03/13/2023 6:42 PM
+BAG:kamee1jack add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/13/2023 6:42 PM
+BAG:kamee1jack add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 6:43 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:44 PM
+BAG:kamee1jack add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/13/2023 6:44 PM
+BAG:kamee1jack add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/13/2023 6:44 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:44 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:46 PM
+BAG:kamee1jack add 79xPháo hoa (old: 74) lydo: Nhặt từ map at 03/13/2023 6:46 PM
+BAG:kamee1jack add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 6:46 PM
+BAG:kamee1jack add 84xPháo hoa (old: 79) lydo: Nhặt từ map at 03/13/2023 6:46 PM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 6:47 PM
+BAG:kamee1jack add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/13/2023 6:47 PM
+BAG:kamee1jack add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 6:47 PM
+BAG:kamee1jack add 89xPháo hoa (old: 84) lydo: Nhặt từ map at 03/13/2023 6:47 PM
+BAG:kamee1jack add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/13/2023 6:48 PM
+BAG:kamee1jack add 94xPháo hoa (old: 89) lydo: Nhặt từ map at 03/13/2023 6:48 PM
+BAG:kamee1jack add 99xPháo hoa (old: 94) lydo: Nhặt từ map at 03/13/2023 6:48 PM
+BAG:kamee1jack add 5xPháo hoa lydo: Nhặt từ map at 03/13/2023 6:49 PM
+BAG:kamee1jack add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/13/2023 6:49 PM
+BAG:kamee1jack add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/13/2023 6:49 PM
+BAG:kamee1jack add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/13/2023 6:49 PM
+BAG:kamee1jack add 1xĐổi đệ tử lydo: Lấy từ rương qua người at 03/13/2023 6:50 PM
+BAG:kamee1jack add 4xSao pha lê lydo: Lấy từ rương qua người at 03/13/2023 6:50 PM
+BAG:kamee1jack add 21xBổ khí lydo: Lấy từ rương qua người at 03/13/2023 6:51 PM
+BAG:kamee1jack add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 6:52 PM
+BAG:kamee1jack add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 6:52 PM
+BAG:kamee1jack add 1xMảnh Khủng long lydo: Nhặt từ map at 03/13/2023 6:52 PM
+BAG:kamee1jack add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 6:54 PM
+BAG:kamee1jack add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 6:54 PM
+BAG:kamee1jack add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 6:54 PM
+BAG:kamee1jack add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 6:55 PM
+BAG:kamee1jack add 1xMảnh Khủng long lydo: Nhặt từ map at 03/13/2023 6:55 PM
+BAG:kamee1jack add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/13/2023 6:55 PM
+BAG:kamee1jack add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/13/2023 6:55 PM
+BAG:kamee1jack add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/13/2023 6:56 PM
+BAG:kamee1jack add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/13/2023 6:56 PM
+BAG:kamee1jack add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/13/2023 6:57 PM
+BAG:kamee1jack add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/13/2023 6:57 PM
+BAG:kamee1jack add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/13/2023 6:57 PM
+BAG:kamee1jack add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/13/2023 6:58 PM
+BAG:kamee1jack add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/13/2023 6:58 PM
+BAG:kamee1jack add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/13/2023 6:58 PM
+BAG:kamee1jack add 1xGăng vải đen lydo: Nhặt từ map at 03/13/2023 6:58 PM
+BAG:kamee1jack add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 6:58 PM
+BAG:kamee1jack add 1xGăng vải đen lydo: Nhặt từ map at 03/13/2023 6:59 PM
+BAG:kamee1jack add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/13/2023 7:00 PM
+BAG:kamee1jack add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 7:00 PM
+BAG:kamee1jack add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/13/2023 7:00 PM
+BAG:kamee1jack add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/13/2023 7:01 PM
+BAG:kamee1jack add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/13/2023 7:01 PM
+BAG:kamee1jack add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 7:01 PM
+BAG:kamee1jack add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/13/2023 7:02 PM
+BAG:kamee1jack add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 7:03 PM
+BAG:kamee1jack add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 7:03 PM
+BAG:kamee1jack add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/13/2023 7:03 PM
+BAG:kamee1jack add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/13/2023 7:04 PM
+BAG:kamee1jack add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/13/2023 7:05 PM
+BAG:kamee1jack add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/13/2023 7:05 PM
+BAG:kamee1jack add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/13/2023 7:06 PM
+BAG:kamee1jack add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/13/2023 7:06 PM
+BAG:kamee1jack add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 7:06 PM
+BAG:kamee1jack add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 7:07 PM
+BAG:kamee1jack add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/13/2023 7:07 PM
+BAG:kamee1jack add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/13/2023 7:08 PM
+BAG:kamee1jack add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/13/2023 7:08 PM
+BAG:kamee1jack add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/13/2023 7:08 PM
+BAG:kamee1jack add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/13/2023 7:08 PM
+BAG:kamee1jack add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/13/2023 7:09 PM
+BAG:kamee1jack add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 7:09 PM
+BAG:kamee1jack add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 7:09 PM
+BAG:kamee1jack add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/13/2023 7:09 PM
+BAG:kamee1jack add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/13/2023 7:09 PM
+BAG:kamee1jack add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 7:10 PM
+BAG:kamee1jack add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 7:11 PM
+BAG:kamee1jack add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 7:11 PM
+BAG:kamee1jack add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/13/2023 7:11 PM
+BAG:kamee1jack add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/13/2023 7:11 PM
+BAG:kamee1jack add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 7:12 PM
+BAG:kamee1jack add 1xQuần vải đen lydo: Nhặt từ map at 03/13/2023 7:12 PM
+BAG:kamee1jack add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 7:12 PM
+BAG:kamee1jack add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/13/2023 7:12 PM
+BAG:kamee1jack add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/13/2023 7:12 PM
+BAG:kamee1jack add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/13/2023 7:12 PM
+BAG:kamee1jack add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/13/2023 7:12 PM
+BAG:kamee1jack add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 7:13 PM
+BAG:kamee1jack add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 7:13 PM
+BAG:kamee1jack add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/13/2023 7:13 PM
+BAG:kamee1jack add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/13/2023 7:14 PM

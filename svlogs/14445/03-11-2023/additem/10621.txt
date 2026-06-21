@@ -1,0 +1,558 @@
+BAG:qanhdz add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 4:58 PM
+BAG:qanhdz add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 4:59 PM
+BAG:qanhdz add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 4:59 PM
+BAG:qanhdz add 50xThỏi vàng lydo: Giftcode at 03/11/2023 5:02 PM
+BAG:qanhdz add 10xSao pha lê lydo: Giftcode at 03/11/2023 5:02 PM
+BAG:qanhdz add 10xSao pha lê lydo: Giftcode at 03/11/2023 5:02 PM
+BAG:qanhdz add 10xSao pha lê lydo: Giftcode at 03/11/2023 5:02 PM
+BAG:qanhdz add 1xCải trang Hit lydo: Giftcode at 03/11/2023 5:02 PM
+BAG:qanhdz add 10xCuồng nộ lydo: Giftcode at 03/11/2023 5:03 PM
+BAG:qanhdz add 10xBổ huyết lydo: Giftcode at 03/11/2023 5:03 PM
+BAG:qanhdz add 10xBổ khí lydo: Giftcode at 03/11/2023 5:03 PM
+BAG:qanhdz add 10xGiáp Xên bọ hung lydo: Giftcode at 03/11/2023 5:03 PM
+BAG:qanhdz add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 5:03 PM
+BAG:qanhdz add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 5:03 PM
+BAG:qanhdz add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 5:04 PM
+BAG:qanhdz add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 5:04 PM
+BAG:qanhdz add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 5:04 PM
+BAG:qanhdz add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 5:04 PM
+BAG:qanhdz add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 5:04 PM
+BAG:qanhdz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 5:04 PM
+BAG:qanhdz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 5:04 PM
+BAG:qanhdz add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 5:04 PM
+BAG:qanhdz add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 5:04 PM
+BAG:qanhdz add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 5:04 PM
+BAG:qanhdz add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 5:04 PM
+BAG:qanhdz add 1xCải trang Hit lydo: Lấy từ body vào hành trang at 03/11/2023 5:05 PM
+BAG:qanhdz add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 03/11/2023 5:06 PM
+BAG:qanhdz add 1xCải trang Chill lydo: Mua từ cửa hàng at 03/11/2023 5:06 PM
+BAG:qanhdz add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 5:06 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:10 PM
+BAG:qanhdz add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:10 PM
+BAG:qanhdz add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 5:10 PM
+BAG:qanhdz add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 5:11 PM
+BAG:qanhdz add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:11 PM
+BAG:qanhdz add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:11 PM
+BAG:qanhdz add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 5:11 PM
+BAG:qanhdz add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 5:12 PM
+BAG:qanhdz add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 5:12 PM
+BAG:qanhdz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 5:12 PM
+BAG:qanhdz add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 5:12 PM
+BAG:qanhdz add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 5:12 PM
+BAG:qanhdz add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/11/2023 5:12 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:13 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:13 PM
+BAG:qanhdz add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 5:13 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:14 PM
+BAG:qanhdz add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 5:14 PM
+BAG:qanhdz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 5:14 PM
+BAG:qanhdz add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 5:14 PM
+BAG:qanhdz add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 5:14 PM
+BAG:qanhdz add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/11/2023 5:14 PM
+BAG:qanhdz add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 5:15 PM
+BAG:qanhdz add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 5:15 PM
+BAG:qanhdz add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 5:15 PM
+BAG:qanhdz add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 5:15 PM
+BAG:qanhdz add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 5:16 PM
+BAG:qanhdz add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:16 PM
+BAG:qanhdz add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 5:17 PM
+BAG:qanhdz add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 5:17 PM
+BAG:qanhdz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 5:18 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:18 PM
+BAG:qanhdz add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 5:18 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:18 PM
+BAG:qanhdz add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 5:19 PM
+BAG:qanhdz add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 5:19 PM
+BAG:qanhdz add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/11/2023 5:19 PM
+BAG:qanhdz add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/11/2023 5:19 PM
+BAG:qanhdz add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/11/2023 5:19 PM
+BAG:qanhdz add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 5:20 PM
+BAG:qanhdz add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 5:20 PM
+BAG:qanhdz add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 5:20 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:20 PM
+BAG:qanhdz add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/11/2023 5:21 PM
+BAG:qanhdz add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 5:21 PM
+BAG:qanhdz add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 5:22 PM
+BAG:qanhdz add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 5:22 PM
+BAG:qanhdz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:22 PM
+BAG:qanhdz add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 5:23 PM
+BAG:qanhdz add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 5:23 PM
+BAG:qanhdz add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 5:24 PM
+BAG:qanhdz add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:24 PM
+BAG:qanhdz add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:25 PM
+BAG:qanhdz add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 5:25 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:26 PM
+BAG:qanhdz add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 5:28 PM
+BAG:qanhdz add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 5:28 PM
+BAG:qanhdz add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 5:28 PM
+BAG:qanhdz add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 5:28 PM
+BAG:qanhdz add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:29 PM
+BAG:qanhdz add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 5:29 PM
+BAG:qanhdz add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 5:29 PM
+BAG:qanhdz add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 5:29 PM
+BAG:qanhdz add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 5:29 PM
+BAG:qanhdz add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/11/2023 5:30 PM
+BAG:qanhdz add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/11/2023 5:32 PM
+BAG:qanhdz add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 5:32 PM
+BAG:qanhdz add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 5:33 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:34 PM
+BAG:qanhdz add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/11/2023 5:34 PM
+BAG:qanhdz add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:34 PM
+BAG:qanhdz add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/11/2023 5:35 PM
+BAG:qanhdz add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 5:35 PM
+BAG:qanhdz add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 03/11/2023 5:35 PM
+BAG:qanhdz add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:35 PM
+BAG:qanhdz add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:35 PM
+BAG:qanhdz add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:qanhdz add 5xMảnh Quỷ bay (old: 4) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:qanhdz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:qanhdz add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:qanhdz add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:qanhdz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:qanhdz add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:38 PM
+BAG:qanhdz add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 5:38 PM
+BAG:qanhdz add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:qanhdz add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:qanhdz add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:qanhdz add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:qanhdz add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:qanhdz add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:qanhdz add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:qanhdz add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:qanhdz add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:qanhdz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:qanhdz add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:qanhdz add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:qanhdz add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:qanhdz add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:qanhdz add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:qanhdz add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:qanhdz add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:qanhdz add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:qanhdz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:qanhdz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:qanhdz add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 5:43 PM
+BAG:qanhdz add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 5:43 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:43 PM
+BAG:qanhdz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:43 PM
+BAG:qanhdz add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:45 PM
+BAG:qanhdz add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:46 PM
+BAG:qanhdz add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:46 PM
+BAG:qanhdz add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 5:46 PM
+BAG:qanhdz add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:46 PM
+BAG:qanhdz add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:qanhdz add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:qanhdz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:qanhdz add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:qanhdz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:qanhdz add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:qanhdz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:qanhdz add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:qanhdz add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 5:51 PM
+BAG:qanhdz add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/11/2023 5:51 PM
+BAG:qanhdz add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/11/2023 5:51 PM
+BAG:qanhdz add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 5:52 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:52 PM
+BAG:qanhdz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:52 PM
+BAG:qanhdz add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 5:52 PM
+BAG:qanhdz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:53 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:53 PM
+BAG:qanhdz add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 5:53 PM
+BAG:qanhdz add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 5:53 PM
+BAG:qanhdz add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:53 PM
+BAG:qanhdz add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 5:54 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:54 PM
+BAG:qanhdz add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:54 PM
+BAG:qanhdz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 5:54 PM
+BAG:qanhdz add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:55 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:55 PM
+BAG:qanhdz add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:qanhdz add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:qanhdz add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:qanhdz add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:qanhdz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:qanhdz add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:qanhdz add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:qanhdz add 1xCải trang Hit lydo: Lấy từ body đệ vào hành trang at 03/11/2023 5:57 PM
+BAG:qanhdz add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 7:04 PM
+BAG:qanhdz add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 7:05 PM
+BAG:qanhdz add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 7:05 PM
+BAG:qanhdz add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 7:09 PM
+BAG:qanhdz add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:10 PM
+BAG:qanhdz add 100xThỏi vàng lydo: Giftcode at 03/11/2023 9:52 PM
+BAG:qanhdz add 1000xPháo hoa lydo: Giftcode at 03/11/2023 9:52 PM
+BAG:qanhdz add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 9:53 PM
+BAG:qanhdz add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/11/2023 9:53 PM
+BAG:qanhdz add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/11/2023 9:53 PM
+BAG:qanhdz add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/11/2023 9:53 PM
+BAG:qanhdz add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/11/2023 9:54 PM
+BAG:qanhdz add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/11/2023 9:54 PM
+BAG:qanhdz add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/11/2023 9:54 PM
+BAG:qanhdz add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/11/2023 9:54 PM
+BAG:qanhdz add 1xBổ huyết lydo: HQT at 03/11/2023 9:54 PM
+BAG:qanhdz add 2xBổ huyết (old: 1) lydo: HQT at 03/11/2023 9:54 PM
+BAG:qanhdz add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 9:54 PM
+BAG:qanhdz add 1xGiáp Xên bọ hung lydo: HQT at 03/11/2023 9:54 PM
+BAG:qanhdz add 6xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/11/2023 9:55 PM
+BAG:qanhdz add 1xNgọc Rồng 6 sao lydo: HQT at 03/11/2023 9:56 PM
+BAG:qanhdz add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/11/2023 9:56 PM
+BAG:qanhdz add 1xGiáp Xên bọ hung lydo: HQT at 03/11/2023 9:56 PM
+BAG:qanhdz add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 9:56 PM
+BAG:qanhdz add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/11/2023 9:56 PM
+BAG:qanhdz add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/11/2023 9:56 PM
+BAG:qanhdz add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/11/2023 9:57 PM
+BAG:qanhdz add 1xCuồng nộ lydo: HQT at 03/11/2023 9:57 PM
+BAG:qanhdz add 1xBổ huyết lydo: HQT at 03/11/2023 9:57 PM
+BAG:qanhdz add 2xCuồng nộ (old: 1) lydo: HQT at 03/11/2023 9:57 PM
+BAG:qanhdz add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/11/2023 9:57 PM
+BAG:qanhdz add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/11/2023 9:57 PM
+BAG:qanhdz add 3xCuồng nộ (old: 2) lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 4xCuồng nộ (old: 3) lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 2xBổ huyết (old: 1) lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 1xNgọc Rồng 5 sao lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 1xBổ khí lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/11/2023 9:58 PM
+BAG:qanhdz add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/11/2023 9:59 PM
+BAG:qanhdz add 5xCuồng nộ (old: 4) lydo: HQT at 03/11/2023 9:59 PM
+BAG:qanhdz add 2xBổ khí (old: 1) lydo: HQT at 03/11/2023 9:59 PM
+BAG:qanhdz add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/11/2023 9:59 PM
+BAG:qanhdz add 3xBổ khí (old: 2) lydo: HQT at 03/11/2023 9:59 PM
+BAG:qanhdz add 4xBổ khí (old: 3) lydo: HQT at 03/11/2023 10:00 PM
+BAG:qanhdz add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/11/2023 10:00 PM
+BAG:qanhdz add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/11/2023 10:00 PM
+BAG:qanhdz add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/11/2023 10:00 PM
+BAG:qanhdz add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/11/2023 10:00 PM
+BAG:qanhdz add 5xBổ khí (old: 4) lydo: HQT at 03/11/2023 10:00 PM
+BAG:qanhdz add 3xBổ huyết (old: 2) lydo: HQT at 03/11/2023 10:00 PM
+BAG:qanhdz add 6xCuồng nộ (old: 5) lydo: HQT at 03/11/2023 10:00 PM
+BAG:qanhdz add 6xBổ khí (old: 5) lydo: HQT at 03/11/2023 10:00 PM
+BAG:qanhdz add 4xBổ huyết (old: 3) lydo: HQT at 03/11/2023 10:01 PM
+BAG:qanhdz add 7xBổ khí (old: 6) lydo: HQT at 03/11/2023 10:01 PM
+BAG:qanhdz add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/11/2023 10:01 PM
+BAG:qanhdz add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/11/2023 10:01 PM
+BAG:qanhdz add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/11/2023 10:01 PM
+BAG:qanhdz add 8xBổ khí (old: 7) lydo: HQT at 03/11/2023 10:01 PM
+BAG:qanhdz add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/11/2023 10:01 PM
+BAG:qanhdz add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/11/2023 10:01 PM
+BAG:qanhdz add 9xBổ khí (old: 8) lydo: HQT at 03/11/2023 10:01 PM
+BAG:qanhdz add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/11/2023 10:02 PM
+BAG:qanhdz add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/11/2023 10:02 PM
+BAG:qanhdz add 7xCuồng nộ (old: 6) lydo: HQT at 03/11/2023 10:02 PM
+BAG:qanhdz add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/11/2023 10:02 PM
+BAG:qanhdz add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/11/2023 10:02 PM
+BAG:qanhdz add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 5xBổ huyết (old: 4) lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 12xNgọc Rồng 5 sao (old: 6) lydo: Lấy từ rương qua người at 03/11/2023 10:03 PM
+BAG:qanhdz add 8xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/11/2023 10:03 PM
+BAG:qanhdz add 16xNgọc Rồng 6 sao (old: 14) lydo: Lấy từ rương qua người at 03/11/2023 10:03 PM
+BAG:qanhdz add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 1xCuồng nộ lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 1xBổ khí lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 1xBổ huyết lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/11/2023 10:03 PM
+BAG:qanhdz add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/11/2023 10:06 PM
+BAG:qanhdz add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/11/2023 10:06 PM
+BAG:qanhdz add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/11/2023 10:06 PM
+BAG:qanhdz add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/11/2023 10:06 PM
+BAG:qanhdz add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/11/2023 10:06 PM
+BAG:qanhdz add 1xGiáp Xên bọ hung lydo: HQT at 03/11/2023 10:06 PM
+BAG:qanhdz add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/11/2023 10:06 PM
+BAG:qanhdz add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/11/2023 10:06 PM
+BAG:qanhdz add 18xNgọc Rồng 7 sao (old: 17) lydo: HQT at 03/11/2023 10:06 PM
+BAG:qanhdz add 2xBổ khí (old: 1) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 2xBổ huyết (old: 1) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 19xNgọc Rồng 7 sao (old: 18) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 3xBổ huyết (old: 2) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 4xBổ huyết (old: 3) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 21xNgọc Rồng 6 sao (old: 20) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 22xNgọc Rồng 6 sao (old: 21) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 23xNgọc Rồng 6 sao (old: 22) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 24xNgọc Rồng 6 sao (old: 23) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 2xCuồng nộ (old: 1) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 25xNgọc Rồng 6 sao (old: 24) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 3xBổ khí (old: 2) lydo: HQT at 03/11/2023 10:07 PM
+BAG:qanhdz add 3xCuồng nộ (old: 2) lydo: HQT at 03/11/2023 10:08 PM
+BAG:qanhdz add 5xBổ huyết (old: 4) lydo: HQT at 03/11/2023 10:08 PM
+BAG:qanhdz add 6xBổ huyết (old: 5) lydo: HQT at 03/11/2023 10:08 PM
+BAG:qanhdz add 7xBổ huyết (old: 6) lydo: HQT at 03/11/2023 10:08 PM
+BAG:qanhdz add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/11/2023 10:08 PM
+BAG:qanhdz add 20xNgọc Rồng 7 sao (old: 19) lydo: HQT at 03/11/2023 10:08 PM
+BAG:qanhdz add 26xNgọc Rồng 6 sao (old: 25) lydo: HQT at 03/11/2023 10:08 PM
+BAG:qanhdz add 8xBổ huyết (old: 7) lydo: HQT at 03/11/2023 10:08 PM
+BAG:qanhdz add 4xCuồng nộ (old: 3) lydo: HQT at 03/11/2023 10:08 PM
+BAG:qanhdz add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 10:09 PM
+BAG:qanhdz add 21xCuồng nộ lydo: Lấy từ rương qua người at 03/11/2023 10:10 PM
+BAG:qanhdz add 21xGiáp Xên bọ hung lydo: Lấy từ rương qua người at 03/11/2023 10:10 PM
+BAG:qanhdz add 22xBổ khí lydo: Lấy từ rương qua người at 03/11/2023 10:10 PM
+BAG:qanhdz add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/11/2023 10:12 PM
+BAG:qanhdz add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/11/2023 10:12 PM
+BAG:qanhdz add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/11/2023 10:12 PM
+BAG:qanhdz add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/11/2023 10:12 PM
+BAG:qanhdz add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/11/2023 10:12 PM
+BAG:qanhdz add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/11/2023 10:12 PM
+BAG:qanhdz add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 10:15 PM
+BAG:qanhdz add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:18 PM
+BAG:qanhdz add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:18 PM
+BAG:qanhdz add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:18 PM
+BAG:qanhdz add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:18 PM
+BAG:qanhdz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:18 PM
+BAG:qanhdz add 25xBổ huyết lydo: Lấy từ rương qua người at 03/11/2023 10:19 PM
+BAG:qanhdz add 1xNgọc Rồng 7 sao lydo: HQT at 03/11/2023 10:21 PM
+BAG:qanhdz add 1xNgọc Rồng 5 sao lydo: HQT at 03/11/2023 10:21 PM
+BAG:qanhdz add 1xNgọc Rồng 6 sao lydo: HQT at 03/11/2023 10:21 PM
+BAG:qanhdz add 25xBổ huyết (old: 24) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 21xCuồng nộ (old: 20) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 23xBổ khí (old: 22) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 1xNgọc Rồng 4 sao lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 26xBổ huyết (old: 25) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 21xGiáp Xên bọ hung (old: 20) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 22xCuồng nộ (old: 21) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 24xBổ khí (old: 23) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 27xBổ huyết (old: 26) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 25xBổ khí (old: 24) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 23xCuồng nộ (old: 22) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 22xGiáp Xên bọ hung (old: 21) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/11/2023 10:22 PM
+BAG:qanhdz add 23xGiáp Xên bọ hung (old: 22) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 24xCuồng nộ (old: 23) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 28xBổ huyết (old: 27) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 26xBổ khí (old: 25) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 25xCuồng nộ (old: 24) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 29xBổ huyết (old: 28) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 27xBổ khí (old: 26) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 28xBổ khí (old: 27) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/11/2023 10:23 PM
+BAG:qanhdz add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 30xBổ huyết (old: 29) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 10:24 PM
+BAG:qanhdz add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 31xBổ huyết (old: 30) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 26xCuồng nộ (old: 25) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 29xBổ khí (old: 28) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 27xCuồng nộ (old: 26) lydo: HQT at 03/11/2023 10:24 PM
+BAG:qanhdz add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/11/2023 10:25 PM
+BAG:qanhdz add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/11/2023 10:25 PM
+BAG:qanhdz add 15xNgọc Rồng 6 sao (old: 14) lydo: HQT at 03/11/2023 10:25 PM
+BAG:qanhdz add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/11/2023 10:25 PM
+BAG:qanhdz add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/11/2023 10:25 PM
+BAG:qanhdz add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/11/2023 10:26 PM
+BAG:qanhdz add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/11/2023 10:26 PM
+BAG:qanhdz add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/11/2023 10:26 PM
+BAG:qanhdz add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/11/2023 10:26 PM
+BAG:qanhdz add 27xCuồng nộ (old: 26) lydo: HQT at 03/11/2023 10:26 PM
+BAG:qanhdz add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/11/2023 10:26 PM
+BAG:qanhdz add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/11/2023 10:27 PM
+BAG:qanhdz add 16xNgọc Rồng 6 sao (old: 15) lydo: HQT at 03/11/2023 10:27 PM
+BAG:qanhdz add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/11/2023 10:27 PM
+BAG:qanhdz add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/11/2023 10:27 PM
+BAG:qanhdz add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/11/2023 10:27 PM
+BAG:qanhdz add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 03/11/2023 10:29 PM
+BAG:qanhdz add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/11/2023 10:31 PM
+BAG:qanhdz add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/11/2023 10:31 PM
+BAG:qanhdz add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/11/2023 10:31 PM
+BAG:qanhdz add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/11/2023 10:31 PM
+BAG:qanhdz add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/11/2023 10:32 PM
+BAG:qanhdz add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/11/2023 10:32 PM
+BAG:qanhdz add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/11/2023 10:32 PM
+BAG:qanhdz add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/11/2023 10:32 PM
+BAG:qanhdz add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/11/2023 10:32 PM
+BAG:qanhdz add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/11/2023 10:32 PM
+BAG:qanhdz add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/11/2023 10:32 PM
+BAG:qanhdz add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/11/2023 10:32 PM
+BAG:qanhdz add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/11/2023 10:32 PM
+BAG:qanhdz add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/11/2023 10:32 PM
+BAG:qanhdz add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 10:34 PM
+BAG:qanhdz add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/11/2023 10:35 PM
+BAG:qanhdz add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 03/11/2023 10:35 PM
+BAG:qanhdz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 10:52 PM
+BAG:qanhdz add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 10:54 PM
+BAG:qanhdz add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 10:54 PM
+BAG:qanhdz add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 10:55 PM
+BAG:qanhdz add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 11:02 PM
+BAG:qanhdz add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 31xBổ huyết (old: 30) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 32xBổ huyết (old: 31) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 27xCuồng nộ (old: 26) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 28xCuồng nộ (old: 27) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/11/2023 11:06 PM
+BAG:qanhdz add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 30xBổ khí (old: 29) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 33xBổ huyết (old: 32) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 29xCuồng nộ (old: 28) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 34xBổ huyết (old: 33) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 31xBổ khí (old: 30) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 35xBổ huyết (old: 34) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 36xBổ huyết (old: 35) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 21xNgọc Rồng 6 sao (old: 20) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 37xBổ huyết (old: 36) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 32xBổ khí (old: 31) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 22xNgọc Rồng 6 sao (old: 21) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 25xGiáp Xên bọ hung (old: 24) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 38xBổ huyết (old: 37) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 26xGiáp Xên bọ hung (old: 25) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 27xGiáp Xên bọ hung (old: 26) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 28xGiáp Xên bọ hung (old: 27) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/11/2023 11:07 PM
+BAG:qanhdz add 23xNgọc Rồng 6 sao (old: 22) lydo: HQT at 03/11/2023 11:08 PM
+BAG:qanhdz add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/11/2023 11:08 PM
+BAG:qanhdz add 29xGiáp Xên bọ hung (old: 28) lydo: HQT at 03/11/2023 11:08 PM
+BAG:qanhdz add 24xNgọc Rồng 6 sao (old: 23) lydo: HQT at 03/11/2023 11:08 PM
+BAG:qanhdz add 25xNgọc Rồng 6 sao (old: 24) lydo: HQT at 03/11/2023 11:08 PM
+BAG:qanhdz add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/11/2023 11:08 PM
+BAG:qanhdz add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 11:08 PM
+BAG:qanhdz add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 11:09 PM
+BAG:qanhdz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 11:09 PM
+BAG:qanhdz add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/11/2023 11:11 PM
+BAG:qanhdz add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/11/2023 11:11 PM
+BAG:qanhdz add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/11/2023 11:11 PM
+BAG:qanhdz add 22xNgọc Rồng 4 sao (old: 21) lydo: HQT at 03/11/2023 11:11 PM
+BAG:qanhdz add 26xNgọc Rồng 6 sao (old: 25) lydo: HQT at 03/11/2023 11:11 PM
+BAG:qanhdz add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 30xGiáp Xên bọ hung (old: 29) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 19xNgọc Rồng 5 sao (old: 18) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 33xBổ khí (old: 32) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 31xGiáp Xên bọ hung (old: 30) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 30xCuồng nộ (old: 29) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 18xNgọc Rồng 7 sao (old: 17) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 31xCuồng nộ (old: 30) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 34xBổ khí (old: 33) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 35xBổ khí (old: 34) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 32xCuồng nộ (old: 31) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 36xBổ khí (old: 35) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 32xGiáp Xên bọ hung (old: 31) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 27xNgọc Rồng 6 sao (old: 26) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 20xNgọc Rồng 5 sao (old: 19) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 28xNgọc Rồng 6 sao (old: 27) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 33xCuồng nộ (old: 32) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 39xBổ huyết (old: 38) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 19xNgọc Rồng 7 sao (old: 18) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 34xCuồng nộ (old: 33) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 21xNgọc Rồng 5 sao (old: 20) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 40xBổ huyết (old: 39) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 41xBổ huyết (old: 40) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 22xNgọc Rồng 5 sao (old: 21) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 23xNgọc Rồng 4 sao (old: 22) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 29xNgọc Rồng 6 sao (old: 28) lydo: HQT at 03/11/2023 11:12 PM
+BAG:qanhdz add 33xGiáp Xên bọ hung (old: 32) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 34xGiáp Xên bọ hung (old: 33) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 35xGiáp Xên bọ hung (old: 34) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 20xNgọc Rồng 7 sao (old: 19) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 42xBổ huyết (old: 41) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 35xCuồng nộ (old: 34) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 43xBổ huyết (old: 42) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 24xNgọc Rồng 4 sao (old: 23) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 36xCuồng nộ (old: 35) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 37xCuồng nộ (old: 36) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 44xBổ huyết (old: 43) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 36xGiáp Xên bọ hung (old: 35) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 37xGiáp Xên bọ hung (old: 36) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 23xNgọc Rồng 5 sao (old: 22) lydo: HQT at 03/11/2023 11:13 PM
+BAG:qanhdz add 24xNgọc Rồng 5 sao (old: 23) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 37xBổ khí (old: 36) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 25xNgọc Rồng 5 sao (old: 24) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 38xCuồng nộ (old: 37) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 38xBổ khí (old: 37) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 30xNgọc Rồng 6 sao (old: 29) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 21xNgọc Rồng 7 sao (old: 20) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 45xBổ huyết (old: 44) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 31xNgọc Rồng 6 sao (old: 30) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 38xGiáp Xên bọ hung (old: 37) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 39xBổ khí (old: 38) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 26xNgọc Rồng 5 sao (old: 25) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 27xNgọc Rồng 5 sao (old: 26) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 39xGiáp Xên bọ hung (old: 38) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 39xCuồng nộ (old: 38) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 40xGiáp Xên bọ hung (old: 39) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 40xBổ khí (old: 39) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 28xNgọc Rồng 5 sao (old: 27) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 22xNgọc Rồng 7 sao (old: 21) lydo: HQT at 03/11/2023 11:14 PM
+BAG:qanhdz add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 11:15 PM
+BAG:qanhdz add 41xGiáp Xên bọ hung (old: 40) lydo: HQT at 03/11/2023 11:15 PM
+BAG:qanhdz add 32xNgọc Rồng 6 sao (old: 31) lydo: HQT at 03/11/2023 11:15 PM
+BAG:qanhdz add 42xGiáp Xên bọ hung (old: 41) lydo: HQT at 03/11/2023 11:15 PM
+BAG:qanhdz add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/11/2023 11:15 PM
+BAG:qanhdz add 26xNgọc Rồng 4 sao (old: 25) lydo: HQT at 03/11/2023 11:15 PM
+BAG:qanhdz add 41xBổ khí (old: 40) lydo: HQT at 03/11/2023 11:15 PM
+BAG:qanhdz add 33xNgọc Rồng 6 sao (old: 32) lydo: HQT at 03/11/2023 11:15 PM
+BAG:qanhdz add 46xBổ huyết (old: 45) lydo: HQT at 03/11/2023 11:15 PM
+BAG:qanhdz add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 11:15 PM
+BAG:qanhdz add 29xNgọc Rồng 5 sao (old: 28) lydo: Nhặt từ map at 03/11/2023 11:16 PM
+BAG:qanhdz add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 11:20 PM
+BAG:qanhdz add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 11:20 PM
+BAG:qanhdz add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 11:20 PM
+BAG:qanhdz add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 11:20 PM
+BAG:qanhdz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 11:20 PM
+BAG:qanhdz add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 11:29 PM
+BAG:qanhdz add 10xĐậu thần cấp 10 (old: 9) lydo: Thu hoạch đậu at 03/11/2023 11:29 PM
+BAG:qanhdz add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 11:29 PM
+BAG:qanhdz add 49xĐậu thần cấp 10 (old: 29) lydo: Lấy từ rương qua người at 03/11/2023 11:29 PM
+BAG:qanhdz add 69xĐậu thần cấp 10 (old: 49) lydo: Lấy từ rương qua người at 03/11/2023 11:29 PM

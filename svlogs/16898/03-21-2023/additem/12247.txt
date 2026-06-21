@@ -1,0 +1,128 @@
+BAG:traidatno1 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/21/2023 7:22 PM
+BAG:traidatno1 add 5xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/21/2023 7:22 PM
+BAG:traidatno1 add 10xĐậu thần cấp 5 (old: 3) lydo: Thu hoạch đậu at 03/21/2023 7:27 PM
+BAG:traidatno1 add 30xĐậu thần cấp 5 (old: 10) lydo: Lấy từ rương qua người at 03/21/2023 7:27 PM
+BAG:traidatno1 add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/21/2023 7:29 PM
+BAG:traidatno1 add 1xĐá Saphia lydo: Nhặt từ map at 03/21/2023 7:30 PM
+BAG:traidatno1 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/21/2023 7:31 PM
+BAG:traidatno1 add 47xĐậu thần cấp 5 (old: 27) lydo: Lấy từ rương qua người at 03/21/2023 7:31 PM
+BAG:traidatno1 add 67xĐậu thần cấp 5 (old: 47) lydo: Lấy từ rương qua người at 03/21/2023 7:31 PM
+BAG:traidatno1 add 1xCột nhà lydo: Mua từ cửa hàng at 03/21/2023 7:31 PM
+BAG:traidatno1 add 1xAvatar lydo: Mua từ cửa hàng at 03/21/2023 7:32 PM
+BAG:traidatno1 add 1xMảnh Phi long lydo: Nhặt từ map at 03/21/2023 7:32 PM
+BAG:traidatno1 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/21/2023 7:34 PM
+BAG:traidatno1 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/21/2023 7:34 PM
+BAG:traidatno1 add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 03/21/2023 7:35 PM
+BAG:traidatno1 add 85xĐậu thần cấp 5 (old: 65) lydo: Lấy từ rương qua người at 03/21/2023 7:36 PM
+BAG:traidatno1 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/21/2023 7:36 PM
+BAG:traidatno1 add 1xĐá Ruby lydo: Nhặt từ map at 03/21/2023 7:38 PM
+BAG:traidatno1 add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/21/2023 7:41 PM
+BAG:traidatno1 add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/21/2023 7:42 PM
+BAG:traidatno1 add 5xPháo hoa lydo: Nhặt từ map at 03/21/2023 7:43 PM
+BAG:traidatno1 add 1xNgọc Rồng 4 sao lydo: HQT at 03/21/2023 7:44 PM
+BAG:traidatno1 add 1xGiáp Xên bọ hung lydo: HQT at 03/21/2023 7:44 PM
+BAG:traidatno1 add 1xNgọc Rồng 6 sao lydo: HQT at 03/21/2023 7:44 PM
+BAG:traidatno1 add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/21/2023 7:45 PM
+BAG:traidatno1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/21/2023 7:46 PM
+BAG:traidatno1 add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/21/2023 7:46 PM
+BAG:traidatno1 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/21/2023 7:47 PM
+BAG:traidatno1 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/21/2023 7:47 PM
+BAG:traidatno1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/21/2023 7:47 PM
+BAG:traidatno1 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/21/2023 7:47 PM
+BAG:traidatno1 add 1xQuần sợi len lydo: Nhặt từ map at 03/21/2023 7:47 PM
+BAG:traidatno1 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/21/2023 7:47 PM
+BAG:traidatno1 add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/21/2023 7:50 PM
+BAG:traidatno1 add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/21/2023 7:50 PM
+BAG:traidatno1 add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/21/2023 7:50 PM
+BAG:traidatno1 add 1xĐá Ruby lydo: Nhặt từ map at 03/21/2023 7:50 PM
+BAG:traidatno1 add 1xÁo sợi len lydo: Nhặt từ map at 03/21/2023 7:50 PM
+BAG:traidatno1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/21/2023 7:50 PM
+BAG:traidatno1 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/21/2023 7:51 PM
+BAG:traidatno1 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/21/2023 7:51 PM
+BAG:traidatno1 add 1xĐá Titan lydo: Nhặt từ map at 03/21/2023 7:51 PM
+BAG:traidatno1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/21/2023 7:51 PM
+BAG:traidatno1 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/21/2023 7:51 PM
+BAG:traidatno1 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/21/2023 7:52 PM
+BAG:traidatno1 add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/21/2023 7:52 PM
+BAG:traidatno1 add 1xĐá Saphia lydo: Nhặt từ map at 03/21/2023 7:52 PM
+BAG:traidatno1 add 1xĐá Ruby lydo: Nhặt từ map at 03/21/2023 7:52 PM
+BAG:traidatno1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/21/2023 7:52 PM
+BAG:traidatno1 add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/21/2023 7:52 PM
+BAG:traidatno1 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/21/2023 7:52 PM
+BAG:traidatno1 add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/21/2023 7:52 PM
+BAG:traidatno1 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/21/2023 7:53 PM
+BAG:traidatno1 add 1xQuần sợi len lydo: Nhặt từ map at 03/21/2023 7:53 PM
+BAG:traidatno1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/21/2023 7:53 PM
+BAG:traidatno1 add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/21/2023 7:53 PM
+BAG:traidatno1 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/21/2023 7:53 PM
+BAG:traidatno1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/21/2023 7:53 PM
+BAG:traidatno1 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/21/2023 7:54 PM
+BAG:traidatno1 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/21/2023 7:54 PM
+BAG:traidatno1 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/21/2023 7:54 PM
+BAG:traidatno1 add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/21/2023 7:54 PM
+BAG:traidatno1 add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/21/2023 7:54 PM
+BAG:traidatno1 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/21/2023 7:54 PM
+BAG:traidatno1 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/21/2023 7:55 PM
+BAG:traidatno1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/21/2023 7:55 PM
+BAG:traidatno1 add 1xÁo sợi len lydo: Nhặt từ map at 03/21/2023 7:55 PM
+BAG:traidatno1 add 50xThỏi vàng lydo: Giftcode at 03/21/2023 8:05 PM
+BAG:traidatno1 add 10xSao pha lê lydo: Giftcode at 03/21/2023 8:05 PM
+BAG:traidatno1 add 10xSao pha lê lydo: Giftcode at 03/21/2023 8:05 PM
+BAG:traidatno1 add 10xSao pha lê lydo: Giftcode at 03/21/2023 8:05 PM
+BAG:traidatno1 add 1xCải trang Hit lydo: Giftcode at 03/21/2023 8:05 PM
+BAG:traidatno1 add 1xQuần sợi len lydo: Nhặt từ map at 03/21/2023 8:08 PM
+BAG:traidatno1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/21/2023 8:09 PM
+BAG:traidatno1 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/21/2023 8:10 PM
+BAG:traidatno1 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/21/2023 8:11 PM
+BAG:traidatno1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/21/2023 8:11 PM
+BAG:traidatno1 add 1xĐá Titan lydo: Nhặt từ map at 03/21/2023 8:11 PM
+BAG:traidatno1 add 1xĐá Saphia lydo: Nhặt từ map at 03/21/2023 8:12 PM
+BAG:traidatno1 add 1xĐá Ruby lydo: Nhặt từ map at 03/21/2023 8:12 PM
+BAG:traidatno1 add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/21/2023 8:13 PM
+BAG:traidatno1 add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/21/2023 8:13 PM
+BAG:traidatno1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/21/2023 8:13 PM
+BAG:traidatno1 add 1xĐá Ruby lydo: Nhặt từ map at 03/21/2023 8:14 PM
+BAG:traidatno1 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/21/2023 8:14 PM
+BAG:traidatno1 add 1xGăng sợi len lydo: Nhặt từ map at 03/21/2023 8:14 PM
+BAG:traidatno1 add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/21/2023 8:15 PM
+BAG:traidatno1 add 1xĐá Titan lydo: Nhặt từ map at 03/21/2023 8:15 PM
+BAG:traidatno1 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/21/2023 8:15 PM
+BAG:traidatno1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/21/2023 8:16 PM
+BAG:traidatno1 add 1xGiầy sợi len lydo: Nhặt từ map at 03/21/2023 8:16 PM
+BAG:traidatno1 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/21/2023 8:16 PM
+BAG:traidatno1 add 1xGiầy sợi len lydo: Nhặt từ map at 03/21/2023 8:17 PM
+BAG:traidatno1 add 1xGiầy sợi len lydo: Nhặt từ map at 03/21/2023 8:17 PM
+BAG:traidatno1 add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/21/2023 8:18 PM
+BAG:traidatno1 add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/21/2023 8:18 PM
+BAG:traidatno1 add 1xQuần sợi len lydo: Nhặt từ map at 03/21/2023 8:19 PM
+BAG:traidatno1 add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/21/2023 8:19 PM
+BAG:traidatno1 add 1xĐá Titan lydo: Nhặt từ map at 03/21/2023 8:21 PM
+BAG:traidatno1 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/21/2023 8:21 PM
+BAG:traidatno1 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/21/2023 8:21 PM
+BAG:traidatno1 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/21/2023 8:21 PM
+BAG:traidatno1 add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/21/2023 8:22 PM
+BAG:traidatno1 add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/21/2023 8:22 PM
+BAG:traidatno1 add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/21/2023 8:24 PM
+BAG:traidatno1 add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/21/2023 8:24 PM
+BAG:traidatno1 add 1xGăng sợi len lydo: Nhặt từ map at 03/21/2023 8:24 PM
+BAG:traidatno1 add 1xĐá Ruby lydo: Nhặt từ map at 03/21/2023 8:25 PM
+BAG:traidatno1 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/21/2023 8:25 PM
+BAG:traidatno1 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/21/2023 8:25 PM
+BAG:traidatno1 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/21/2023 8:25 PM
+BAG:traidatno1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/21/2023 8:25 PM
+BAG:traidatno1 add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/21/2023 8:27 PM
+BAG:traidatno1 add 1xGiầy sợi len lydo: Nhặt từ map at 03/21/2023 8:27 PM
+BAG:traidatno1 add 1xGăng sợi len lydo: Nhặt từ map at 03/21/2023 8:27 PM
+BAG:traidatno1 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/21/2023 8:28 PM
+BAG:traidatno1 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/21/2023 8:29 PM
+BAG:traidatno1 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/21/2023 8:30 PM
+BAG:traidatno1 add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/21/2023 8:30 PM
+BAG:traidatno1 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/21/2023 8:30 PM
+BAG:traidatno1 add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/21/2023 8:30 PM
+BAG:traidatno1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/21/2023 8:31 PM
+BAG:traidatno1 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/21/2023 8:31 PM
+BAG:traidatno1 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/21/2023 8:32 PM
+BAG:traidatno1 add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 03/21/2023 8:33 PM
+BAG:traidatno1 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/21/2023 8:33 PM
+BAG:traidatno1 add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 03/21/2023 8:34 PM
+BAG:traidatno1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/21/2023 8:36 PM

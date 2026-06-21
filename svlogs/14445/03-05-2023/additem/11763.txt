@@ -1,0 +1,462 @@
+BAG:umeexie add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/05/2023 4:57 AM
+BAG:umeexie add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/05/2023 4:57 AM
+BAG:umeexie add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/05/2023 4:57 AM
+BAG:umeexie add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 4:57 AM
+BAG:umeexie add 1xCải Trang Cumber lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:03 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:03 AM
+BAG:umeexie add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 5:04 AM
+BAG:umeexie add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 5:04 AM
+BAG:umeexie add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 5:04 AM
+BAG:umeexie add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 5:04 AM
+BAG:umeexie add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 5:04 AM
+BAG:umeexie add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 5:04 AM
+BAG:umeexie add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 5:06 AM
+BAG:umeexie add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:11 AM
+BAG:umeexie add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:11 AM
+BAG:umeexie add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:11 AM
+BAG:umeexie add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:11 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 5:14 AM
+BAG:umeexie add 1xCải Trang Cumber lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:14 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:14 AM
+BAG:umeexie add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 5:17 AM
+BAG:umeexie add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:18 AM
+BAG:umeexie add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:18 AM
+BAG:umeexie add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:18 AM
+BAG:umeexie add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:18 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 5:20 AM
+BAG:umeexie add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:21 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:21 AM
+BAG:umeexie add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 5:24 AM
+BAG:umeexie add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 5:24 AM
+BAG:umeexie add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 5:24 AM
+BAG:umeexie add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 5:24 AM
+BAG:umeexie add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 5:24 AM
+BAG:umeexie add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 5:24 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 5:28 AM
+BAG:umeexie add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 16xNgọc Rồng 2 sao (old: 15) lydo: Nhập ngọc at 03/05/2023 5:30 AM
+BAG:umeexie add 17xNgọc Rồng 2 sao (old: 16) lydo: Nhập ngọc at 03/05/2023 5:31 AM
+BAG:umeexie add 18xNgọc Rồng 2 sao (old: 17) lydo: Nhập ngọc at 03/05/2023 5:31 AM
+BAG:umeexie add 19xNgọc Rồng 2 sao (old: 18) lydo: Nhập ngọc at 03/05/2023 5:31 AM
+BAG:umeexie add 20xNgọc Rồng 2 sao (old: 19) lydo: Nhập ngọc at 03/05/2023 5:31 AM
+BAG:umeexie add 21xNgọc Rồng 2 sao (old: 20) lydo: Nhập ngọc at 03/05/2023 5:31 AM
+BAG:umeexie add 22xNgọc Rồng 2 sao (old: 21) lydo: Nhập ngọc at 03/05/2023 5:31 AM
+BAG:umeexie add 23xNgọc Rồng 2 sao (old: 22) lydo: Nhập ngọc at 03/05/2023 5:31 AM
+BAG:umeexie add 1xNgọc Rồng 6 sao lydo: Nhập ngọc at 03/05/2023 5:31 AM
+BAG:umeexie add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhập ngọc at 03/05/2023 5:32 AM
+BAG:umeexie add 1xPháo hoa lydo: Nhặt từ map at 03/05/2023 5:36 AM
+BAG:umeexie add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:36 AM
+BAG:umeexie add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:36 AM
+BAG:umeexie add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:36 AM
+BAG:umeexie add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:36 AM
+BAG:umeexie add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:37 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:37 AM
+BAG:umeexie add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 5:38 AM
+BAG:umeexie add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 5:38 AM
+BAG:umeexie add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 5:38 AM
+BAG:umeexie add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 5:38 AM
+BAG:umeexie add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 5:38 AM
+BAG:umeexie add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 5:38 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 5:42 AM
+BAG:umeexie add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 5:42 AM
+BAG:umeexie add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:44 AM
+BAG:umeexie add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:44 AM
+BAG:umeexie add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:44 AM
+BAG:umeexie add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:44 AM
+BAG:umeexie add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:44 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:44 AM
+BAG:umeexie add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 5:48 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 5:49 AM
+BAG:umeexie add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:51 AM
+BAG:umeexie add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:51 AM
+BAG:umeexie add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:51 AM
+BAG:umeexie add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:51 AM
+BAG:umeexie add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/05/2023 5:51 AM
+BAG:umeexie add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 5:53 AM
+BAG:umeexie add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 5:53 AM
+BAG:umeexie add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 5:53 AM
+BAG:umeexie add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 5:53 AM
+BAG:umeexie add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 5:53 AM
+BAG:umeexie add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 5:53 AM
+BAG:umeexie add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/05/2023 6:01 AM
+BAG:umeexie add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhập ngọc at 03/05/2023 6:04 AM
+BAG:umeexie add 27xNgọc Rồng 6 sao (old: 26) lydo: Nhập ngọc at 03/05/2023 6:05 AM
+BAG:umeexie add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhập ngọc at 03/05/2023 6:05 AM
+BAG:umeexie add 29xNgọc Rồng 6 sao (old: 28) lydo: Nhập ngọc at 03/05/2023 6:05 AM
+BAG:umeexie add 30xNgọc Rồng 6 sao (old: 29) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 31xNgọc Rồng 6 sao (old: 30) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 32xNgọc Rồng 6 sao (old: 31) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 33xNgọc Rồng 6 sao (old: 32) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 34xNgọc Rồng 6 sao (old: 33) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 35xNgọc Rồng 6 sao (old: 34) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 36xNgọc Rồng 6 sao (old: 35) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 37xNgọc Rồng 6 sao (old: 36) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 38xNgọc Rồng 6 sao (old: 37) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 39xNgọc Rồng 6 sao (old: 38) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 40xNgọc Rồng 6 sao (old: 39) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 41xNgọc Rồng 6 sao (old: 40) lydo: Nhập ngọc at 03/05/2023 6:06 AM
+BAG:umeexie add 42xNgọc Rồng 6 sao (old: 41) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 43xNgọc Rồng 6 sao (old: 42) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 44xNgọc Rồng 6 sao (old: 43) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 45xNgọc Rồng 6 sao (old: 44) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 46xNgọc Rồng 6 sao (old: 45) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 47xNgọc Rồng 6 sao (old: 46) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 48xNgọc Rồng 6 sao (old: 47) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 49xNgọc Rồng 6 sao (old: 48) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 50xNgọc Rồng 6 sao (old: 49) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 51xNgọc Rồng 6 sao (old: 50) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 52xNgọc Rồng 6 sao (old: 51) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 53xNgọc Rồng 6 sao (old: 52) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 54xNgọc Rồng 6 sao (old: 53) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 55xNgọc Rồng 6 sao (old: 54) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 56xNgọc Rồng 6 sao (old: 55) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 57xNgọc Rồng 6 sao (old: 56) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 58xNgọc Rồng 6 sao (old: 57) lydo: Nhập ngọc at 03/05/2023 6:07 AM
+BAG:umeexie add 1xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/05/2023 6:08 AM
+BAG:umeexie add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 6:08 AM
+BAG:umeexie add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhập ngọc at 03/05/2023 6:08 AM
+BAG:umeexie add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhập ngọc at 03/05/2023 6:08 AM
+BAG:umeexie add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhập ngọc at 03/05/2023 6:08 AM
+BAG:umeexie add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhập ngọc at 03/05/2023 6:08 AM
+BAG:umeexie add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhập ngọc at 03/05/2023 6:08 AM
+BAG:umeexie add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhập ngọc at 03/05/2023 6:08 AM
+BAG:umeexie add 1xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/05/2023 6:09 AM
+BAG:umeexie add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/05/2023 6:09 AM
+BAG:umeexie add 2xNgọc Rồng 1 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 6:09 AM
+BAG:umeexie add 3xNgọc Rồng 1 sao (old: 2) lydo: Nhập ngọc at 03/05/2023 6:09 AM
+BAG:umeexie add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:13 AM
+BAG:umeexie add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/05/2023 6:13 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:13 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:13 AM
+BAG:umeexie add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/05/2023 6:13 AM
+BAG:umeexie add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 6:13 AM
+BAG:umeexie add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/05/2023 6:13 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:13 AM
+BAG:umeexie add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/05/2023 6:14 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:14 AM
+BAG:umeexie add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:14 AM
+BAG:umeexie add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/05/2023 6:14 AM
+BAG:umeexie add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:14 AM
+BAG:umeexie add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 6:16 AM
+BAG:umeexie add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 6:16 AM
+BAG:umeexie add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 6:16 AM
+BAG:umeexie add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 6:16 AM
+BAG:umeexie add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/05/2023 6:16 AM
+BAG:umeexie add 1xQuần vải đen lydo: Nhặt từ map at 03/05/2023 6:16 AM
+BAG:umeexie add 1xGiầy nhựa lydo: Nhặt từ map at 03/05/2023 6:16 AM
+BAG:umeexie add 1xBột mì lydo: Nhặt từ map at 03/05/2023 6:17 AM
+BAG:umeexie add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/05/2023 6:17 AM
+BAG:umeexie add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/05/2023 6:17 AM
+BAG:umeexie add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/05/2023 6:17 AM
+BAG:umeexie add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 6:17 AM
+BAG:umeexie add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/05/2023 6:17 AM
+BAG:umeexie add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/05/2023 6:18 AM
+BAG:umeexie add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/05/2023 6:18 AM
+BAG:umeexie add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/05/2023 6:18 AM
+BAG:umeexie add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/05/2023 6:19 AM
+BAG:umeexie add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/05/2023 6:19 AM
+BAG:umeexie add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/05/2023 6:19 AM
+BAG:umeexie add 1xGiầy nhựa lydo: Nhặt từ map at 03/05/2023 6:19 AM
+BAG:umeexie add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/05/2023 6:19 AM
+BAG:umeexie add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 6:20 AM
+BAG:umeexie add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 6:20 AM
+BAG:umeexie add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 6:20 AM
+BAG:umeexie add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 6:20 AM
+BAG:umeexie add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 6:20 AM
+BAG:umeexie add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 6:20 AM
+BAG:umeexie add 1xGăng Thần Linh lydo: Lấy từ body vào hành trang at 03/05/2023 6:22 AM
+BAG:umeexie add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/05/2023 6:24 AM
+BAG:umeexie add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/05/2023 6:25 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:25 AM
+BAG:umeexie add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/05/2023 6:25 AM
+BAG:umeexie add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/05/2023 6:25 AM
+BAG:umeexie add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:25 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:25 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:26 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:26 AM
+BAG:umeexie add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:26 AM
+BAG:umeexie add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/05/2023 6:26 AM
+BAG:umeexie add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/05/2023 6:26 AM
+BAG:umeexie add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 93xNgọc Rồng 7 sao (old: 92) lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/05/2023 6:27 AM
+BAG:umeexie add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/05/2023 6:35 AM
+BAG:umeexie add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/05/2023 6:36 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 93xNgọc Rồng 7 sao (old: 92) lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/05/2023 6:42 AM
+BAG:umeexie add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/05/2023 6:43 AM
+BAG:umeexie add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/05/2023 6:44 AM
+BAG:umeexie add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/05/2023 6:44 AM
+BAG:umeexie add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/05/2023 6:45 AM
+BAG:umeexie add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/05/2023 6:45 AM
+BAG:umeexie add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/05/2023 7:14 AM
+BAG:umeexie add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 7:16 AM
+BAG:umeexie add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 7:16 AM
+BAG:umeexie add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 7:16 AM
+BAG:umeexie add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 7:16 AM
+BAG:umeexie add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 7:16 AM
+BAG:umeexie add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 7:16 AM
+BAG:umeexie add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/05/2023 7:18 AM
+BAG:umeexie add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/05/2023 7:18 AM
+BAG:umeexie add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/05/2023 7:18 AM
+BAG:umeexie add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/05/2023 7:18 AM
+BAG:umeexie add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/05/2023 7:18 AM
+BAG:umeexie add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/05/2023 7:18 AM
+BAG:umeexie add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/05/2023 7:18 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 7:18 AM
+BAG:umeexie add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 92xNgọc Rồng 7 sao (old: 91) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 93xNgọc Rồng 7 sao (old: 92) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 94xNgọc Rồng 7 sao (old: 93) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/05/2023 7:19 AM
+BAG:umeexie add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/05/2023 7:20 AM
+BAG:umeexie add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/05/2023 7:21 AM
+BAG:umeexie add 2xNgọc Rồng 1 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 7:21 AM
+BAG:umeexie add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/05/2023 7:21 AM
+BAG:umeexie add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 7:21 AM
+BAG:umeexie add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/05/2023 7:21 AM
+BAG:umeexie add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/05/2023 7:22 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 7:30 AM
+BAG:umeexie add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/05/2023 7:41 AM
+BAG:umeexie add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/05/2023 7:41 AM
+BAG:umeexie add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/05/2023 7:41 AM
+BAG:umeexie add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/05/2023 7:41 AM
+BAG:umeexie add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 7:41 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 7:42 AM
+BAG:umeexie add 1xNgọc Rồng 3 sao lydo: (GD) Nhận từ bdhdhdh at 03/05/2023 11:51 AM
+BAG:umeexie add 99xNgọc Rồng 7 sao lydo: (GD) Nhận từ bdhdhdh at 03/05/2023 11:51 AM
+BAG:umeexie add 99xNgọc Rồng 3 sao lydo: (GD) Nhận từ bdhdhdh at 03/05/2023 11:54 AM
+BAG:umeexie add 99xNgọc Rồng 7 sao lydo: (GD) Nhận từ bdhdhdh at 03/05/2023 11:54 AM
+BAG:umeexie add 1xÁo jean Calic lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:55 AM
+BAG:umeexie add 1xQuần jean Calic lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:55 AM
+BAG:umeexie add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:55 AM
+BAG:umeexie add 1xGiày jean Calic lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:55 AM
+BAG:umeexie add 1xRada cấp 12 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:55 AM
+BAG:umeexie add 1xCải Trang Cumber lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:55 AM
+BAG:umeexie add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:55 AM
+BAG:umeexie add 99xNgọc Rồng 3 sao lydo: (GD) Nhận từ bdhdhdh at 03/05/2023 11:57 AM
+BAG:umeexie add 99xNgọc Rồng 7 sao lydo: (GD) Nhận từ bdhdhdh at 03/05/2023 11:57 AM
+BAG:umeexie add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 11:57 AM
+BAG:umeexie add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhập ngọc at 03/05/2023 11:59 AM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 12:00 PM
+BAG:umeexie add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 15xNgọc Rồng 6 sao (old: 14) lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/05/2023 12:01 PM
+BAG:umeexie add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 12:03 PM
+BAG:umeexie add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 12:03 PM
+BAG:umeexie add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 12:03 PM
+BAG:umeexie add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 12:03 PM
+BAG:umeexie add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 12:04 PM
+BAG:umeexie add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 12:04 PM
+BAG:umeexie add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 12:04 PM
+BAG:umeexie add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 12:04 PM
+BAG:umeexie add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 12:04 PM
+BAG:umeexie add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 12:04 PM
+BAG:umeexie add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 12:04 PM
+BAG:umeexie add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 12:04 PM
+BAG:umeexie add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/05/2023 12:06 PM
+BAG:umeexie add 59xĐậu thần cấp 9 (old: 29) lydo: Mua từ cửa hàng at 03/05/2023 12:06 PM
+BAG:umeexie add 89xĐậu thần cấp 9 (old: 59) lydo: Mua từ cửa hàng at 03/05/2023 12:06 PM
+BAG:umeexie add 20xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/05/2023 12:06 PM
+BAG:umeexie add 99xĐậu thần cấp 9 (old: 89) lydo: Mua từ cửa hàng at 03/05/2023 12:06 PM
+BAG:umeexie add 50xĐậu thần cấp 9 (old: 20) lydo: Mua từ cửa hàng at 03/05/2023 12:06 PM
+BAG:umeexie add 80xĐậu thần cấp 9 (old: 50) lydo: Mua từ cửa hàng at 03/05/2023 12:06 PM
+BAG:umeexie add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhập ngọc at 03/05/2023 12:10 PM
+BAG:umeexie add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/05/2023 12:11 PM
+BAG:umeexie add 2xNgọc Rồng 1 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 12:11 PM
+BAG:umeexie add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhập ngọc at 03/05/2023 12:11 PM
+BAG:umeexie add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhập ngọc at 03/05/2023 12:11 PM
+BAG:umeexie add 1xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/05/2023 12:12 PM
+BAG:umeexie add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 12:12 PM
+BAG:umeexie add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/05/2023 12:12 PM
+BAG:umeexie add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 7xNâng cấp kỹ năng 3 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 12:14 PM
+BAG:umeexie add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 12:18 PM
+BAG:umeexie add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 12:18 PM
+BAG:umeexie add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 12:18 PM
+BAG:umeexie add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 12:18 PM
+BAG:umeexie add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 12:18 PM
+BAG:umeexie add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 12:18 PM

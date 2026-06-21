@@ -1,0 +1,164 @@
+BAG:vegetaa add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 5:43 PM
+BAG:vegetaa add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 5:43 PM
+BAG:vegetaa add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 5:43 PM
+BAG:vegetaa add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 5:43 PM
+BAG:vegetaa add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:vegetaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 5:48 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 5:49 PM
+BAG:vegetaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 5:49 PM
+BAG:vegetaa add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 5:49 PM
+BAG:vegetaa add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/11/2023 5:49 PM
+BAG:vegetaa add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:49 PM
+BAG:vegetaa add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 5:49 PM
+BAG:vegetaa add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:50 PM
+BAG:vegetaa add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:50 PM
+BAG:vegetaa add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 5:51 PM
+BAG:vegetaa add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 5:51 PM
+BAG:vegetaa add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 5:51 PM
+BAG:vegetaa add 10xCuồng nộ lydo: Giftcode at 03/11/2023 5:52 PM
+BAG:vegetaa add 10xBổ huyết lydo: Giftcode at 03/11/2023 5:52 PM
+BAG:vegetaa add 10xBổ khí lydo: Giftcode at 03/11/2023 5:52 PM
+BAG:vegetaa add 10xGiáp Xên bọ hung lydo: Giftcode at 03/11/2023 5:52 PM
+BAG:vegetaa add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 5:52 PM
+BAG:vegetaa add 50xThỏi vàng lydo: Giftcode at 03/11/2023 5:54 PM
+BAG:vegetaa add 10xSao pha lê lydo: Giftcode at 03/11/2023 5:54 PM
+BAG:vegetaa add 10xSao pha lê lydo: Giftcode at 03/11/2023 5:54 PM
+BAG:vegetaa add 10xSao pha lê lydo: Giftcode at 03/11/2023 5:54 PM
+BAG:vegetaa add 1xCải trang Hit lydo: Giftcode at 03/11/2023 5:54 PM
+BAG:vegetaa add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/11/2023 5:57 PM
+BAG:vegetaa add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:57 PM
+BAG:vegetaa add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:57 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 5:59 PM
+BAG:vegetaa add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 5:59 PM
+BAG:vegetaa add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 5:59 PM
+BAG:vegetaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 5:59 PM
+BAG:vegetaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 5:59 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:00 PM
+BAG:vegetaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 6:00 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:00 PM
+BAG:vegetaa add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 6:00 PM
+BAG:vegetaa add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 6:01 PM
+BAG:vegetaa add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 6:02 PM
+BAG:vegetaa add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 6:02 PM
+BAG:vegetaa add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 6:02 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:02 PM
+BAG:vegetaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 6:02 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:02 PM
+BAG:vegetaa add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 6:02 PM
+BAG:vegetaa add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 6:02 PM
+BAG:vegetaa add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 6:02 PM
+BAG:vegetaa add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 6:02 PM
+BAG:vegetaa add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 6:03 PM
+BAG:vegetaa add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 6:03 PM
+BAG:vegetaa add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 6:03 PM
+BAG:vegetaa add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/11/2023 6:03 PM
+BAG:vegetaa add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 6:03 PM
+BAG:vegetaa add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 6:03 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:03 PM
+BAG:vegetaa add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 6:04 PM
+BAG:vegetaa add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 6:04 PM
+BAG:vegetaa add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 6:04 PM
+BAG:vegetaa add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 6:04 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:vegetaa add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:vegetaa add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:vegetaa add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:vegetaa add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:vegetaa add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:vegetaa add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:vegetaa add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:vegetaa add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:vegetaa add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:vegetaa add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 6:07 PM
+BAG:vegetaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 6:07 PM
+BAG:vegetaa add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 6:07 PM
+BAG:vegetaa add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 6:07 PM
+BAG:vegetaa add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 6:07 PM
+BAG:vegetaa add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 6:07 PM
+BAG:vegetaa add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/11/2023 6:08 PM
+BAG:vegetaa add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 6:08 PM
+BAG:vegetaa add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 6:08 PM
+BAG:vegetaa add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 6:09 PM
+BAG:vegetaa add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 6:09 PM
+BAG:vegetaa add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 6:09 PM
+BAG:vegetaa add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 6:09 PM
+BAG:vegetaa add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/11/2023 6:09 PM
+BAG:vegetaa add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 6:10 PM
+BAG:vegetaa add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 6:10 PM
+BAG:vegetaa add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 6:11 PM
+BAG:vegetaa add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 6:11 PM
+BAG:vegetaa add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vegetaa add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vegetaa add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vegetaa add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vegetaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vegetaa add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:vegetaa add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 6:13 PM
+BAG:vegetaa add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 6:13 PM
+BAG:vegetaa add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 6:13 PM
+BAG:vegetaa add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 6:13 PM
+BAG:vegetaa add 65xĐậu thần cấp 10 (old: 45) lydo: Lấy từ rương qua người at 03/11/2023 6:14 PM
+BAG:vegetaa add 85xĐậu thần cấp 10 (old: 65) lydo: Lấy từ rương qua người at 03/11/2023 6:15 PM
+BAG:vegetaa add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/11/2023 6:15 PM
+BAG:vegetaa add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/11/2023 6:15 PM
+BAG:vegetaa add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/11/2023 6:15 PM
+BAG:vegetaa add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/11/2023 6:15 PM
+BAG:vegetaa add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 6:15 PM
+BAG:vegetaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 6:16 PM
+BAG:vegetaa add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/11/2023 6:16 PM
+BAG:vegetaa add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 6:16 PM
+BAG:vegetaa add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:vegetaa add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:vegetaa add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:vegetaa add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:vegetaa add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:vegetaa add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:vegetaa add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:vegetaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:vegetaa add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:vegetaa add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:18 PM
+BAG:vegetaa add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/11/2023 6:18 PM
+BAG:vegetaa add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 6:18 PM
+BAG:vegetaa add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 6:18 PM
+BAG:vegetaa add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 6:19 PM
+BAG:vegetaa add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 6:19 PM
+BAG:vegetaa add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/11/2023 6:20 PM
+BAG:vegetaa add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 6:20 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:20 PM
+BAG:vegetaa add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 6:21 PM
+BAG:vegetaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 6:21 PM
+BAG:vegetaa add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 6:21 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:21 PM
+BAG:vegetaa add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:vegetaa add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:vegetaa add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:vegetaa add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:vegetaa add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:vegetaa add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:vegetaa add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:vegetaa add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/11/2023 6:23 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:23 PM
+BAG:vegetaa add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/11/2023 6:23 PM
+BAG:vegetaa add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 6:23 PM
+BAG:vegetaa add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/11/2023 6:23 PM
+BAG:vegetaa add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/11/2023 6:24 PM
+BAG:vegetaa add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/11/2023 6:24 PM
+BAG:vegetaa add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/11/2023 6:24 PM
+BAG:vegetaa add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/11/2023 6:24 PM
+BAG:vegetaa add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/11/2023 6:24 PM
+BAG:vegetaa add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:vegetaa add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:vegetaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:vegetaa add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:vegetaa add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:vegetaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:vegetaa add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 6:27 PM

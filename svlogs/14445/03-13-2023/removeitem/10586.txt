@@ -1,0 +1,514 @@
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Mặc vào người at 03/13/2023 12:08 AM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 12:11 AM
+BAG:dragonk1 remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/13/2023 12:17 AM
+BAG:dragonk1 remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 03/13/2023 12:19 AM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 12:20 AM
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/13/2023 12:22 AM
+BAG:dragonk1 remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/13/2023 12:23 AM
+BAG:dragonk1 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/13/2023 12:23 AM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 1:51 AM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 1:52 AM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 1:52 AM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 1:52 AM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 1:53 AM
+BAG:dragonk1 remove Giầy nhựa lydo: Mặc vào người at 03/13/2023 1:54 AM
+BAG:dragonk1 remove Kaioken lv1 lydo: Sách kĩ năng at 03/13/2023 2:29 AM
+BAG:dragonk1 remove Kaioken lv2 lydo: Sách kĩ năng at 03/13/2023 2:29 AM
+BAG:dragonk1 remove Kaioken lv3 lydo: Sách kĩ năng at 03/13/2023 2:29 AM
+BAG:dragonk1 remove Kaioken lv4 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Kaioken lv5 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Kaioken lv6 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Kaioken lv7 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Dịch Chuyển lv1 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Dịch Chuyển lv2 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Dịch Chuyển lv3 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Dịch Chuyển lv4 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Dịch Chuyển lv5 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Dịch Chuyển lv6 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Dịch Chuyển lv7 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Kamejoko lv1 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Kamejoko lv2 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Kamejoko lv3 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Kamejoko lv4 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Kamejoko lv5 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Kamejoko lv6 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Kamejoko lv7 lydo: Sách kĩ năng at 03/13/2023 2:30 AM
+BAG:dragonk1 remove Sách Thôi Miên lv1 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Sách Thôi Miên lv2 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Sách Thôi Miên lv3 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Sách Thôi Miên lv4 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Sách Thôi Miên lv5 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Sách Thôi Miên lv6 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Sách Thôi Miên lv7 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Thái Dương Hạ San lv1 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Thái Dương Hạ San lv2 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Thái Dương Hạ San lv3 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Thái Dương Hạ San lv4 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Thái Dương Hạ San lv5 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Thái Dương Hạ San lv6 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Thái Dương Hạ San lv7 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Quả cầu Kênh Khi lv1 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Quả cầu Kênh Khi lv2 lydo: Sách kĩ năng at 03/13/2023 2:31 AM
+BAG:dragonk1 remove Quả cầu Kênh Khi lv3 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Quả cầu Kênh Khi lv4 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Quả cầu Kênh Khi lv5 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Quả cầu Kênh Khi lv6 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Quả cầu Kênh Khi lv7 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 03/13/2023 2:32 AM
+BAG:dragonk1 remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 03/13/2023 2:41 AM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 2:43 AM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 2:44 AM
+BAG:dragonk1 remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/13/2023 2:46 AM
+BAG:dragonk1 remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 03/13/2023 2:46 AM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 2:46 AM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 2:46 AM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 2:46 AM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 2:46 AM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 2:46 AM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 2:46 AM
+BAG:dragonk1 remove 7xNâng cấp kỹ năng 2 đệ tử lydo: Bán cho shop at 03/13/2023 2:46 AM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 2:47 AM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 2:47 AM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 2:47 AM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 2:47 AM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 11:15 AM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 11:15 AM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 11:16 AM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 11:16 AM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 11:17 AM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:02 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:03 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:04 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:04 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:05 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:05 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:06 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:06 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:07 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:08 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:08 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:09 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:09 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:10 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:11 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:11 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:12 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:13 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:13 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:14 PM
+BAG:dragonk1 remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/13/2023 1:15 PM
+BAG:dragonk1 remove Giầy nhựa lydo: Mặc cho đệ tử at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 1:15 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:16 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:16 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:17 PM
+BAG:dragonk1 remove Cải trang Chaien lydo: Mặc cho đệ tử at 03/13/2023 1:17 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:19 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:30 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:30 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:30 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 1:53 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 2:10 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 2:27 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 2:43 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 3:00 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 4:42 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 4:59 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 5:10 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 5:10 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 5:10 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 5:10 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 5:10 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 5:10 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 5:10 PM
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/13/2023 5:23 PM
+BAG:dragonk1 remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/13/2023 5:23 PM
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/13/2023 5:24 PM
+BAG:dragonk1 remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/13/2023 5:24 PM
+BAG:dragonk1 remove 1xBổ khí lydo: Dùng buff at 03/13/2023 5:24 PM
+BAG:dragonk1 remove 1xBổ khí lydo: Dùng buff at 03/13/2023 5:24 PM
+BAG:dragonk1 remove 1xBổ khí lydo: Dùng buff at 03/13/2023 5:24 PM
+BAG:dragonk1 remove 1xBổ khí lydo: Dùng buff at 03/13/2023 5:24 PM
+BAG:dragonk1 remove 1xBổ khí lydo: Dùng buff at 03/13/2023 5:24 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 5:24 PM
+BAG:dragonk1 remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/13/2023 5:27 PM
+BAG:dragonk1 remove Rada cấp 1 lydo: Mặc vào người at 03/13/2023 5:28 PM
+BAG:dragonk1 remove Găng vải đen lydo: Mặc vào người at 03/13/2023 5:28 PM
+BAG:dragonk1 remove Quần vải đen lydo: Mặc vào người at 03/13/2023 5:28 PM
+BAG:dragonk1 remove Giầy nhựa lydo: Mặc vào người at 03/13/2023 5:28 PM
+BAG:dragonk1 remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/13/2023 5:35 PM
+BAG:dragonk1 remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/13/2023 5:35 PM
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/13/2023 5:35 PM
+BAG:dragonk1 remove Quần vải đen lydo: Mặc vào người at 03/13/2023 5:36 PM
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Mặc vào người at 03/13/2023 5:36 PM
+BAG:dragonk1 remove Găng vải đen lydo: Mặc vào người at 03/13/2023 5:36 PM
+BAG:dragonk1 remove Giầy nhựa lydo: Mặc cho đệ tử at 03/13/2023 5:37 PM
+BAG:dragonk1 remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/13/2023 5:37 PM
+BAG:dragonk1 remove Cải trang Chaien lydo: Mặc cho đệ tử at 03/13/2023 5:37 PM
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/13/2023 5:37 PM
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/13/2023 5:39 PM
+BAG:dragonk1 remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 03/13/2023 5:40 PM
+BAG:dragonk1 remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/13/2023 5:51 PM
+BAG:dragonk1 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/13/2023 5:51 PM
+BAG:dragonk1 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/13/2023 5:51 PM
+BAG:dragonk1 remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/13/2023 5:52 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 5:56 PM
+BAG:dragonk1 remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/13/2023 5:57 PM
+BAG:dragonk1 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/13/2023 5:59 PM
+BAG:dragonk1 remove Cải trang Chill cấp 2 lydo: Mặc vào người at 03/13/2023 6:02 PM
+BAG:dragonk1 remove Cải trang Chaien lydo: Tự Xóa vật phẩm at 03/13/2023 6:02 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 6:03 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:04 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:04 PM
+BAG:dragonk1 remove Giầy nhựa lydo: Mặc cho đệ tử at 03/13/2023 6:06 PM
+BAG:dragonk1 remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/13/2023 6:06 PM
+BAG:dragonk1 remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/13/2023 6:06 PM
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Mặc vào người at 03/13/2023 6:07 PM
+BAG:dragonk1 remove Quần vải đen lydo: Mặc vào người at 03/13/2023 6:07 PM
+BAG:dragonk1 remove Găng vải đen lydo: Mặc vào người at 03/13/2023 6:07 PM
+BAG:dragonk1 remove Giầy nhựa lydo: Mặc vào người at 03/13/2023 6:07 PM
+BAG:dragonk1 remove Rada cấp 1 lydo: Mặc vào người at 03/13/2023 6:07 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:08 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:08 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:08 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:08 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:08 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:09 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:09 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:09 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:09 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:09 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:10 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:11 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:11 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:11 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:11 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:11 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:11 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:11 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:11 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:13 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:14 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:14 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:14 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:14 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:14 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:14 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:14 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:14 PM
+BAG:dragonk1 remove Giầy nhựa lydo: Mặc vào người at 03/13/2023 6:15 PM
+BAG:dragonk1 remove 20xMảnh Khủng long lydo: Bán cho shop at 03/13/2023 6:15 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:15 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:15 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:15 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:15 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:15 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:15 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:15 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:15 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:15 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:15 PM
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Mặc vào người at 03/13/2023 6:17 PM
+BAG:dragonk1 remove Quần vải đen lydo: Mặc vào người at 03/13/2023 6:17 PM
+BAG:dragonk1 remove Găng vải đen lydo: Mặc vào người at 03/13/2023 6:17 PM
+BAG:dragonk1 remove Rada cấp 1 lydo: Mặc vào người at 03/13/2023 6:17 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:17 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:17 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:17 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:17 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:17 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:17 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:17 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:17 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:17 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:17 PM
+BAG:dragonk1 remove Giầy nhựa lydo: Mặc vào người at 03/13/2023 6:18 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:19 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:25 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:26 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:26 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:26 PM
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Mặc vào người at 03/13/2023 6:31 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 6:32 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:40 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:40 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:41 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:41 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:41 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:41 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:41 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:41 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:41 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:41 PM
+BAG:dragonk1 remove Quần vải đen lydo: Mặc vào người at 03/13/2023 6:48 PM
+BAG:dragonk1 remove Găng vải đen lydo: Mặc vào người at 03/13/2023 6:48 PM
+BAG:dragonk1 remove Giầy nhựa lydo: Mặc vào người at 03/13/2023 6:48 PM
+BAG:dragonk1 remove Rada cấp 1 lydo: Mặc vào người at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:48 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 6:49 PM
+BAG:dragonk1 remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 03/13/2023 6:54 PM
+BAG:dragonk1 remove Cải trang Black Gohan Rose lydo: Tự Xóa vật phẩm at 03/13/2023 6:54 PM
+BAG:dragonk1 remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 03/13/2023 6:54 PM
+BAG:dragonk1 remove Cải trang Black Gohan Rose lydo: Tự Xóa vật phẩm at 03/13/2023 6:54 PM
+BAG:dragonk1 remove Cải trang Black Gohan Rose lydo: Tự Xóa vật phẩm at 03/13/2023 6:54 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove 1xThỏi vàng lydo: Bán cho shop at 03/13/2023 6:55 PM
+BAG:dragonk1 remove Thỏi vàng lydo: Cất vào rương at 03/13/2023 6:55 PM
+BAG:dragonk1 remove Cải trang Black Goku SSJ White lydo: Tự Xóa vật phẩm at 03/13/2023 7:02 PM
+BAG:dragonk1 remove Cải trang Black Goku SSJ White lydo: Tự Xóa vật phẩm at 03/13/2023 7:02 PM
+BAG:dragonk1 remove Cải trang Black Gohan Rose lydo: Tự Xóa vật phẩm at 03/13/2023 7:02 PM
+BAG:dragonk1 remove Cải trang Black Goku SSJ White lydo: Tự Xóa vật phẩm at 03/13/2023 7:02 PM
+BAG:dragonk1 remove Cải trang Black Goku SSJ White lydo: Tự Xóa vật phẩm at 03/13/2023 7:02 PM
+BAG:dragonk1 remove 12xSao pha lê lydo: Bán cho shop at 03/13/2023 7:02 PM
+BAG:dragonk1 remove 21xSao pha lê lydo: Bán cho shop at 03/13/2023 7:02 PM
+BAG:dragonk1 remove 20xVệ tinh phòng thủ lydo: Bán cho shop at 03/13/2023 7:02 PM
+BAG:dragonk1 remove 18xSao pha lê lydo: Bán cho shop at 03/13/2023 7:02 PM
+BAG:dragonk1 remove 19xSao pha lê lydo: Bán cho shop at 03/13/2023 7:02 PM
+BAG:dragonk1 remove 14xVệ tinh trí lực lydo: Bán cho shop at 03/13/2023 7:02 PM
+BAG:dragonk1 remove 16xSao pha lê lydo: Bán cho shop at 03/13/2023 7:03 PM
+BAG:dragonk1 remove 11xVệ tinh sinh lực lydo: Bán cho shop at 03/13/2023 7:03 PM
+BAG:dragonk1 remove 18xSao pha lê lydo: Bán cho shop at 03/13/2023 7:03 PM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 7:04 PM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 7:04 PM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 7:05 PM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 7:05 PM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 7:05 PM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 7:05 PM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 7:06 PM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 7:06 PM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 7:06 PM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 7:06 PM
+BAG:dragonk1 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/13/2023 7:06 PM
+BAG:dragonk1 remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/13/2023 7:07 PM
+BAG:dragonk1 remove Quần vải đen lydo: Mặc cho đệ tử at 03/13/2023 7:07 PM
+BAG:dragonk1 remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/13/2023 7:07 PM
+BAG:dragonk1 remove Cải trang Black Gohan Rose lydo: Cất vào rương at 03/13/2023 7:07 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 7:08 PM
+BAG:dragonk1 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/13/2023 7:08 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 7:09 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xPháo hoa lydo: CSTT at 03/13/2023 7:10 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 7:14 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 7:17 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 7:24 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 7:25 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 7:28 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 7:32 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 7:35 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 7:37 PM
+BAG:dragonk1 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/13/2023 7:39 PM
+BAG:dragonk1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/13/2023 7:39 PM
+BAG:dragonk1 remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 03/13/2023 9:06 PM
+BAG:dragonk1 remove 1xCuồng nộ lydo: Dùng buff at 03/13/2023 9:07 PM
+BAG:dragonk1 remove 1xGiáp Xên bọ hung lydo: Dùng buff at 03/13/2023 9:07 PM
+BAG:dragonk1 remove 1xBổ khí lydo: Dùng buff at 03/13/2023 9:10 PM
+BAG:dragonk1 remove 1xBổ khí lydo: Dùng buff at 03/13/2023 9:10 PM
+BAG:dragonk1 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/13/2023 9:22 PM

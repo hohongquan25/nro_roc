@@ -1,0 +1,1867 @@
+BAG:kokolo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/29/2023 6:43 AM
+BAG:kokolo add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/29/2023 6:43 AM
+BAG:kokolo add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/29/2023 6:44 AM
+BAG:kokolo add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/29/2023 6:44 AM
+BAG:kokolo add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/29/2023 6:44 AM
+BAG:kokolo add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/29/2023 6:44 AM
+BAG:kokolo add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/29/2023 6:44 AM
+BAG:kokolo add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/29/2023 6:45 AM
+BAG:kokolo add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 6:47 AM
+BAG:kokolo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 6:48 AM
+BAG:kokolo add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 6:49 AM
+BAG:kokolo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 6:49 AM
+BAG:kokolo add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 6:49 AM
+BAG:kokolo add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 03/29/2023 6:49 AM
+BAG:kokolo add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 6:49 AM
+BAG:kokolo add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/29/2023 6:50 AM
+BAG:kokolo add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/29/2023 6:51 AM
+BAG:kokolo add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/29/2023 6:51 AM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 6:51 AM
+BAG:kokolo add 3xMảnh Quỷ đất mẹ (old: 2) lydo: Nhặt từ map at 03/29/2023 6:51 AM
+BAG:kokolo add 4xMảnh Quỷ đất mẹ (old: 3) lydo: Nhặt từ map at 03/29/2023 6:51 AM
+BAG:kokolo add 5xMảnh Quỷ đất mẹ (old: 4) lydo: Nhặt từ map at 03/29/2023 6:51 AM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 6:51 AM
+BAG:kokolo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 6:52 AM
+BAG:kokolo add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/29/2023 6:53 AM
+BAG:kokolo add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 6:53 AM
+BAG:kokolo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 6:53 AM
+BAG:kokolo add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/29/2023 6:53 AM
+BAG:kokolo add 6xMảnh Quỷ đất mẹ (old: 5) lydo: Nhặt từ map at 03/29/2023 6:54 AM
+BAG:kokolo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 6:54 AM
+BAG:kokolo add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/29/2023 6:54 AM
+BAG:kokolo add 7xMảnh Quỷ đất mẹ (old: 6) lydo: Nhặt từ map at 03/29/2023 6:54 AM
+BAG:kokolo add 8xMảnh Quỷ đất mẹ (old: 7) lydo: Nhặt từ map at 03/29/2023 6:54 AM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 6:55 AM
+BAG:kokolo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 6:55 AM
+BAG:kokolo add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/29/2023 6:55 AM
+BAG:kokolo add 9xMảnh Quỷ đất mẹ (old: 8) lydo: Nhặt từ map at 03/29/2023 6:56 AM
+BAG:kokolo add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/29/2023 6:57 AM
+BAG:kokolo add 10xMảnh Quỷ đất mẹ (old: 9) lydo: Nhặt từ map at 03/29/2023 6:57 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 6:57 AM
+BAG:kokolo add 11xMảnh Quỷ đất mẹ (old: 10) lydo: Nhặt từ map at 03/29/2023 6:57 AM
+BAG:kokolo add 12xMảnh Quỷ đất mẹ (old: 11) lydo: Nhặt từ map at 03/29/2023 6:57 AM
+BAG:kokolo add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 6:58 AM
+BAG:kokolo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 6:58 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 6:58 AM
+BAG:kokolo add 13xMảnh Quỷ đất mẹ (old: 12) lydo: Nhặt từ map at 03/29/2023 6:58 AM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 6:59 AM
+BAG:kokolo add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/29/2023 6:59 AM
+BAG:kokolo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 6:59 AM
+BAG:kokolo add 14xMảnh Quỷ đất mẹ (old: 13) lydo: Nhặt từ map at 03/29/2023 6:59 AM
+BAG:kokolo add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/29/2023 6:59 AM
+BAG:kokolo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 6:59 AM
+BAG:kokolo add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 7:00 AM
+BAG:kokolo add 15xMảnh Quỷ đất mẹ (old: 14) lydo: Nhặt từ map at 03/29/2023 7:00 AM
+BAG:kokolo add 16xMảnh Quỷ đất mẹ (old: 15) lydo: Nhặt từ map at 03/29/2023 7:00 AM
+BAG:kokolo add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/29/2023 7:00 AM
+BAG:kokolo add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/29/2023 7:00 AM
+BAG:kokolo add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 7:01 AM
+BAG:kokolo add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/29/2023 7:01 AM
+BAG:kokolo add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/29/2023 7:02 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 7:03 AM
+BAG:kokolo add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/29/2023 7:03 AM
+BAG:kokolo add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 7:04 AM
+BAG:kokolo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 7:04 AM
+BAG:kokolo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 7:04 AM
+BAG:kokolo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 7:04 AM
+BAG:kokolo add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/29/2023 7:04 AM
+BAG:kokolo add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 7:04 AM
+BAG:kokolo add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 7:04 AM
+BAG:kokolo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 7:06 AM
+BAG:kokolo add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 7:06 AM
+BAG:kokolo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 7:07 AM
+BAG:kokolo add 17xMảnh Quỷ đất mẹ (old: 16) lydo: Nhặt từ map at 03/29/2023 7:07 AM
+BAG:kokolo add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 7:07 AM
+BAG:kokolo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 7:07 AM
+BAG:kokolo add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 7:08 AM
+BAG:kokolo add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/29/2023 7:08 AM
+BAG:kokolo add 18xMảnh Quỷ đất mẹ (old: 17) lydo: Nhặt từ map at 03/29/2023 7:08 AM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 7:08 AM
+BAG:kokolo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 7:08 AM
+BAG:kokolo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 7:09 AM
+BAG:kokolo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 7:09 AM
+BAG:kokolo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 7:09 AM
+BAG:kokolo add 19xMảnh Quỷ đất mẹ (old: 18) lydo: Nhặt từ map at 03/29/2023 7:09 AM
+BAG:kokolo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 7:09 AM
+BAG:kokolo add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 7:10 AM
+BAG:kokolo add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 03/29/2023 7:10 AM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 7:11 AM
+BAG:kokolo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 7:11 AM
+BAG:kokolo add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 7:12 AM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 7:12 AM
+BAG:kokolo add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 7:13 AM
+BAG:kokolo add 20xMảnh Quỷ đất mẹ (old: 19) lydo: Nhặt từ map at 03/29/2023 7:13 AM
+BAG:kokolo add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 7:13 AM
+BAG:kokolo add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 03/29/2023 7:13 AM
+BAG:kokolo add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 7:14 AM
+BAG:kokolo add 21xMảnh Quỷ đất mẹ (old: 20) lydo: Nhặt từ map at 03/29/2023 7:14 AM
+BAG:kokolo add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 7:14 AM
+BAG:kokolo add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 7:14 AM
+BAG:kokolo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 7:15 AM
+BAG:kokolo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 7:16 AM
+BAG:kokolo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 7:16 AM
+BAG:kokolo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 7:16 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 7:17 AM
+BAG:kokolo add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/29/2023 7:17 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 7:17 AM
+BAG:kokolo add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 7:17 AM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 7:18 AM
+BAG:kokolo add 22xMảnh Quỷ đất mẹ (old: 21) lydo: Nhặt từ map at 03/29/2023 7:18 AM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 7:19 AM
+BAG:kokolo add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/29/2023 7:19 AM
+BAG:kokolo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 7:19 AM
+BAG:kokolo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/29/2023 7:19 AM
+BAG:kokolo add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 03/29/2023 7:19 AM
+BAG:kokolo add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 7:20 AM
+BAG:kokolo add 23xMảnh Quỷ đất mẹ (old: 22) lydo: Nhặt từ map at 03/29/2023 7:20 AM
+BAG:kokolo add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/29/2023 7:20 AM
+BAG:kokolo add 24xMảnh Quỷ đất mẹ (old: 23) lydo: Nhặt từ map at 03/29/2023 7:20 AM
+BAG:kokolo add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/29/2023 7:20 AM
+BAG:kokolo add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/29/2023 7:21 AM
+BAG:kokolo add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 03/29/2023 7:22 AM
+BAG:kokolo add 25xMảnh Quỷ đất mẹ (old: 24) lydo: Nhặt từ map at 03/29/2023 7:22 AM
+BAG:kokolo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 7:22 AM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 7:22 AM
+BAG:kokolo add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 7:23 AM
+BAG:kokolo add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 03/29/2023 7:24 AM
+BAG:kokolo add 26xMảnh Quỷ đất mẹ (old: 25) lydo: Nhặt từ map at 03/29/2023 7:24 AM
+BAG:kokolo add 27xMảnh Quỷ đất mẹ (old: 26) lydo: Nhặt từ map at 03/29/2023 7:24 AM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 7:24 AM
+BAG:kokolo add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/29/2023 7:24 AM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 7:24 AM
+BAG:kokolo add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/29/2023 7:24 AM
+BAG:kokolo add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/29/2023 7:25 AM
+BAG:kokolo add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 7:27 AM
+BAG:kokolo add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/29/2023 7:28 AM
+BAG:kokolo add 28xMảnh Quỷ đất mẹ (old: 27) lydo: Nhặt từ map at 03/29/2023 7:28 AM
+BAG:kokolo add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 7:28 AM
+BAG:kokolo add 29xMảnh Quỷ đất mẹ (old: 28) lydo: Nhặt từ map at 03/29/2023 7:29 AM
+BAG:kokolo add 30xMảnh Quỷ đất mẹ (old: 29) lydo: Nhặt từ map at 03/29/2023 7:29 AM
+BAG:kokolo add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 03/29/2023 7:30 AM
+BAG:kokolo add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/29/2023 7:30 AM
+BAG:kokolo add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/29/2023 7:30 AM
+BAG:kokolo add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 7:30 AM
+BAG:kokolo add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/29/2023 7:31 AM
+BAG:kokolo add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/29/2023 7:32 AM
+BAG:kokolo add 24xMảnh Quỷ đất (old: 23) lydo: Nhặt từ map at 03/29/2023 7:32 AM
+BAG:kokolo add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/29/2023 7:33 AM
+BAG:kokolo add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/29/2023 7:33 AM
+BAG:kokolo add 25xMảnh Quỷ đất (old: 24) lydo: Nhặt từ map at 03/29/2023 7:33 AM
+BAG:kokolo add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/29/2023 7:34 AM
+BAG:kokolo add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 7:35 AM
+BAG:kokolo add 26xMảnh Quỷ đất (old: 25) lydo: Nhặt từ map at 03/29/2023 7:35 AM
+BAG:kokolo add 27xMảnh Quỷ đất (old: 26) lydo: Nhặt từ map at 03/29/2023 7:36 AM
+BAG:kokolo add 31xMảnh Quỷ đất mẹ (old: 30) lydo: Nhặt từ map at 03/29/2023 7:36 AM
+BAG:kokolo add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 7:36 AM
+BAG:kokolo add 28xMảnh Quỷ đất (old: 27) lydo: Nhặt từ map at 03/29/2023 7:37 AM
+BAG:kokolo add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/29/2023 7:37 AM
+BAG:kokolo add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/29/2023 7:37 AM
+BAG:kokolo add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/29/2023 7:38 AM
+BAG:kokolo add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/29/2023 7:38 AM
+BAG:kokolo add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/29/2023 7:38 AM
+BAG:kokolo add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/29/2023 7:38 AM
+BAG:kokolo add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/29/2023 7:39 AM
+BAG:kokolo add 29xMảnh Quỷ đất (old: 28) lydo: Nhặt từ map at 03/29/2023 7:39 AM
+BAG:kokolo add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/29/2023 7:39 AM
+BAG:kokolo add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/29/2023 7:40 AM
+BAG:kokolo add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/29/2023 7:41 AM
+BAG:kokolo add 32xMảnh Quỷ đất mẹ (old: 31) lydo: Nhặt từ map at 03/29/2023 7:41 AM
+BAG:kokolo add 30xMảnh Quỷ đất (old: 29) lydo: Nhặt từ map at 03/29/2023 7:41 AM
+BAG:kokolo add 33xMảnh Quỷ đất mẹ (old: 32) lydo: Nhặt từ map at 03/29/2023 7:42 AM
+BAG:kokolo add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/29/2023 7:42 AM
+BAG:kokolo add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/29/2023 7:42 AM
+BAG:kokolo add 31xMảnh Quỷ đất (old: 30) lydo: Nhặt từ map at 03/29/2023 7:42 AM
+BAG:kokolo add 32xMảnh Quỷ đất (old: 31) lydo: Nhặt từ map at 03/29/2023 7:43 AM
+BAG:kokolo add 34xMảnh Quỷ đất mẹ (old: 33) lydo: Nhặt từ map at 03/29/2023 7:43 AM
+BAG:kokolo add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/29/2023 7:44 AM
+BAG:kokolo add 35xMảnh Quỷ đất mẹ (old: 34) lydo: Nhặt từ map at 03/29/2023 7:44 AM
+BAG:kokolo add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/29/2023 7:45 AM
+BAG:kokolo add 33xMảnh Quỷ đất (old: 32) lydo: Nhặt từ map at 03/29/2023 7:45 AM
+BAG:kokolo add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/29/2023 7:45 AM
+BAG:kokolo add 34xMảnh Quỷ đất (old: 33) lydo: Nhặt từ map at 03/29/2023 7:45 AM
+BAG:kokolo add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/29/2023 7:46 AM
+BAG:kokolo add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/29/2023 7:46 AM
+BAG:kokolo add 35xMảnh Quỷ đất (old: 34) lydo: Nhặt từ map at 03/29/2023 7:46 AM
+BAG:kokolo add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/29/2023 7:46 AM
+BAG:kokolo add 36xMảnh Quỷ đất (old: 35) lydo: Nhặt từ map at 03/29/2023 7:46 AM
+BAG:kokolo add 37xMảnh Quỷ đất (old: 36) lydo: Nhặt từ map at 03/29/2023 7:47 AM
+BAG:kokolo add 36xMảnh Quỷ đất mẹ (old: 35) lydo: Nhặt từ map at 03/29/2023 7:48 AM
+BAG:kokolo add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/29/2023 7:48 AM
+BAG:kokolo add 38xMảnh Quỷ đất (old: 37) lydo: Nhặt từ map at 03/29/2023 7:49 AM
+BAG:kokolo add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 7:49 AM
+BAG:kokolo add 37xMảnh Quỷ đất mẹ (old: 36) lydo: Nhặt từ map at 03/29/2023 7:50 AM
+BAG:kokolo add 39xMảnh Quỷ đất (old: 38) lydo: Nhặt từ map at 03/29/2023 7:50 AM
+BAG:kokolo add 40xMảnh Quỷ đất (old: 39) lydo: Nhặt từ map at 03/29/2023 7:51 AM
+BAG:kokolo add 38xMảnh Quỷ đất mẹ (old: 37) lydo: Nhặt từ map at 03/29/2023 7:51 AM
+BAG:kokolo add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/29/2023 7:51 AM
+BAG:kokolo add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/29/2023 7:52 AM
+BAG:kokolo add 41xMảnh Quỷ đất (old: 40) lydo: Nhặt từ map at 03/29/2023 7:52 AM
+BAG:kokolo add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/29/2023 7:52 AM
+BAG:kokolo add 39xMảnh Quỷ đất mẹ (old: 38) lydo: Nhặt từ map at 03/29/2023 7:52 AM
+BAG:kokolo add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/29/2023 7:52 AM
+BAG:kokolo add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/29/2023 7:52 AM
+BAG:kokolo add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/29/2023 7:53 AM
+BAG:kokolo add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/29/2023 7:53 AM
+BAG:kokolo add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/29/2023 7:54 AM
+BAG:kokolo add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/29/2023 7:54 AM
+BAG:kokolo add 42xMảnh Quỷ đất (old: 41) lydo: Nhặt từ map at 03/29/2023 7:55 AM
+BAG:kokolo add 40xMảnh Quỷ đất mẹ (old: 39) lydo: Nhặt từ map at 03/29/2023 7:55 AM
+BAG:kokolo add 41xMảnh Quỷ đất mẹ (old: 40) lydo: Nhặt từ map at 03/29/2023 7:55 AM
+BAG:kokolo add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/29/2023 7:55 AM
+BAG:kokolo add 43xMảnh Quỷ đất (old: 42) lydo: Nhặt từ map at 03/29/2023 7:56 AM
+BAG:kokolo add 42xMảnh Quỷ đất mẹ (old: 41) lydo: Nhặt từ map at 03/29/2023 7:56 AM
+BAG:kokolo add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/29/2023 7:57 AM
+BAG:kokolo add 43xMảnh Quỷ đất mẹ (old: 42) lydo: Nhặt từ map at 03/29/2023 7:57 AM
+BAG:kokolo add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/29/2023 7:58 AM
+BAG:kokolo add 44xMảnh Quỷ đất (old: 43) lydo: Nhặt từ map at 03/29/2023 7:58 AM
+BAG:kokolo add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/29/2023 7:58 AM
+BAG:kokolo add 44xMảnh Quỷ đất mẹ (old: 43) lydo: Nhặt từ map at 03/29/2023 7:58 AM
+BAG:kokolo add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/29/2023 7:59 AM
+BAG:kokolo add 45xMảnh Quỷ đất mẹ (old: 44) lydo: Nhặt từ map at 03/29/2023 7:59 AM
+BAG:kokolo add 45xMảnh Quỷ đất (old: 44) lydo: Nhặt từ map at 03/29/2023 8:02 AM
+BAG:kokolo add 46xMảnh Quỷ đất (old: 45) lydo: Nhặt từ map at 03/29/2023 8:02 AM
+BAG:kokolo add 46xMảnh Quỷ đất mẹ (old: 45) lydo: Nhặt từ map at 03/29/2023 8:02 AM
+BAG:kokolo add 47xMảnh Quỷ đất mẹ (old: 46) lydo: Nhặt từ map at 03/29/2023 8:02 AM
+BAG:kokolo add 48xMảnh Quỷ đất mẹ (old: 47) lydo: Nhặt từ map at 03/29/2023 8:02 AM
+BAG:kokolo add 47xMảnh Quỷ đất (old: 46) lydo: Nhặt từ map at 03/29/2023 8:03 AM
+BAG:kokolo add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/29/2023 8:04 AM
+BAG:kokolo add 49xMảnh Quỷ đất mẹ (old: 48) lydo: Nhặt từ map at 03/29/2023 8:04 AM
+BAG:kokolo add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/29/2023 8:05 AM
+BAG:kokolo add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/29/2023 8:05 AM
+BAG:kokolo add 48xMảnh Quỷ đất (old: 47) lydo: Nhặt từ map at 03/29/2023 8:05 AM
+BAG:kokolo add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/29/2023 8:06 AM
+BAG:kokolo add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/29/2023 8:06 AM
+BAG:kokolo add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/29/2023 8:07 AM
+BAG:kokolo add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/29/2023 8:07 AM
+BAG:kokolo add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/29/2023 8:07 AM
+BAG:kokolo add 49xMảnh Quỷ đất (old: 48) lydo: Nhặt từ map at 03/29/2023 8:08 AM
+BAG:kokolo add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/29/2023 8:08 AM
+BAG:kokolo add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/29/2023 8:08 AM
+BAG:kokolo add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/29/2023 8:08 AM
+BAG:kokolo add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/29/2023 8:09 AM
+BAG:kokolo add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/29/2023 8:09 AM
+BAG:kokolo add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/29/2023 8:10 AM
+BAG:kokolo add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/29/2023 8:10 AM
+BAG:kokolo add 50xMảnh Quỷ đất mẹ (old: 49) lydo: Nhặt từ map at 03/29/2023 8:10 AM
+BAG:kokolo add 51xMảnh Quỷ đất mẹ (old: 50) lydo: Nhặt từ map at 03/29/2023 8:11 AM
+BAG:kokolo add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/29/2023 8:11 AM
+BAG:kokolo add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/29/2023 8:12 AM
+BAG:kokolo add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/29/2023 8:12 AM
+BAG:kokolo add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/29/2023 8:12 AM
+BAG:kokolo add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/29/2023 8:13 AM
+BAG:kokolo add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/29/2023 8:13 AM
+BAG:kokolo add 50xMảnh Quỷ đất (old: 49) lydo: Nhặt từ map at 03/29/2023 8:13 AM
+BAG:kokolo add 52xMảnh Quỷ đất mẹ (old: 51) lydo: Nhặt từ map at 03/29/2023 8:13 AM
+BAG:kokolo add 51xMảnh Quỷ đất (old: 50) lydo: Nhặt từ map at 03/29/2023 8:14 AM
+BAG:kokolo add 52xMảnh Quỷ đất (old: 51) lydo: Nhặt từ map at 03/29/2023 8:14 AM
+BAG:kokolo add 53xMảnh Quỷ đất (old: 52) lydo: Nhặt từ map at 03/29/2023 8:14 AM
+BAG:kokolo add 54xMảnh Quỷ đất (old: 53) lydo: Nhặt từ map at 03/29/2023 8:15 AM
+BAG:kokolo add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/29/2023 8:16 AM
+BAG:kokolo add 55xMảnh Quỷ đất (old: 54) lydo: Nhặt từ map at 03/29/2023 8:17 AM
+BAG:kokolo add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/29/2023 8:17 AM
+BAG:kokolo add 53xMảnh Quỷ đất mẹ (old: 52) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:kokolo add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/29/2023 8:18 AM
+BAG:kokolo add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/29/2023 8:19 AM
+BAG:kokolo add 56xMảnh Quỷ đất (old: 55) lydo: Nhặt từ map at 03/29/2023 8:19 AM
+BAG:kokolo add 54xMảnh Quỷ đất mẹ (old: 53) lydo: Nhặt từ map at 03/29/2023 8:19 AM
+BAG:kokolo add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/29/2023 8:19 AM
+BAG:kokolo add 55xMảnh Quỷ đất mẹ (old: 54) lydo: Nhặt từ map at 03/29/2023 8:19 AM
+BAG:kokolo add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/29/2023 8:20 AM
+BAG:kokolo add 56xMảnh Quỷ đất mẹ (old: 55) lydo: Nhặt từ map at 03/29/2023 8:20 AM
+BAG:kokolo add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/29/2023 8:21 AM
+BAG:kokolo add 57xMảnh Quỷ đất (old: 56) lydo: Nhặt từ map at 03/29/2023 8:21 AM
+BAG:kokolo add 57xMảnh Quỷ đất mẹ (old: 56) lydo: Nhặt từ map at 03/29/2023 8:22 AM
+BAG:kokolo add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/29/2023 8:22 AM
+BAG:kokolo add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/29/2023 8:22 AM
+BAG:kokolo add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/29/2023 8:22 AM
+BAG:kokolo add 58xMảnh Quỷ đất mẹ (old: 57) lydo: Nhặt từ map at 03/29/2023 8:23 AM
+BAG:kokolo add 59xMảnh Quỷ đất mẹ (old: 58) lydo: Nhặt từ map at 03/29/2023 8:23 AM
+BAG:kokolo add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:kokolo add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:kokolo add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:kokolo add 60xMảnh Quỷ đất mẹ (old: 59) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:kokolo add 58xMảnh Quỷ đất (old: 57) lydo: Nhặt từ map at 03/29/2023 8:24 AM
+BAG:kokolo add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/29/2023 8:25 AM
+BAG:kokolo add 59xMảnh Quỷ đất (old: 58) lydo: Nhặt từ map at 03/29/2023 8:25 AM
+BAG:kokolo add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/29/2023 8:26 AM
+BAG:kokolo add 61xMảnh Quỷ đất mẹ (old: 60) lydo: Nhặt từ map at 03/29/2023 8:26 AM
+BAG:kokolo add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/29/2023 8:27 AM
+BAG:kokolo add 62xMảnh Quỷ đất mẹ (old: 61) lydo: Nhặt từ map at 03/29/2023 8:28 AM
+BAG:kokolo add 60xMảnh Quỷ đất (old: 59) lydo: Nhặt từ map at 03/29/2023 8:28 AM
+BAG:kokolo add 61xMảnh Quỷ đất (old: 60) lydo: Nhặt từ map at 03/29/2023 8:28 AM
+BAG:kokolo add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/29/2023 8:29 AM
+BAG:kokolo add 62xMảnh Quỷ đất (old: 61) lydo: Nhặt từ map at 03/29/2023 8:29 AM
+BAG:kokolo add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/29/2023 8:29 AM
+BAG:kokolo add 63xMảnh Quỷ đất (old: 62) lydo: Nhặt từ map at 03/29/2023 8:30 AM
+BAG:kokolo add 64xMảnh Quỷ đất (old: 63) lydo: Nhặt từ map at 03/29/2023 8:31 AM
+BAG:kokolo add 63xMảnh Quỷ đất mẹ (old: 62) lydo: Nhặt từ map at 03/29/2023 8:31 AM
+BAG:kokolo add 64xMảnh Quỷ đất mẹ (old: 63) lydo: Nhặt từ map at 03/29/2023 8:32 AM
+BAG:kokolo add 65xMảnh Quỷ đất (old: 64) lydo: Nhặt từ map at 03/29/2023 8:33 AM
+BAG:kokolo add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/29/2023 8:33 AM
+BAG:kokolo add 66xMảnh Quỷ đất (old: 65) lydo: Nhặt từ map at 03/29/2023 8:33 AM
+BAG:kokolo add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/29/2023 8:34 AM
+BAG:kokolo add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/29/2023 8:34 AM
+BAG:kokolo add 67xMảnh Quỷ đất (old: 66) lydo: Nhặt từ map at 03/29/2023 8:34 AM
+BAG:kokolo add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/29/2023 8:34 AM
+BAG:kokolo add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/29/2023 8:35 AM
+BAG:kokolo add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/29/2023 8:35 AM
+BAG:kokolo add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/29/2023 8:35 AM
+BAG:kokolo add 65xMảnh Quỷ đất mẹ (old: 64) lydo: Nhặt từ map at 03/29/2023 8:36 AM
+BAG:kokolo add 66xMảnh Quỷ đất mẹ (old: 65) lydo: Nhặt từ map at 03/29/2023 8:36 AM
+BAG:kokolo add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/29/2023 8:37 AM
+BAG:kokolo add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/29/2023 8:37 AM
+BAG:kokolo add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/29/2023 8:37 AM
+BAG:kokolo add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/29/2023 8:37 AM
+BAG:kokolo add 67xMảnh Quỷ đất mẹ (old: 66) lydo: Nhặt từ map at 03/29/2023 8:38 AM
+BAG:kokolo add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/29/2023 8:38 AM
+BAG:kokolo add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/29/2023 8:38 AM
+BAG:kokolo add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/29/2023 8:38 AM
+BAG:kokolo add 68xMảnh Quỷ đất mẹ (old: 67) lydo: Nhặt từ map at 03/29/2023 8:39 AM
+BAG:kokolo add 68xMảnh Quỷ đất (old: 67) lydo: Nhặt từ map at 03/29/2023 8:39 AM
+BAG:kokolo add 69xMảnh Quỷ đất mẹ (old: 68) lydo: Nhặt từ map at 03/29/2023 8:39 AM
+BAG:kokolo add 69xMảnh Quỷ đất (old: 68) lydo: Nhặt từ map at 03/29/2023 8:40 AM
+BAG:kokolo add 70xMảnh Quỷ đất (old: 69) lydo: Nhặt từ map at 03/29/2023 8:41 AM
+BAG:kokolo add 70xMảnh Quỷ đất mẹ (old: 69) lydo: Nhặt từ map at 03/29/2023 8:41 AM
+BAG:kokolo add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/29/2023 8:41 AM
+BAG:kokolo add 71xMảnh Quỷ đất (old: 70) lydo: Nhặt từ map at 03/29/2023 8:42 AM
+BAG:kokolo add 71xMảnh Quỷ đất mẹ (old: 70) lydo: Nhặt từ map at 03/29/2023 8:42 AM
+BAG:kokolo add 72xMảnh Quỷ đất mẹ (old: 71) lydo: Nhặt từ map at 03/29/2023 8:42 AM
+BAG:kokolo add 73xMảnh Quỷ đất mẹ (old: 72) lydo: Nhặt từ map at 03/29/2023 8:42 AM
+BAG:kokolo add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/29/2023 8:42 AM
+BAG:kokolo add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/29/2023 8:43 AM
+BAG:kokolo add 74xMảnh Quỷ đất mẹ (old: 73) lydo: Nhặt từ map at 03/29/2023 8:43 AM
+BAG:kokolo add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/29/2023 8:43 AM
+BAG:kokolo add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/29/2023 8:43 AM
+BAG:kokolo add 72xMảnh Quỷ đất (old: 71) lydo: Nhặt từ map at 03/29/2023 8:44 AM
+BAG:kokolo add 73xMảnh Quỷ đất (old: 72) lydo: Nhặt từ map at 03/29/2023 8:45 AM
+BAG:kokolo add 75xMảnh Quỷ đất mẹ (old: 74) lydo: Nhặt từ map at 03/29/2023 8:45 AM
+BAG:kokolo add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/29/2023 8:45 AM
+BAG:kokolo add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/29/2023 8:46 AM
+BAG:kokolo add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/29/2023 8:46 AM
+BAG:kokolo add 76xMảnh Quỷ đất mẹ (old: 75) lydo: Nhặt từ map at 03/29/2023 8:47 AM
+BAG:kokolo add 74xMảnh Quỷ đất (old: 73) lydo: Nhặt từ map at 03/29/2023 8:47 AM
+BAG:kokolo add 75xMảnh Quỷ đất (old: 74) lydo: Nhặt từ map at 03/29/2023 8:47 AM
+BAG:kokolo add 77xMảnh Quỷ đất mẹ (old: 76) lydo: Nhặt từ map at 03/29/2023 8:48 AM
+BAG:kokolo add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/29/2023 8:48 AM
+BAG:kokolo add 76xMảnh Quỷ đất (old: 75) lydo: Nhặt từ map at 03/29/2023 8:48 AM
+BAG:kokolo add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/29/2023 8:49 AM
+BAG:kokolo add 78xMảnh Quỷ đất mẹ (old: 77) lydo: Nhặt từ map at 03/29/2023 8:49 AM
+BAG:kokolo add 79xMảnh Quỷ đất mẹ (old: 78) lydo: Nhặt từ map at 03/29/2023 8:50 AM
+BAG:kokolo add 80xMảnh Quỷ đất mẹ (old: 79) lydo: Nhặt từ map at 03/29/2023 8:51 AM
+BAG:kokolo add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/29/2023 8:51 AM
+BAG:kokolo add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/29/2023 8:51 AM
+BAG:kokolo add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/29/2023 8:51 AM
+BAG:kokolo add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/29/2023 8:51 AM
+BAG:kokolo add 77xMảnh Quỷ đất (old: 76) lydo: Nhặt từ map at 03/29/2023 8:51 AM
+BAG:kokolo add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/29/2023 8:52 AM
+BAG:kokolo add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/29/2023 8:52 AM
+BAG:kokolo add 78xMảnh Quỷ đất (old: 77) lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:kokolo add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/29/2023 8:53 AM
+BAG:kokolo add 81xMảnh Quỷ đất mẹ (old: 80) lydo: Nhặt từ map at 03/29/2023 8:54 AM
+BAG:kokolo add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/29/2023 8:55 AM
+BAG:kokolo add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/29/2023 8:55 AM
+BAG:kokolo add 82xMảnh Quỷ đất mẹ (old: 81) lydo: Nhặt từ map at 03/29/2023 8:55 AM
+BAG:kokolo add 83xMảnh Quỷ đất mẹ (old: 82) lydo: Nhặt từ map at 03/29/2023 8:56 AM
+BAG:kokolo add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/29/2023 8:56 AM
+BAG:kokolo add 79xMảnh Quỷ đất (old: 78) lydo: Nhặt từ map at 03/29/2023 8:56 AM
+BAG:kokolo add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/29/2023 8:56 AM
+BAG:kokolo add 80xMảnh Quỷ đất (old: 79) lydo: Nhặt từ map at 03/29/2023 8:57 AM
+BAG:kokolo add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:kokolo add 81xMảnh Quỷ đất (old: 80) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:kokolo add 84xMảnh Quỷ đất mẹ (old: 83) lydo: Nhặt từ map at 03/29/2023 8:58 AM
+BAG:kokolo add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/29/2023 8:59 AM
+BAG:kokolo add 82xMảnh Quỷ đất (old: 81) lydo: Nhặt từ map at 03/29/2023 8:59 AM
+BAG:kokolo add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/29/2023 9:00 AM
+BAG:kokolo add 83xMảnh Quỷ đất (old: 82) lydo: Nhặt từ map at 03/29/2023 9:00 AM
+BAG:kokolo add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/29/2023 9:01 AM
+BAG:kokolo add 85xMảnh Quỷ đất mẹ (old: 84) lydo: Nhặt từ map at 03/29/2023 9:01 AM
+BAG:kokolo add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/29/2023 9:01 AM
+BAG:kokolo add 86xMảnh Quỷ đất mẹ (old: 85) lydo: Nhặt từ map at 03/29/2023 9:01 AM
+BAG:kokolo add 87xMảnh Quỷ đất mẹ (old: 86) lydo: Nhặt từ map at 03/29/2023 9:02 AM
+BAG:kokolo add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/29/2023 9:02 AM
+BAG:kokolo add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/29/2023 9:03 AM
+BAG:kokolo add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/29/2023 9:03 AM
+BAG:kokolo add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/29/2023 9:03 AM
+BAG:kokolo add 84xMảnh Quỷ đất (old: 83) lydo: Nhặt từ map at 03/29/2023 9:03 AM
+BAG:kokolo add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/29/2023 9:04 AM
+BAG:kokolo add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/29/2023 9:04 AM
+BAG:kokolo add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/29/2023 9:04 AM
+BAG:kokolo add 85xMảnh Quỷ đất (old: 84) lydo: Nhặt từ map at 03/29/2023 9:05 AM
+BAG:kokolo add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/29/2023 9:05 AM
+BAG:kokolo add 86xMảnh Quỷ đất (old: 85) lydo: Nhặt từ map at 03/29/2023 9:05 AM
+BAG:kokolo add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:kokolo add 88xMảnh Quỷ đất mẹ (old: 87) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:kokolo add 87xMảnh Quỷ đất (old: 86) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:kokolo add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:kokolo add 88xMảnh Quỷ đất (old: 87) lydo: Nhặt từ map at 03/29/2023 9:06 AM
+BAG:kokolo add 89xMảnh Quỷ đất (old: 88) lydo: Nhặt từ map at 03/29/2023 9:07 AM
+BAG:kokolo add 89xMảnh Quỷ đất mẹ (old: 88) lydo: Nhặt từ map at 03/29/2023 9:07 AM
+BAG:kokolo add 90xMảnh Quỷ đất mẹ (old: 89) lydo: Nhặt từ map at 03/29/2023 9:07 AM
+BAG:kokolo add 91xMảnh Quỷ đất mẹ (old: 90) lydo: Nhặt từ map at 03/29/2023 9:08 AM
+BAG:kokolo add 90xMảnh Quỷ đất (old: 89) lydo: Nhặt từ map at 03/29/2023 9:08 AM
+BAG:kokolo add 92xMảnh Quỷ đất mẹ (old: 91) lydo: Nhặt từ map at 03/29/2023 9:08 AM
+BAG:kokolo add 93xMảnh Quỷ đất mẹ (old: 92) lydo: Nhặt từ map at 03/29/2023 9:08 AM
+BAG:kokolo add 94xMảnh Quỷ đất mẹ (old: 93) lydo: Nhặt từ map at 03/29/2023 9:09 AM
+BAG:kokolo add 91xMảnh Quỷ đất (old: 90) lydo: Nhặt từ map at 03/29/2023 9:10 AM
+BAG:kokolo add 95xMảnh Quỷ đất mẹ (old: 94) lydo: Nhặt từ map at 03/29/2023 9:10 AM
+BAG:kokolo add 92xMảnh Quỷ đất (old: 91) lydo: Nhặt từ map at 03/29/2023 9:12 AM
+BAG:kokolo add 96xMảnh Quỷ đất mẹ (old: 95) lydo: Nhặt từ map at 03/29/2023 9:12 AM
+BAG:kokolo add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/29/2023 9:13 AM
+BAG:kokolo add 97xMảnh Quỷ đất mẹ (old: 96) lydo: Nhặt từ map at 03/29/2023 9:13 AM
+BAG:kokolo add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/29/2023 9:13 AM
+BAG:kokolo add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/29/2023 9:13 AM
+BAG:kokolo add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/29/2023 9:15 AM
+BAG:kokolo add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/29/2023 9:16 AM
+BAG:kokolo add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/29/2023 9:16 AM
+BAG:kokolo add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/29/2023 9:17 AM
+BAG:kokolo add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/29/2023 9:17 AM
+BAG:kokolo add 93xMảnh Quỷ đất (old: 92) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:kokolo add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:kokolo add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:kokolo add 94xMảnh Quỷ đất (old: 93) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:kokolo add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:kokolo add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/29/2023 9:18 AM
+BAG:kokolo add 95xMảnh Quỷ đất (old: 94) lydo: Nhặt từ map at 03/29/2023 9:19 AM
+BAG:kokolo add 98xMảnh Quỷ đất mẹ (old: 97) lydo: Nhặt từ map at 03/29/2023 9:19 AM
+BAG:kokolo add 96xMảnh Quỷ đất (old: 95) lydo: Nhặt từ map at 03/29/2023 9:20 AM
+BAG:kokolo add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/29/2023 9:20 AM
+BAG:kokolo add 97xMảnh Quỷ đất (old: 96) lydo: Nhặt từ map at 03/29/2023 9:20 AM
+BAG:kokolo add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/29/2023 9:21 AM
+BAG:kokolo add 98xMảnh Quỷ đất (old: 97) lydo: Nhặt từ map at 03/29/2023 9:21 AM
+BAG:kokolo add 99xMảnh Quỷ đất (old: 98) lydo: Nhặt từ map at 03/29/2023 9:22 AM
+BAG:kokolo add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/29/2023 9:22 AM
+BAG:kokolo add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/29/2023 9:22 AM
+BAG:kokolo add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/29/2023 9:24 AM
+BAG:kokolo add 99xMảnh Quỷ đất mẹ (old: 98) lydo: Nhặt từ map at 03/29/2023 9:25 AM
+BAG:kokolo add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/29/2023 9:25 AM
+BAG:kokolo add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/29/2023 9:25 AM
+BAG:kokolo add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/29/2023 9:25 AM
+BAG:kokolo add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/29/2023 9:25 AM
+BAG:kokolo add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/29/2023 9:26 AM
+BAG:kokolo add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/29/2023 9:26 AM
+BAG:kokolo add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/29/2023 9:27 AM
+BAG:kokolo add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/29/2023 9:28 AM
+BAG:kokolo add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/29/2023 9:28 AM
+BAG:kokolo add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/29/2023 9:28 AM
+BAG:kokolo add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/29/2023 9:29 AM
+BAG:kokolo add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/29/2023 9:30 AM
+BAG:kokolo add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/29/2023 9:31 AM
+BAG:kokolo add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/29/2023 9:34 AM
+BAG:kokolo add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/29/2023 9:34 AM
+BAG:kokolo add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/29/2023 9:34 AM
+BAG:kokolo add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/29/2023 9:35 AM
+BAG:kokolo add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/29/2023 9:35 AM
+BAG:kokolo add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/29/2023 9:36 AM
+BAG:kokolo add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/29/2023 9:36 AM
+BAG:kokolo add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/29/2023 9:37 AM
+BAG:kokolo add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/29/2023 9:37 AM
+BAG:kokolo add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/29/2023 9:38 AM
+BAG:kokolo add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/29/2023 9:40 AM
+BAG:kokolo add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/29/2023 9:41 AM
+BAG:kokolo add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/29/2023 9:42 AM
+BAG:kokolo add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/29/2023 9:46 AM
+BAG:kokolo add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/29/2023 9:46 AM
+BAG:kokolo add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/29/2023 9:48 AM
+BAG:kokolo add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/29/2023 9:48 AM
+BAG:kokolo add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/29/2023 9:49 AM
+BAG:kokolo add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/29/2023 9:50 AM
+BAG:kokolo add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/29/2023 9:51 AM
+BAG:kokolo add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/29/2023 9:51 AM
+BAG:kokolo add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/29/2023 9:52 AM
+BAG:kokolo add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/29/2023 9:52 AM
+BAG:kokolo add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/29/2023 9:53 AM
+BAG:kokolo add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/29/2023 9:53 AM
+BAG:kokolo add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/29/2023 9:54 AM
+BAG:kokolo add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/29/2023 9:54 AM
+BAG:kokolo add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/29/2023 9:55 AM
+BAG:kokolo add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/29/2023 9:55 AM
+BAG:kokolo add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/29/2023 9:56 AM
+BAG:kokolo add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/29/2023 9:57 AM
+BAG:kokolo add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/29/2023 9:57 AM
+BAG:kokolo add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/29/2023 9:59 AM
+BAG:kokolo add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/29/2023 10:00 AM
+BAG:kokolo add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/29/2023 10:00 AM
+BAG:kokolo add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/29/2023 10:00 AM
+BAG:kokolo add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/29/2023 10:00 AM
+BAG:kokolo add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/29/2023 10:03 AM
+BAG:kokolo add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/29/2023 10:03 AM
+BAG:kokolo add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/29/2023 10:03 AM
+BAG:kokolo add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/29/2023 10:04 AM
+BAG:kokolo add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/29/2023 10:05 AM
+BAG:kokolo add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/29/2023 10:06 AM
+BAG:kokolo add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/29/2023 10:07 AM
+BAG:kokolo add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/29/2023 10:09 AM
+BAG:kokolo add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/29/2023 10:09 AM
+BAG:kokolo add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/29/2023 10:10 AM
+BAG:kokolo add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/29/2023 10:10 AM
+BAG:kokolo add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/29/2023 10:11 AM
+BAG:kokolo add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/29/2023 10:11 AM
+BAG:kokolo add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/29/2023 10:12 AM
+BAG:kokolo add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/29/2023 10:12 AM
+BAG:kokolo add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/29/2023 10:13 AM
+BAG:kokolo add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/29/2023 10:13 AM
+BAG:kokolo add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/29/2023 10:13 AM
+BAG:kokolo add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/29/2023 10:14 AM
+BAG:kokolo add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/29/2023 10:17 AM
+BAG:kokolo add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/29/2023 10:18 AM
+BAG:kokolo add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/29/2023 10:18 AM
+BAG:kokolo add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/29/2023 10:18 AM
+BAG:kokolo add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/29/2023 10:18 AM
+BAG:kokolo add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/29/2023 10:18 AM
+BAG:kokolo add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/29/2023 10:19 AM
+BAG:kokolo add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/29/2023 10:20 AM
+BAG:kokolo add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/29/2023 10:21 AM
+BAG:kokolo add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/29/2023 10:21 AM
+BAG:kokolo add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/29/2023 10:22 AM
+BAG:kokolo add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/29/2023 10:25 AM
+BAG:kokolo add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/29/2023 10:26 AM
+BAG:kokolo add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/29/2023 10:26 AM
+BAG:kokolo add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/29/2023 10:27 AM
+BAG:kokolo add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/29/2023 10:28 AM
+BAG:kokolo add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/29/2023 10:28 AM
+BAG:kokolo add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/29/2023 10:28 AM
+BAG:kokolo add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/29/2023 10:29 AM
+BAG:kokolo add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 03/29/2023 10:29 AM
+BAG:kokolo add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/29/2023 10:30 AM
+BAG:kokolo add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 03/29/2023 10:30 AM
+BAG:kokolo add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/29/2023 10:30 AM
+BAG:kokolo add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 03/29/2023 10:31 AM
+BAG:kokolo add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/29/2023 10:31 AM
+BAG:kokolo add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 03/29/2023 10:31 AM
+BAG:kokolo add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/29/2023 10:33 AM
+BAG:kokolo add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 03/29/2023 10:33 AM
+BAG:kokolo add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/29/2023 10:33 AM
+BAG:kokolo add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 03/29/2023 10:35 AM
+BAG:kokolo add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 03/29/2023 10:35 AM
+BAG:kokolo add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/29/2023 10:45 AM
+BAG:kokolo add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/29/2023 10:46 AM
+BAG:kokolo add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/29/2023 10:48 AM
+BAG:kokolo add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/29/2023 10:48 AM
+BAG:kokolo add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/29/2023 10:48 AM
+BAG:kokolo add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 03/29/2023 10:50 AM
+BAG:kokolo add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/29/2023 10:50 AM
+BAG:kokolo add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/29/2023 10:51 AM
+BAG:kokolo add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/29/2023 10:51 AM
+BAG:kokolo add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/29/2023 10:51 AM
+BAG:kokolo add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 03/29/2023 10:52 AM
+BAG:kokolo add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 03/29/2023 10:53 AM
+BAG:kokolo add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 03/29/2023 10:54 AM
+BAG:kokolo add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 03/29/2023 10:54 AM
+BAG:kokolo add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/29/2023 10:54 AM
+BAG:kokolo add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/29/2023 10:55 AM
+BAG:kokolo add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 03/29/2023 10:55 AM
+BAG:kokolo add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/29/2023 10:57 AM
+BAG:kokolo add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/29/2023 10:57 AM
+BAG:kokolo add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/29/2023 11:02 AM
+BAG:kokolo add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/29/2023 11:04 AM
+BAG:kokolo add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:kokolo add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/29/2023 11:05 AM
+BAG:kokolo add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/29/2023 11:06 AM
+BAG:kokolo add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:kokolo add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:kokolo add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:kokolo add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/29/2023 11:08 AM
+BAG:kokolo add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:kokolo add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/29/2023 11:10 AM
+BAG:kokolo add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 03/29/2023 11:11 AM
+BAG:kokolo add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:kokolo add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 03/29/2023 11:12 AM
+BAG:kokolo add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/29/2023 11:15 AM
+BAG:kokolo add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:kokolo add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 03/29/2023 11:16 AM
+BAG:kokolo add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 03/29/2023 11:17 AM
+BAG:kokolo add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/29/2023 11:18 AM
+BAG:kokolo add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/29/2023 11:18 AM
+BAG:kokolo add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 03/29/2023 11:18 AM
+BAG:kokolo add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 03/29/2023 11:19 AM
+BAG:kokolo add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:kokolo add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:kokolo add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 03/29/2023 11:20 AM
+BAG:kokolo add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:kokolo add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:kokolo add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:kokolo add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/29/2023 11:21 AM
+BAG:kokolo add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:kokolo add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:kokolo add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:kokolo add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:kokolo add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/29/2023 11:22 AM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:kokolo add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:kokolo add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 11:23 AM
+BAG:kokolo add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:kokolo add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:kokolo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:kokolo add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:kokolo add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/29/2023 11:26 AM
+BAG:kokolo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 11:26 AM
+BAG:kokolo add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/29/2023 11:27 AM
+BAG:kokolo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:kokolo add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/29/2023 11:27 AM
+BAG:kokolo add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/29/2023 11:27 AM
+BAG:kokolo add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/29/2023 11:27 AM
+BAG:kokolo add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/29/2023 11:27 AM
+BAG:kokolo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 11:28 AM
+BAG:kokolo add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:kokolo add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 11:29 AM
+BAG:kokolo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:kokolo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 11:31 AM
+BAG:kokolo add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:kokolo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 11:32 AM
+BAG:kokolo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:kokolo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:kokolo add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:kokolo add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 11:33 AM
+BAG:kokolo add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:kokolo add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:kokolo add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:kokolo add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:kokolo add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:34 AM
+BAG:kokolo add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:kokolo add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:kokolo add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:kokolo add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:kokolo add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/29/2023 11:35 AM
+BAG:kokolo add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/29/2023 11:36 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:36 AM
+BAG:kokolo add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 11:36 AM
+BAG:kokolo add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:kokolo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:kokolo add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/29/2023 11:37 AM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:kokolo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 11:38 AM
+BAG:kokolo add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:kokolo add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/29/2023 11:39 AM
+BAG:kokolo add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:kokolo add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 11:40 AM
+BAG:kokolo add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:kokolo add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:kokolo add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:kokolo add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:kokolo add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 03/29/2023 11:41 AM
+BAG:kokolo add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:kokolo add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:kokolo add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:kokolo add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:kokolo add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 03/29/2023 11:42 AM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 11:43 AM
+BAG:kokolo add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:kokolo add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:kokolo add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:kokolo add 24xMảnh Quỷ đất (old: 23) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:kokolo add 25xMảnh Quỷ đất (old: 24) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:kokolo add 26xMảnh Quỷ đất (old: 25) lydo: Nhặt từ map at 03/29/2023 11:44 AM
+BAG:kokolo add 27xMảnh Quỷ đất (old: 26) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:kokolo add 28xMảnh Quỷ đất (old: 27) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:kokolo add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/29/2023 11:45 AM
+BAG:kokolo add 29xMảnh Quỷ đất (old: 28) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:kokolo add 30xMảnh Quỷ đất (old: 29) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:kokolo add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:kokolo add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/29/2023 11:46 AM
+BAG:kokolo add 31xMảnh Quỷ đất (old: 30) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:kokolo add 32xMảnh Quỷ đất (old: 31) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:kokolo add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:kokolo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:kokolo add 33xMảnh Quỷ đất (old: 32) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:kokolo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 11:47 AM
+BAG:kokolo add 34xMảnh Quỷ đất (old: 33) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:kokolo add 35xMảnh Quỷ đất (old: 34) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:kokolo add 36xMảnh Quỷ đất (old: 35) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:kokolo add 37xMảnh Quỷ đất (old: 36) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:kokolo add 38xMảnh Quỷ đất (old: 37) lydo: Nhặt từ map at 03/29/2023 11:48 AM
+BAG:kokolo add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:kokolo add 39xMảnh Quỷ đất (old: 38) lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 11:49 AM
+BAG:kokolo add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:kokolo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:kokolo add 40xMảnh Quỷ đất (old: 39) lydo: Nhặt từ map at 03/29/2023 11:50 AM
+BAG:kokolo add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/29/2023 11:51 AM
+BAG:kokolo add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/29/2023 11:51 AM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 11:51 AM
+BAG:kokolo add 41xMảnh Quỷ đất (old: 40) lydo: Nhặt từ map at 03/29/2023 11:51 AM
+BAG:kokolo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/29/2023 11:52 AM
+BAG:kokolo add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 11:53 AM
+BAG:kokolo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 11:53 AM
+BAG:kokolo add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 11:53 AM
+BAG:kokolo add 42xMảnh Quỷ đất (old: 41) lydo: Nhặt từ map at 03/29/2023 11:54 AM
+BAG:kokolo add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/29/2023 11:55 AM
+BAG:kokolo add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/29/2023 11:55 AM
+BAG:kokolo add 43xMảnh Quỷ đất (old: 42) lydo: Nhặt từ map at 03/29/2023 11:56 AM
+BAG:kokolo add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/29/2023 11:56 AM
+BAG:kokolo add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/29/2023 11:56 AM
+BAG:kokolo add 44xMảnh Quỷ đất (old: 43) lydo: Nhặt từ map at 03/29/2023 11:56 AM
+BAG:kokolo add 45xMảnh Quỷ đất (old: 44) lydo: Nhặt từ map at 03/29/2023 11:56 AM
+BAG:kokolo add 46xMảnh Quỷ đất (old: 45) lydo: Nhặt từ map at 03/29/2023 11:57 AM
+BAG:kokolo add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/29/2023 11:58 AM
+BAG:kokolo add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/29/2023 11:58 AM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 11:58 AM
+BAG:kokolo add 47xMảnh Quỷ đất (old: 46) lydo: Nhặt từ map at 03/29/2023 11:58 AM
+BAG:kokolo add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/29/2023 11:59 AM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 11:59 AM
+BAG:kokolo add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 11:59 AM
+BAG:kokolo add 48xMảnh Quỷ đất (old: 47) lydo: Nhặt từ map at 03/29/2023 12:00 PM
+BAG:kokolo add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/29/2023 12:00 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 12:00 PM
+BAG:kokolo add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/29/2023 12:44 PM
+BAG:kokolo add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/29/2023 12:44 PM
+BAG:kokolo add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 12:44 PM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 12:45 PM
+BAG:kokolo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 12:45 PM
+BAG:kokolo add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/29/2023 12:46 PM
+BAG:kokolo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/29/2023 12:47 PM
+BAG:kokolo add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/29/2023 12:48 PM
+BAG:kokolo add 25xThỏi vàng lydo: Đổi vàng at 03/29/2023 12:49 PM
+BAG:kokolo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 12:54 PM
+BAG:kokolo add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 12:54 PM
+BAG:kokolo add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 12:54 PM
+BAG:kokolo add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 12:55 PM
+BAG:kokolo add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 12:56 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 12:57 PM
+BAG:kokolo add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/29/2023 12:57 PM
+BAG:kokolo add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/29/2023 12:58 PM
+BAG:kokolo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 1:00 PM
+BAG:kokolo add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 1:00 PM
+BAG:kokolo add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/29/2023 1:00 PM
+BAG:kokolo add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 1:00 PM
+BAG:kokolo add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/29/2023 1:01 PM
+BAG:kokolo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 1:02 PM
+BAG:kokolo add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:kokolo add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:kokolo add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/29/2023 1:04 PM
+BAG:kokolo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 1:04 PM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 1:04 PM
+BAG:kokolo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 1:04 PM
+BAG:kokolo add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/29/2023 1:05 PM
+BAG:kokolo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 1:05 PM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 1:05 PM
+BAG:kokolo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 1:06 PM
+BAG:kokolo add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 1:06 PM
+BAG:kokolo add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 1:06 PM
+BAG:kokolo add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 1:06 PM
+BAG:kokolo add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/29/2023 1:07 PM
+BAG:kokolo add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/29/2023 1:07 PM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 1:08 PM
+BAG:kokolo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 1:08 PM
+BAG:kokolo add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/29/2023 1:08 PM
+BAG:kokolo add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/29/2023 1:08 PM
+BAG:kokolo add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 1:09 PM
+BAG:kokolo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 1:09 PM
+BAG:kokolo add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 1:09 PM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:kokolo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:kokolo add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:kokolo add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:kokolo add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:kokolo add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:kokolo add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/29/2023 1:11 PM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 1:11 PM
+BAG:kokolo add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/29/2023 1:11 PM
+BAG:kokolo add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/29/2023 1:11 PM
+BAG:kokolo add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/29/2023 1:11 PM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 1:12 PM
+BAG:kokolo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 1:12 PM
+BAG:kokolo add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/29/2023 1:12 PM
+BAG:kokolo add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/29/2023 1:12 PM
+BAG:kokolo add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/29/2023 1:12 PM
+BAG:kokolo add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/29/2023 1:12 PM
+BAG:kokolo add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/29/2023 1:13 PM
+BAG:kokolo add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 1:13 PM
+BAG:kokolo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 1:14 PM
+BAG:kokolo add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/29/2023 1:14 PM
+BAG:kokolo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 1:14 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 1:14 PM
+BAG:kokolo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 1:14 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 1:15 PM
+BAG:kokolo add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 1:15 PM
+BAG:kokolo add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 1:16 PM
+BAG:kokolo add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/29/2023 1:16 PM
+BAG:kokolo add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/29/2023 1:17 PM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 1:17 PM
+BAG:kokolo add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/29/2023 1:17 PM
+BAG:kokolo add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/29/2023 1:17 PM
+BAG:kokolo add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:kokolo add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:kokolo add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/29/2023 1:19 PM
+BAG:kokolo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/29/2023 1:20 PM
+BAG:kokolo add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:kokolo add 27xMảnh Khủng long (old: 26) lydo: Nhặt từ map at 03/29/2023 1:21 PM
+BAG:kokolo add 28xMảnh Khủng long (old: 27) lydo: Nhặt từ map at 03/29/2023 1:22 PM
+BAG:kokolo add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 1:22 PM
+BAG:kokolo add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/29/2023 1:23 PM
+BAG:kokolo add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 1:23 PM
+BAG:kokolo add 29xMảnh Khủng long (old: 28) lydo: Nhặt từ map at 03/29/2023 1:23 PM
+BAG:kokolo add 30xMảnh Khủng long (old: 29) lydo: Nhặt từ map at 03/29/2023 1:23 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:kokolo add 31xMảnh Khủng long (old: 30) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:kokolo add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:kokolo add 32xMảnh Khủng long (old: 31) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:kokolo add 33xMảnh Khủng long (old: 32) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:kokolo add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:kokolo add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:kokolo add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:kokolo add 34xMảnh Khủng long (old: 33) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:kokolo add 35xMảnh Khủng long (old: 34) lydo: Nhặt từ map at 03/29/2023 1:26 PM
+BAG:kokolo add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:kokolo add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:kokolo add 36xMảnh Khủng long (old: 35) lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 1:27 PM
+BAG:kokolo add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/29/2023 1:28 PM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 1:28 PM
+BAG:kokolo add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/29/2023 1:28 PM
+BAG:kokolo add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/29/2023 1:28 PM
+BAG:kokolo add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/29/2023 1:29 PM
+BAG:kokolo add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/29/2023 1:30 PM
+BAG:kokolo add 37xMảnh Khủng long (old: 36) lydo: Nhặt từ map at 03/29/2023 1:30 PM
+BAG:kokolo add 38xMảnh Khủng long (old: 37) lydo: Nhặt từ map at 03/29/2023 1:30 PM
+BAG:kokolo add 39xMảnh Khủng long (old: 38) lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:kokolo add 40xMảnh Khủng long (old: 39) lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:kokolo add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:kokolo add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 1:31 PM
+BAG:kokolo add 41xMảnh Khủng long (old: 40) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:kokolo add 42xMảnh Khủng long (old: 41) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:kokolo add 43xMảnh Khủng long (old: 42) lydo: Nhặt từ map at 03/29/2023 1:32 PM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:kokolo add 44xMảnh Khủng long (old: 43) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:kokolo add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:kokolo add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/29/2023 1:33 PM
+BAG:kokolo add 45xMảnh Khủng long (old: 44) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:kokolo add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:kokolo add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:kokolo add 46xMảnh Khủng long (old: 45) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:kokolo add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:kokolo add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/29/2023 1:34 PM
+BAG:kokolo add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 1:35 PM
+BAG:kokolo add 47xMảnh Khủng long (old: 46) lydo: Nhặt từ map at 03/29/2023 1:35 PM
+BAG:kokolo add 48xMảnh Khủng long (old: 47) lydo: Nhặt từ map at 03/29/2023 1:35 PM
+BAG:kokolo add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/29/2023 1:35 PM
+BAG:kokolo add 49xMảnh Khủng long (old: 48) lydo: Nhặt từ map at 03/29/2023 1:35 PM
+BAG:kokolo add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/29/2023 1:35 PM
+BAG:kokolo add 50xMảnh Khủng long (old: 49) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:kokolo add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/29/2023 1:36 PM
+BAG:kokolo add 51xMảnh Khủng long (old: 50) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:kokolo add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/29/2023 1:37 PM
+BAG:kokolo add 52xMảnh Khủng long (old: 51) lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:kokolo add 53xMảnh Khủng long (old: 52) lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:kokolo add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:kokolo add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/29/2023 1:38 PM
+BAG:kokolo add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/29/2023 1:39 PM
+BAG:kokolo add 54xMảnh Khủng long (old: 53) lydo: Nhặt từ map at 03/29/2023 1:39 PM
+BAG:kokolo add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/29/2023 1:39 PM
+BAG:kokolo add 55xMảnh Khủng long (old: 54) lydo: Nhặt từ map at 03/29/2023 1:39 PM
+BAG:kokolo add 56xMảnh Khủng long (old: 55) lydo: Nhặt từ map at 03/29/2023 1:39 PM
+BAG:kokolo add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:kokolo add 57xMảnh Khủng long (old: 56) lydo: Nhặt từ map at 03/29/2023 1:40 PM
+BAG:kokolo add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/29/2023 1:41 PM
+BAG:kokolo add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/29/2023 1:41 PM
+BAG:kokolo add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/29/2023 1:42 PM
+BAG:kokolo add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/29/2023 1:42 PM
+BAG:kokolo add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/29/2023 1:42 PM
+BAG:kokolo add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:kokolo add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:kokolo add 58xMảnh Khủng long (old: 57) lydo: Nhặt từ map at 03/29/2023 1:43 PM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 1:44 PM
+BAG:kokolo add 59xMảnh Khủng long (old: 58) lydo: Nhặt từ map at 03/29/2023 1:44 PM
+BAG:kokolo add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:kokolo add 60xMảnh Khủng long (old: 59) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:kokolo add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:kokolo add 61xMảnh Khủng long (old: 60) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:kokolo add 62xMảnh Khủng long (old: 61) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:kokolo add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:kokolo add 63xMảnh Khủng long (old: 62) lydo: Nhặt từ map at 03/29/2023 1:45 PM
+BAG:kokolo add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:kokolo add 64xMảnh Khủng long (old: 63) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:kokolo add 65xMảnh Khủng long (old: 64) lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 1:46 PM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:kokolo add 66xMảnh Khủng long (old: 65) lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:kokolo add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/29/2023 1:47 PM
+BAG:kokolo add 67xMảnh Khủng long (old: 66) lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 1:48 PM
+BAG:kokolo add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:kokolo add 68xMảnh Khủng long (old: 67) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:kokolo add 69xMảnh Khủng long (old: 68) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:kokolo add 70xMảnh Khủng long (old: 69) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:kokolo add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/29/2023 1:49 PM
+BAG:kokolo add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/29/2023 1:50 PM
+BAG:kokolo add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/29/2023 1:50 PM
+BAG:kokolo add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:kokolo add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:kokolo add 71xMảnh Khủng long (old: 70) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:kokolo add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/29/2023 1:52 PM
+BAG:kokolo add 72xMảnh Khủng long (old: 71) lydo: Nhặt từ map at 03/29/2023 1:53 PM
+BAG:kokolo add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/29/2023 1:55 PM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 1:56 PM
+BAG:kokolo add 73xMảnh Khủng long (old: 72) lydo: Nhặt từ map at 03/29/2023 1:56 PM
+BAG:kokolo add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 1:57 PM
+BAG:kokolo add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/29/2023 1:57 PM
+BAG:kokolo add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/29/2023 1:58 PM
+BAG:kokolo add 74xMảnh Khủng long (old: 73) lydo: Nhặt từ map at 03/29/2023 1:58 PM
+BAG:kokolo add 75xMảnh Khủng long (old: 74) lydo: Nhặt từ map at 03/29/2023 1:58 PM
+BAG:kokolo add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/29/2023 1:59 PM
+BAG:kokolo add 1xGiầy vải thô lydo: Nhặt từ map at 03/29/2023 1:59 PM
+BAG:kokolo add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/29/2023 1:59 PM
+BAG:kokolo add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/29/2023 1:59 PM
+BAG:kokolo add 76xMảnh Khủng long (old: 75) lydo: Nhặt từ map at 03/29/2023 2:00 PM
+BAG:kokolo add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/29/2023 2:01 PM
+BAG:kokolo add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/29/2023 2:02 PM
+BAG:kokolo add 77xMảnh Khủng long (old: 76) lydo: Nhặt từ map at 03/29/2023 2:03 PM
+BAG:kokolo add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/29/2023 2:05 PM
+BAG:kokolo add 78xMảnh Khủng long (old: 77) lydo: Nhặt từ map at 03/29/2023 2:05 PM
+BAG:kokolo add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/29/2023 2:06 PM
+BAG:kokolo add 79xMảnh Khủng long (old: 78) lydo: Nhặt từ map at 03/29/2023 2:06 PM
+BAG:kokolo add 80xMảnh Khủng long (old: 79) lydo: Nhặt từ map at 03/29/2023 2:06 PM
+BAG:kokolo add 81xMảnh Khủng long (old: 80) lydo: Nhặt từ map at 03/29/2023 2:06 PM
+BAG:kokolo add 82xMảnh Khủng long (old: 81) lydo: Nhặt từ map at 03/29/2023 2:07 PM
+BAG:kokolo add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/29/2023 2:07 PM
+BAG:kokolo add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/29/2023 2:07 PM
+BAG:kokolo add 83xMảnh Khủng long (old: 82) lydo: Nhặt từ map at 03/29/2023 2:07 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 4:55 PM
+BAG:kokolo add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/29/2023 4:55 PM
+BAG:kokolo add 84xMảnh Khủng long (old: 83) lydo: Nhặt từ map at 03/29/2023 4:55 PM
+BAG:kokolo add 85xMảnh Khủng long (old: 84) lydo: Nhặt từ map at 03/29/2023 4:55 PM
+BAG:kokolo add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/29/2023 4:56 PM
+BAG:kokolo add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/29/2023 4:56 PM
+BAG:kokolo add 86xMảnh Khủng long (old: 85) lydo: Nhặt từ map at 03/29/2023 4:56 PM
+BAG:kokolo add 87xMảnh Khủng long (old: 86) lydo: Nhặt từ map at 03/29/2023 4:57 PM
+BAG:kokolo add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/29/2023 4:57 PM
+BAG:kokolo add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/29/2023 4:57 PM
+BAG:kokolo add 88xMảnh Khủng long (old: 87) lydo: Nhặt từ map at 03/29/2023 4:57 PM
+BAG:kokolo add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/29/2023 4:57 PM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 4:57 PM
+BAG:kokolo add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/29/2023 4:57 PM
+BAG:kokolo add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/29/2023 4:58 PM
+BAG:kokolo add 89xMảnh Khủng long (old: 88) lydo: Nhặt từ map at 03/29/2023 4:58 PM
+BAG:kokolo add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/29/2023 4:58 PM
+BAG:kokolo add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/29/2023 4:59 PM
+BAG:kokolo add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/29/2023 4:59 PM
+BAG:kokolo add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/29/2023 4:59 PM
+BAG:kokolo add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/29/2023 4:59 PM
+BAG:kokolo add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/29/2023 5:00 PM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 5:00 PM
+BAG:kokolo add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/29/2023 5:00 PM
+BAG:kokolo add 90xMảnh Khủng long (old: 89) lydo: Nhặt từ map at 03/29/2023 5:01 PM
+BAG:kokolo add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/29/2023 5:01 PM
+BAG:kokolo add 91xMảnh Khủng long (old: 90) lydo: Nhặt từ map at 03/29/2023 5:02 PM
+BAG:kokolo add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/29/2023 5:03 PM
+BAG:kokolo add 92xMảnh Khủng long (old: 91) lydo: Nhặt từ map at 03/29/2023 5:03 PM
+BAG:kokolo add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/29/2023 5:04 PM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 5:04 PM
+BAG:kokolo add 93xMảnh Khủng long (old: 92) lydo: Nhặt từ map at 03/29/2023 5:04 PM
+BAG:kokolo add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/29/2023 5:04 PM
+BAG:kokolo add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/29/2023 5:04 PM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 5:04 PM
+BAG:kokolo add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/29/2023 5:04 PM
+BAG:kokolo add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/29/2023 5:05 PM
+BAG:kokolo add 1xÁo vải thô lydo: Nhặt từ map at 03/29/2023 5:05 PM
+BAG:kokolo add 94xMảnh Khủng long (old: 93) lydo: Nhặt từ map at 03/29/2023 5:06 PM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 5:06 PM
+BAG:kokolo add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/29/2023 5:06 PM
+BAG:kokolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/29/2023 5:07 PM
+BAG:kokolo add 95xMảnh Khủng long (old: 94) lydo: Nhặt từ map at 03/29/2023 5:08 PM
+BAG:kokolo add 96xMảnh Khủng long (old: 95) lydo: Nhặt từ map at 03/29/2023 5:08 PM
+BAG:kokolo add 1xQuần vải thô lydo: Nhặt từ map at 03/29/2023 5:08 PM
+BAG:kokolo add 1xGăng vải thô lydo: Nhặt từ map at 03/29/2023 5:08 PM
+BAG:kokolo add 97xMảnh Khủng long (old: 96) lydo: Nhặt từ map at 03/29/2023 5:09 PM
+BAG:kokolo add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/29/2023 5:09 PM
+BAG:kokolo add 98xMảnh Khủng long (old: 97) lydo: Nhặt từ map at 03/29/2023 5:10 PM
+BAG:kokolo add 99xMảnh Khủng long (old: 98) lydo: Nhặt từ map at 03/29/2023 5:10 PM
+BAG:kokolo add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/29/2023 5:11 PM
+BAG:kokolo add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/29/2023 5:11 PM
+BAG:kokolo add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/29/2023 5:12 PM
+BAG:kokolo add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/29/2023 5:14 PM
+BAG:kokolo add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/29/2023 5:15 PM
+BAG:kokolo add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 40xĐá Vĩnh Hằng (old: 39) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 40xĐá Hắc Hóa (old: 39) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 41xĐá Vĩnh Hằng (old: 40) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 41xĐá Hắc Hóa (old: 40) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 42xĐá Vĩnh Hằng (old: 41) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 42xĐá Hắc Hóa (old: 41) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 43xĐá Vĩnh Hằng (old: 42) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 43xĐá Hắc Hóa (old: 42) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 44xĐá Vĩnh Hằng (old: 43) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 44xĐá Hắc Hóa (old: 43) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 45xĐá Vĩnh Hằng (old: 44) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 45xĐá Hắc Hóa (old: 44) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 46xĐá Vĩnh Hằng (old: 45) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 46xĐá Hắc Hóa (old: 45) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 47xĐá Vĩnh Hằng (old: 46) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 47xĐá Hắc Hóa (old: 46) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 48xĐá Vĩnh Hằng (old: 47) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 48xĐá Hắc Hóa (old: 47) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 49xĐá Vĩnh Hằng (old: 48) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 49xĐá Hắc Hóa (old: 48) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 50xĐá Vĩnh Hằng (old: 49) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 50xĐá Hắc Hóa (old: 49) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 51xĐá Vĩnh Hằng (old: 50) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 51xĐá Hắc Hóa (old: 50) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 52xĐá Vĩnh Hằng (old: 51) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 52xĐá Hắc Hóa (old: 51) lydo: Mua santa at 03/29/2023 5:16 PM
+BAG:kokolo add 53xĐá Vĩnh Hằng (old: 52) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 53xĐá Hắc Hóa (old: 52) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 54xĐá Vĩnh Hằng (old: 53) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 54xĐá Hắc Hóa (old: 53) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 55xĐá Vĩnh Hằng (old: 54) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 55xĐá Hắc Hóa (old: 54) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 56xĐá Vĩnh Hằng (old: 55) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 56xĐá Hắc Hóa (old: 55) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 57xĐá Vĩnh Hằng (old: 56) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 57xĐá Hắc Hóa (old: 56) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 58xĐá Vĩnh Hằng (old: 57) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 58xĐá Hắc Hóa (old: 57) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 59xĐá Vĩnh Hằng (old: 58) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 59xĐá Hắc Hóa (old: 58) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 60xĐá Vĩnh Hằng (old: 59) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 60xĐá Hắc Hóa (old: 59) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 61xĐá Vĩnh Hằng (old: 60) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 61xĐá Hắc Hóa (old: 60) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 62xĐá Vĩnh Hằng (old: 61) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 62xĐá Hắc Hóa (old: 61) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 63xĐá Vĩnh Hằng (old: 62) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 63xĐá Hắc Hóa (old: 62) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 64xĐá Vĩnh Hằng (old: 63) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 64xĐá Hắc Hóa (old: 63) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 65xĐá Vĩnh Hằng (old: 64) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 65xĐá Hắc Hóa (old: 64) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 66xĐá Vĩnh Hằng (old: 65) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 66xĐá Hắc Hóa (old: 65) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 67xĐá Vĩnh Hằng (old: 66) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 67xĐá Hắc Hóa (old: 66) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 68xĐá Vĩnh Hằng (old: 67) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 68xĐá Hắc Hóa (old: 67) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 69xĐá Vĩnh Hằng (old: 68) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 69xĐá Hắc Hóa (old: 68) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 70xĐá Vĩnh Hằng (old: 69) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 70xĐá Hắc Hóa (old: 69) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 71xĐá Vĩnh Hằng (old: 70) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 71xĐá Hắc Hóa (old: 70) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 72xĐá Vĩnh Hằng (old: 71) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 72xĐá Hắc Hóa (old: 71) lydo: Mua santa at 03/29/2023 5:17 PM
+BAG:kokolo add 73xĐá Vĩnh Hằng (old: 72) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 73xĐá Hắc Hóa (old: 72) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 74xĐá Vĩnh Hằng (old: 73) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 74xĐá Hắc Hóa (old: 73) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 75xĐá Vĩnh Hằng (old: 74) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 75xĐá Hắc Hóa (old: 74) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 76xĐá Vĩnh Hằng (old: 75) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 76xĐá Hắc Hóa (old: 75) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 77xĐá Vĩnh Hằng (old: 76) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 77xĐá Hắc Hóa (old: 76) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 78xĐá Vĩnh Hằng (old: 77) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 78xĐá Hắc Hóa (old: 77) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 79xĐá Vĩnh Hằng (old: 78) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 79xĐá Hắc Hóa (old: 78) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 80xĐá Vĩnh Hằng (old: 79) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 80xĐá Hắc Hóa (old: 79) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 81xĐá Vĩnh Hằng (old: 80) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 81xĐá Hắc Hóa (old: 80) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 82xĐá Vĩnh Hằng (old: 81) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 82xĐá Hắc Hóa (old: 81) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 83xĐá Vĩnh Hằng (old: 82) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 83xĐá Hắc Hóa (old: 82) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 84xĐá Vĩnh Hằng (old: 83) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 84xĐá Hắc Hóa (old: 83) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 85xĐá Vĩnh Hằng (old: 84) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 85xĐá Hắc Hóa (old: 84) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 86xĐá Vĩnh Hằng (old: 85) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 86xĐá Hắc Hóa (old: 85) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 87xĐá Vĩnh Hằng (old: 86) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 87xĐá Hắc Hóa (old: 86) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 88xĐá Vĩnh Hằng (old: 87) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 88xĐá Hắc Hóa (old: 87) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 89xĐá Vĩnh Hằng (old: 88) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 89xĐá Hắc Hóa (old: 88) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 90xĐá Vĩnh Hằng (old: 89) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 90xĐá Hắc Hóa (old: 89) lydo: Mua santa at 03/29/2023 5:18 PM
+BAG:kokolo add 91xĐá Vĩnh Hằng (old: 90) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 91xĐá Hắc Hóa (old: 90) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 92xĐá Vĩnh Hằng (old: 91) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 92xĐá Hắc Hóa (old: 91) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 93xĐá Vĩnh Hằng (old: 92) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 93xĐá Hắc Hóa (old: 92) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 94xĐá Vĩnh Hằng (old: 93) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 94xĐá Hắc Hóa (old: 93) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 95xĐá Vĩnh Hằng (old: 94) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 95xĐá Hắc Hóa (old: 94) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 96xĐá Vĩnh Hằng (old: 95) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 96xĐá Hắc Hóa (old: 95) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 97xĐá Vĩnh Hằng (old: 96) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 97xĐá Hắc Hóa (old: 96) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 98xĐá Vĩnh Hằng (old: 97) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 98xĐá Hắc Hóa (old: 97) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 99xĐá Vĩnh Hằng (old: 98) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 99xĐá Hắc Hóa (old: 98) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 5:19 PM
+BAG:kokolo add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/29/2023 5:20 PM
+BAG:kokolo add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/29/2023 5:21 PM
+BAG:kokolo add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 40xĐá Vĩnh Hằng (old: 39) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 40xĐá Hắc Hóa (old: 39) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 41xĐá Vĩnh Hằng (old: 40) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 41xĐá Hắc Hóa (old: 40) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 42xĐá Vĩnh Hằng (old: 41) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 42xĐá Hắc Hóa (old: 41) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 43xĐá Vĩnh Hằng (old: 42) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 43xĐá Hắc Hóa (old: 42) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 44xĐá Vĩnh Hằng (old: 43) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 44xĐá Hắc Hóa (old: 43) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 45xĐá Vĩnh Hằng (old: 44) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 45xĐá Hắc Hóa (old: 44) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 46xĐá Vĩnh Hằng (old: 45) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 46xĐá Hắc Hóa (old: 45) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 47xĐá Vĩnh Hằng (old: 46) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 47xĐá Hắc Hóa (old: 46) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 48xĐá Vĩnh Hằng (old: 47) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 48xĐá Hắc Hóa (old: 47) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 49xĐá Vĩnh Hằng (old: 48) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 49xĐá Hắc Hóa (old: 48) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 50xĐá Vĩnh Hằng (old: 49) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 50xĐá Hắc Hóa (old: 49) lydo: Mua santa at 03/29/2023 5:22 PM
+BAG:kokolo add 51xĐá Vĩnh Hằng (old: 50) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 51xĐá Hắc Hóa (old: 50) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 52xĐá Vĩnh Hằng (old: 51) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 52xĐá Hắc Hóa (old: 51) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 53xĐá Vĩnh Hằng (old: 52) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 53xĐá Hắc Hóa (old: 52) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 54xĐá Vĩnh Hằng (old: 53) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 54xĐá Hắc Hóa (old: 53) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 55xĐá Vĩnh Hằng (old: 54) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 55xĐá Hắc Hóa (old: 54) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 56xĐá Vĩnh Hằng (old: 55) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 56xĐá Hắc Hóa (old: 55) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 57xĐá Vĩnh Hằng (old: 56) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 57xĐá Hắc Hóa (old: 56) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 58xĐá Vĩnh Hằng (old: 57) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 58xĐá Hắc Hóa (old: 57) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 59xĐá Vĩnh Hằng (old: 58) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 59xĐá Hắc Hóa (old: 58) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 60xĐá Vĩnh Hằng (old: 59) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 60xĐá Hắc Hóa (old: 59) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 61xĐá Vĩnh Hằng (old: 60) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 61xĐá Hắc Hóa (old: 60) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 62xĐá Vĩnh Hằng (old: 61) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 62xĐá Hắc Hóa (old: 61) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 63xĐá Vĩnh Hằng (old: 62) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 63xĐá Hắc Hóa (old: 62) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 64xĐá Vĩnh Hằng (old: 63) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 64xĐá Hắc Hóa (old: 63) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 65xĐá Vĩnh Hằng (old: 64) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 65xĐá Hắc Hóa (old: 64) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 66xĐá Vĩnh Hằng (old: 65) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 66xĐá Hắc Hóa (old: 65) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 67xĐá Vĩnh Hằng (old: 66) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 67xĐá Hắc Hóa (old: 66) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 68xĐá Vĩnh Hằng (old: 67) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 68xĐá Hắc Hóa (old: 67) lydo: Mua santa at 03/29/2023 5:23 PM
+BAG:kokolo add 69xĐá Vĩnh Hằng (old: 68) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 69xĐá Hắc Hóa (old: 68) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 70xĐá Vĩnh Hằng (old: 69) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 70xĐá Hắc Hóa (old: 69) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 71xĐá Vĩnh Hằng (old: 70) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 71xĐá Hắc Hóa (old: 70) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 72xĐá Vĩnh Hằng (old: 71) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 72xĐá Hắc Hóa (old: 71) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 73xĐá Vĩnh Hằng (old: 72) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 73xĐá Hắc Hóa (old: 72) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 74xĐá Vĩnh Hằng (old: 73) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 74xĐá Hắc Hóa (old: 73) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 75xĐá Vĩnh Hằng (old: 74) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 75xĐá Hắc Hóa (old: 74) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 76xĐá Vĩnh Hằng (old: 75) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 76xĐá Hắc Hóa (old: 75) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 77xĐá Vĩnh Hằng (old: 76) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 77xĐá Hắc Hóa (old: 76) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 78xĐá Vĩnh Hằng (old: 77) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 78xĐá Hắc Hóa (old: 77) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 79xĐá Vĩnh Hằng (old: 78) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 79xĐá Hắc Hóa (old: 78) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 80xĐá Vĩnh Hằng (old: 79) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 80xĐá Hắc Hóa (old: 79) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 81xĐá Vĩnh Hằng (old: 80) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 81xĐá Hắc Hóa (old: 80) lydo: Mua santa at 03/29/2023 5:24 PM
+BAG:kokolo add 5025xThỏi vàng (old: 25) lydo: Đổi vàng at 03/29/2023 5:24 PM
+BAG:kokolo add 82xĐá Vĩnh Hằng (old: 81) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 82xĐá Hắc Hóa (old: 81) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 83xĐá Vĩnh Hằng (old: 82) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 83xĐá Hắc Hóa (old: 82) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 84xĐá Vĩnh Hằng (old: 83) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 84xĐá Hắc Hóa (old: 83) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 85xĐá Vĩnh Hằng (old: 84) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 85xĐá Hắc Hóa (old: 84) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 86xĐá Vĩnh Hằng (old: 85) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 86xĐá Hắc Hóa (old: 85) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 87xĐá Vĩnh Hằng (old: 86) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 87xĐá Hắc Hóa (old: 86) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 88xĐá Vĩnh Hằng (old: 87) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 88xĐá Hắc Hóa (old: 87) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 89xĐá Vĩnh Hằng (old: 88) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 89xĐá Hắc Hóa (old: 88) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 90xĐá Vĩnh Hằng (old: 89) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 90xĐá Hắc Hóa (old: 89) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 91xĐá Vĩnh Hằng (old: 90) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 91xĐá Hắc Hóa (old: 90) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 92xĐá Vĩnh Hằng (old: 91) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 92xĐá Hắc Hóa (old: 91) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 93xĐá Vĩnh Hằng (old: 92) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 93xĐá Hắc Hóa (old: 92) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 94xĐá Vĩnh Hằng (old: 93) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 94xĐá Hắc Hóa (old: 93) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 95xĐá Vĩnh Hằng (old: 94) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 95xĐá Hắc Hóa (old: 94) lydo: Mua santa at 03/29/2023 5:25 PM
+BAG:kokolo add 96xĐá Vĩnh Hằng (old: 95) lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 96xĐá Hắc Hóa (old: 95) lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 97xĐá Vĩnh Hằng (old: 96) lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 97xĐá Hắc Hóa (old: 96) lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 98xĐá Vĩnh Hằng (old: 97) lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 98xĐá Hắc Hóa (old: 97) lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 99xĐá Vĩnh Hằng (old: 98) lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 99xĐá Hắc Hóa (old: 98) lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 5:26 PM
+BAG:kokolo add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:26 PM
+BAG:kokolo add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:26 PM
+BAG:kokolo add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:26 PM
+BAG:kokolo add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:26 PM
+BAG:kokolo add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/29/2023 5:26 PM
+BAG:kokolo add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:27 PM
+BAG:kokolo add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:27 PM
+BAG:kokolo add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:27 PM
+BAG:kokolo add 1xGiày lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:27 PM
+BAG:kokolo add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/29/2023 5:27 PM
+BAG:kokolo add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/29/2023 5:28 PM
+BAG:kokolo add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/29/2023 5:39 PM
+BAG:kokolo add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/29/2023 5:40 PM
+BAG:kokolo add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/29/2023 5:40 PM
+BAG:kokolo add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/29/2023 5:40 PM
+BAG:kokolo add 1xÁo Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 5:42 PM
+BAG:kokolo add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 5:43 PM
+BAG:kokolo add 1xGiầy Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 5:43 PM
+BAG:kokolo add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/29/2023 5:43 PM
+BAG:kokolo add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 5:43 PM
+BAG:kokolo add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 5:43 PM
+BAG:kokolo add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 5:43 PM
+BAG:kokolo add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 5:44 PM
+BAG:kokolo add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:44 PM
+BAG:kokolo add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/29/2023 5:44 PM
+BAG:kokolo add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:44 PM
+BAG:kokolo add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/29/2023 5:44 PM
+BAG:kokolo add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 5:44 PM
+BAG:kokolo add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 5:44 PM
+BAG:kokolo add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:45 PM
+BAG:kokolo add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:45 PM
+BAG:kokolo add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 5:45 PM
+BAG:kokolo add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 5:45 PM
+BAG:kokolo add 1xCải trang Chaien lydo: Mua từ cửa hàng at 03/29/2023 5:47 PM
+BAG:kokolo add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:51 PM
+BAG:kokolo add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:51 PM
+BAG:kokolo add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:51 PM
+BAG:kokolo add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:52 PM
+BAG:kokolo add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:52 PM
+BAG:kokolo add 1xÁo Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 5:52 PM
+BAG:kokolo add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 5:52 PM
+BAG:kokolo add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:53 PM
+BAG:kokolo add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:53 PM
+BAG:kokolo add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/29/2023 5:53 PM
+BAG:kokolo add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 5:54 PM
+BAG:kokolo add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 5:54 PM
+BAG:kokolo add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/29/2023 5:54 PM
+BAG:kokolo add 1xGiày lông đỏ lydo: Lấy từ body vào hành trang at 03/29/2023 5:54 PM
+BAG:kokolo add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 5:54 PM
+BAG:kokolo add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:54 PM
+BAG:kokolo add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:54 PM
+BAG:kokolo add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:54 PM
+BAG:kokolo add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:54 PM
+BAG:kokolo add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/29/2023 5:54 PM
+BAG:kokolo add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:55 PM
+BAG:kokolo add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:55 PM
+BAG:kokolo add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:55 PM
+BAG:kokolo add 1xGiày lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:55 PM
+BAG:kokolo add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/29/2023 5:55 PM
+BAG:kokolo add 1xÁo Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 5:56 PM
+BAG:kokolo add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:56 PM
+BAG:kokolo add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/29/2023 5:57 PM
+BAG:kokolo add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 5:57 PM
+BAG:kokolo add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/29/2023 5:58 PM
+BAG:kokolo add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 03/29/2023 5:58 PM
+BAG:kokolo add 1xGăng Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 5:58 PM
+BAG:kokolo add 1xGiầy Thần Xayda lydo: Cường Hóa trang bị at 03/29/2023 5:58 PM
+BAG:kokolo add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 5:59 PM
+BAG:kokolo add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 03/29/2023 5:59 PM
+BAG:kokolo add 1xÁo Thần Xayda lydo: Lấy từ body vào hành trang at 03/29/2023 6:01 PM
+BAG:kokolo add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/29/2023 6:01 PM
+BAG:kokolo add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 6:01 PM
+BAG:kokolo add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 6:01 PM
+BAG:kokolo add 1xRada cấp 12 lydo: Lấy từ body vào hành trang at 03/29/2023 6:01 PM
+BAG:kokolo add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 6:02 PM
+BAG:kokolo add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/29/2023 6:02 PM
+BAG:kokolo add 1xGăng Thần Xayda lydo: Lấy từ body vào hành trang at 03/29/2023 6:02 PM
+BAG:kokolo add 1xGiày lông đỏ lydo: Lấy từ body vào hành trang at 03/29/2023 6:02 PM
+BAG:kokolo add 1xRada cấp 12 lydo: Lấy từ body vào hành trang at 03/29/2023 6:02 PM
+BAG:kokolo add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/29/2023 6:03 PM
+BAG:kokolo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/29/2023 6:04 PM
+BAG:kokolo add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 6:04 PM
+BAG:kokolo add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 6:04 PM
+BAG:kokolo add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 6:04 PM
+BAG:kokolo add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 6:04 PM
+BAG:kokolo add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 6:04 PM
+BAG:kokolo add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 6:04 PM
+BAG:kokolo add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/29/2023 6:04 PM
+BAG:kokolo add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/29/2023 6:04 PM
+BAG:kokolo add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 6:08 PM
+BAG:kokolo add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 6:08 PM
+BAG:kokolo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 6:08 PM
+BAG:kokolo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:kokolo add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:kokolo add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:kokolo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 6:09 PM
+BAG:kokolo add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/29/2023 6:10 PM
+BAG:kokolo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 6:10 PM
+BAG:kokolo add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 6:13 PM
+BAG:kokolo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 6:14 PM
+BAG:kokolo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 6:15 PM
+BAG:kokolo add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 6:16 PM
+BAG:kokolo add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 6:16 PM
+BAG:kokolo add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 6:18 PM
+BAG:kokolo add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 6:19 PM
+BAG:kokolo add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/29/2023 6:20 PM
+BAG:kokolo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 6:20 PM
+BAG:kokolo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 6:23 PM
+BAG:kokolo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 6:27 PM
+BAG:kokolo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 6:27 PM
+BAG:kokolo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 6:29 PM
+BAG:kokolo add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 6:29 PM
+BAG:kokolo add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 6:29 PM
+BAG:kokolo add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 6:29 PM
+BAG:kokolo add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 6:31 PM
+BAG:kokolo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:kokolo add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/29/2023 6:32 PM
+BAG:kokolo add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 6:33 PM
+BAG:kokolo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 6:33 PM
+BAG:kokolo add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:kokolo add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:kokolo add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/29/2023 6:34 PM
+BAG:kokolo add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:kokolo add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 6:35 PM
+BAG:kokolo add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/29/2023 6:36 PM
+BAG:kokolo add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 6:36 PM
+BAG:kokolo add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/29/2023 6:38 PM
+BAG:kokolo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 6:39 PM
+BAG:kokolo add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 6:39 PM
+BAG:kokolo add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/29/2023 6:39 PM
+BAG:kokolo add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/29/2023 6:39 PM
+BAG:kokolo add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/29/2023 6:39 PM
+BAG:kokolo add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/29/2023 6:39 PM
+BAG:kokolo add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/29/2023 6:40 PM
+BAG:kokolo add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/29/2023 6:40 PM
+BAG:kokolo add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/29/2023 6:40 PM
+BAG:kokolo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/29/2023 6:41 PM
+BAG:kokolo add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/29/2023 6:41 PM
+BAG:kokolo add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/29/2023 6:41 PM
+BAG:kokolo add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/29/2023 6:42 PM
+BAG:kokolo add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/29/2023 6:42 PM
+BAG:kokolo add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/29/2023 6:42 PM
+BAG:kokolo add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/29/2023 6:43 PM
+BAG:kokolo add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/29/2023 6:43 PM
+BAG:kokolo add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 6:45 PM
+BAG:kokolo add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 6:45 PM
+BAG:kokolo add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/29/2023 6:45 PM
+BAG:kokolo add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 03/29/2023 6:45 PM
+BAG:kokolo add 1xGiày lông đỏ lydo: Lấy từ body vào hành trang at 03/29/2023 6:45 PM
+BAG:kokolo add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/29/2023 6:48 PM
+BAG:kokolo add 1xNgọc Rồng 5 sao lydo: HQT at 03/29/2023 6:48 PM
+BAG:kokolo add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/29/2023 6:48 PM
+BAG:kokolo add 1xNgọc Rồng 4 sao lydo: HQT at 03/29/2023 6:48 PM
+BAG:kokolo add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/29/2023 6:48 PM
+BAG:kokolo add 30xNgọc Rồng 3 sao lydo: (GD) Nhận từ saitama at 03/29/2023 7:34 PM
+BAG:kokolo add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/29/2023 7:57 PM
+BAG:kokolo add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/29/2023 7:57 PM
+BAG:kokolo add 80xNgọc Rồng 3 sao (old: 30) lydo: Giftcode at 03/29/2023 7:57 PM
+BAG:kokolo add 12xNgọc Rồng 4 sao (old: 2) lydo: Giftcode at 03/29/2023 7:57 PM
+BAG:kokolo add 12xNgọc Rồng 5 sao (old: 2) lydo: Giftcode at 03/29/2023 7:57 PM
+BAG:kokolo add 14xNgọc Rồng 6 sao (old: 4) lydo: Giftcode at 03/29/2023 7:57 PM
+BAG:kokolo add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/29/2023 7:57 PM
+BAG:kokolo add 3xĐá thạch anh tím lydo: Lấy từ rương qua người at 03/29/2023 8:15 PM
+BAG:kokolo add 99xĐá thạch anh tím (old: 12) lydo: Lấy từ rương qua người at 03/29/2023 8:15 PM
+BAG:kokolo add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/29/2023 9:10 PM
+BAG:kokolo add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/29/2023 9:10 PM
+BAG:kokolo add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/29/2023 9:11 PM
+BAG:kokolo add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/29/2023 9:11 PM
+BAG:kokolo add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/29/2023 9:12 PM
+BAG:kokolo add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/29/2023 9:12 PM
+BAG:kokolo add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 03/29/2023 9:13 PM
+BAG:kokolo add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 03/29/2023 9:13 PM
+BAG:kokolo add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/29/2023 9:13 PM
+BAG:kokolo add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 03/29/2023 9:14 PM
+BAG:kokolo add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/29/2023 9:14 PM
+BAG:kokolo add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/29/2023 9:16 PM
+BAG:kokolo add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/29/2023 9:17 PM
+BAG:kokolo add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/29/2023 9:17 PM
+BAG:kokolo add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/29/2023 9:17 PM
+BAG:kokolo add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/29/2023 9:17 PM
+BAG:kokolo add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/29/2023 9:18 PM
+BAG:kokolo add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/29/2023 9:18 PM
+BAG:kokolo add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/29/2023 9:18 PM
+BAG:kokolo add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 03/29/2023 9:19 PM
+BAG:kokolo add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/29/2023 9:19 PM
+BAG:kokolo add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/29/2023 9:19 PM
+BAG:kokolo add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/29/2023 9:20 PM
+BAG:kokolo add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/29/2023 9:23 PM
+BAG:kokolo add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:24 PM
+BAG:kokolo add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 03/29/2023 9:24 PM
+BAG:kokolo add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 9:24 PM
+BAG:kokolo add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/29/2023 9:25 PM
+BAG:kokolo add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/29/2023 9:25 PM
+BAG:kokolo add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/29/2023 9:25 PM
+BAG:kokolo add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/29/2023 9:25 PM
+BAG:kokolo add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/29/2023 9:27 PM
+BAG:kokolo add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/29/2023 9:27 PM
+BAG:kokolo add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/29/2023 9:27 PM
+BAG:kokolo add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/29/2023 9:27 PM
+BAG:kokolo add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/29/2023 9:27 PM
+BAG:kokolo add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/29/2023 9:27 PM
+BAG:kokolo add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:kokolo add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:kokolo add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:kokolo add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:kokolo add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/29/2023 9:28 PM
+BAG:kokolo add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/29/2023 9:29 PM
+BAG:kokolo add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/29/2023 9:29 PM
+BAG:kokolo add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/29/2023 9:29 PM
+BAG:kokolo add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/29/2023 9:29 PM
+BAG:kokolo add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:kokolo add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:kokolo add 50xPháo hoa (old: 45) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:kokolo add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:kokolo add 55xPháo hoa (old: 50) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:kokolo add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:kokolo add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:kokolo add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/29/2023 9:30 PM
+BAG:kokolo add 60xPháo hoa (old: 55) lydo: Nhặt từ map at 03/29/2023 9:31 PM
+BAG:kokolo add 65xPháo hoa (old: 60) lydo: Nhặt từ map at 03/29/2023 9:31 PM
+BAG:kokolo add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/29/2023 9:31 PM
+BAG:kokolo add 70xPháo hoa (old: 65) lydo: Nhặt từ map at 03/29/2023 9:31 PM
+BAG:kokolo add 75xPháo hoa (old: 70) lydo: Nhặt từ map at 03/29/2023 9:32 PM
+BAG:kokolo add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/29/2023 9:32 PM
+BAG:kokolo add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/29/2023 9:32 PM
+BAG:kokolo add 80xPháo hoa (old: 75) lydo: Nhặt từ map at 03/29/2023 9:32 PM
+BAG:kokolo add 85xPháo hoa (old: 80) lydo: Nhặt từ map at 03/29/2023 9:32 PM
+BAG:kokolo add 90xPháo hoa (old: 85) lydo: Nhặt từ map at 03/29/2023 9:32 PM
+BAG:kokolo add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/29/2023 9:33 PM
+BAG:kokolo add 95xPháo hoa (old: 90) lydo: Nhặt từ map at 03/29/2023 9:33 PM
+BAG:kokolo add 1xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:33 PM
+BAG:kokolo add 99xPháo hoa (old: 95) lydo: Nhặt từ map at 03/29/2023 9:33 PM
+BAG:kokolo add 6xPháo hoa (old: 1) lydo: Nhặt từ map at 03/29/2023 9:33 PM
+BAG:kokolo add 11xPháo hoa (old: 6) lydo: Nhặt từ map at 03/29/2023 9:33 PM
+BAG:kokolo add 16xPháo hoa (old: 11) lydo: Nhặt từ map at 03/29/2023 9:34 PM
+BAG:kokolo add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/29/2023 9:34 PM
+BAG:kokolo add 21xPháo hoa (old: 16) lydo: Nhặt từ map at 03/29/2023 9:35 PM
+BAG:kokolo add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/29/2023 9:35 PM
+BAG:kokolo add 26xPháo hoa (old: 21) lydo: Nhặt từ map at 03/29/2023 9:35 PM
+BAG:kokolo add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/29/2023 9:36 PM
+BAG:kokolo add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 03/29/2023 9:37 PM
+BAG:kokolo add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/29/2023 9:37 PM
+BAG:kokolo add 31xPháo hoa (old: 26) lydo: Nhặt từ map at 03/29/2023 9:37 PM
+BAG:kokolo add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/29/2023 9:37 PM
+BAG:kokolo add 36xPháo hoa (old: 31) lydo: Nhặt từ map at 03/29/2023 9:37 PM
+BAG:kokolo add 41xPháo hoa (old: 36) lydo: Nhặt từ map at 03/29/2023 9:38 PM
+BAG:kokolo add 46xPháo hoa (old: 41) lydo: Nhặt từ map at 03/29/2023 9:38 PM
+BAG:kokolo add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 03/29/2023 9:39 PM
+BAG:kokolo add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/29/2023 9:39 PM
+BAG:kokolo add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/29/2023 9:39 PM
+BAG:kokolo add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 03/29/2023 9:39 PM
+BAG:kokolo add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/29/2023 9:40 PM
+BAG:kokolo add 51xPháo hoa (old: 46) lydo: Nhặt từ map at 03/29/2023 9:40 PM
+BAG:kokolo add 56xPháo hoa (old: 51) lydo: Nhặt từ map at 03/29/2023 9:40 PM
+BAG:kokolo add 61xPháo hoa (old: 56) lydo: Nhặt từ map at 03/29/2023 9:42 PM
+BAG:kokolo add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 03/29/2023 9:43 PM
+BAG:kokolo add 80xĐá thạch anh tím (old: 79) lydo: Nhặt từ map at 03/29/2023 9:44 PM
+BAG:kokolo add 66xPháo hoa (old: 61) lydo: Nhặt từ map at 03/29/2023 9:45 PM
+BAG:kokolo add 71xPháo hoa (old: 66) lydo: Nhặt từ map at 03/29/2023 9:45 PM
+BAG:kokolo add 76xPháo hoa (old: 71) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:kokolo add 81xPháo hoa (old: 76) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:kokolo add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:kokolo add 86xPháo hoa (old: 81) lydo: Nhặt từ map at 03/29/2023 9:46 PM
+BAG:kokolo add 91xPháo hoa (old: 86) lydo: Nhặt từ map at 03/29/2023 9:47 PM
+BAG:kokolo add 96xPháo hoa (old: 91) lydo: Nhặt từ map at 03/29/2023 9:47 PM
+BAG:kokolo add 2xPháo hoa lydo: Nhặt từ map at 03/29/2023 9:48 PM
+BAG:kokolo add 99xPháo hoa (old: 96) lydo: Nhặt từ map at 03/29/2023 9:48 PM
+BAG:kokolo add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/29/2023 9:48 PM
+BAG:kokolo add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 03/29/2023 9:48 PM
+BAG:kokolo add 7xPháo hoa (old: 2) lydo: Nhặt từ map at 03/29/2023 9:48 PM
+BAG:kokolo add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/29/2023 9:49 PM
+BAG:kokolo add 82xĐá thạch anh tím (old: 81) lydo: Nhặt từ map at 03/29/2023 9:49 PM
+BAG:kokolo add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/29/2023 9:50 PM
+BAG:kokolo add 83xĐá thạch anh tím (old: 82) lydo: Nhặt từ map at 03/29/2023 9:50 PM
+BAG:kokolo add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/29/2023 9:50 PM
+BAG:kokolo add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/29/2023 9:50 PM
+BAG:kokolo add 12xPháo hoa (old: 7) lydo: Nhặt từ map at 03/29/2023 9:51 PM
+BAG:kokolo add 17xPháo hoa (old: 12) lydo: Nhặt từ map at 03/29/2023 9:52 PM
+BAG:kokolo add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/29/2023 9:52 PM
+BAG:kokolo add 22xPháo hoa (old: 17) lydo: Nhặt từ map at 03/29/2023 9:53 PM
+BAG:kokolo add 27xPháo hoa (old: 22) lydo: Nhặt từ map at 03/29/2023 9:53 PM
+BAG:kokolo add 32xPháo hoa (old: 27) lydo: Nhặt từ map at 03/29/2023 9:54 PM
+BAG:kokolo add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/29/2023 9:54 PM
+BAG:kokolo add 84xĐá thạch anh tím (old: 83) lydo: Nhặt từ map at 03/29/2023 9:54 PM
+BAG:kokolo add 37xPháo hoa (old: 32) lydo: Nhặt từ map at 03/29/2023 9:55 PM
+BAG:kokolo add 42xPháo hoa (old: 37) lydo: Nhặt từ map at 03/29/2023 9:55 PM
+BAG:kokolo add 47xPháo hoa (old: 42) lydo: Nhặt từ map at 03/29/2023 9:55 PM
+BAG:kokolo add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/29/2023 9:55 PM
+BAG:kokolo add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/29/2023 9:55 PM
+BAG:kokolo add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/29/2023 9:55 PM
+BAG:kokolo add 52xPháo hoa (old: 47) lydo: Nhặt từ map at 03/29/2023 9:56 PM
+BAG:kokolo add 57xPháo hoa (old: 52) lydo: Nhặt từ map at 03/29/2023 9:56 PM
+BAG:kokolo add 62xPháo hoa (old: 57) lydo: Nhặt từ map at 03/29/2023 9:56 PM
+BAG:kokolo add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/29/2023 9:56 PM
+BAG:kokolo add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/29/2023 9:57 PM
+BAG:kokolo add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/29/2023 9:57 PM
+BAG:kokolo add 85xĐá thạch anh tím (old: 84) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:kokolo add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:kokolo add 86xĐá thạch anh tím (old: 85) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:kokolo add 67xPháo hoa (old: 62) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:kokolo add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:kokolo add 72xPháo hoa (old: 67) lydo: Nhặt từ map at 03/29/2023 9:58 PM
+BAG:kokolo add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/29/2023 9:59 PM
+BAG:kokolo add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/29/2023 9:59 PM
+BAG:kokolo add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/29/2023 10:01 PM
+BAG:kokolo add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/29/2023 10:02 PM
+BAG:kokolo add 87xĐá thạch anh tím (old: 86) lydo: Nhặt từ map at 03/29/2023 10:03 PM
+BAG:kokolo add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/29/2023 10:03 PM
+BAG:kokolo add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/29/2023 10:03 PM
+BAG:kokolo add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/29/2023 10:05 PM
+BAG:kokolo add 77xPháo hoa (old: 72) lydo: Nhặt từ map at 03/29/2023 10:05 PM
+BAG:kokolo add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/29/2023 10:05 PM
+BAG:kokolo add 82xPháo hoa (old: 77) lydo: Nhặt từ map at 03/29/2023 10:05 PM
+BAG:kokolo add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/29/2023 10:06 PM
+BAG:kokolo add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/29/2023 10:06 PM
+BAG:kokolo add 87xPháo hoa (old: 82) lydo: Nhặt từ map at 03/29/2023 10:06 PM
+BAG:kokolo add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/29/2023 10:06 PM
+BAG:kokolo add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:kokolo add 92xPháo hoa (old: 87) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:kokolo add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:kokolo add 97xPháo hoa (old: 92) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:kokolo add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/29/2023 10:07 PM
+BAG:kokolo add 3xPháo hoa lydo: Nhặt từ map at 03/29/2023 10:09 PM
+BAG:kokolo add 99xPháo hoa (old: 97) lydo: Nhặt từ map at 03/29/2023 10:09 PM
+BAG:kokolo add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/29/2023 10:09 PM
+BAG:kokolo add 8xPháo hoa (old: 3) lydo: Nhặt từ map at 03/29/2023 10:09 PM
+BAG:kokolo add 13xPháo hoa (old: 8) lydo: Nhặt từ map at 03/29/2023 10:10 PM
+BAG:kokolo add 18xPháo hoa (old: 13) lydo: Nhặt từ map at 03/29/2023 10:10 PM
+BAG:kokolo add 23xPháo hoa (old: 18) lydo: Nhặt từ map at 03/29/2023 10:10 PM
+BAG:kokolo add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/29/2023 10:10 PM
+BAG:kokolo add 28xPháo hoa (old: 23) lydo: Nhặt từ map at 03/29/2023 10:10 PM
+BAG:kokolo add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/29/2023 10:11 PM
+BAG:kokolo add 88xĐá thạch anh tím (old: 87) lydo: Nhặt từ map at 03/29/2023 10:12 PM
+BAG:kokolo add 89xĐá thạch anh tím (old: 88) lydo: Nhặt từ map at 03/29/2023 10:12 PM
+BAG:kokolo add 90xĐá thạch anh tím (old: 89) lydo: Nhặt từ map at 03/29/2023 10:12 PM
+BAG:kokolo add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/29/2023 10:12 PM
+BAG:kokolo add 33xPháo hoa (old: 28) lydo: Nhặt từ map at 03/29/2023 10:12 PM
+BAG:kokolo add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/29/2023 10:13 PM
+BAG:kokolo add 38xPháo hoa (old: 33) lydo: Nhặt từ map at 03/29/2023 10:13 PM
+BAG:kokolo add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/29/2023 10:13 PM
+BAG:kokolo add 43xPháo hoa (old: 38) lydo: Nhặt từ map at 03/29/2023 10:13 PM
+BAG:kokolo add 48xPháo hoa (old: 43) lydo: Nhặt từ map at 03/29/2023 10:14 PM
+BAG:kokolo add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/29/2023 10:15 PM
+BAG:kokolo add 53xPháo hoa (old: 48) lydo: Nhặt từ map at 03/29/2023 10:15 PM
+BAG:kokolo add 58xPháo hoa (old: 53) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:kokolo add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:kokolo add 63xPháo hoa (old: 58) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:kokolo add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/29/2023 10:16 PM
+BAG:kokolo add 68xPháo hoa (old: 63) lydo: Nhặt từ map at 03/29/2023 10:17 PM
+BAG:kokolo add 73xPháo hoa (old: 68) lydo: Nhặt từ map at 03/29/2023 10:17 PM
+BAG:kokolo add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/29/2023 10:17 PM
+BAG:kokolo add 78xPháo hoa (old: 73) lydo: Nhặt từ map at 03/29/2023 10:18 PM
+BAG:kokolo add 83xPháo hoa (old: 78) lydo: Nhặt từ map at 03/29/2023 10:18 PM
+BAG:kokolo add 88xPháo hoa (old: 83) lydo: Nhặt từ map at 03/29/2023 10:18 PM
+BAG:kokolo add 93xPháo hoa (old: 88) lydo: Nhặt từ map at 03/29/2023 10:19 PM
+BAG:kokolo add 91xĐá thạch anh tím (old: 90) lydo: Nhặt từ map at 03/29/2023 10:19 PM
+BAG:kokolo add 92xĐá thạch anh tím (old: 91) lydo: Nhặt từ map at 03/29/2023 10:20 PM
+BAG:kokolo add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/29/2023 10:20 PM
+BAG:kokolo add 98xPháo hoa (old: 93) lydo: Nhặt từ map at 03/29/2023 10:20 PM
+BAG:kokolo add 93xĐá thạch anh tím (old: 92) lydo: Nhặt từ map at 03/29/2023 10:21 PM
+BAG:kokolo add 4xPháo hoa lydo: Nhặt từ map at 03/29/2023 10:21 PM
+BAG:kokolo add 99xPháo hoa (old: 98) lydo: Nhặt từ map at 03/29/2023 10:21 PM
+BAG:kokolo add 9xPháo hoa (old: 4) lydo: Nhặt từ map at 03/29/2023 10:22 PM
+BAG:kokolo add 14xPháo hoa (old: 9) lydo: Nhặt từ map at 03/29/2023 10:22 PM
+BAG:kokolo add 19xPháo hoa (old: 14) lydo: Nhặt từ map at 03/29/2023 10:22 PM
+BAG:kokolo add 24xPháo hoa (old: 19) lydo: Nhặt từ map at 03/29/2023 10:23 PM
+BAG:kokolo add 94xĐá thạch anh tím (old: 93) lydo: Nhặt từ map at 03/29/2023 10:23 PM
+BAG:kokolo add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/29/2023 10:23 PM
+BAG:kokolo add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/29/2023 10:23 PM
+BAG:kokolo add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/29/2023 10:23 PM
+BAG:kokolo add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/29/2023 10:24 PM
+BAG:kokolo add 29xPháo hoa (old: 24) lydo: Nhặt từ map at 03/29/2023 10:24 PM
+BAG:kokolo add 34xPháo hoa (old: 29) lydo: Nhặt từ map at 03/29/2023 10:25 PM
+BAG:kokolo add 39xPháo hoa (old: 34) lydo: Nhặt từ map at 03/29/2023 10:25 PM
+BAG:kokolo add 44xPháo hoa (old: 39) lydo: Nhặt từ map at 03/29/2023 10:25 PM
+BAG:kokolo add 49xPháo hoa (old: 44) lydo: Nhặt từ map at 03/29/2023 10:25 PM
+BAG:kokolo add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/29/2023 10:26 PM
+BAG:kokolo add 54xPháo hoa (old: 49) lydo: Nhặt từ map at 03/29/2023 10:26 PM
+BAG:kokolo add 95xĐá thạch anh tím (old: 94) lydo: Nhặt từ map at 03/29/2023 10:26 PM
+BAG:kokolo add 59xPháo hoa (old: 54) lydo: Nhặt từ map at 03/29/2023 10:27 PM
+BAG:kokolo add 64xPháo hoa (old: 59) lydo: Nhặt từ map at 03/29/2023 10:27 PM
+BAG:kokolo add 69xPháo hoa (old: 64) lydo: Nhặt từ map at 03/29/2023 10:27 PM
+BAG:kokolo add 74xPháo hoa (old: 69) lydo: Nhặt từ map at 03/29/2023 10:28 PM
+BAG:kokolo add 79xPháo hoa (old: 74) lydo: Nhặt từ map at 03/29/2023 10:28 PM
+BAG:kokolo add 84xPháo hoa (old: 79) lydo: Nhặt từ map at 03/29/2023 10:28 PM
+BAG:kokolo add 89xPháo hoa (old: 84) lydo: Nhặt từ map at 03/29/2023 10:29 PM
+BAG:kokolo add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/29/2023 10:29 PM
+BAG:kokolo add 94xPháo hoa (old: 89) lydo: Nhặt từ map at 03/29/2023 10:29 PM
+BAG:kokolo add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/29/2023 10:29 PM
+BAG:kokolo add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/29/2023 10:29 PM
+BAG:kokolo add 96xĐá thạch anh tím (old: 95) lydo: Nhặt từ map at 03/29/2023 10:30 PM
+BAG:kokolo add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/29/2023 10:30 PM
+BAG:kokolo add 99xPháo hoa (old: 94) lydo: Nhặt từ map at 03/29/2023 10:30 PM
+BAG:kokolo add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/29/2023 10:30 PM
+BAG:kokolo add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 10:30 PM
+BAG:kokolo add 97xĐá thạch anh tím (old: 96) lydo: Nhặt từ map at 03/29/2023 10:31 PM
+BAG:kokolo add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/29/2023 10:31 PM
+BAG:kokolo add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/29/2023 10:31 PM
+BAG:kokolo add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 10:31 PM
+BAG:kokolo add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/29/2023 10:31 PM
+BAG:kokolo add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/29/2023 10:32 PM
+BAG:kokolo add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/29/2023 10:32 PM
+BAG:kokolo add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/29/2023 10:32 PM
+BAG:kokolo add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/29/2023 10:32 PM
+BAG:kokolo add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/29/2023 10:33 PM
+BAG:kokolo add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/29/2023 10:33 PM
+BAG:kokolo add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/29/2023 10:33 PM
+BAG:kokolo add 98xĐá thạch anh tím (old: 97) lydo: Nhặt từ map at 03/29/2023 10:34 PM
+BAG:kokolo add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/29/2023 10:34 PM
+BAG:kokolo add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/29/2023 10:34 PM
+BAG:kokolo add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/29/2023 10:34 PM
+BAG:kokolo add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/29/2023 10:34 PM
+BAG:kokolo add 99xĐá thạch anh tím (old: 98) lydo: Nhặt từ map at 03/29/2023 10:35 PM
+BAG:kokolo add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/29/2023 10:35 PM
+BAG:kokolo add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/29/2023 10:35 PM
+BAG:kokolo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 10:36 PM
+BAG:kokolo add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/29/2023 10:36 PM
+BAG:kokolo add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/29/2023 10:36 PM
+BAG:kokolo add 50xPháo hoa (old: 45) lydo: Nhặt từ map at 03/29/2023 10:36 PM
+BAG:kokolo add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/29/2023 10:36 PM
+BAG:kokolo add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/29/2023 10:37 PM
+BAG:kokolo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 10:37 PM
+BAG:kokolo add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/29/2023 10:37 PM
+BAG:kokolo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 10:38 PM
+BAG:kokolo add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/29/2023 10:38 PM
+BAG:kokolo add 55xPháo hoa (old: 50) lydo: Nhặt từ map at 03/29/2023 10:38 PM
+BAG:kokolo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 10:38 PM
+BAG:kokolo add 60xPháo hoa (old: 55) lydo: Nhặt từ map at 03/29/2023 10:38 PM
+BAG:kokolo add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/29/2023 10:39 PM
+BAG:kokolo add 65xPháo hoa (old: 60) lydo: Nhặt từ map at 03/29/2023 10:40 PM
+BAG:kokolo add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/29/2023 10:41 PM
+BAG:kokolo add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/29/2023 10:41 PM

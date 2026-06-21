@@ -1,0 +1,752 @@
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 11:34 AM
+BAG:nonook add 1xBột mì lydo: Nhặt từ map at 03/03/2023 11:34 AM
+BAG:nonook add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 11:35 AM
+BAG:nonook add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 11:35 AM
+BAG:nonook add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 11:35 AM
+BAG:nonook add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 11:35 AM
+BAG:nonook add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 11:35 AM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 11:36 AM
+BAG:nonook add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 11:36 AM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 11:36 AM
+BAG:nonook add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 11:37 AM
+BAG:nonook add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 11:37 AM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 11:37 AM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 11:37 AM
+BAG:nonook add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 11:37 AM
+BAG:nonook add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 11:38 AM
+BAG:nonook add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 11:38 AM
+BAG:nonook add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 11:38 AM
+BAG:nonook add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 11:38 AM
+BAG:nonook add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:nonook add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:nonook add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:nonook add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:nonook add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:nonook add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 11:39 AM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:nonook add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 11:40 AM
+BAG:nonook add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 11:40 AM
+BAG:nonook add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/03/2023 11:41 AM
+BAG:nonook add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/03/2023 11:42 AM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 11:42 AM
+BAG:nonook add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 11:43 AM
+BAG:nonook add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 11:43 AM
+BAG:nonook add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/03/2023 11:43 AM
+BAG:nonook add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/03/2023 11:44 AM
+BAG:nonook add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/03/2023 11:44 AM
+BAG:nonook add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/03/2023 11:45 AM
+BAG:nonook add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/03/2023 11:45 AM
+BAG:nonook add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/03/2023 11:45 AM
+BAG:nonook add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/03/2023 11:45 AM
+BAG:nonook add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/03/2023 11:45 AM
+BAG:nonook add 1xMèo mun lydo: Mua từ cửa hàng at 03/03/2023 11:46 AM
+BAG:nonook add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 11:46 AM
+BAG:nonook add 20xThỏi vàng lydo: Đổi vàng at 03/03/2023 11:47 AM
+BAG:nonook add 2020xThỏi vàng (old: 20) lydo: Đổi vàng at 03/03/2023 11:47 AM
+BAG:nonook add 4020xThỏi vàng (old: 2020) lydo: Đổi vàng at 03/03/2023 11:47 AM
+BAG:nonook add 6020xThỏi vàng (old: 4020) lydo: Đổi vàng at 03/03/2023 11:47 AM
+BAG:nonook add 8020xThỏi vàng (old: 6020) lydo: Đổi vàng at 03/03/2023 11:47 AM
+BAG:nonook add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/03/2023 11:48 AM
+BAG:nonook add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/03/2023 11:48 AM
+BAG:nonook add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/03/2023 11:49 AM
+BAG:nonook add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/03/2023 11:49 AM
+BAG:nonook add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/03/2023 11:49 AM
+BAG:nonook add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/03/2023 11:50 AM
+BAG:nonook add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/03/2023 11:50 AM
+BAG:nonook add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/03/2023 11:50 AM
+BAG:nonook add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/03/2023 11:50 AM
+BAG:nonook add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/03/2023 11:50 AM
+BAG:nonook add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/03/2023 11:51 AM
+BAG:nonook add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/03/2023 11:51 AM
+BAG:nonook add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/03/2023 11:51 AM
+BAG:nonook add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/03/2023 11:52 AM
+BAG:nonook add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/03/2023 11:53 AM
+BAG:nonook add 1xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 11:54 AM
+BAG:nonook add 21xĐậu thần cấp 10 (old: 1) lydo: Lấy từ rương qua người at 03/03/2023 11:54 AM
+BAG:nonook add 41xĐậu thần cấp 10 (old: 21) lydo: Lấy từ rương qua người at 03/03/2023 12:11 PM
+BAG:nonook add 61xĐậu thần cấp 10 (old: 41) lydo: Lấy từ rương qua người at 03/03/2023 12:11 PM
+BAG:nonook add 81xĐậu thần cấp 10 (old: 61) lydo: Lấy từ rương qua người at 03/03/2023 12:11 PM
+BAG:nonook add 1xĐá ngũ sắc lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 2xĐá ngũ sắc (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 3xĐá ngũ sắc (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 4xĐá ngũ sắc (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 5xĐá ngũ sắc (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 6xĐá ngũ sắc (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 7xĐá ngũ sắc (old: 6) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 8xĐá ngũ sắc (old: 7) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 9xĐá ngũ sắc (old: 8) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 10xĐá ngũ sắc (old: 9) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 11xĐá ngũ sắc (old: 10) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 12xĐá ngũ sắc (old: 11) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 13xĐá ngũ sắc (old: 12) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 14xĐá ngũ sắc (old: 13) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 15xĐá ngũ sắc (old: 14) lydo: Mua từ cửa hàng at 03/03/2023 12:12 PM
+BAG:nonook add 1xCải trang lydo: Mua từ bill at 03/03/2023 12:13 PM
+BAG:nonook add 1xCải trang than meo Karin lydo: Mua từ bill at 03/03/2023 12:13 PM
+BAG:nonook add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/03/2023 12:13 PM
+BAG:nonook add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/03/2023 12:17 PM
+BAG:nonook add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/03/2023 12:17 PM
+BAG:nonook add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/03/2023 12:17 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 12:17 PM
+BAG:nonook add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/03/2023 12:17 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:nonook add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:nonook add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:nonook add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:nonook add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:nonook add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/03/2023 12:20 PM
+BAG:nonook add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/03/2023 12:20 PM
+BAG:nonook add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/03/2023 12:20 PM
+BAG:nonook add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/03/2023 12:20 PM
+BAG:nonook add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/03/2023 12:20 PM
+BAG:nonook add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/03/2023 12:20 PM
+BAG:nonook add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/03/2023 12:20 PM
+BAG:nonook add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/03/2023 12:21 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 12:21 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 12:22 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 12:22 PM
+BAG:nonook add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/03/2023 12:22 PM
+BAG:nonook add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/03/2023 12:22 PM
+BAG:nonook add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/03/2023 12:22 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:nonook add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:nonook add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 12:24 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 12:24 PM
+BAG:nonook add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/03/2023 12:24 PM
+BAG:nonook add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/03/2023 12:24 PM
+BAG:nonook add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/03/2023 12:25 PM
+BAG:nonook add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/03/2023 12:25 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:nonook add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:nonook add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:nonook add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 12:27 PM
+BAG:nonook add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:nonook add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:nonook add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:nonook add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:nonook add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:nonook add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:nonook add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:nonook add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:nonook add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:nonook add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:nonook add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:nonook add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:nonook add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:nonook add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/03/2023 12:31 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 12:31 PM
+BAG:nonook add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/03/2023 12:31 PM
+BAG:nonook add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/03/2023 12:31 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 12:31 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 12:31 PM
+BAG:nonook add 1xĐá Titan lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:nonook add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:nonook add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:nonook add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:nonook add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:nonook add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/03/2023 12:32 PM
+BAG:nonook add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:nonook add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:nonook add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 12:33 PM
+BAG:nonook add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/03/2023 12:34 PM
+BAG:nonook add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/03/2023 12:34 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 12:34 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 12:34 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 12:34 PM
+BAG:nonook add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 12:34 PM
+BAG:nonook add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/03/2023 12:34 PM
+BAG:nonook add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/03/2023 12:35 PM
+BAG:nonook add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/03/2023 12:35 PM
+BAG:nonook add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/03/2023 12:35 PM
+BAG:nonook add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/03/2023 12:35 PM
+BAG:nonook add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/03/2023 12:35 PM
+BAG:nonook add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/03/2023 12:36 PM
+BAG:nonook add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/03/2023 12:36 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 12:36 PM
+BAG:nonook add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/03/2023 12:37 PM
+BAG:nonook add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/03/2023 12:37 PM
+BAG:nonook add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/03/2023 12:37 PM
+BAG:nonook add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 12:37 PM
+BAG:nonook add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 12:38 PM
+BAG:nonook add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 12:38 PM
+BAG:nonook add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 12:38 PM
+BAG:nonook add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 12:38 PM
+BAG:nonook add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 12:38 PM
+BAG:nonook add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 12:38 PM
+BAG:nonook add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 12:38 PM
+BAG:nonook add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/03/2023 12:51 PM
+BAG:nonook add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/03/2023 12:51 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 12:51 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 12:52 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 12:52 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 12:52 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 12:52 PM
+BAG:nonook add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 12:55 PM
+BAG:nonook add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 12:56 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/03/2023 12:56 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/03/2023 12:58 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:06 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:06 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:06 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:06 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:06 PM
+BAG:nonook add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:06 PM
+BAG:nonook add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:06 PM
+BAG:nonook add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:06 PM
+BAG:nonook add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 1:06 PM
+BAG:nonook add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 1:07 PM
+BAG:nonook add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 1:07 PM
+BAG:nonook add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:07 PM
+BAG:nonook add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:07 PM
+BAG:nonook add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 1:07 PM
+BAG:nonook add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 1:07 PM
+BAG:nonook add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 1:07 PM
+BAG:nonook add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 1:07 PM
+BAG:nonook add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/03/2023 1:25 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:26 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:26 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:26 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:26 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:26 PM
+BAG:nonook add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:26 PM
+BAG:nonook add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/03/2023 5:40 PM
+BAG:nonook add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:46 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:47 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:47 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:47 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 5:47 PM
+BAG:nonook add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 5:48 PM
+BAG:nonook add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 5:48 PM
+BAG:nonook add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 5:48 PM
+BAG:nonook add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 5:48 PM
+BAG:nonook add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 5:48 PM
+BAG:nonook add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 5:48 PM
+BAG:nonook add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/03/2023 5:49 PM
+BAG:nonook add 1007300xThỏi vàng (old: 7300) lydo: Giftcode at 03/03/2023 6:38 PM
+BAG:nonook add 9913xĐá ngũ sắc lydo: Giftcode at 03/03/2023 6:38 PM
+BAG:nonook add 99xĐá ngũ sắc (old: 12) lydo: Giftcode at 03/03/2023 6:38 PM
+BAG:nonook add 99xCuồng nộ lydo: Giftcode at 03/03/2023 6:42 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 7:28 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 7:28 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 7:28 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/03/2023 7:28 PM
+BAG:nonook add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/03/2023 7:32 PM
+BAG:nonook add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/03/2023 7:33 PM
+BAG:nonook add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/03/2023 7:33 PM
+BAG:nonook add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/03/2023 7:33 PM
+BAG:nonook add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/03/2023 7:33 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:33 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:33 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:33 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:33 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Lấy từ body vào hành trang at 03/03/2023 7:33 PM
+BAG:nonook add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/03/2023 7:37 PM
+BAG:nonook add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/03/2023 7:37 PM
+BAG:nonook add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/03/2023 7:37 PM
+BAG:nonook add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/03/2023 7:37 PM
+BAG:nonook add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/03/2023 7:37 PM
+BAG:nonook add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/03/2023 7:37 PM
+BAG:nonook add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/03/2023 7:37 PM
+BAG:nonook add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/03/2023 7:38 PM
+BAG:nonook add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 7:39 PM
+BAG:nonook add 1xBột mì lydo: Nhặt từ map at 03/03/2023 7:39 PM
+BAG:nonook add 1xĐá Saphia lydo: Nhặt từ map at 03/03/2023 7:39 PM
+BAG:nonook add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 7:39 PM
+BAG:nonook add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 7:39 PM
+BAG:nonook add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 7:39 PM
+BAG:nonook add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/03/2023 7:40 PM
+BAG:nonook add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 7:40 PM
+BAG:nonook add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/03/2023 7:40 PM
+BAG:nonook add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 7:40 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 7:40 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 7:40 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 7:40 PM
+BAG:nonook add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/03/2023 7:40 PM
+BAG:nonook add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/03/2023 7:41 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 7:41 PM
+BAG:nonook add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 7:41 PM
+BAG:nonook add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/03/2023 7:41 PM
+BAG:nonook add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/03/2023 7:41 PM
+BAG:nonook add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/03/2023 7:41 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 7:41 PM
+BAG:nonook add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/03/2023 7:41 PM
+BAG:nonook add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:nonook add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:nonook add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:nonook add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:nonook add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:nonook add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:nonook add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:nonook add 44xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:nonook add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/03/2023 7:42 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 7:43 PM
+BAG:nonook add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/03/2023 7:43 PM
+BAG:nonook add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/03/2023 7:43 PM
+BAG:nonook add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/03/2023 7:43 PM
+BAG:nonook add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/03/2023 7:43 PM
+BAG:nonook add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/03/2023 7:44 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 7:44 PM
+BAG:nonook add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/03/2023 7:44 PM
+BAG:nonook add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/03/2023 7:44 PM
+BAG:nonook add 45xĐậu xanh (old: 44) lydo: Nhặt từ map at 03/03/2023 7:44 PM
+BAG:nonook add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/03/2023 7:44 PM
+BAG:nonook add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/03/2023 7:44 PM
+BAG:nonook add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/03/2023 7:44 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:nonook add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:nonook add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:nonook add 46xĐậu xanh (old: 45) lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 7:45 PM
+BAG:nonook add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/03/2023 7:46 PM
+BAG:nonook add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/03/2023 7:46 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 7:46 PM
+BAG:nonook add 47xĐậu xanh (old: 46) lydo: Nhặt từ map at 03/03/2023 7:46 PM
+BAG:nonook add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/03/2023 7:46 PM
+BAG:nonook add 48xĐậu xanh (old: 47) lydo: Nhặt từ map at 03/03/2023 7:46 PM
+BAG:nonook add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 7:46 PM
+BAG:nonook add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/03/2023 7:47 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 7:47 PM
+BAG:nonook add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/03/2023 7:47 PM
+BAG:nonook add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/03/2023 7:47 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 7:47 PM
+BAG:nonook add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/03/2023 7:47 PM
+BAG:nonook add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/03/2023 7:47 PM
+BAG:nonook add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/03/2023 7:47 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 7:47 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 7:47 PM
+BAG:nonook add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/03/2023 7:48 PM
+BAG:nonook add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/03/2023 7:48 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 7:48 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 7:48 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 7:48 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 7:48 PM
+BAG:nonook add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/03/2023 7:48 PM
+BAG:nonook add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/03/2023 7:49 PM
+BAG:nonook add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/03/2023 7:49 PM
+BAG:nonook add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/03/2023 7:49 PM
+BAG:nonook add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/03/2023 7:49 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 7:49 PM
+BAG:nonook add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/03/2023 7:49 PM
+BAG:nonook add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/03/2023 7:49 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 7:49 PM
+BAG:nonook add 49xĐậu xanh (old: 48) lydo: Nhặt từ map at 03/03/2023 7:50 PM
+BAG:nonook add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 03/03/2023 7:50 PM
+BAG:nonook add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/03/2023 7:50 PM
+BAG:nonook add 44xGà quay nguyên con (old: 43) lydo: Nhặt từ map at 03/03/2023 7:50 PM
+BAG:nonook add 50xĐậu xanh (old: 49) lydo: Nhặt từ map at 03/03/2023 7:50 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 7:50 PM
+BAG:nonook add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:nonook add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:nonook add 45xGà quay nguyên con (old: 44) lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:nonook add 46xGà quay nguyên con (old: 45) lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:nonook add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:nonook add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 7:51 PM
+BAG:nonook add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 7:52 PM
+BAG:nonook add 51xĐậu xanh (old: 50) lydo: Nhặt từ map at 03/03/2023 7:52 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 7:52 PM
+BAG:nonook add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/03/2023 7:52 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 7:52 PM
+BAG:nonook add 52xĐậu xanh (old: 51) lydo: Nhặt từ map at 03/03/2023 7:52 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 7:52 PM
+BAG:nonook add 53xĐậu xanh (old: 52) lydo: Nhặt từ map at 03/03/2023 7:52 PM
+BAG:nonook add 47xGà quay nguyên con (old: 46) lydo: Nhặt từ map at 03/03/2023 7:52 PM
+BAG:nonook add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/03/2023 7:53 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 7:53 PM
+BAG:nonook add 1xBột mì lydo: Nhặt từ map at 03/03/2023 7:53 PM
+BAG:nonook add 48xGà quay nguyên con (old: 47) lydo: Nhặt từ map at 03/03/2023 7:53 PM
+BAG:nonook add 49xGà quay nguyên con (old: 48) lydo: Nhặt từ map at 03/03/2023 7:53 PM
+BAG:nonook add 54xĐậu xanh (old: 53) lydo: Nhặt từ map at 03/03/2023 7:53 PM
+BAG:nonook add 50xGà quay nguyên con (old: 49) lydo: Nhặt từ map at 03/03/2023 7:53 PM
+BAG:nonook add 55xĐậu xanh (old: 54) lydo: Nhặt từ map at 03/03/2023 7:53 PM
+BAG:nonook add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:nonook add 56xĐậu xanh (old: 55) lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:nonook add 51xGà quay nguyên con (old: 50) lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 7:54 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 7:55 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 7:55 PM
+BAG:nonook add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 7:56 PM
+BAG:nonook add 1xGăng Thần Namếc lydo: Nhặt từ map at 03/03/2023 7:56 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:01 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:01 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:01 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:01 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:01 PM
+BAG:nonook add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:01 PM
+BAG:nonook add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:01 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 8:02 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 8:02 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 8:02 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 8:02 PM
+BAG:nonook add 1xNhẫn thời không sai lệch lydo: Admin at 03/03/2023 8:08 PM
+BAG:nonook add 1xBông tai Porata lydo: Admin at 03/03/2023 8:08 PM
+BAG:nonook add 99xThỏi vàng lydo: Tách thỏi vàng at 03/03/2023 8:08 PM
+BAG:nonook add 57xĐậu xanh (old: 56) lydo: Nhặt từ map at 03/03/2023 8:15 PM
+BAG:nonook add 460xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/03/2023 8:17 PM
+BAG:nonook add 99xCuồng nộ lydo: Lấy từ rương qua người at 03/03/2023 8:17 PM
+BAG:nonook add 1xCải trang lydo: Lấy từ rương qua người at 03/03/2023 8:18 PM
+BAG:nonook add 1xCải Trang Thần Zeno lydo: Lấy từ rương qua người at 03/03/2023 8:18 PM
+BAG:nonook add 99xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/03/2023 8:18 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 8:23 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 8:23 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 8:23 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 8:23 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 8:23 PM
+BAG:nonook add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/03/2023 8:26 PM
+BAG:nonook add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xBột mì lydo: Nhặt từ map at 03/03/2023 8:29 PM
+BAG:nonook add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/03/2023 8:29 PM
+BAG:nonook add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 6xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/03/2023 8:30 PM
+BAG:nonook add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 4xNgọc Rồng 5 sao (old: 3) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/03/2023 8:31 PM
+BAG:nonook add 1xĐá lục bảo lydo: Nhặt từ map at 03/03/2023 8:52 PM
+BAG:nonook add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 8:52 PM
+BAG:nonook add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 8:53 PM
+BAG:nonook add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 8:53 PM
+BAG:nonook add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 8:53 PM
+BAG:nonook add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 8:53 PM
+BAG:nonook add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 8:53 PM
+BAG:nonook add 1xĐá Ruby lydo: Nhặt từ map at 03/03/2023 8:53 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:55 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:55 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:55 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:55 PM
+BAG:nonook add 1xCải trang than meo Karin lydo: Lấy từ rương qua người at 03/03/2023 8:57 PM
+BAG:nonook add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 9:06 PM
+BAG:nonook add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 9:06 PM
+BAG:nonook add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 9:06 PM
+BAG:nonook add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 9:06 PM
+BAG:nonook add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 9:06 PM
+BAG:nonook add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 9:06 PM
+BAG:nonook add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 9:06 PM
+BAG:nonook add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 9:06 PM
+BAG:nonook add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 9:06 PM
+BAG:nonook add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 9:06 PM
+BAG:nonook add 69xĐậu thần cấp 10 (old: 49) lydo: Lấy từ rương qua người at 03/03/2023 9:06 PM
+BAG:nonook add 80xĐậu thần cấp 10 (old: 69) lydo: Lấy từ rương qua người at 03/03/2023 9:07 PM
+BAG:nonook add 1xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/03/2023 9:07 PM
+BAG:nonook add 99xĐậu thần cấp 10 (old: 80) lydo: Lấy từ rương qua người at 03/03/2023 9:07 PM
+BAG:nonook add 1xGăng Thiên Sứ lydo: Admin at 03/03/2023 9:07 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 9:08 PM
+BAG:nonook add 21xĐậu thần cấp 10 (old: 1) lydo: Lấy từ rương qua người at 03/03/2023 9:09 PM
+BAG:nonook add 41xĐậu thần cấp 10 (old: 21) lydo: Lấy từ rương qua người at 03/03/2023 9:09 PM
+BAG:nonook add 61xĐậu thần cấp 10 (old: 41) lydo: Lấy từ rương qua người at 03/03/2023 9:09 PM
+BAG:nonook add 81xĐậu thần cấp 10 (old: 61) lydo: Lấy từ rương qua người at 03/03/2023 9:09 PM
+BAG:nonook add 2xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/03/2023 9:09 PM
+BAG:nonook add 99xĐậu thần cấp 10 (old: 81) lydo: Lấy từ rương qua người at 03/03/2023 9:09 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 9:21 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:50 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:50 PM
+BAG:nonook add 1xGăng Thần Namếc lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:50 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:50 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:50 PM
+BAG:nonook add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 9:55 PM
+BAG:nonook add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 9:55 PM
+BAG:nonook add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 9:55 PM
+BAG:nonook add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 9:55 PM
+BAG:nonook add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 9:55 PM
+BAG:nonook add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 9:55 PM
+BAG:nonook add 7xNâng cấp kỹ năng 4 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/03/2023 9:55 PM
+BAG:nonook add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 9:55 PM
+BAG:nonook add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 9:56 PM
+BAG:nonook add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 9:56 PM
+BAG:nonook add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 9:56 PM
+BAG:nonook add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 9:56 PM
+BAG:nonook add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 9:56 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 27xĐá Vĩnh Hằng lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 26xĐá Hắc Hóa lydo: Lấy từ rương qua người at 03/03/2023 9:57 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 9:58 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 9:58 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 9:58 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 9:58 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 9:58 PM
+BAG:nonook add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/03/2023 9:58 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/03/2023 9:58 PM
+BAG:nonook add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/03/2023 9:58 PM
+BAG:nonook add 1xÁo sắt Tron lydo: Cường Hóa trang bị at 03/03/2023 9:59 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/03/2023 9:59 PM
+BAG:nonook add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/03/2023 9:59 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/03/2023 9:59 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/03/2023 9:59 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/03/2023 9:59 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ rương qua người at 03/03/2023 10:00 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ rương qua người at 03/03/2023 10:00 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/03/2023 10:00 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ rương qua người at 03/03/2023 10:00 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 10:00 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Lấy từ rương qua người at 03/03/2023 10:00 PM
+BAG:nonook add 1xGăng sắt Tron lydo: Lấy từ rương qua người at 03/03/2023 10:00 PM
+BAG:nonook add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:12 PM
+BAG:nonook add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:41 PM
+BAG:nonook add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:41 PM
+BAG:nonook add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 10:41 PM
+BAG:nonook add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 10:41 PM
+BAG:nonook add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 10:43 PM
+BAG:nonook add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 10:44 PM
+BAG:nonook add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 10:48 PM
+BAG:nonook add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/03/2023 10:48 PM
+BAG:nonook add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 10:48 PM
+BAG:nonook add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 10:48 PM
+BAG:nonook add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:48 PM
+BAG:nonook add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/03/2023 10:48 PM
+BAG:nonook add 1xGăng vàng Zealot lydo: Cường Hóa trang bị at 03/03/2023 10:48 PM
+BAG:nonook add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 10:49 PM
+BAG:nonook add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 10:49 PM
+BAG:nonook add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/03/2023 10:52 PM
+BAG:nonook add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/03/2023 10:52 PM
+BAG:nonook add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 10:52 PM
+BAG:nonook add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 10:52 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 10:54 PM
+BAG:nonook add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 10:54 PM
+BAG:nonook add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 10:54 PM
+BAG:nonook add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/03/2023 10:54 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 10:54 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 10:54 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:nonook add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:nonook add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:nonook add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:nonook add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:nonook add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:nonook add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:nonook add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:55 PM
+BAG:nonook add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:56 PM
+BAG:nonook add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:56 PM
+BAG:nonook add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 10:56 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 10:56 PM
+BAG:nonook add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 10:56 PM
+BAG:nonook add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 10:56 PM
+BAG:nonook add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:56 PM
+BAG:nonook add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 10:56 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 10:57 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 10:57 PM
+BAG:nonook add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 10:57 PM
+BAG:nonook add 1xBột mì lydo: Nhặt từ map at 03/03/2023 10:58 PM
+BAG:nonook add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 10:58 PM
+BAG:nonook add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 10:59 PM
+BAG:nonook add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 10:59 PM
+BAG:nonook add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 10:59 PM
+BAG:nonook add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 10:59 PM
+BAG:nonook add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 10:59 PM
+BAG:nonook add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 11:00 PM
+BAG:nonook add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 11:00 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 11:00 PM
+BAG:nonook add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 11:00 PM
+BAG:nonook add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 11:00 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 11:01 PM
+BAG:nonook add 1xGiầy sợi len lydo: Nhặt từ map at 03/03/2023 11:01 PM
+BAG:nonook add 2xSao pha lê lydo: Lấy từ rương qua người at 03/03/2023 11:01 PM
+BAG:nonook add 9xSao pha lê lydo: Lấy từ rương qua người at 03/03/2023 11:01 PM
+BAG:nonook add 6xSao pha lê lydo: Lấy từ rương qua người at 03/03/2023 11:01 PM
+BAG:nonook add 5xĐá Vĩnh Hằng lydo: Lấy từ rương qua người at 03/03/2023 11:01 PM
+BAG:nonook add 4xĐá Hắc Hóa lydo: Lấy từ rương qua người at 03/03/2023 11:01 PM
+BAG:nonook add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 11:01 PM
+BAG:nonook add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 11:01 PM
+BAG:nonook add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 11:01 PM
+BAG:nonook add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 11:01 PM
+BAG:nonook add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 11:01 PM
+BAG:nonook add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 11:02 PM
+BAG:nonook add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 11:02 PM
+BAG:nonook add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 11:02 PM
+BAG:nonook add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 11:02 PM
+BAG:nonook add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/03/2023 11:02 PM
+BAG:nonook add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 11:02 PM
+BAG:nonook add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 11:02 PM
+BAG:nonook add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 11:02 PM
+BAG:nonook add 1xBột mì lydo: Nhặt từ map at 03/03/2023 11:02 PM
+BAG:nonook add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 11:02 PM
+BAG:nonook add 1xGăng sợi len lydo: Nhặt từ map at 03/03/2023 11:02 PM
+BAG:nonook add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 11:02 PM
+BAG:nonook add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 11:03 PM
+BAG:nonook add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 11:03 PM
+BAG:nonook add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 11:04 PM
+BAG:nonook add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 11:04 PM
+BAG:nonook add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 11:04 PM
+BAG:nonook add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 11:05 PM
+BAG:nonook add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 11:05 PM
+BAG:nonook add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 11:05 PM
+BAG:nonook add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 11:06 PM
+BAG:nonook add 99xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/03/2023 11:11 PM
+BAG:nonook add 48xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/03/2023 11:11 PM
+BAG:nonook add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 11:12 PM
+BAG:nonook add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/03/2023 11:12 PM
+BAG:nonook add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 11:18 PM
+BAG:nonook add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/03/2023 11:18 PM
+BAG:nonook add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/03/2023 11:18 PM
+BAG:nonook add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 11:19 PM
+BAG:nonook add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/03/2023 11:21 PM
+BAG:nonook add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 11:22 PM
+BAG:nonook add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/03/2023 11:23 PM
+BAG:nonook add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/03/2023 11:23 PM
+BAG:nonook add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/03/2023 11:23 PM
+BAG:nonook add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/03/2023 11:24 PM
+BAG:nonook add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/03/2023 11:24 PM
+BAG:nonook add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/03/2023 11:26 PM
+BAG:nonook add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/03/2023 11:27 PM
+BAG:nonook add 99xThỏi vàng lydo: Lấy từ rương qua người at 03/03/2023 11:28 PM

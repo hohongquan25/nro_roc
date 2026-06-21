@@ -1,0 +1,488 @@
+BAG:bot04 add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/31/2023 12:00 AM
+BAG:bot04 add 1xNhẫn Hủy Diệt lydo: Lấy từ rương qua người at 03/31/2023 12:00 AM
+BAG:bot04 add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/31/2023 12:00 AM
+BAG:bot04 add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/31/2023 12:00 AM
+BAG:bot04 add 1xGăng Hủy Diệt lydo: Lấy từ rương qua người at 03/31/2023 12:00 AM
+BAG:bot04 add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/31/2023 12:00 AM
+BAG:bot04 add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/31/2023 12:02 AM
+BAG:bot04 add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/31/2023 12:02 AM
+BAG:bot04 add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/31/2023 12:02 AM
+BAG:bot04 add 5xPháo hoa lydo: Nhặt từ map at 03/31/2023 12:02 AM
+BAG:bot04 add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/31/2023 12:03 AM
+BAG:bot04 add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/31/2023 12:03 AM
+BAG:bot04 add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/31/2023 12:03 AM
+BAG:bot04 add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/31/2023 12:03 AM
+BAG:bot04 add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/31/2023 12:03 AM
+BAG:bot04 add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/31/2023 12:03 AM
+BAG:bot04 add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/31/2023 12:03 AM
+BAG:bot04 add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/31/2023 12:03 AM
+BAG:bot04 add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/31/2023 12:03 AM
+BAG:bot04 add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/31/2023 12:03 AM
+BAG:bot04 add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/31/2023 12:03 AM
+BAG:bot04 add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/31/2023 12:04 AM
+BAG:bot04 add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/31/2023 12:09 AM
+BAG:bot04 add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/31/2023 12:09 AM
+BAG:bot04 add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/31/2023 12:09 AM
+BAG:bot04 add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/31/2023 12:09 AM
+BAG:bot04 add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/31/2023 12:09 AM
+BAG:bot04 add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/31/2023 12:11 AM
+BAG:bot04 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/31/2023 12:16 AM
+BAG:bot04 add 3xBột mì lydo: Nhặt từ map at 03/31/2023 12:17 AM
+BAG:bot04 add 3xBánh trung thu thập cẩm lydo: Nhặt từ map at 03/31/2023 12:17 AM
+BAG:bot04 add 3xTrứng vịt muối lydo: Nhặt từ map at 03/31/2023 12:17 AM
+BAG:bot04 add 7xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/31/2023 12:17 AM
+BAG:bot04 add 4xĐậu xanh lydo: Nhặt từ map at 03/31/2023 12:17 AM
+BAG:bot04 add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/31/2023 12:17 AM
+BAG:bot04 add 8xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/31/2023 12:17 AM
+BAG:bot04 add 7xBánh trung thu thập cẩm (old: 3) lydo: Nhặt từ map at 03/31/2023 12:17 AM
+BAG:bot04 add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/31/2023 12:17 AM
+BAG:bot04 add 2xGà quay nguyên con lydo: Nhặt từ map at 03/31/2023 12:17 AM
+BAG:bot04 add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/31/2023 5:56 AM
+BAG:bot04 add 1xQuỷ Chim lydo: Lấy từ rương qua người at 03/31/2023 5:57 AM
+BAG:bot04 add 3850xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/31/2023 5:57 AM
+BAG:bot04 add 1xCá heo lydo: Lấy từ rương qua người at 03/31/2023 5:57 AM
+BAG:bot04 add 1xNhẫn Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/31/2023 6:02 AM
+BAG:bot04 add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/31/2023 6:05 AM
+BAG:bot04 add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/31/2023 6:05 AM
+BAG:bot04 add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/31/2023 6:08 AM
+BAG:bot04 add 24xMảnh Thằn lằn bay (old: 23) lydo: Nhặt từ map at 03/31/2023 6:10 AM
+BAG:bot04 add 25xMảnh Thằn lằn bay (old: 24) lydo: Nhặt từ map at 03/31/2023 6:33 AM
+BAG:bot04 add 1xQuần vải đen lydo: Nhặt từ map at 03/31/2023 6:34 AM
+BAG:bot04 add 26xMảnh Thằn lằn bay (old: 25) lydo: Nhặt từ map at 03/31/2023 6:34 AM
+BAG:bot04 add 1xGăng vải đen lydo: Nhặt từ map at 03/31/2023 6:34 AM
+BAG:bot04 add 27xMảnh Thằn lằn bay (old: 26) lydo: Nhặt từ map at 03/31/2023 6:35 AM
+BAG:bot04 add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 6:35 AM
+BAG:bot04 add 1xGiầy nhựa lydo: Nhặt từ map at 03/31/2023 6:36 AM
+BAG:bot04 add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/31/2023 6:36 AM
+BAG:bot04 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/31/2023 6:37 AM
+BAG:bot04 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/31/2023 6:38 AM
+BAG:bot04 add 1xQuần vải đen lydo: Nhặt từ map at 03/31/2023 6:38 AM
+BAG:bot04 add 28xMảnh Thằn lằn bay (old: 27) lydo: Nhặt từ map at 03/31/2023 6:38 AM
+BAG:bot04 add 29xMảnh Thằn lằn bay (old: 28) lydo: Nhặt từ map at 03/31/2023 6:40 AM
+BAG:bot04 add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/31/2023 6:40 AM
+BAG:bot04 add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/31/2023 6:40 AM
+BAG:bot04 add 30xMảnh Thằn lằn bay (old: 29) lydo: Nhặt từ map at 03/31/2023 6:41 AM
+BAG:bot04 add 1xRada cấp 1 lydo: Nhặt từ map at 03/31/2023 6:41 AM
+BAG:bot04 add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/31/2023 6:42 AM
+BAG:bot04 add 31xMảnh Thằn lằn bay (old: 30) lydo: Nhặt từ map at 03/31/2023 6:42 AM
+BAG:bot04 add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/31/2023 7:10 AM
+BAG:bot04 add 1xĐá Hắc Hóa lydo: Mua santa at 03/31/2023 7:10 AM
+BAG:bot04 add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/31/2023 7:10 AM
+BAG:bot04 add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/31/2023 7:10 AM
+BAG:bot04 add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/31/2023 7:10 AM
+BAG:bot04 add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/31/2023 7:11 AM
+BAG:bot04 add 1xĐá Hắc Hóa lydo: Mua santa at 03/31/2023 7:11 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:20 AM
+BAG:bot04 add 1xSao pha lê lydo: Lấy từ lucky box at 03/31/2023 7:20 AM
+BAG:bot04 add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/31/2023 7:20 AM
+BAG:bot04 add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/31/2023 7:20 AM
+BAG:bot04 add 51xSao pha lê (old: 50) lydo: Lấy từ lucky box at 03/31/2023 7:20 AM
+BAG:bot04 add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/31/2023 7:20 AM
+BAG:bot04 add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/31/2023 7:20 AM
+BAG:bot04 add 6xNgọc Rồng 5 sao (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:20 AM
+BAG:bot04 add 50xSao pha lê (old: 49) lydo: Lấy từ lucky box at 03/31/2023 7:20 AM
+BAG:bot04 add 7xNgọc Rồng 5 sao (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 51xSao pha lê (old: 50) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 52xSao pha lê (old: 51) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 8xNgọc Rồng 5 sao (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 6xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 9xNgọc Rồng 5 sao (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 1xSao pha lê lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 10xNgọc Rồng 5 sao (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 53xSao pha lê (old: 52) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 1xSao pha lê lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 1xSao pha lê lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 54xSao pha lê (old: 53) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 52xSao pha lê (old: 51) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 1xSao pha lê lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 11xNgọc Rồng 5 sao (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 55xSao pha lê (old: 54) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 56xSao pha lê (old: 55) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 57xSao pha lê (old: 56) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 58xSao pha lê (old: 57) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 12xNgọc Rồng 5 sao (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 13xNgọc Rồng 5 sao (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 53xSao pha lê (old: 52) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 8xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 9xNgọc Rồng 6 sao (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:24 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 10xNgọc Rồng 6 sao (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 59xSao pha lê (old: 58) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 11xNgọc Rồng 6 sao (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 60xSao pha lê (old: 59) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 54xSao pha lê (old: 53) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 14xNgọc Rồng 5 sao (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 8xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 15xNgọc Rồng 5 sao (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 9xNgọc Rồng 7 sao (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 10xNgọc Rồng 7 sao (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 55xSao pha lê (old: 54) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 12xNgọc Rồng 6 sao (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 16xNgọc Rồng 5 sao (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 56xSao pha lê (old: 55) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 8xVệ tinh phòng thủ (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 17xNgọc Rồng 5 sao (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 18xNgọc Rồng 5 sao (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 11xNgọc Rồng 7 sao (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 61xSao pha lê (old: 60) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 19xNgọc Rồng 5 sao (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:27 AM
+BAG:bot04 add 12xVệ tinh trí tuệ (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 62xSao pha lê (old: 61) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 12xNgọc Rồng 7 sao (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 13xNgọc Rồng 6 sao (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 14xNgọc Rồng 6 sao (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 13xVệ tinh trí tuệ (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 63xSao pha lê (old: 62) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 13xNgọc Rồng 7 sao (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 14xVệ tinh trí tuệ (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 9xNgọc Rồng 4 sao (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 9xVệ tinh phòng thủ (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 10xNgọc Rồng 4 sao (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 20xNgọc Rồng 5 sao (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 57xSao pha lê (old: 56) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 10xVệ tinh phòng thủ (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 21xNgọc Rồng 5 sao (old: 20) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 11xNgọc Rồng 4 sao (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 13xVệ tinh sinh lực (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 15xNgọc Rồng 6 sao (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 13xNgọc Rồng 4 sao (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 11xVệ tinh phòng thủ (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 16xNgọc Rồng 6 sao (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 58xSao pha lê (old: 57) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 17xNgọc Rồng 6 sao (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 12xVệ tinh phòng thủ (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 18xNgọc Rồng 6 sao (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 19xNgọc Rồng 6 sao (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 14xNgọc Rồng 4 sao (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 14xNgọc Rồng 7 sao (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 14xVệ tinh sinh lực (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 64xSao pha lê (old: 63) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 13xVệ tinh phòng thủ (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 20xNgọc Rồng 6 sao (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 15xNgọc Rồng 4 sao (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 15xVệ tinh trí tuệ (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 21xNgọc Rồng 6 sao (old: 20) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 16xVệ tinh trí tuệ (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 16xNgọc Rồng 4 sao (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 15xVệ tinh sinh lực (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 59xSao pha lê (old: 58) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 60xSao pha lê (old: 59) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 65xSao pha lê (old: 64) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 17xNgọc Rồng 4 sao (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 17xVệ tinh trí tuệ (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 16xVệ tinh sinh lực (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 22xNgọc Rồng 5 sao (old: 21) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 11xVệ tinh trí lực (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 66xSao pha lê (old: 65) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 14xVệ tinh phòng thủ (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 15xVệ tinh phòng thủ (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:32 AM
+BAG:bot04 add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:33 AM
+BAG:bot04 add 17xVệ tinh sinh lực (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:33 AM
+BAG:bot04 add 18xNgọc Rồng 4 sao (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:33 AM
+BAG:bot04 add 19xNgọc Rồng 4 sao (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:33 AM
+BAG:bot04 add 23xNgọc Rồng 5 sao (old: 22) lydo: Lấy từ lucky box at 03/31/2023 7:33 AM
+BAG:bot04 add 20xNgọc Rồng 4 sao (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:33 AM
+BAG:bot04 add 12xVệ tinh trí lực (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:33 AM
+BAG:bot04 add 24xNgọc Rồng 5 sao (old: 23) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 16xVệ tinh phòng thủ (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 22xNgọc Rồng 6 sao (old: 21) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 25xNgọc Rồng 5 sao (old: 24) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 21xNgọc Rồng 4 sao (old: 20) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 23xNgọc Rồng 6 sao (old: 22) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 18xVệ tinh sinh lực (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 22xNgọc Rồng 4 sao (old: 21) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 67xSao pha lê (old: 66) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 13xVệ tinh trí lực (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 19xVệ tinh sinh lực (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 18xVệ tinh trí tuệ (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 23xNgọc Rồng 4 sao (old: 22) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 19xVệ tinh trí tuệ (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 24xNgọc Rồng 6 sao (old: 23) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 17xVệ tinh phòng thủ (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 24xNgọc Rồng 4 sao (old: 23) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 20xVệ tinh sinh lực (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 20xVệ tinh trí tuệ (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 25xNgọc Rồng 6 sao (old: 24) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 15xNgọc Rồng 7 sao (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 26xNgọc Rồng 5 sao (old: 25) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 18xVệ tinh phòng thủ (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 27xNgọc Rồng 5 sao (old: 26) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 28xNgọc Rồng 5 sao (old: 27) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 21xVệ tinh sinh lực (old: 20) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 21xVệ tinh trí tuệ (old: 20) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 68xSao pha lê (old: 67) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 61xSao pha lê (old: 60) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 19xVệ tinh phòng thủ (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 25xNgọc Rồng 4 sao (old: 24) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 22xVệ tinh trí tuệ (old: 21) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 62xSao pha lê (old: 61) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 29xNgọc Rồng 5 sao (old: 28) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 16xNgọc Rồng 7 sao (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 26xNgọc Rồng 4 sao (old: 25) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 30xNgọc Rồng 5 sao (old: 29) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 17xNgọc Rồng 7 sao (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 23xVệ tinh trí tuệ (old: 22) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 31xNgọc Rồng 5 sao (old: 30) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 20xVệ tinh phòng thủ (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:34 AM
+BAG:bot04 add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 22xVệ tinh sinh lực (old: 21) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 27xNgọc Rồng 4 sao (old: 26) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 69xSao pha lê (old: 68) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 18xNgọc Rồng 7 sao (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 21xVệ tinh phòng thủ (old: 20) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 70xSao pha lê (old: 69) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 14xVệ tinh trí lực (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 19xNgọc Rồng 7 sao (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 28xNgọc Rồng 4 sao (old: 27) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 20xNgọc Rồng 7 sao (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 21xNgọc Rồng 7 sao (old: 20) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 32xNgọc Rồng 5 sao (old: 31) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 23xVệ tinh sinh lực (old: 22) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 22xNgọc Rồng 7 sao (old: 21) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 63xSao pha lê (old: 62) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 23xNgọc Rồng 7 sao (old: 22) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 24xVệ tinh trí tuệ (old: 23) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 24xVệ tinh sinh lực (old: 23) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 33xNgọc Rồng 5 sao (old: 32) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 25xVệ tinh trí tuệ (old: 24) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 15xVệ tinh trí lực (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 71xSao pha lê (old: 70) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 16xVệ tinh trí lực (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 26xVệ tinh trí tuệ (old: 25) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 27xVệ tinh trí tuệ (old: 26) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 22xVệ tinh phòng thủ (old: 21) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 24xNgọc Rồng 7 sao (old: 23) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 17xVệ tinh trí lực (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 23xSao pha lê (old: 22) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 23xSao pha lê (old: 22) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 23xSao pha lê (old: 22) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 24xSao pha lê (old: 23) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 24xSao pha lê (old: 23) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 25xVệ tinh sinh lực (old: 24) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 23xVệ tinh phòng thủ (old: 22) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 26xNgọc Rồng 6 sao (old: 25) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 72xSao pha lê (old: 71) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 25xNgọc Rồng 7 sao (old: 24) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 26xVệ tinh sinh lực (old: 25) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 24xSao pha lê (old: 23) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:37 AM
+BAG:bot04 add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 27xVệ tinh sinh lực (old: 26) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 18xVệ tinh trí lực (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 73xSao pha lê (old: 72) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 74xSao pha lê (old: 73) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 25xSao pha lê (old: 24) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 75xSao pha lê (old: 74) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 26xSao pha lê (old: 25) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 24xVệ tinh phòng thủ (old: 23) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 28xVệ tinh sinh lực (old: 27) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 26xNgọc Rồng 7 sao (old: 25) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 27xNgọc Rồng 7 sao (old: 26) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 76xSao pha lê (old: 75) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 29xVệ tinh sinh lực (old: 28) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 34xNgọc Rồng 5 sao (old: 33) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 28xVệ tinh trí tuệ (old: 27) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 19xVệ tinh trí lực (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 25xSao pha lê (old: 24) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 26xSao pha lê (old: 25) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 20xVệ tinh trí lực (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 25xVệ tinh phòng thủ (old: 24) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 27xSao pha lê (old: 26) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 29xVệ tinh trí tuệ (old: 28) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 27xSao pha lê (old: 26) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 26xVệ tinh phòng thủ (old: 25) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 29xNgọc Rồng 4 sao (old: 28) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 21xVệ tinh trí lực (old: 20) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 30xVệ tinh sinh lực (old: 29) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 31xVệ tinh sinh lực (old: 30) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 25xSao pha lê (old: 24) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 22xVệ tinh trí lực (old: 21) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 26xSao pha lê (old: 25) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 23xVệ tinh trí lực (old: 22) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 35xNgọc Rồng 5 sao (old: 34) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 28xNgọc Rồng 7 sao (old: 27) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 64xSao pha lê (old: 63) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 24xVệ tinh trí lực (old: 23) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 27xNgọc Rồng 6 sao (old: 26) lydo: Lấy từ lucky box at 03/31/2023 7:38 AM
+BAG:bot04 add 1xCải trang Siêu Thần Trái Đất lydo: Lấy từ rương qua người at 03/31/2023 9:23 AM
+BAG:bot04 add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/31/2023 9:37 AM
+BAG:bot04 add 99xNgọc Rồng 3 sao lydo: (GD) Nhận từ bot05 at 03/31/2023 9:42 AM
+BAG:bot04 add 10xNgọc Rồng 1 sao lydo: (GD) Nhận từ bot05 at 03/31/2023 9:42 AM
+BAG:bot04 add 10xNgọc Rồng 2 sao lydo: (GD) Nhận từ bot05 at 03/31/2023 9:42 AM
+BAG:bot04 add 10xNgọc Rồng 4 sao lydo: (GD) Nhận từ bot05 at 03/31/2023 9:42 AM
+BAG:bot04 add 10xNgọc Rồng 5 sao lydo: (GD) Nhận từ bot05 at 03/31/2023 9:42 AM
+BAG:bot04 add 10xNgọc Rồng 6 sao lydo: (GD) Nhận từ bot05 at 03/31/2023 9:42 AM
+BAG:bot04 add 10xNgọc Rồng 7 sao lydo: (GD) Nhận từ bot05 at 03/31/2023 9:42 AM
+BAG:bot04 add 1xNgọc Rồng 3 sao lydo: (GD) Nhận từ bot05 at 03/31/2023 9:42 AM

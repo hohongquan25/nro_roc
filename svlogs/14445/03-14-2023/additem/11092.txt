@@ -1,0 +1,139 @@
+BAG:tahyko add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/14/2023 6:24 AM
+BAG:tahyko add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 6:24 AM
+BAG:tahyko add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/14/2023 6:24 AM
+BAG:tahyko add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/14/2023 6:24 AM
+BAG:tahyko add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/14/2023 6:24 AM
+BAG:tahyko add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/14/2023 6:24 AM
+BAG:tahyko add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/14/2023 6:24 AM
+BAG:tahyko add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/14/2023 6:24 AM
+BAG:tahyko add 50xThỏi vàng lydo: Giftcode at 03/14/2023 6:25 AM
+BAG:tahyko add 10xSao pha lê lydo: Giftcode at 03/14/2023 6:25 AM
+BAG:tahyko add 10xSao pha lê lydo: Giftcode at 03/14/2023 6:25 AM
+BAG:tahyko add 10xSao pha lê lydo: Giftcode at 03/14/2023 6:25 AM
+BAG:tahyko add 1xCải trang Hit lydo: Giftcode at 03/14/2023 6:25 AM
+BAG:tahyko add 10xCuồng nộ lydo: Giftcode at 03/14/2023 6:25 AM
+BAG:tahyko add 10xBổ huyết lydo: Giftcode at 03/14/2023 6:25 AM
+BAG:tahyko add 10xBổ khí lydo: Giftcode at 03/14/2023 6:25 AM
+BAG:tahyko add 10xGiáp Xên bọ hung lydo: Giftcode at 03/14/2023 6:25 AM
+BAG:tahyko add 150xThỏi vàng (old: 50) lydo: Giftcode at 03/14/2023 6:26 AM
+BAG:tahyko add 1000xPháo hoa lydo: Giftcode at 03/14/2023 6:26 AM
+BAG:tahyko add 10xĐậu thần cấp 7 lydo: Thu hoạch đậu at 03/14/2023 6:28 AM
+BAG:tahyko add 13xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/14/2023 6:28 AM
+BAG:tahyko add 17xĐậu thần cấp 7 (old: 10) lydo: Lấy từ rương qua người at 03/14/2023 6:28 AM
+BAG:tahyko add 11xBổ khí (old: 10) lydo: HQT at 03/14/2023 6:28 AM
+BAG:tahyko add 12xBổ khí (old: 11) lydo: HQT at 03/14/2023 6:28 AM
+BAG:tahyko add 11xBổ huyết (old: 10) lydo: HQT at 03/14/2023 6:28 AM
+BAG:tahyko add 1xNgọc Rồng 6 sao lydo: HQT at 03/14/2023 6:29 AM
+BAG:tahyko add 1xNgọc Rồng 4 sao lydo: HQT at 03/14/2023 6:29 AM
+BAG:tahyko add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/14/2023 6:29 AM
+BAG:tahyko add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/14/2023 6:29 AM
+BAG:tahyko add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/14/2023 6:29 AM
+BAG:tahyko add 1xNgọc Rồng 7 sao lydo: HQT at 03/14/2023 6:29 AM
+BAG:tahyko add 1xCuồng nộ lydo: HQT at 03/14/2023 6:29 AM
+BAG:tahyko add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/14/2023 6:29 AM
+BAG:tahyko add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 1xBổ huyết lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 2xCuồng nộ (old: 1) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 1xNgọc Rồng 5 sao lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 17xGiáp Xên bọ hung (old: 16) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 1xBổ khí lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 2xBổ khí (old: 1) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 18xGiáp Xên bọ hung (old: 17) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 3xCuồng nộ (old: 2) lydo: HQT at 03/14/2023 6:30 AM
+BAG:tahyko add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/14/2023 6:32 AM
+BAG:tahyko add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/14/2023 6:32 AM
+BAG:tahyko add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/14/2023 6:32 AM
+BAG:tahyko add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/14/2023 6:32 AM
+BAG:tahyko add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/14/2023 6:32 AM
+BAG:tahyko add 4xCuồng nộ (old: 3) lydo: HQT at 03/14/2023 6:32 AM
+BAG:tahyko add 19xGiáp Xên bọ hung (old: 18) lydo: HQT at 03/14/2023 6:32 AM
+BAG:tahyko add 3xBổ khí (old: 2) lydo: HQT at 03/14/2023 6:32 AM
+BAG:tahyko add 4xBổ khí (old: 3) lydo: HQT at 03/14/2023 6:32 AM
+BAG:tahyko add 5xCuồng nộ (old: 4) lydo: HQT at 03/14/2023 6:32 AM
+BAG:tahyko add 15xCuồng nộ (old: 5) lydo: Lấy từ rương qua người at 03/14/2023 6:32 AM
+BAG:tahyko add 12xBổ huyết (old: 1) lydo: Lấy từ rương qua người at 03/14/2023 6:33 AM
+BAG:tahyko add 16xBổ khí (old: 4) lydo: Lấy từ rương qua người at 03/14/2023 6:33 AM
+BAG:tahyko add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 17xBổ khí (old: 16) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 16xCuồng nộ (old: 15) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 17xCuồng nộ (old: 16) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/14/2023 6:33 AM
+BAG:tahyko add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 18xCuồng nộ (old: 17) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/14/2023 6:33 AM
+BAG:tahyko add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/14/2023 6:33 AM
+BAG:tahyko add 1xGiầy vải thô lydo: Nhặt từ map at 03/14/2023 6:33 AM
+BAG:tahyko add 19xCuồng nộ (old: 18) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 20xCuồng nộ (old: 19) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 1xĐá Saphia lydo: Nhặt từ map at 03/14/2023 6:33 AM
+BAG:tahyko add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 21xCuồng nộ (old: 20) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 22xCuồng nộ (old: 21) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 23xCuồng nộ (old: 22) lydo: HQT at 03/14/2023 6:33 AM
+BAG:tahyko add 1xĐá Titan lydo: Nhặt từ map at 03/14/2023 6:33 AM
+BAG:tahyko add 1xĐá Ruby lydo: Nhặt từ map at 03/14/2023 6:34 AM
+BAG:tahyko add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/14/2023 6:34 AM
+BAG:tahyko add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/14/2023 6:34 AM
+BAG:tahyko add 20xGiáp Xên bọ hung (old: 19) lydo: HQT at 03/14/2023 6:34 AM
+BAG:tahyko add 21xGiáp Xên bọ hung (old: 20) lydo: HQT at 03/14/2023 6:34 AM
+BAG:tahyko add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/14/2023 6:34 AM
+BAG:tahyko add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/14/2023 6:34 AM
+BAG:tahyko add 1xCải trang Hit lydo: Lấy từ body vào hành trang at 03/14/2023 6:55 AM
+BAG:tahyko add 22xGiáp Xên bọ hung (old: 21) lydo: HQT at 03/14/2023 6:55 AM
+BAG:tahyko add 18xBổ khí (old: 17) lydo: HQT at 03/14/2023 6:55 AM
+BAG:tahyko add 24xCuồng nộ (old: 23) lydo: HQT at 03/14/2023 6:55 AM
+BAG:tahyko add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/14/2023 6:55 AM
+BAG:tahyko add 25xCuồng nộ (old: 24) lydo: HQT at 03/14/2023 6:56 AM
+BAG:tahyko add 23xGiáp Xên bọ hung (old: 22) lydo: HQT at 03/14/2023 6:56 AM
+BAG:tahyko add 19xBổ khí (old: 18) lydo: HQT at 03/14/2023 6:56 AM
+BAG:tahyko add 20xBổ khí (old: 19) lydo: HQT at 03/14/2023 6:56 AM
+BAG:tahyko add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/14/2023 6:56 AM
+BAG:tahyko add 25xGiáp Xên bọ hung (old: 24) lydo: HQT at 03/14/2023 6:56 AM
+BAG:tahyko add 13xBổ huyết (old: 12) lydo: HQT at 03/14/2023 6:56 AM
+BAG:tahyko add 26xGiáp Xên bọ hung (old: 25) lydo: HQT at 03/14/2023 6:56 AM
+BAG:tahyko add 26xCuồng nộ (old: 25) lydo: HQT at 03/14/2023 6:56 AM
+BAG:tahyko add 14xBổ huyết (old: 13) lydo: HQT at 03/14/2023 6:56 AM
+BAG:tahyko add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/14/2023 6:57 AM
+BAG:tahyko add 1xĐá Titan lydo: Nhặt từ map at 03/14/2023 6:57 AM
+BAG:tahyko add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/14/2023 7:00 AM
+BAG:tahyko add 1xĐá Saphia lydo: Nhặt từ map at 03/14/2023 7:00 AM
+BAG:tahyko add 1xĐá lục bảo lydo: Nhặt từ map at 03/14/2023 7:01 AM
+BAG:tahyko add 21xBổ khí (old: 20) lydo: HQT at 03/14/2023 7:02 AM
+BAG:tahyko add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/14/2023 7:02 AM
+BAG:tahyko add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/14/2023 7:02 AM
+BAG:tahyko add 22xBổ khí (old: 21) lydo: HQT at 03/14/2023 7:02 AM
+BAG:tahyko add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/14/2023 7:02 AM
+BAG:tahyko add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/14/2023 7:02 AM
+BAG:tahyko add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/14/2023 7:02 AM
+BAG:tahyko add 27xGiáp Xên bọ hung (old: 26) lydo: HQT at 03/14/2023 7:02 AM
+BAG:tahyko add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/14/2023 7:03 AM
+BAG:tahyko add 1xAvatar lydo: Mua từ cửa hàng at 03/14/2023 7:48 AM
+BAG:tahyko add 1xCải trang Hit lydo: Lấy từ body vào hành trang at 03/14/2023 7:48 AM
+BAG:tahyko add 1xAvatar lydo: Mua từ cửa hàng at 03/14/2023 7:48 AM
+BAG:tahyko add 23xBổ khí (old: 22) lydo: HQT at 03/14/2023 7:50 AM
+BAG:tahyko add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/14/2023 7:50 AM
+BAG:tahyko add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/14/2023 7:50 AM
+BAG:tahyko add 15xBổ huyết (old: 14) lydo: HQT at 03/14/2023 7:50 AM
+BAG:tahyko add 28xGiáp Xên bọ hung (old: 27) lydo: HQT at 03/14/2023 7:50 AM
+BAG:tahyko add 16xBổ huyết (old: 15) lydo: HQT at 03/14/2023 7:50 AM
+BAG:tahyko add 17xBổ huyết (old: 16) lydo: HQT at 03/14/2023 7:50 AM
+BAG:tahyko add 27xCuồng nộ (old: 26) lydo: HQT at 03/14/2023 7:50 AM
+BAG:tahyko add 28xCuồng nộ (old: 27) lydo: HQT at 03/14/2023 7:50 AM
+BAG:tahyko add 29xGiáp Xên bọ hung (old: 28) lydo: HQT at 03/14/2023 7:50 AM
+BAG:tahyko add 10xĐậu thần cấp 10 (old: 5) lydo: Thu hoạch đậu at 03/14/2023 7:50 AM
+BAG:tahyko add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/14/2023 7:50 AM

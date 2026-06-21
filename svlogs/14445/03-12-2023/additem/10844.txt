@@ -1,0 +1,520 @@
+BAG:hiennbeoo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 3:01 AM
+BAG:hiennbeoo add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/12/2023 3:03 AM
+BAG:hiennbeoo add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/12/2023 3:11 AM
+BAG:hiennbeoo add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/12/2023 3:12 AM
+BAG:hiennbeoo add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/12/2023 3:12 AM
+BAG:hiennbeoo add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/12/2023 3:19 AM
+BAG:hiennbeoo add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 3:20 AM
+BAG:hiennbeoo add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 3:21 AM
+BAG:hiennbeoo add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/12/2023 3:21 AM
+BAG:hiennbeoo add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 3:27 AM
+BAG:hiennbeoo add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/12/2023 3:27 AM
+BAG:hiennbeoo add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 3:30 AM
+BAG:hiennbeoo add 8xĐậu thần cấp 2 (old: 1) lydo: Thu hoạch đậu at 03/12/2023 3:31 AM
+BAG:hiennbeoo add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/12/2023 3:33 AM
+BAG:hiennbeoo add 1xGiầy sợi len lydo: Nhặt từ map at 03/12/2023 3:35 AM
+BAG:hiennbeoo add 1xMảnh Phi long lydo: Nhặt từ map at 03/12/2023 3:36 AM
+BAG:hiennbeoo add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 3:37 AM
+BAG:hiennbeoo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 3:38 AM
+BAG:hiennbeoo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 3:38 AM
+BAG:hiennbeoo add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 3:39 AM
+BAG:hiennbeoo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 3:39 AM
+BAG:hiennbeoo add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/12/2023 3:39 AM
+BAG:hiennbeoo add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/12/2023 3:40 AM
+BAG:hiennbeoo add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 3:40 AM
+BAG:hiennbeoo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 3:41 AM
+BAG:hiennbeoo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 3:42 AM
+BAG:hiennbeoo add 4xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/12/2023 3:43 AM
+BAG:hiennbeoo add 10xĐậu thần cấp 2 (old: 4) lydo: Thu hoạch đậu at 03/12/2023 3:43 AM
+BAG:hiennbeoo add 18xĐậu thần cấp 2 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 3:44 AM
+BAG:hiennbeoo add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/12/2023 3:44 AM
+BAG:hiennbeoo add 25xĐậu thần cấp 2 (old: 7) lydo: Lấy từ rương qua người at 03/12/2023 3:44 AM
+BAG:hiennbeoo add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/12/2023 3:45 AM
+BAG:hiennbeoo add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 03/12/2023 3:45 AM
+BAG:hiennbeoo add 1xÁo choàng thun lydo: Mua từ cửa hàng at 03/12/2023 3:48 AM
+BAG:hiennbeoo add 1xQuần thun cứng lydo: Mua từ cửa hàng at 03/12/2023 3:48 AM
+BAG:hiennbeoo add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/12/2023 3:48 AM
+BAG:hiennbeoo add 1xGiày cao su cứng lydo: Mua từ cửa hàng at 03/12/2023 3:48 AM
+BAG:hiennbeoo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 3:49 AM
+BAG:hiennbeoo add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/12/2023 3:50 AM
+BAG:hiennbeoo add 50xThỏi vàng lydo: Giftcode at 03/12/2023 3:52 AM
+BAG:hiennbeoo add 10xSao pha lê lydo: Giftcode at 03/12/2023 3:52 AM
+BAG:hiennbeoo add 10xSao pha lê lydo: Giftcode at 03/12/2023 3:52 AM
+BAG:hiennbeoo add 10xSao pha lê lydo: Giftcode at 03/12/2023 3:52 AM
+BAG:hiennbeoo add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 3:55 AM
+BAG:hiennbeoo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 3:57 AM
+BAG:hiennbeoo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 4:00 AM
+BAG:hiennbeoo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 4:00 AM
+BAG:hiennbeoo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 4:01 AM
+BAG:hiennbeoo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 4:03 AM
+BAG:hiennbeoo add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/12/2023 4:03 AM
+BAG:hiennbeoo add 10xĐậu thần cấp 2 (old: 7) lydo: Thu hoạch đậu at 03/12/2023 4:05 AM
+BAG:hiennbeoo add 14xĐậu thần cấp 2 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 4:05 AM
+BAG:hiennbeoo add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/12/2023 4:05 AM
+BAG:hiennbeoo add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/12/2023 4:05 AM
+BAG:hiennbeoo add 3xĐậu thần cấp 4 lydo: Thu hoạch đậu at 03/12/2023 4:06 AM
+BAG:hiennbeoo add 8xĐậu thần cấp 4 lydo: Thu hoạch đậu at 03/12/2023 4:06 AM
+BAG:hiennbeoo add 28xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 03/12/2023 4:06 AM
+BAG:hiennbeoo add 11xĐậu thần cấp 4 (old: 8) lydo: Lấy từ rương qua người at 03/12/2023 4:06 AM
+BAG:hiennbeoo add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/12/2023 4:07 AM
+BAG:hiennbeoo add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/12/2023 4:08 AM
+BAG:hiennbeoo add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 4:09 AM
+BAG:hiennbeoo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 4:10 AM
+BAG:hiennbeoo add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/12/2023 4:18 AM
+BAG:hiennbeoo add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 4:21 AM
+BAG:hiennbeoo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 4:26 AM
+BAG:hiennbeoo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 4:26 AM
+BAG:hiennbeoo add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 4:27 AM
+BAG:hiennbeoo add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 4:27 AM
+BAG:hiennbeoo add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 4:27 AM
+BAG:hiennbeoo add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 4:30 AM
+BAG:hiennbeoo add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/12/2023 4:31 AM
+BAG:hiennbeoo add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/12/2023 4:32 AM
+BAG:hiennbeoo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 4:37 AM
+BAG:hiennbeoo add 1xÁo sắt Tron lydo: Mua từ cửa hàng at 03/12/2023 4:41 AM
+BAG:hiennbeoo add 1xQuần sắt Tron lydo: Mua từ cửa hàng at 03/12/2023 4:42 AM
+BAG:hiennbeoo add 1xNho tím lydo: Mua từ cửa hàng at 03/12/2023 4:42 AM
+BAG:hiennbeoo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 4:44 AM
+BAG:hiennbeoo add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 4:44 AM
+BAG:hiennbeoo add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 4:45 AM
+BAG:hiennbeoo add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/12/2023 4:45 AM
+BAG:hiennbeoo add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/12/2023 4:45 AM
+BAG:hiennbeoo add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/12/2023 4:46 AM
+BAG:hiennbeoo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 4:48 AM
+BAG:hiennbeoo add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 4:48 AM
+BAG:hiennbeoo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 4:51 AM
+BAG:hiennbeoo add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/12/2023 4:55 AM
+BAG:hiennbeoo add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/12/2023 5:00 AM
+BAG:hiennbeoo add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/12/2023 5:01 AM
+BAG:hiennbeoo add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 5:01 AM
+BAG:hiennbeoo add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/12/2023 5:06 AM
+BAG:hiennbeoo add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/12/2023 5:07 AM
+BAG:hiennbeoo add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/12/2023 5:08 AM
+BAG:hiennbeoo add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/12/2023 5:08 AM
+BAG:hiennbeoo add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 5:09 AM
+BAG:hiennbeoo add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 5:09 AM
+BAG:hiennbeoo add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/12/2023 5:10 AM
+BAG:hiennbeoo add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/12/2023 5:11 AM
+BAG:hiennbeoo add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 5:13 AM
+BAG:hiennbeoo add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/12/2023 5:14 AM
+BAG:hiennbeoo add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/12/2023 5:14 AM
+BAG:hiennbeoo add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/12/2023 5:14 AM
+BAG:hiennbeoo add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 5:15 AM
+BAG:hiennbeoo add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/12/2023 5:15 AM
+BAG:hiennbeoo add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/12/2023 5:16 AM
+BAG:hiennbeoo add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/12/2023 5:16 AM
+BAG:hiennbeoo add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/12/2023 5:16 AM
+BAG:hiennbeoo add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/12/2023 5:16 AM
+BAG:hiennbeoo add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/12/2023 5:16 AM
+BAG:hiennbeoo add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/12/2023 5:17 AM
+BAG:hiennbeoo add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/12/2023 5:17 AM
+BAG:hiennbeoo add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/12/2023 5:18 AM
+BAG:hiennbeoo add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/12/2023 5:18 AM
+BAG:hiennbeoo add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/12/2023 5:20 AM
+BAG:hiennbeoo add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/12/2023 5:21 AM
+BAG:hiennbeoo add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/12/2023 5:24 AM
+BAG:hiennbeoo add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/12/2023 5:27 AM
+BAG:hiennbeoo add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/12/2023 5:30 AM
+BAG:hiennbeoo add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/12/2023 5:31 AM
+BAG:hiennbeoo add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/12/2023 5:32 AM
+BAG:hiennbeoo add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/12/2023 5:32 AM
+BAG:hiennbeoo add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/12/2023 5:32 AM
+BAG:hiennbeoo add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/12/2023 5:33 AM
+BAG:hiennbeoo add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/12/2023 5:36 AM
+BAG:hiennbeoo add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/12/2023 5:37 AM
+BAG:hiennbeoo add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/12/2023 5:38 AM
+BAG:hiennbeoo add 1xCải trang lydo: Mua từ cửa hàng at 03/12/2023 5:39 AM
+BAG:hiennbeoo add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 5:40 AM
+BAG:hiennbeoo add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/12/2023 5:40 AM
+BAG:hiennbeoo add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/12/2023 5:44 AM
+BAG:hiennbeoo add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/12/2023 5:45 AM
+BAG:hiennbeoo add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/12/2023 5:45 AM
+BAG:hiennbeoo add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 5:47 AM
+BAG:hiennbeoo add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 5:47 AM
+BAG:hiennbeoo add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/12/2023 5:48 AM
+BAG:hiennbeoo add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/12/2023 5:49 AM
+BAG:hiennbeoo add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/12/2023 5:50 AM
+BAG:hiennbeoo add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/12/2023 5:50 AM
+BAG:hiennbeoo add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/12/2023 5:50 AM
+BAG:hiennbeoo add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/12/2023 5:51 AM
+BAG:hiennbeoo add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/12/2023 5:52 AM
+BAG:hiennbeoo add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/12/2023 5:54 AM
+BAG:hiennbeoo add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 5:54 AM
+BAG:hiennbeoo add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/12/2023 5:55 AM
+BAG:hiennbeoo add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/12/2023 5:58 AM
+BAG:hiennbeoo add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/12/2023 5:58 AM
+BAG:hiennbeoo add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/12/2023 6:02 AM
+BAG:hiennbeoo add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/12/2023 6:03 AM
+BAG:hiennbeoo add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/12/2023 6:03 AM
+BAG:hiennbeoo add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/12/2023 6:05 AM
+BAG:hiennbeoo add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/12/2023 6:05 AM
+BAG:hiennbeoo add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/12/2023 6:05 AM
+BAG:hiennbeoo add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/12/2023 6:05 AM
+BAG:hiennbeoo add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:hiennbeoo add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:hiennbeoo add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:hiennbeoo add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:hiennbeoo add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:hiennbeoo add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:hiennbeoo add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/12/2023 6:15 AM
+BAG:hiennbeoo add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/12/2023 6:15 AM
+BAG:hiennbeoo add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/12/2023 6:16 AM
+BAG:hiennbeoo add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/12/2023 6:18 AM
+BAG:hiennbeoo add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 6:18 AM
+BAG:hiennbeoo add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/12/2023 6:19 AM
+BAG:hiennbeoo add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/12/2023 6:20 AM
+BAG:hiennbeoo add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/12/2023 6:20 AM
+BAG:hiennbeoo add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/12/2023 6:21 AM
+BAG:hiennbeoo add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/12/2023 6:22 AM
+BAG:hiennbeoo add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/12/2023 6:24 AM
+BAG:hiennbeoo add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/12/2023 6:30 AM
+BAG:hiennbeoo add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/12/2023 6:30 AM
+BAG:hiennbeoo add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/12/2023 6:30 AM
+BAG:hiennbeoo add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/12/2023 6:30 AM
+BAG:hiennbeoo add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/12/2023 6:31 AM
+BAG:hiennbeoo add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/12/2023 6:31 AM
+BAG:hiennbeoo add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/12/2023 6:35 AM
+BAG:hiennbeoo add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/12/2023 6:36 AM
+BAG:hiennbeoo add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/12/2023 6:37 AM
+BAG:hiennbeoo add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/12/2023 6:37 AM
+BAG:hiennbeoo add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/12/2023 6:37 AM
+BAG:hiennbeoo add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/12/2023 6:40 AM
+BAG:hiennbeoo add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/12/2023 6:40 AM
+BAG:hiennbeoo add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/12/2023 6:42 AM
+BAG:hiennbeoo add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/12/2023 6:44 AM
+BAG:hiennbeoo add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/12/2023 6:45 AM
+BAG:hiennbeoo add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/12/2023 6:45 AM
+BAG:hiennbeoo add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/12/2023 6:47 AM
+BAG:hiennbeoo add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/12/2023 6:47 AM
+BAG:hiennbeoo add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/12/2023 6:48 AM
+BAG:hiennbeoo add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/12/2023 6:51 AM
+BAG:hiennbeoo add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/12/2023 6:51 AM
+BAG:hiennbeoo add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/12/2023 6:53 AM
+BAG:hiennbeoo add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/12/2023 6:55 AM
+BAG:hiennbeoo add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/12/2023 6:55 AM
+BAG:hiennbeoo add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/12/2023 6:56 AM
+BAG:hiennbeoo add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/12/2023 6:57 AM
+BAG:hiennbeoo add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/12/2023 6:57 AM
+BAG:hiennbeoo add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/12/2023 6:58 AM
+BAG:hiennbeoo add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/12/2023 6:58 AM
+BAG:hiennbeoo add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:hiennbeoo add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:hiennbeoo add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:hiennbeoo add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:hiennbeoo add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:hiennbeoo add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:hiennbeoo add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/12/2023 7:07 AM
+BAG:hiennbeoo add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:hiennbeoo add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/12/2023 7:11 AM
+BAG:hiennbeoo add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/12/2023 7:11 AM
+BAG:hiennbeoo add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/12/2023 7:12 AM
+BAG:hiennbeoo add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:hiennbeoo add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/12/2023 7:14 AM
+BAG:hiennbeoo add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:hiennbeoo add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:hiennbeoo add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:hiennbeoo add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/12/2023 7:21 AM
+BAG:hiennbeoo add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/12/2023 7:22 AM
+BAG:hiennbeoo add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/12/2023 7:23 AM
+BAG:hiennbeoo add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/12/2023 7:24 AM
+BAG:hiennbeoo add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/12/2023 7:25 AM
+BAG:hiennbeoo add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/12/2023 7:25 AM
+BAG:hiennbeoo add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/12/2023 7:29 AM
+BAG:hiennbeoo add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/12/2023 7:30 AM
+BAG:hiennbeoo add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/12/2023 7:33 AM
+BAG:hiennbeoo add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/12/2023 7:34 AM
+BAG:hiennbeoo add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/12/2023 7:39 AM
+BAG:hiennbeoo add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/12/2023 7:40 AM
+BAG:hiennbeoo add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/12/2023 7:42 AM
+BAG:hiennbeoo add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/12/2023 7:43 AM
+BAG:hiennbeoo add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/12/2023 7:44 AM
+BAG:hiennbeoo add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/12/2023 7:44 AM
+BAG:hiennbeoo add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/12/2023 7:45 AM
+BAG:hiennbeoo add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/12/2023 7:45 AM
+BAG:hiennbeoo add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/12/2023 7:46 AM
+BAG:hiennbeoo add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:hiennbeoo add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:hiennbeoo add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:hiennbeoo add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:hiennbeoo add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:hiennbeoo add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:hiennbeoo add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/12/2023 7:54 AM
+BAG:hiennbeoo add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/12/2023 7:54 AM
+BAG:hiennbeoo add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/12/2023 7:54 AM
+BAG:hiennbeoo add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/12/2023 7:56 AM
+BAG:hiennbeoo add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/12/2023 7:56 AM
+BAG:hiennbeoo add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:hiennbeoo add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:hiennbeoo add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/12/2023 8:02 AM
+BAG:hiennbeoo add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/12/2023 8:02 AM
+BAG:hiennbeoo add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:hiennbeoo add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:hiennbeoo add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:hiennbeoo add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:hiennbeoo add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/12/2023 8:05 AM
+BAG:hiennbeoo add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 1:13 PM
+BAG:hiennbeoo add 1xGhế bay lydo: Mua từ cửa hàng at 03/12/2023 1:13 PM
+BAG:hiennbeoo add 1xSách đấm Demon lv1 lydo: Mua từ cửa hàng at 03/12/2023 1:34 PM
+BAG:hiennbeoo add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/12/2023 1:34 PM
+BAG:hiennbeoo add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/12/2023 1:34 PM
+BAG:hiennbeoo add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/12/2023 1:35 PM
+BAG:hiennbeoo add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/12/2023 1:35 PM
+BAG:hiennbeoo add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/12/2023 1:36 PM
+BAG:hiennbeoo add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 1:38 PM
+BAG:hiennbeoo add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/12/2023 1:38 PM
+BAG:hiennbeoo add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:hiennbeoo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:hiennbeoo add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:hiennbeoo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:hiennbeoo add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:hiennbeoo add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:hiennbeoo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 1:48 PM
+BAG:hiennbeoo add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 1:49 PM
+BAG:hiennbeoo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 1:50 PM
+BAG:hiennbeoo add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/12/2023 2:09 PM
+BAG:hiennbeoo add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/12/2023 2:09 PM
+BAG:hiennbeoo add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/12/2023 2:13 PM
+BAG:hiennbeoo add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 2:14 PM
+BAG:hiennbeoo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 2:15 PM
+BAG:hiennbeoo add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/12/2023 2:15 PM
+BAG:hiennbeoo add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/12/2023 2:17 PM
+BAG:hiennbeoo add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/12/2023 2:30 PM
+BAG:hiennbeoo add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/12/2023 2:31 PM
+BAG:hiennbeoo add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/12/2023 2:35 PM
+BAG:hiennbeoo add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 2:35 PM
+BAG:hiennbeoo add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/12/2023 2:36 PM
+BAG:hiennbeoo add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/12/2023 2:38 PM
+BAG:hiennbeoo add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/12/2023 2:40 PM
+BAG:hiennbeoo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 2:44 PM
+BAG:hiennbeoo add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/12/2023 2:49 PM
+BAG:hiennbeoo add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 2:50 PM
+BAG:hiennbeoo add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/12/2023 2:50 PM
+BAG:hiennbeoo add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/12/2023 2:51 PM
+BAG:hiennbeoo add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/12/2023 3:20 PM
+BAG:hiennbeoo add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/12/2023 3:20 PM
+BAG:hiennbeoo add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/12/2023 3:21 PM
+BAG:hiennbeoo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 3:24 PM
+BAG:hiennbeoo add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/12/2023 3:25 PM
+BAG:hiennbeoo add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/12/2023 3:49 PM
+BAG:hiennbeoo add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/12/2023 3:52 PM
+BAG:hiennbeoo add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/12/2023 3:52 PM
+BAG:hiennbeoo add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/12/2023 3:52 PM
+BAG:hiennbeoo add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/12/2023 3:54 PM
+BAG:hiennbeoo add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/12/2023 3:58 PM
+BAG:hiennbeoo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 3:59 PM
+BAG:hiennbeoo add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 3:59 PM
+BAG:hiennbeoo add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 4:00 PM
+BAG:hiennbeoo add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 4:02 PM
+BAG:hiennbeoo add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 4:02 PM
+BAG:hiennbeoo add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/12/2023 4:05 PM
+BAG:hiennbeoo add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/12/2023 4:05 PM
+BAG:hiennbeoo add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/12/2023 4:08 PM
+BAG:hiennbeoo add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/12/2023 4:08 PM
+BAG:hiennbeoo add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/12/2023 4:08 PM
+BAG:hiennbeoo add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/12/2023 4:08 PM
+BAG:hiennbeoo add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/12/2023 4:14 PM
+BAG:hiennbeoo add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/12/2023 4:14 PM
+BAG:hiennbeoo add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/12/2023 4:19 PM
+BAG:hiennbeoo add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/12/2023 4:20 PM
+BAG:hiennbeoo add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/12/2023 4:21 PM
+BAG:hiennbeoo add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/12/2023 4:25 PM
+BAG:hiennbeoo add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/12/2023 4:25 PM
+BAG:hiennbeoo add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/12/2023 4:25 PM
+BAG:hiennbeoo add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/12/2023 4:26 PM
+BAG:hiennbeoo add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/12/2023 4:27 PM
+BAG:hiennbeoo add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/12/2023 4:28 PM
+BAG:hiennbeoo add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/12/2023 4:29 PM
+BAG:hiennbeoo add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/12/2023 4:29 PM
+BAG:hiennbeoo add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/12/2023 4:30 PM
+BAG:hiennbeoo add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/12/2023 4:30 PM
+BAG:hiennbeoo add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/12/2023 4:31 PM
+BAG:hiennbeoo add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/12/2023 4:31 PM
+BAG:hiennbeoo add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/12/2023 4:31 PM
+BAG:hiennbeoo add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/12/2023 4:35 PM
+BAG:hiennbeoo add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 03/12/2023 4:36 PM
+BAG:hiennbeoo add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 03/12/2023 4:37 PM
+BAG:hiennbeoo add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/12/2023 4:40 PM
+BAG:hiennbeoo add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/12/2023 4:41 PM
+BAG:hiennbeoo add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/12/2023 4:42 PM
+BAG:hiennbeoo add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/12/2023 4:47 PM
+BAG:hiennbeoo add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/12/2023 4:47 PM
+BAG:hiennbeoo add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/12/2023 4:48 PM
+BAG:hiennbeoo add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/12/2023 4:48 PM
+BAG:hiennbeoo add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/12/2023 4:53 PM
+BAG:hiennbeoo add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/12/2023 4:55 PM
+BAG:hiennbeoo add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/12/2023 4:56 PM
+BAG:hiennbeoo add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/12/2023 4:56 PM
+BAG:hiennbeoo add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/12/2023 4:57 PM
+BAG:hiennbeoo add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/12/2023 4:57 PM
+BAG:hiennbeoo add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/12/2023 4:58 PM
+BAG:hiennbeoo add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/12/2023 4:58 PM
+BAG:hiennbeoo add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/12/2023 5:00 PM
+BAG:hiennbeoo add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/12/2023 5:00 PM
+BAG:hiennbeoo add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/12/2023 5:00 PM
+BAG:hiennbeoo add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/12/2023 5:00 PM
+BAG:hiennbeoo add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:hiennbeoo add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/12/2023 5:03 PM
+BAG:hiennbeoo add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 03/12/2023 5:04 PM
+BAG:hiennbeoo add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/12/2023 5:04 PM
+BAG:hiennbeoo add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:hiennbeoo add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:hiennbeoo add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:hiennbeoo add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:hiennbeoo add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:hiennbeoo add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:hiennbeoo add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:hiennbeoo add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:hiennbeoo add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/12/2023 5:07 PM
+BAG:hiennbeoo add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/12/2023 5:07 PM
+BAG:hiennbeoo add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/12/2023 5:07 PM
+BAG:hiennbeoo add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/12/2023 5:08 PM
+BAG:hiennbeoo add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 03/12/2023 5:08 PM
+BAG:hiennbeoo add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/12/2023 5:08 PM
+BAG:hiennbeoo add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 03/12/2023 5:08 PM
+BAG:hiennbeoo add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:hiennbeoo add 12xMảnh Lợn lòi (old: 11) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:hiennbeoo add 13xMảnh Lợn lòi (old: 12) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:hiennbeoo add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:hiennbeoo add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:hiennbeoo add 14xMảnh Lợn lòi (old: 13) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:hiennbeoo add 15xMảnh Lợn lòi (old: 14) lydo: Nhặt từ map at 03/12/2023 5:10 PM
+BAG:hiennbeoo add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/12/2023 5:10 PM
+BAG:hiennbeoo add 16xMảnh Lợn lòi (old: 15) lydo: Nhặt từ map at 03/12/2023 5:10 PM
+BAG:hiennbeoo add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/12/2023 5:10 PM
+BAG:hiennbeoo add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/12/2023 5:11 PM
+BAG:hiennbeoo add 17xMảnh Lợn lòi (old: 16) lydo: Nhặt từ map at 03/12/2023 5:11 PM
+BAG:hiennbeoo add 18xMảnh Lợn lòi (old: 17) lydo: Nhặt từ map at 03/12/2023 5:11 PM
+BAG:hiennbeoo add 19xMảnh Lợn lòi (old: 18) lydo: Nhặt từ map at 03/12/2023 5:11 PM
+BAG:hiennbeoo add 20xMảnh Lợn lòi (old: 19) lydo: Nhặt từ map at 03/12/2023 5:11 PM
+BAG:hiennbeoo add 21xMảnh Lợn lòi (old: 20) lydo: Nhặt từ map at 03/12/2023 5:11 PM
+BAG:hiennbeoo add 22xMảnh Lợn lòi (old: 21) lydo: Nhặt từ map at 03/12/2023 5:12 PM
+BAG:hiennbeoo add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/12/2023 5:12 PM
+BAG:hiennbeoo add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/12/2023 5:12 PM
+BAG:hiennbeoo add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/12/2023 5:13 PM
+BAG:hiennbeoo add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/12/2023 5:13 PM
+BAG:hiennbeoo add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/12/2023 5:14 PM
+BAG:hiennbeoo add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/12/2023 5:16 PM
+BAG:hiennbeoo add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/12/2023 5:17 PM
+BAG:hiennbeoo add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/12/2023 5:17 PM
+BAG:hiennbeoo add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/12/2023 5:18 PM
+BAG:hiennbeoo add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/12/2023 5:18 PM
+BAG:hiennbeoo add 23xMảnh Lợn lòi (old: 22) lydo: Nhặt từ map at 03/12/2023 5:18 PM
+BAG:hiennbeoo add 24xMảnh Lợn lòi (old: 23) lydo: Nhặt từ map at 03/12/2023 5:18 PM
+BAG:hiennbeoo add 25xMảnh Lợn lòi (old: 24) lydo: Nhặt từ map at 03/12/2023 5:19 PM
+BAG:hiennbeoo add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/12/2023 5:19 PM
+BAG:hiennbeoo add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/12/2023 5:19 PM
+BAG:hiennbeoo add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/12/2023 5:19 PM
+BAG:hiennbeoo add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 03/12/2023 5:20 PM
+BAG:hiennbeoo add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 03/12/2023 5:20 PM
+BAG:hiennbeoo add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/12/2023 5:21 PM
+BAG:hiennbeoo add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/12/2023 5:21 PM
+BAG:hiennbeoo add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 03/12/2023 5:21 PM
+BAG:hiennbeoo add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/12/2023 5:21 PM
+BAG:hiennbeoo add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/12/2023 5:22 PM
+BAG:hiennbeoo add 7xMảnh Lợn lòi mẹ (old: 6) lydo: Nhặt từ map at 03/12/2023 5:22 PM
+BAG:hiennbeoo add 26xMảnh Lợn lòi (old: 25) lydo: Nhặt từ map at 03/12/2023 5:23 PM
+BAG:hiennbeoo add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/12/2023 5:24 PM
+BAG:hiennbeoo add 27xMảnh Lợn lòi (old: 26) lydo: Nhặt từ map at 03/12/2023 5:25 PM
+BAG:hiennbeoo add 28xMảnh Lợn lòi (old: 27) lydo: Nhặt từ map at 03/12/2023 5:25 PM
+BAG:hiennbeoo add 29xMảnh Lợn lòi (old: 28) lydo: Nhặt từ map at 03/12/2023 5:25 PM
+BAG:hiennbeoo add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/12/2023 5:26 PM
+BAG:hiennbeoo add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/12/2023 5:27 PM
+BAG:hiennbeoo add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/12/2023 5:27 PM
+BAG:hiennbeoo add 8xMảnh Lợn lòi mẹ (old: 7) lydo: Nhặt từ map at 03/12/2023 5:28 PM
+BAG:hiennbeoo add 9xMảnh Lợn lòi mẹ (old: 8) lydo: Nhặt từ map at 03/12/2023 5:28 PM
+BAG:hiennbeoo add 10xMảnh Lợn lòi mẹ (old: 9) lydo: Nhặt từ map at 03/12/2023 5:29 PM
+BAG:hiennbeoo add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 03/12/2023 5:30 PM
+BAG:hiennbeoo add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/12/2023 5:30 PM
+BAG:hiennbeoo add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/12/2023 5:31 PM
+BAG:hiennbeoo add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/12/2023 5:32 PM
+BAG:hiennbeoo add 30xMảnh Lợn lòi (old: 29) lydo: Nhặt từ map at 03/12/2023 5:32 PM
+BAG:hiennbeoo add 31xMảnh Lợn lòi (old: 30) lydo: Nhặt từ map at 03/12/2023 5:32 PM
+BAG:hiennbeoo add 32xMảnh Lợn lòi (old: 31) lydo: Nhặt từ map at 03/12/2023 5:32 PM
+BAG:hiennbeoo add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 03/12/2023 5:33 PM
+BAG:hiennbeoo add 11xMảnh Lợn lòi mẹ (old: 10) lydo: Nhặt từ map at 03/12/2023 5:33 PM
+BAG:hiennbeoo add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/12/2023 5:34 PM
+BAG:hiennbeoo add 33xMảnh Lợn lòi (old: 32) lydo: Nhặt từ map at 03/12/2023 5:34 PM
+BAG:hiennbeoo add 34xMảnh Lợn lòi (old: 33) lydo: Nhặt từ map at 03/12/2023 5:35 PM
+BAG:hiennbeoo add 12xMảnh Lợn lòi mẹ (old: 11) lydo: Nhặt từ map at 03/12/2023 5:35 PM
+BAG:hiennbeoo add 13xMảnh Lợn lòi mẹ (old: 12) lydo: Nhặt từ map at 03/12/2023 5:36 PM
+BAG:hiennbeoo add 14xMảnh Lợn lòi mẹ (old: 13) lydo: Nhặt từ map at 03/12/2023 5:36 PM
+BAG:hiennbeoo add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/12/2023 5:36 PM
+BAG:hiennbeoo add 15xMảnh Lợn lòi mẹ (old: 14) lydo: Nhặt từ map at 03/12/2023 5:36 PM
+BAG:hiennbeoo add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 03/12/2023 5:37 PM
+BAG:hiennbeoo add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/12/2023 5:38 PM
+BAG:hiennbeoo add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/12/2023 5:38 PM
+BAG:hiennbeoo add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/12/2023 5:39 PM
+BAG:hiennbeoo add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/12/2023 5:39 PM
+BAG:hiennbeoo add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/12/2023 5:39 PM
+BAG:hiennbeoo add 35xMảnh Lợn lòi (old: 34) lydo: Nhặt từ map at 03/12/2023 5:39 PM
+BAG:hiennbeoo add 36xMảnh Lợn lòi (old: 35) lydo: Nhặt từ map at 03/12/2023 5:39 PM
+BAG:hiennbeoo add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/12/2023 5:40 PM
+BAG:hiennbeoo add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 03/12/2023 5:40 PM
+BAG:hiennbeoo add 1xMảnh Phi long lydo: Nhặt từ map at 03/12/2023 5:41 PM
+BAG:hiennbeoo add 16xMảnh Lợn lòi mẹ (old: 15) lydo: Nhặt từ map at 03/12/2023 5:41 PM
+BAG:hiennbeoo add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/12/2023 5:42 PM
+BAG:hiennbeoo add 17xMảnh Lợn lòi mẹ (old: 16) lydo: Nhặt từ map at 03/12/2023 5:42 PM
+BAG:hiennbeoo add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 03/12/2023 5:42 PM
+BAG:hiennbeoo add 18xMảnh Lợn lòi mẹ (old: 17) lydo: Nhặt từ map at 03/12/2023 5:42 PM
+BAG:hiennbeoo add 3xMảnh Phi long (old: 2) lydo: Nhặt từ map at 03/12/2023 5:44 PM
+BAG:hiennbeoo add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 03/12/2023 5:44 PM
+BAG:hiennbeoo add 19xMảnh Lợn lòi mẹ (old: 18) lydo: Nhặt từ map at 03/12/2023 5:44 PM
+BAG:hiennbeoo add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 03/12/2023 5:44 PM
+BAG:hiennbeoo add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/12/2023 5:44 PM
+BAG:hiennbeoo add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/12/2023 5:45 PM
+BAG:hiennbeoo add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/12/2023 5:45 PM
+BAG:hiennbeoo add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 03/12/2023 5:45 PM
+BAG:hiennbeoo add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/12/2023 5:45 PM
+BAG:hiennbeoo add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhặt từ map at 03/12/2023 5:45 PM
+BAG:hiennbeoo add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/12/2023 5:46 PM
+BAG:hiennbeoo add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/12/2023 5:46 PM
+BAG:hiennbeoo add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 03/12/2023 5:46 PM
+BAG:hiennbeoo add 20xMảnh Lợn lòi mẹ (old: 19) lydo: Nhặt từ map at 03/12/2023 5:46 PM
+BAG:hiennbeoo add 63xĐá Saphia (old: 62) lydo: Nhặt từ map at 03/12/2023 5:46 PM
+BAG:hiennbeoo add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/12/2023 5:47 PM
+BAG:hiennbeoo add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/12/2023 5:47 PM
+BAG:hiennbeoo add 21xMảnh Lợn lòi mẹ (old: 20) lydo: Nhặt từ map at 03/12/2023 5:47 PM
+BAG:hiennbeoo add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/12/2023 5:48 PM
+BAG:hiennbeoo add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/12/2023 5:49 PM
+BAG:hiennbeoo add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/12/2023 5:53 PM
+BAG:hiennbeoo add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/12/2023 5:54 PM
+BAG:hiennbeoo add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/12/2023 5:54 PM
+BAG:hiennbeoo add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/12/2023 5:54 PM
+BAG:hiennbeoo add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/12/2023 6:04 PM
+BAG:hiennbeoo add 64xĐá Saphia (old: 63) lydo: Nhặt từ map at 03/12/2023 6:05 PM
+BAG:hiennbeoo add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/12/2023 6:06 PM
+BAG:hiennbeoo add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/12/2023 6:07 PM
+BAG:hiennbeoo add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/12/2023 6:07 PM
+BAG:hiennbeoo add 65xĐá Saphia (old: 64) lydo: Nhặt từ map at 03/12/2023 6:08 PM
+BAG:hiennbeoo add 66xĐá Saphia (old: 65) lydo: Nhặt từ map at 03/12/2023 6:08 PM
+BAG:hiennbeoo add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/12/2023 6:09 PM
+BAG:hiennbeoo add 67xĐá Saphia (old: 66) lydo: Nhặt từ map at 03/12/2023 6:11 PM
+BAG:hiennbeoo add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/12/2023 6:11 PM
+BAG:hiennbeoo add 68xĐá Saphia (old: 67) lydo: Nhặt từ map at 03/12/2023 6:12 PM
+BAG:hiennbeoo add 69xĐá Saphia (old: 68) lydo: Nhặt từ map at 03/12/2023 6:12 PM
+BAG:hiennbeoo add 70xĐá Saphia (old: 69) lydo: Nhặt từ map at 03/12/2023 6:14 PM
+BAG:hiennbeoo add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/12/2023 6:14 PM
+BAG:hiennbeoo add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/12/2023 6:16 PM
+BAG:hiennbeoo add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/12/2023 6:16 PM
+BAG:hiennbeoo add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/12/2023 6:17 PM
+BAG:hiennbeoo add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/12/2023 6:18 PM
+BAG:hiennbeoo add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/12/2023 6:18 PM
+BAG:hiennbeoo add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 03/12/2023 6:19 PM
+BAG:hiennbeoo add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/12/2023 6:19 PM
+BAG:hiennbeoo add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/12/2023 6:20 PM
+BAG:hiennbeoo add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/12/2023 6:24 PM
+BAG:hiennbeoo add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/12/2023 6:24 PM
+BAG:hiennbeoo add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhặt từ map at 03/12/2023 6:25 PM
+BAG:hiennbeoo add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/12/2023 6:26 PM
+BAG:hiennbeoo add 71xĐá Saphia (old: 70) lydo: Nhặt từ map at 03/12/2023 6:28 PM
+BAG:hiennbeoo add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/12/2023 6:29 PM
+BAG:hiennbeoo add 72xĐá Saphia (old: 71) lydo: Nhặt từ map at 03/12/2023 6:30 PM
+BAG:hiennbeoo add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhặt từ map at 03/12/2023 6:30 PM
+BAG:hiennbeoo add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/12/2023 6:31 PM
+BAG:hiennbeoo add 73xĐá Saphia (old: 72) lydo: Nhặt từ map at 03/12/2023 6:34 PM
+BAG:hiennbeoo add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/12/2023 6:36 PM
+BAG:hiennbeoo add 74xĐá Saphia (old: 73) lydo: Nhặt từ map at 03/12/2023 6:37 PM
+BAG:hiennbeoo add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/12/2023 6:39 PM
+BAG:hiennbeoo add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 03/12/2023 6:40 PM
+BAG:hiennbeoo add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 03/12/2023 6:40 PM
+BAG:hiennbeoo add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/12/2023 6:40 PM

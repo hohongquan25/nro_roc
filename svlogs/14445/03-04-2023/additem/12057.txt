@@ -1,0 +1,904 @@
+BAG:sakagrap add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/04/2023 12:08 AM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 12:11 AM
+BAG:sakagrap add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 12:12 AM
+BAG:sakagrap add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 12:12 AM
+BAG:sakagrap add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 12:13 AM
+BAG:sakagrap add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 12:14 AM
+BAG:sakagrap add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 12:15 AM
+BAG:sakagrap add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/04/2023 12:15 AM
+BAG:sakagrap add 1xBột mì lydo: Nhặt từ map at 03/04/2023 12:15 AM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 12:15 AM
+BAG:sakagrap add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/04/2023 12:16 AM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 12:16 AM
+BAG:sakagrap add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 12:16 AM
+BAG:sakagrap add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/04/2023 12:16 AM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 12:17 AM
+BAG:sakagrap add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/04/2023 12:17 AM
+BAG:sakagrap add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/04/2023 12:17 AM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 12:17 AM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 12:17 AM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 12:17 AM
+BAG:sakagrap add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 12:17 AM
+BAG:sakagrap add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 12:17 AM
+BAG:sakagrap add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 12:18 AM
+BAG:sakagrap add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 12:18 AM
+BAG:sakagrap add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 12:18 AM
+BAG:sakagrap add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/04/2023 12:18 AM
+BAG:sakagrap add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 12:18 AM
+BAG:sakagrap add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/04/2023 12:19 AM
+BAG:sakagrap add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 8:01 AM
+BAG:sakagrap add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/04/2023 8:02 AM
+BAG:sakagrap add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/04/2023 8:04 AM
+BAG:sakagrap add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/04/2023 8:04 AM
+BAG:sakagrap add 1xMèo mun lydo: Mua từ cửa hàng at 03/04/2023 8:05 AM
+BAG:sakagrap add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/04/2023 8:05 AM
+BAG:sakagrap add 1000000xThỏi vàng lydo: Giftcode at 03/04/2023 8:06 AM
+BAG:sakagrap add 10000xĐá ngũ sắc lydo: Giftcode at 03/04/2023 8:06 AM
+BAG:sakagrap add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/04/2023 8:07 AM
+BAG:sakagrap add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/04/2023 8:07 AM
+BAG:sakagrap add 7xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/04/2023 8:09 AM
+BAG:sakagrap add 27xĐậu thần cấp 10 (old: 7) lydo: Lấy từ rương qua người at 03/04/2023 8:09 AM
+BAG:sakagrap add 47xĐậu thần cấp 10 (old: 27) lydo: Lấy từ rương qua người at 03/04/2023 8:09 AM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 8:10 AM
+BAG:sakagrap add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/04/2023 8:10 AM
+BAG:sakagrap add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 8:11 AM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 8:11 AM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 8:11 AM
+BAG:sakagrap add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/04/2023 8:11 AM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 8:11 AM
+BAG:sakagrap add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 8:11 AM
+BAG:sakagrap add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 8:12 AM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 8:12 AM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 8:12 AM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 8:12 AM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 8:12 AM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 8:12 AM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 8:12 AM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 8:13 AM
+BAG:sakagrap add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/04/2023 8:13 AM
+BAG:sakagrap add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/04/2023 8:13 AM
+BAG:sakagrap add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/04/2023 8:13 AM
+BAG:sakagrap add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/04/2023 8:13 AM
+BAG:sakagrap add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/04/2023 8:13 AM
+BAG:sakagrap add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/04/2023 8:13 AM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 8:13 AM
+BAG:sakagrap add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/04/2023 8:13 AM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 8:14 AM
+BAG:sakagrap add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/04/2023 8:14 AM
+BAG:sakagrap add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/04/2023 8:14 AM
+BAG:sakagrap add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/04/2023 8:15 AM
+BAG:sakagrap add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/04/2023 8:15 AM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 8:15 AM
+BAG:sakagrap add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/04/2023 8:15 AM
+BAG:sakagrap add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/04/2023 8:15 AM
+BAG:sakagrap add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/04/2023 8:16 AM
+BAG:sakagrap add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 8:16 AM
+BAG:sakagrap add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/04/2023 8:16 AM
+BAG:sakagrap add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/04/2023 8:16 AM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 8:16 AM
+BAG:sakagrap add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/04/2023 8:16 AM
+BAG:sakagrap add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/04/2023 8:17 AM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 8:17 AM
+BAG:sakagrap add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/04/2023 8:17 AM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 8:17 AM
+BAG:sakagrap add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/04/2023 8:17 AM
+BAG:sakagrap add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/04/2023 8:17 AM
+BAG:sakagrap add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/04/2023 8:18 AM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 8:18 AM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 8:18 AM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 8:18 AM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 8:18 AM
+BAG:sakagrap add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/04/2023 8:18 AM
+BAG:sakagrap add 1xĐá Saphia lydo: Nhặt từ map at 03/04/2023 8:19 AM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 8:19 AM
+BAG:sakagrap add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/04/2023 8:19 AM
+BAG:sakagrap add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/04/2023 8:19 AM
+BAG:sakagrap add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:sakagrap add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:sakagrap add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:sakagrap add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 8:20 AM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 8:21 AM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 8:21 AM
+BAG:sakagrap add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/04/2023 8:21 AM
+BAG:sakagrap add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/04/2023 8:21 AM
+BAG:sakagrap add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/04/2023 8:21 AM
+BAG:sakagrap add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/04/2023 8:21 AM
+BAG:sakagrap add 1xĐá Ruby lydo: Nhặt từ map at 03/04/2023 8:21 AM
+BAG:sakagrap add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/04/2023 8:21 AM
+BAG:sakagrap add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/04/2023 8:21 AM
+BAG:sakagrap add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/04/2023 8:22 AM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 8:22 AM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 8:22 AM
+BAG:sakagrap add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/04/2023 8:22 AM
+BAG:sakagrap add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/04/2023 8:22 AM
+BAG:sakagrap add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/04/2023 8:22 AM
+BAG:sakagrap add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/04/2023 8:22 AM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 8:23 AM
+BAG:sakagrap add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/04/2023 8:23 AM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 8:23 AM
+BAG:sakagrap add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/04/2023 8:23 AM
+BAG:sakagrap add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/04/2023 8:23 AM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 8:23 AM
+BAG:sakagrap add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/04/2023 8:23 AM
+BAG:sakagrap add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/04/2023 8:23 AM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 8:23 AM
+BAG:sakagrap add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/04/2023 8:24 AM
+BAG:sakagrap add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/04/2023 8:24 AM
+BAG:sakagrap add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/04/2023 8:25 AM
+BAG:sakagrap add 99xCuồng nộ lydo: Giftcode at 03/04/2023 8:26 AM
+BAG:sakagrap add 1000016xThỏi vàng (old: 999996) lydo: Đổi vàng at 03/04/2023 8:26 AM
+BAG:sakagrap add 1xCải trang lydo: Mua từ bill at 03/04/2023 8:26 AM
+BAG:sakagrap add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/04/2023 8:27 AM
+BAG:sakagrap add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/04/2023 8:27 AM
+BAG:sakagrap add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 8:28 AM
+BAG:sakagrap add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/04/2023 8:29 AM
+BAG:sakagrap add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/04/2023 8:30 AM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/04/2023 8:32 AM
+BAG:sakagrap add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 8:34 AM
+BAG:sakagrap add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 8:34 AM
+BAG:sakagrap add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 8:34 AM
+BAG:sakagrap add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 8:34 AM
+BAG:sakagrap add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 8:34 AM
+BAG:sakagrap add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 8:34 AM
+BAG:sakagrap add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:37 AM
+BAG:sakagrap add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 8:37 AM
+BAG:sakagrap add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:38 AM
+BAG:sakagrap add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 8:39 AM
+BAG:sakagrap add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 8:39 AM
+BAG:sakagrap add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:39 AM
+BAG:sakagrap add 1xGăng thun Kame lydo: Mua từ cửa hàng at 03/04/2023 8:42 AM
+BAG:sakagrap add 1xGăng võ Kame lydo: Mua từ cửa hàng at 03/04/2023 8:42 AM
+BAG:sakagrap add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/04/2023 8:42 AM
+BAG:sakagrap add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/04/2023 9:06 AM
+BAG:sakagrap add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/04/2023 9:06 AM
+BAG:sakagrap add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/04/2023 12:44 PM
+BAG:sakagrap add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/04/2023 12:48 PM
+BAG:sakagrap add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/04/2023 12:49 PM
+BAG:sakagrap add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/04/2023 12:49 PM
+BAG:sakagrap add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/04/2023 12:49 PM
+BAG:sakagrap add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/04/2023 12:49 PM
+BAG:sakagrap add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/04/2023 12:50 PM
+BAG:sakagrap add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/04/2023 12:50 PM
+BAG:sakagrap add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/04/2023 12:51 PM
+BAG:sakagrap add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:53 PM
+BAG:sakagrap add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/04/2023 12:53 PM
+BAG:sakagrap add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/04/2023 12:53 PM
+BAG:sakagrap add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/04/2023 12:53 PM
+BAG:sakagrap add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/04/2023 12:53 PM
+BAG:sakagrap add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/04/2023 12:53 PM
+BAG:sakagrap add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/04/2023 12:53 PM
+BAG:sakagrap add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/04/2023 12:55 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/04/2023 12:55 PM
+BAG:sakagrap add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 12:56 PM
+BAG:sakagrap add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/04/2023 12:57 PM
+BAG:sakagrap add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/04/2023 12:58 PM
+BAG:sakagrap add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/04/2023 12:58 PM
+BAG:sakagrap add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/04/2023 12:58 PM
+BAG:sakagrap add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/04/2023 12:59 PM
+BAG:sakagrap add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/04/2023 12:59 PM
+BAG:sakagrap add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/04/2023 1:00 PM
+BAG:sakagrap add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/04/2023 1:00 PM
+BAG:sakagrap add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/04/2023 1:01 PM
+BAG:sakagrap add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/04/2023 1:02 PM
+BAG:sakagrap add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/04/2023 1:02 PM
+BAG:sakagrap add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/04/2023 1:02 PM
+BAG:sakagrap add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/04/2023 1:02 PM
+BAG:sakagrap add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/04/2023 1:02 PM
+BAG:sakagrap add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/04/2023 1:03 PM
+BAG:sakagrap add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/04/2023 1:03 PM
+BAG:sakagrap add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/04/2023 1:03 PM
+BAG:sakagrap add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/04/2023 1:04 PM
+BAG:sakagrap add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/04/2023 1:04 PM
+BAG:sakagrap add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/04/2023 1:04 PM
+BAG:sakagrap add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/04/2023 1:04 PM
+BAG:sakagrap add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/04/2023 1:04 PM
+BAG:sakagrap add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/04/2023 1:04 PM
+BAG:sakagrap add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/04/2023 1:04 PM
+BAG:sakagrap add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/04/2023 1:05 PM
+BAG:sakagrap add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/04/2023 1:05 PM
+BAG:sakagrap add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/04/2023 1:05 PM
+BAG:sakagrap add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/04/2023 1:05 PM
+BAG:sakagrap add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/04/2023 1:06 PM
+BAG:sakagrap add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/04/2023 1:06 PM
+BAG:sakagrap add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/04/2023 1:06 PM
+BAG:sakagrap add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/04/2023 1:06 PM
+BAG:sakagrap add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/04/2023 1:06 PM
+BAG:sakagrap add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/04/2023 1:06 PM
+BAG:sakagrap add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/04/2023 1:06 PM
+BAG:sakagrap add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/04/2023 1:06 PM
+BAG:sakagrap add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/04/2023 1:07 PM
+BAG:sakagrap add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/04/2023 1:08 PM
+BAG:sakagrap add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/04/2023 1:25 PM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:25 PM
+BAG:sakagrap add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/04/2023 1:26 PM
+BAG:sakagrap add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/04/2023 1:26 PM
+BAG:sakagrap add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/04/2023 1:26 PM
+BAG:sakagrap add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/04/2023 1:26 PM
+BAG:sakagrap add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/04/2023 1:26 PM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:27 PM
+BAG:sakagrap add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/04/2023 1:28 PM
+BAG:sakagrap add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/04/2023 1:28 PM
+BAG:sakagrap add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/04/2023 1:28 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 1:28 PM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:28 PM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 1:28 PM
+BAG:sakagrap add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/04/2023 1:28 PM
+BAG:sakagrap add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/04/2023 1:29 PM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 1:29 PM
+BAG:sakagrap add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/04/2023 1:29 PM
+BAG:sakagrap add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/04/2023 1:29 PM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:29 PM
+BAG:sakagrap add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 1:33 PM
+BAG:sakagrap add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 1:41 PM
+BAG:sakagrap add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 1:42 PM
+BAG:sakagrap add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 1:43 PM
+BAG:sakagrap add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 1:43 PM
+BAG:sakagrap add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 1:43 PM
+BAG:sakagrap add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 1:43 PM
+BAG:sakagrap add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 1:43 PM
+BAG:sakagrap add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 1:43 PM
+BAG:sakagrap add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 1:43 PM
+BAG:sakagrap add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 1:43 PM
+BAG:sakagrap add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 1:44 PM
+BAG:sakagrap add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 1:53 PM
+BAG:sakagrap add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/04/2023 1:55 PM
+BAG:sakagrap add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/04/2023 1:55 PM
+BAG:sakagrap add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 1:55 PM
+BAG:sakagrap add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 1:55 PM
+BAG:sakagrap add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 1:58 PM
+BAG:sakagrap add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/04/2023 1:59 PM
+BAG:sakagrap add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/04/2023 1:59 PM
+BAG:sakagrap add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/04/2023 1:59 PM
+BAG:sakagrap add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 1:59 PM
+BAG:sakagrap add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 1:59 PM
+BAG:sakagrap add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/04/2023 2:01 PM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 2:12 PM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 2:13 PM
+BAG:sakagrap add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/04/2023 2:13 PM
+BAG:sakagrap add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/04/2023 2:13 PM
+BAG:sakagrap add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/04/2023 2:13 PM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 2:13 PM
+BAG:sakagrap add 42xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 03/04/2023 2:13 PM
+BAG:sakagrap add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/04/2023 2:14 PM
+BAG:sakagrap add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/04/2023 2:14 PM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 2:14 PM
+BAG:sakagrap add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 2:14 PM
+BAG:sakagrap add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/04/2023 2:14 PM
+BAG:sakagrap add 43xTrứng vịt muối (old: 42) lydo: Nhặt từ map at 03/04/2023 2:15 PM
+BAG:sakagrap add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/04/2023 2:15 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 2:15 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 2:15 PM
+BAG:sakagrap add 44xTrứng vịt muối (old: 43) lydo: Nhặt từ map at 03/04/2023 2:15 PM
+BAG:sakagrap add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 03/04/2023 2:16 PM
+BAG:sakagrap add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/04/2023 2:16 PM
+BAG:sakagrap add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/04/2023 2:16 PM
+BAG:sakagrap add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/04/2023 2:16 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 2:16 PM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 2:17 PM
+BAG:sakagrap add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/04/2023 2:17 PM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 2:17 PM
+BAG:sakagrap add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/04/2023 2:17 PM
+BAG:sakagrap add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/04/2023 2:17 PM
+BAG:sakagrap add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/04/2023 2:17 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 2:17 PM
+BAG:sakagrap add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/04/2023 2:23 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 2:23 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 2:23 PM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 2:24 PM
+BAG:sakagrap add 46xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 03/04/2023 2:24 PM
+BAG:sakagrap add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 2:24 PM
+BAG:sakagrap add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 2:24 PM
+BAG:sakagrap add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 2:24 PM
+BAG:sakagrap add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 2:24 PM
+BAG:sakagrap add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/04/2023 2:25 PM
+BAG:sakagrap add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 2:26 PM
+BAG:sakagrap add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 2:26 PM
+BAG:sakagrap add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 2:26 PM
+BAG:sakagrap add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 2:26 PM
+BAG:sakagrap add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 2:26 PM
+BAG:sakagrap add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 2:26 PM
+BAG:sakagrap add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 2:29 PM
+BAG:sakagrap add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 2:29 PM
+BAG:sakagrap add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 2:30 PM
+BAG:sakagrap add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 2:30 PM
+BAG:sakagrap add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 2:31 PM
+BAG:sakagrap add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 2:31 PM
+BAG:sakagrap add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 4:43 PM
+BAG:sakagrap add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/04/2023 4:44 PM
+BAG:sakagrap add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 4:45 PM
+BAG:sakagrap add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 4:45 PM
+BAG:sakagrap add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 4:45 PM
+BAG:sakagrap add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 4:45 PM
+BAG:sakagrap add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 4:45 PM
+BAG:sakagrap add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 4:46 PM
+BAG:sakagrap add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 4:46 PM
+BAG:sakagrap add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/04/2023 7:29 PM
+BAG:sakagrap add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/04/2023 7:31 PM
+BAG:sakagrap add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/04/2023 7:32 PM
+BAG:sakagrap add 1000000xThỏi vàng lydo: Giftcode at 03/04/2023 7:36 PM
+BAG:sakagrap add 10000xĐá ngũ sắc lydo: Giftcode at 03/04/2023 7:36 PM
+BAG:sakagrap add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/04/2023 7:36 PM
+BAG:sakagrap add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/04/2023 7:36 PM
+BAG:sakagrap add 99xCuồng nộ lydo: Giftcode at 03/04/2023 7:37 PM
+BAG:sakagrap add 1xGăng bạc Goku lydo: Mua từ cửa hàng at 03/04/2023 7:37 PM
+BAG:sakagrap add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/04/2023 7:39 PM
+BAG:sakagrap add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/04/2023 7:39 PM
+BAG:sakagrap add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/04/2023 7:39 PM
+BAG:sakagrap add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/04/2023 7:39 PM
+BAG:sakagrap add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/04/2023 7:39 PM
+BAG:sakagrap add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/04/2023 7:39 PM
+BAG:sakagrap add 1xGăng vàng Goku lydo: Mua từ cửa hàng at 03/04/2023 7:39 PM
+BAG:sakagrap add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/04/2023 7:41 PM
+BAG:sakagrap add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 7:42 PM
+BAG:sakagrap add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/04/2023 7:43 PM
+BAG:sakagrap add 1xMèo mun lydo: Mua từ cửa hàng at 03/04/2023 7:44 PM
+BAG:sakagrap add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/04/2023 7:46 PM
+BAG:sakagrap add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/04/2023 7:46 PM
+BAG:sakagrap add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/04/2023 7:46 PM
+BAG:sakagrap add 9xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/04/2023 7:48 PM
+BAG:sakagrap add 29xĐậu thần cấp 10 (old: 9) lydo: Lấy từ rương qua người at 03/04/2023 7:48 PM
+BAG:sakagrap add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/04/2023 7:48 PM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 7:49 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 7:49 PM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 7:49 PM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 7:49 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 7:49 PM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 7:50 PM
+BAG:sakagrap add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 7:50 PM
+BAG:sakagrap add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 7:50 PM
+BAG:sakagrap add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/04/2023 7:50 PM
+BAG:sakagrap add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/04/2023 7:50 PM
+BAG:sakagrap add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/04/2023 7:50 PM
+BAG:sakagrap add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/04/2023 7:51 PM
+BAG:sakagrap add 1xGiầy nhựa lydo: Nhặt từ map at 03/04/2023 7:52 PM
+BAG:sakagrap add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/04/2023 7:52 PM
+BAG:sakagrap add 1xGăng vải đen lydo: Nhặt từ map at 03/04/2023 7:52 PM
+BAG:sakagrap add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/04/2023 7:52 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 7:52 PM
+BAG:sakagrap add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/04/2023 7:52 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 7:52 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 7:52 PM
+BAG:sakagrap add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/04/2023 7:52 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 7:52 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 7:53 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 7:53 PM
+BAG:sakagrap add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/04/2023 7:53 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 7:53 PM
+BAG:sakagrap add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/04/2023 7:53 PM
+BAG:sakagrap add 1xĐá Ruby lydo: Nhặt từ map at 03/04/2023 7:53 PM
+BAG:sakagrap add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 7:53 PM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 7:53 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 7:53 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 7:54 PM
+BAG:sakagrap add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/04/2023 8:01 PM
+BAG:sakagrap add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/04/2023 8:01 PM
+BAG:sakagrap add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/04/2023 8:01 PM
+BAG:sakagrap add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/04/2023 8:08 PM
+BAG:sakagrap add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/04/2023 8:08 PM
+BAG:sakagrap add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/04/2023 8:10 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Nhặt từ map at 03/04/2023 8:10 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/04/2023 8:10 PM
+BAG:sakagrap add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/04/2023 8:10 PM
+BAG:sakagrap add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 8:10 PM
+BAG:sakagrap add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/04/2023 8:10 PM
+BAG:sakagrap add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/04/2023 8:12 PM
+BAG:sakagrap add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/04/2023 8:12 PM
+BAG:sakagrap add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/04/2023 9:03 PM
+BAG:sakagrap add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/04/2023 9:04 PM
+BAG:sakagrap add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/04/2023 9:06 PM
+BAG:sakagrap add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/04/2023 9:06 PM
+BAG:sakagrap add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/04/2023 9:07 PM
+BAG:sakagrap add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 9:08 PM
+BAG:sakagrap add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/04/2023 9:08 PM
+BAG:sakagrap add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/04/2023 9:09 PM
+BAG:sakagrap add 1xĐá Titan lydo: Nhặt từ map at 03/04/2023 9:09 PM
+BAG:sakagrap add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/04/2023 9:09 PM
+BAG:sakagrap add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/04/2023 9:09 PM
+BAG:sakagrap add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/04/2023 9:09 PM
+BAG:sakagrap add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/04/2023 9:10 PM
+BAG:sakagrap add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/04/2023 9:10 PM
+BAG:sakagrap add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/04/2023 9:10 PM
+BAG:sakagrap add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/04/2023 9:10 PM
+BAG:sakagrap add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/04/2023 9:10 PM
+BAG:sakagrap add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/04/2023 9:10 PM
+BAG:sakagrap add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 9:11 PM
+BAG:sakagrap add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/04/2023 9:11 PM
+BAG:sakagrap add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/04/2023 9:12 PM
+BAG:sakagrap add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/04/2023 9:12 PM
+BAG:sakagrap add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/04/2023 9:12 PM
+BAG:sakagrap add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/04/2023 9:12 PM
+BAG:sakagrap add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/04/2023 9:12 PM
+BAG:sakagrap add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/04/2023 9:13 PM
+BAG:sakagrap add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/04/2023 9:13 PM
+BAG:sakagrap add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/04/2023 9:13 PM
+BAG:sakagrap add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/04/2023 9:13 PM
+BAG:sakagrap add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/04/2023 9:15 PM
+BAG:sakagrap add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/04/2023 9:16 PM
+BAG:sakagrap add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/04/2023 9:16 PM
+BAG:sakagrap add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 9:19 PM
+BAG:sakagrap add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 9:19 PM
+BAG:sakagrap add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 9:19 PM
+BAG:sakagrap add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 9:19 PM
+BAG:sakagrap add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 9:39 PM
+BAG:sakagrap add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 9:39 PM
+BAG:sakagrap add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 9:39 PM
+BAG:sakagrap add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 9:39 PM
+BAG:sakagrap add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 9:39 PM
+BAG:sakagrap add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 9:39 PM
+BAG:sakagrap add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 9:39 PM
+BAG:sakagrap add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 9:39 PM
+BAG:sakagrap add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 10:12 PM
+BAG:sakagrap add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 03/04/2023 10:13 PM
+BAG:sakagrap add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 40xĐá Vĩnh Hằng (old: 39) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 40xĐá Hắc Hóa (old: 39) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 41xĐá Vĩnh Hằng (old: 40) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 41xĐá Hắc Hóa (old: 40) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 42xĐá Vĩnh Hằng (old: 41) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 42xĐá Hắc Hóa (old: 41) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 43xĐá Vĩnh Hằng (old: 42) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 43xĐá Hắc Hóa (old: 42) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 44xĐá Vĩnh Hằng (old: 43) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 44xĐá Hắc Hóa (old: 43) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 45xĐá Vĩnh Hằng (old: 44) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 45xĐá Hắc Hóa (old: 44) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 46xĐá Vĩnh Hằng (old: 45) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 46xĐá Hắc Hóa (old: 45) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 47xĐá Vĩnh Hằng (old: 46) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 47xĐá Hắc Hóa (old: 46) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 48xĐá Vĩnh Hằng (old: 47) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 48xĐá Hắc Hóa (old: 47) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 49xĐá Vĩnh Hằng (old: 48) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 49xĐá Hắc Hóa (old: 48) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 50xĐá Vĩnh Hằng (old: 49) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 50xĐá Hắc Hóa (old: 49) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 51xĐá Vĩnh Hằng (old: 50) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 51xĐá Hắc Hóa (old: 50) lydo: Mua santa at 03/04/2023 10:15 PM
+BAG:sakagrap add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 10:16 PM
+BAG:sakagrap add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 10:16 PM
+BAG:sakagrap add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 10:16 PM
+BAG:sakagrap add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 10:18 PM
+BAG:sakagrap add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/04/2023 10:19 PM
+BAG:sakagrap add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/04/2023 10:19 PM
+BAG:sakagrap add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 10:19 PM
+BAG:sakagrap add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 10:19 PM
+BAG:sakagrap add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/04/2023 10:19 PM
+BAG:sakagrap add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/04/2023 10:19 PM
+BAG:sakagrap add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 10:21 PM
+BAG:sakagrap add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/04/2023 10:22 PM
+BAG:sakagrap add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 10:23 PM
+BAG:sakagrap add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 10:26 PM
+BAG:sakagrap add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 10:26 PM
+BAG:sakagrap add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 10:26 PM
+BAG:sakagrap add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 10:26 PM
+BAG:sakagrap add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 10:26 PM
+BAG:sakagrap add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/04/2023 10:27 PM
+BAG:sakagrap add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/04/2023 10:27 PM
+BAG:sakagrap add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/04/2023 10:27 PM
+BAG:sakagrap add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/04/2023 10:27 PM
+BAG:sakagrap add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/04/2023 10:27 PM
+BAG:sakagrap add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/04/2023 10:30 PM
+BAG:sakagrap add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/04/2023 10:30 PM
+BAG:sakagrap add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/04/2023 10:30 PM
+BAG:sakagrap add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/04/2023 10:30 PM
+BAG:sakagrap add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/04/2023 10:30 PM
+BAG:sakagrap add 1xCải trang lydo: Mua từ bill at 03/04/2023 10:30 PM
+BAG:sakagrap add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/04/2023 10:31 PM
+BAG:sakagrap add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 10:34 PM
+BAG:sakagrap add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 10:59 PM
+BAG:sakagrap add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 10:59 PM

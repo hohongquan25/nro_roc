@@ -1,0 +1,110 @@
+BAG:nonnxl add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 04/09/2023 6:43 PM
+BAG:nonnxl add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 04/09/2023 6:44 PM
+BAG:nonnxl add 1xRada cấp 1 lydo: Lấy từ rương qua người at 04/09/2023 6:44 PM
+BAG:nonnxl add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 04/09/2023 6:44 PM
+BAG:nonnxl add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 04/09/2023 6:44 PM
+BAG:nonnxl add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 04/09/2023 6:46 PM
+BAG:nonnxl add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 04/09/2023 7:43 PM
+BAG:nonnxl add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 04/09/2023 7:44 PM
+BAG:nonnxl add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 04/09/2023 7:44 PM
+BAG:nonnxl add 1xGhế bay lydo: Mua từ cửa hàng at 04/09/2023 7:44 PM
+BAG:nonnxl add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 81xĐậu thần cấp 9 (old: 51) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 12xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 81) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 42xĐậu thần cấp 9 (old: 12) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 72xĐậu thần cấp 9 (old: 42) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 3xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 72) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 33xĐậu thần cấp 9 (old: 3) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 63xĐậu thần cấp 9 (old: 33) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 93xĐậu thần cấp 9 (old: 63) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 24xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 93) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 54xĐậu thần cấp 9 (old: 24) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 84xĐậu thần cấp 9 (old: 54) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 15xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 84) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 45xĐậu thần cấp 9 (old: 15) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 75xĐậu thần cấp 9 (old: 45) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 6xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 75) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 36xĐậu thần cấp 9 (old: 6) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 66xĐậu thần cấp 9 (old: 36) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 96xĐậu thần cấp 9 (old: 66) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 27xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 96) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 57xĐậu thần cấp 9 (old: 27) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 87xĐậu thần cấp 9 (old: 57) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 18xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 87) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 48xĐậu thần cấp 9 (old: 18) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 78xĐậu thần cấp 9 (old: 48) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 9xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 78) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 39xĐậu thần cấp 9 (old: 9) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 69xĐậu thần cấp 9 (old: 39) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 69) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 81xĐậu thần cấp 9 (old: 51) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 12xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 81) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 42xĐậu thần cấp 9 (old: 12) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 72xĐậu thần cấp 9 (old: 42) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 3xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 72) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 33xĐậu thần cấp 9 (old: 3) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 63xĐậu thần cấp 9 (old: 33) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 93xĐậu thần cấp 9 (old: 63) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 24xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 93) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 54xĐậu thần cấp 9 (old: 24) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 84xĐậu thần cấp 9 (old: 54) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 15xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 84) lydo: Mua từ cửa hàng at 04/09/2023 7:45 PM
+BAG:nonnxl add 45xĐậu thần cấp 9 (old: 15) lydo: Mua từ cửa hàng at 04/09/2023 7:46 PM
+BAG:nonnxl add 75xĐậu thần cấp 9 (old: 45) lydo: Mua từ cửa hàng at 04/09/2023 7:46 PM
+BAG:nonnxl add 6xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 04/09/2023 7:46 PM
+BAG:nonnxl add 99xĐậu thần cấp 9 (old: 75) lydo: Mua từ cửa hàng at 04/09/2023 7:46 PM
+BAG:nonnxl add 36xĐậu thần cấp 9 (old: 6) lydo: Mua từ cửa hàng at 04/09/2023 7:46 PM
+BAG:nonnxl add 1xMảnh Khủng long lydo: Nhặt từ map at 04/09/2023 7:51 PM
+BAG:nonnxl add 1xĐá Ruby lydo: Nhặt từ map at 04/09/2023 7:51 PM
+BAG:nonnxl add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 04/09/2023 7:51 PM
+BAG:nonnxl add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 04/09/2023 7:51 PM
+BAG:nonnxl add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 04/09/2023 7:51 PM
+BAG:nonnxl add 1xĐá lục bảo lydo: Nhặt từ map at 04/09/2023 7:53 PM
+BAG:nonnxl add 1xĐá Titan lydo: Nhặt từ map at 04/09/2023 7:54 PM
+BAG:nonnxl add 1xQuần vải đen lydo: Nhặt từ map at 04/09/2023 7:54 PM
+BAG:nonnxl add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 04/09/2023 7:54 PM
+BAG:nonnxl add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 04/09/2023 7:54 PM
+BAG:nonnxl add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 04/09/2023 7:55 PM
+BAG:nonnxl add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 04/09/2023 7:55 PM
+BAG:nonnxl add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 04/09/2023 7:56 PM
+BAG:nonnxl add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 04/09/2023 7:56 PM
+BAG:nonnxl add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 04/09/2023 7:57 PM
+BAG:nonnxl add 1xĐá Saphia lydo: Nhặt từ map at 04/09/2023 7:57 PM
+BAG:nonnxl add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 04/09/2023 7:59 PM
+BAG:nonnxl add 25xThỏi vàng lydo: Đổi vàng at 04/09/2023 8:15 PM
+BAG:nonnxl add 50xNgọc Rồng 3 sao lydo: Giftcode at 04/09/2023 8:18 PM
+BAG:nonnxl add 50xSao pha lê lydo: Giftcode at 04/09/2023 8:18 PM
+BAG:nonnxl add 50xSao pha lê lydo: Giftcode at 04/09/2023 8:18 PM
+BAG:nonnxl add 99xCuồng nộ lydo: Giftcode at 04/09/2023 8:18 PM
+BAG:nonnxl add 4953xMảnh vỡ bông tai lydo: Giftcode at 04/09/2023 8:18 PM
+BAG:nonnxl add 10xNgọc Rồng 1 sao lydo: Giftcode at 04/09/2023 8:19 PM
+BAG:nonnxl add 10xNgọc Rồng 2 sao lydo: Giftcode at 04/09/2023 8:19 PM
+BAG:nonnxl add 1xNgọc Rồng 3 sao lydo: Giftcode at 04/09/2023 8:19 PM
+BAG:nonnxl add 99xNgọc Rồng 3 sao (old: 50) lydo: Giftcode at 04/09/2023 8:19 PM
+BAG:nonnxl add 10xNgọc Rồng 4 sao lydo: Giftcode at 04/09/2023 8:19 PM
+BAG:nonnxl add 11xNgọc Rồng 5 sao (old: 1) lydo: Giftcode at 04/09/2023 8:19 PM
+BAG:nonnxl add 11xNgọc Rồng 6 sao (old: 1) lydo: Giftcode at 04/09/2023 8:19 PM
+BAG:nonnxl add 10xNgọc Rồng 7 sao lydo: Giftcode at 04/09/2023 8:19 PM

@@ -1,0 +1,379 @@
+BAG:duatop add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/06/2023 5:59 AM
+BAG:duatop add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/06/2023 6:01 AM
+BAG:duatop add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 6:01 AM
+BAG:duatop add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 6:01 AM
+BAG:duatop add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 6:01 AM
+BAG:duatop add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/06/2023 6:01 AM
+BAG:duatop add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/06/2023 6:02 AM
+BAG:duatop add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/06/2023 6:03 AM
+BAG:duatop add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 6:03 AM
+BAG:duatop add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 6:03 AM
+BAG:duatop add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 6:03 AM
+BAG:duatop add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 6:03 AM
+BAG:duatop add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 6:03 AM
+BAG:duatop add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/06/2023 6:05 AM
+BAG:duatop add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/06/2023 6:05 AM
+BAG:duatop add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/06/2023 6:05 AM
+BAG:duatop add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/06/2023 6:05 AM
+BAG:duatop add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/06/2023 6:05 AM
+BAG:duatop add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/06/2023 6:05 AM
+BAG:duatop add 24xSao pha lê (old: 23) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 41xSao pha lê (old: 40) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 9xNgọc Rồng 6 sao (old: 8) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 26xNgọc Rồng 5 sao (old: 25) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 10xNgọc Rồng 6 sao (old: 9) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 31xSao pha lê (old: 30) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 32xSao pha lê (old: 31) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 25xSao pha lê (old: 24) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 26xSao pha lê (old: 25) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 57xNgọc Rồng 4 sao (old: 56) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 58xNgọc Rồng 4 sao (old: 57) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 27xNgọc Rồng 5 sao (old: 26) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 27xSao pha lê (old: 26) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/06/2023 6:06 AM
+BAG:duatop add 42xSao pha lê (old: 41) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 43xSao pha lê (old: 42) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 28xSao pha lê (old: 27) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 28xNgọc Rồng 5 sao (old: 27) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 59xNgọc Rồng 4 sao (old: 58) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 29xNgọc Rồng 5 sao (old: 28) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 29xSao pha lê (old: 28) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 8xVệ tinh phòng thủ (old: 7) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 33xSao pha lê (old: 32) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 13xVệ tinh sinh lực (old: 12) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 30xSao pha lê (old: 29) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 44xSao pha lê (old: 43) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 23xSao pha lê (old: 22) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 23xSao pha lê (old: 22) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 31xSao pha lê (old: 30) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 60xNgọc Rồng 4 sao (old: 59) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 32xSao pha lê (old: 31) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 14xVệ tinh sinh lực (old: 13) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 24xSao pha lê (old: 23) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 15xVệ tinh sinh lực (old: 14) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 45xSao pha lê (old: 44) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 46xSao pha lê (old: 45) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 30xNgọc Rồng 5 sao (old: 29) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 16xVệ tinh sinh lực (old: 15) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 17xVệ tinh sinh lực (old: 16) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 31xNgọc Rồng 5 sao (old: 30) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 23xSao pha lê (old: 22) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 34xSao pha lê (old: 33) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 35xSao pha lê (old: 34) lydo: Lấy từ lucky box at 03/06/2023 6:13 AM
+BAG:duatop add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/06/2023 6:17 AM
+BAG:duatop add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/06/2023 6:17 AM
+BAG:duatop add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/06/2023 6:17 AM
+BAG:duatop add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/06/2023 6:19 AM
+BAG:duatop add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/06/2023 6:20 AM
+BAG:duatop add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/06/2023 6:20 AM
+BAG:duatop add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/06/2023 6:20 AM
+BAG:duatop add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/06/2023 6:21 AM
+BAG:duatop add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/06/2023 6:21 AM
+BAG:duatop add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/06/2023 6:22 AM
+BAG:duatop add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/06/2023 6:26 AM
+BAG:duatop add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/06/2023 6:26 AM
+BAG:duatop add 1xPhi Long lydo: Mua từ cửa hàng at 03/06/2023 6:28 AM
+BAG:duatop add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/06/2023 10:44 AM
+BAG:duatop add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/06/2023 10:46 AM
+BAG:duatop add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/06/2023 10:46 AM
+BAG:duatop add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/06/2023 10:49 AM
+BAG:duatop add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/06/2023 10:50 AM
+BAG:duatop add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/06/2023 10:50 AM
+BAG:duatop add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/06/2023 10:50 AM
+BAG:duatop add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/06/2023 10:52 AM
+BAG:duatop add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/06/2023 10:55 AM
+BAG:duatop add 32xNgọc Rồng 5 sao (old: 31) lydo: Nhặt từ map at 03/06/2023 10:55 AM
+BAG:duatop add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/06/2023 10:55 AM
+BAG:duatop add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/06/2023 10:57 AM
+BAG:duatop add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/06/2023 10:57 AM
+BAG:duatop add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/06/2023 10:57 AM
+BAG:duatop add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/06/2023 11:00 AM
+BAG:duatop add 10xĐậu thần cấp 10 (old: 3) lydo: Thu hoạch đậu at 03/06/2023 11:00 AM
+BAG:duatop add 33xNgọc Rồng 5 sao (old: 32) lydo: Nhặt từ map at 03/06/2023 11:02 AM
+BAG:duatop add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/06/2023 11:03 AM
+BAG:duatop add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/06/2023 11:03 AM
+BAG:duatop add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/06/2023 11:04 AM
+BAG:duatop add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/06/2023 11:05 AM
+BAG:duatop add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/06/2023 11:06 AM
+BAG:duatop add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/06/2023 11:07 AM
+BAG:duatop add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/06/2023 11:07 AM
+BAG:duatop add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/06/2023 11:07 AM
+BAG:duatop add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/06/2023 11:07 AM
+BAG:duatop add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/06/2023 11:07 AM
+BAG:duatop add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/06/2023 11:09 AM
+BAG:duatop add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/06/2023 11:10 AM
+BAG:duatop add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/06/2023 11:10 AM
+BAG:duatop add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/06/2023 11:11 AM
+BAG:duatop add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/06/2023 11:11 AM
+BAG:duatop add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/06/2023 11:11 AM
+BAG:duatop add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/06/2023 11:12 AM
+BAG:duatop add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/06/2023 11:13 AM
+BAG:duatop add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/06/2023 11:14 AM
+BAG:duatop add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/06/2023 11:14 AM
+BAG:duatop add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/06/2023 11:14 AM
+BAG:duatop add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/06/2023 11:15 AM
+BAG:duatop add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/06/2023 11:15 AM
+BAG:duatop add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/06/2023 11:15 AM
+BAG:duatop add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/06/2023 11:16 AM
+BAG:duatop add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:24 AM
+BAG:duatop add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:24 AM
+BAG:duatop add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:24 AM
+BAG:duatop add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:24 AM
+BAG:duatop add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/06/2023 11:24 AM
+BAG:duatop add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/06/2023 11:25 AM
+BAG:duatop add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/06/2023 11:25 AM
+BAG:duatop add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/06/2023 11:26 AM
+BAG:duatop add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/06/2023 11:26 AM
+BAG:duatop add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/06/2023 11:27 AM
+BAG:duatop add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/06/2023 11:27 AM
+BAG:duatop add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/06/2023 11:31 AM
+BAG:duatop add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/06/2023 11:31 AM
+BAG:duatop add 1xQuần sợi len lydo: Nhặt từ map at 03/06/2023 11:31 AM
+BAG:duatop add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/06/2023 11:32 AM
+BAG:duatop add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/06/2023 11:36 AM
+BAG:duatop add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/06/2023 11:36 AM
+BAG:duatop add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/06/2023 11:36 AM
+BAG:duatop add 1xGăng sợi len lydo: Nhặt từ map at 03/06/2023 11:37 AM
+BAG:duatop add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/06/2023 11:38 AM
+BAG:duatop add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/06/2023 11:38 AM
+BAG:duatop add 1xQuần sợi len lydo: Nhặt từ map at 03/06/2023 11:38 AM
+BAG:duatop add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/06/2023 11:39 AM
+BAG:duatop add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/06/2023 11:39 AM
+BAG:duatop add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/06/2023 11:39 AM
+BAG:duatop add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/06/2023 11:39 AM
+BAG:duatop add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/06/2023 11:40 AM
+BAG:duatop add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/06/2023 11:40 AM
+BAG:duatop add 1xÁo sợi len lydo: Nhặt từ map at 03/06/2023 11:40 AM
+BAG:duatop add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/06/2023 11:40 AM
+BAG:duatop add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/06/2023 11:40 AM
+BAG:duatop add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/06/2023 11:41 AM
+BAG:duatop add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/06/2023 11:41 AM
+BAG:duatop add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/06/2023 11:41 AM
+BAG:duatop add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/06/2023 11:41 AM
+BAG:duatop add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 03/06/2023 11:42 AM
+BAG:duatop add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/06/2023 11:42 AM
+BAG:duatop add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 03/06/2023 11:42 AM
+BAG:duatop add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/06/2023 11:42 AM
+BAG:duatop add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/06/2023 11:42 AM
+BAG:duatop add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/06/2023 11:43 AM
+BAG:duatop add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/06/2023 11:43 AM
+BAG:duatop add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/06/2023 11:43 AM
+BAG:duatop add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/06/2023 11:43 AM
+BAG:duatop add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/06/2023 11:43 AM
+BAG:duatop add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/06/2023 11:43 AM
+BAG:duatop add 1xÁo sợi len lydo: Nhặt từ map at 03/06/2023 11:43 AM
+BAG:duatop add 1xRada cấp 1 lydo: Nhặt từ map at 03/06/2023 11:44 AM
+BAG:duatop add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/06/2023 11:44 AM
+BAG:duatop add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/06/2023 11:45 AM
+BAG:duatop add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/06/2023 11:45 AM
+BAG:duatop add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/06/2023 11:45 AM
+BAG:duatop add 1xQuần sợi len lydo: Nhặt từ map at 03/06/2023 11:46 AM
+BAG:duatop add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/06/2023 11:46 AM
+BAG:duatop add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 03/06/2023 11:46 AM
+BAG:duatop add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/06/2023 11:46 AM
+BAG:duatop add 1xRada cấp 1 lydo: Nhặt từ map at 03/06/2023 11:46 AM
+BAG:duatop add 1xQuần sợi len lydo: Nhặt từ map at 03/06/2023 11:47 AM
+BAG:duatop add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/06/2023 11:47 AM
+BAG:duatop add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/06/2023 11:47 AM
+BAG:duatop add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/06/2023 11:47 AM
+BAG:duatop add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 03/06/2023 11:47 AM
+BAG:duatop add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/06/2023 11:47 AM
+BAG:duatop add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/06/2023 11:47 AM
+BAG:duatop add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/06/2023 11:47 AM
+BAG:duatop add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/06/2023 11:47 AM
+BAG:duatop add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/06/2023 11:47 AM
+BAG:duatop add 1xGăng sợi len lydo: Nhặt từ map at 03/06/2023 11:48 AM
+BAG:duatop add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/06/2023 11:48 AM
+BAG:duatop add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 03/06/2023 11:48 AM
+BAG:duatop add 34xNgọc Rồng 5 sao (old: 33) lydo: Nhặt từ map at 03/06/2023 11:48 AM
+BAG:duatop add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/06/2023 11:48 AM
+BAG:duatop add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 03/06/2023 11:49 AM
+BAG:duatop add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/06/2023 11:49 AM
+BAG:duatop add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 03/06/2023 11:49 AM
+BAG:duatop add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/06/2023 11:50 AM
+BAG:duatop add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/06/2023 11:50 AM
+BAG:duatop add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/06/2023 11:50 AM
+BAG:duatop add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/06/2023 11:51 AM
+BAG:duatop add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 03/06/2023 11:51 AM
+BAG:duatop add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/06/2023 11:52 AM
+BAG:duatop add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/06/2023 11:52 AM
+BAG:duatop add 1xÁo sợi len lydo: Nhặt từ map at 03/06/2023 11:52 AM
+BAG:duatop add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/06/2023 11:52 AM
+BAG:duatop add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/06/2023 11:52 AM
+BAG:duatop add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/06/2023 11:53 AM
+BAG:duatop add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/06/2023 11:53 AM
+BAG:duatop add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/06/2023 11:53 AM
+BAG:duatop add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/06/2023 11:54 AM
+BAG:duatop add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/06/2023 11:54 AM
+BAG:duatop add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/06/2023 12:11 PM
+BAG:duatop add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 03/06/2023 12:11 PM
+BAG:duatop add 1xGăng sợi len lydo: Nhặt từ map at 03/06/2023 12:12 PM
+BAG:duatop add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 03/06/2023 12:13 PM
+BAG:duatop add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 03/06/2023 12:13 PM
+BAG:duatop add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/06/2023 12:13 PM
+BAG:duatop add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/06/2023 12:13 PM
+BAG:duatop add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/06/2023 12:14 PM
+BAG:duatop add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/06/2023 12:14 PM
+BAG:duatop add 1xÁo sợi len lydo: Nhặt từ map at 03/06/2023 12:14 PM
+BAG:duatop add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/06/2023 12:15 PM
+BAG:duatop add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/06/2023 12:15 PM
+BAG:duatop add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 03/06/2023 12:15 PM
+BAG:duatop add 35xNgọc Rồng 5 sao (old: 34) lydo: Nhặt từ map at 03/06/2023 12:15 PM
+BAG:duatop add 1xGiầy sợi len lydo: Nhặt từ map at 03/06/2023 12:15 PM
+BAG:duatop add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/06/2023 12:15 PM
+BAG:duatop add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/06/2023 12:23 PM
+BAG:duatop add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 03/06/2023 12:24 PM
+BAG:duatop add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/06/2023 12:25 PM
+BAG:duatop add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/06/2023 12:26 PM
+BAG:duatop add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/06/2023 12:27 PM
+BAG:duatop add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/06/2023 12:27 PM
+BAG:duatop add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 03/06/2023 12:27 PM
+BAG:duatop add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/06/2023 12:28 PM
+BAG:duatop add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 03/06/2023 12:29 PM
+BAG:duatop add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 03/06/2023 12:30 PM
+BAG:duatop add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 03/06/2023 12:32 PM
+BAG:duatop add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 03/06/2023 12:33 PM
+BAG:duatop add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 03/06/2023 12:33 PM
+BAG:duatop add 36xNgọc Rồng 5 sao (old: 35) lydo: Nhặt từ map at 03/06/2023 12:35 PM
+BAG:duatop add 10xĐậu thần cấp 10 (old: 3) lydo: Thu hoạch đậu at 03/06/2023 12:36 PM
+BAG:duatop add 1xGăng vải Pico lydo: Mua từ cửa hàng at 03/06/2023 12:36 PM
+BAG:duatop add 1xGăng da Pico lydo: Mua từ cửa hàng at 03/06/2023 12:36 PM
+BAG:duatop add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 03/06/2023 12:36 PM
+BAG:duatop add 1xGăng đồng Tron lydo: Mua từ cửa hàng at 03/06/2023 12:36 PM
+BAG:duatop add 1xGăng bạc Zealot lydo: Mua từ cửa hàng at 03/06/2023 12:36 PM
+BAG:duatop add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/06/2023 12:37 PM
+BAG:duatop add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/06/2023 12:38 PM
+BAG:duatop add 70xĐá Ruby (old: 69) lydo: Nhặt từ map at 03/06/2023 12:39 PM
+BAG:duatop add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/06/2023 12:40 PM
+BAG:duatop add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/06/2023 12:41 PM
+BAG:duatop add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/06/2023 12:42 PM
+BAG:duatop add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/06/2023 12:43 PM
+BAG:duatop add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/06/2023 12:44 PM
+BAG:duatop add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/06/2023 12:46 PM
+BAG:duatop add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/06/2023 12:46 PM
+BAG:duatop add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/06/2023 12:46 PM
+BAG:duatop add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/06/2023 12:47 PM
+BAG:duatop add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 03/06/2023 12:47 PM
+BAG:duatop add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/06/2023 12:47 PM
+BAG:duatop add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 03/06/2023 12:47 PM
+BAG:duatop add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/06/2023 12:48 PM
+BAG:duatop add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/06/2023 12:48 PM
+BAG:duatop add 71xĐá Ruby (old: 70) lydo: Nhặt từ map at 03/06/2023 12:49 PM
+BAG:duatop add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 03/06/2023 12:50 PM
+BAG:duatop add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/06/2023 12:51 PM
+BAG:duatop add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 03/06/2023 12:51 PM
+BAG:duatop add 72xĐá Ruby (old: 71) lydo: Nhặt từ map at 03/06/2023 12:51 PM
+BAG:duatop add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/06/2023 12:52 PM
+BAG:duatop add 37xNgọc Rồng 5 sao (old: 36) lydo: Nhặt từ map at 03/06/2023 12:52 PM
+BAG:duatop add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/06/2023 12:53 PM
+BAG:duatop add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/06/2023 12:54 PM
+BAG:duatop add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/06/2023 12:54 PM
+BAG:duatop add 73xĐá Ruby (old: 72) lydo: Nhặt từ map at 03/06/2023 12:55 PM
+BAG:duatop add 74xĐá Ruby (old: 73) lydo: Nhặt từ map at 03/06/2023 12:55 PM
+BAG:duatop add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/06/2023 12:56 PM
+BAG:duatop add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/06/2023 12:57 PM
+BAG:duatop add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/06/2023 12:57 PM
+BAG:duatop add 38xNgọc Rồng 5 sao (old: 37) lydo: Nhặt từ map at 03/06/2023 12:58 PM
+BAG:duatop add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 03/06/2023 12:59 PM
+BAG:duatop add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/06/2023 12:59 PM
+BAG:duatop add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/06/2023 12:59 PM
+BAG:duatop add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 03/06/2023 12:59 PM
+BAG:duatop add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/06/2023 12:59 PM
+BAG:duatop add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/06/2023 1:00 PM
+BAG:duatop add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/06/2023 1:00 PM
+BAG:duatop add 75xĐá Ruby (old: 74) lydo: Nhặt từ map at 03/06/2023 1:00 PM
+BAG:duatop add 76xĐá Ruby (old: 75) lydo: Nhặt từ map at 03/06/2023 1:00 PM
+BAG:duatop add 77xĐá Ruby (old: 76) lydo: Nhặt từ map at 03/06/2023 1:01 PM
+BAG:duatop add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 03/06/2023 1:02 PM
+BAG:duatop add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/06/2023 1:02 PM
+BAG:duatop add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/06/2023 1:02 PM
+BAG:duatop add 78xĐá Ruby (old: 77) lydo: Nhặt từ map at 03/06/2023 1:02 PM
+BAG:duatop add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/06/2023 1:02 PM
+BAG:duatop add 80xĐá thạch anh tím (old: 79) lydo: Nhặt từ map at 03/06/2023 1:02 PM
+BAG:duatop add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/06/2023 1:03 PM
+BAG:duatop add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/06/2023 1:03 PM
+BAG:duatop add 39xNgọc Rồng 5 sao (old: 38) lydo: Nhặt từ map at 03/06/2023 1:03 PM
+BAG:duatop add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/06/2023 1:03 PM
+BAG:duatop add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 03/06/2023 1:04 PM
+BAG:duatop add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/06/2023 1:04 PM
+BAG:duatop add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/06/2023 1:05 PM
+BAG:duatop add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/06/2023 1:05 PM
+BAG:duatop add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/06/2023 1:06 PM
+BAG:duatop add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/06/2023 1:06 PM
+BAG:duatop add 79xĐá Ruby (old: 78) lydo: Nhặt từ map at 03/06/2023 1:06 PM
+BAG:duatop add 82xĐá thạch anh tím (old: 81) lydo: Nhặt từ map at 03/06/2023 1:06 PM
+BAG:duatop add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/06/2023 1:07 PM
+BAG:duatop add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/06/2023 1:07 PM
+BAG:duatop add 83xĐá thạch anh tím (old: 82) lydo: Nhặt từ map at 03/06/2023 1:07 PM
+BAG:duatop add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/06/2023 1:08 PM
+BAG:duatop add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 03/06/2023 1:08 PM
+BAG:duatop add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/06/2023 1:08 PM
+BAG:duatop add 80xĐá Ruby (old: 79) lydo: Nhặt từ map at 03/06/2023 1:08 PM
+BAG:duatop add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/06/2023 1:09 PM
+BAG:duatop add 81xĐá Ruby (old: 80) lydo: Nhặt từ map at 03/06/2023 1:10 PM
+BAG:duatop add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/06/2023 1:11 PM
+BAG:duatop add 84xĐá thạch anh tím (old: 83) lydo: Nhặt từ map at 03/06/2023 1:12 PM
+BAG:duatop add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 03/06/2023 1:12 PM
+BAG:duatop add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/06/2023 1:12 PM
+BAG:duatop add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/06/2023 1:13 PM
+BAG:duatop add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/06/2023 1:13 PM
+BAG:duatop add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 03/06/2023 1:14 PM
+BAG:duatop add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 03/06/2023 1:14 PM
+BAG:duatop add 82xĐá Ruby (old: 81) lydo: Nhặt từ map at 03/06/2023 1:15 PM
+BAG:duatop add 83xĐá Ruby (old: 82) lydo: Nhặt từ map at 03/06/2023 1:15 PM
+BAG:duatop add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 03/06/2023 1:16 PM
+BAG:duatop add 63xĐá Saphia (old: 62) lydo: Nhặt từ map at 03/06/2023 1:17 PM
+BAG:duatop add 84xĐá Ruby (old: 83) lydo: Nhặt từ map at 03/06/2023 1:17 PM
+BAG:duatop add 64xĐá Saphia (old: 63) lydo: Nhặt từ map at 03/06/2023 1:18 PM
+BAG:duatop add 85xĐá Ruby (old: 84) lydo: Nhặt từ map at 03/06/2023 1:18 PM
+BAG:duatop add 86xĐá Ruby (old: 85) lydo: Nhặt từ map at 03/06/2023 1:18 PM
+BAG:duatop add 65xĐá Saphia (old: 64) lydo: Nhặt từ map at 03/06/2023 1:20 PM
+BAG:duatop add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/06/2023 1:20 PM
+BAG:duatop add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/06/2023 1:21 PM
+BAG:duatop add 66xĐá Saphia (old: 65) lydo: Nhặt từ map at 03/06/2023 1:21 PM
+BAG:duatop add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/06/2023 1:22 PM
+BAG:duatop add 87xĐá Ruby (old: 86) lydo: Nhặt từ map at 03/06/2023 1:22 PM
+BAG:duatop add 85xĐá thạch anh tím (old: 84) lydo: Nhặt từ map at 03/06/2023 1:22 PM
+BAG:duatop add 86xĐá thạch anh tím (old: 85) lydo: Nhặt từ map at 03/06/2023 1:22 PM
+BAG:duatop add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/06/2023 1:23 PM
+BAG:duatop add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/06/2023 1:23 PM
+BAG:duatop add 67xĐá Saphia (old: 66) lydo: Nhặt từ map at 03/06/2023 1:24 PM
+BAG:duatop add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/06/2023 1:24 PM
+BAG:duatop add 87xĐá thạch anh tím (old: 86) lydo: Nhặt từ map at 03/06/2023 1:24 PM
+BAG:duatop add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/06/2023 1:27 PM
+BAG:duatop add 88xĐá Ruby (old: 87) lydo: Nhặt từ map at 03/06/2023 1:27 PM

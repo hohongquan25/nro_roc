@@ -1,0 +1,33 @@
+BAG:0nekill add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 6:40 PM
+BAG:0nekill add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 6:43 PM
+BAG:0nekill add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/03/2023 6:43 PM
+BAG:0nekill add 25xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 6:43 PM
+BAG:0nekill add 40xĐậu thần cấp 1 (old: 25) lydo: Lấy từ rương qua người at 03/03/2023 6:43 PM
+BAG:0nekill add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 6:47 PM
+BAG:0nekill add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 6:47 PM
+BAG:0nekill add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/03/2023 6:49 PM
+BAG:0nekill add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 6:49 PM
+BAG:0nekill add 1xBột mì lydo: Nhặt từ map at 03/03/2023 6:50 PM
+BAG:0nekill add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 6:51 PM
+BAG:0nekill add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 6:51 PM
+BAG:0nekill add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 6:51 PM
+BAG:0nekill add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 6:51 PM
+BAG:0nekill add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 6:51 PM
+BAG:0nekill add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 6:51 PM
+BAG:0nekill add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 6:52 PM
+BAG:0nekill add 20xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 03/03/2023 6:53 PM
+BAG:0nekill add 40xĐậu thần cấp 2 (old: 20) lydo: Lấy từ rương qua người at 03/03/2023 6:53 PM
+BAG:0nekill add 54xĐậu thần cấp 2 (old: 40) lydo: Lấy từ rương qua người at 03/03/2023 6:54 PM
+BAG:0nekill add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/03/2023 6:54 PM
+BAG:0nekill add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 6:57 PM
+BAG:0nekill add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 6:58 PM
+BAG:0nekill add 1000000xThỏi vàng lydo: Giftcode at 03/03/2023 7:00 PM
+BAG:0nekill add 10000xĐá ngũ sắc lydo: Giftcode at 03/03/2023 7:00 PM
+BAG:0nekill add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/03/2023 7:00 PM
+BAG:0nekill add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/03/2023 7:00 PM
+BAG:0nekill add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 7:01 PM
+BAG:0nekill add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/03/2023 7:01 PM
+BAG:0nekill add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 7:01 PM
+BAG:0nekill add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 7:01 PM
+BAG:0nekill add 1xMèo mun lydo: Mua từ cửa hàng at 03/03/2023 7:01 PM
+BAG:0nekill add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 7:03 PM

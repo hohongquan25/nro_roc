@@ -1,0 +1,229 @@
+BAG:panterr add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 11:27 AM
+BAG:panterr add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 11:27 AM
+BAG:panterr add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/03/2023 11:30 AM
+BAG:panterr add 15xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 11:30 AM
+BAG:panterr add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 11:38 AM
+BAG:panterr add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/03/2023 11:38 AM
+BAG:panterr add 20xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 11:38 AM
+BAG:panterr add 40xĐậu thần cấp 1 (old: 20) lydo: Lấy từ rương qua người at 03/03/2023 11:39 AM
+BAG:panterr add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/03/2023 11:39 AM
+BAG:panterr add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 11:40 AM
+BAG:panterr add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 11:42 AM
+BAG:panterr add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/03/2023 11:42 AM
+BAG:panterr add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/03/2023 11:57 AM
+BAG:panterr add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 11:59 AM
+BAG:panterr add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 12:01 PM
+BAG:panterr add 1xCánh thiên thần lydo: Mua từ cửa hàng at 03/03/2023 12:01 PM
+BAG:panterr add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 12:02 PM
+BAG:panterr add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 12:02 PM
+BAG:panterr add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 12:02 PM
+BAG:panterr add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 12:02 PM
+BAG:panterr add 2000xThỏi vàng lydo: Đổi vàng at 03/03/2023 12:02 PM
+BAG:panterr add 1001996xThỏi vàng (old: 1996) lydo: Giftcode at 03/03/2023 12:03 PM
+BAG:panterr add 10000xĐá ngũ sắc lydo: Giftcode at 03/03/2023 12:03 PM
+BAG:panterr add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/03/2023 12:03 PM
+BAG:panterr add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/03/2023 12:03 PM
+BAG:panterr add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 12:05 PM
+BAG:panterr add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 12:06 PM
+BAG:panterr add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/03/2023 12:06 PM
+BAG:panterr add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/03/2023 12:06 PM
+BAG:panterr add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 03/03/2023 12:06 PM
+BAG:panterr add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 12:06 PM
+BAG:panterr add 1xBột mì lydo: Nhặt từ map at 03/03/2023 12:07 PM
+BAG:panterr add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 12:07 PM
+BAG:panterr add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/03/2023 12:11 PM
+BAG:panterr add 1xCải trang Jiren lydo: Mua từ bill at 03/03/2023 12:12 PM
+BAG:panterr add 1xCải trang Jiren lydo: Mua từ bill at 03/03/2023 12:12 PM
+BAG:panterr add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 12:13 PM
+BAG:panterr add 1xGăng vải đen lydo: Nhặt từ map at 03/03/2023 12:14 PM
+BAG:panterr add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 12:14 PM
+BAG:panterr add 1xGăng vải đen lydo: Nhặt từ map at 03/03/2023 12:14 PM
+BAG:panterr add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 12:14 PM
+BAG:panterr add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 12:14 PM
+BAG:panterr add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:panterr add 1xGăng vải đen lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:panterr add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:panterr add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:panterr add 1xGăng vải đen lydo: Nhặt từ map at 03/03/2023 12:15 PM
+BAG:panterr add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:17 PM
+BAG:panterr add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 12:17 PM
+BAG:panterr add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 12:17 PM
+BAG:panterr add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 12:18 PM
+BAG:panterr add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/03/2023 12:19 PM
+BAG:panterr add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/03/2023 12:20 PM
+BAG:panterr add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/03/2023 12:20 PM
+BAG:panterr add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/03/2023 12:20 PM
+BAG:panterr add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/03/2023 12:20 PM
+BAG:panterr add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/03/2023 12:20 PM
+BAG:panterr add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/03/2023 12:20 PM
+BAG:panterr add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/03/2023 12:21 PM
+BAG:panterr add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/03/2023 12:22 PM
+BAG:panterr add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/03/2023 12:22 PM
+BAG:panterr add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/03/2023 12:22 PM
+BAG:panterr add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/03/2023 12:22 PM
+BAG:panterr add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:22 PM
+BAG:panterr add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:22 PM
+BAG:panterr add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:23 PM
+BAG:panterr add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:23 PM
+BAG:panterr add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:24 PM
+BAG:panterr add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:24 PM
+BAG:panterr add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:24 PM
+BAG:panterr add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/03/2023 12:24 PM
+BAG:panterr add 1xRada cấp 9 lydo: Lấy từ rương qua người at 03/03/2023 12:25 PM
+BAG:panterr add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:panterr add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:panterr add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:panterr add 1xBột mì lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:panterr add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:panterr add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:panterr add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:panterr add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:panterr add 1xBột mì lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:panterr add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:panterr add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:panterr add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:panterr add 1xGiầy nhựa lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:panterr add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:panterr add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 12:29 PM
+BAG:panterr add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:panterr add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:panterr add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:panterr add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:panterr add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:panterr add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:panterr add 1xGiầy nhựa lydo: Nhặt từ map at 03/03/2023 12:31 PM
+BAG:panterr add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 12:32 PM
+BAG:panterr add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/03/2023 12:33 PM
+BAG:panterr add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/03/2023 12:34 PM
+BAG:panterr add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 03/03/2023 12:35 PM
+BAG:panterr add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 03/03/2023 12:36 PM
+BAG:panterr add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 03/03/2023 12:36 PM
+BAG:panterr add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 03/03/2023 12:36 PM
+BAG:panterr add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 03/03/2023 12:36 PM
+BAG:panterr add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 03/03/2023 12:36 PM
+BAG:panterr add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 03/03/2023 12:36 PM
+BAG:panterr add 40xĐá Vĩnh Hằng (old: 39) lydo: Mua santa at 03/03/2023 12:36 PM
+BAG:panterr add 40xĐá Hắc Hóa (old: 39) lydo: Mua santa at 03/03/2023 12:36 PM
+BAG:panterr add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 12:39 PM
+BAG:panterr add 1xBột mì lydo: Nhặt từ map at 03/03/2023 12:39 PM
+BAG:panterr add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 12:40 PM
+BAG:panterr add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 12:55 PM
+BAG:panterr add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:57 PM
+BAG:panterr add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:57 PM
+BAG:panterr add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 12:57 PM
+BAG:panterr add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 12:57 PM
+BAG:panterr add 1xÁo jean Calic lydo: Cường Hóa trang bị at 03/03/2023 12:58 PM
+BAG:panterr add 1xQuần jean Calic lydo: Cường Hóa trang bị at 03/03/2023 12:58 PM

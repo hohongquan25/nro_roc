@@ -1,0 +1,45 @@
+BAG:phune add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/28/2023 12:13 AM
+BAG:phune add 10xĐậu thần cấp 6 lydo: Thu hoạch đậu at 03/28/2023 12:32 AM
+BAG:phune add 30xĐậu thần cấp 6 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 12:32 AM
+BAG:phune add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 12:35 AM
+BAG:phune add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 12:35 AM
+BAG:phune add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 12:41 AM
+BAG:phune add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 12:42 AM
+BAG:phune add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 12:42 AM
+BAG:phune add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 12:42 AM
+BAG:phune add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 12:42 AM
+BAG:phune add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 12:42 AM
+BAG:phune add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 12:42 AM
+BAG:phune add 1xMảnh Phi long lydo: Nhặt từ map at 03/28/2023 12:42 AM
+BAG:phune add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 12:42 AM
+BAG:phune add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/28/2023 12:42 AM
+BAG:phune add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 12:43 AM
+BAG:phune add 1xGhế bay lydo: Mua từ cửa hàng at 03/28/2023 12:44 AM
+BAG:phune add 1xAvatar lydo: Mua từ cửa hàng at 03/28/2023 12:44 AM
+BAG:phune add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/28/2023 12:45 AM
+BAG:phune add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/28/2023 12:45 AM
+BAG:phune add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 12:45 AM
+BAG:phune add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/28/2023 12:45 AM
+BAG:phune add 10xNgọc Rồng 5 sao lydo: Giftcode at 03/28/2023 12:45 AM
+BAG:phune add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/28/2023 12:45 AM
+BAG:phune add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/28/2023 12:45 AM
+BAG:phune add 1xPhóng lợn lydo: Mua từ cửa hàng at 03/28/2023 12:46 AM
+BAG:phune add 1xCải trang Chill lydo: Mua từ cửa hàng at 03/28/2023 12:47 AM
+BAG:phune add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/28/2023 12:47 AM
+BAG:phune add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/28/2023 12:48 AM
+BAG:phune add 1xAvatar VIP lydo: Ước NR at 03/28/2023 12:49 AM
+BAG:phune add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 12:50 AM
+BAG:phune add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 12:53 AM
+BAG:phune add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 12:53 AM
+BAG:phune add 5000xThỏi vàng lydo: Đổi vàng at 03/28/2023 12:54 AM
+BAG:phune add 10000xThỏi vàng (old: 5000) lydo: Đổi vàng at 03/28/2023 12:54 AM
+BAG:phune add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 12:54 AM
+BAG:phune add 1xCải trang Jiren lydo: Mua từ bill at 03/28/2023 12:55 AM
+BAG:phune add 1xCải trang Jiren lydo: Mua từ bill at 03/28/2023 12:55 AM
+BAG:phune add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/28/2023 12:56 AM
+BAG:phune add 1xCá heo lydo: Mua từ bill at 03/28/2023 12:56 AM
+BAG:phune add 99xThỏi vàng lydo: Tách thỏi vàng at 03/28/2023 12:57 AM
+BAG:phune add 99xThỏi vàng lydo: Tách thỏi vàng at 03/28/2023 12:57 AM
+BAG:phune add 99xThỏi vàng lydo: Tách thỏi vàng at 03/28/2023 12:57 AM
+BAG:phune add 99xThỏi vàng lydo: Tách thỏi vàng at 03/28/2023 12:57 AM
+BAG:phune add 1xMảnh vỡ bông tai lydo: Mua mảnh vỡ từ cửa hàng at 03/28/2023 12:57 AM

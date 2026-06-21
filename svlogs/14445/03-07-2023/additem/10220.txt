@@ -1,0 +1,791 @@
+BAG:jjjjjbbbbssss add 3xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 6:21 AM
+BAG:jjjjjbbbbssss add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/07/2023 7:02 AM
+BAG:jjjjjbbbbssss add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/07/2023 7:02 AM
+BAG:jjjjjbbbbssss add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/07/2023 7:02 AM
+BAG:jjjjjbbbbssss add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/07/2023 7:10 AM
+BAG:jjjjjbbbbssss add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/07/2023 7:10 AM
+BAG:jjjjjbbbbssss add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/07/2023 7:10 AM
+BAG:jjjjjbbbbssss add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/07/2023 7:11 AM
+BAG:jjjjjbbbbssss add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/07/2023 7:11 AM
+BAG:jjjjjbbbbssss add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/07/2023 7:11 AM
+BAG:jjjjjbbbbssss add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/07/2023 7:11 AM
+BAG:jjjjjbbbbssss add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/07/2023 7:12 AM
+BAG:jjjjjbbbbssss add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/07/2023 7:12 AM
+BAG:jjjjjbbbbssss add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/07/2023 7:12 AM
+BAG:jjjjjbbbbssss add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/07/2023 7:15 AM
+BAG:jjjjjbbbbssss add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/07/2023 7:15 AM
+BAG:jjjjjbbbbssss add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/07/2023 7:16 AM
+BAG:jjjjjbbbbssss add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/07/2023 7:16 AM
+BAG:jjjjjbbbbssss add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/07/2023 7:21 AM
+BAG:jjjjjbbbbssss add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/07/2023 7:22 AM
+BAG:jjjjjbbbbssss add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/07/2023 7:22 AM
+BAG:jjjjjbbbbssss add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/07/2023 7:22 AM
+BAG:jjjjjbbbbssss add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/07/2023 7:22 AM
+BAG:jjjjjbbbbssss add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/07/2023 7:23 AM
+BAG:jjjjjbbbbssss add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/07/2023 7:23 AM
+BAG:jjjjjbbbbssss add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/07/2023 7:24 AM
+BAG:jjjjjbbbbssss add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/07/2023 7:25 AM
+BAG:jjjjjbbbbssss add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/07/2023 7:25 AM
+BAG:jjjjjbbbbssss add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/07/2023 7:25 AM
+BAG:jjjjjbbbbssss add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/07/2023 7:26 AM
+BAG:jjjjjbbbbssss add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/07/2023 7:26 AM
+BAG:jjjjjbbbbssss add 1xSách Trói lv1 lydo: Mua từ cửa hàng at 03/07/2023 7:29 AM
+BAG:jjjjjbbbbssss add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 03/07/2023 7:29 AM
+BAG:jjjjjbbbbssss add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 03/07/2023 7:29 AM
+BAG:jjjjjbbbbssss add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 03/07/2023 7:30 AM
+BAG:jjjjjbbbbssss add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 03/07/2023 7:30 AM
+BAG:jjjjjbbbbssss add 1xSách Trói lv6 lydo: Mua từ cửa hàng at 03/07/2023 7:30 AM
+BAG:jjjjjbbbbssss add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 03/07/2023 7:30 AM
+BAG:jjjjjbbbbssss add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/07/2023 7:32 AM
+BAG:jjjjjbbbbssss add 1xĐá Saphia lydo: Nhặt từ map at 03/07/2023 7:39 AM
+BAG:jjjjjbbbbssss add 1xĐá Ruby lydo: Nhặt từ map at 03/07/2023 7:39 AM
+BAG:jjjjjbbbbssss add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/07/2023 7:39 AM
+BAG:jjjjjbbbbssss add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/07/2023 7:39 AM
+BAG:jjjjjbbbbssss add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/07/2023 7:40 AM
+BAG:jjjjjbbbbssss add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/07/2023 7:40 AM
+BAG:jjjjjbbbbssss add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/07/2023 7:40 AM
+BAG:jjjjjbbbbssss add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/07/2023 7:40 AM
+BAG:jjjjjbbbbssss add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/07/2023 7:41 AM
+BAG:jjjjjbbbbssss add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/07/2023 7:41 AM
+BAG:jjjjjbbbbssss add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/07/2023 7:41 AM
+BAG:jjjjjbbbbssss add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/07/2023 7:41 AM
+BAG:jjjjjbbbbssss add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/07/2023 7:41 AM
+BAG:jjjjjbbbbssss add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/07/2023 7:41 AM
+BAG:jjjjjbbbbssss add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/07/2023 7:41 AM
+BAG:jjjjjbbbbssss add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/07/2023 7:42 AM
+BAG:jjjjjbbbbssss add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/07/2023 7:42 AM
+BAG:jjjjjbbbbssss add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/07/2023 7:42 AM
+BAG:jjjjjbbbbssss add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/07/2023 7:43 AM
+BAG:jjjjjbbbbssss add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/07/2023 7:44 AM
+BAG:jjjjjbbbbssss add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/07/2023 7:44 AM
+BAG:jjjjjbbbbssss add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/07/2023 7:44 AM
+BAG:jjjjjbbbbssss add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/07/2023 7:44 AM
+BAG:jjjjjbbbbssss add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/07/2023 7:45 AM
+BAG:jjjjjbbbbssss add 1xBột mì lydo: Nhặt từ map at 03/07/2023 7:45 AM
+BAG:jjjjjbbbbssss add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/07/2023 7:45 AM
+BAG:jjjjjbbbbssss add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/07/2023 7:45 AM
+BAG:jjjjjbbbbssss add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/07/2023 7:45 AM
+BAG:jjjjjbbbbssss add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/07/2023 7:45 AM
+BAG:jjjjjbbbbssss add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/07/2023 7:45 AM
+BAG:jjjjjbbbbssss add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/07/2023 7:46 AM
+BAG:jjjjjbbbbssss add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/07/2023 7:46 AM
+BAG:jjjjjbbbbssss add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/07/2023 7:46 AM
+BAG:jjjjjbbbbssss add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/07/2023 7:47 AM
+BAG:jjjjjbbbbssss add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/07/2023 7:47 AM
+BAG:jjjjjbbbbssss add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/07/2023 7:47 AM
+BAG:jjjjjbbbbssss add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/07/2023 7:48 AM
+BAG:jjjjjbbbbssss add 1xĐá Titan lydo: Nhặt từ map at 03/07/2023 7:48 AM
+BAG:jjjjjbbbbssss add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/07/2023 7:48 AM
+BAG:jjjjjbbbbssss add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/07/2023 7:49 AM
+BAG:jjjjjbbbbssss add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/07/2023 7:49 AM
+BAG:jjjjjbbbbssss add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/07/2023 7:49 AM
+BAG:jjjjjbbbbssss add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/07/2023 7:50 AM
+BAG:jjjjjbbbbssss add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/07/2023 7:50 AM
+BAG:jjjjjbbbbssss add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/07/2023 7:50 AM
+BAG:jjjjjbbbbssss add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/07/2023 7:50 AM
+BAG:jjjjjbbbbssss add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/07/2023 7:50 AM
+BAG:jjjjjbbbbssss add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/07/2023 7:50 AM
+BAG:jjjjjbbbbssss add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/07/2023 7:51 AM
+BAG:jjjjjbbbbssss add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/07/2023 7:51 AM
+BAG:jjjjjbbbbssss add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/07/2023 7:52 AM
+BAG:jjjjjbbbbssss add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/07/2023 7:54 AM
+BAG:jjjjjbbbbssss add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/07/2023 7:54 AM
+BAG:jjjjjbbbbssss add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/07/2023 7:54 AM
+BAG:jjjjjbbbbssss add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/07/2023 7:54 AM
+BAG:jjjjjbbbbssss add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 03/07/2023 7:55 AM
+BAG:jjjjjbbbbssss add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/07/2023 7:55 AM
+BAG:jjjjjbbbbssss add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/07/2023 7:55 AM
+BAG:jjjjjbbbbssss add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/07/2023 7:55 AM
+BAG:jjjjjbbbbssss add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/07/2023 7:56 AM
+BAG:jjjjjbbbbssss add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/07/2023 7:56 AM
+BAG:jjjjjbbbbssss add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/07/2023 7:56 AM
+BAG:jjjjjbbbbssss add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/07/2023 7:57 AM
+BAG:jjjjjbbbbssss add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/07/2023 7:57 AM
+BAG:jjjjjbbbbssss add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 03/07/2023 7:57 AM
+BAG:jjjjjbbbbssss add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/07/2023 7:57 AM
+BAG:jjjjjbbbbssss add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/07/2023 7:57 AM
+BAG:jjjjjbbbbssss add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/07/2023 7:57 AM
+BAG:jjjjjbbbbssss add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/07/2023 7:57 AM
+BAG:jjjjjbbbbssss add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/07/2023 7:57 AM
+BAG:jjjjjbbbbssss add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/07/2023 7:58 AM
+BAG:jjjjjbbbbssss add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/07/2023 7:59 AM
+BAG:jjjjjbbbbssss add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/07/2023 7:59 AM
+BAG:jjjjjbbbbssss add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/07/2023 7:59 AM
+BAG:jjjjjbbbbssss add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/07/2023 7:59 AM
+BAG:jjjjjbbbbssss add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/07/2023 7:59 AM
+BAG:jjjjjbbbbssss add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/07/2023 7:59 AM
+BAG:jjjjjbbbbssss add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/07/2023 7:59 AM
+BAG:jjjjjbbbbssss add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/07/2023 7:59 AM
+BAG:jjjjjbbbbssss add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/07/2023 8:00 AM
+BAG:jjjjjbbbbssss add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 03/07/2023 8:00 AM
+BAG:jjjjjbbbbssss add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/07/2023 8:00 AM
+BAG:jjjjjbbbbssss add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/07/2023 8:00 AM
+BAG:jjjjjbbbbssss add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/07/2023 8:00 AM
+BAG:jjjjjbbbbssss add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/07/2023 8:01 AM
+BAG:jjjjjbbbbssss add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/07/2023 8:01 AM
+BAG:jjjjjbbbbssss add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/07/2023 8:01 AM
+BAG:jjjjjbbbbssss add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/07/2023 8:01 AM
+BAG:jjjjjbbbbssss add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/07/2023 8:01 AM
+BAG:jjjjjbbbbssss add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 03/07/2023 8:01 AM
+BAG:jjjjjbbbbssss add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/07/2023 8:01 AM
+BAG:jjjjjbbbbssss add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 03/07/2023 8:01 AM
+BAG:jjjjjbbbbssss add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 03/07/2023 8:01 AM
+BAG:jjjjjbbbbssss add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/07/2023 8:02 AM
+BAG:jjjjjbbbbssss add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/07/2023 8:02 AM
+BAG:jjjjjbbbbssss add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/07/2023 8:02 AM
+BAG:jjjjjbbbbssss add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/07/2023 8:02 AM
+BAG:jjjjjbbbbssss add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/07/2023 8:02 AM
+BAG:jjjjjbbbbssss add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/07/2023 8:03 AM
+BAG:jjjjjbbbbssss add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/07/2023 8:03 AM
+BAG:jjjjjbbbbssss add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/07/2023 8:03 AM
+BAG:jjjjjbbbbssss add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/07/2023 8:03 AM
+BAG:jjjjjbbbbssss add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/07/2023 8:03 AM
+BAG:jjjjjbbbbssss add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/07/2023 8:04 AM
+BAG:jjjjjbbbbssss add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/07/2023 8:04 AM
+BAG:jjjjjbbbbssss add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/07/2023 8:04 AM
+BAG:jjjjjbbbbssss add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/07/2023 8:04 AM
+BAG:jjjjjbbbbssss add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/07/2023 8:04 AM
+BAG:jjjjjbbbbssss add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/07/2023 8:04 AM
+BAG:jjjjjbbbbssss add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/07/2023 8:06 AM
+BAG:jjjjjbbbbssss add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 03/07/2023 8:06 AM
+BAG:jjjjjbbbbssss add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 03/07/2023 8:06 AM
+BAG:jjjjjbbbbssss add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/07/2023 8:06 AM
+BAG:jjjjjbbbbssss add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/07/2023 8:07 AM
+BAG:jjjjjbbbbssss add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/07/2023 8:07 AM
+BAG:jjjjjbbbbssss add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/07/2023 8:07 AM
+BAG:jjjjjbbbbssss add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/07/2023 8:07 AM
+BAG:jjjjjbbbbssss add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/07/2023 8:07 AM
+BAG:jjjjjbbbbssss add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/07/2023 8:07 AM
+BAG:jjjjjbbbbssss add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/07/2023 8:07 AM
+BAG:jjjjjbbbbssss add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/07/2023 8:07 AM
+BAG:jjjjjbbbbssss add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/07/2023 8:07 AM
+BAG:jjjjjbbbbssss add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 03/07/2023 8:08 AM
+BAG:jjjjjbbbbssss add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/07/2023 8:08 AM
+BAG:jjjjjbbbbssss add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/07/2023 8:08 AM
+BAG:jjjjjbbbbssss add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/07/2023 8:08 AM
+BAG:jjjjjbbbbssss add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/07/2023 8:08 AM
+BAG:jjjjjbbbbssss add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/07/2023 8:08 AM
+BAG:jjjjjbbbbssss add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/07/2023 8:09 AM
+BAG:jjjjjbbbbssss add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/07/2023 8:09 AM
+BAG:jjjjjbbbbssss add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/07/2023 8:09 AM
+BAG:jjjjjbbbbssss add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/07/2023 8:09 AM
+BAG:jjjjjbbbbssss add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/07/2023 8:10 AM
+BAG:jjjjjbbbbssss add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/07/2023 8:10 AM
+BAG:jjjjjbbbbssss add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/07/2023 8:10 AM
+BAG:jjjjjbbbbssss add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/07/2023 8:10 AM
+BAG:jjjjjbbbbssss add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/07/2023 8:10 AM
+BAG:jjjjjbbbbssss add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/07/2023 8:10 AM
+BAG:jjjjjbbbbssss add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/07/2023 8:10 AM
+BAG:jjjjjbbbbssss add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/07/2023 8:10 AM
+BAG:jjjjjbbbbssss add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/07/2023 8:10 AM
+BAG:jjjjjbbbbssss add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/07/2023 8:11 AM
+BAG:jjjjjbbbbssss add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/07/2023 8:11 AM
+BAG:jjjjjbbbbssss add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/07/2023 8:11 AM
+BAG:jjjjjbbbbssss add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/07/2023 8:11 AM
+BAG:jjjjjbbbbssss add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/07/2023 8:11 AM
+BAG:jjjjjbbbbssss add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 03/07/2023 8:11 AM
+BAG:jjjjjbbbbssss add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/07/2023 8:12 AM
+BAG:jjjjjbbbbssss add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 03/07/2023 8:12 AM
+BAG:jjjjjbbbbssss add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 03/07/2023 8:12 AM
+BAG:jjjjjbbbbssss add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 03/07/2023 8:12 AM
+BAG:jjjjjbbbbssss add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/07/2023 8:12 AM
+BAG:jjjjjbbbbssss add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/07/2023 8:12 AM
+BAG:jjjjjbbbbssss add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/07/2023 8:13 AM
+BAG:jjjjjbbbbssss add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/07/2023 8:13 AM
+BAG:jjjjjbbbbssss add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/07/2023 8:14 AM
+BAG:jjjjjbbbbssss add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/07/2023 8:14 AM
+BAG:jjjjjbbbbssss add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/07/2023 8:14 AM
+BAG:jjjjjbbbbssss add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/07/2023 8:15 AM
+BAG:jjjjjbbbbssss add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/07/2023 8:15 AM
+BAG:jjjjjbbbbssss add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/07/2023 8:15 AM
+BAG:jjjjjbbbbssss add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/07/2023 8:15 AM
+BAG:jjjjjbbbbssss add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/07/2023 8:15 AM
+BAG:jjjjjbbbbssss add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/07/2023 8:15 AM
+BAG:jjjjjbbbbssss add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/07/2023 8:15 AM
+BAG:jjjjjbbbbssss add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 03/07/2023 8:16 AM
+BAG:jjjjjbbbbssss add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/07/2023 8:16 AM
+BAG:jjjjjbbbbssss add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 03/07/2023 8:16 AM
+BAG:jjjjjbbbbssss add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/07/2023 8:17 AM
+BAG:jjjjjbbbbssss add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/07/2023 8:17 AM
+BAG:jjjjjbbbbssss add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/07/2023 8:17 AM
+BAG:jjjjjbbbbssss add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/07/2023 8:17 AM
+BAG:jjjjjbbbbssss add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/07/2023 8:18 AM
+BAG:jjjjjbbbbssss add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/07/2023 8:18 AM
+BAG:jjjjjbbbbssss add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/07/2023 8:19 AM
+BAG:jjjjjbbbbssss add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 03/07/2023 8:19 AM
+BAG:jjjjjbbbbssss add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/07/2023 8:19 AM
+BAG:jjjjjbbbbssss add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/07/2023 8:19 AM
+BAG:jjjjjbbbbssss add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/07/2023 8:19 AM
+BAG:jjjjjbbbbssss add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 03/07/2023 8:20 AM
+BAG:jjjjjbbbbssss add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/07/2023 8:21 AM
+BAG:jjjjjbbbbssss add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/07/2023 8:21 AM
+BAG:jjjjjbbbbssss add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/07/2023 8:21 AM
+BAG:jjjjjbbbbssss add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/07/2023 8:21 AM
+BAG:jjjjjbbbbssss add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/07/2023 8:21 AM
+BAG:jjjjjbbbbssss add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/07/2023 8:22 AM
+BAG:jjjjjbbbbssss add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 03/07/2023 8:22 AM
+BAG:jjjjjbbbbssss add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/07/2023 8:22 AM
+BAG:jjjjjbbbbssss add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 03/07/2023 8:22 AM
+BAG:jjjjjbbbbssss add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/07/2023 8:22 AM
+BAG:jjjjjbbbbssss add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/07/2023 8:23 AM
+BAG:jjjjjbbbbssss add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/07/2023 8:23 AM
+BAG:jjjjjbbbbssss add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 03/07/2023 8:23 AM
+BAG:jjjjjbbbbssss add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/07/2023 8:23 AM
+BAG:jjjjjbbbbssss add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/07/2023 8:23 AM
+BAG:jjjjjbbbbssss add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 03/07/2023 8:24 AM
+BAG:jjjjjbbbbssss add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/07/2023 8:24 AM
+BAG:jjjjjbbbbssss add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/07/2023 8:24 AM
+BAG:jjjjjbbbbssss add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/07/2023 8:24 AM
+BAG:jjjjjbbbbssss add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/07/2023 8:24 AM
+BAG:jjjjjbbbbssss add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/07/2023 8:24 AM
+BAG:jjjjjbbbbssss add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/07/2023 8:24 AM
+BAG:jjjjjbbbbssss add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/07/2023 8:25 AM
+BAG:jjjjjbbbbssss add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/07/2023 8:25 AM
+BAG:jjjjjbbbbssss add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/07/2023 8:25 AM
+BAG:jjjjjbbbbssss add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/07/2023 8:25 AM
+BAG:jjjjjbbbbssss add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/07/2023 8:26 AM
+BAG:jjjjjbbbbssss add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/07/2023 8:26 AM
+BAG:jjjjjbbbbssss add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/07/2023 8:26 AM
+BAG:jjjjjbbbbssss add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/07/2023 8:26 AM
+BAG:jjjjjbbbbssss add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/07/2023 8:26 AM
+BAG:jjjjjbbbbssss add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/07/2023 8:27 AM
+BAG:jjjjjbbbbssss add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/07/2023 8:27 AM
+BAG:jjjjjbbbbssss add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/07/2023 8:27 AM
+BAG:jjjjjbbbbssss add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/07/2023 8:27 AM
+BAG:jjjjjbbbbssss add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/07/2023 8:28 AM
+BAG:jjjjjbbbbssss add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/07/2023 8:28 AM
+BAG:jjjjjbbbbssss add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/07/2023 8:28 AM
+BAG:jjjjjbbbbssss add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/07/2023 8:28 AM
+BAG:jjjjjbbbbssss add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/07/2023 8:28 AM
+BAG:jjjjjbbbbssss add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/07/2023 8:28 AM
+BAG:jjjjjbbbbssss add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/07/2023 8:28 AM
+BAG:jjjjjbbbbssss add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/07/2023 8:29 AM
+BAG:jjjjjbbbbssss add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/07/2023 8:29 AM
+BAG:jjjjjbbbbssss add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/07/2023 8:38 AM
+BAG:jjjjjbbbbssss add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/07/2023 8:38 AM
+BAG:jjjjjbbbbssss add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/07/2023 8:38 AM
+BAG:jjjjjbbbbssss add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/07/2023 8:38 AM
+BAG:jjjjjbbbbssss add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/07/2023 8:38 AM
+BAG:jjjjjbbbbssss add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/07/2023 8:38 AM
+BAG:jjjjjbbbbssss add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/07/2023 8:40 AM
+BAG:jjjjjbbbbssss add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/07/2023 8:45 AM
+BAG:jjjjjbbbbssss add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/07/2023 8:48 AM
+BAG:jjjjjbbbbssss add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 03/07/2023 8:48 AM
+BAG:jjjjjbbbbssss add 1xQuần Kaio lydo: Mua từ cửa hàng at 03/07/2023 8:49 AM
+BAG:jjjjjbbbbssss add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/07/2023 8:49 AM
+BAG:jjjjjbbbbssss add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 03/07/2023 8:50 AM
+BAG:jjjjjbbbbssss add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 03/07/2023 9:06 AM
+BAG:jjjjjbbbbssss add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 03/07/2023 9:06 AM
+BAG:jjjjjbbbbssss add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 03/07/2023 9:06 AM
+BAG:jjjjjbbbbssss add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 03/07/2023 9:06 AM
+BAG:jjjjjbbbbssss add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 03/07/2023 9:06 AM
+BAG:jjjjjbbbbssss add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 03/07/2023 9:06 AM
+BAG:jjjjjbbbbssss add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 03/07/2023 9:06 AM
+BAG:jjjjjbbbbssss add 1xSách Huýt Sáo lv1 lydo: Mua từ cửa hàng at 03/07/2023 9:07 AM
+BAG:jjjjjbbbbssss add 1xSách Huýt Sáo lv2 lydo: Mua từ cửa hàng at 03/07/2023 9:07 AM
+BAG:jjjjjbbbbssss add 1xSách Huýt Sáo lv3 lydo: Mua từ cửa hàng at 03/07/2023 9:07 AM
+BAG:jjjjjbbbbssss add 1xSách Huýt Sáo lv4 lydo: Mua từ cửa hàng at 03/07/2023 9:07 AM
+BAG:jjjjjbbbbssss add 1xSách Huýt Sáo lv5 lydo: Mua từ cửa hàng at 03/07/2023 9:07 AM
+BAG:jjjjjbbbbssss add 1xSách Huýt Sáo lv6 lydo: Mua từ cửa hàng at 03/07/2023 9:07 AM
+BAG:jjjjjbbbbssss add 1xSách Huýt Sáo lv7 lydo: Mua từ cửa hàng at 03/07/2023 9:07 AM
+BAG:jjjjjbbbbssss add 1xĐá lục bảo lydo: Nhặt từ map at 03/07/2023 9:08 AM
+BAG:jjjjjbbbbssss add 10xBổ huyết lydo: Lấy từ rương qua người at 03/07/2023 9:08 AM
+BAG:jjjjjbbbbssss add 1xBột mì lydo: Nhặt từ map at 03/07/2023 9:10 AM
+BAG:jjjjjbbbbssss add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/07/2023 9:10 AM
+BAG:jjjjjbbbbssss add 1xPháo hoa lydo: Nhặt từ map at 03/07/2023 9:10 AM
+BAG:jjjjjbbbbssss add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/07/2023 9:12 AM
+BAG:jjjjjbbbbssss add 1xĐá Saphia lydo: Nhặt từ map at 03/07/2023 9:12 AM
+BAG:jjjjjbbbbssss add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/07/2023 9:15 AM
+BAG:jjjjjbbbbssss add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/07/2023 9:15 AM
+BAG:jjjjjbbbbssss add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/07/2023 9:16 AM
+BAG:jjjjjbbbbssss add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/07/2023 9:18 AM
+BAG:jjjjjbbbbssss add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/07/2023 9:19 AM
+BAG:jjjjjbbbbssss add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/07/2023 9:33 AM
+BAG:jjjjjbbbbssss add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/07/2023 9:44 AM
+BAG:jjjjjbbbbssss add 46xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/07/2023 9:44 AM
+BAG:jjjjjbbbbssss add 66xĐậu thần cấp 10 (old: 46) lydo: Lấy từ rương qua người at 03/07/2023 9:44 AM
+BAG:jjjjjbbbbssss add 86xĐậu thần cấp 10 (old: 66) lydo: Lấy từ rương qua người at 03/07/2023 9:44 AM
+BAG:jjjjjbbbbssss add 7xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 9:45 AM
+BAG:jjjjjbbbbssss add 99xĐậu thần cấp 10 (old: 86) lydo: Lấy từ rương qua người at 03/07/2023 9:45 AM
+BAG:jjjjjbbbbssss add 27xĐậu thần cấp 10 (old: 7) lydo: Lấy từ rương qua người at 03/07/2023 9:45 AM
+BAG:jjjjjbbbbssss add 47xĐậu thần cấp 10 (old: 27) lydo: Lấy từ rương qua người at 03/07/2023 9:45 AM
+BAG:jjjjjbbbbssss add 67xĐậu thần cấp 10 (old: 47) lydo: Lấy từ rương qua người at 03/07/2023 9:45 AM
+BAG:jjjjjbbbbssss add 87xĐậu thần cấp 10 (old: 67) lydo: Lấy từ rương qua người at 03/07/2023 9:45 AM
+BAG:jjjjjbbbbssss add 8xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 9:46 AM
+BAG:jjjjjbbbbssss add 99xĐậu thần cấp 10 (old: 87) lydo: Lấy từ rương qua người at 03/07/2023 9:46 AM
+BAG:jjjjjbbbbssss add 28xĐậu thần cấp 10 (old: 8) lydo: Lấy từ rương qua người at 03/07/2023 9:46 AM
+BAG:jjjjjbbbbssss add 48xĐậu thần cấp 10 (old: 28) lydo: Lấy từ rương qua người at 03/07/2023 9:46 AM
+BAG:jjjjjbbbbssss add 68xĐậu thần cấp 10 (old: 48) lydo: Lấy từ rương qua người at 03/07/2023 9:46 AM
+BAG:jjjjjbbbbssss add 88xĐậu thần cấp 10 (old: 68) lydo: Lấy từ rương qua người at 03/07/2023 9:46 AM
+BAG:jjjjjbbbbssss add 9xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 9:46 AM
+BAG:jjjjjbbbbssss add 99xĐậu thần cấp 10 (old: 88) lydo: Lấy từ rương qua người at 03/07/2023 9:46 AM
+BAG:jjjjjbbbbssss add 29xĐậu thần cấp 10 (old: 9) lydo: Lấy từ rương qua người at 03/07/2023 9:47 AM
+BAG:jjjjjbbbbssss add 49xĐậu thần cấp 10 (old: 29) lydo: Lấy từ rương qua người at 03/07/2023 9:47 AM
+BAG:jjjjjbbbbssss add 69xĐậu thần cấp 10 (old: 49) lydo: Lấy từ rương qua người at 03/07/2023 9:47 AM
+BAG:jjjjjbbbbssss add 89xĐậu thần cấp 10 (old: 69) lydo: Lấy từ rương qua người at 03/07/2023 9:47 AM
+BAG:jjjjjbbbbssss add 10xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 9:47 AM
+BAG:jjjjjbbbbssss add 99xĐậu thần cấp 10 (old: 89) lydo: Lấy từ rương qua người at 03/07/2023 9:47 AM
+BAG:jjjjjbbbbssss add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/07/2023 9:47 AM
+BAG:jjjjjbbbbssss add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/07/2023 9:48 AM
+BAG:jjjjjbbbbssss add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/07/2023 9:48 AM
+BAG:jjjjjbbbbssss add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/07/2023 9:48 AM
+BAG:jjjjjbbbbssss add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 9:48 AM
+BAG:jjjjjbbbbssss add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/07/2023 9:48 AM
+BAG:jjjjjbbbbssss add 99xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 9:52 AM
+BAG:jjjjjbbbbssss add 99xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 9:52 AM
+BAG:jjjjjbbbbssss add 99xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 9:52 AM
+BAG:jjjjjbbbbssss add 99xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 9:52 AM
+BAG:jjjjjbbbbssss add 99xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 9:52 AM
+BAG:jjjjjbbbbssss add 31xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/07/2023 9:52 AM
+BAG:jjjjjbbbbssss add 51xĐậu thần cấp 10 (old: 31) lydo: Lấy từ rương qua người at 03/07/2023 9:53 AM
+BAG:jjjjjbbbbssss add 71xĐậu thần cấp 10 (old: 51) lydo: Lấy từ rương qua người at 03/07/2023 9:53 AM
+BAG:jjjjjbbbbssss add 91xĐậu thần cấp 10 (old: 71) lydo: Lấy từ rương qua người at 03/07/2023 9:53 AM
+BAG:jjjjjbbbbssss add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/07/2023 10:05 AM
+BAG:jjjjjbbbbssss add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/07/2023 10:13 AM
+BAG:jjjjjbbbbssss add 1xĐá Ruby lydo: Nhặt từ map at 03/07/2023 10:24 AM
+BAG:jjjjjbbbbssss add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/07/2023 10:59 AM
+BAG:jjjjjbbbbssss add 1xĐá Titan lydo: Nhặt từ map at 03/07/2023 10:59 AM
+BAG:jjjjjbbbbssss add 1xĐậu xanh lydo: Nhặt từ map at 03/07/2023 11:04 AM
+BAG:jjjjjbbbbssss add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 03/07/2023 11:16 AM
+BAG:jjjjjbbbbssss add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/07/2023 11:17 AM
+BAG:jjjjjbbbbssss add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/07/2023 11:17 AM
+BAG:jjjjjbbbbssss add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/07/2023 11:17 AM
+BAG:jjjjjbbbbssss add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 03/07/2023 11:17 AM
+BAG:jjjjjbbbbssss add 1xGà quay nguyên con lydo: Nhặt từ map at 03/07/2023 11:17 AM
+BAG:jjjjjbbbbssss add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/07/2023 11:18 AM
+BAG:jjjjjbbbbssss add 48xThỏi vàng lydo: Lấy từ rương qua người at 03/07/2023 11:19 AM
+BAG:jjjjjbbbbssss add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/07/2023 11:19 AM
+BAG:jjjjjbbbbssss add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/07/2023 11:21 AM
+BAG:jjjjjbbbbssss add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/07/2023 11:22 AM
+BAG:jjjjjbbbbssss add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhặt từ map at 03/07/2023 11:22 AM
+BAG:jjjjjbbbbssss add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/07/2023 11:22 AM
+BAG:jjjjjbbbbssss add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/07/2023 11:23 AM
+BAG:jjjjjbbbbssss add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/07/2023 11:23 AM
+BAG:jjjjjbbbbssss add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/07/2023 11:23 AM
+BAG:jjjjjbbbbssss add 1xTrứng vịt muối lydo: Nhặt từ map at 03/07/2023 11:23 AM
+BAG:jjjjjbbbbssss add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/07/2023 11:23 AM
+BAG:jjjjjbbbbssss add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 03/07/2023 11:25 AM
+BAG:jjjjjbbbbssss add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/07/2023 11:31 AM
+BAG:jjjjjbbbbssss add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhặt từ map at 03/07/2023 11:32 AM
+BAG:jjjjjbbbbssss add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/07/2023 11:32 AM
+BAG:jjjjjbbbbssss add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/07/2023 11:34 AM
+BAG:jjjjjbbbbssss add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 03/07/2023 11:34 AM
+BAG:jjjjjbbbbssss add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/07/2023 11:35 AM
+BAG:jjjjjbbbbssss add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/07/2023 11:36 AM
+BAG:jjjjjbbbbssss add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/07/2023 11:36 AM
+BAG:jjjjjbbbbssss add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/07/2023 11:37 AM
+BAG:jjjjjbbbbssss add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/07/2023 11:39 AM
+BAG:jjjjjbbbbssss add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/07/2023 11:39 AM
+BAG:jjjjjbbbbssss add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/07/2023 11:40 AM
+BAG:jjjjjbbbbssss add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/07/2023 11:41 AM
+BAG:jjjjjbbbbssss add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 03/07/2023 11:41 AM
+BAG:jjjjjbbbbssss add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/07/2023 11:42 AM
+BAG:jjjjjbbbbssss add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/07/2023 11:43 AM
+BAG:jjjjjbbbbssss add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/07/2023 11:44 AM
+BAG:jjjjjbbbbssss add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/07/2023 11:48 AM
+BAG:jjjjjbbbbssss add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/07/2023 11:48 AM
+BAG:jjjjjbbbbssss add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/07/2023 11:48 AM
+BAG:jjjjjbbbbssss add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/07/2023 11:49 AM
+BAG:jjjjjbbbbssss add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/07/2023 11:49 AM
+BAG:jjjjjbbbbssss add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/07/2023 11:49 AM
+BAG:jjjjjbbbbssss add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/07/2023 11:49 AM
+BAG:jjjjjbbbbssss add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/07/2023 11:50 AM
+BAG:jjjjjbbbbssss add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/07/2023 11:50 AM
+BAG:jjjjjbbbbssss add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/07/2023 11:51 AM
+BAG:jjjjjbbbbssss add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/07/2023 11:51 AM
+BAG:jjjjjbbbbssss add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/07/2023 11:53 AM
+BAG:jjjjjbbbbssss add 55xNgọc Rồng 4 sao (old: 54) lydo: Nhặt từ map at 03/07/2023 11:53 AM
+BAG:jjjjjbbbbssss add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/07/2023 11:54 AM
+BAG:jjjjjbbbbssss add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 03/07/2023 11:54 AM
+BAG:jjjjjbbbbssss add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/07/2023 11:54 AM
+BAG:jjjjjbbbbssss add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 03/07/2023 11:55 AM
+BAG:jjjjjbbbbssss add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/07/2023 11:55 AM
+BAG:jjjjjbbbbssss add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/07/2023 11:56 AM
+BAG:jjjjjbbbbssss add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/07/2023 11:57 AM
+BAG:jjjjjbbbbssss add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/07/2023 11:57 AM
+BAG:jjjjjbbbbssss add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/07/2023 11:58 AM
+BAG:jjjjjbbbbssss add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/07/2023 12:00 PM
+BAG:jjjjjbbbbssss add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/07/2023 12:01 PM
+BAG:jjjjjbbbbssss add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/07/2023 12:01 PM
+BAG:jjjjjbbbbssss add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/07/2023 12:02 PM
+BAG:jjjjjbbbbssss add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/07/2023 12:03 PM
+BAG:jjjjjbbbbssss add 58xNgọc Rồng 4 sao (old: 57) lydo: Nhặt từ map at 03/07/2023 12:04 PM
+BAG:jjjjjbbbbssss add 59xNgọc Rồng 4 sao (old: 58) lydo: Nhặt từ map at 03/07/2023 12:04 PM
+BAG:jjjjjbbbbssss add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:jjjjjbbbbssss add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:jjjjjbbbbssss add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:jjjjjbbbbssss add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:jjjjjbbbbssss add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/07/2023 12:06 PM
+BAG:jjjjjbbbbssss add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/07/2023 12:06 PM
+BAG:jjjjjbbbbssss add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/07/2023 12:06 PM
+BAG:jjjjjbbbbssss add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/07/2023 12:06 PM
+BAG:jjjjjbbbbssss add 60xNgọc Rồng 4 sao (old: 59) lydo: Nhặt từ map at 03/07/2023 12:07 PM
+BAG:jjjjjbbbbssss add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/07/2023 12:09 PM
+BAG:jjjjjbbbbssss add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/07/2023 12:10 PM
+BAG:jjjjjbbbbssss add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/07/2023 12:11 PM
+BAG:jjjjjbbbbssss add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/07/2023 12:11 PM
+BAG:jjjjjbbbbssss add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/07/2023 12:11 PM
+BAG:jjjjjbbbbssss add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/07/2023 12:12 PM
+BAG:jjjjjbbbbssss add 61xNgọc Rồng 4 sao (old: 60) lydo: Nhặt từ map at 03/07/2023 12:13 PM
+BAG:jjjjjbbbbssss add 62xNgọc Rồng 4 sao (old: 61) lydo: Nhặt từ map at 03/07/2023 12:14 PM
+BAG:jjjjjbbbbssss add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/07/2023 12:14 PM
+BAG:jjjjjbbbbssss add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/07/2023 12:45 PM
+BAG:jjjjjbbbbssss add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/07/2023 12:45 PM
+BAG:jjjjjbbbbssss add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/07/2023 12:57 PM
+BAG:jjjjjbbbbssss add 9xCuồng nộ lydo: Lấy từ rương qua người at 03/07/2023 12:57 PM
+BAG:jjjjjbbbbssss add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/07/2023 1:00 PM
+BAG:jjjjjbbbbssss add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/07/2023 1:06 PM
+BAG:jjjjjbbbbssss add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/07/2023 1:09 PM
+BAG:jjjjjbbbbssss add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/07/2023 1:09 PM
+BAG:jjjjjbbbbssss add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/07/2023 1:09 PM
+BAG:jjjjjbbbbssss add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/07/2023 1:10 PM
+BAG:jjjjjbbbbssss add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/07/2023 1:10 PM
+BAG:jjjjjbbbbssss add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/07/2023 1:10 PM
+BAG:jjjjjbbbbssss add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/07/2023 1:10 PM
+BAG:jjjjjbbbbssss add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/07/2023 1:10 PM
+BAG:jjjjjbbbbssss add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/07/2023 1:11 PM
+BAG:jjjjjbbbbssss add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/07/2023 1:11 PM
+BAG:jjjjjbbbbssss add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/07/2023 1:11 PM
+BAG:jjjjjbbbbssss add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/07/2023 1:12 PM
+BAG:jjjjjbbbbssss add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/07/2023 1:12 PM
+BAG:jjjjjbbbbssss add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/07/2023 1:12 PM
+BAG:jjjjjbbbbssss add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/07/2023 1:13 PM
+BAG:jjjjjbbbbssss add 63xNgọc Rồng 4 sao (old: 62) lydo: Nhặt từ map at 03/07/2023 1:13 PM
+BAG:jjjjjbbbbssss add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/07/2023 1:15 PM
+BAG:jjjjjbbbbssss add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/07/2023 1:15 PM
+BAG:jjjjjbbbbssss add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/07/2023 1:15 PM
+BAG:jjjjjbbbbssss add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/07/2023 1:16 PM
+BAG:jjjjjbbbbssss add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/07/2023 1:16 PM
+BAG:jjjjjbbbbssss add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/07/2023 1:16 PM
+BAG:jjjjjbbbbssss add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/07/2023 1:16 PM
+BAG:jjjjjbbbbssss add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/07/2023 1:16 PM
+BAG:jjjjjbbbbssss add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 03/07/2023 1:17 PM
+BAG:jjjjjbbbbssss add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/07/2023 1:17 PM
+BAG:jjjjjbbbbssss add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/07/2023 1:17 PM
+BAG:jjjjjbbbbssss add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/07/2023 1:17 PM
+BAG:jjjjjbbbbssss add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/07/2023 1:17 PM
+BAG:jjjjjbbbbssss add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/07/2023 1:17 PM
+BAG:jjjjjbbbbssss add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/07/2023 1:49 PM
+BAG:jjjjjbbbbssss add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/07/2023 1:49 PM
+BAG:jjjjjbbbbssss add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/07/2023 1:49 PM
+BAG:jjjjjbbbbssss add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/07/2023 1:50 PM
+BAG:jjjjjbbbbssss add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/07/2023 1:50 PM
+BAG:jjjjjbbbbssss add 64xNgọc Rồng 4 sao (old: 63) lydo: Nhặt từ map at 03/07/2023 1:53 PM
+BAG:jjjjjbbbbssss add 65xNgọc Rồng 4 sao (old: 64) lydo: Nhặt từ map at 03/07/2023 1:55 PM
+BAG:jjjjjbbbbssss add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/07/2023 1:56 PM
+BAG:jjjjjbbbbssss add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/07/2023 1:56 PM
+BAG:jjjjjbbbbssss add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/07/2023 1:56 PM
+BAG:jjjjjbbbbssss add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/07/2023 1:56 PM
+BAG:jjjjjbbbbssss add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/07/2023 1:57 PM
+BAG:jjjjjbbbbssss add 3xPháo hoa (old: 2) lydo: Nhặt từ map at 03/07/2023 1:57 PM
+BAG:jjjjjbbbbssss add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/07/2023 1:57 PM
+BAG:jjjjjbbbbssss add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/07/2023 1:58 PM
+BAG:jjjjjbbbbssss add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhặt từ map at 03/07/2023 1:58 PM
+BAG:jjjjjbbbbssss add 4xPháo hoa (old: 3) lydo: Nhặt từ map at 03/07/2023 1:58 PM
+BAG:jjjjjbbbbssss add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/07/2023 2:03 PM
+BAG:jjjjjbbbbssss add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/07/2023 2:04 PM
+BAG:jjjjjbbbbssss add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/07/2023 2:04 PM
+BAG:jjjjjbbbbssss add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/07/2023 2:04 PM
+BAG:jjjjjbbbbssss add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/07/2023 2:04 PM
+BAG:jjjjjbbbbssss add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/07/2023 2:04 PM
+BAG:jjjjjbbbbssss add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/07/2023 2:05 PM
+BAG:jjjjjbbbbssss add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/07/2023 2:05 PM
+BAG:jjjjjbbbbssss add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/07/2023 2:05 PM
+BAG:jjjjjbbbbssss add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/07/2023 2:05 PM
+BAG:jjjjjbbbbssss add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/07/2023 2:05 PM
+BAG:jjjjjbbbbssss add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/07/2023 2:05 PM
+BAG:jjjjjbbbbssss add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/07/2023 2:06 PM
+BAG:jjjjjbbbbssss add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/07/2023 2:06 PM
+BAG:jjjjjbbbbssss add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/07/2023 2:06 PM
+BAG:jjjjjbbbbssss add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/07/2023 2:06 PM
+BAG:jjjjjbbbbssss add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/07/2023 2:07 PM
+BAG:jjjjjbbbbssss add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/07/2023 2:07 PM
+BAG:jjjjjbbbbssss add 1xGăng vải thô lydo: Nhặt từ map at 03/07/2023 2:07 PM
+BAG:jjjjjbbbbssss add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/07/2023 2:07 PM
+BAG:jjjjjbbbbssss add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/07/2023 2:08 PM
+BAG:jjjjjbbbbssss add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/07/2023 2:08 PM
+BAG:jjjjjbbbbssss add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/07/2023 2:08 PM
+BAG:jjjjjbbbbssss add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/07/2023 2:08 PM
+BAG:jjjjjbbbbssss add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/07/2023 2:09 PM
+BAG:jjjjjbbbbssss add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/07/2023 2:09 PM
+BAG:jjjjjbbbbssss add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/07/2023 2:10 PM
+BAG:jjjjjbbbbssss add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/07/2023 2:10 PM
+BAG:jjjjjbbbbssss add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/07/2023 2:10 PM
+BAG:jjjjjbbbbssss add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/07/2023 2:10 PM
+BAG:jjjjjbbbbssss add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/07/2023 2:19 PM
+BAG:jjjjjbbbbssss add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/07/2023 2:20 PM
+BAG:jjjjjbbbbssss add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/07/2023 2:20 PM
+BAG:jjjjjbbbbssss add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/07/2023 2:20 PM
+BAG:jjjjjbbbbssss add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/07/2023 2:22 PM
+BAG:jjjjjbbbbssss add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/07/2023 2:22 PM
+BAG:jjjjjbbbbssss add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/07/2023 2:22 PM
+BAG:jjjjjbbbbssss add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/07/2023 2:22 PM
+BAG:jjjjjbbbbssss add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/07/2023 2:22 PM
+BAG:jjjjjbbbbssss add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/07/2023 2:22 PM
+BAG:jjjjjbbbbssss add 1xQuần vải thô lydo: Nhặt từ map at 03/07/2023 2:22 PM
+BAG:jjjjjbbbbssss add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/07/2023 2:23 PM
+BAG:jjjjjbbbbssss add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/07/2023 2:23 PM
+BAG:jjjjjbbbbssss add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/07/2023 2:23 PM
+BAG:jjjjjbbbbssss add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/07/2023 2:23 PM
+BAG:jjjjjbbbbssss add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/07/2023 2:24 PM
+BAG:jjjjjbbbbssss add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/07/2023 2:24 PM
+BAG:jjjjjbbbbssss add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/07/2023 2:24 PM
+BAG:jjjjjbbbbssss add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/07/2023 2:24 PM
+BAG:jjjjjbbbbssss add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/07/2023 2:28 PM
+BAG:jjjjjbbbbssss add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/07/2023 2:29 PM
+BAG:jjjjjbbbbssss add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/07/2023 2:29 PM
+BAG:jjjjjbbbbssss add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/07/2023 2:29 PM
+BAG:jjjjjbbbbssss add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/07/2023 2:29 PM
+BAG:jjjjjbbbbssss add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/07/2023 2:29 PM
+BAG:jjjjjbbbbssss add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/07/2023 2:29 PM
+BAG:jjjjjbbbbssss add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/07/2023 2:29 PM
+BAG:jjjjjbbbbssss add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/07/2023 2:29 PM
+BAG:jjjjjbbbbssss add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/07/2023 2:29 PM
+BAG:jjjjjbbbbssss add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/07/2023 2:29 PM
+BAG:jjjjjbbbbssss add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/07/2023 2:29 PM
+BAG:jjjjjbbbbssss add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/07/2023 2:30 PM
+BAG:jjjjjbbbbssss add 1xÁo vải thô lydo: Nhặt từ map at 03/07/2023 2:30 PM
+BAG:jjjjjbbbbssss add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/07/2023 2:30 PM
+BAG:jjjjjbbbbssss add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/07/2023 2:31 PM
+BAG:jjjjjbbbbssss add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/07/2023 2:31 PM
+BAG:jjjjjbbbbssss add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/07/2023 2:31 PM
+BAG:jjjjjbbbbssss add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/07/2023 2:31 PM
+BAG:jjjjjbbbbssss add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/07/2023 2:31 PM
+BAG:jjjjjbbbbssss add 1xGăng vải thô lydo: Nhặt từ map at 03/07/2023 2:31 PM
+BAG:jjjjjbbbbssss add 1xQuần vải thô lydo: Nhặt từ map at 03/07/2023 2:31 PM
+BAG:jjjjjbbbbssss add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/07/2023 2:31 PM
+BAG:jjjjjbbbbssss add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/07/2023 2:31 PM
+BAG:jjjjjbbbbssss add 1xQuần vải thô lydo: Nhặt từ map at 03/07/2023 2:32 PM
+BAG:jjjjjbbbbssss add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/07/2023 2:32 PM
+BAG:jjjjjbbbbssss add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/07/2023 2:32 PM
+BAG:jjjjjbbbbssss add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/07/2023 2:33 PM
+BAG:jjjjjbbbbssss add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 03/07/2023 2:33 PM
+BAG:jjjjjbbbbssss add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/07/2023 2:33 PM
+BAG:jjjjjbbbbssss add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/07/2023 2:33 PM
+BAG:jjjjjbbbbssss add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/07/2023 2:33 PM
+BAG:jjjjjbbbbssss add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/07/2023 2:34 PM
+BAG:jjjjjbbbbssss add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/07/2023 2:34 PM
+BAG:jjjjjbbbbssss add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/07/2023 2:34 PM
+BAG:jjjjjbbbbssss add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/07/2023 2:34 PM
+BAG:jjjjjbbbbssss add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/07/2023 2:38 PM
+BAG:jjjjjbbbbssss add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/07/2023 2:39 PM
+BAG:jjjjjbbbbssss add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/07/2023 2:39 PM
+BAG:jjjjjbbbbssss add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/07/2023 2:39 PM
+BAG:jjjjjbbbbssss add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/07/2023 2:39 PM
+BAG:jjjjjbbbbssss add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/07/2023 2:40 PM
+BAG:jjjjjbbbbssss add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/07/2023 2:40 PM
+BAG:jjjjjbbbbssss add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/07/2023 2:40 PM
+BAG:jjjjjbbbbssss add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/07/2023 2:45 PM
+BAG:jjjjjbbbbssss add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/07/2023 2:46 PM
+BAG:jjjjjbbbbssss add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/07/2023 2:46 PM
+BAG:jjjjjbbbbssss add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/07/2023 2:46 PM
+BAG:jjjjjbbbbssss add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/07/2023 2:46 PM
+BAG:jjjjjbbbbssss add 1xGăng vải thô lydo: Nhặt từ map at 03/07/2023 2:47 PM
+BAG:jjjjjbbbbssss add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/07/2023 2:47 PM
+BAG:jjjjjbbbbssss add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/07/2023 2:47 PM
+BAG:jjjjjbbbbssss add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/07/2023 2:47 PM
+BAG:jjjjjbbbbssss add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/07/2023 2:47 PM
+BAG:jjjjjbbbbssss add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/07/2023 2:47 PM
+BAG:jjjjjbbbbssss add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 03/07/2023 2:48 PM
+BAG:jjjjjbbbbssss add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/07/2023 2:48 PM
+BAG:jjjjjbbbbssss add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/07/2023 2:48 PM
+BAG:jjjjjbbbbssss add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/07/2023 2:48 PM
+BAG:jjjjjbbbbssss add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/07/2023 2:48 PM
+BAG:jjjjjbbbbssss add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 03/07/2023 2:48 PM
+BAG:jjjjjbbbbssss add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/07/2023 2:48 PM
+BAG:jjjjjbbbbssss add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/07/2023 2:49 PM
+BAG:jjjjjbbbbssss add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/07/2023 2:49 PM
+BAG:jjjjjbbbbssss add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 03/07/2023 2:49 PM
+BAG:jjjjjbbbbssss add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/07/2023 2:49 PM
+BAG:jjjjjbbbbssss add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/07/2023 2:49 PM
+BAG:jjjjjbbbbssss add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/07/2023 2:49 PM
+BAG:jjjjjbbbbssss add 1xGăng vải thô lydo: Nhặt từ map at 03/07/2023 2:49 PM
+BAG:jjjjjbbbbssss add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/07/2023 2:49 PM
+BAG:jjjjjbbbbssss add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/07/2023 2:49 PM
+BAG:jjjjjbbbbssss add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/07/2023 2:50 PM
+BAG:jjjjjbbbbssss add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/07/2023 2:50 PM
+BAG:jjjjjbbbbssss add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/07/2023 2:50 PM
+BAG:jjjjjbbbbssss add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/07/2023 2:50 PM
+BAG:jjjjjbbbbssss add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/07/2023 2:50 PM
+BAG:jjjjjbbbbssss add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/07/2023 2:51 PM
+BAG:jjjjjbbbbssss add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/07/2023 2:51 PM
+BAG:jjjjjbbbbssss add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/07/2023 2:51 PM
+BAG:jjjjjbbbbssss add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/07/2023 2:51 PM
+BAG:jjjjjbbbbssss add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/07/2023 2:51 PM
+BAG:jjjjjbbbbssss add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/07/2023 2:51 PM
+BAG:jjjjjbbbbssss add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/07/2023 2:51 PM
+BAG:jjjjjbbbbssss add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/07/2023 2:51 PM
+BAG:jjjjjbbbbssss add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 03/07/2023 2:52 PM
+BAG:jjjjjbbbbssss add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/07/2023 2:52 PM
+BAG:jjjjjbbbbssss add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 03/07/2023 2:52 PM
+BAG:jjjjjbbbbssss add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/07/2023 2:52 PM
+BAG:jjjjjbbbbssss add 1xRada cấp 1 lydo: Nhặt từ map at 03/07/2023 2:52 PM
+BAG:jjjjjbbbbssss add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 03/07/2023 2:52 PM
+BAG:jjjjjbbbbssss add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/07/2023 2:52 PM
+BAG:jjjjjbbbbssss add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/07/2023 2:53 PM
+BAG:jjjjjbbbbssss add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/07/2023 2:53 PM
+BAG:jjjjjbbbbssss add 1xGăng vải thô lydo: Nhặt từ map at 03/07/2023 2:53 PM
+BAG:jjjjjbbbbssss add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/07/2023 2:53 PM
+BAG:jjjjjbbbbssss add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/07/2023 2:54 PM
+BAG:jjjjjbbbbssss add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/07/2023 2:54 PM
+BAG:jjjjjbbbbssss add 1xÁo vải thô lydo: Nhặt từ map at 03/07/2023 2:54 PM
+BAG:jjjjjbbbbssss add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/07/2023 2:54 PM
+BAG:jjjjjbbbbssss add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/07/2023 2:54 PM
+BAG:jjjjjbbbbssss add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/07/2023 2:54 PM
+BAG:jjjjjbbbbssss add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/07/2023 2:54 PM
+BAG:jjjjjbbbbssss add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/07/2023 2:56 PM
+BAG:jjjjjbbbbssss add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/07/2023 2:58 PM
+BAG:jjjjjbbbbssss add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/07/2023 2:58 PM
+BAG:jjjjjbbbbssss add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/07/2023 2:58 PM
+BAG:jjjjjbbbbssss add 1xRada cấp 1 lydo: Nhặt từ map at 03/07/2023 2:58 PM
+BAG:jjjjjbbbbssss add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/07/2023 2:58 PM
+BAG:jjjjjbbbbssss add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/07/2023 2:58 PM
+BAG:jjjjjbbbbssss add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/07/2023 2:59 PM
+BAG:jjjjjbbbbssss add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhặt từ map at 03/07/2023 2:59 PM
+BAG:jjjjjbbbbssss add 1xÁo vải thô lydo: Nhặt từ map at 03/07/2023 2:59 PM
+BAG:jjjjjbbbbssss add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/07/2023 2:59 PM
+BAG:jjjjjbbbbssss add 1xQuần vải thô lydo: Nhặt từ map at 03/07/2023 2:59 PM
+BAG:jjjjjbbbbssss add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/07/2023 3:00 PM
+BAG:jjjjjbbbbssss add 1xQuần vải thô lydo: Nhặt từ map at 03/07/2023 3:00 PM
+BAG:jjjjjbbbbssss add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/07/2023 3:00 PM
+BAG:jjjjjbbbbssss add 1xQuần vải thô lydo: Nhặt từ map at 03/07/2023 3:00 PM
+BAG:jjjjjbbbbssss add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 03/07/2023 3:00 PM
+BAG:jjjjjbbbbssss add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 03/07/2023 3:00 PM
+BAG:jjjjjbbbbssss add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/07/2023 3:01 PM
+BAG:jjjjjbbbbssss add 1xQuần vải thô lydo: Nhặt từ map at 03/07/2023 3:01 PM
+BAG:jjjjjbbbbssss add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/07/2023 3:01 PM
+BAG:jjjjjbbbbssss add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/07/2023 3:01 PM
+BAG:jjjjjbbbbssss add 1xÁo vải thô lydo: Nhặt từ map at 03/07/2023 3:01 PM
+BAG:jjjjjbbbbssss add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/07/2023 3:01 PM
+BAG:jjjjjbbbbssss add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/07/2023 3:01 PM
+BAG:jjjjjbbbbssss add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/07/2023 3:01 PM
+BAG:jjjjjbbbbssss add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 03/07/2023 3:01 PM
+BAG:jjjjjbbbbssss add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/07/2023 3:02 PM
+BAG:jjjjjbbbbssss add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/07/2023 3:02 PM
+BAG:jjjjjbbbbssss add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/07/2023 3:02 PM
+BAG:jjjjjbbbbssss add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/07/2023 3:02 PM
+BAG:jjjjjbbbbssss add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/07/2023 3:02 PM
+BAG:jjjjjbbbbssss add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/07/2023 3:02 PM
+BAG:jjjjjbbbbssss add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 03/07/2023 3:02 PM
+BAG:jjjjjbbbbssss add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/07/2023 3:03 PM
+BAG:jjjjjbbbbssss add 1xÁo vải thô lydo: Nhặt từ map at 03/07/2023 3:03 PM
+BAG:jjjjjbbbbssss add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 03/07/2023 3:03 PM
+BAG:jjjjjbbbbssss add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 03/07/2023 3:03 PM
+BAG:jjjjjbbbbssss add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/07/2023 3:03 PM
+BAG:jjjjjbbbbssss add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/07/2023 3:04 PM
+BAG:jjjjjbbbbssss add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/07/2023 3:04 PM
+BAG:jjjjjbbbbssss add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 03/07/2023 3:04 PM
+BAG:jjjjjbbbbssss add 1xÁo vải thô lydo: Nhặt từ map at 03/07/2023 3:04 PM
+BAG:jjjjjbbbbssss add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/07/2023 3:05 PM
+BAG:jjjjjbbbbssss add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 03/07/2023 3:05 PM
+BAG:jjjjjbbbbssss add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/07/2023 3:05 PM
+BAG:jjjjjbbbbssss add 1xQuần vải thô lydo: Nhặt từ map at 03/07/2023 3:05 PM
+BAG:jjjjjbbbbssss add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/07/2023 3:05 PM
+BAG:jjjjjbbbbssss add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/07/2023 3:05 PM
+BAG:jjjjjbbbbssss add 1xRada cấp 1 lydo: Nhặt từ map at 03/07/2023 3:05 PM
+BAG:jjjjjbbbbssss add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/07/2023 3:06 PM
+BAG:jjjjjbbbbssss add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/07/2023 3:06 PM
+BAG:jjjjjbbbbssss add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/07/2023 3:06 PM
+BAG:jjjjjbbbbssss add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 03/07/2023 3:06 PM
+BAG:jjjjjbbbbssss add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/07/2023 3:06 PM
+BAG:jjjjjbbbbssss add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/07/2023 3:07 PM
+BAG:jjjjjbbbbssss add 1xGăng vải thô lydo: Nhặt từ map at 03/07/2023 3:07 PM
+BAG:jjjjjbbbbssss add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 03/07/2023 3:07 PM
+BAG:jjjjjbbbbssss add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/07/2023 3:08 PM
+BAG:jjjjjbbbbssss add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/07/2023 3:08 PM
+BAG:jjjjjbbbbssss add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/07/2023 3:08 PM
+BAG:jjjjjbbbbssss add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 03/07/2023 3:09 PM
+BAG:jjjjjbbbbssss add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/07/2023 3:11 PM
+BAG:jjjjjbbbbssss add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/07/2023 3:12 PM
+BAG:jjjjjbbbbssss add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/07/2023 3:12 PM
+BAG:jjjjjbbbbssss add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/07/2023 3:13 PM
+BAG:jjjjjbbbbssss add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhặt từ map at 03/07/2023 3:17 PM
+BAG:jjjjjbbbbssss add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/07/2023 3:19 PM
+BAG:jjjjjbbbbssss add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 03/07/2023 3:20 PM
+BAG:jjjjjbbbbssss add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/07/2023 3:20 PM
+BAG:jjjjjbbbbssss add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/07/2023 3:21 PM
+BAG:jjjjjbbbbssss add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/07/2023 3:21 PM
+BAG:jjjjjbbbbssss add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/07/2023 3:21 PM
+BAG:jjjjjbbbbssss add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/07/2023 3:21 PM
+BAG:jjjjjbbbbssss add 1xGăng vàng Zealot lydo: Nhặt từ map at 03/07/2023 3:21 PM
+BAG:jjjjjbbbbssss add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/07/2023 3:37 PM
+BAG:jjjjjbbbbssss add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/07/2023 3:45 PM
+BAG:jjjjjbbbbssss add 1xLồng đèn Con bướm lydo: CSTT at 03/07/2023 3:45 PM
+BAG:jjjjjbbbbssss add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/07/2023 3:46 PM
+BAG:jjjjjbbbbssss add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 03/07/2023 3:47 PM
+BAG:jjjjjbbbbssss add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/07/2023 3:47 PM
+BAG:jjjjjbbbbssss add 1xÁo vải thô lydo: Nhặt từ map at 03/07/2023 3:48 PM
+BAG:jjjjjbbbbssss add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/07/2023 3:48 PM
+BAG:jjjjjbbbbssss add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/07/2023 3:48 PM
+BAG:jjjjjbbbbssss add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/07/2023 3:48 PM
+BAG:jjjjjbbbbssss add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/07/2023 3:48 PM
+BAG:jjjjjbbbbssss add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/07/2023 3:49 PM
+BAG:jjjjjbbbbssss add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 03/07/2023 3:49 PM
+BAG:jjjjjbbbbssss add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/07/2023 3:49 PM
+BAG:jjjjjbbbbssss add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/07/2023 3:50 PM
+BAG:jjjjjbbbbssss add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 03/07/2023 3:50 PM
+BAG:jjjjjbbbbssss add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/07/2023 4:16 PM
+BAG:jjjjjbbbbssss add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/07/2023 4:16 PM
+BAG:jjjjjbbbbssss add 1xMảnh Khủng long lydo: Nhặt từ map at 03/07/2023 4:16 PM
+BAG:jjjjjbbbbssss add 80xĐá thạch anh tím (old: 79) lydo: Nhặt từ map at 03/07/2023 4:16 PM
+BAG:jjjjjbbbbssss add 1xGiầy vải thô lydo: Nhặt từ map at 03/07/2023 4:16 PM
+BAG:jjjjjbbbbssss add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 03/07/2023 7:37 PM
+BAG:jjjjjbbbbssss add 27xNgọc Rồng 5 sao (old: 26) lydo: Nhập ngọc at 03/07/2023 7:40 PM
+BAG:jjjjjbbbbssss add 28xNgọc Rồng 5 sao (old: 27) lydo: Nhập ngọc at 03/07/2023 7:40 PM
+BAG:jjjjjbbbbssss add 29xNgọc Rồng 5 sao (old: 28) lydo: Nhập ngọc at 03/07/2023 7:40 PM
+BAG:jjjjjbbbbssss add 66xNgọc Rồng 4 sao (old: 65) lydo: Nhập ngọc at 03/07/2023 7:40 PM
+BAG:jjjjjbbbbssss add 67xNgọc Rồng 4 sao (old: 66) lydo: Nhập ngọc at 03/07/2023 7:40 PM
+BAG:jjjjjbbbbssss add 68xNgọc Rồng 4 sao (old: 67) lydo: Nhập ngọc at 03/07/2023 7:40 PM
+BAG:jjjjjbbbbssss add 69xNgọc Rồng 4 sao (old: 68) lydo: Nhập ngọc at 03/07/2023 7:41 PM
+BAG:jjjjjbbbbssss add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/07/2023 7:41 PM
+BAG:jjjjjbbbbssss add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhập ngọc at 03/07/2023 7:41 PM
+BAG:jjjjjbbbbssss add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhập ngọc at 03/07/2023 7:41 PM
+BAG:jjjjjbbbbssss add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhập ngọc at 03/07/2023 7:41 PM
+BAG:jjjjjbbbbssss add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhập ngọc at 03/07/2023 7:41 PM
+BAG:jjjjjbbbbssss add 9xNgọc Rồng 3 sao (old: 8) lydo: Nhập ngọc at 03/07/2023 7:41 PM
+BAG:jjjjjbbbbssss add 10xNgọc Rồng 3 sao (old: 9) lydo: Nhập ngọc at 03/07/2023 7:41 PM
+BAG:jjjjjbbbbssss add 11xNgọc Rồng 3 sao (old: 10) lydo: Nhập ngọc at 03/07/2023 7:41 PM
+BAG:jjjjjbbbbssss add 12xNgọc Rồng 3 sao (old: 11) lydo: Nhập ngọc at 03/07/2023 7:41 PM
+BAG:jjjjjbbbbssss add 1xCải trang lydo: Mua từ cửa hàng at 03/07/2023 7:43 PM
+BAG:jjjjjbbbbssss add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/07/2023 7:44 PM
+BAG:jjjjjbbbbssss add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/07/2023 7:44 PM
+BAG:jjjjjbbbbssss add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/07/2023 7:44 PM
+BAG:jjjjjbbbbssss add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/07/2023 7:44 PM
+BAG:jjjjjbbbbssss add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/07/2023 7:44 PM
+BAG:jjjjjbbbbssss add 46xThỏi vàng lydo: Lấy từ rương qua người at 03/07/2023 7:45 PM
+BAG:jjjjjbbbbssss add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/07/2023 7:49 PM
+BAG:jjjjjbbbbssss add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/07/2023 7:49 PM
+BAG:jjjjjbbbbssss add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/07/2023 7:49 PM
+BAG:jjjjjbbbbssss add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/07/2023 7:49 PM
+BAG:jjjjjbbbbssss add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/07/2023 7:49 PM
+BAG:jjjjjbbbbssss add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/07/2023 7:49 PM
+BAG:jjjjjbbbbssss add 6xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ lucky box at 03/07/2023 7:49 PM
+BAG:jjjjjbbbbssss add 4xNgọc Rồng 5 sao (old: 3) lydo: Lấy từ lucky box at 03/07/2023 7:51 PM
+BAG:jjjjjbbbbssss add 5xNgọc Rồng 5 sao (old: 4) lydo: Lấy từ lucky box at 03/07/2023 7:51 PM
+BAG:jjjjjbbbbssss add 6xNgọc Rồng 5 sao (old: 5) lydo: Lấy từ lucky box at 03/07/2023 7:51 PM
+BAG:jjjjjbbbbssss add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/07/2023 7:51 PM
+BAG:jjjjjbbbbssss add 7xNgọc Rồng 5 sao (old: 6) lydo: Lấy từ lucky box at 03/07/2023 7:53 PM
+BAG:jjjjjbbbbssss add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/07/2023 7:54 PM
+BAG:jjjjjbbbbssss add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/07/2023 7:54 PM
+BAG:jjjjjbbbbssss add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 03/07/2023 7:54 PM
+BAG:jjjjjbbbbssss add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/07/2023 7:56 PM
+BAG:jjjjjbbbbssss add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/07/2023 7:56 PM
+BAG:jjjjjbbbbssss add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/07/2023 7:56 PM
+BAG:jjjjjbbbbssss add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/07/2023 7:56 PM
+BAG:jjjjjbbbbssss add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/07/2023 7:57 PM
+BAG:jjjjjbbbbssss add 8xNgọc Rồng 5 sao (old: 7) lydo: Lấy từ lucky box at 03/07/2023 7:57 PM
+BAG:jjjjjbbbbssss add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/07/2023 7:59 PM
+BAG:jjjjjbbbbssss add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/07/2023 8:04 PM
+BAG:jjjjjbbbbssss add 1xGăng da Xayda lydo: Lấy từ rương qua người at 03/07/2023 8:06 PM

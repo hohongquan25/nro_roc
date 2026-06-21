@@ -1,0 +1,830 @@
+BAG:condiday add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/12/2023 9:18 AM
+BAG:condiday add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 9:18 AM
+BAG:condiday add 5xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 9:20 AM
+BAG:condiday add 25xĐậu thần cấp 10 (old: 5) lydo: Lấy từ rương qua người at 03/12/2023 9:20 AM
+BAG:condiday add 45xĐậu thần cấp 10 (old: 25) lydo: Lấy từ rương qua người at 03/12/2023 9:20 AM
+BAG:condiday add 65xĐậu thần cấp 10 (old: 45) lydo: Lấy từ rương qua người at 03/12/2023 9:20 AM
+BAG:condiday add 85xĐậu thần cấp 10 (old: 65) lydo: Lấy từ rương qua người at 03/12/2023 9:20 AM
+BAG:condiday add 6xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/12/2023 9:20 AM
+BAG:condiday add 99xĐậu thần cấp 10 (old: 85) lydo: Lấy từ rương qua người at 03/12/2023 9:20 AM
+BAG:condiday add 26xĐậu thần cấp 10 (old: 6) lydo: Lấy từ rương qua người at 03/12/2023 9:21 AM
+BAG:condiday add 46xĐậu thần cấp 10 (old: 26) lydo: Lấy từ rương qua người at 03/12/2023 9:21 AM
+BAG:condiday add 66xĐậu thần cấp 10 (old: 46) lydo: Lấy từ rương qua người at 03/12/2023 9:21 AM
+BAG:condiday add 86xĐậu thần cấp 10 (old: 66) lydo: Lấy từ rương qua người at 03/12/2023 9:21 AM
+BAG:condiday add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/12/2023 9:27 AM
+BAG:condiday add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:condiday add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:condiday add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:condiday add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:condiday add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:condiday add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:condiday add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/12/2023 9:30 AM
+BAG:condiday add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 9:30 AM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 9:31 AM
+BAG:condiday add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 9:31 AM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 9:32 AM
+BAG:condiday add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 9:32 AM
+BAG:condiday add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/12/2023 9:36 AM
+BAG:condiday add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 9:37 AM
+BAG:condiday add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 9:37 AM
+BAG:condiday add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/12/2023 9:37 AM
+BAG:condiday add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 9:39 AM
+BAG:condiday add 50xThỏi vàng lydo: Giftcode at 03/12/2023 9:43 AM
+BAG:condiday add 10xSao pha lê lydo: Giftcode at 03/12/2023 9:43 AM
+BAG:condiday add 10xSao pha lê lydo: Giftcode at 03/12/2023 9:43 AM
+BAG:condiday add 10xSao pha lê lydo: Giftcode at 03/12/2023 9:43 AM
+BAG:condiday add 1xCải trang Hit lydo: Giftcode at 03/12/2023 9:43 AM
+BAG:condiday add 150xThỏi vàng (old: 50) lydo: Giftcode at 03/12/2023 9:44 AM
+BAG:condiday add 1000xPháo hoa lydo: Giftcode at 03/12/2023 9:44 AM
+BAG:condiday add 10xCuồng nộ lydo: Giftcode at 03/12/2023 9:44 AM
+BAG:condiday add 10xBổ huyết lydo: Giftcode at 03/12/2023 9:44 AM
+BAG:condiday add 10xBổ khí lydo: Giftcode at 03/12/2023 9:44 AM
+BAG:condiday add 10xGiáp Xên bọ hung lydo: Giftcode at 03/12/2023 9:44 AM
+BAG:condiday add 11xBổ huyết (old: 10) lydo: HQT at 03/12/2023 9:44 AM
+BAG:condiday add 1xNgọc Rồng 5 sao lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 1xNgọc Rồng 6 sao lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 11xCuồng nộ (old: 10) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 1xNgọc Rồng 7 sao lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 12xCuồng nộ (old: 11) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 11xBổ khí (old: 10) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 12xBổ khí (old: 11) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 12xBổ huyết (old: 11) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 13xCuồng nộ (old: 12) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 13xBổ huyết (old: 12) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 14xCuồng nộ (old: 13) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 1xNgọc Rồng 4 sao lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 13xBổ khí (old: 12) lydo: HQT at 03/12/2023 9:45 AM
+BAG:condiday add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:condiday add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:condiday add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:condiday add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:condiday add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:condiday add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:condiday add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/12/2023 9:46 AM
+BAG:condiday add 15xCuồng nộ (old: 14) lydo: HQT at 03/12/2023 9:46 AM
+BAG:condiday add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/12/2023 9:46 AM
+BAG:condiday add 1xBổ khí lydo: HQT at 03/12/2023 9:46 AM
+BAG:condiday add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 16xCuồng nộ (old: 15) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 1xBổ khí lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 17xCuồng nộ (old: 16) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 14xBổ huyết (old: 13) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 18xCuồng nộ (old: 17) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 15xBổ huyết (old: 14) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 16xBổ huyết (old: 15) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 2xBổ khí (old: 1) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 3xBổ khí (old: 2) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 17xBổ huyết (old: 16) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 19xCuồng nộ (old: 18) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 20xCuồng nộ (old: 19) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 4xBổ khí (old: 3) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 18xBổ huyết (old: 17) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 5xBổ khí (old: 4) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 21xCuồng nộ (old: 20) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 6xBổ khí (old: 5) lydo: HQT at 03/12/2023 9:47 AM
+BAG:condiday add 19xBổ huyết (old: 18) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 7xBổ khí (old: 6) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 22xCuồng nộ (old: 21) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 17xGiáp Xên bọ hung (old: 16) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 18xGiáp Xên bọ hung (old: 17) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 19xGiáp Xên bọ hung (old: 18) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/12/2023 9:48 AM
+BAG:condiday add 23xCuồng nộ (old: 22) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 8xBổ khí (old: 7) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 24xCuồng nộ (old: 23) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 20xGiáp Xên bọ hung (old: 19) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 21xGiáp Xên bọ hung (old: 20) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 22xGiáp Xên bọ hung (old: 21) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 23xGiáp Xên bọ hung (old: 22) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 20xBổ huyết (old: 19) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/12/2023 9:49 AM
+BAG:condiday add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 9:49 AM
+BAG:condiday add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/12/2023 9:49 AM
+BAG:condiday add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:condiday add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/12/2023 11:15 AM
+BAG:condiday add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/12/2023 11:15 AM
+BAG:condiday add 25xGiáp Xên bọ hung (old: 24) lydo: HQT at 03/12/2023 11:15 AM
+BAG:condiday add 26xGiáp Xên bọ hung (old: 25) lydo: HQT at 03/12/2023 11:15 AM
+BAG:condiday add 27xGiáp Xên bọ hung (old: 26) lydo: HQT at 03/12/2023 11:15 AM
+BAG:condiday add 28xGiáp Xên bọ hung (old: 27) lydo: HQT at 03/12/2023 11:15 AM
+BAG:condiday add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/12/2023 11:15 AM
+BAG:condiday add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/12/2023 11:15 AM
+BAG:condiday add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/12/2023 11:15 AM
+BAG:condiday add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/12/2023 11:15 AM
+BAG:condiday add 29xGiáp Xên bọ hung (old: 28) lydo: HQT at 03/12/2023 11:15 AM
+BAG:condiday add 19xNgọc Rồng 5 sao (old: 18) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 20xNgọc Rồng 5 sao (old: 19) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 15xNgọc Rồng 6 sao (old: 14) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 21xBổ huyết (old: 20) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 22xBổ huyết (old: 21) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 11:17 AM
+BAG:condiday add 25xCuồng nộ (old: 24) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 1xBổ khí lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 2xBổ khí (old: 1) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 23xBổ huyết (old: 22) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 16xNgọc Rồng 6 sao (old: 15) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 21xNgọc Rồng 5 sao (old: 20) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 22xNgọc Rồng 5 sao (old: 21) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 26xCuồng nộ (old: 25) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 23xNgọc Rồng 5 sao (old: 22) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 24xBổ huyết (old: 23) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 30xGiáp Xên bọ hung (old: 29) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 24xNgọc Rồng 5 sao (old: 23) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/12/2023 11:17 AM
+BAG:condiday add 27xCuồng nộ (old: 26) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 25xBổ huyết (old: 24) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 25xNgọc Rồng 5 sao (old: 24) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 31xGiáp Xên bọ hung (old: 30) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 26xBổ huyết (old: 25) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 3xBổ khí (old: 2) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:condiday add 27xBổ huyết (old: 26) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 4xBổ khí (old: 3) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 32xGiáp Xên bọ hung (old: 31) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 27xNgọc Rồng 5 sao (old: 26) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 33xGiáp Xên bọ hung (old: 32) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 34xGiáp Xên bọ hung (old: 33) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 28xBổ huyết (old: 27) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 22xNgọc Rồng 4 sao (old: 21) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 23xNgọc Rồng 4 sao (old: 22) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 35xGiáp Xên bọ hung (old: 34) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 5xBổ khí (old: 4) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 29xBổ huyết (old: 28) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 24xNgọc Rồng 4 sao (old: 23) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 30xBổ huyết (old: 29) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 31xBổ huyết (old: 30) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 21xNgọc Rồng 6 sao (old: 20) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 28xCuồng nộ (old: 27) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 36xGiáp Xên bọ hung (old: 35) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 29xCuồng nộ (old: 28) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 28xNgọc Rồng 5 sao (old: 27) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 22xNgọc Rồng 6 sao (old: 21) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 26xNgọc Rồng 4 sao (old: 25) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 27xNgọc Rồng 4 sao (old: 26) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 32xBổ huyết (old: 31) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 23xNgọc Rồng 6 sao (old: 22) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 6xBổ khí (old: 5) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 29xNgọc Rồng 5 sao (old: 28) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 24xNgọc Rồng 6 sao (old: 23) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 18xNgọc Rồng 7 sao (old: 17) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 30xNgọc Rồng 5 sao (old: 29) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 19xNgọc Rồng 7 sao (old: 18) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 25xNgọc Rồng 6 sao (old: 24) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 7xBổ khí (old: 6) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 8xBổ khí (old: 7) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 33xBổ huyết (old: 32) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 30xCuồng nộ (old: 29) lydo: HQT at 03/12/2023 11:18 AM
+BAG:condiday add 28xNgọc Rồng 4 sao (old: 27) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 26xNgọc Rồng 6 sao (old: 25) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 31xNgọc Rồng 5 sao (old: 30) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 9xBổ khí (old: 8) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 20xNgọc Rồng 7 sao (old: 19) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 27xNgọc Rồng 6 sao (old: 26) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 21xNgọc Rồng 7 sao (old: 20) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 31xCuồng nộ (old: 30) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 22xNgọc Rồng 7 sao (old: 21) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 32xNgọc Rồng 5 sao (old: 31) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:condiday add 32xCuồng nộ (old: 31) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 23xNgọc Rồng 7 sao (old: 22) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 24xNgọc Rồng 7 sao (old: 23) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 37xGiáp Xên bọ hung (old: 36) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 38xGiáp Xên bọ hung (old: 37) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 39xGiáp Xên bọ hung (old: 38) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 34xBổ huyết (old: 33) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 29xNgọc Rồng 4 sao (old: 28) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 33xNgọc Rồng 5 sao (old: 32) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 35xBổ huyết (old: 34) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 36xBổ huyết (old: 35) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 30xNgọc Rồng 4 sao (old: 29) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 37xBổ huyết (old: 36) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 25xNgọc Rồng 7 sao (old: 24) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 10xBổ khí (old: 9) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:condiday add 28xNgọc Rồng 6 sao (old: 27) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 40xGiáp Xên bọ hung (old: 39) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 34xNgọc Rồng 5 sao (old: 33) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 26xNgọc Rồng 7 sao (old: 25) lydo: HQT at 03/12/2023 11:19 AM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:condiday add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:condiday add 33xCuồng nộ (old: 32) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:condiday add 38xBổ huyết (old: 37) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 34xCuồng nộ (old: 33) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 39xBổ huyết (old: 38) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 35xNgọc Rồng 5 sao (old: 34) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:condiday add 31xNgọc Rồng 4 sao (old: 30) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 29xNgọc Rồng 6 sao (old: 28) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 40xBổ huyết (old: 39) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 35xCuồng nộ (old: 34) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 30xNgọc Rồng 6 sao (old: 29) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 27xNgọc Rồng 7 sao (old: 26) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 31xNgọc Rồng 6 sao (old: 30) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 32xNgọc Rồng 4 sao (old: 31) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 36xNgọc Rồng 5 sao (old: 35) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 41xBổ huyết (old: 40) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 42xBổ huyết (old: 41) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 28xNgọc Rồng 7 sao (old: 27) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 33xNgọc Rồng 4 sao (old: 32) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 32xNgọc Rồng 6 sao (old: 31) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 34xNgọc Rồng 4 sao (old: 33) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 43xBổ huyết (old: 42) lydo: HQT at 03/12/2023 11:20 AM
+BAG:condiday add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:condiday add 29xNgọc Rồng 7 sao (old: 28) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 36xCuồng nộ (old: 35) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 30xNgọc Rồng 7 sao (old: 29) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 1xBổ khí lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 2xBổ khí (old: 1) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 41xGiáp Xên bọ hung (old: 40) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 37xNgọc Rồng 5 sao (old: 36) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 35xNgọc Rồng 4 sao (old: 34) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 3xBổ khí (old: 2) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 37xCuồng nộ (old: 36) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 36xNgọc Rồng 4 sao (old: 35) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 44xBổ huyết (old: 43) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 42xGiáp Xên bọ hung (old: 41) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 45xBổ huyết (old: 44) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 46xBổ huyết (old: 45) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 37xNgọc Rồng 4 sao (old: 36) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 31xNgọc Rồng 7 sao (old: 30) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 33xNgọc Rồng 6 sao (old: 32) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 32xNgọc Rồng 7 sao (old: 31) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 4xBổ khí (old: 3) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 38xCuồng nộ (old: 37) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 38xNgọc Rồng 5 sao (old: 37) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 39xNgọc Rồng 5 sao (old: 38) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 40xNgọc Rồng 5 sao (old: 39) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 38xNgọc Rồng 4 sao (old: 37) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:condiday add 33xNgọc Rồng 7 sao (old: 32) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 47xBổ huyết (old: 46) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 39xCuồng nộ (old: 38) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 34xNgọc Rồng 7 sao (old: 33) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 48xBổ huyết (old: 47) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:condiday add 5xBổ khí (old: 4) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 34xNgọc Rồng 6 sao (old: 33) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 43xGiáp Xên bọ hung (old: 42) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 35xNgọc Rồng 6 sao (old: 34) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 6xBổ khí (old: 5) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 35xNgọc Rồng 7 sao (old: 34) lydo: HQT at 03/12/2023 11:21 AM
+BAG:condiday add 41xNgọc Rồng 5 sao (old: 40) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 36xNgọc Rồng 7 sao (old: 35) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 42xNgọc Rồng 5 sao (old: 41) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 40xCuồng nộ (old: 39) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 49xBổ huyết (old: 48) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 7xBổ khí (old: 6) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 43xNgọc Rồng 5 sao (old: 42) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:condiday add 44xGiáp Xên bọ hung (old: 43) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 37xNgọc Rồng 7 sao (old: 36) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:condiday add 8xBổ khí (old: 7) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 39xNgọc Rồng 4 sao (old: 38) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 45xGiáp Xên bọ hung (old: 44) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 38xNgọc Rồng 7 sao (old: 37) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 44xNgọc Rồng 5 sao (old: 43) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 9xBổ khí (old: 8) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 36xNgọc Rồng 6 sao (old: 35) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 45xNgọc Rồng 5 sao (old: 44) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 39xNgọc Rồng 7 sao (old: 38) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 10xBổ khí (old: 9) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 50xBổ huyết (old: 49) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 51xBổ huyết (old: 50) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 40xNgọc Rồng 4 sao (old: 39) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 37xNgọc Rồng 6 sao (old: 36) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 52xBổ huyết (old: 51) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 53xBổ huyết (old: 52) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 40xNgọc Rồng 7 sao (old: 39) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 46xGiáp Xên bọ hung (old: 45) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 54xBổ huyết (old: 53) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 55xBổ huyết (old: 54) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 47xGiáp Xên bọ hung (old: 46) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 41xNgọc Rồng 4 sao (old: 40) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 46xNgọc Rồng 5 sao (old: 45) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 56xBổ huyết (old: 55) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 11xBổ khí (old: 10) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 38xNgọc Rồng 6 sao (old: 37) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:condiday add 47xNgọc Rồng 5 sao (old: 46) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 39xNgọc Rồng 6 sao (old: 38) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 41xNgọc Rồng 7 sao (old: 40) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 48xNgọc Rồng 5 sao (old: 47) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 48xGiáp Xên bọ hung (old: 47) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 49xGiáp Xên bọ hung (old: 48) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 42xNgọc Rồng 7 sao (old: 41) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 42xNgọc Rồng 4 sao (old: 41) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 43xNgọc Rồng 4 sao (old: 42) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 12xBổ khí (old: 11) lydo: HQT at 03/12/2023 11:22 AM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 11:58 AM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:condiday add 34xNgọc Rồng 6 sao (old: 33) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:condiday add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:condiday add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:condiday add 39xNgọc Rồng 4 sao (old: 38) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 40xNgọc Rồng 4 sao (old: 39) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 43xGiáp Xên bọ hung (old: 42) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 41xNgọc Rồng 5 sao (old: 40) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 41xNgọc Rồng 4 sao (old: 40) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 42xNgọc Rồng 5 sao (old: 41) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 42xNgọc Rồng 4 sao (old: 41) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 40xCuồng nộ (old: 39) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 35xNgọc Rồng 6 sao (old: 34) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 49xBổ huyết (old: 48) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 35xNgọc Rồng 7 sao (old: 34) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 50xBổ huyết (old: 49) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 44xGiáp Xên bọ hung (old: 43) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 36xNgọc Rồng 6 sao (old: 35) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 45xGiáp Xên bọ hung (old: 44) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:condiday add 41xCuồng nộ (old: 40) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 42xCuồng nộ (old: 41) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 43xNgọc Rồng 4 sao (old: 42) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 37xNgọc Rồng 6 sao (old: 36) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 43xCuồng nộ (old: 42) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 36xNgọc Rồng 7 sao (old: 35) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 46xGiáp Xên bọ hung (old: 45) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 37xNgọc Rồng 7 sao (old: 36) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 44xNgọc Rồng 4 sao (old: 43) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 38xNgọc Rồng 7 sao (old: 37) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 38xNgọc Rồng 6 sao (old: 37) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 47xGiáp Xên bọ hung (old: 46) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 44xCuồng nộ (old: 43) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 48xGiáp Xên bọ hung (old: 47) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 5xBổ khí (old: 4) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:condiday add 51xBổ huyết (old: 50) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 39xNgọc Rồng 7 sao (old: 38) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 6xBổ khí (old: 5) lydo: HQT at 03/12/2023 12:00 PM
+BAG:condiday add 52xBổ huyết (old: 51) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 53xBổ huyết (old: 52) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 39xNgọc Rồng 6 sao (old: 38) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 43xNgọc Rồng 5 sao (old: 42) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 7xBổ khí (old: 6) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 44xNgọc Rồng 5 sao (old: 43) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 40xNgọc Rồng 6 sao (old: 39) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 8xBổ khí (old: 7) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 54xBổ huyết (old: 53) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 49xGiáp Xên bọ hung (old: 48) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 9xBổ khí (old: 8) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 45xNgọc Rồng 5 sao (old: 44) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 50xGiáp Xên bọ hung (old: 49) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 55xBổ huyết (old: 54) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 45xCuồng nộ (old: 44) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 41xNgọc Rồng 6 sao (old: 40) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 56xBổ huyết (old: 55) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 46xNgọc Rồng 5 sao (old: 45) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 42xNgọc Rồng 6 sao (old: 41) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 47xNgọc Rồng 5 sao (old: 46) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 10xBổ khí (old: 9) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 40xNgọc Rồng 7 sao (old: 39) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 41xNgọc Rồng 7 sao (old: 40) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 45xNgọc Rồng 4 sao (old: 44) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 46xCuồng nộ (old: 45) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 57xBổ huyết (old: 56) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 58xBổ huyết (old: 57) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 46xNgọc Rồng 4 sao (old: 45) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 59xBổ huyết (old: 58) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 48xNgọc Rồng 5 sao (old: 47) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 51xGiáp Xên bọ hung (old: 50) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 47xNgọc Rồng 4 sao (old: 46) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 52xGiáp Xên bọ hung (old: 51) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 60xBổ huyết (old: 59) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 43xNgọc Rồng 6 sao (old: 42) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 11xBổ khí (old: 10) lydo: HQT at 03/12/2023 12:01 PM
+BAG:condiday add 47xCuồng nộ (old: 46) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 12xBổ khí (old: 11) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 61xBổ huyết (old: 60) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 49xNgọc Rồng 5 sao (old: 48) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 50xNgọc Rồng 5 sao (old: 49) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 48xCuồng nộ (old: 47) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 13xBổ khí (old: 12) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 44xNgọc Rồng 6 sao (old: 43) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 14xBổ khí (old: 13) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 15xBổ khí (old: 14) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 51xNgọc Rồng 5 sao (old: 50) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 16xBổ khí (old: 15) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 52xNgọc Rồng 5 sao (old: 51) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 53xGiáp Xên bọ hung (old: 52) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 53xNgọc Rồng 5 sao (old: 52) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 54xNgọc Rồng 5 sao (old: 53) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 62xBổ huyết (old: 61) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 54xGiáp Xên bọ hung (old: 53) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 48xNgọc Rồng 4 sao (old: 47) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 55xGiáp Xên bọ hung (old: 54) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 42xNgọc Rồng 7 sao (old: 41) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 43xNgọc Rồng 7 sao (old: 42) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 49xNgọc Rồng 4 sao (old: 48) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 44xNgọc Rồng 7 sao (old: 43) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 50xNgọc Rồng 4 sao (old: 49) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 56xGiáp Xên bọ hung (old: 55) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 45xNgọc Rồng 7 sao (old: 44) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 57xGiáp Xên bọ hung (old: 56) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 63xBổ huyết (old: 62) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 17xBổ khí (old: 16) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 46xNgọc Rồng 7 sao (old: 45) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 55xNgọc Rồng 5 sao (old: 54) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 47xNgọc Rồng 7 sao (old: 46) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 58xGiáp Xên bọ hung (old: 57) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 18xBổ khí (old: 17) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 56xNgọc Rồng 5 sao (old: 55) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 48xNgọc Rồng 7 sao (old: 47) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 19xBổ khí (old: 18) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 49xCuồng nộ (old: 48) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 57xNgọc Rồng 5 sao (old: 56) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 58xNgọc Rồng 5 sao (old: 57) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 59xNgọc Rồng 5 sao (old: 58) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 51xNgọc Rồng 4 sao (old: 50) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 60xNgọc Rồng 5 sao (old: 59) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 20xBổ khí (old: 19) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 50xCuồng nộ (old: 49) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 21xBổ khí (old: 20) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 22xBổ khí (old: 21) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 49xNgọc Rồng 7 sao (old: 48) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 50xNgọc Rồng 7 sao (old: 49) lydo: HQT at 03/12/2023 12:02 PM
+BAG:condiday add 52xNgọc Rồng 4 sao (old: 51) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 51xCuồng nộ (old: 50) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 61xNgọc Rồng 5 sao (old: 60) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 45xNgọc Rồng 6 sao (old: 44) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 51xNgọc Rồng 7 sao (old: 50) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 62xNgọc Rồng 5 sao (old: 61) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 59xGiáp Xên bọ hung (old: 58) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 52xNgọc Rồng 7 sao (old: 51) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 64xBổ huyết (old: 63) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 60xGiáp Xên bọ hung (old: 59) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 63xNgọc Rồng 5 sao (old: 62) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 46xNgọc Rồng 6 sao (old: 45) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 23xBổ khí (old: 22) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 61xGiáp Xên bọ hung (old: 60) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 24xBổ khí (old: 23) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 52xCuồng nộ (old: 51) lydo: HQT at 03/12/2023 12:03 PM
+BAG:condiday add 64xNgọc Rồng 5 sao (old: 63) lydo: Lấy từ lucky box at 03/12/2023 12:03 PM
+BAG:condiday add 53xNgọc Rồng 4 sao (old: 52) lydo: Lấy từ lucky box at 03/12/2023 12:03 PM
+BAG:condiday add 54xNgọc Rồng 4 sao (old: 53) lydo: Lấy từ lucky box at 03/12/2023 12:03 PM
+BAG:condiday add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/12/2023 12:03 PM
+BAG:condiday add 1xSao pha lê lydo: Lấy từ lucky box at 03/12/2023 12:04 PM
+BAG:condiday add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/12/2023 12:04 PM
+BAG:condiday add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/12/2023 12:04 PM
+BAG:condiday add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/12/2023 12:04 PM
+BAG:condiday add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/12/2023 12:04 PM
+BAG:condiday add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/12/2023 12:04 PM
+BAG:condiday add 55xNgọc Rồng 4 sao (old: 54) lydo: Lấy từ lucky box at 03/12/2023 12:04 PM
+BAG:condiday add 56xNgọc Rồng 4 sao (old: 55) lydo: Lấy từ lucky box at 03/12/2023 12:05 PM
+BAG:condiday add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/12/2023 12:05 PM
+BAG:condiday add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/12/2023 12:06 PM
+BAG:condiday add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/12/2023 12:06 PM
+BAG:condiday add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/12/2023 12:06 PM
+BAG:condiday add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/12/2023 12:06 PM
+BAG:condiday add 57xNgọc Rồng 4 sao (old: 56) lydo: Lấy từ lucky box at 03/12/2023 12:06 PM
+BAG:condiday add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/12/2023 12:07 PM
+BAG:condiday add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/12/2023 12:08 PM
+BAG:condiday add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 12:10 PM
+BAG:condiday add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:11 PM
+BAG:condiday add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 12:11 PM
+BAG:condiday add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 12:11 PM
+BAG:condiday add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:condiday add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:condiday add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:condiday add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:condiday add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:condiday add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:condiday add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:condiday add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:condiday add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:condiday add 65xNgọc Rồng 5 sao (old: 64) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:condiday add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:condiday add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:condiday add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:condiday add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:condiday add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:condiday add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:condiday add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:condiday add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:condiday add 66xNgọc Rồng 5 sao (old: 65) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:condiday add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:condiday add 47xNgọc Rồng 6 sao (old: 46) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:condiday add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:condiday add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:condiday add 48xNgọc Rồng 6 sao (old: 47) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:condiday add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:condiday add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:condiday add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:condiday add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:condiday add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:condiday add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:26 PM
+BAG:condiday add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/12/2023 12:26 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:condiday add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:condiday add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:condiday add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:condiday add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:condiday add 49xNgọc Rồng 6 sao (old: 48) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:condiday add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:condiday add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:condiday add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:condiday add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:condiday add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:condiday add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:condiday add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:condiday add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:condiday add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:condiday add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:condiday add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:condiday add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:condiday add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:condiday add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:condiday add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:condiday add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:condiday add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:condiday add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:condiday add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:condiday add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:condiday add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:condiday add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:condiday add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:condiday add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:condiday add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:condiday add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:condiday add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:condiday add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:condiday add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:condiday add 50xNgọc Rồng 6 sao (old: 49) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:condiday add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:condiday add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:condiday add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:condiday add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:condiday add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:condiday add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:condiday add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:condiday add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:condiday add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:condiday add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:condiday add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:condiday add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:condiday add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:condiday add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:condiday add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:condiday add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:condiday add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:condiday add 51xNgọc Rồng 6 sao (old: 50) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:condiday add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:condiday add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:condiday add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:condiday add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:condiday add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:condiday add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:condiday add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:condiday add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:condiday add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:condiday add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:condiday add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:condiday add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:condiday add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:condiday add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:condiday add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:condiday add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:condiday add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:condiday add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:condiday add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:condiday add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:condiday add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:condiday add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:condiday add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:condiday add 67xNgọc Rồng 5 sao (old: 66) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:condiday add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:condiday add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:condiday add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:condiday add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:condiday add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:condiday add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:condiday add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:condiday add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:condiday add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:condiday add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:condiday add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:condiday add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:condiday add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:condiday add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:condiday add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:condiday add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:condiday add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:condiday add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:condiday add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:condiday add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:condiday add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:condiday add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:condiday add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:condiday add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:condiday add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:condiday add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:condiday add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:condiday add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:condiday add 52xNgọc Rồng 6 sao (old: 51) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:condiday add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:condiday add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:condiday add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:condiday add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:condiday add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:condiday add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:condiday add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:condiday add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:condiday add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:condiday add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:condiday add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:condiday add 53xNgọc Rồng 6 sao (old: 52) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:condiday add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:condiday add 10xSao pha lê lydo: Lấy từ rương qua người at 03/12/2023 1:00 PM
+BAG:condiday add 10xSao pha lê lydo: Lấy từ rương qua người at 03/12/2023 1:00 PM
+BAG:condiday add 52xCuồng nộ lydo: Lấy từ rương qua người at 03/12/2023 1:00 PM
+BAG:condiday add 61xGiáp Xên bọ hung lydo: Lấy từ rương qua người at 03/12/2023 1:00 PM
+BAG:condiday add 64xBổ huyết lydo: Lấy từ rương qua người at 03/12/2023 1:00 PM
+BAG:condiday add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:condiday add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/12/2023 1:11 PM
+BAG:condiday add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/12/2023 1:11 PM
+BAG:condiday add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/12/2023 1:11 PM
+BAG:condiday add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/12/2023 1:11 PM
+BAG:condiday add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/12/2023 1:11 PM
+BAG:condiday add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/12/2023 1:12 PM
+BAG:condiday add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/12/2023 1:12 PM
+BAG:condiday add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 1:12 PM
+BAG:condiday add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 1:12 PM
+BAG:condiday add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 1:12 PM
+BAG:condiday add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 1:12 PM
+BAG:condiday add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 1:12 PM
+BAG:condiday add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 1:12 PM
+BAG:condiday add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:condiday add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:condiday add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:condiday add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:condiday add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:condiday add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:condiday add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:condiday add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:condiday add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:condiday add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:condiday add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:condiday add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:condiday add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:condiday add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:condiday add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:condiday add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:condiday add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:condiday add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:condiday add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/12/2023 1:21 PM
+BAG:condiday add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/12/2023 1:21 PM
+BAG:condiday add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/12/2023 1:21 PM
+BAG:condiday add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/12/2023 1:21 PM
+BAG:condiday add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/12/2023 1:21 PM
+BAG:condiday add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/12/2023 1:21 PM
+BAG:condiday add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/12/2023 1:21 PM
+BAG:condiday add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/12/2023 1:21 PM
+BAG:condiday add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 1:23 PM
+BAG:condiday add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 1:23 PM
+BAG:condiday add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 1:23 PM
+BAG:condiday add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/12/2023 1:23 PM
+BAG:condiday add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:condiday add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:condiday add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:condiday add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:condiday add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:condiday add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:condiday add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:condiday add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:condiday add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:condiday add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:condiday add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:condiday add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:condiday add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:condiday add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:condiday add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:condiday add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:condiday add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:condiday add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:condiday add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/12/2023 1:27 PM
+BAG:condiday add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 1:27 PM
+BAG:condiday add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 1:27 PM
+BAG:condiday add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/12/2023 1:28 PM
+BAG:condiday add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/12/2023 1:28 PM
+BAG:condiday add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 1:28 PM
+BAG:condiday add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 1:28 PM
+BAG:condiday add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 1:28 PM
+BAG:condiday add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/12/2023 1:29 PM
+BAG:condiday add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/12/2023 1:29 PM
+BAG:condiday add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 1:29 PM
+BAG:condiday add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 1:30 PM
+BAG:condiday add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/12/2023 1:30 PM
+BAG:condiday add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/12/2023 1:30 PM
+BAG:condiday add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/12/2023 1:31 PM
+BAG:condiday add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 1:31 PM
+BAG:condiday add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/12/2023 1:32 PM
+BAG:condiday add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 1:32 PM
+BAG:condiday add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/12/2023 1:32 PM
+BAG:condiday add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 1:33 PM
+BAG:condiday add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/12/2023 1:33 PM
+BAG:condiday add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/12/2023 1:33 PM
+BAG:condiday add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/12/2023 1:33 PM
+BAG:condiday add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:condiday add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:condiday add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:condiday add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:condiday add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:condiday add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:condiday add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:condiday add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:condiday add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:condiday add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:condiday add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/12/2023 1:38 PM
+BAG:condiday add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/12/2023 1:38 PM
+BAG:condiday add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/12/2023 1:39 PM
+BAG:condiday add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/12/2023 1:39 PM

@@ -1,0 +1,83 @@
+BAG:zutaki add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 10:28 AM
+BAG:zutaki add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 10:29 AM
+BAG:zutaki add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 10:29 AM
+BAG:zutaki add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/12/2023 10:30 AM
+BAG:zutaki add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/12/2023 10:30 AM
+BAG:zutaki add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:41 AM
+BAG:zutaki add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/12/2023 10:50 AM
+BAG:zutaki add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/12/2023 10:52 AM
+BAG:zutaki add 1xAvatar lydo: Mua từ cửa hàng at 03/12/2023 10:56 AM
+BAG:zutaki add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/12/2023 10:57 AM
+BAG:zutaki add 1xAvatar lydo: Lấy từ body vào hành trang at 03/12/2023 11:01 AM
+BAG:zutaki add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:zutaki add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:zutaki add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:zutaki add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:zutaki add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:zutaki add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:zutaki add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:zutaki add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/12/2023 11:04 AM
+BAG:zutaki add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/12/2023 11:04 AM
+BAG:zutaki add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 11:09 AM
+BAG:zutaki add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/12/2023 11:16 AM
+BAG:zutaki add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/12/2023 11:17 AM
+BAG:zutaki add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/12/2023 11:17 AM
+BAG:zutaki add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/12/2023 11:17 AM
+BAG:zutaki add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:zutaki add 50xThỏi vàng lydo: Giftcode at 03/12/2023 11:21 AM
+BAG:zutaki add 10xSao pha lê lydo: Giftcode at 03/12/2023 11:21 AM
+BAG:zutaki add 10xSao pha lê lydo: Giftcode at 03/12/2023 11:21 AM
+BAG:zutaki add 10xSao pha lê lydo: Giftcode at 03/12/2023 11:21 AM
+BAG:zutaki add 1xCải trang Hit lydo: Giftcode at 03/12/2023 11:21 AM
+BAG:zutaki add 10xCuồng nộ lydo: Giftcode at 03/12/2023 11:44 AM
+BAG:zutaki add 10xBổ huyết lydo: Giftcode at 03/12/2023 11:44 AM
+BAG:zutaki add 10xBổ khí lydo: Giftcode at 03/12/2023 11:44 AM
+BAG:zutaki add 10xGiáp Xên bọ hung lydo: Giftcode at 03/12/2023 11:44 AM
+BAG:zutaki add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 11:50 AM
+BAG:zutaki add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 21xĐổi đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 22xĐổi đệ tử (old: 21) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 23xĐổi đệ tử (old: 22) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 24xĐổi đệ tử (old: 23) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 25xĐổi đệ tử (old: 24) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 26xĐổi đệ tử (old: 25) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 27xĐổi đệ tử (old: 26) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 28xĐổi đệ tử (old: 27) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 29xĐổi đệ tử (old: 28) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 30xĐổi đệ tử (old: 29) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 31xĐổi đệ tử (old: 30) lydo: Mua từ cửa hàng at 03/12/2023 11:51 AM
+BAG:zutaki add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:zutaki add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 11:58 AM
+BAG:zutaki add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 11:59 AM

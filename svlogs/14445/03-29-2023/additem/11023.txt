@@ -1,0 +1,435 @@
+BAG:fifai add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/29/2023 12:00 PM
+BAG:fifai add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/29/2023 12:00 PM
+BAG:fifai add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/29/2023 12:00 PM
+BAG:fifai add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/29/2023 12:00 PM
+BAG:fifai add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 03/29/2023 12:00 PM
+BAG:fifai add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 12:05 PM
+BAG:fifai add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/29/2023 12:06 PM
+BAG:fifai add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 12:07 PM
+BAG:fifai add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/29/2023 12:21 PM
+BAG:fifai add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/29/2023 12:22 PM
+BAG:fifai add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 12:22 PM
+BAG:fifai add 1xMảnh Phi long lydo: Nhặt từ map at 03/29/2023 12:23 PM
+BAG:fifai add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 12:23 PM
+BAG:fifai add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/29/2023 12:24 PM
+BAG:fifai add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/29/2023 12:24 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/29/2023 12:26 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/29/2023 12:26 PM
+BAG:fifai add 25xThỏi vàng lydo: Đổi vàng at 03/29/2023 12:26 PM
+BAG:fifai add 5025xThỏi vàng (old: 25) lydo: Đổi vàng at 03/29/2023 12:26 PM
+BAG:fifai add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/29/2023 12:26 PM
+BAG:fifai add 1xInosuke lydo: Mua từ bill at 03/29/2023 12:27 PM
+BAG:fifai add 1xTanjiro lydo: Mua từ bill at 03/29/2023 12:27 PM
+BAG:fifai add 1xTanjiro lydo: Mua từ bill at 03/29/2023 12:27 PM
+BAG:fifai add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/29/2023 12:28 PM
+BAG:fifai add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/29/2023 12:28 PM
+BAG:fifai add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/29/2023 12:28 PM
+BAG:fifai add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/29/2023 12:28 PM
+BAG:fifai add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/29/2023 12:28 PM
+BAG:fifai add 10xNgọc Rồng 5 sao lydo: Giftcode at 03/29/2023 12:28 PM
+BAG:fifai add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/29/2023 12:28 PM
+BAG:fifai add 1xNgọc Rồng 3 sao lydo: Giftcode at 03/29/2023 12:29 PM
+BAG:fifai add 99xNgọc Rồng 3 sao (old: 50) lydo: Giftcode at 03/29/2023 12:29 PM
+BAG:fifai add 50xSao pha lê lydo: Giftcode at 03/29/2023 12:29 PM
+BAG:fifai add 50xSao pha lê lydo: Giftcode at 03/29/2023 12:29 PM
+BAG:fifai add 99xCuồng nộ lydo: Giftcode at 03/29/2023 12:29 PM
+BAG:fifai add 4953xMảnh vỡ bông tai lydo: Giftcode at 03/29/2023 12:29 PM
+BAG:fifai add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 12:30 PM
+BAG:fifai add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 12:33 PM
+BAG:fifai add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 12:33 PM
+BAG:fifai add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 12:34 PM
+BAG:fifai add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 12:34 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:36 PM
+BAG:fifai add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 12:37 PM
+BAG:fifai add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 12:37 PM
+BAG:fifai add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 12:37 PM
+BAG:fifai add 1xNgọc Rồng 5 sao lydo: HQT at 03/29/2023 12:39 PM
+BAG:fifai add 1xNgọc Rồng 4 sao lydo: HQT at 03/29/2023 12:39 PM
+BAG:fifai add 1xNgọc Rồng 7 sao lydo: HQT at 03/29/2023 12:39 PM
+BAG:fifai add 1xBổ khí lydo: HQT at 03/29/2023 12:39 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:39 PM
+BAG:fifai add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 12:41 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:41 PM
+BAG:fifai add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/29/2023 12:43 PM
+BAG:fifai add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 12:43 PM
+BAG:fifai add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 12:43 PM
+BAG:fifai add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 12:43 PM
+BAG:fifai add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 12:43 PM
+BAG:fifai add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 12:43 PM
+BAG:fifai add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 12:43 PM
+BAG:fifai add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/29/2023 12:43 PM
+BAG:fifai add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/29/2023 12:43 PM
+BAG:fifai add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/29/2023 12:43 PM
+BAG:fifai add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 12:44 PM
+BAG:fifai add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 12:45 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:45 PM
+BAG:fifai add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 12:46 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:47 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:49 PM
+BAG:fifai add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/29/2023 12:50 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 12:50 PM
+BAG:fifai add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/29/2023 12:51 PM
+BAG:fifai add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/29/2023 12:51 PM
+BAG:fifai add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/29/2023 12:51 PM
+BAG:fifai add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/29/2023 12:51 PM
+BAG:fifai add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/29/2023 12:51 PM
+BAG:fifai add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/29/2023 12:51 PM
+BAG:fifai add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/29/2023 12:51 PM
+BAG:fifai add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/29/2023 12:52 PM
+BAG:fifai add 1xCá heo lydo: Mua từ bill at 03/29/2023 12:53 PM
+BAG:fifai add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 12:53 PM
+BAG:fifai add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/29/2023 12:54 PM
+BAG:fifai add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/29/2023 12:56 PM
+BAG:fifai add 1xĐá Saphia lydo: Nhặt từ map at 03/29/2023 12:56 PM
+BAG:fifai add 1xĐá lục bảo lydo: Nhặt từ map at 03/29/2023 12:56 PM
+BAG:fifai add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/29/2023 12:56 PM
+BAG:fifai add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/29/2023 12:56 PM
+BAG:fifai add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 12:57 PM
+BAG:fifai add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/29/2023 12:58 PM
+BAG:fifai add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/29/2023 12:58 PM
+BAG:fifai add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 12:58 PM
+BAG:fifai add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 12:58 PM
+BAG:fifai add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 12:58 PM
+BAG:fifai add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/29/2023 12:58 PM
+BAG:fifai add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/29/2023 12:59 PM
+BAG:fifai add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/29/2023 12:59 PM
+BAG:fifai add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/29/2023 1:00 PM
+BAG:fifai add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/29/2023 1:00 PM
+BAG:fifai add 1xBổ huyết lydo: HQT at 03/29/2023 1:00 PM
+BAG:fifai add 1xNgọc Rồng 7 sao lydo: HQT at 03/29/2023 1:00 PM
+BAG:fifai add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/29/2023 1:00 PM
+BAG:fifai add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/29/2023 1:00 PM
+BAG:fifai add 1xGiáp Xên bọ hung lydo: HQT at 03/29/2023 1:00 PM
+BAG:fifai add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/29/2023 1:00 PM
+BAG:fifai add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/29/2023 1:01 PM
+BAG:fifai add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/29/2023 1:01 PM
+BAG:fifai add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/29/2023 1:01 PM
+BAG:fifai add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/29/2023 1:02 PM
+BAG:fifai add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/29/2023 1:03 PM
+BAG:fifai add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/29/2023 1:03 PM
+BAG:fifai add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 1:03 PM
+BAG:fifai add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 1:04 PM
+BAG:fifai add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/29/2023 1:04 PM
+BAG:fifai add 1xNgọc Rồng 6 sao lydo: HQT at 03/29/2023 1:05 PM
+BAG:fifai add 1xBổ huyết lydo: HQT at 03/29/2023 1:05 PM
+BAG:fifai add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 1:06 PM
+BAG:fifai add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 1:06 PM
+BAG:fifai add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 1:07 PM
+BAG:fifai add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 1:07 PM
+BAG:fifai add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 1:07 PM
+BAG:fifai add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 1:07 PM
+BAG:fifai add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 1:07 PM
+BAG:fifai add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 1:07 PM
+BAG:fifai add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 1:07 PM
+BAG:fifai add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 1:07 PM
+BAG:fifai add 1xÁo sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 1:07 PM
+BAG:fifai add 1xÁo vàng Zealot lydo: Cường Hóa trang bị at 03/29/2023 1:07 PM
+BAG:fifai add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 1:07 PM
+BAG:fifai add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 1:07 PM
+BAG:fifai add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 1:08 PM
+BAG:fifai add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 1:08 PM
+BAG:fifai add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 1:08 PM
+BAG:fifai add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 1:08 PM
+BAG:fifai add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 1:08 PM
+BAG:fifai add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 1:08 PM
+BAG:fifai add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 1:08 PM
+BAG:fifai add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 1:08 PM
+BAG:fifai add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 1:08 PM
+BAG:fifai add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 1:08 PM
+BAG:fifai add 1xÁo Thần Namếc lydo: Cường Hóa trang bị at 03/29/2023 1:08 PM
+BAG:fifai add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 1:09 PM
+BAG:fifai add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:fifai add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:fifai add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/29/2023 1:10 PM
+BAG:fifai add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/29/2023 1:15 PM
+BAG:fifai add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/29/2023 1:15 PM
+BAG:fifai add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/29/2023 1:16 PM
+BAG:fifai add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 1:17 PM
+BAG:fifai add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 1:17 PM
+BAG:fifai add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 1:17 PM
+BAG:fifai add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 1:17 PM
+BAG:fifai add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 1:17 PM
+BAG:fifai add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 1:17 PM
+BAG:fifai add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 1:17 PM
+BAG:fifai add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 1:17 PM
+BAG:fifai add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 1:17 PM
+BAG:fifai add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 1:17 PM
+BAG:fifai add 1xÁo Thần Namếc lydo: Lấy từ body vào hành trang at 03/29/2023 1:17 PM
+BAG:fifai add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 1:17 PM
+BAG:fifai add 1xGiày vàng Zealot lydo: Cường Hóa trang bị at 03/29/2023 1:18 PM
+BAG:fifai add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 1:18 PM
+BAG:fifai add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 1:18 PM
+BAG:fifai add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 1:18 PM
+BAG:fifai add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 1:18 PM
+BAG:fifai add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 1:18 PM
+BAG:fifai add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 1:18 PM
+BAG:fifai add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 1:18 PM
+BAG:fifai add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 1:18 PM
+BAG:fifai add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 1:18 PM
+BAG:fifai add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 1:18 PM
+BAG:fifai add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 1:19 PM
+BAG:fifai add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 1:19 PM
+BAG:fifai add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 1:19 PM
+BAG:fifai add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 1:19 PM
+BAG:fifai add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 1:19 PM
+BAG:fifai add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 1:19 PM
+BAG:fifai add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/29/2023 1:19 PM
+BAG:fifai add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/29/2023 1:19 PM
+BAG:fifai add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/29/2023 1:19 PM
+BAG:fifai add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 1:19 PM
+BAG:fifai add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 1:19 PM
+BAG:fifai add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 1:19 PM
+BAG:fifai add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 1:19 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:21 PM
+BAG:fifai add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/29/2023 1:21 PM
+BAG:fifai add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 1:21 PM
+BAG:fifai add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 1:21 PM
+BAG:fifai add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 1:21 PM
+BAG:fifai add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 1:22 PM
+BAG:fifai add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 1:22 PM
+BAG:fifai add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 1:22 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 1:23 PM
+BAG:fifai add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:fifai add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/29/2023 1:24 PM
+BAG:fifai add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:fifai add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:fifai add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:fifai add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/29/2023 1:25 PM
+BAG:fifai add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/29/2023 4:02 PM
+BAG:fifai add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/29/2023 4:03 PM
+BAG:fifai add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/29/2023 4:03 PM
+BAG:fifai add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/29/2023 4:03 PM
+BAG:fifai add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/29/2023 4:03 PM
+BAG:fifai add 1xQuần sợi len lydo: Nhặt từ map at 03/29/2023 4:03 PM
+BAG:fifai add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/29/2023 4:03 PM
+BAG:fifai add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/29/2023 4:04 PM
+BAG:fifai add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/29/2023 4:04 PM
+BAG:fifai add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/29/2023 4:04 PM
+BAG:fifai add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/29/2023 4:04 PM
+BAG:fifai add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/29/2023 4:05 PM
+BAG:fifai add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/29/2023 4:05 PM
+BAG:fifai add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/29/2023 4:05 PM
+BAG:fifai add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/29/2023 4:05 PM
+BAG:fifai add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/29/2023 4:05 PM
+BAG:fifai add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/29/2023 4:05 PM
+BAG:fifai add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/29/2023 4:06 PM
+BAG:fifai add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/29/2023 4:06 PM
+BAG:fifai add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/29/2023 4:06 PM
+BAG:fifai add 4xMảnh Lợn lòi mẹ (old: 3) lydo: Nhặt từ map at 03/29/2023 4:07 PM
+BAG:fifai add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/29/2023 4:07 PM
+BAG:fifai add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/29/2023 4:07 PM
+BAG:fifai add 5xMảnh Lợn lòi mẹ (old: 4) lydo: Nhặt từ map at 03/29/2023 4:08 PM
+BAG:fifai add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/29/2023 4:08 PM
+BAG:fifai add 1xGiầy sợi len lydo: Nhặt từ map at 03/29/2023 4:08 PM
+BAG:fifai add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 03/29/2023 4:09 PM
+BAG:fifai add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/29/2023 4:09 PM
+BAG:fifai add 6xMảnh Lợn lòi mẹ (old: 5) lydo: Nhặt từ map at 03/29/2023 4:09 PM
+BAG:fifai add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/29/2023 4:10 PM
+BAG:fifai add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/29/2023 4:10 PM
+BAG:fifai add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/29/2023 4:10 PM
+BAG:fifai add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 03/29/2023 4:10 PM
+BAG:fifai add 12xMảnh Lợn lòi (old: 11) lydo: Nhặt từ map at 03/29/2023 4:11 PM
+BAG:fifai add 13xMảnh Lợn lòi (old: 12) lydo: Nhặt từ map at 03/29/2023 4:11 PM
+BAG:fifai add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/29/2023 4:11 PM
+BAG:fifai add 14xMảnh Lợn lòi (old: 13) lydo: Nhặt từ map at 03/29/2023 4:11 PM
+BAG:fifai add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/29/2023 4:11 PM
+BAG:fifai add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/29/2023 4:11 PM
+BAG:fifai add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/29/2023 4:11 PM
+BAG:fifai add 15xMảnh Lợn lòi (old: 14) lydo: Nhặt từ map at 03/29/2023 4:12 PM
+BAG:fifai add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/29/2023 4:12 PM
+BAG:fifai add 7xMảnh Lợn lòi mẹ (old: 6) lydo: Nhặt từ map at 03/29/2023 4:12 PM
+BAG:fifai add 8xMảnh Lợn lòi mẹ (old: 7) lydo: Nhặt từ map at 03/29/2023 4:12 PM
+BAG:fifai add 9xMảnh Lợn lòi mẹ (old: 8) lydo: Nhặt từ map at 03/29/2023 4:12 PM
+BAG:fifai add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/29/2023 4:13 PM
+BAG:fifai add 10xMảnh Lợn lòi mẹ (old: 9) lydo: Nhặt từ map at 03/29/2023 4:13 PM
+BAG:fifai add 16xMảnh Lợn lòi (old: 15) lydo: Nhặt từ map at 03/29/2023 4:14 PM
+BAG:fifai add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/29/2023 4:14 PM
+BAG:fifai add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/29/2023 4:14 PM
+BAG:fifai add 11xMảnh Lợn lòi mẹ (old: 10) lydo: Nhặt từ map at 03/29/2023 4:15 PM
+BAG:fifai add 17xMảnh Lợn lòi (old: 16) lydo: Nhặt từ map at 03/29/2023 4:15 PM
+BAG:fifai add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/29/2023 4:15 PM
+BAG:fifai add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/29/2023 4:15 PM
+BAG:fifai add 18xMảnh Lợn lòi (old: 17) lydo: Nhặt từ map at 03/29/2023 4:16 PM
+BAG:fifai add 19xMảnh Lợn lòi (old: 18) lydo: Nhặt từ map at 03/29/2023 4:17 PM
+BAG:fifai add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/29/2023 4:17 PM
+BAG:fifai add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/29/2023 4:17 PM
+BAG:fifai add 20xMảnh Lợn lòi (old: 19) lydo: Nhặt từ map at 03/29/2023 4:17 PM
+BAG:fifai add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 4:18 PM
+BAG:fifai add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/29/2023 4:18 PM
+BAG:fifai add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/29/2023 4:19 PM
+BAG:fifai add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/29/2023 4:19 PM
+BAG:fifai add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/29/2023 4:20 PM
+BAG:fifai add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/29/2023 4:20 PM
+BAG:fifai add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/29/2023 4:20 PM
+BAG:fifai add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/29/2023 4:20 PM
+BAG:fifai add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/29/2023 4:21 PM
+BAG:fifai add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/29/2023 4:21 PM
+BAG:fifai add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/29/2023 4:21 PM
+BAG:fifai add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/29/2023 4:22 PM
+BAG:fifai add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/29/2023 4:23 PM
+BAG:fifai add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/29/2023 4:24 PM
+BAG:fifai add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/29/2023 4:25 PM
+BAG:fifai add 5xMảnh Lợn lòi (old: 4) lydo: Nhặt từ map at 03/29/2023 4:26 PM
+BAG:fifai add 2xMảnh Lợn lòi mẹ (old: 1) lydo: Nhặt từ map at 03/29/2023 4:26 PM
+BAG:fifai add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/29/2023 4:26 PM
+BAG:fifai add 6xMảnh Lợn lòi (old: 5) lydo: Nhặt từ map at 03/29/2023 4:26 PM
+BAG:fifai add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/29/2023 4:26 PM
+BAG:fifai add 3xMảnh Lợn lòi mẹ (old: 2) lydo: Nhặt từ map at 03/29/2023 4:26 PM
+BAG:fifai add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/29/2023 4:27 PM
+BAG:fifai add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/29/2023 4:27 PM
+BAG:fifai add 7xMảnh Lợn lòi (old: 6) lydo: Nhặt từ map at 03/29/2023 4:28 PM
+BAG:fifai add 8xMảnh Lợn lòi (old: 7) lydo: Nhặt từ map at 03/29/2023 4:29 PM
+BAG:fifai add 9xMảnh Lợn lòi (old: 8) lydo: Nhặt từ map at 03/29/2023 4:29 PM
+BAG:fifai add 10xMảnh Lợn lòi (old: 9) lydo: Nhặt từ map at 03/29/2023 4:29 PM
+BAG:fifai add 11xMảnh Lợn lòi (old: 10) lydo: Nhặt từ map at 03/29/2023 4:30 PM
+BAG:fifai add 12xMảnh Lợn lòi (old: 11) lydo: Nhặt từ map at 03/29/2023 4:31 PM
+BAG:fifai add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/29/2023 4:32 PM
+BAG:fifai add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 4:32 PM
+BAG:fifai add 1xGiày sắt Tron lydo: Cường Hóa trang bị at 03/29/2023 4:32 PM
+BAG:fifai add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 1xGiày vàng Zealot lydo: Cường Hóa trang bị at 03/29/2023 4:33 PM
+BAG:fifai add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/29/2023 4:33 PM
+BAG:fifai add 1xGiầy Thần Namếc lydo: Cường Hóa trang bị at 03/29/2023 4:33 PM
+BAG:fifai add 1xGiầy Thần Namếc lydo: Lấy từ body vào hành trang at 03/29/2023 4:34 PM
+BAG:fifai add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 4:36 PM
+BAG:fifai add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/29/2023 4:36 PM
+BAG:fifai add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/29/2023 4:37 PM
+BAG:fifai add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/29/2023 4:37 PM
+BAG:fifai add 1xMảnh Khủng long lydo: Nhặt từ map at 03/29/2023 4:37 PM
+BAG:fifai add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/29/2023 4:37 PM
+BAG:fifai add 1xGăng sợi len lydo: Nhặt từ map at 03/29/2023 4:37 PM
+BAG:fifai add 1xGăng sắt Tron lydo: Lấy từ body vào hành trang at 03/29/2023 4:39 PM
+BAG:fifai add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/29/2023 4:42 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 4:44 PM
+BAG:fifai add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/29/2023 4:46 PM
+BAG:fifai add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 4:46 PM
+BAG:fifai add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/29/2023 4:46 PM
+BAG:fifai add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/29/2023 4:47 PM
+BAG:fifai add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/29/2023 4:47 PM
+BAG:fifai add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/29/2023 4:48 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 4:49 PM
+BAG:fifai add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 4:50 PM
+BAG:fifai add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/29/2023 4:50 PM
+BAG:fifai add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/29/2023 4:51 PM
+BAG:fifai add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/29/2023 4:51 PM
+BAG:fifai add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 4:53 PM
+BAG:fifai add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 4:53 PM
+BAG:fifai add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 4:53 PM
+BAG:fifai add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/29/2023 4:54 PM
+BAG:fifai add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/29/2023 4:56 PM
+BAG:fifai add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/29/2023 4:57 PM
+BAG:fifai add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/29/2023 4:57 PM
+BAG:fifai add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/29/2023 4:58 PM
+BAG:fifai add 1xNgọc Rồng 4 sao lydo: HQT at 03/29/2023 4:59 PM
+BAG:fifai add 1xGiáp Xên bọ hung lydo: HQT at 03/29/2023 4:59 PM
+BAG:fifai add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/29/2023 4:59 PM
+BAG:fifai add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/29/2023 4:59 PM
+BAG:fifai add 1xGăng vàng Zealot lydo: Mua từ cửa hàng at 03/29/2023 5:00 PM
+BAG:fifai add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/29/2023 5:03 PM
+BAG:fifai add 1xĐẻ trứng lv1 lydo: Mua từ cửa hàng at 03/29/2023 5:04 PM
+BAG:fifai add 1xĐẻ trứng lv2 lydo: Mua từ cửa hàng at 03/29/2023 5:04 PM
+BAG:fifai add 1xĐẻ trứng lv3 lydo: Mua từ cửa hàng at 03/29/2023 5:04 PM
+BAG:fifai add 1xĐẻ trứng lv4 lydo: Mua từ cửa hàng at 03/29/2023 5:04 PM
+BAG:fifai add 1xĐẻ trứng lv5 lydo: Mua từ cửa hàng at 03/29/2023 5:04 PM
+BAG:fifai add 1xĐẻ trứng lv6 lydo: Mua từ cửa hàng at 03/29/2023 5:04 PM
+BAG:fifai add 1xĐẻ trứng lv7 lydo: Mua từ cửa hàng at 03/29/2023 5:04 PM
+BAG:fifai add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/29/2023 5:07 PM
+BAG:fifai add 1xQuần sắt Tron lydo: Lấy từ body vào hành trang at 03/29/2023 5:07 PM
+BAG:fifai add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/29/2023 5:09 PM
+BAG:fifai add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/29/2023 5:09 PM
+BAG:fifai add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/29/2023 5:09 PM

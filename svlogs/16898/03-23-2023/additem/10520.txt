@@ -1,0 +1,611 @@
+BAG:ukulele add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/23/2023 8:10 PM
+BAG:ukulele add 1xNhẫn Thần Linh lydo: (GD) Nhận từ vipboybcs at 03/23/2023 8:12 PM
+BAG:ukulele add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/23/2023 8:12 PM
+BAG:ukulele add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/23/2023 8:13 PM
+BAG:ukulele add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/23/2023 8:13 PM
+BAG:ukulele add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/23/2023 8:13 PM
+BAG:ukulele add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/23/2023 8:13 PM
+BAG:ukulele add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/23/2023 8:13 PM
+BAG:ukulele add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/23/2023 8:14 PM
+BAG:ukulele add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/23/2023 8:15 PM
+BAG:ukulele add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/23/2023 8:15 PM
+BAG:ukulele add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/23/2023 8:15 PM
+BAG:ukulele add 1xÁo Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/23/2023 8:16 PM
+BAG:ukulele add 1xQuần Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/23/2023 8:16 PM
+BAG:ukulele add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/23/2023 8:16 PM
+BAG:ukulele add 1xGiày Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/23/2023 8:16 PM
+BAG:ukulele add 1xNhẫn Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/23/2023 8:16 PM
+BAG:ukulele add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/23/2023 8:16 PM
+BAG:ukulele add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/23/2023 8:16 PM
+BAG:ukulele add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/23/2023 8:16 PM
+BAG:ukulele add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/23/2023 8:17 PM
+BAG:ukulele add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/23/2023 8:17 PM
+BAG:ukulele add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/23/2023 8:17 PM
+BAG:ukulele add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/23/2023 8:17 PM
+BAG:ukulele add 1xMì ly lydo: Nhặt từ map at 03/23/2023 8:18 PM
+BAG:ukulele add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/23/2023 8:18 PM
+BAG:ukulele add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/23/2023 8:18 PM
+BAG:ukulele add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/23/2023 8:18 PM
+BAG:ukulele add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/23/2023 8:18 PM
+BAG:ukulele add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/23/2023 8:19 PM
+BAG:ukulele add 1xBánh Pudding lydo: Nhặt từ map at 03/23/2023 8:20 PM
+BAG:ukulele add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/23/2023 8:20 PM
+BAG:ukulele add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/23/2023 8:20 PM
+BAG:ukulele add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/23/2023 8:20 PM
+BAG:ukulele add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/23/2023 8:21 PM
+BAG:ukulele add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/23/2023 8:23 PM
+BAG:ukulele add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/23/2023 8:24 PM
+BAG:ukulele add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/23/2023 8:24 PM
+BAG:ukulele add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/23/2023 8:24 PM
+BAG:ukulele add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/23/2023 8:24 PM
+BAG:ukulele add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/23/2023 8:24 PM
+BAG:ukulele add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/23/2023 8:24 PM
+BAG:ukulele add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/23/2023 8:24 PM
+BAG:ukulele add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/23/2023 8:24 PM
+BAG:ukulele add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/23/2023 8:24 PM
+BAG:ukulele add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/23/2023 8:25 PM
+BAG:ukulele add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/23/2023 8:25 PM
+BAG:ukulele add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/23/2023 8:25 PM
+BAG:ukulele add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/23/2023 8:25 PM
+BAG:ukulele add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/23/2023 8:25 PM
+BAG:ukulele add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/23/2023 8:25 PM
+BAG:ukulele add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/23/2023 8:25 PM
+BAG:ukulele add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/23/2023 8:25 PM
+BAG:ukulele add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/23/2023 8:25 PM
+BAG:ukulele add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/23/2023 8:25 PM
+BAG:ukulele add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/23/2023 8:26 PM
+BAG:ukulele add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/23/2023 8:26 PM
+BAG:ukulele add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/23/2023 8:26 PM
+BAG:ukulele add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/23/2023 8:26 PM
+BAG:ukulele add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/23/2023 8:26 PM
+BAG:ukulele add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/23/2023 8:26 PM
+BAG:ukulele add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/23/2023 8:26 PM
+BAG:ukulele add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/23/2023 8:26 PM
+BAG:ukulele add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/23/2023 8:27 PM
+BAG:ukulele add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/23/2023 8:27 PM
+BAG:ukulele add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/23/2023 8:27 PM
+BAG:ukulele add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/23/2023 8:27 PM
+BAG:ukulele add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/23/2023 8:27 PM
+BAG:ukulele add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/23/2023 8:27 PM
+BAG:ukulele add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/23/2023 8:28 PM
+BAG:ukulele add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/23/2023 8:28 PM
+BAG:ukulele add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/23/2023 8:28 PM
+BAG:ukulele add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/23/2023 8:28 PM
+BAG:ukulele add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/23/2023 8:28 PM
+BAG:ukulele add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/23/2023 8:28 PM
+BAG:ukulele add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/23/2023 8:28 PM
+BAG:ukulele add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/23/2023 8:29 PM
+BAG:ukulele add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/23/2023 8:30 PM
+BAG:ukulele add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/23/2023 8:30 PM
+BAG:ukulele add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/23/2023 8:30 PM
+BAG:ukulele add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/23/2023 8:30 PM
+BAG:ukulele add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/23/2023 8:30 PM
+BAG:ukulele add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/23/2023 8:30 PM
+BAG:ukulele add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/23/2023 8:30 PM
+BAG:ukulele add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/23/2023 8:30 PM
+BAG:ukulele add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/23/2023 8:30 PM
+BAG:ukulele add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/23/2023 8:30 PM
+BAG:ukulele add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/23/2023 8:31 PM
+BAG:ukulele add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/23/2023 8:31 PM
+BAG:ukulele add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/23/2023 8:31 PM
+BAG:ukulele add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/23/2023 8:31 PM
+BAG:ukulele add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/23/2023 8:31 PM
+BAG:ukulele add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/23/2023 8:31 PM
+BAG:ukulele add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/23/2023 8:31 PM
+BAG:ukulele add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/23/2023 8:31 PM
+BAG:ukulele add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/23/2023 8:31 PM
+BAG:ukulele add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/23/2023 8:31 PM
+BAG:ukulele add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/23/2023 8:32 PM
+BAG:ukulele add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/23/2023 8:32 PM
+BAG:ukulele add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/23/2023 8:32 PM
+BAG:ukulele add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/23/2023 8:32 PM
+BAG:ukulele add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/23/2023 8:32 PM
+BAG:ukulele add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/23/2023 8:32 PM
+BAG:ukulele add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/23/2023 8:32 PM
+BAG:ukulele add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/23/2023 8:32 PM
+BAG:ukulele add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/23/2023 8:33 PM
+BAG:ukulele add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/23/2023 8:33 PM
+BAG:ukulele add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/23/2023 8:33 PM
+BAG:ukulele add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/23/2023 8:33 PM
+BAG:ukulele add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/23/2023 8:33 PM
+BAG:ukulele add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/23/2023 8:33 PM
+BAG:ukulele add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/23/2023 8:33 PM
+BAG:ukulele add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/23/2023 8:34 PM
+BAG:ukulele add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/23/2023 8:34 PM
+BAG:ukulele add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/23/2023 8:34 PM
+BAG:ukulele add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/23/2023 8:34 PM
+BAG:ukulele add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/23/2023 8:34 PM
+BAG:ukulele add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/23/2023 8:34 PM
+BAG:ukulele add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/23/2023 8:34 PM
+BAG:ukulele add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 83xNgọc Rồng 6 sao (old: 82) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/23/2023 8:35 PM
+BAG:ukulele add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/23/2023 8:36 PM
+BAG:ukulele add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/23/2023 8:36 PM
+BAG:ukulele add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/23/2023 8:36 PM
+BAG:ukulele add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/23/2023 8:36 PM
+BAG:ukulele add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/23/2023 8:36 PM
+BAG:ukulele add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/23/2023 8:36 PM
+BAG:ukulele add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/23/2023 8:36 PM
+BAG:ukulele add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/23/2023 8:36 PM
+BAG:ukulele add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/23/2023 8:36 PM
+BAG:ukulele add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/23/2023 8:36 PM
+BAG:ukulele add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/23/2023 8:37 PM
+BAG:ukulele add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/23/2023 8:37 PM
+BAG:ukulele add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/23/2023 8:37 PM
+BAG:ukulele add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/23/2023 8:37 PM
+BAG:ukulele add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/23/2023 8:37 PM
+BAG:ukulele add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/23/2023 8:37 PM
+BAG:ukulele add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/23/2023 8:38 PM
+BAG:ukulele add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/23/2023 8:38 PM
+BAG:ukulele add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/23/2023 8:38 PM
+BAG:ukulele add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/23/2023 8:38 PM
+BAG:ukulele add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/23/2023 8:38 PM
+BAG:ukulele add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/23/2023 8:38 PM
+BAG:ukulele add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/23/2023 8:38 PM
+BAG:ukulele add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/23/2023 8:38 PM
+BAG:ukulele add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/23/2023 8:39 PM
+BAG:ukulele add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/23/2023 8:39 PM
+BAG:ukulele add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/23/2023 8:39 PM
+BAG:ukulele add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/23/2023 8:39 PM
+BAG:ukulele add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/23/2023 8:39 PM
+BAG:ukulele add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/23/2023 8:39 PM
+BAG:ukulele add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/23/2023 8:39 PM
+BAG:ukulele add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/23/2023 8:39 PM
+BAG:ukulele add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/23/2023 8:40 PM
+BAG:ukulele add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/23/2023 8:40 PM
+BAG:ukulele add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/23/2023 8:40 PM
+BAG:ukulele add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/23/2023 8:40 PM
+BAG:ukulele add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/23/2023 8:40 PM
+BAG:ukulele add 20xThỏi vàng lydo: (GD) Nhận từ chumsv at 03/23/2023 8:41 PM
+BAG:ukulele add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/23/2023 8:41 PM
+BAG:ukulele add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/23/2023 8:41 PM
+BAG:ukulele add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/23/2023 8:41 PM
+BAG:ukulele add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/23/2023 8:41 PM
+BAG:ukulele add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/23/2023 8:41 PM
+BAG:ukulele add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/23/2023 8:41 PM
+BAG:ukulele add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/23/2023 8:41 PM
+BAG:ukulele add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/23/2023 8:41 PM
+BAG:ukulele add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/23/2023 8:41 PM
+BAG:ukulele add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/23/2023 8:42 PM
+BAG:ukulele add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/23/2023 8:43 PM
+BAG:ukulele add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/23/2023 8:43 PM
+BAG:ukulele add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/23/2023 8:43 PM
+BAG:ukulele add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/23/2023 8:43 PM
+BAG:ukulele add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/23/2023 8:43 PM
+BAG:ukulele add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/23/2023 8:43 PM
+BAG:ukulele add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/23/2023 8:43 PM
+BAG:ukulele add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/23/2023 8:44 PM
+BAG:ukulele add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/23/2023 8:44 PM
+BAG:ukulele add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/23/2023 8:44 PM
+BAG:ukulele add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/23/2023 8:44 PM
+BAG:ukulele add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/23/2023 8:44 PM
+BAG:ukulele add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/23/2023 8:45 PM
+BAG:ukulele add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/23/2023 8:45 PM
+BAG:ukulele add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/23/2023 8:45 PM
+BAG:ukulele add 84xNgọc Rồng 6 sao (old: 83) lydo: Nhặt từ map at 03/23/2023 8:45 PM
+BAG:ukulele add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/23/2023 8:45 PM
+BAG:ukulele add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/23/2023 8:46 PM
+BAG:ukulele add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/23/2023 8:46 PM
+BAG:ukulele add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/23/2023 8:46 PM
+BAG:ukulele add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/23/2023 8:46 PM
+BAG:ukulele add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/23/2023 8:46 PM
+BAG:ukulele add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/23/2023 8:47 PM
+BAG:ukulele add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/23/2023 8:47 PM
+BAG:ukulele add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/23/2023 8:47 PM
+BAG:ukulele add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/23/2023 8:47 PM
+BAG:ukulele add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/23/2023 8:47 PM
+BAG:ukulele add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/23/2023 8:47 PM
+BAG:ukulele add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/23/2023 8:47 PM
+BAG:ukulele add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/23/2023 8:47 PM
+BAG:ukulele add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/23/2023 8:47 PM
+BAG:ukulele add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/23/2023 8:47 PM
+BAG:ukulele add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/23/2023 8:48 PM
+BAG:ukulele add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/23/2023 8:49 PM
+BAG:ukulele add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/23/2023 8:49 PM
+BAG:ukulele add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/23/2023 8:49 PM
+BAG:ukulele add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/23/2023 8:49 PM
+BAG:ukulele add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/23/2023 8:49 PM
+BAG:ukulele add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/23/2023 8:49 PM
+BAG:ukulele add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/23/2023 8:49 PM
+BAG:ukulele add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/23/2023 8:49 PM
+BAG:ukulele add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/23/2023 8:50 PM
+BAG:ukulele add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/23/2023 8:50 PM
+BAG:ukulele add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/23/2023 8:50 PM
+BAG:ukulele add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/23/2023 8:50 PM
+BAG:ukulele add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/23/2023 8:51 PM
+BAG:ukulele add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/23/2023 8:51 PM
+BAG:ukulele add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/23/2023 8:51 PM
+BAG:ukulele add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/23/2023 8:51 PM
+BAG:ukulele add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/23/2023 8:51 PM
+BAG:ukulele add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/23/2023 8:52 PM
+BAG:ukulele add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/23/2023 8:52 PM
+BAG:ukulele add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/23/2023 8:52 PM
+BAG:ukulele add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/23/2023 8:53 PM
+BAG:ukulele add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/23/2023 8:54 PM
+BAG:ukulele add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/23/2023 8:54 PM
+BAG:ukulele add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/23/2023 8:54 PM
+BAG:ukulele add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/23/2023 8:54 PM
+BAG:ukulele add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/23/2023 8:54 PM
+BAG:ukulele add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/23/2023 8:54 PM
+BAG:ukulele add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/23/2023 8:54 PM
+BAG:ukulele add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/23/2023 8:54 PM
+BAG:ukulele add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/23/2023 8:54 PM
+BAG:ukulele add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/23/2023 8:55 PM
+BAG:ukulele add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/23/2023 8:55 PM
+BAG:ukulele add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/23/2023 8:55 PM
+BAG:ukulele add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/23/2023 8:55 PM
+BAG:ukulele add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/23/2023 8:55 PM
+BAG:ukulele add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/23/2023 8:55 PM
+BAG:ukulele add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/23/2023 8:56 PM
+BAG:ukulele add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/23/2023 8:56 PM
+BAG:ukulele add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/23/2023 8:56 PM
+BAG:ukulele add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/23/2023 8:56 PM
+BAG:ukulele add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/23/2023 8:56 PM
+BAG:ukulele add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/23/2023 8:56 PM
+BAG:ukulele add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/23/2023 8:56 PM
+BAG:ukulele add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/23/2023 8:56 PM
+BAG:ukulele add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/23/2023 8:57 PM
+BAG:ukulele add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/23/2023 8:57 PM
+BAG:ukulele add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/23/2023 8:57 PM
+BAG:ukulele add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/23/2023 8:57 PM
+BAG:ukulele add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/23/2023 8:57 PM
+BAG:ukulele add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/23/2023 8:57 PM
+BAG:ukulele add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/23/2023 8:57 PM
+BAG:ukulele add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/23/2023 8:58 PM
+BAG:ukulele add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/23/2023 8:58 PM
+BAG:ukulele add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/23/2023 8:58 PM
+BAG:ukulele add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/23/2023 8:58 PM
+BAG:ukulele add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/23/2023 8:58 PM
+BAG:ukulele add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/23/2023 8:58 PM
+BAG:ukulele add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/23/2023 8:58 PM
+BAG:ukulele add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/23/2023 8:58 PM
+BAG:ukulele add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/23/2023 8:58 PM
+BAG:ukulele add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/23/2023 8:59 PM
+BAG:ukulele add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/23/2023 8:59 PM
+BAG:ukulele add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/23/2023 8:59 PM
+BAG:ukulele add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/23/2023 8:59 PM
+BAG:ukulele add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/23/2023 8:59 PM
+BAG:ukulele add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/23/2023 8:59 PM
+BAG:ukulele add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/23/2023 8:59 PM
+BAG:ukulele add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/23/2023 8:59 PM
+BAG:ukulele add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/23/2023 8:59 PM
+BAG:ukulele add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/23/2023 8:59 PM
+BAG:ukulele add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/23/2023 8:59 PM
+BAG:ukulele add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/23/2023 9:00 PM
+BAG:ukulele add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/23/2023 9:01 PM
+BAG:ukulele add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/23/2023 9:01 PM
+BAG:ukulele add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/23/2023 9:01 PM
+BAG:ukulele add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/23/2023 9:01 PM
+BAG:ukulele add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/23/2023 9:01 PM
+BAG:ukulele add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/23/2023 9:01 PM
+BAG:ukulele add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/23/2023 9:01 PM
+BAG:ukulele add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/23/2023 9:01 PM
+BAG:ukulele add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/23/2023 9:02 PM
+BAG:ukulele add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/23/2023 9:02 PM
+BAG:ukulele add 85xNgọc Rồng 6 sao (old: 84) lydo: Nhặt từ map at 03/23/2023 9:02 PM
+BAG:ukulele add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/23/2023 9:02 PM
+BAG:ukulele add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/23/2023 9:02 PM
+BAG:ukulele add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/23/2023 9:03 PM
+BAG:ukulele add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/23/2023 9:03 PM
+BAG:ukulele add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/23/2023 9:03 PM
+BAG:ukulele add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/23/2023 9:03 PM
+BAG:ukulele add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/23/2023 9:04 PM
+BAG:ukulele add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/23/2023 9:04 PM
+BAG:ukulele add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/23/2023 9:04 PM
+BAG:ukulele add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/23/2023 9:05 PM
+BAG:ukulele add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/23/2023 9:05 PM
+BAG:ukulele add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/23/2023 9:05 PM
+BAG:ukulele add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/23/2023 9:05 PM
+BAG:ukulele add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/23/2023 9:05 PM
+BAG:ukulele add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/23/2023 9:05 PM
+BAG:ukulele add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/23/2023 9:05 PM
+BAG:ukulele add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/23/2023 9:05 PM
+BAG:ukulele add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/23/2023 9:05 PM
+BAG:ukulele add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/23/2023 9:05 PM
+BAG:ukulele add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/23/2023 9:05 PM
+BAG:ukulele add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 86xNgọc Rồng 6 sao (old: 85) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/23/2023 9:06 PM
+BAG:ukulele add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/23/2023 9:07 PM
+BAG:ukulele add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/23/2023 9:07 PM
+BAG:ukulele add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/23/2023 9:07 PM
+BAG:ukulele add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/23/2023 9:08 PM
+BAG:ukulele add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/23/2023 9:08 PM
+BAG:ukulele add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/23/2023 9:08 PM
+BAG:ukulele add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/23/2023 9:08 PM
+BAG:ukulele add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/23/2023 9:08 PM
+BAG:ukulele add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/23/2023 9:09 PM
+BAG:ukulele add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/23/2023 9:09 PM
+BAG:ukulele add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/23/2023 9:09 PM
+BAG:ukulele add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/23/2023 9:09 PM
+BAG:ukulele add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/23/2023 9:09 PM
+BAG:ukulele add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/23/2023 9:09 PM
+BAG:ukulele add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/23/2023 9:09 PM
+BAG:ukulele add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/23/2023 9:10 PM
+BAG:ukulele add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/23/2023 9:10 PM
+BAG:ukulele add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/23/2023 9:10 PM
+BAG:ukulele add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/23/2023 9:10 PM
+BAG:ukulele add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/23/2023 9:10 PM
+BAG:ukulele add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/23/2023 9:10 PM
+BAG:ukulele add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/23/2023 9:11 PM
+BAG:ukulele add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/23/2023 9:11 PM
+BAG:ukulele add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/23/2023 9:11 PM
+BAG:ukulele add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/23/2023 9:11 PM
+BAG:ukulele add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/23/2023 9:11 PM
+BAG:ukulele add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/23/2023 9:11 PM
+BAG:ukulele add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/23/2023 9:11 PM
+BAG:ukulele add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/23/2023 9:11 PM
+BAG:ukulele add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/23/2023 9:11 PM
+BAG:ukulele add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/23/2023 9:12 PM
+BAG:ukulele add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/23/2023 9:13 PM
+BAG:ukulele add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/23/2023 9:13 PM
+BAG:ukulele add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/23/2023 9:13 PM
+BAG:ukulele add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/23/2023 9:14 PM
+BAG:ukulele add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/23/2023 9:14 PM
+BAG:ukulele add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/23/2023 9:14 PM
+BAG:ukulele add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/23/2023 9:14 PM
+BAG:ukulele add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/23/2023 9:14 PM
+BAG:ukulele add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/23/2023 9:14 PM
+BAG:ukulele add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/23/2023 9:15 PM
+BAG:ukulele add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/23/2023 9:15 PM
+BAG:ukulele add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/23/2023 9:15 PM
+BAG:ukulele add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/23/2023 9:15 PM
+BAG:ukulele add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/23/2023 9:15 PM
+BAG:ukulele add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/23/2023 9:15 PM
+BAG:ukulele add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/23/2023 9:16 PM
+BAG:ukulele add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/23/2023 9:16 PM
+BAG:ukulele add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/23/2023 9:16 PM
+BAG:ukulele add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/23/2023 9:16 PM
+BAG:ukulele add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/23/2023 9:16 PM
+BAG:ukulele add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/23/2023 9:16 PM
+BAG:ukulele add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/23/2023 9:16 PM
+BAG:ukulele add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/23/2023 9:17 PM
+BAG:ukulele add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/23/2023 9:17 PM
+BAG:ukulele add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/23/2023 9:17 PM
+BAG:ukulele add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/23/2023 9:17 PM
+BAG:ukulele add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/23/2023 9:17 PM
+BAG:ukulele add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/23/2023 9:17 PM
+BAG:ukulele add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/23/2023 9:17 PM
+BAG:ukulele add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/23/2023 9:17 PM
+BAG:ukulele add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/23/2023 9:17 PM
+BAG:ukulele add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/23/2023 9:17 PM
+BAG:ukulele add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/23/2023 9:18 PM
+BAG:ukulele add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/23/2023 9:18 PM
+BAG:ukulele add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/23/2023 9:18 PM
+BAG:ukulele add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/23/2023 9:18 PM
+BAG:ukulele add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/23/2023 9:18 PM
+BAG:ukulele add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/23/2023 9:18 PM
+BAG:ukulele add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/23/2023 9:18 PM
+BAG:ukulele add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/23/2023 9:18 PM
+BAG:ukulele add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/23/2023 9:18 PM
+BAG:ukulele add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/23/2023 9:18 PM
+BAG:ukulele add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/23/2023 9:18 PM
+BAG:ukulele add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/23/2023 9:19 PM
+BAG:ukulele add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/23/2023 9:19 PM
+BAG:ukulele add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/23/2023 9:19 PM
+BAG:ukulele add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/23/2023 9:19 PM
+BAG:ukulele add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/23/2023 9:19 PM
+BAG:ukulele add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/23/2023 9:19 PM
+BAG:ukulele add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/23/2023 9:19 PM
+BAG:ukulele add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/23/2023 9:20 PM
+BAG:ukulele add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/23/2023 9:20 PM
+BAG:ukulele add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/23/2023 9:20 PM
+BAG:ukulele add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/23/2023 9:20 PM
+BAG:ukulele add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/23/2023 9:20 PM
+BAG:ukulele add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/23/2023 9:20 PM
+BAG:ukulele add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/23/2023 9:21 PM
+BAG:ukulele add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/23/2023 9:21 PM
+BAG:ukulele add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/23/2023 9:21 PM
+BAG:ukulele add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/23/2023 9:21 PM
+BAG:ukulele add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/23/2023 9:21 PM
+BAG:ukulele add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/23/2023 9:21 PM
+BAG:ukulele add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 03/23/2023 9:21 PM
+BAG:ukulele add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/23/2023 9:21 PM
+BAG:ukulele add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/23/2023 9:21 PM
+BAG:ukulele add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/23/2023 9:22 PM
+BAG:ukulele add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/23/2023 9:22 PM
+BAG:ukulele add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/23/2023 9:22 PM
+BAG:ukulele add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/23/2023 9:22 PM
+BAG:ukulele add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/23/2023 9:22 PM
+BAG:ukulele add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/23/2023 9:23 PM
+BAG:ukulele add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/23/2023 9:23 PM
+BAG:ukulele add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/23/2023 9:23 PM
+BAG:ukulele add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/23/2023 9:23 PM
+BAG:ukulele add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/23/2023 9:23 PM
+BAG:ukulele add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/23/2023 9:23 PM
+BAG:ukulele add 1xGăng Thần Linh lydo: Lấy từ body vào hành trang at 03/23/2023 9:25 PM
+BAG:ukulele add 1xQuần Thần Linh lydo: Lấy từ body vào hành trang at 03/23/2023 9:25 PM
+BAG:ukulele add 1xÁo Thần Linh lydo: Lấy từ body vào hành trang at 03/23/2023 9:25 PM
+BAG:ukulele add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/23/2023 9:25 PM
+BAG:ukulele add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 03/23/2023 9:26 PM
+BAG:ukulele add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/23/2023 9:26 PM
+BAG:ukulele add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/23/2023 9:26 PM
+BAG:ukulele add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/23/2023 9:26 PM
+BAG:ukulele add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/23/2023 9:26 PM
+BAG:ukulele add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/23/2023 9:26 PM
+BAG:ukulele add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/23/2023 9:26 PM
+BAG:ukulele add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 03/23/2023 9:27 PM
+BAG:ukulele add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/23/2023 9:27 PM
+BAG:ukulele add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/23/2023 9:27 PM
+BAG:ukulele add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/23/2023 9:27 PM
+BAG:ukulele add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/23/2023 9:28 PM
+BAG:ukulele add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 03/23/2023 9:28 PM
+BAG:ukulele add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/23/2023 9:28 PM
+BAG:ukulele add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 03/23/2023 9:28 PM
+BAG:ukulele add 1xGiày vàng Zealot lydo: Nhặt từ map at 03/23/2023 9:28 PM
+BAG:ukulele add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/23/2023 9:28 PM
+BAG:ukulele add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/23/2023 9:29 PM
+BAG:ukulele add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 03/23/2023 9:29 PM
+BAG:ukulele add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/23/2023 9:29 PM
+BAG:ukulele add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/23/2023 9:29 PM
+BAG:ukulele add 87xNgọc Rồng 6 sao (old: 86) lydo: Nhặt từ map at 03/23/2023 9:30 PM
+BAG:ukulele add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/23/2023 9:30 PM
+BAG:ukulele add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/23/2023 9:30 PM
+BAG:ukulele add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/23/2023 9:30 PM
+BAG:ukulele add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/23/2023 9:30 PM
+BAG:ukulele add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/23/2023 9:31 PM
+BAG:ukulele add 88xNgọc Rồng 6 sao (old: 87) lydo: Nhặt từ map at 03/23/2023 9:31 PM
+BAG:ukulele add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/23/2023 9:31 PM
+BAG:ukulele add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/23/2023 9:31 PM
+BAG:ukulele add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/23/2023 9:31 PM
+BAG:ukulele add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/23/2023 9:31 PM
+BAG:ukulele add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/23/2023 9:31 PM
+BAG:ukulele add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/23/2023 9:32 PM
+BAG:ukulele add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/23/2023 9:32 PM
+BAG:ukulele add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 03/23/2023 9:32 PM
+BAG:ukulele add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/23/2023 9:32 PM
+BAG:ukulele add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 03/23/2023 9:32 PM
+BAG:ukulele add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/23/2023 9:33 PM
+BAG:ukulele add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/23/2023 9:33 PM
+BAG:ukulele add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/23/2023 9:33 PM
+BAG:ukulele add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/23/2023 9:33 PM
+BAG:ukulele add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/23/2023 9:33 PM
+BAG:ukulele add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/23/2023 9:33 PM
+BAG:ukulele add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 03/23/2023 9:33 PM
+BAG:ukulele add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/23/2023 9:33 PM
+BAG:ukulele add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/23/2023 9:34 PM
+BAG:ukulele add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 03/23/2023 9:34 PM
+BAG:ukulele add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/23/2023 9:34 PM
+BAG:ukulele add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/23/2023 9:34 PM
+BAG:ukulele add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/23/2023 9:35 PM
+BAG:ukulele add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/23/2023 9:35 PM
+BAG:ukulele add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/23/2023 9:35 PM
+BAG:ukulele add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/23/2023 9:35 PM
+BAG:ukulele add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/23/2023 9:35 PM
+BAG:ukulele add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/23/2023 9:35 PM
+BAG:ukulele add 89xNgọc Rồng 6 sao (old: 88) lydo: Nhặt từ map at 03/23/2023 9:35 PM
+BAG:ukulele add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/23/2023 9:35 PM
+BAG:ukulele add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/23/2023 9:35 PM
+BAG:ukulele add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/23/2023 9:36 PM
+BAG:ukulele add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/23/2023 9:36 PM
+BAG:ukulele add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/23/2023 9:36 PM
+BAG:ukulele add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/23/2023 9:36 PM
+BAG:ukulele add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/23/2023 9:37 PM
+BAG:ukulele add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 03/23/2023 9:37 PM
+BAG:ukulele add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/23/2023 9:37 PM
+BAG:ukulele add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 03/23/2023 9:37 PM
+BAG:ukulele add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 03/23/2023 9:37 PM
+BAG:ukulele add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 03/23/2023 9:37 PM
+BAG:ukulele add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/23/2023 9:37 PM
+BAG:ukulele add 67xĐá Titan (old: 66) lydo: Nhặt từ map at 03/23/2023 9:37 PM
+BAG:ukulele add 1xGăng jean Calic lydo: Nhặt từ map at 03/23/2023 9:38 PM

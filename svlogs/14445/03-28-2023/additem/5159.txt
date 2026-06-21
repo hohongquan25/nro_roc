@@ -1,0 +1,410 @@
+BAG:asdasdeaa add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 12:35 AM
+BAG:asdasdeaa add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 12:36 AM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/28/2023 12:36 AM
+BAG:asdasdeaa add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/28/2023 12:36 AM
+BAG:asdasdeaa add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/28/2023 12:36 AM
+BAG:asdasdeaa add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 8:30 AM
+BAG:asdasdeaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 8:31 AM
+BAG:asdasdeaa add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 8:32 AM
+BAG:asdasdeaa add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 8:32 AM
+BAG:asdasdeaa add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 8:33 AM
+BAG:asdasdeaa add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 8:35 AM
+BAG:asdasdeaa add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/28/2023 8:36 AM
+BAG:asdasdeaa add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/28/2023 8:36 AM
+BAG:asdasdeaa add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 8:36 AM
+BAG:asdasdeaa add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 8:39 AM
+BAG:asdasdeaa add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 8:40 AM
+BAG:asdasdeaa add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 8:40 AM
+BAG:asdasdeaa add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 8:54 AM
+BAG:asdasdeaa add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 8:54 AM
+BAG:asdasdeaa add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 8:54 AM
+BAG:asdasdeaa add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 8:55 AM
+BAG:asdasdeaa add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/28/2023 8:55 AM
+BAG:asdasdeaa add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 8:55 AM
+BAG:asdasdeaa add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 8:55 AM
+BAG:asdasdeaa add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/28/2023 8:55 AM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 8:55 AM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 8:55 AM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 8:56 AM
+BAG:asdasdeaa add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 8:56 AM
+BAG:asdasdeaa add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/28/2023 8:56 AM
+BAG:asdasdeaa add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/28/2023 8:57 AM
+BAG:asdasdeaa add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 8:57 AM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 8:57 AM
+BAG:asdasdeaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 8:57 AM
+BAG:asdasdeaa add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 8:58 AM
+BAG:asdasdeaa add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 8:58 AM
+BAG:asdasdeaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 8:58 AM
+BAG:asdasdeaa add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 8:59 AM
+BAG:asdasdeaa add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 9:00 AM
+BAG:asdasdeaa add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/28/2023 9:00 AM
+BAG:asdasdeaa add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:asdasdeaa add 1xMảnh Phi long lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:asdasdeaa add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:asdasdeaa add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:asdasdeaa add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 9:02 AM
+BAG:asdasdeaa add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 9:03 AM
+BAG:asdasdeaa add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/28/2023 9:08 AM
+BAG:asdasdeaa add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/28/2023 9:08 AM
+BAG:asdasdeaa add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 9:08 AM
+BAG:asdasdeaa add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/28/2023 9:08 AM
+BAG:asdasdeaa add 11xNgọc Rồng 5 sao (old: 1) lydo: Giftcode at 03/28/2023 9:08 AM
+BAG:asdasdeaa add 12xNgọc Rồng 6 sao (old: 2) lydo: Giftcode at 03/28/2023 9:08 AM
+BAG:asdasdeaa add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/28/2023 9:08 AM
+BAG:asdasdeaa add 25xThỏi vàng lydo: Đổi vàng at 03/28/2023 9:18 AM
+BAG:asdasdeaa add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 11:30 AM
+BAG:asdasdeaa add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/28/2023 11:31 AM
+BAG:asdasdeaa add 1xPhóng lợn lydo: Mua từ cửa hàng at 03/28/2023 11:33 AM
+BAG:asdasdeaa add 1xKiếm ánh sáng lydo: Mua từ cửa hàng at 03/28/2023 11:36 AM
+BAG:asdasdeaa add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:asdasdeaa add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 11:38 AM
+BAG:asdasdeaa add 79xĐậu thần cấp 10 (old: 59) lydo: Lấy từ rương qua người at 03/28/2023 11:40 AM
+BAG:asdasdeaa add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:asdasdeaa add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:asdasdeaa add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 11:42 AM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/28/2023 11:42 AM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/28/2023 11:42 AM
+BAG:asdasdeaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 11:43 AM
+BAG:asdasdeaa add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 11:43 AM
+BAG:asdasdeaa add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 11:43 AM
+BAG:asdasdeaa add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 11:43 AM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:44 AM
+BAG:asdasdeaa add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 11:45 AM
+BAG:asdasdeaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 11:46 AM
+BAG:asdasdeaa add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 11:47 AM
+BAG:asdasdeaa add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 11:47 AM
+BAG:asdasdeaa add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 11:47 AM
+BAG:asdasdeaa add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 11:47 AM
+BAG:asdasdeaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 11:48 AM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:48 AM
+BAG:asdasdeaa add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 11:48 AM
+BAG:asdasdeaa add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 11:49 AM
+BAG:asdasdeaa add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 11:49 AM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 11:49 AM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 11:49 AM
+BAG:asdasdeaa add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 11:49 AM
+BAG:asdasdeaa add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 11:50 AM
+BAG:asdasdeaa add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/28/2023 11:50 AM
+BAG:asdasdeaa add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/28/2023 11:51 AM
+BAG:asdasdeaa add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/28/2023 11:51 AM
+BAG:asdasdeaa add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/28/2023 11:51 AM
+BAG:asdasdeaa add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/28/2023 11:51 AM
+BAG:asdasdeaa add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:asdasdeaa add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:asdasdeaa add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/28/2023 11:52 AM
+BAG:asdasdeaa add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 11:53 AM
+BAG:asdasdeaa add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 11:53 AM
+BAG:asdasdeaa add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/28/2023 11:54 AM
+BAG:asdasdeaa add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 11:54 AM
+BAG:asdasdeaa add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 11:54 AM
+BAG:asdasdeaa add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 11:54 AM
+BAG:asdasdeaa add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:asdasdeaa add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/28/2023 11:55 AM
+BAG:asdasdeaa add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 11:56 AM
+BAG:asdasdeaa add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/28/2023 11:56 AM
+BAG:asdasdeaa add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 11:57 AM
+BAG:asdasdeaa add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/28/2023 11:57 AM
+BAG:asdasdeaa add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 12:02 PM
+BAG:asdasdeaa add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/28/2023 12:02 PM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/28/2023 12:03 PM
+BAG:asdasdeaa add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 12:03 PM
+BAG:asdasdeaa add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 12:04 PM
+BAG:asdasdeaa add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/28/2023 12:04 PM
+BAG:asdasdeaa add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 12:05 PM
+BAG:asdasdeaa add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 12:05 PM
+BAG:asdasdeaa add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/28/2023 12:05 PM
+BAG:asdasdeaa add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/28/2023 12:05 PM
+BAG:asdasdeaa add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 12:05 PM
+BAG:asdasdeaa add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/28/2023 12:06 PM
+BAG:asdasdeaa add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/28/2023 12:06 PM
+BAG:asdasdeaa add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 12:06 PM
+BAG:asdasdeaa add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 12:07 PM
+BAG:asdasdeaa add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 12:08 PM
+BAG:asdasdeaa add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/28/2023 12:08 PM
+BAG:asdasdeaa add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 12:09 PM
+BAG:asdasdeaa add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 12:09 PM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 12:10 PM
+BAG:asdasdeaa add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/28/2023 12:10 PM
+BAG:asdasdeaa add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/28/2023 12:10 PM
+BAG:asdasdeaa add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 12:10 PM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 12:10 PM
+BAG:asdasdeaa add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:asdasdeaa add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:asdasdeaa add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:asdasdeaa add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 12:11 PM
+BAG:asdasdeaa add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 12:12 PM
+BAG:asdasdeaa add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 12:12 PM
+BAG:asdasdeaa add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 12:12 PM
+BAG:asdasdeaa add 27xMảnh Khủng long (old: 26) lydo: Nhặt từ map at 03/28/2023 12:12 PM
+BAG:asdasdeaa add 28xMảnh Khủng long (old: 27) lydo: Nhặt từ map at 03/28/2023 12:12 PM
+BAG:asdasdeaa add 29xMảnh Khủng long (old: 28) lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:asdasdeaa add 30xMảnh Khủng long (old: 29) lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:asdasdeaa add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:asdasdeaa add 31xMảnh Khủng long (old: 30) lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:asdasdeaa add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 12:13 PM
+BAG:asdasdeaa add 32xMảnh Khủng long (old: 31) lydo: Nhặt từ map at 03/28/2023 12:14 PM
+BAG:asdasdeaa add 33xMảnh Khủng long (old: 32) lydo: Nhặt từ map at 03/28/2023 12:14 PM
+BAG:asdasdeaa add 34xMảnh Khủng long (old: 33) lydo: Nhặt từ map at 03/28/2023 12:14 PM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 12:14 PM
+BAG:asdasdeaa add 35xMảnh Khủng long (old: 34) lydo: Nhặt từ map at 03/28/2023 12:14 PM
+BAG:asdasdeaa add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 12:15 PM
+BAG:asdasdeaa add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 12:15 PM
+BAG:asdasdeaa add 36xMảnh Khủng long (old: 35) lydo: Nhặt từ map at 03/28/2023 12:15 PM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/28/2023 12:16 PM
+BAG:asdasdeaa add 37xMảnh Khủng long (old: 36) lydo: Nhặt từ map at 03/28/2023 12:16 PM
+BAG:asdasdeaa add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 12:16 PM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/28/2023 12:16 PM
+BAG:asdasdeaa add 38xMảnh Khủng long (old: 37) lydo: Nhặt từ map at 03/28/2023 12:17 PM
+BAG:asdasdeaa add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 12:17 PM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/28/2023 12:18 PM
+BAG:asdasdeaa add 39xMảnh Khủng long (old: 38) lydo: Nhặt từ map at 03/28/2023 12:18 PM
+BAG:asdasdeaa add 40xMảnh Khủng long (old: 39) lydo: Nhặt từ map at 03/28/2023 12:18 PM
+BAG:asdasdeaa add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 12:19 PM
+BAG:asdasdeaa add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 12:19 PM
+BAG:asdasdeaa add 41xMảnh Khủng long (old: 40) lydo: Nhặt từ map at 03/28/2023 12:19 PM
+BAG:asdasdeaa add 42xMảnh Khủng long (old: 41) lydo: Nhặt từ map at 03/28/2023 12:19 PM
+BAG:asdasdeaa add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 12:20 PM
+BAG:asdasdeaa add 43xMảnh Khủng long (old: 42) lydo: Nhặt từ map at 03/28/2023 12:20 PM
+BAG:asdasdeaa add 44xMảnh Khủng long (old: 43) lydo: Nhặt từ map at 03/28/2023 12:20 PM
+BAG:asdasdeaa add 45xMảnh Khủng long (old: 44) lydo: Nhặt từ map at 03/28/2023 12:20 PM
+BAG:asdasdeaa add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 12:20 PM
+BAG:asdasdeaa add 46xMảnh Khủng long (old: 45) lydo: Nhặt từ map at 03/28/2023 12:21 PM
+BAG:asdasdeaa add 47xMảnh Khủng long (old: 46) lydo: Nhặt từ map at 03/28/2023 12:22 PM
+BAG:asdasdeaa add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 12:22 PM
+BAG:asdasdeaa add 48xMảnh Khủng long (old: 47) lydo: Nhặt từ map at 03/28/2023 12:23 PM
+BAG:asdasdeaa add 49xMảnh Khủng long (old: 48) lydo: Nhặt từ map at 03/28/2023 12:23 PM
+BAG:asdasdeaa add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/28/2023 12:23 PM
+BAG:asdasdeaa add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/28/2023 12:23 PM
+BAG:asdasdeaa add 50xMảnh Khủng long (old: 49) lydo: Nhặt từ map at 03/28/2023 12:23 PM
+BAG:asdasdeaa add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/28/2023 12:23 PM
+BAG:asdasdeaa add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 12:23 PM
+BAG:asdasdeaa add 51xMảnh Khủng long (old: 50) lydo: Nhặt từ map at 03/28/2023 12:24 PM
+BAG:asdasdeaa add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 12:24 PM
+BAG:asdasdeaa add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 12:24 PM
+BAG:asdasdeaa add 52xMảnh Khủng long (old: 51) lydo: Nhặt từ map at 03/28/2023 12:25 PM
+BAG:asdasdeaa add 53xMảnh Khủng long (old: 52) lydo: Nhặt từ map at 03/28/2023 12:25 PM
+BAG:asdasdeaa add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 12:25 PM
+BAG:asdasdeaa add 54xMảnh Khủng long (old: 53) lydo: Nhặt từ map at 03/28/2023 12:26 PM
+BAG:asdasdeaa add 55xMảnh Khủng long (old: 54) lydo: Nhặt từ map at 03/28/2023 12:26 PM
+BAG:asdasdeaa add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/28/2023 12:26 PM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 12:27 PM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/28/2023 12:27 PM
+BAG:asdasdeaa add 56xMảnh Khủng long (old: 55) lydo: Nhặt từ map at 03/28/2023 12:27 PM
+BAG:asdasdeaa add 57xMảnh Khủng long (old: 56) lydo: Nhặt từ map at 03/28/2023 12:28 PM
+BAG:asdasdeaa add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/28/2023 12:28 PM
+BAG:asdasdeaa add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 12:28 PM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/28/2023 12:29 PM
+BAG:asdasdeaa add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 12:29 PM
+BAG:asdasdeaa add 58xMảnh Khủng long (old: 57) lydo: Nhặt từ map at 03/28/2023 12:30 PM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 12:30 PM
+BAG:asdasdeaa add 59xMảnh Khủng long (old: 58) lydo: Nhặt từ map at 03/28/2023 12:32 PM
+BAG:asdasdeaa add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/28/2023 12:32 PM
+BAG:asdasdeaa add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 12:32 PM
+BAG:asdasdeaa add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 12:32 PM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 12:32 PM
+BAG:asdasdeaa add 60xMảnh Khủng long (old: 59) lydo: Nhặt từ map at 03/28/2023 12:33 PM
+BAG:asdasdeaa add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 12:33 PM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 12:33 PM
+BAG:asdasdeaa add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/28/2023 12:33 PM
+BAG:asdasdeaa add 61xMảnh Khủng long (old: 60) lydo: Nhặt từ map at 03/28/2023 12:46 PM
+BAG:asdasdeaa add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/28/2023 12:46 PM
+BAG:asdasdeaa add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 12:47 PM
+BAG:asdasdeaa add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/28/2023 12:47 PM
+BAG:asdasdeaa add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 12:47 PM
+BAG:asdasdeaa add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/28/2023 12:49 PM
+BAG:asdasdeaa add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 12:49 PM
+BAG:asdasdeaa add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 12:49 PM
+BAG:asdasdeaa add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/28/2023 12:49 PM
+BAG:asdasdeaa add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 12:50 PM
+BAG:asdasdeaa add 62xMảnh Khủng long (old: 61) lydo: Nhặt từ map at 03/28/2023 12:50 PM
+BAG:asdasdeaa add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/28/2023 12:50 PM
+BAG:asdasdeaa add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 12:51 PM
+BAG:asdasdeaa add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 12:51 PM
+BAG:asdasdeaa add 63xMảnh Khủng long (old: 62) lydo: Nhặt từ map at 03/28/2023 12:51 PM
+BAG:asdasdeaa add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/28/2023 12:51 PM
+BAG:asdasdeaa add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 12:52 PM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 12:52 PM
+BAG:asdasdeaa add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/28/2023 12:52 PM
+BAG:asdasdeaa add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/28/2023 12:52 PM
+BAG:asdasdeaa add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 12:52 PM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 12:53 PM
+BAG:asdasdeaa add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/28/2023 12:54 PM
+BAG:asdasdeaa add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/28/2023 12:54 PM
+BAG:asdasdeaa add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/28/2023 12:54 PM
+BAG:asdasdeaa add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/28/2023 12:56 PM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 12:56 PM
+BAG:asdasdeaa add 64xMảnh Khủng long (old: 63) lydo: Nhặt từ map at 03/28/2023 12:56 PM
+BAG:asdasdeaa add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 12:56 PM
+BAG:asdasdeaa add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/28/2023 12:56 PM
+BAG:asdasdeaa add 8xMảnh Khủng long mẹ (old: 7) lydo: Nhặt từ map at 03/28/2023 12:56 PM
+BAG:asdasdeaa add 65xMảnh Khủng long (old: 64) lydo: Nhặt từ map at 03/28/2023 12:57 PM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 12:57 PM
+BAG:asdasdeaa add 9xMảnh Khủng long mẹ (old: 8) lydo: Nhặt từ map at 03/28/2023 12:57 PM
+BAG:asdasdeaa add 66xMảnh Khủng long (old: 65) lydo: Nhặt từ map at 03/28/2023 12:58 PM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 12:58 PM
+BAG:asdasdeaa add 67xMảnh Khủng long (old: 66) lydo: Nhặt từ map at 03/28/2023 12:59 PM
+BAG:asdasdeaa add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 12:59 PM
+BAG:asdasdeaa add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 12:59 PM
+BAG:asdasdeaa add 68xMảnh Khủng long (old: 67) lydo: Nhặt từ map at 03/28/2023 12:59 PM
+BAG:asdasdeaa add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/28/2023 1:00 PM
+BAG:asdasdeaa add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 1:00 PM
+BAG:asdasdeaa add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/28/2023 1:00 PM
+BAG:asdasdeaa add 10xMảnh Khủng long mẹ (old: 9) lydo: Nhặt từ map at 03/28/2023 1:00 PM
+BAG:asdasdeaa add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 1:01 PM
+BAG:asdasdeaa add 69xMảnh Khủng long (old: 68) lydo: Nhặt từ map at 03/28/2023 1:01 PM
+BAG:asdasdeaa add 70xMảnh Khủng long (old: 69) lydo: Nhặt từ map at 03/28/2023 1:01 PM
+BAG:asdasdeaa add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/28/2023 1:01 PM
+BAG:asdasdeaa add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/28/2023 1:02 PM
+BAG:asdasdeaa add 11xMảnh Khủng long mẹ (old: 10) lydo: Nhặt từ map at 03/28/2023 1:02 PM
+BAG:asdasdeaa add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/28/2023 1:02 PM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 1:03 PM
+BAG:asdasdeaa add 71xMảnh Khủng long (old: 70) lydo: Nhặt từ map at 03/28/2023 1:03 PM
+BAG:asdasdeaa add 12xMảnh Khủng long mẹ (old: 11) lydo: Nhặt từ map at 03/28/2023 1:03 PM
+BAG:asdasdeaa add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/28/2023 1:03 PM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 1:04 PM
+BAG:asdasdeaa add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/28/2023 1:04 PM
+BAG:asdasdeaa add 72xMảnh Khủng long (old: 71) lydo: Nhặt từ map at 03/28/2023 1:04 PM
+BAG:asdasdeaa add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/28/2023 1:04 PM
+BAG:asdasdeaa add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/28/2023 1:05 PM
+BAG:asdasdeaa add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/28/2023 1:05 PM
+BAG:asdasdeaa add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/28/2023 1:06 PM
+BAG:asdasdeaa add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 1:06 PM
+BAG:asdasdeaa add 13xMảnh Khủng long mẹ (old: 12) lydo: Nhặt từ map at 03/28/2023 1:06 PM
+BAG:asdasdeaa add 73xMảnh Khủng long (old: 72) lydo: Nhặt từ map at 03/28/2023 1:06 PM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 1:06 PM
+BAG:asdasdeaa add 14xMảnh Khủng long mẹ (old: 13) lydo: Nhặt từ map at 03/28/2023 1:06 PM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 1:06 PM
+BAG:asdasdeaa add 15xMảnh Khủng long mẹ (old: 14) lydo: Nhặt từ map at 03/28/2023 1:07 PM
+BAG:asdasdeaa add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/28/2023 1:07 PM
+BAG:asdasdeaa add 16xMảnh Khủng long mẹ (old: 15) lydo: Nhặt từ map at 03/28/2023 1:07 PM
+BAG:asdasdeaa add 17xMảnh Khủng long mẹ (old: 16) lydo: Nhặt từ map at 03/28/2023 1:07 PM
+BAG:asdasdeaa add 1xGiầy nhựa lydo: Nhặt từ map at 03/28/2023 1:08 PM
+BAG:asdasdeaa add 74xMảnh Khủng long (old: 73) lydo: Nhặt từ map at 03/28/2023 1:08 PM
+BAG:asdasdeaa add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/28/2023 1:08 PM
+BAG:asdasdeaa add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/28/2023 1:08 PM
+BAG:asdasdeaa add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/28/2023 1:08 PM
+BAG:asdasdeaa add 18xMảnh Khủng long mẹ (old: 17) lydo: Nhặt từ map at 03/28/2023 1:08 PM
+BAG:asdasdeaa add 75xMảnh Khủng long (old: 74) lydo: Nhặt từ map at 03/28/2023 1:09 PM
+BAG:asdasdeaa add 19xMảnh Khủng long mẹ (old: 18) lydo: Nhặt từ map at 03/28/2023 1:10 PM
+BAG:asdasdeaa add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 1:10 PM
+BAG:asdasdeaa add 76xMảnh Khủng long (old: 75) lydo: Nhặt từ map at 03/28/2023 1:11 PM
+BAG:asdasdeaa add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/28/2023 1:12 PM
+BAG:asdasdeaa add 20xMảnh Khủng long mẹ (old: 19) lydo: Nhặt từ map at 03/28/2023 2:19 PM
+BAG:asdasdeaa add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/28/2023 2:27 PM
+BAG:asdasdeaa add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/28/2023 2:27 PM
+BAG:asdasdeaa add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 2:27 PM
+BAG:asdasdeaa add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/28/2023 2:28 PM
+BAG:asdasdeaa add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/28/2023 2:28 PM
+BAG:asdasdeaa add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/28/2023 2:28 PM
+BAG:asdasdeaa add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 2:29 PM
+BAG:asdasdeaa add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 2:30 PM
+BAG:asdasdeaa add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 2:30 PM
+BAG:asdasdeaa add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/28/2023 2:31 PM
+BAG:asdasdeaa add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/28/2023 2:31 PM
+BAG:asdasdeaa add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 2:31 PM
+BAG:asdasdeaa add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 2:32 PM
+BAG:asdasdeaa add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/28/2023 2:32 PM
+BAG:asdasdeaa add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/28/2023 2:32 PM
+BAG:asdasdeaa add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/28/2023 2:33 PM
+BAG:asdasdeaa add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/28/2023 2:33 PM
+BAG:asdasdeaa add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/28/2023 2:33 PM
+BAG:asdasdeaa add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/28/2023 2:33 PM
+BAG:asdasdeaa add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/28/2023 2:33 PM
+BAG:asdasdeaa add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/28/2023 2:34 PM
+BAG:asdasdeaa add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/28/2023 2:35 PM
+BAG:asdasdeaa add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/28/2023 2:35 PM
+BAG:asdasdeaa add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 2:35 PM
+BAG:asdasdeaa add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/28/2023 2:35 PM
+BAG:asdasdeaa add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/28/2023 2:36 PM
+BAG:asdasdeaa add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/28/2023 2:36 PM
+BAG:asdasdeaa add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/28/2023 2:36 PM
+BAG:asdasdeaa add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/28/2023 2:37 PM
+BAG:asdasdeaa add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 2:37 PM
+BAG:asdasdeaa add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/28/2023 2:37 PM
+BAG:asdasdeaa add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/28/2023 2:37 PM
+BAG:asdasdeaa add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/28/2023 2:37 PM
+BAG:asdasdeaa add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/28/2023 2:38 PM
+BAG:asdasdeaa add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 2:38 PM
+BAG:asdasdeaa add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/28/2023 2:39 PM
+BAG:asdasdeaa add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 2:39 PM
+BAG:asdasdeaa add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/28/2023 2:39 PM
+BAG:asdasdeaa add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/28/2023 2:40 PM
+BAG:asdasdeaa add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/28/2023 2:40 PM
+BAG:asdasdeaa add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/28/2023 2:41 PM
+BAG:asdasdeaa add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/28/2023 2:41 PM
+BAG:asdasdeaa add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/28/2023 2:41 PM
+BAG:asdasdeaa add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/28/2023 2:41 PM
+BAG:asdasdeaa add 8xMảnh Khủng long mẹ (old: 7) lydo: Nhặt từ map at 03/28/2023 2:41 PM
+BAG:asdasdeaa add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/28/2023 2:41 PM
+BAG:asdasdeaa add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/28/2023 2:42 PM
+BAG:asdasdeaa add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/28/2023 2:42 PM
+BAG:asdasdeaa add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/28/2023 2:42 PM
+BAG:asdasdeaa add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:asdasdeaa add 9xMảnh Khủng long mẹ (old: 8) lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:asdasdeaa add 1xGăng vải đen lydo: Nhặt từ map at 03/28/2023 2:43 PM
+BAG:asdasdeaa add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/28/2023 2:44 PM
+BAG:asdasdeaa add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/28/2023 2:44 PM
+BAG:asdasdeaa add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/28/2023 2:45 PM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 2:45 PM
+BAG:asdasdeaa add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/28/2023 2:45 PM
+BAG:asdasdeaa add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 2:47 PM
+BAG:asdasdeaa add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 2:47 PM
+BAG:asdasdeaa add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 2:47 PM
+BAG:asdasdeaa add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 2:47 PM
+BAG:asdasdeaa add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 2:47 PM
+BAG:asdasdeaa add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/28/2023 2:48 PM
+BAG:asdasdeaa add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/28/2023 2:48 PM
+BAG:asdasdeaa add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 2:49 PM
+BAG:asdasdeaa add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/28/2023 2:49 PM
+BAG:asdasdeaa add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/28/2023 2:51 PM
+BAG:asdasdeaa add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/28/2023 2:53 PM
+BAG:asdasdeaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 2:54 PM
+BAG:asdasdeaa add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/28/2023 2:55 PM
+BAG:asdasdeaa add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/28/2023 2:55 PM
+BAG:asdasdeaa add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/28/2023 2:55 PM
+BAG:asdasdeaa add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/28/2023 2:56 PM
+BAG:asdasdeaa add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/28/2023 2:56 PM
+BAG:asdasdeaa add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/28/2023 2:56 PM
+BAG:asdasdeaa add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/28/2023 2:56 PM
+BAG:asdasdeaa add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/28/2023 2:56 PM
+BAG:asdasdeaa add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/28/2023 2:57 PM
+BAG:asdasdeaa add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/28/2023 2:57 PM
+BAG:asdasdeaa add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/28/2023 2:57 PM
+BAG:asdasdeaa add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/28/2023 2:59 PM
+BAG:asdasdeaa add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 3:00 PM
+BAG:asdasdeaa add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/28/2023 3:00 PM
+BAG:asdasdeaa add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/28/2023 3:00 PM
+BAG:asdasdeaa add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 3:01 PM
+BAG:asdasdeaa add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/28/2023 3:01 PM
+BAG:asdasdeaa add 1xCá heo lydo: Mua từ bill at 03/28/2023 3:01 PM
+BAG:asdasdeaa add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/28/2023 3:08 PM
+BAG:asdasdeaa add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/28/2023 3:08 PM
+BAG:asdasdeaa add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/28/2023 3:08 PM
+BAG:asdasdeaa add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/28/2023 3:08 PM
+BAG:asdasdeaa add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/28/2023 3:08 PM
+BAG:asdasdeaa add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/28/2023 3:09 PM
+BAG:asdasdeaa add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/28/2023 3:09 PM
+BAG:asdasdeaa add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/28/2023 3:09 PM
+BAG:asdasdeaa add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/28/2023 3:09 PM
+BAG:asdasdeaa add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/28/2023 3:09 PM
+BAG:asdasdeaa add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/28/2023 3:09 PM
+BAG:asdasdeaa add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/28/2023 3:09 PM
+BAG:asdasdeaa add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/28/2023 3:09 PM
+BAG:asdasdeaa add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/28/2023 11:01 PM

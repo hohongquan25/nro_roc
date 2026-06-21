@@ -1,0 +1,23 @@
+BAG:zerlot add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/05/2023 6:32 PM
+BAG:zerlot add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/05/2023 6:32 PM
+BAG:zerlot add 15xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/05/2023 6:32 PM
+BAG:zerlot add 10xĐậu thần cấp 7 lydo: Thu hoạch đậu at 03/05/2023 6:33 PM
+BAG:zerlot add 25xĐậu thần cấp 7 (old: 10) lydo: Lấy từ rương qua người at 03/05/2023 6:33 PM
+BAG:zerlot add 40xĐậu thần cấp 7 (old: 25) lydo: Lấy từ rương qua người at 03/05/2023 6:33 PM
+BAG:zerlot add 55xĐậu thần cấp 7 (old: 40) lydo: Lấy từ rương qua người at 03/05/2023 6:33 PM
+BAG:zerlot add 70xĐậu thần cấp 7 (old: 55) lydo: Lấy từ rương qua người at 03/05/2023 6:33 PM
+BAG:zerlot add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/05/2023 6:33 PM
+BAG:zerlot add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/05/2023 6:33 PM
+BAG:zerlot add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 6:40 PM
+BAG:zerlot add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 6:44 PM
+BAG:zerlot add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 6:45 PM
+BAG:zerlot add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 6:45 PM
+BAG:zerlot add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/05/2023 6:45 PM
+BAG:zerlot add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/05/2023 6:46 PM
+BAG:zerlot add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/05/2023 6:46 PM
+BAG:zerlot add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 6:46 PM
+BAG:zerlot add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/05/2023 6:46 PM
+BAG:zerlot add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 6:46 PM
+BAG:zerlot add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/05/2023 6:47 PM
+BAG:zerlot add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/05/2023 6:47 PM
+BAG:zerlot add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/05/2023 6:47 PM

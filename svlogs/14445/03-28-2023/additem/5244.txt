@@ -1,0 +1,289 @@
+BAG:galqj add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 6:51 AM
+BAG:galqj add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 6:51 AM
+BAG:galqj add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/28/2023 6:51 AM
+BAG:galqj add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/28/2023 6:52 AM
+BAG:galqj add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/28/2023 6:52 AM
+BAG:galqj add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/28/2023 6:54 AM
+BAG:galqj add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/28/2023 6:54 AM
+BAG:galqj add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 6:54 AM
+BAG:galqj add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/28/2023 6:54 AM
+BAG:galqj add 10xNgọc Rồng 5 sao lydo: Giftcode at 03/28/2023 6:54 AM
+BAG:galqj add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/28/2023 6:54 AM
+BAG:galqj add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/28/2023 6:54 AM
+BAG:galqj add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 6:55 AM
+BAG:galqj add 1xKiếm ánh sáng lydo: Mua từ cửa hàng at 03/28/2023 6:55 AM
+BAG:galqj add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/28/2023 6:56 AM
+BAG:galqj add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 7:01 AM
+BAG:galqj add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 7:01 AM
+BAG:galqj add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/28/2023 7:02 AM
+BAG:galqj add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 7:02 AM
+BAG:galqj add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 7:02 AM
+BAG:galqj add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/28/2023 7:03 AM
+BAG:galqj add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/28/2023 7:03 AM
+BAG:galqj add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/28/2023 7:03 AM
+BAG:galqj add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/28/2023 7:03 AM
+BAG:galqj add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/28/2023 7:03 AM
+BAG:galqj add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 03/28/2023 7:03 AM
+BAG:galqj add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/28/2023 7:03 AM
+BAG:galqj add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/28/2023 7:03 AM
+BAG:galqj add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xSách Masenko lv1 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xSách Masenko lv2 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xSách Masenko lv3 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xSách Masenko lv4 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xSách Masenko lv5 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xSách Masenko lv6 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xSách Masenko lv7 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xMakankosappo lv1 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xMakankosappo lv2 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xMakankosappo lv3 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xMakankosappo lv4 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xMakankosappo lv5 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xMakankosappo lv6 lydo: Mua từ cửa hàng at 03/28/2023 7:04 AM
+BAG:galqj add 1xMakankosappo lv7 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách Biến Sôcôla lv1 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách Biến Sôcôla lv2 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách Biến Sôcôla lv3 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách Biến Sôcôla lv4 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách Biến Sôcôla lv5 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách Biến Sôcôla lv6 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách Biến Sôcôla lv7 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách học Trị thương lv3 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách học Trị thương lv4 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách học Trị thương lv5 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách học Trị thương lv6 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xSách học Trị thương lv7 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xĐẻ trứng lv1 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xĐẻ trứng lv2 lydo: Mua từ cửa hàng at 03/28/2023 7:05 AM
+BAG:galqj add 1xĐẻ trứng lv3 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xĐẻ trứng lv4 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xĐẻ trứng lv5 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xĐẻ trứng lv6 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xĐẻ trứng lv7 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/28/2023 7:06 AM
+BAG:galqj add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 7:07 AM
+BAG:galqj add 1xGăng bạc Zealot lydo: Mua từ cửa hàng at 03/28/2023 7:07 AM
+BAG:galqj add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 7:15 AM
+BAG:galqj add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 7:15 AM
+BAG:galqj add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 7:15 AM
+BAG:galqj add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 7:15 AM
+BAG:galqj add 1xMảnh Phi long lydo: Nhặt từ map at 03/28/2023 7:15 AM
+BAG:galqj add 1xGăng bạc Zealot lydo: Lấy từ body vào hành trang at 03/28/2023 7:15 AM
+BAG:galqj add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 7:16 AM
+BAG:galqj add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/28/2023 7:16 AM
+BAG:galqj add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 7:16 AM
+BAG:galqj add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 7:16 AM
+BAG:galqj add 4xMảnh Lợn lòi (old: 3) lydo: Nhặt từ map at 03/28/2023 7:17 AM
+BAG:galqj add 2xMảnh Phi long (old: 1) lydo: Nhặt từ map at 03/28/2023 7:17 AM
+BAG:galqj add 3xMảnh Phi long (old: 2) lydo: Nhặt từ map at 03/28/2023 7:17 AM
+BAG:galqj add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 7:17 AM
+BAG:galqj add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 7:17 AM
+BAG:galqj add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 7:17 AM
+BAG:galqj add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 7:17 AM
+BAG:galqj add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 21xĐổi đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 22xĐổi đệ tử (old: 21) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 23xĐổi đệ tử (old: 22) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 24xĐổi đệ tử (old: 23) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 25xĐổi đệ tử (old: 24) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 26xĐổi đệ tử (old: 25) lydo: Mua từ cửa hàng at 03/28/2023 7:18 AM
+BAG:galqj add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 7:19 AM
+BAG:galqj add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 7:19 AM
+BAG:galqj add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 7:19 AM
+BAG:galqj add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 7:19 AM
+BAG:galqj add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 7:19 AM
+BAG:galqj add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 7:19 AM
+BAG:galqj add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 7:19 AM
+BAG:galqj add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 7:19 AM
+BAG:galqj add 9xNâng cấp kỹ năng 1 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 10xNâng cấp kỹ năng 1 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 11xNâng cấp kỹ năng 1 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 12xNâng cấp kỹ năng 1 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 13xNâng cấp kỹ năng 1 đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 14xNâng cấp kỹ năng 1 đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 15xNâng cấp kỹ năng 1 đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 16xNâng cấp kỹ năng 1 đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 17xNâng cấp kỹ năng 1 đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 18xNâng cấp kỹ năng 1 đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 19xNâng cấp kỹ năng 1 đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 20xNâng cấp kỹ năng 1 đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 21xNâng cấp kỹ năng 1 đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 22xNâng cấp kỹ năng 1 đệ tử (old: 21) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 23xNâng cấp kỹ năng 1 đệ tử (old: 22) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 24xNâng cấp kỹ năng 1 đệ tử (old: 23) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 25xNâng cấp kỹ năng 1 đệ tử (old: 24) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 26xNâng cấp kỹ năng 1 đệ tử (old: 25) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 27xNâng cấp kỹ năng 1 đệ tử (old: 26) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 28xNâng cấp kỹ năng 1 đệ tử (old: 27) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 29xNâng cấp kỹ năng 1 đệ tử (old: 28) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 30xNâng cấp kỹ năng 1 đệ tử (old: 29) lydo: Mua từ cửa hàng at 03/28/2023 7:20 AM
+BAG:galqj add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/28/2023 7:21 AM
+BAG:galqj add 1xCải trang lydo: Mua từ cửa hàng at 03/28/2023 7:22 AM
+BAG:galqj add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:32 AM
+BAG:galqj add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/28/2023 7:33 AM
+BAG:galqj add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 7:36 AM
+BAG:galqj add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 7:36 AM
+BAG:galqj add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 7:36 AM
+BAG:galqj add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 7:36 AM
+BAG:galqj add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 7:36 AM
+BAG:galqj add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 7:36 AM
+BAG:galqj add 1xGăng thun cứng lydo: Mua từ cửa hàng at 03/28/2023 7:36 AM
+BAG:galqj add 1xGăng da Pico lydo: Mua từ cửa hàng at 03/28/2023 7:36 AM
+BAG:galqj add 1xGăng đồng Tron lydo: Mua từ cửa hàng at 03/28/2023 7:37 AM
+BAG:galqj add 1xGăng bạc Zealot lydo: Mua từ cửa hàng at 03/28/2023 7:37 AM
+BAG:galqj add 1xGăng vàng Zealot lydo: Mua từ cửa hàng at 03/28/2023 7:37 AM
+BAG:galqj add 1xGăng da Pico lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:37 AM
+BAG:galqj add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:37 AM
+BAG:galqj add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:39 AM
+BAG:galqj add 1xGăng da Pico lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:39 AM
+BAG:galqj add 1xGăng thun cứng lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:43 AM
+BAG:galqj add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 7:43 AM
+BAG:galqj add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 21xĐổi đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 22xĐổi đệ tử (old: 21) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 23xĐổi đệ tử (old: 22) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 24xĐổi đệ tử (old: 23) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 25xĐổi đệ tử (old: 24) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 26xĐổi đệ tử (old: 25) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 27xĐổi đệ tử (old: 26) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 28xĐổi đệ tử (old: 27) lydo: Mua từ cửa hàng at 03/28/2023 7:43 AM
+BAG:galqj add 29xĐổi đệ tử (old: 28) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 30xĐổi đệ tử (old: 29) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 31xĐổi đệ tử (old: 30) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 31xĐổi đệ tử (old: 30) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 32xĐổi đệ tử (old: 31) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 33xĐổi đệ tử (old: 32) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 34xĐổi đệ tử (old: 33) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 35xĐổi đệ tử (old: 34) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 36xĐổi đệ tử (old: 35) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 36xĐổi đệ tử (old: 35) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 37xĐổi đệ tử (old: 36) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 38xĐổi đệ tử (old: 37) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 39xĐổi đệ tử (old: 38) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 40xĐổi đệ tử (old: 39) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 41xĐổi đệ tử (old: 40) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 42xĐổi đệ tử (old: 41) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 43xĐổi đệ tử (old: 42) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 44xĐổi đệ tử (old: 43) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 45xĐổi đệ tử (old: 44) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 46xĐổi đệ tử (old: 45) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 47xĐổi đệ tử (old: 46) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 48xĐổi đệ tử (old: 47) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 49xĐổi đệ tử (old: 48) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 50xĐổi đệ tử (old: 49) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 51xĐổi đệ tử (old: 50) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 52xĐổi đệ tử (old: 51) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 53xĐổi đệ tử (old: 52) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 54xĐổi đệ tử (old: 53) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 55xĐổi đệ tử (old: 54) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 56xĐổi đệ tử (old: 55) lydo: Mua từ cửa hàng at 03/28/2023 7:44 AM
+BAG:galqj add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 7:47 AM
+BAG:galqj add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:galqj add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:galqj add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:galqj add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:galqj add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:galqj add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:galqj add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:galqj add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 7:48 AM
+BAG:galqj add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 6xMảnh Thằn lằn bay (old: 5) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/28/2023 7:49 AM
+BAG:galqj add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 7:50 AM
+BAG:galqj add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 7:50 AM
+BAG:galqj add 7xMảnh Thằn lằn bay (old: 6) lydo: Nhặt từ map at 03/28/2023 7:50 AM
+BAG:galqj add 8xMảnh Thằn lằn bay (old: 7) lydo: Nhặt từ map at 03/28/2023 7:50 AM
+BAG:galqj add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/28/2023 7:50 AM
+BAG:galqj add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 7:50 AM
+BAG:galqj add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 7:50 AM
+BAG:galqj add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 7:51 AM
+BAG:galqj add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 7:51 AM
+BAG:galqj add 9xMảnh Thằn lằn bay (old: 8) lydo: Nhặt từ map at 03/28/2023 7:51 AM
+BAG:galqj add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 7:51 AM
+BAG:galqj add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 7:51 AM
+BAG:galqj add 10xMảnh Thằn lằn bay (old: 9) lydo: Nhặt từ map at 03/28/2023 7:51 AM
+BAG:galqj add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 7:51 AM
+BAG:galqj add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/28/2023 7:52 AM
+BAG:galqj add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 7:52 AM
+BAG:galqj add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/28/2023 7:52 AM
+BAG:galqj add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 7:52 AM
+BAG:galqj add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 7:52 AM
+BAG:galqj add 1xÁo sợi len lydo: Nhặt từ map at 03/28/2023 7:52 AM
+BAG:galqj add 11xMảnh Thằn lằn bay (old: 10) lydo: Nhặt từ map at 03/28/2023 7:52 AM
+BAG:galqj add 12xMảnh Thằn lằn bay (old: 11) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 7:53 AM
+BAG:galqj add 13xMảnh Thằn lằn bay (old: 12) lydo: Nhặt từ map at 03/28/2023 7:54 AM
+BAG:galqj add 1xAvatar VIP lydo: Ước NR at 03/28/2023 7:55 AM
+BAG:galqj add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 7:56 AM
+BAG:galqj add 14xMảnh Thằn lằn bay (old: 13) lydo: Nhặt từ map at 03/28/2023 7:56 AM
+BAG:galqj add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 7:57 AM
+BAG:galqj add 15xMảnh Thằn lằn bay (old: 14) lydo: Nhặt từ map at 03/28/2023 7:57 AM
+BAG:galqj add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 7:57 AM
+BAG:galqj add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 7:57 AM
+BAG:galqj add 16xMảnh Thằn lằn bay (old: 15) lydo: Nhặt từ map at 03/28/2023 7:57 AM
+BAG:galqj add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 7:57 AM
+BAG:galqj add 17xMảnh Thằn lằn bay (old: 16) lydo: Nhặt từ map at 03/28/2023 7:58 AM
+BAG:galqj add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/28/2023 7:58 AM

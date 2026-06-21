@@ -1,0 +1,260 @@
+BAG:ssvuako add 10xĐậu thần cấp 10 (old: 8) lydo: Thu hoạch đậu at 03/03/2023 7:34 AM
+BAG:ssvuako add 1xRada cấp 12 lydo: Lấy từ body vào hành trang at 03/03/2023 7:35 AM
+BAG:ssvuako add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/03/2023 7:36 AM
+BAG:ssvuako add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/03/2023 7:37 AM
+BAG:ssvuako add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/03/2023 7:38 AM
+BAG:ssvuako add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 7:38 AM
+BAG:ssvuako add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 7:38 AM
+BAG:ssvuako add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/03/2023 7:38 AM
+BAG:ssvuako add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/03/2023 7:38 AM
+BAG:ssvuako add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 7:41 AM
+BAG:ssvuako add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/03/2023 7:41 AM
+BAG:ssvuako add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/03/2023 7:41 AM
+BAG:ssvuako add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/03/2023 7:42 AM
+BAG:ssvuako add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/03/2023 7:43 AM
+BAG:ssvuako add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/03/2023 7:43 AM
+BAG:ssvuako add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/03/2023 7:43 AM
+BAG:ssvuako add 1xQuần vải thô lydo: Nhặt từ map at 03/03/2023 7:43 AM
+BAG:ssvuako add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/03/2023 7:44 AM
+BAG:ssvuako add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/03/2023 7:44 AM
+BAG:ssvuako add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/03/2023 7:44 AM
+BAG:ssvuako add 1xGiầy vải thô lydo: Nhặt từ map at 03/03/2023 7:44 AM
+BAG:ssvuako add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/03/2023 7:45 AM
+BAG:ssvuako add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/03/2023 7:45 AM
+BAG:ssvuako add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/03/2023 7:45 AM
+BAG:ssvuako add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/03/2023 7:45 AM
+BAG:ssvuako add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/03/2023 7:48 AM
+BAG:ssvuako add 1xÁo siêu xayda lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:50 AM
+BAG:ssvuako add 1xQuần siêu Xayda lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:50 AM
+BAG:ssvuako add 1xGăng lông đỏ lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:50 AM
+BAG:ssvuako add 1xGiày siêu Xayda lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:50 AM
+BAG:ssvuako add 1xRada cấp 8 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:50 AM
+BAG:ssvuako add 1xCải Trang Thần Zeno Namec lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:50 AM
+BAG:ssvuako add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 7:54 AM
+BAG:ssvuako add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 7:54 AM
+BAG:ssvuako add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 7:54 AM
+BAG:ssvuako add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 7:54 AM
+BAG:ssvuako add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 7:54 AM
+BAG:ssvuako add 1xCải trang lydo: Mua từ bill at 03/03/2023 7:55 AM
+BAG:ssvuako add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 7:55 AM
+BAG:ssvuako add 1xGiày siêu Xayda lydo: Lấy từ rương qua người at 03/03/2023 8:08 AM
+BAG:ssvuako add 1xQuần siêu Xayda lydo: Lấy từ rương qua người at 03/03/2023 8:08 AM
+BAG:ssvuako add 1xÁo siêu xayda lydo: Lấy từ rương qua người at 03/03/2023 8:08 AM
+BAG:ssvuako add 1xGăng lông đỏ lydo: Lấy từ rương qua người at 03/03/2023 8:08 AM
+BAG:ssvuako add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 8:41 AM
+BAG:ssvuako add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 8:41 AM
+BAG:ssvuako add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 8:41 AM
+BAG:ssvuako add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 8:41 AM
+BAG:ssvuako add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 8:41 AM
+BAG:ssvuako add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 8:41 AM
+BAG:ssvuako add 10xĐậu thần cấp 10 (old: 5) lydo: Thu hoạch đậu at 03/03/2023 8:44 AM
+BAG:ssvuako add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/03/2023 8:53 AM
+BAG:ssvuako add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 8:59 AM
+BAG:ssvuako add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 8:59 AM
+BAG:ssvuako add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 8:59 AM
+BAG:ssvuako add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 8:59 AM
+BAG:ssvuako add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 8:59 AM
+BAG:ssvuako add 1xÁo lưỡng long lydo: Mua từ cửa hàng at 03/03/2023 9:01 AM
+BAG:ssvuako add 1xQuần lưỡng long lydo: Mua từ cửa hàng at 03/03/2023 9:01 AM
+BAG:ssvuako add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/03/2023 9:02 AM
+BAG:ssvuako add 1xGiày lưỡng long lydo: Mua từ cửa hàng at 03/03/2023 9:02 AM
+BAG:ssvuako add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/03/2023 9:03 AM
+BAG:ssvuako add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/03/2023 9:03 AM
+BAG:ssvuako add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/03/2023 9:03 AM
+BAG:ssvuako add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/03/2023 9:03 AM
+BAG:ssvuako add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/03/2023 9:28 AM
+BAG:ssvuako add 10xĐậu thần cấp 10 (old: 2) lydo: Thu hoạch đậu at 03/03/2023 9:42 AM
+BAG:ssvuako add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/03/2023 9:48 AM
+BAG:ssvuako add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/03/2023 9:48 AM
+BAG:ssvuako add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:08 AM
+BAG:ssvuako add 1xRada cấp 12 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:08 AM
+BAG:ssvuako add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:09 AM
+BAG:ssvuako add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 10:11 AM
+BAG:ssvuako add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 10:11 AM
+BAG:ssvuako add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 10:11 AM
+BAG:ssvuako add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 10:11 AM
+BAG:ssvuako add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 10:11 AM
+BAG:ssvuako add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 10:11 AM
+BAG:ssvuako add 1xGiày lưỡng long lydo: Lấy từ body vào hành trang at 03/03/2023 10:12 AM
+BAG:ssvuako add 1xCT Genma 01 lydo: Mua từ bill at 03/03/2023 11:00 AM
+BAG:ssvuako add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/03/2023 11:06 AM
+BAG:ssvuako add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/03/2023 11:06 AM
+BAG:ssvuako add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/03/2023 11:06 AM
+BAG:ssvuako add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/03/2023 11:07 AM
+BAG:ssvuako add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/03/2023 11:08 AM
+BAG:ssvuako add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 11:08 AM
+BAG:ssvuako add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/03/2023 11:08 AM
+BAG:ssvuako add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 11:08 AM
+BAG:ssvuako add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/03/2023 11:08 AM
+BAG:ssvuako add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/03/2023 11:09 AM
+BAG:ssvuako add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/03/2023 11:13 AM
+BAG:ssvuako add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/03/2023 11:16 AM
+BAG:ssvuako add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 11:28 AM
+BAG:ssvuako add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/03/2023 11:30 AM
+BAG:ssvuako add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/03/2023 11:31 AM
+BAG:ssvuako add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/03/2023 11:35 AM
+BAG:ssvuako add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/03/2023 11:35 AM
+BAG:ssvuako add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/03/2023 11:36 AM
+BAG:ssvuako add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/03/2023 11:36 AM
+BAG:ssvuako add 1xGăng vải thô lydo: Nhặt từ map at 03/03/2023 11:36 AM
+BAG:ssvuako add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/03/2023 11:36 AM
+BAG:ssvuako add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/03/2023 11:36 AM
+BAG:ssvuako add 1xQuần vải thô lydo: Nhặt từ map at 03/03/2023 11:36 AM
+BAG:ssvuako add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/03/2023 11:36 AM
+BAG:ssvuako add 1xQuần vải thô lydo: Nhặt từ map at 03/03/2023 11:36 AM
+BAG:ssvuako add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/03/2023 11:37 AM
+BAG:ssvuako add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/03/2023 11:37 AM
+BAG:ssvuako add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/03/2023 11:37 AM
+BAG:ssvuako add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/03/2023 11:38 AM
+BAG:ssvuako add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/03/2023 11:38 AM
+BAG:ssvuako add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/03/2023 11:38 AM
+BAG:ssvuako add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:ssvuako add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:ssvuako add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:ssvuako add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:ssvuako add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/03/2023 11:39 AM
+BAG:ssvuako add 1xÁo vải thô lydo: Nhặt từ map at 03/03/2023 11:40 AM
+BAG:ssvuako add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/03/2023 11:40 AM
+BAG:ssvuako add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 11:41 AM
+BAG:ssvuako add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/03/2023 11:41 AM
+BAG:ssvuako add 1xQuần vải thô lydo: Nhặt từ map at 03/03/2023 11:41 AM
+BAG:ssvuako add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/03/2023 11:42 AM
+BAG:ssvuako add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/03/2023 11:42 AM
+BAG:ssvuako add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/03/2023 11:42 AM
+BAG:ssvuako add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/03/2023 11:42 AM
+BAG:ssvuako add 1xLồng đèn Ông Sao lydo: CSTT at 03/03/2023 11:42 AM
+BAG:ssvuako add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/03/2023 11:44 AM
+BAG:ssvuako add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/03/2023 11:45 AM
+BAG:ssvuako add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/03/2023 11:46 AM
+BAG:ssvuako add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 11:46 AM
+BAG:ssvuako add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/03/2023 11:47 AM
+BAG:ssvuako add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/03/2023 11:47 AM
+BAG:ssvuako add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/03/2023 11:47 AM
+BAG:ssvuako add 1xGăng vải thô lydo: Nhặt từ map at 03/03/2023 11:47 AM
+BAG:ssvuako add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/03/2023 11:48 AM
+BAG:ssvuako add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/03/2023 11:48 AM
+BAG:ssvuako add 1xGiầy vải thô lydo: Nhặt từ map at 03/03/2023 11:48 AM
+BAG:ssvuako add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/03/2023 11:48 AM
+BAG:ssvuako add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/03/2023 11:49 AM
+BAG:ssvuako add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 11:49 AM
+BAG:ssvuako add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/03/2023 11:49 AM
+BAG:ssvuako add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 11:50 AM
+BAG:ssvuako add 1xÁo vải thô lydo: Nhặt từ map at 03/03/2023 11:51 AM
+BAG:ssvuako add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/03/2023 11:51 AM
+BAG:ssvuako add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 11:53 AM
+BAG:ssvuako add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 11:55 AM
+BAG:ssvuako add 6xĐậu thần cấp 10 (old: 5) lydo: Clan cho đậu at 03/03/2023 6:10 PM
+BAG:ssvuako add 7xĐậu thần cấp 10 (old: 6) lydo: Clan cho đậu at 03/03/2023 6:10 PM
+BAG:ssvuako add 8xĐậu thần cấp 10 (old: 7) lydo: Clan cho đậu at 03/03/2023 6:10 PM
+BAG:ssvuako add 9xĐậu thần cấp 10 (old: 8) lydo: Clan cho đậu at 03/03/2023 6:10 PM
+BAG:ssvuako add 10xĐậu thần cấp 10 (old: 9) lydo: Clan cho đậu at 03/03/2023 6:10 PM
+BAG:ssvuako add 10xĐậu thần cấp 10 (old: 7) lydo: Thu hoạch đậu at 03/03/2023 6:15 PM
+BAG:ssvuako add 1xÁo lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:19 PM
+BAG:ssvuako add 1xQuần lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:19 PM
+BAG:ssvuako add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:19 PM
+BAG:ssvuako add 1xGiày lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:19 PM
+BAG:ssvuako add 1xRada cấp 12 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:19 PM
+BAG:ssvuako add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:20 PM
+BAG:ssvuako add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 6:23 PM
+BAG:ssvuako add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 6:23 PM
+BAG:ssvuako add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 6:23 PM
+BAG:ssvuako add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 6:23 PM
+BAG:ssvuako add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 6:23 PM
+BAG:ssvuako add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 6:23 PM
+BAG:ssvuako add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:44 PM
+BAG:ssvuako add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:44 PM
+BAG:ssvuako add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:46 PM
+BAG:ssvuako add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:46 PM
+BAG:ssvuako add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/03/2023 6:46 PM
+BAG:ssvuako add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 6:47 PM
+BAG:ssvuako add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 6:47 PM
+BAG:ssvuako add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 6:52 PM
+BAG:ssvuako add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 6:52 PM
+BAG:ssvuako add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 6:52 PM
+BAG:ssvuako add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 6:52 PM
+BAG:ssvuako add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 6:52 PM
+BAG:ssvuako add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 6:52 PM
+BAG:ssvuako add 10xĐậu thần cấp 10 (old: 2) lydo: Thu hoạch đậu at 03/03/2023 7:00 PM
+BAG:ssvuako add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 7:18 PM
+BAG:ssvuako add 10xĐậu thần cấp 10 (old: 6) lydo: Thu hoạch đậu at 03/03/2023 7:18 PM
+BAG:ssvuako add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 7:19 PM
+BAG:ssvuako add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/03/2023 7:56 PM
+BAG:ssvuako add 1xGiầy vải thô lydo: Nhặt từ map at 03/03/2023 7:57 PM
+BAG:ssvuako add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 7:58 PM
+BAG:ssvuako add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/03/2023 8:21 PM
+BAG:ssvuako add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 8:22 PM
+BAG:ssvuako add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/03/2023 8:25 PM
+BAG:ssvuako add 1xQuần vải thô lydo: Nhặt từ map at 03/03/2023 8:25 PM
+BAG:ssvuako add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 8:26 PM
+BAG:ssvuako add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/03/2023 8:26 PM
+BAG:ssvuako add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 8:27 PM
+BAG:ssvuako add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/03/2023 8:27 PM
+BAG:ssvuako add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/03/2023 8:27 PM
+BAG:ssvuako add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/03/2023 8:28 PM
+BAG:ssvuako add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 8:28 PM
+BAG:ssvuako add 1xÁo vải thô lydo: Nhặt từ map at 03/03/2023 8:32 PM
+BAG:ssvuako add 1xÁo vải thô lydo: Nhặt từ map at 03/03/2023 8:33 PM
+BAG:ssvuako add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/03/2023 8:34 PM
+BAG:ssvuako add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/03/2023 8:34 PM
+BAG:ssvuako add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/03/2023 8:34 PM
+BAG:ssvuako add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/03/2023 8:34 PM
+BAG:ssvuako add 1xGăng vải thô lydo: Nhặt từ map at 03/03/2023 8:34 PM
+BAG:ssvuako add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/03/2023 8:37 PM
+BAG:ssvuako add 1xÁo vải thô lydo: Nhặt từ map at 03/03/2023 8:37 PM
+BAG:ssvuako add 1xGiầy vải thô lydo: Nhặt từ map at 03/03/2023 8:37 PM
+BAG:ssvuako add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 8:38 PM
+BAG:ssvuako add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/03/2023 8:38 PM
+BAG:ssvuako add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 8:38 PM
+BAG:ssvuako add 1xGiầy vải thô lydo: Nhặt từ map at 03/03/2023 8:38 PM
+BAG:ssvuako add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/03/2023 8:38 PM
+BAG:ssvuako add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/03/2023 8:39 PM
+BAG:ssvuako add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/03/2023 8:39 PM
+BAG:ssvuako add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/03/2023 8:39 PM
+BAG:ssvuako add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 8:39 PM
+BAG:ssvuako add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/03/2023 8:40 PM
+BAG:ssvuako add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 8:40 PM
+BAG:ssvuako add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 8:42 PM
+BAG:ssvuako add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 8:43 PM
+BAG:ssvuako add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/03/2023 8:44 PM
+BAG:ssvuako add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/03/2023 8:44 PM
+BAG:ssvuako add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/03/2023 8:44 PM
+BAG:ssvuako add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/03/2023 8:44 PM
+BAG:ssvuako add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/03/2023 8:45 PM
+BAG:ssvuako add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/03/2023 8:45 PM
+BAG:ssvuako add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/03/2023 8:45 PM
+BAG:ssvuako add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/03/2023 8:46 PM
+BAG:ssvuako add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/03/2023 8:46 PM
+BAG:ssvuako add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/03/2023 8:47 PM
+BAG:ssvuako add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/03/2023 8:47 PM
+BAG:ssvuako add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/03/2023 8:50 PM
+BAG:ssvuako add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/03/2023 8:50 PM
+BAG:ssvuako add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/03/2023 8:50 PM
+BAG:ssvuako add 1xGăng vải thô lydo: Nhặt từ map at 03/03/2023 8:51 PM
+BAG:ssvuako add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/03/2023 8:52 PM
+BAG:ssvuako add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/03/2023 8:52 PM
+BAG:ssvuako add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/03/2023 8:52 PM
+BAG:ssvuako add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/03/2023 8:53 PM
+BAG:ssvuako add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/03/2023 8:53 PM
+BAG:ssvuako add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/03/2023 8:53 PM
+BAG:ssvuako add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/03/2023 8:53 PM
+BAG:ssvuako add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/03/2023 8:53 PM
+BAG:ssvuako add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/03/2023 8:53 PM
+BAG:ssvuako add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/03/2023 8:53 PM
+BAG:ssvuako add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/03/2023 8:54 PM
+BAG:ssvuako add 1xPháo hoa lydo: Nhặt từ map at 03/03/2023 8:56 PM
+BAG:ssvuako add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:57 PM
+BAG:ssvuako add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 8:58 PM
+BAG:ssvuako add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 8:58 PM
+BAG:ssvuako add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 8:58 PM
+BAG:ssvuako add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 8:58 PM
+BAG:ssvuako add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 8:58 PM
+BAG:ssvuako add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 8:58 PM
+BAG:ssvuako add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 8:58 PM
+BAG:ssvuako add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/03/2023 8:59 PM
+BAG:ssvuako add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 9:00 PM
+BAG:ssvuako add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 9:00 PM
+BAG:ssvuako add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 9:00 PM
+BAG:ssvuako add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 9:00 PM
+BAG:ssvuako add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 9:00 PM
+BAG:ssvuako add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 03/03/2023 9:02 PM
+BAG:ssvuako add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 11:14 PM

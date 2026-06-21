@@ -1,0 +1,520 @@
+BAG:ahemmem add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/03/2023 5:10 AM
+BAG:ahemmem add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/03/2023 5:10 AM
+BAG:ahemmem add 1xGiày bạc Goku lydo: Lấy từ body vào hành trang at 03/03/2023 5:10 AM
+BAG:ahemmem add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 5:10 AM
+BAG:ahemmem add 1xGăng bạc Goku lydo: Lấy từ body vào hành trang at 03/03/2023 5:14 AM
+BAG:ahemmem add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 5:15 AM
+BAG:ahemmem add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 5:15 AM
+BAG:ahemmem add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 5:15 AM
+BAG:ahemmem add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 5:15 AM
+BAG:ahemmem add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 5:15 AM
+BAG:ahemmem add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 5:15 AM
+BAG:ahemmem add 500xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/03/2023 5:20 AM
+BAG:ahemmem add 1xNgọc Rồng 6 sao lydo: Nhập ngọc at 03/03/2023 5:21 AM
+BAG:ahemmem add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhập ngọc at 03/03/2023 5:21 AM
+BAG:ahemmem add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhập ngọc at 03/03/2023 5:21 AM
+BAG:ahemmem add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhập ngọc at 03/03/2023 5:21 AM
+BAG:ahemmem add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhập ngọc at 03/03/2023 5:21 AM
+BAG:ahemmem add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhập ngọc at 03/03/2023 5:21 AM
+BAG:ahemmem add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhập ngọc at 03/03/2023 5:21 AM
+BAG:ahemmem add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhập ngọc at 03/03/2023 5:21 AM
+BAG:ahemmem add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhập ngọc at 03/03/2023 5:22 AM
+BAG:ahemmem add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 27xNgọc Rồng 6 sao (old: 26) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 29xNgọc Rồng 6 sao (old: 28) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 30xNgọc Rồng 6 sao (old: 29) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 31xNgọc Rồng 6 sao (old: 30) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 32xNgọc Rồng 6 sao (old: 31) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 33xNgọc Rồng 6 sao (old: 32) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 34xNgọc Rồng 6 sao (old: 33) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 35xNgọc Rồng 6 sao (old: 34) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 36xNgọc Rồng 6 sao (old: 35) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 37xNgọc Rồng 6 sao (old: 36) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 38xNgọc Rồng 6 sao (old: 37) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 39xNgọc Rồng 6 sao (old: 38) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 40xNgọc Rồng 6 sao (old: 39) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 41xNgọc Rồng 6 sao (old: 40) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 42xNgọc Rồng 6 sao (old: 41) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 43xNgọc Rồng 6 sao (old: 42) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 44xNgọc Rồng 6 sao (old: 43) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 45xNgọc Rồng 6 sao (old: 44) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 46xNgọc Rồng 6 sao (old: 45) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 47xNgọc Rồng 6 sao (old: 46) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 48xNgọc Rồng 6 sao (old: 47) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 49xNgọc Rồng 6 sao (old: 48) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 50xNgọc Rồng 6 sao (old: 49) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 51xNgọc Rồng 6 sao (old: 50) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 52xNgọc Rồng 6 sao (old: 51) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 53xNgọc Rồng 6 sao (old: 52) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 54xNgọc Rồng 6 sao (old: 53) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 55xNgọc Rồng 6 sao (old: 54) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 56xNgọc Rồng 6 sao (old: 55) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 57xNgọc Rồng 6 sao (old: 56) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 58xNgọc Rồng 6 sao (old: 57) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 59xNgọc Rồng 6 sao (old: 58) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 60xNgọc Rồng 6 sao (old: 59) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 61xNgọc Rồng 6 sao (old: 60) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 62xNgọc Rồng 6 sao (old: 61) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 63xNgọc Rồng 6 sao (old: 62) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 64xNgọc Rồng 6 sao (old: 63) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 65xNgọc Rồng 6 sao (old: 64) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 66xNgọc Rồng 6 sao (old: 65) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 67xNgọc Rồng 6 sao (old: 66) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 68xNgọc Rồng 6 sao (old: 67) lydo: Nhập ngọc at 03/03/2023 5:23 AM
+BAG:ahemmem add 69xNgọc Rồng 6 sao (old: 68) lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 70xNgọc Rồng 6 sao (old: 69) lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 71xNgọc Rồng 6 sao (old: 70) lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 1xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 1xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/03/2023 5:24 AM
+BAG:ahemmem add 468xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/03/2023 5:25 AM
+BAG:ahemmem add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/03/2023 5:25 AM
+BAG:ahemmem add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/03/2023 5:25 AM
+BAG:ahemmem add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/03/2023 5:25 AM
+BAG:ahemmem add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/03/2023 5:25 AM
+BAG:ahemmem add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/03/2023 5:25 AM
+BAG:ahemmem add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/03/2023 5:25 AM
+BAG:ahemmem add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/03/2023 5:25 AM
+BAG:ahemmem add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/03/2023 5:25 AM
+BAG:ahemmem add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/03/2023 5:25 AM
+BAG:ahemmem add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 5:27 AM
+BAG:ahemmem add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 5:27 AM
+BAG:ahemmem add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 5:27 AM
+BAG:ahemmem add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 5:27 AM
+BAG:ahemmem add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 5:27 AM
+BAG:ahemmem add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 5:27 AM
+BAG:ahemmem add 10xĐậu thần cấp 8 (old: 3) lydo: Thu hoạch đậu at 03/03/2023 5:29 AM
+BAG:ahemmem add 8xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/03/2023 5:30 AM
+BAG:ahemmem add 22xĐậu thần cấp 8 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 5:30 AM
+BAG:ahemmem add 1xCải trang lydo: Lấy từ body vào hành trang at 03/03/2023 6:27 AM
+BAG:ahemmem add 97xCuồng nộ lydo: Giftcode at 03/03/2023 11:21 AM
+BAG:ahemmem add 99xCuồng nộ (old: 97) lydo: Giftcode at 03/03/2023 11:21 AM
+BAG:ahemmem add 19xNgọc Rồng 5 sao (old: 1) lydo: Admin at 03/03/2023 11:24 AM
+BAG:ahemmem add 37xNgọc Rồng 5 sao (old: 19) lydo: Admin at 03/03/2023 11:25 AM
+BAG:ahemmem add 1xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/03/2023 11:29 AM
+BAG:ahemmem add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/03/2023 11:29 AM
+BAG:ahemmem add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/03/2023 11:29 AM
+BAG:ahemmem add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/03/2023 11:29 AM
+BAG:ahemmem add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/03/2023 11:29 AM
+BAG:ahemmem add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/03/2023 11:29 AM
+BAG:ahemmem add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/03/2023 11:29 AM
+BAG:ahemmem add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/03/2023 11:29 AM
+BAG:ahemmem add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:30 AM
+BAG:ahemmem add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:30 AM
+BAG:ahemmem add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:30 AM
+BAG:ahemmem add 1xGiày bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:30 AM
+BAG:ahemmem add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:30 AM
+BAG:ahemmem add 1xGăng bạc Goku lydo: Lấy từ body vào hành trang at 03/03/2023 11:30 AM
+BAG:ahemmem add 1xCải Trang Cumber lydo: Mua từ bill at 03/03/2023 11:41 AM
+BAG:ahemmem add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 11:44 AM
+BAG:ahemmem add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 11:44 AM
+BAG:ahemmem add 1xGiày bạc Goku lydo: Lấy từ body vào hành trang at 03/03/2023 11:44 AM
+BAG:ahemmem add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/03/2023 11:44 AM
+BAG:ahemmem add 10xĐậu thần cấp 10 (old: 1) lydo: Thu hoạch đậu at 03/03/2023 11:49 AM
+BAG:ahemmem add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 11:57 AM
+BAG:ahemmem add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:06 PM
+BAG:ahemmem add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:06 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:07 PM
+BAG:ahemmem add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:07 PM
+BAG:ahemmem add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/03/2023 12:08 PM
+BAG:ahemmem add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/03/2023 12:08 PM
+BAG:ahemmem add 1xGiày bạc Goku lydo: Lấy từ body vào hành trang at 03/03/2023 12:10 PM
+BAG:ahemmem add 1xHộp bánh Trung Thu lydo: Admin at 03/03/2023 12:14 PM
+BAG:ahemmem add 41xBột mì (old: 40) lydo: Nhặt từ map at 03/03/2023 12:18 PM
+BAG:ahemmem add 42xBột mì (old: 41) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:ahemmem add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:ahemmem add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:ahemmem add 43xBột mì (old: 42) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:ahemmem add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:ahemmem add 44xBột mì (old: 43) lydo: Nhặt từ map at 03/03/2023 12:19 PM
+BAG:ahemmem add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/03/2023 12:20 PM
+BAG:ahemmem add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/03/2023 12:20 PM
+BAG:ahemmem add 1xGăng bạc Goku lydo: Lấy từ body vào hành trang at 03/03/2023 12:21 PM
+BAG:ahemmem add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:ahemmem add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:ahemmem add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/03/2023 12:23 PM
+BAG:ahemmem add 45xBột mì (old: 44) lydo: Nhặt từ map at 03/03/2023 12:24 PM
+BAG:ahemmem add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/03/2023 12:25 PM
+BAG:ahemmem add 46xBột mì (old: 45) lydo: Nhặt từ map at 03/03/2023 12:25 PM
+BAG:ahemmem add 47xBột mì (old: 46) lydo: Nhặt từ map at 03/03/2023 12:25 PM
+BAG:ahemmem add 48xBột mì (old: 47) lydo: Nhặt từ map at 03/03/2023 12:25 PM
+BAG:ahemmem add 49xBột mì (old: 48) lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:ahemmem add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/03/2023 12:27 PM
+BAG:ahemmem add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:ahemmem add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 12:32 PM
+BAG:ahemmem add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 12:32 PM
+BAG:ahemmem add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 12:32 PM
+BAG:ahemmem add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 12:32 PM
+BAG:ahemmem add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 12:32 PM
+BAG:ahemmem add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 12:32 PM
+BAG:ahemmem add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 7xNâng cấp kỹ năng 2 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 8xNâng cấp kỹ năng 2 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 9xNâng cấp kỹ năng 2 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 10xNâng cấp kỹ năng 2 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 11xNâng cấp kỹ năng 2 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 12xNâng cấp kỹ năng 2 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:ahemmem add 99xNgọc Rồng 7 sao lydo: (GD) Nhận từ top1sever at 03/03/2023 12:38 PM
+BAG:ahemmem add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/03/2023 12:38 PM
+BAG:ahemmem add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/03/2023 12:38 PM
+BAG:ahemmem add 1xGăng bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:45 PM
+BAG:ahemmem add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 12:45 PM
+BAG:ahemmem add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 12:45 PM
+BAG:ahemmem add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 12:45 PM
+BAG:ahemmem add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 12:45 PM
+BAG:ahemmem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 12:46 PM
+BAG:ahemmem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 12:46 PM
+BAG:ahemmem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 12:46 PM
+BAG:ahemmem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 12:46 PM
+BAG:ahemmem add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 12:46 PM
+BAG:ahemmem add 999994xThỏi vàng lydo: Lấy từ rương qua người at 03/03/2023 12:46 PM
+BAG:ahemmem add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:01 PM
+BAG:ahemmem add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 1:01 PM
+BAG:ahemmem add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/03/2023 1:02 PM
+BAG:ahemmem add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 1:02 PM
+BAG:ahemmem add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:30 PM
+BAG:ahemmem add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 1:30 PM
+BAG:ahemmem add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 1:30 PM
+BAG:ahemmem add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 1:30 PM
+BAG:ahemmem add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 1:30 PM
+BAG:ahemmem add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 1:30 PM
+BAG:ahemmem add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 1:30 PM
+BAG:ahemmem add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/03/2023 1:31 PM
+BAG:ahemmem add 1xGăng Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 1:31 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:54 PM
+BAG:ahemmem add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/03/2023 1:54 PM
+BAG:ahemmem add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/03/2023 1:54 PM
+BAG:ahemmem add 1xRada cấp 12 lydo: Lấy từ body vào hành trang at 03/03/2023 1:54 PM
+BAG:ahemmem add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 1:55 PM
+BAG:ahemmem add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/03/2023 1:55 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 1:55 PM
+BAG:ahemmem add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/03/2023 1:56 PM
+BAG:ahemmem add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 5:14 PM
+BAG:ahemmem add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 5:15 PM
+BAG:ahemmem add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 5:15 PM
+BAG:ahemmem add 50xBột mì (old: 49) lydo: Nhặt từ map at 03/03/2023 5:15 PM
+BAG:ahemmem add 51xBột mì (old: 50) lydo: Nhặt từ map at 03/03/2023 5:15 PM
+BAG:ahemmem add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/03/2023 5:15 PM
+BAG:ahemmem add 52xBột mì (old: 51) lydo: Nhặt từ map at 03/03/2023 5:17 PM
+BAG:ahemmem add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 5:17 PM
+BAG:ahemmem add 53xBột mì (old: 52) lydo: Nhặt từ map at 03/03/2023 5:17 PM
+BAG:ahemmem add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/03/2023 5:17 PM
+BAG:ahemmem add 54xBột mì (old: 53) lydo: Nhặt từ map at 03/03/2023 5:18 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 5:18 PM
+BAG:ahemmem add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 5:18 PM
+BAG:ahemmem add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/03/2023 5:18 PM
+BAG:ahemmem add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/03/2023 5:18 PM
+BAG:ahemmem add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/03/2023 5:18 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 5:18 PM
+BAG:ahemmem add 55xBột mì (old: 54) lydo: Nhặt từ map at 03/03/2023 5:18 PM
+BAG:ahemmem add 44xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/03/2023 5:19 PM
+BAG:ahemmem add 1xGiầy nhựa lydo: Nhặt từ map at 03/03/2023 5:19 PM
+BAG:ahemmem add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/03/2023 5:19 PM
+BAG:ahemmem add 42xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 03/03/2023 5:19 PM
+BAG:ahemmem add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/03/2023 5:19 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 5:19 PM
+BAG:ahemmem add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 03/03/2023 5:19 PM
+BAG:ahemmem add 45xĐậu xanh (old: 44) lydo: Nhặt từ map at 03/03/2023 5:19 PM
+BAG:ahemmem add 1xGiầy nhựa lydo: Nhặt từ map at 03/03/2023 5:20 PM
+BAG:ahemmem add 46xĐậu xanh (old: 45) lydo: Nhặt từ map at 03/03/2023 5:20 PM
+BAG:ahemmem add 44xGà quay nguyên con (old: 43) lydo: Nhặt từ map at 03/03/2023 5:20 PM
+BAG:ahemmem add 56xBột mì (old: 55) lydo: Nhặt từ map at 03/03/2023 5:21 PM
+BAG:ahemmem add 1xGiầy nhựa lydo: Nhặt từ map at 03/03/2023 5:21 PM
+BAG:ahemmem add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/03/2023 5:21 PM
+BAG:ahemmem add 45xGà quay nguyên con (old: 44) lydo: Nhặt từ map at 03/03/2023 5:21 PM
+BAG:ahemmem add 57xBột mì (old: 56) lydo: Nhặt từ map at 03/03/2023 5:21 PM
+BAG:ahemmem add 43xTrứng vịt muối (old: 42) lydo: Nhặt từ map at 03/03/2023 5:21 PM
+BAG:ahemmem add 46xGà quay nguyên con (old: 45) lydo: Nhặt từ map at 03/03/2023 5:21 PM
+BAG:ahemmem add 58xBột mì (old: 57) lydo: Nhặt từ map at 03/03/2023 5:21 PM
+BAG:ahemmem add 44xTrứng vịt muối (old: 43) lydo: Nhặt từ map at 03/03/2023 5:21 PM
+BAG:ahemmem add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 03/03/2023 5:22 PM
+BAG:ahemmem add 46xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 03/03/2023 5:22 PM
+BAG:ahemmem add 1xGiầy nhựa lydo: Nhặt từ map at 03/03/2023 5:22 PM
+BAG:ahemmem add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 5:46 PM
+BAG:ahemmem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 5:47 PM
+BAG:ahemmem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 5:47 PM
+BAG:ahemmem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 5:47 PM
+BAG:ahemmem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 5:47 PM
+BAG:ahemmem add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 5:47 PM
+BAG:ahemmem add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 5:47 PM
+BAG:ahemmem add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 5:47 PM
+BAG:ahemmem add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 5:47 PM
+BAG:ahemmem add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 5:47 PM
+BAG:ahemmem add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 5:47 PM
+BAG:ahemmem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 5:48 PM
+BAG:ahemmem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 5:48 PM
+BAG:ahemmem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 5:48 PM
+BAG:ahemmem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 5:48 PM
+BAG:ahemmem add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 5:48 PM
+BAG:ahemmem add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 5:53 PM
+BAG:ahemmem add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 5:53 PM
+BAG:ahemmem add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 5:53 PM
+BAG:ahemmem add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 5:53 PM
+BAG:ahemmem add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 5:53 PM
+BAG:ahemmem add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 5:53 PM
+BAG:ahemmem add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 5:53 PM
+BAG:ahemmem add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 5:53 PM
+BAG:ahemmem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 5:53 PM
+BAG:ahemmem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 5:53 PM
+BAG:ahemmem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/03/2023 5:54 PM
+BAG:ahemmem add 47xĐậu xanh (old: 46) lydo: Nhặt từ map at 03/03/2023 5:55 PM
+BAG:ahemmem add 59xBột mì (old: 58) lydo: Nhặt từ map at 03/03/2023 5:55 PM
+BAG:ahemmem add 47xGà quay nguyên con (old: 46) lydo: Nhặt từ map at 03/03/2023 5:55 PM
+BAG:ahemmem add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 5:55 PM
+BAG:ahemmem add 48xGà quay nguyên con (old: 47) lydo: Nhặt từ map at 03/03/2023 5:55 PM
+BAG:ahemmem add 1xQuần vải đen lydo: Nhặt từ map at 03/03/2023 5:55 PM
+BAG:ahemmem add 49xGà quay nguyên con (old: 48) lydo: Nhặt từ map at 03/03/2023 5:56 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 5:56 PM
+BAG:ahemmem add 60xBột mì (old: 59) lydo: Nhặt từ map at 03/03/2023 5:56 PM
+BAG:ahemmem add 47xTrứng vịt muối (old: 46) lydo: Nhặt từ map at 03/03/2023 5:56 PM
+BAG:ahemmem add 61xBột mì (old: 60) lydo: Nhặt từ map at 03/03/2023 5:56 PM
+BAG:ahemmem add 48xĐậu xanh (old: 47) lydo: Nhặt từ map at 03/03/2023 5:56 PM
+BAG:ahemmem add 1xGiầy nhựa lydo: Nhặt từ map at 03/03/2023 5:56 PM
+BAG:ahemmem add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 5:57 PM
+BAG:ahemmem add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 5:57 PM
+BAG:ahemmem add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 5:57 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 5:57 PM
+BAG:ahemmem add 49xĐậu xanh (old: 48) lydo: Nhặt từ map at 03/03/2023 5:58 PM
+BAG:ahemmem add 1xGiầy nhựa lydo: Nhặt từ map at 03/03/2023 5:58 PM
+BAG:ahemmem add 1xGăng vải đen lydo: Nhặt từ map at 03/03/2023 5:58 PM
+BAG:ahemmem add 50xĐậu xanh (old: 49) lydo: Nhặt từ map at 03/03/2023 5:58 PM
+BAG:ahemmem add 1xGăng vải đen lydo: Nhặt từ map at 03/03/2023 5:58 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 5:58 PM
+BAG:ahemmem add 51xĐậu xanh (old: 50) lydo: Nhặt từ map at 03/03/2023 5:58 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Nhặt từ map at 03/03/2023 5:59 PM
+BAG:ahemmem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 5:59 PM
+BAG:ahemmem add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 6:00 PM
+BAG:ahemmem add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 6:00 PM
+BAG:ahemmem add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 6:00 PM
+BAG:ahemmem add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 6:00 PM
+BAG:ahemmem add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 6:00 PM
+BAG:ahemmem add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/03/2023 6:00 PM
+BAG:ahemmem add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 6:00 PM
+BAG:ahemmem add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 8:47 PM
+BAG:ahemmem add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:49 PM
+BAG:ahemmem add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:49 PM
+BAG:ahemmem add 1xGiày bạc Goku lydo: Lấy từ body đệ vào hành trang at 03/03/2023 8:49 PM
+BAG:ahemmem add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/03/2023 8:49 PM
+BAG:ahemmem add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/03/2023 8:49 PM
+BAG:ahemmem add 1xGăng Thần Linh lydo: Lấy từ rương qua người at 03/03/2023 8:50 PM
+BAG:ahemmem add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/03/2023 8:50 PM
+BAG:ahemmem add 1xGiày jean Calic lydo: Lấy từ rương qua người at 03/03/2023 8:50 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 8:50 PM
+BAG:ahemmem add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/03/2023 8:50 PM
+BAG:ahemmem add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 8:50 PM
+BAG:ahemmem add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 8:50 PM
+BAG:ahemmem add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 8:50 PM
+BAG:ahemmem add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 8:50 PM
+BAG:ahemmem add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 8:50 PM
+BAG:ahemmem add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 8:50 PM
+BAG:ahemmem add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/03/2023 8:51 PM
+BAG:ahemmem add 1xQuần jean Calic lydo: Cường Hóa trang bị at 03/03/2023 8:51 PM
+BAG:ahemmem add 1xQuần Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 8:52 PM
+BAG:ahemmem add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/03/2023 8:52 PM
+BAG:ahemmem add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:04 PM
+BAG:ahemmem add 1xGăng Thiên Sứ lydo: Admin at 03/03/2023 9:08 PM
+BAG:ahemmem add 1xGăng Thiên Sứ lydo: Lấy từ body vào hành trang at 03/03/2023 9:09 PM
+BAG:ahemmem add 3xBánh trung thu thập cẩm lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 62xBột mì (old: 61) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 52xGà quay nguyên con (old: 49) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 65xBột mì (old: 62) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 3xCủ cà rốt lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 53xGà quay nguyên con (old: 52) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 69xBột mì (old: 65) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 70xBột mì (old: 69) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 50xTrứng vịt muối (old: 47) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 1xPháo hoa lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 72xBột mì (old: 70) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 51xTrứng vịt muối (old: 50) lydo: Nhặt từ map at 03/03/2023 9:19 PM
+BAG:ahemmem add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:37 PM
+BAG:ahemmem add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:37 PM
+BAG:ahemmem add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:37 PM
+BAG:ahemmem add 1xGiày Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:37 PM
+BAG:ahemmem add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:37 PM
+BAG:ahemmem add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 9:37 PM
+BAG:ahemmem add 9995xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/03/2023 9:39 PM
+BAG:ahemmem add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/03/2023 9:39 PM
+BAG:ahemmem add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/03/2023 9:43 PM
+BAG:ahemmem add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/03/2023 9:43 PM
+BAG:ahemmem add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/03/2023 9:43 PM
+BAG:ahemmem add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/03/2023 9:43 PM
+BAG:ahemmem add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/03/2023 9:43 PM
+BAG:ahemmem add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/03/2023 9:43 PM
+BAG:ahemmem add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/03/2023 9:44 PM
+BAG:ahemmem add 7xNgọc Rồng 6 sao (old: 6) lydo: CSTT at 03/03/2023 9:44 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/03/2023 9:51 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/03/2023 9:51 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 9:57 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 9:59 PM
+BAG:ahemmem add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/03/2023 10:00 PM
+BAG:ahemmem add 1xQuần Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 10:00 PM
+BAG:ahemmem add 1xGăng Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 10:00 PM
+BAG:ahemmem add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/03/2023 10:00 PM
+BAG:ahemmem add 1xCải Trang Cumber lydo: Lấy từ body vào hành trang at 03/03/2023 10:00 PM
+BAG:ahemmem add 1xGiày bạc Goku lydo: Lấy từ body vào hành trang at 03/03/2023 10:00 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 10:01 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 10:02 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:02 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/03/2023 10:02 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:05 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 10:06 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/03/2023 10:11 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 10:13 PM
+BAG:ahemmem add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 10:16 PM
+BAG:ahemmem add 1xSao pha lê lydo: Lấy từ lucky box at 03/03/2023 10:16 PM
+BAG:ahemmem add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/03/2023 10:17 PM
+BAG:ahemmem add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/03/2023 10:17 PM
+BAG:ahemmem add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/03/2023 10:17 PM
+BAG:ahemmem add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/03/2023 10:17 PM
+BAG:ahemmem add 73xBột mì (old: 72) lydo: Nhặt từ map at 03/03/2023 10:21 PM
+BAG:ahemmem add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/03/2023 10:22 PM
+BAG:ahemmem add 52xTrứng vịt muối (old: 51) lydo: Nhặt từ map at 03/03/2023 10:23 PM
+BAG:ahemmem add 74xBột mì (old: 73) lydo: Nhặt từ map at 03/03/2023 10:23 PM

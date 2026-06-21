@@ -1,0 +1,225 @@
+BAG:mouche add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/09/2023 6:00 AM
+BAG:mouche add 5xĐậu thần cấp 6 lydo: Thu hoạch đậu at 03/09/2023 6:04 AM
+BAG:mouche add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/09/2023 6:09 AM
+BAG:mouche add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/09/2023 6:10 AM
+BAG:mouche add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/09/2023 6:10 AM
+BAG:mouche add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/09/2023 6:10 AM
+BAG:mouche add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/09/2023 6:11 AM
+BAG:mouche add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/09/2023 6:13 AM
+BAG:mouche add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/09/2023 6:13 AM
+BAG:mouche add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/09/2023 6:13 AM
+BAG:mouche add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/09/2023 6:13 AM
+BAG:mouche add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/09/2023 6:13 AM
+BAG:mouche add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/09/2023 6:13 AM
+BAG:mouche add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/09/2023 6:13 AM
+BAG:mouche add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/09/2023 6:13 AM
+BAG:mouche add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/09/2023 6:13 AM
+BAG:mouche add 10xĐậu thần cấp 6 lydo: Thu hoạch đậu at 03/09/2023 6:15 AM
+BAG:mouche add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/09/2023 6:16 AM
+BAG:mouche add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/09/2023 6:16 AM
+BAG:mouche add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/09/2023 6:18 AM
+BAG:mouche add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/09/2023 6:20 AM
+BAG:mouche add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/09/2023 6:20 AM
+BAG:mouche add 1xĐá Saphia lydo: Nhặt từ map at 03/09/2023 6:36 AM
+BAG:mouche add 4xĐậu thần cấp 6 lydo: Thu hoạch đậu at 03/09/2023 6:42 AM
+BAG:mouche add 10xĐậu thần cấp 6 (old: 4) lydo: Thu hoạch đậu at 03/09/2023 6:42 AM
+BAG:mouche add 30xĐậu thần cấp 5 lydo: Mua từ cửa hàng at 03/09/2023 6:42 AM
+BAG:mouche add 60xĐậu thần cấp 5 (old: 30) lydo: Mua từ cửa hàng at 03/09/2023 6:42 AM
+BAG:mouche add 90xĐậu thần cấp 5 (old: 60) lydo: Mua từ cửa hàng at 03/09/2023 6:42 AM
+BAG:mouche add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/09/2023 6:57 AM
+BAG:mouche add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/09/2023 6:57 AM
+BAG:mouche add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/09/2023 6:57 AM
+BAG:mouche add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/09/2023 6:57 AM
+BAG:mouche add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/09/2023 6:57 AM
+BAG:mouche add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/09/2023 6:57 AM
+BAG:mouche add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/09/2023 6:57 AM
+BAG:mouche add 1xĐá lục bảo lydo: Nhặt từ map at 03/09/2023 6:58 AM
+BAG:mouche add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/09/2023 6:58 AM
+BAG:mouche add 1xGăng bạc lydo: Mua từ cửa hàng at 03/09/2023 6:59 AM
+BAG:mouche add 95xĐậu thần cấp 5 (old: 65) lydo: Mua từ cửa hàng at 03/09/2023 6:59 AM
+BAG:mouche add 26xĐậu thần cấp 5 lydo: Mua từ cửa hàng at 03/09/2023 6:59 AM
+BAG:mouche add 99xĐậu thần cấp 5 (old: 95) lydo: Mua từ cửa hàng at 03/09/2023 6:59 AM
+BAG:mouche add 56xĐậu thần cấp 5 (old: 26) lydo: Mua từ cửa hàng at 03/09/2023 6:59 AM
+BAG:mouche add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/09/2023 7:05 AM
+BAG:mouche add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/09/2023 7:12 AM
+BAG:mouche add 1xĐá Ruby lydo: Nhặt từ map at 03/09/2023 7:15 AM
+BAG:mouche add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/09/2023 7:17 AM
+BAG:mouche add 1xĐá Titan lydo: Nhặt từ map at 03/09/2023 7:17 AM
+BAG:mouche add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/09/2023 7:22 AM
+BAG:mouche add 1xGăng lông Xayda lydo: Mua từ cửa hàng at 03/09/2023 7:31 AM
+BAG:mouche add 5xPháo hoa lydo: Nhặt từ map at 03/09/2023 7:33 AM
+BAG:mouche add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/09/2023 7:35 AM
+BAG:mouche add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/09/2023 7:35 AM
+BAG:mouche add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/09/2023 7:36 AM
+BAG:mouche add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/09/2023 7:37 AM
+BAG:mouche add 50xThỏi vàng lydo: Giftcode at 03/09/2023 7:37 AM
+BAG:mouche add 10xSao pha lê lydo: Giftcode at 03/09/2023 7:37 AM
+BAG:mouche add 10xSao pha lê lydo: Giftcode at 03/09/2023 7:37 AM
+BAG:mouche add 10xSao pha lê lydo: Giftcode at 03/09/2023 7:37 AM
+BAG:mouche add 1xCải trang Hit lydo: Giftcode at 03/09/2023 7:37 AM
+BAG:mouche add 10xCuồng nộ lydo: Giftcode at 03/09/2023 7:38 AM
+BAG:mouche add 10xBổ huyết lydo: Giftcode at 03/09/2023 7:38 AM
+BAG:mouche add 10xBổ khí lydo: Giftcode at 03/09/2023 7:38 AM
+BAG:mouche add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/09/2023 7:38 AM
+BAG:mouche add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/09/2023 7:40 AM
+BAG:mouche add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/09/2023 7:40 AM
+BAG:mouche add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/09/2023 7:40 AM
+BAG:mouche add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/09/2023 7:42 AM
+BAG:mouche add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/09/2023 7:42 AM
+BAG:mouche add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/09/2023 7:44 AM
+BAG:mouche add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/09/2023 7:44 AM
+BAG:mouche add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/09/2023 7:45 AM
+BAG:mouche add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/09/2023 7:45 AM
+BAG:mouche add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/09/2023 7:46 AM
+BAG:mouche add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/09/2023 7:46 AM
+BAG:mouche add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/09/2023 7:47 AM
+BAG:mouche add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/09/2023 7:47 AM
+BAG:mouche add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/09/2023 7:47 AM
+BAG:mouche add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/09/2023 7:47 AM
+BAG:mouche add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/09/2023 7:48 AM
+BAG:mouche add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/09/2023 7:52 AM
+BAG:mouche add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/09/2023 7:53 AM
+BAG:mouche add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/09/2023 7:55 AM
+BAG:mouche add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/09/2023 7:55 AM
+BAG:mouche add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/09/2023 7:56 AM
+BAG:mouche add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/09/2023 7:56 AM
+BAG:mouche add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/09/2023 7:59 AM
+BAG:mouche add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/09/2023 8:00 AM
+BAG:mouche add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/09/2023 8:03 AM
+BAG:mouche add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/09/2023 8:06 AM
+BAG:mouche add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/09/2023 8:10 AM
+BAG:mouche add 27xĐậu thần cấp 5 lydo: Mua từ cửa hàng at 03/09/2023 8:22 AM
+BAG:mouche add 99xĐậu thần cấp 5 (old: 96) lydo: Mua từ cửa hàng at 03/09/2023 8:22 AM
+BAG:mouche add 57xĐậu thần cấp 5 (old: 27) lydo: Mua từ cửa hàng at 03/09/2023 8:22 AM
+BAG:mouche add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/09/2023 8:24 AM
+BAG:mouche add 50xPháo hoa (old: 45) lydo: Nhặt từ map at 03/09/2023 8:25 AM
+BAG:mouche add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/09/2023 8:25 AM
+BAG:mouche add 55xPháo hoa (old: 50) lydo: Nhặt từ map at 03/09/2023 8:27 AM
+BAG:mouche add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/09/2023 8:27 AM
+BAG:mouche add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/09/2023 8:27 AM
+BAG:mouche add 60xPháo hoa (old: 55) lydo: Nhặt từ map at 03/09/2023 8:28 AM
+BAG:mouche add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/09/2023 8:28 AM
+BAG:mouche add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/09/2023 8:28 AM
+BAG:mouche add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/09/2023 8:28 AM
+BAG:mouche add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/09/2023 8:28 AM
+BAG:mouche add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/09/2023 8:29 AM
+BAG:mouche add 65xPháo hoa (old: 60) lydo: Nhặt từ map at 03/09/2023 8:29 AM
+BAG:mouche add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/09/2023 8:29 AM
+BAG:mouche add 70xPháo hoa (old: 65) lydo: Nhặt từ map at 03/09/2023 8:30 AM
+BAG:mouche add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/09/2023 8:31 AM
+BAG:mouche add 75xPháo hoa (old: 70) lydo: Nhặt từ map at 03/09/2023 8:33 AM
+BAG:mouche add 80xPháo hoa (old: 75) lydo: Nhặt từ map at 03/09/2023 8:33 AM
+BAG:mouche add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/09/2023 8:34 AM
+BAG:mouche add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/09/2023 8:35 AM
+BAG:mouche add 85xPháo hoa (old: 80) lydo: Nhặt từ map at 03/09/2023 8:36 AM
+BAG:mouche add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/09/2023 8:36 AM
+BAG:mouche add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/09/2023 8:42 AM
+BAG:mouche add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/09/2023 8:43 AM
+BAG:mouche add 90xPháo hoa (old: 85) lydo: Nhặt từ map at 03/09/2023 8:48 AM
+BAG:mouche add 95xPháo hoa (old: 90) lydo: Nhặt từ map at 03/09/2023 8:49 AM
+BAG:mouche add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/09/2023 8:49 AM
+BAG:mouche add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/09/2023 8:49 AM
+BAG:mouche add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/09/2023 8:49 AM
+BAG:mouche add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/09/2023 8:50 AM
+BAG:mouche add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/09/2023 8:51 AM
+BAG:mouche add 1xPháo hoa lydo: Nhặt từ map at 03/09/2023 8:52 AM
+BAG:mouche add 99xPháo hoa (old: 95) lydo: Nhặt từ map at 03/09/2023 8:52 AM
+BAG:mouche add 6xPháo hoa (old: 1) lydo: Nhặt từ map at 03/09/2023 8:53 AM
+BAG:mouche add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/09/2023 8:54 AM
+BAG:mouche add 11xPháo hoa (old: 6) lydo: Nhặt từ map at 03/09/2023 8:55 AM
+BAG:mouche add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 03/09/2023 8:55 AM
+BAG:mouche add 1xCải trang Xuka lydo: Mua từ cửa hàng at 03/09/2023 8:55 AM
+BAG:mouche add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/09/2023 8:55 AM
+BAG:mouche add 16xPháo hoa (old: 11) lydo: Nhặt từ map at 03/09/2023 8:55 AM
+BAG:mouche add 21xPháo hoa (old: 16) lydo: Nhặt từ map at 03/09/2023 8:56 AM
+BAG:mouche add 26xPháo hoa (old: 21) lydo: Nhặt từ map at 03/09/2023 8:58 AM
+BAG:mouche add 31xPháo hoa (old: 26) lydo: Nhặt từ map at 03/09/2023 8:59 AM
+BAG:mouche add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/09/2023 9:00 AM
+BAG:mouche add 36xPháo hoa (old: 31) lydo: Nhặt từ map at 03/09/2023 9:01 AM
+BAG:mouche add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/09/2023 9:01 AM
+BAG:mouche add 41xPháo hoa (old: 36) lydo: Nhặt từ map at 03/09/2023 9:01 AM
+BAG:mouche add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/09/2023 9:02 AM
+BAG:mouche add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/09/2023 9:02 AM
+BAG:mouche add 46xPháo hoa (old: 41) lydo: Nhặt từ map at 03/09/2023 9:03 AM
+BAG:mouche add 51xPháo hoa (old: 46) lydo: Nhặt từ map at 03/09/2023 9:04 AM
+BAG:mouche add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/09/2023 9:04 AM
+BAG:mouche add 56xPháo hoa (old: 51) lydo: Nhặt từ map at 03/09/2023 9:04 AM
+BAG:mouche add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/09/2023 9:07 AM
+BAG:mouche add 61xPháo hoa (old: 56) lydo: Nhặt từ map at 03/09/2023 9:08 AM
+BAG:mouche add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/09/2023 9:12 AM
+BAG:mouche add 66xPháo hoa (old: 61) lydo: Nhặt từ map at 03/09/2023 9:15 AM
+BAG:mouche add 71xPháo hoa (old: 66) lydo: Nhặt từ map at 03/09/2023 9:15 AM
+BAG:mouche add 76xPháo hoa (old: 71) lydo: Nhặt từ map at 03/09/2023 9:16 AM
+BAG:mouche add 81xPháo hoa (old: 76) lydo: Nhặt từ map at 03/09/2023 9:17 AM
+BAG:mouche add 86xPháo hoa (old: 81) lydo: Nhặt từ map at 03/09/2023 9:17 AM
+BAG:mouche add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/09/2023 9:18 AM
+BAG:mouche add 91xPháo hoa (old: 86) lydo: Nhặt từ map at 03/09/2023 9:18 AM
+BAG:mouche add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/09/2023 9:18 AM
+BAG:mouche add 96xPháo hoa (old: 91) lydo: Nhặt từ map at 03/09/2023 9:19 AM
+BAG:mouche add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/09/2023 9:20 AM
+BAG:mouche add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/09/2023 9:21 AM
+BAG:mouche add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/09/2023 9:21 AM
+BAG:mouche add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/09/2023 9:22 AM
+BAG:mouche add 2xPháo hoa lydo: Nhặt từ map at 03/09/2023 9:22 AM
+BAG:mouche add 99xPháo hoa (old: 96) lydo: Nhặt từ map at 03/09/2023 9:22 AM
+BAG:mouche add 7xPháo hoa (old: 2) lydo: Nhặt từ map at 03/09/2023 9:23 AM
+BAG:mouche add 12xPháo hoa (old: 7) lydo: Nhặt từ map at 03/09/2023 9:23 AM
+BAG:mouche add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/09/2023 9:24 AM
+BAG:mouche add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/09/2023 9:24 AM
+BAG:mouche add 17xPháo hoa (old: 12) lydo: Nhặt từ map at 03/09/2023 9:24 AM
+BAG:mouche add 22xPháo hoa (old: 17) lydo: Nhặt từ map at 03/09/2023 9:25 AM
+BAG:mouche add 27xPháo hoa (old: 22) lydo: Nhặt từ map at 03/09/2023 9:25 AM
+BAG:mouche add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/09/2023 9:27 AM
+BAG:mouche add 32xPháo hoa (old: 27) lydo: Nhặt từ map at 03/09/2023 9:27 AM
+BAG:mouche add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/09/2023 9:27 AM
+BAG:mouche add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/09/2023 9:28 AM
+BAG:mouche add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/09/2023 9:29 AM
+BAG:mouche add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/09/2023 9:29 AM
+BAG:mouche add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/09/2023 9:30 AM
+BAG:mouche add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/09/2023 9:31 AM
+BAG:mouche add 37xPháo hoa (old: 32) lydo: Nhặt từ map at 03/09/2023 9:31 AM
+BAG:mouche add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/09/2023 9:33 AM
+BAG:mouche add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/09/2023 9:33 AM
+BAG:mouche add 42xPháo hoa (old: 37) lydo: Nhặt từ map at 03/09/2023 9:33 AM
+BAG:mouche add 47xPháo hoa (old: 42) lydo: Nhặt từ map at 03/09/2023 9:35 AM
+BAG:mouche add 52xPháo hoa (old: 47) lydo: Nhặt từ map at 03/09/2023 9:35 AM
+BAG:mouche add 57xPháo hoa (old: 52) lydo: Nhặt từ map at 03/09/2023 9:35 AM
+BAG:mouche add 62xPháo hoa (old: 57) lydo: Nhặt từ map at 03/09/2023 9:36 AM
+BAG:mouche add 67xPháo hoa (old: 62) lydo: Nhặt từ map at 03/09/2023 9:38 AM
+BAG:mouche add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/09/2023 9:38 AM
+BAG:mouche add 72xPháo hoa (old: 67) lydo: Nhặt từ map at 03/09/2023 9:42 AM
+BAG:mouche add 77xPháo hoa (old: 72) lydo: Nhặt từ map at 03/09/2023 9:43 AM
+BAG:mouche add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/09/2023 9:48 AM
+BAG:mouche add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/09/2023 10:29 AM
+BAG:mouche add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/09/2023 10:29 AM
+BAG:mouche add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/09/2023 10:29 AM
+BAG:mouche add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/09/2023 10:29 AM
+BAG:mouche add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/09/2023 10:29 AM
+BAG:mouche add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 03/09/2023 10:29 AM
+BAG:mouche add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 03/09/2023 10:29 AM
+BAG:mouche add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 03/09/2023 10:29 AM
+BAG:mouche add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 03/09/2023 10:29 AM
+BAG:mouche add 1xSách Antomic lv5 lydo: Mua từ cửa hàng at 03/09/2023 10:29 AM
+BAG:mouche add 1xSách Antomic lv6 lydo: Mua từ cửa hàng at 03/09/2023 10:30 AM
+BAG:mouche add 1xSách Antomic lv7 lydo: Mua từ cửa hàng at 03/09/2023 10:30 AM
+BAG:mouche add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/09/2023 10:30 AM
+BAG:mouche add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/09/2023 12:11 PM
+BAG:mouche add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 03/09/2023 12:11 PM
+BAG:mouche add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/09/2023 12:12 PM
+BAG:mouche add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/09/2023 12:13 PM
+BAG:mouche add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 03/09/2023 12:13 PM
+BAG:mouche add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 03/09/2023 12:13 PM
+BAG:mouche add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 03/09/2023 12:13 PM
+BAG:mouche add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 03/09/2023 12:13 PM
+BAG:mouche add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 03/09/2023 12:13 PM

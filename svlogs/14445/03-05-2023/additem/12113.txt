@@ -1,0 +1,467 @@
+BAG:galick add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/05/2023 12:02 AM
+BAG:galick add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/05/2023 12:02 AM
+BAG:galick add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/05/2023 12:02 AM
+BAG:galick add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/05/2023 12:02 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 12:06 AM
+BAG:galick add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 12:15 AM
+BAG:galick add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 12:15 AM
+BAG:galick add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 12:15 AM
+BAG:galick add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 12:15 AM
+BAG:galick add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 12:15 AM
+BAG:galick add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 12:15 AM
+BAG:galick add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 12:15 AM
+BAG:galick add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 12:15 AM
+BAG:galick add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 12:15 AM
+BAG:galick add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 12:16 AM
+BAG:galick add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 12:16 AM
+BAG:galick add 7xNâng cấp kỹ năng 3 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/05/2023 12:16 AM
+BAG:galick add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 12:18 AM
+BAG:galick add 1xĐá Titan lydo: Nhặt từ map at 03/05/2023 8:51 AM
+BAG:galick add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 8:52 AM
+BAG:galick add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 8:52 AM
+BAG:galick add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/05/2023 8:52 AM
+BAG:galick add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/05/2023 8:53 AM
+BAG:galick add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 8:53 AM
+BAG:galick add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/05/2023 8:53 AM
+BAG:galick add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/05/2023 8:53 AM
+BAG:galick add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/05/2023 8:53 AM
+BAG:galick add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/05/2023 8:53 AM
+BAG:galick add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 8:53 AM
+BAG:galick add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/05/2023 8:53 AM
+BAG:galick add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/05/2023 8:54 AM
+BAG:galick add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/05/2023 8:54 AM
+BAG:galick add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/05/2023 8:54 AM
+BAG:galick add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/05/2023 8:54 AM
+BAG:galick add 1xBột mì lydo: Nhặt từ map at 03/05/2023 8:54 AM
+BAG:galick add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/05/2023 8:55 AM
+BAG:galick add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/05/2023 8:55 AM
+BAG:galick add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/05/2023 8:55 AM
+BAG:galick add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/05/2023 8:55 AM
+BAG:galick add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/05/2023 8:55 AM
+BAG:galick add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/05/2023 8:56 AM
+BAG:galick add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/05/2023 8:56 AM
+BAG:galick add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/05/2023 8:56 AM
+BAG:galick add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/05/2023 8:56 AM
+BAG:galick add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/05/2023 8:56 AM
+BAG:galick add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/05/2023 8:56 AM
+BAG:galick add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/05/2023 8:56 AM
+BAG:galick add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/05/2023 8:56 AM
+BAG:galick add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/05/2023 8:57 AM
+BAG:galick add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/05/2023 8:57 AM
+BAG:galick add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/05/2023 8:57 AM
+BAG:galick add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/05/2023 8:57 AM
+BAG:galick add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/05/2023 8:57 AM
+BAG:galick add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/05/2023 8:58 AM
+BAG:galick add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/05/2023 8:58 AM
+BAG:galick add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/05/2023 8:58 AM
+BAG:galick add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/05/2023 8:58 AM
+BAG:galick add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/05/2023 8:59 AM
+BAG:galick add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/05/2023 8:59 AM
+BAG:galick add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/05/2023 8:59 AM
+BAG:galick add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/05/2023 8:59 AM
+BAG:galick add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/05/2023 8:59 AM
+BAG:galick add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/05/2023 8:59 AM
+BAG:galick add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/05/2023 9:00 AM
+BAG:galick add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/05/2023 9:00 AM
+BAG:galick add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/05/2023 9:00 AM
+BAG:galick add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/05/2023 9:00 AM
+BAG:galick add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/05/2023 9:00 AM
+BAG:galick add 1xĐá Saphia lydo: Nhặt từ map at 03/05/2023 9:00 AM
+BAG:galick add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/05/2023 9:00 AM
+BAG:galick add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/05/2023 9:01 AM
+BAG:galick add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/05/2023 9:01 AM
+BAG:galick add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/05/2023 9:02 AM
+BAG:galick add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/05/2023 9:02 AM
+BAG:galick add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/05/2023 9:02 AM
+BAG:galick add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/05/2023 9:02 AM
+BAG:galick add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/05/2023 9:02 AM
+BAG:galick add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/05/2023 9:03 AM
+BAG:galick add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/05/2023 9:04 AM
+BAG:galick add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/05/2023 9:04 AM
+BAG:galick add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/05/2023 9:05 AM
+BAG:galick add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/05/2023 9:05 AM
+BAG:galick add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/05/2023 9:05 AM
+BAG:galick add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/05/2023 9:05 AM
+BAG:galick add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/05/2023 9:05 AM
+BAG:galick add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/05/2023 9:06 AM
+BAG:galick add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/05/2023 9:06 AM
+BAG:galick add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/05/2023 9:06 AM
+BAG:galick add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/05/2023 9:06 AM
+BAG:galick add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/05/2023 9:06 AM
+BAG:galick add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/05/2023 9:06 AM
+BAG:galick add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/05/2023 9:06 AM
+BAG:galick add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/05/2023 9:07 AM
+BAG:galick add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/05/2023 9:08 AM
+BAG:galick add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/05/2023 9:08 AM
+BAG:galick add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/05/2023 9:08 AM
+BAG:galick add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/05/2023 9:08 AM
+BAG:galick add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/05/2023 9:09 AM
+BAG:galick add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/05/2023 9:09 AM
+BAG:galick add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/05/2023 9:10 AM
+BAG:galick add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/05/2023 9:10 AM
+BAG:galick add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/05/2023 9:10 AM
+BAG:galick add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/05/2023 9:10 AM
+BAG:galick add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/05/2023 9:10 AM
+BAG:galick add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/05/2023 9:10 AM
+BAG:galick add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/05/2023 9:11 AM
+BAG:galick add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/05/2023 9:11 AM
+BAG:galick add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/05/2023 9:11 AM
+BAG:galick add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/05/2023 9:12 AM
+BAG:galick add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/05/2023 9:12 AM
+BAG:galick add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/05/2023 9:12 AM
+BAG:galick add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/05/2023 9:12 AM
+BAG:galick add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/05/2023 9:12 AM
+BAG:galick add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/05/2023 9:12 AM
+BAG:galick add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/05/2023 9:12 AM
+BAG:galick add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/05/2023 9:13 AM
+BAG:galick add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/05/2023 9:13 AM
+BAG:galick add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/05/2023 9:13 AM
+BAG:galick add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/05/2023 9:13 AM
+BAG:galick add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/05/2023 9:13 AM
+BAG:galick add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/05/2023 9:13 AM
+BAG:galick add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/05/2023 9:13 AM
+BAG:galick add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/05/2023 9:13 AM
+BAG:galick add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/05/2023 9:14 AM
+BAG:galick add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/05/2023 9:14 AM
+BAG:galick add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/05/2023 9:14 AM
+BAG:galick add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/05/2023 9:14 AM
+BAG:galick add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/05/2023 9:14 AM
+BAG:galick add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/05/2023 9:14 AM
+BAG:galick add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/05/2023 9:15 AM
+BAG:galick add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/05/2023 9:15 AM
+BAG:galick add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/05/2023 9:15 AM
+BAG:galick add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/05/2023 9:15 AM
+BAG:galick add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/05/2023 9:16 AM
+BAG:galick add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/05/2023 9:16 AM
+BAG:galick add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/05/2023 9:16 AM
+BAG:galick add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/05/2023 9:16 AM
+BAG:galick add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/05/2023 9:17 AM
+BAG:galick add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/05/2023 9:17 AM
+BAG:galick add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/05/2023 9:17 AM
+BAG:galick add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/05/2023 9:17 AM
+BAG:galick add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/05/2023 9:17 AM
+BAG:galick add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/05/2023 9:17 AM
+BAG:galick add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/05/2023 9:17 AM
+BAG:galick add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/05/2023 9:17 AM
+BAG:galick add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/05/2023 9:18 AM
+BAG:galick add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/05/2023 9:18 AM
+BAG:galick add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/05/2023 9:18 AM
+BAG:galick add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/05/2023 9:18 AM
+BAG:galick add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/05/2023 9:19 AM
+BAG:galick add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/05/2023 9:19 AM
+BAG:galick add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/05/2023 9:19 AM
+BAG:galick add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/05/2023 9:19 AM
+BAG:galick add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/05/2023 9:19 AM
+BAG:galick add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/05/2023 9:19 AM
+BAG:galick add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/05/2023 9:20 AM
+BAG:galick add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/05/2023 9:23 AM
+BAG:galick add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/05/2023 9:23 AM
+BAG:galick add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/05/2023 9:23 AM
+BAG:galick add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/05/2023 9:24 AM
+BAG:galick add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/05/2023 9:24 AM
+BAG:galick add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/05/2023 9:24 AM
+BAG:galick add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 9:24 AM
+BAG:galick add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 9:24 AM
+BAG:galick add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/05/2023 9:24 AM
+BAG:galick add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 9:24 AM
+BAG:galick add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 9:24 AM
+BAG:galick add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 9:24 AM
+BAG:galick add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/05/2023 9:24 AM
+BAG:galick add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 9:24 AM
+BAG:galick add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/05/2023 9:24 AM
+BAG:galick add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/05/2023 9:24 AM
+BAG:galick add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/05/2023 9:24 AM
+BAG:galick add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/05/2023 9:24 AM
+BAG:galick add 39xBột mì (old: 38) lydo: Nhặt từ map at 03/05/2023 9:25 AM
+BAG:galick add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/05/2023 9:25 AM
+BAG:galick add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/05/2023 9:25 AM
+BAG:galick add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/05/2023 9:25 AM
+BAG:galick add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/05/2023 9:25 AM
+BAG:galick add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/05/2023 9:25 AM
+BAG:galick add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/05/2023 9:30 AM
+BAG:galick add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/05/2023 9:30 AM
+BAG:galick add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/05/2023 9:30 AM
+BAG:galick add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/05/2023 9:32 AM
+BAG:galick add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/05/2023 9:36 AM
+BAG:galick add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/05/2023 9:36 AM
+BAG:galick add 40xBột mì (old: 39) lydo: Nhặt từ map at 03/05/2023 9:36 AM
+BAG:galick add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/05/2023 9:36 AM
+BAG:galick add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/05/2023 9:37 AM
+BAG:galick add 41xBột mì (old: 40) lydo: Nhặt từ map at 03/05/2023 9:37 AM
+BAG:galick add 42xBột mì (old: 41) lydo: Nhặt từ map at 03/05/2023 9:37 AM
+BAG:galick add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/05/2023 9:37 AM
+BAG:galick add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/05/2023 9:37 AM
+BAG:galick add 43xBột mì (old: 42) lydo: Nhặt từ map at 03/05/2023 9:37 AM
+BAG:galick add 44xBột mì (old: 43) lydo: Nhặt từ map at 03/05/2023 9:38 AM
+BAG:galick add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/05/2023 9:38 AM
+BAG:galick add 42xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 03/05/2023 9:38 AM
+BAG:galick add 43xTrứng vịt muối (old: 42) lydo: Nhặt từ map at 03/05/2023 9:38 AM
+BAG:galick add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/05/2023 9:38 AM
+BAG:galick add 44xTrứng vịt muối (old: 43) lydo: Nhặt từ map at 03/05/2023 9:38 AM
+BAG:galick add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/05/2023 9:38 AM
+BAG:galick add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 03/05/2023 9:38 AM
+BAG:galick add 45xBột mì (old: 44) lydo: Nhặt từ map at 03/05/2023 9:39 AM
+BAG:galick add 1xMèo mun lydo: Mua từ bill at 03/05/2023 9:40 AM
+BAG:galick add 46xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 03/05/2023 9:40 AM
+BAG:galick add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 03/05/2023 9:40 AM
+BAG:galick add 46xBột mì (old: 45) lydo: Nhặt từ map at 03/05/2023 9:41 AM
+BAG:galick add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/05/2023 9:41 AM
+BAG:galick add 44xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/05/2023 9:42 AM
+BAG:galick add 44xGà quay nguyên con (old: 43) lydo: Nhặt từ map at 03/05/2023 9:42 AM
+BAG:galick add 47xTrứng vịt muối (old: 46) lydo: Nhặt từ map at 03/05/2023 9:42 AM
+BAG:galick add 45xGà quay nguyên con (old: 44) lydo: Nhặt từ map at 03/05/2023 9:42 AM
+BAG:galick add 46xGà quay nguyên con (old: 45) lydo: Nhặt từ map at 03/05/2023 9:42 AM
+BAG:galick add 48xTrứng vịt muối (old: 47) lydo: Nhặt từ map at 03/05/2023 9:43 AM
+BAG:galick add 45xĐậu xanh (old: 44) lydo: Nhặt từ map at 03/05/2023 9:43 AM
+BAG:galick add 49xTrứng vịt muối (old: 48) lydo: Nhặt từ map at 03/05/2023 9:43 AM
+BAG:galick add 47xGà quay nguyên con (old: 46) lydo: Nhặt từ map at 03/05/2023 9:44 AM
+BAG:galick add 50xTrứng vịt muối (old: 49) lydo: Nhặt từ map at 03/05/2023 9:44 AM
+BAG:galick add 46xĐậu xanh (old: 45) lydo: Nhặt từ map at 03/05/2023 9:44 AM
+BAG:galick add 47xĐậu xanh (old: 46) lydo: Nhặt từ map at 03/05/2023 9:44 AM
+BAG:galick add 51xTrứng vịt muối (old: 50) lydo: Nhặt từ map at 03/05/2023 9:44 AM
+BAG:galick add 48xĐậu xanh (old: 47) lydo: Nhặt từ map at 03/05/2023 9:44 AM
+BAG:galick add 48xGà quay nguyên con (old: 47) lydo: Nhặt từ map at 03/05/2023 9:45 AM
+BAG:galick add 49xGà quay nguyên con (old: 48) lydo: Nhặt từ map at 03/05/2023 9:45 AM
+BAG:galick add 49xĐậu xanh (old: 48) lydo: Nhặt từ map at 03/05/2023 9:45 AM
+BAG:galick add 52xTrứng vịt muối (old: 51) lydo: Nhặt từ map at 03/05/2023 9:46 AM
+BAG:galick add 50xĐậu xanh (old: 49) lydo: Nhặt từ map at 03/05/2023 9:46 AM
+BAG:galick add 50xGà quay nguyên con (old: 49) lydo: Nhặt từ map at 03/05/2023 9:46 AM
+BAG:galick add 51xGà quay nguyên con (old: 50) lydo: Nhặt từ map at 03/05/2023 9:46 AM
+BAG:galick add 47xBột mì (old: 46) lydo: Nhặt từ map at 03/05/2023 9:46 AM
+BAG:galick add 52xGà quay nguyên con (old: 51) lydo: Nhặt từ map at 03/05/2023 9:47 AM
+BAG:galick add 48xBột mì (old: 47) lydo: Nhặt từ map at 03/05/2023 9:47 AM
+BAG:galick add 53xGà quay nguyên con (old: 52) lydo: Nhặt từ map at 03/05/2023 9:48 AM
+BAG:galick add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/05/2023 9:48 AM
+BAG:galick add 53xTrứng vịt muối (old: 52) lydo: Nhặt từ map at 03/05/2023 9:48 AM
+BAG:galick add 51xĐậu xanh (old: 50) lydo: Nhặt từ map at 03/05/2023 9:50 AM
+BAG:galick add 54xTrứng vịt muối (old: 53) lydo: Nhặt từ map at 03/05/2023 9:50 AM
+BAG:galick add 52xĐậu xanh (old: 51) lydo: Nhặt từ map at 03/05/2023 9:50 AM
+BAG:galick add 55xTrứng vịt muối (old: 54) lydo: Nhặt từ map at 03/05/2023 9:50 AM
+BAG:galick add 53xĐậu xanh (old: 52) lydo: Nhặt từ map at 03/05/2023 9:50 AM
+BAG:galick add 49xBột mì (old: 48) lydo: Nhặt từ map at 03/05/2023 9:51 AM
+BAG:galick add 54xGà quay nguyên con (old: 53) lydo: Nhặt từ map at 03/05/2023 9:51 AM
+BAG:galick add 50xBột mì (old: 49) lydo: Nhặt từ map at 03/05/2023 9:51 AM
+BAG:galick add 55xGà quay nguyên con (old: 54) lydo: Nhặt từ map at 03/05/2023 9:51 AM
+BAG:galick add 51xBột mì (old: 50) lydo: Nhặt từ map at 03/05/2023 9:52 AM
+BAG:galick add 56xGà quay nguyên con (old: 55) lydo: Nhặt từ map at 03/05/2023 9:52 AM
+BAG:galick add 57xGà quay nguyên con (old: 56) lydo: Nhặt từ map at 03/05/2023 9:52 AM
+BAG:galick add 54xĐậu xanh (old: 53) lydo: Nhặt từ map at 03/05/2023 9:52 AM
+BAG:galick add 55xĐậu xanh (old: 54) lydo: Nhặt từ map at 03/05/2023 9:52 AM
+BAG:galick add 56xTrứng vịt muối (old: 55) lydo: Nhặt từ map at 03/05/2023 9:52 AM
+BAG:galick add 57xTrứng vịt muối (old: 56) lydo: Nhặt từ map at 03/05/2023 9:52 AM
+BAG:galick add 52xBột mì (old: 51) lydo: Nhặt từ map at 03/05/2023 9:53 AM
+BAG:galick add 56xĐậu xanh (old: 55) lydo: Nhặt từ map at 03/05/2023 9:53 AM
+BAG:galick add 57xĐậu xanh (old: 56) lydo: Nhặt từ map at 03/05/2023 9:54 AM
+BAG:galick add 58xĐậu xanh (old: 57) lydo: Nhặt từ map at 03/05/2023 9:54 AM
+BAG:galick add 58xGà quay nguyên con (old: 57) lydo: Nhặt từ map at 03/05/2023 9:54 AM
+BAG:galick add 59xĐậu xanh (old: 58) lydo: Nhặt từ map at 03/05/2023 9:54 AM
+BAG:galick add 53xBột mì (old: 52) lydo: Nhặt từ map at 03/05/2023 9:54 AM
+BAG:galick add 59xGà quay nguyên con (old: 58) lydo: Nhặt từ map at 03/05/2023 9:54 AM
+BAG:galick add 60xGà quay nguyên con (old: 59) lydo: Nhặt từ map at 03/05/2023 9:54 AM
+BAG:galick add 61xGà quay nguyên con (old: 60) lydo: Nhặt từ map at 03/05/2023 9:55 AM
+BAG:galick add 58xTrứng vịt muối (old: 57) lydo: Nhặt từ map at 03/05/2023 9:55 AM
+BAG:galick add 62xGà quay nguyên con (old: 61) lydo: Nhặt từ map at 03/05/2023 9:55 AM
+BAG:galick add 59xTrứng vịt muối (old: 58) lydo: Nhặt từ map at 03/05/2023 9:55 AM
+BAG:galick add 54xBột mì (old: 53) lydo: Nhặt từ map at 03/05/2023 9:55 AM
+BAG:galick add 63xGà quay nguyên con (old: 62) lydo: Nhặt từ map at 03/05/2023 9:55 AM
+BAG:galick add 60xĐậu xanh (old: 59) lydo: Nhặt từ map at 03/05/2023 9:55 AM
+BAG:galick add 64xGà quay nguyên con (old: 63) lydo: Nhặt từ map at 03/05/2023 9:55 AM
+BAG:galick add 55xBột mì (old: 54) lydo: Nhặt từ map at 03/05/2023 9:56 AM
+BAG:galick add 61xĐậu xanh (old: 60) lydo: Nhặt từ map at 03/05/2023 9:56 AM
+BAG:galick add 62xĐậu xanh (old: 61) lydo: Nhặt từ map at 03/05/2023 9:56 AM
+BAG:galick add 56xBột mì (old: 55) lydo: Nhặt từ map at 03/05/2023 9:56 AM
+BAG:galick add 65xGà quay nguyên con (old: 64) lydo: Nhặt từ map at 03/05/2023 9:57 AM
+BAG:galick add 57xBột mì (old: 56) lydo: Nhặt từ map at 03/05/2023 9:57 AM
+BAG:galick add 66xGà quay nguyên con (old: 65) lydo: Nhặt từ map at 03/05/2023 9:57 AM
+BAG:galick add 60xTrứng vịt muối (old: 59) lydo: Nhặt từ map at 03/05/2023 9:58 AM
+BAG:galick add 63xĐậu xanh (old: 62) lydo: Nhặt từ map at 03/05/2023 9:58 AM
+BAG:galick add 67xGà quay nguyên con (old: 66) lydo: Nhặt từ map at 03/05/2023 9:58 AM
+BAG:galick add 68xGà quay nguyên con (old: 67) lydo: Nhặt từ map at 03/05/2023 9:59 AM
+BAG:galick add 58xBột mì (old: 57) lydo: Nhặt từ map at 03/05/2023 9:59 AM
+BAG:galick add 69xGà quay nguyên con (old: 68) lydo: Nhặt từ map at 03/05/2023 9:59 AM
+BAG:galick add 59xBột mì (old: 58) lydo: Nhặt từ map at 03/05/2023 9:59 AM
+BAG:galick add 60xBột mì (old: 59) lydo: Nhặt từ map at 03/05/2023 10:00 AM
+BAG:galick add 70xGà quay nguyên con (old: 69) lydo: Nhặt từ map at 03/05/2023 10:00 AM
+BAG:galick add 64xĐậu xanh (old: 63) lydo: Nhặt từ map at 03/05/2023 10:00 AM
+BAG:galick add 65xĐậu xanh (old: 64) lydo: Nhặt từ map at 03/05/2023 10:01 AM
+BAG:galick add 61xBột mì (old: 60) lydo: Nhặt từ map at 03/05/2023 10:01 AM
+BAG:galick add 61xTrứng vịt muối (old: 60) lydo: Nhặt từ map at 03/05/2023 10:01 AM
+BAG:galick add 66xĐậu xanh (old: 65) lydo: Nhặt từ map at 03/05/2023 10:01 AM
+BAG:galick add 62xTrứng vịt muối (old: 61) lydo: Nhặt từ map at 03/05/2023 10:01 AM
+BAG:galick add 63xTrứng vịt muối (old: 62) lydo: Nhặt từ map at 03/05/2023 10:01 AM
+BAG:galick add 71xGà quay nguyên con (old: 70) lydo: Nhặt từ map at 03/05/2023 10:01 AM
+BAG:galick add 64xTrứng vịt muối (old: 63) lydo: Nhặt từ map at 03/05/2023 10:02 AM
+BAG:galick add 62xBột mì (old: 61) lydo: Nhặt từ map at 03/05/2023 10:02 AM
+BAG:galick add 67xĐậu xanh (old: 66) lydo: Nhặt từ map at 03/05/2023 10:02 AM
+BAG:galick add 63xBột mì (old: 62) lydo: Nhặt từ map at 03/05/2023 10:02 AM
+BAG:galick add 72xGà quay nguyên con (old: 71) lydo: Nhặt từ map at 03/05/2023 10:03 AM
+BAG:galick add 68xĐậu xanh (old: 67) lydo: Nhặt từ map at 03/05/2023 10:03 AM
+BAG:galick add 69xĐậu xanh (old: 68) lydo: Nhặt từ map at 03/05/2023 10:03 AM
+BAG:galick add 65xTrứng vịt muối (old: 64) lydo: Nhặt từ map at 03/05/2023 10:03 AM
+BAG:galick add 66xTrứng vịt muối (old: 65) lydo: Nhặt từ map at 03/05/2023 10:03 AM
+BAG:galick add 73xGà quay nguyên con (old: 72) lydo: Nhặt từ map at 03/05/2023 10:03 AM
+BAG:galick add 74xGà quay nguyên con (old: 73) lydo: Nhặt từ map at 03/05/2023 10:03 AM
+BAG:galick add 70xĐậu xanh (old: 69) lydo: Nhặt từ map at 03/05/2023 10:04 AM
+BAG:galick add 67xTrứng vịt muối (old: 66) lydo: Nhặt từ map at 03/05/2023 10:04 AM
+BAG:galick add 64xBột mì (old: 63) lydo: Nhặt từ map at 03/05/2023 10:04 AM
+BAG:galick add 75xGà quay nguyên con (old: 74) lydo: Nhặt từ map at 03/05/2023 10:04 AM
+BAG:galick add 71xĐậu xanh (old: 70) lydo: Nhặt từ map at 03/05/2023 10:04 AM
+BAG:galick add 76xGà quay nguyên con (old: 75) lydo: Nhặt từ map at 03/05/2023 10:05 AM
+BAG:galick add 72xĐậu xanh (old: 71) lydo: Nhặt từ map at 03/05/2023 10:05 AM
+BAG:galick add 77xGà quay nguyên con (old: 76) lydo: Nhặt từ map at 03/05/2023 10:06 AM
+BAG:galick add 73xĐậu xanh (old: 72) lydo: Nhặt từ map at 03/05/2023 10:06 AM
+BAG:galick add 74xĐậu xanh (old: 73) lydo: Nhặt từ map at 03/05/2023 10:06 AM
+BAG:galick add 78xGà quay nguyên con (old: 77) lydo: Nhặt từ map at 03/05/2023 10:07 AM
+BAG:galick add 79xGà quay nguyên con (old: 78) lydo: Nhặt từ map at 03/05/2023 10:07 AM
+BAG:galick add 75xĐậu xanh (old: 74) lydo: Nhặt từ map at 03/05/2023 10:07 AM
+BAG:galick add 65xBột mì (old: 64) lydo: Nhặt từ map at 03/05/2023 10:07 AM
+BAG:galick add 76xĐậu xanh (old: 75) lydo: Nhặt từ map at 03/05/2023 10:07 AM
+BAG:galick add 68xTrứng vịt muối (old: 67) lydo: Nhặt từ map at 03/05/2023 10:08 AM
+BAG:galick add 77xĐậu xanh (old: 76) lydo: Nhặt từ map at 03/05/2023 10:09 AM
+BAG:galick add 80xGà quay nguyên con (old: 79) lydo: Nhặt từ map at 03/05/2023 10:10 AM
+BAG:galick add 69xTrứng vịt muối (old: 68) lydo: Nhặt từ map at 03/05/2023 10:11 AM
+BAG:galick add 81xGà quay nguyên con (old: 80) lydo: Nhặt từ map at 03/05/2023 10:12 AM
+BAG:galick add 70xTrứng vịt muối (old: 69) lydo: Nhặt từ map at 03/05/2023 10:12 AM
+BAG:galick add 66xBột mì (old: 65) lydo: Nhặt từ map at 03/05/2023 10:12 AM
+BAG:galick add 71xTrứng vịt muối (old: 70) lydo: Nhặt từ map at 03/05/2023 10:13 AM
+BAG:galick add 72xTrứng vịt muối (old: 71) lydo: Nhặt từ map at 03/05/2023 10:14 AM
+BAG:galick add 73xTrứng vịt muối (old: 72) lydo: Nhặt từ map at 03/05/2023 10:14 AM
+BAG:galick add 67xBột mì (old: 66) lydo: Nhặt từ map at 03/05/2023 10:15 AM
+BAG:galick add 82xGà quay nguyên con (old: 81) lydo: Nhặt từ map at 03/05/2023 10:15 AM
+BAG:galick add 68xBột mì (old: 67) lydo: Nhặt từ map at 03/05/2023 10:17 AM
+BAG:galick add 83xGà quay nguyên con (old: 82) lydo: Nhặt từ map at 03/05/2023 10:18 AM
+BAG:galick add 84xGà quay nguyên con (old: 83) lydo: Nhặt từ map at 03/05/2023 10:19 AM
+BAG:galick add 74xTrứng vịt muối (old: 73) lydo: Nhặt từ map at 03/05/2023 10:19 AM
+BAG:galick add 78xĐậu xanh (old: 77) lydo: Nhặt từ map at 03/05/2023 10:19 AM
+BAG:galick add 85xGà quay nguyên con (old: 84) lydo: Nhặt từ map at 03/05/2023 10:20 AM
+BAG:galick add 79xĐậu xanh (old: 78) lydo: Nhặt từ map at 03/05/2023 10:20 AM
+BAG:galick add 69xBột mì (old: 68) lydo: Nhặt từ map at 03/05/2023 10:21 AM
+BAG:galick add 80xĐậu xanh (old: 79) lydo: Nhặt từ map at 03/05/2023 10:22 AM
+BAG:galick add 81xĐậu xanh (old: 80) lydo: Nhặt từ map at 03/05/2023 10:24 AM
+BAG:galick add 82xĐậu xanh (old: 81) lydo: Nhặt từ map at 03/05/2023 10:26 AM
+BAG:galick add 75xTrứng vịt muối (old: 74) lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:galick add 83xĐậu xanh (old: 82) lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:galick add 76xTrứng vịt muối (old: 75) lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:galick add 77xTrứng vịt muối (old: 76) lydo: Nhặt từ map at 03/05/2023 10:28 AM
+BAG:galick add 86xGà quay nguyên con (old: 85) lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:galick add 87xGà quay nguyên con (old: 86) lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:galick add 70xBột mì (old: 69) lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:galick add 88xGà quay nguyên con (old: 87) lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:galick add 71xBột mì (old: 70) lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:galick add 72xBột mì (old: 71) lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:galick add 73xBột mì (old: 72) lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:galick add 89xGà quay nguyên con (old: 88) lydo: Nhặt từ map at 03/05/2023 10:34 AM
+BAG:galick add 78xTrứng vịt muối (old: 77) lydo: Nhặt từ map at 03/05/2023 10:34 AM
+BAG:galick add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 10:34 AM
+BAG:galick add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 10:34 AM
+BAG:galick add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 10:34 AM
+BAG:galick add 90xGà quay nguyên con (old: 89) lydo: Nhặt từ map at 03/05/2023 10:35 AM
+BAG:galick add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 10:35 AM
+BAG:galick add 1xGăng vải thô lydo: Nhặt từ map at 03/05/2023 10:35 AM
+BAG:galick add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 10:35 AM
+BAG:galick add 79xTrứng vịt muối (old: 78) lydo: Nhặt từ map at 03/05/2023 10:35 AM
+BAG:galick add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 10:36 AM
+BAG:galick add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 10:36 AM
+BAG:galick add 80xTrứng vịt muối (old: 79) lydo: Nhặt từ map at 03/05/2023 10:36 AM
+BAG:galick add 81xTrứng vịt muối (old: 80) lydo: Nhặt từ map at 03/05/2023 10:36 AM
+BAG:galick add 84xĐậu xanh (old: 83) lydo: Nhặt từ map at 03/05/2023 10:36 AM
+BAG:galick add 74xBột mì (old: 73) lydo: Nhặt từ map at 03/05/2023 10:36 AM
+BAG:galick add 91xGà quay nguyên con (old: 90) lydo: Nhặt từ map at 03/05/2023 10:36 AM
+BAG:galick add 85xĐậu xanh (old: 84) lydo: Nhặt từ map at 03/05/2023 10:37 AM
+BAG:galick add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 10:38 AM
+BAG:galick add 75xBột mì (old: 74) lydo: Nhặt từ map at 03/05/2023 10:38 AM
+BAG:galick add 1xGiầy vải thô lydo: Nhặt từ map at 03/05/2023 10:38 AM
+BAG:galick add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 10:38 AM
+BAG:galick add 92xGà quay nguyên con (old: 91) lydo: Nhặt từ map at 03/05/2023 10:38 AM
+BAG:galick add 82xTrứng vịt muối (old: 81) lydo: Nhặt từ map at 03/05/2023 10:38 AM
+BAG:galick add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 10:38 AM
+BAG:galick add 1xQuần vải thô lydo: Nhặt từ map at 03/05/2023 10:38 AM
+BAG:galick add 93xGà quay nguyên con (old: 92) lydo: Nhặt từ map at 03/05/2023 10:38 AM
+BAG:galick add 94xGà quay nguyên con (old: 93) lydo: Nhặt từ map at 03/05/2023 10:39 AM
+BAG:galick add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/05/2023 10:39 AM
+BAG:galick add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 10:39 AM
+BAG:galick add 1xRada cấp 1 lydo: Nhặt từ map at 03/05/2023 10:39 AM
+BAG:galick add 76xBột mì (old: 75) lydo: Nhặt từ map at 03/05/2023 10:39 AM
+BAG:galick add 1xÁo vải thô lydo: Nhặt từ map at 03/05/2023 10:39 AM
+BAG:galick add 86xĐậu xanh (old: 85) lydo: Nhặt từ map at 03/05/2023 10:39 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 10:43 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 10:58 AM
+BAG:galick add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:02 AM
+BAG:galick add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:02 AM
+BAG:galick add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:02 AM
+BAG:galick add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:02 AM
+BAG:galick add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:02 AM
+BAG:galick add 1xCải Trang Thần Zeno lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:02 AM
+BAG:galick add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:02 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:04 AM
+BAG:galick add 2xBánh trung thu thập cẩm lydo: Nhặt từ map at 03/05/2023 11:09 AM
+BAG:galick add 5xBánh trung thu thập cẩm (old: 2) lydo: Nhặt từ map at 03/05/2023 11:09 AM
+BAG:galick add 1xNgọc Rồng 6 sao lydo: CSTT at 03/05/2023 11:09 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:16 AM
+BAG:galick add 1xBột mì lydo: Nhặt từ map at 03/05/2023 11:20 AM
+BAG:galick add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 11:20 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:21 AM
+BAG:galick add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:22 AM
+BAG:galick add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:22 AM
+BAG:galick add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:22 AM
+BAG:galick add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:22 AM
+BAG:galick add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:22 AM
+BAG:galick add 1xCải Trang Thần Zeno lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:22 AM
+BAG:galick add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:22 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:23 AM
+BAG:galick add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/05/2023 11:26 AM
+BAG:galick add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 11:26 AM
+BAG:galick add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 11:26 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:28 AM
+BAG:galick add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/05/2023 11:30 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:34 AM
+BAG:galick add 1xPháo hoa lydo: Nhặt từ map at 03/05/2023 11:35 AM
+BAG:galick add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhặt từ map at 03/05/2023 11:35 AM
+BAG:galick add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:36 AM
+BAG:galick add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:36 AM
+BAG:galick add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:36 AM
+BAG:galick add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:36 AM
+BAG:galick add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:36 AM
+BAG:galick add 1xCải Trang Thần Zeno lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:36 AM
+BAG:galick add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:36 AM
+BAG:galick add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:42 AM
+BAG:galick add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:42 AM
+BAG:galick add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:42 AM
+BAG:galick add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:42 AM
+BAG:galick add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:42 AM
+BAG:galick add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:42 AM
+BAG:galick add 1xCải Trang Thần Zeno lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:42 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:42 AM
+BAG:galick add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 11:43 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:43 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 11:47 AM
+BAG:galick add 1xPháo hoa lydo: Nhặt từ map at 03/05/2023 11:54 AM
+BAG:galick add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/05/2023 11:54 AM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 12:09 PM
+BAG:galick add 1xÁo lưỡng long lydo: Nhặt từ map at 03/05/2023 12:13 PM
+BAG:galick add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhặt từ map at 03/05/2023 12:14 PM
+BAG:galick add 1xGăng vàng Zealot lydo: Nhặt từ map at 03/05/2023 12:22 PM
+BAG:galick add 1xBột mì lydo: Nhặt từ map at 03/05/2023 12:24 PM
+BAG:galick add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 12:25 PM
+BAG:galick add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 12:25 PM
+BAG:galick add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 12:25 PM
+BAG:galick add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/05/2023 12:30 PM
+BAG:galick add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/05/2023 12:30 PM
+BAG:galick add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/05/2023 12:30 PM
+BAG:galick add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/05/2023 12:30 PM
+BAG:galick add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/05/2023 12:30 PM
+BAG:galick add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/05/2023 12:30 PM
+BAG:galick add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/05/2023 12:30 PM
+BAG:galick add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 12:30 PM
+BAG:galick add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/05/2023 12:33 PM
+BAG:galick add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/05/2023 12:33 PM
+BAG:galick add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/05/2023 12:33 PM
+BAG:galick add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/05/2023 12:33 PM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 12:33 PM
+BAG:galick add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhặt từ map at 03/05/2023 12:34 PM
+BAG:galick add 1xGiày jean Calic lydo: Nhặt từ map at 03/05/2023 12:37 PM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 12:43 PM
+BAG:galick add 1xPháo hoa lydo: Nhặt từ map at 03/05/2023 1:02 PM
+BAG:galick add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/05/2023 1:02 PM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 1:05 PM
+BAG:galick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/05/2023 1:18 PM

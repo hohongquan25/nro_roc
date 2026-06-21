@@ -1,0 +1,132 @@
+BAG:hekari add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/07/2023 9:40 PM
+BAG:hekari add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/07/2023 9:40 PM
+BAG:hekari add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/07/2023 9:42 PM
+BAG:hekari add 1xĐá Saphia lydo: Nhặt từ map at 03/07/2023 9:43 PM
+BAG:hekari add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/07/2023 9:43 PM
+BAG:hekari add 1xĐá Titan lydo: Nhặt từ map at 03/07/2023 9:43 PM
+BAG:hekari add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/07/2023 9:44 PM
+BAG:hekari add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/07/2023 9:44 PM
+BAG:hekari add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 03/07/2023 9:46 PM
+BAG:hekari add 1xTrứng vịt muối lydo: Nhặt từ map at 03/07/2023 9:48 PM
+BAG:hekari add 1xĐậu xanh lydo: Nhặt từ map at 03/07/2023 9:48 PM
+BAG:hekari add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/07/2023 9:49 PM
+BAG:hekari add 1xMảnh Khủng long lydo: Nhặt từ map at 03/07/2023 9:49 PM
+BAG:hekari add 1xĐá lục bảo lydo: Nhặt từ map at 03/07/2023 9:50 PM
+BAG:hekari add 1xĐá Ruby lydo: Nhặt từ map at 03/07/2023 9:51 PM
+BAG:hekari add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/07/2023 9:51 PM
+BAG:hekari add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/07/2023 9:52 PM
+BAG:hekari add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/07/2023 9:52 PM
+BAG:hekari add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/07/2023 9:52 PM
+BAG:hekari add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/07/2023 9:52 PM
+BAG:hekari add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/07/2023 9:52 PM
+BAG:hekari add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/07/2023 9:53 PM
+BAG:hekari add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/07/2023 9:53 PM
+BAG:hekari add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/07/2023 9:53 PM
+BAG:hekari add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/07/2023 9:54 PM
+BAG:hekari add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/07/2023 9:55 PM
+BAG:hekari add 26xĐậu thần cấp 5 (old: 10) lydo: Lấy từ rương qua người at 03/07/2023 9:55 PM
+BAG:hekari add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/07/2023 9:56 PM
+BAG:hekari add 1xGà quay nguyên con lydo: Nhặt từ map at 03/07/2023 9:57 PM
+BAG:hekari add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/07/2023 9:57 PM
+BAG:hekari add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/07/2023 9:58 PM
+BAG:hekari add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/07/2023 9:58 PM
+BAG:hekari add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/07/2023 9:58 PM
+BAG:hekari add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/07/2023 9:58 PM
+BAG:hekari add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/07/2023 9:59 PM
+BAG:hekari add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/07/2023 9:59 PM
+BAG:hekari add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 03/07/2023 9:59 PM
+BAG:hekari add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 03/07/2023 9:59 PM
+BAG:hekari add 1xSách học Trị thương lv3 lydo: Mua từ cửa hàng at 03/07/2023 9:59 PM
+BAG:hekari add 1xSách học Trị thương lv4 lydo: Mua từ cửa hàng at 03/07/2023 9:59 PM
+BAG:hekari add 1xSách học Trị thương lv5 lydo: Mua từ cửa hàng at 03/07/2023 9:59 PM
+BAG:hekari add 1xSách học Trị thương lv6 lydo: Mua từ cửa hàng at 03/07/2023 9:59 PM
+BAG:hekari add 1xSách học Trị thương lv7 lydo: Mua từ cửa hàng at 03/07/2023 10:00 PM
+BAG:hekari add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/07/2023 10:00 PM
+BAG:hekari add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/07/2023 10:00 PM
+BAG:hekari add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/07/2023 10:00 PM
+BAG:hekari add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/07/2023 10:00 PM
+BAG:hekari add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/07/2023 10:00 PM
+BAG:hekari add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 03/07/2023 10:00 PM
+BAG:hekari add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/07/2023 10:02 PM
+BAG:hekari add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/07/2023 10:04 PM
+BAG:hekari add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/07/2023 10:05 PM
+BAG:hekari add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/07/2023 10:05 PM
+BAG:hekari add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/07/2023 10:05 PM
+BAG:hekari add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/07/2023 10:05 PM
+BAG:hekari add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/07/2023 10:06 PM
+BAG:hekari add 1xBột mì lydo: Nhặt từ map at 03/07/2023 10:06 PM
+BAG:hekari add 50xThỏi vàng lydo: Giftcode at 03/07/2023 10:08 PM
+BAG:hekari add 10xSao pha lê lydo: Giftcode at 03/07/2023 10:08 PM
+BAG:hekari add 10xSao pha lê lydo: Giftcode at 03/07/2023 10:08 PM
+BAG:hekari add 10xSao pha lê lydo: Giftcode at 03/07/2023 10:08 PM
+BAG:hekari add 1xCải trang Hit lydo: Giftcode at 03/07/2023 10:08 PM
+BAG:hekari add 10xCuồng nộ lydo: Giftcode at 03/07/2023 10:08 PM
+BAG:hekari add 10xBổ huyết lydo: Giftcode at 03/07/2023 10:08 PM
+BAG:hekari add 10xBổ khí lydo: Giftcode at 03/07/2023 10:08 PM
+BAG:hekari add 10xGiáp Xên bọ hung lydo: Giftcode at 03/07/2023 10:08 PM
+BAG:hekari add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/07/2023 10:10 PM
+BAG:hekari add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/07/2023 10:10 PM
+BAG:hekari add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/07/2023 10:10 PM
+BAG:hekari add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/07/2023 10:11 PM
+BAG:hekari add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/07/2023 10:11 PM
+BAG:hekari add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/07/2023 10:12 PM
+BAG:hekari add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/07/2023 10:12 PM
+BAG:hekari add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/07/2023 10:12 PM
+BAG:hekari add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/07/2023 10:12 PM
+BAG:hekari add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/07/2023 10:12 PM
+BAG:hekari add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/07/2023 10:12 PM
+BAG:hekari add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/07/2023 10:12 PM
+BAG:hekari add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/07/2023 10:12 PM
+BAG:hekari add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/07/2023 10:12 PM
+BAG:hekari add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/07/2023 10:12 PM
+BAG:hekari add 23xĐậu thần cấp 5 (old: 21) lydo: Lấy từ rương qua người at 03/07/2023 10:14 PM
+BAG:hekari add 1xĐá lục bảo lydo: Nhặt từ map at 03/07/2023 10:17 PM
+BAG:hekari add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/07/2023 10:19 PM
+BAG:hekari add 1xĐá Ruby lydo: Nhặt từ map at 03/07/2023 10:20 PM
+BAG:hekari add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/07/2023 10:21 PM
+BAG:hekari add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/07/2023 10:22 PM
+BAG:hekari add 1xĐá Titan lydo: Nhặt từ map at 03/07/2023 10:27 PM
+BAG:hekari add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/07/2023 10:30 PM
+BAG:hekari add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/07/2023 10:31 PM
+BAG:hekari add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/07/2023 10:32 PM
+BAG:hekari add 30xĐậu thần cấp 5 (old: 10) lydo: Lấy từ rương qua người at 03/07/2023 10:32 PM
+BAG:hekari add 50xĐậu thần cấp 5 (old: 30) lydo: Lấy từ rương qua người at 03/07/2023 10:33 PM
+BAG:hekari add 63xĐậu thần cấp 5 (old: 50) lydo: Lấy từ rương qua người at 03/07/2023 10:34 PM
+BAG:hekari add 1xĐậu xanh lydo: Nhặt từ map at 03/07/2023 10:36 PM
+BAG:hekari add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/07/2023 10:36 PM
+BAG:hekari add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/07/2023 10:36 PM
+BAG:hekari add 1xPhi Long VIP lydo: Mua từ cửa hàng at 03/07/2023 10:37 PM
+BAG:hekari add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/07/2023 10:38 PM
+BAG:hekari add 1xBột mì lydo: Nhặt từ map at 03/07/2023 10:38 PM
+BAG:hekari add 1xĐá Saphia lydo: Nhặt từ map at 03/07/2023 10:38 PM
+BAG:hekari add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/07/2023 10:38 PM
+BAG:hekari add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/07/2023 10:39 PM
+BAG:hekari add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/07/2023 10:39 PM
+BAG:hekari add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/07/2023 10:39 PM
+BAG:hekari add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/07/2023 10:39 PM
+BAG:hekari add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/07/2023 10:39 PM
+BAG:hekari add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/07/2023 10:40 PM
+BAG:hekari add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/07/2023 10:40 PM
+BAG:hekari add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/07/2023 10:40 PM
+BAG:hekari add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/07/2023 10:41 PM
+BAG:hekari add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/07/2023 10:41 PM
+BAG:hekari add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/07/2023 10:41 PM
+BAG:hekari add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/07/2023 10:41 PM
+BAG:hekari add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/07/2023 10:41 PM
+BAG:hekari add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/07/2023 10:41 PM
+BAG:hekari add 1xMảnh Phi long lydo: Nhặt từ map at 03/07/2023 10:41 PM
+BAG:hekari add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/07/2023 10:42 PM
+BAG:hekari add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/07/2023 10:42 PM
+BAG:hekari add 10xSao pha lê lydo: Lấy từ rương qua người at 03/07/2023 10:43 PM
+BAG:hekari add 10xSao pha lê lydo: Lấy từ rương qua người at 03/07/2023 10:43 PM
+BAG:hekari add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/07/2023 10:43 PM
+BAG:hekari add 1xGăng thun cứng lydo: Mua từ cửa hàng at 03/07/2023 10:46 PM
+BAG:hekari add 1xGiày sắt Pico lydo: Mua từ cửa hàng at 03/07/2023 10:46 PM
+BAG:hekari add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/07/2023 10:47 PM
+BAG:hekari add 1xÁo vải Pico lydo: Mua từ cửa hàng at 03/07/2023 10:47 PM
+BAG:hekari add 1xQuần vải mềm Pico lydo: Mua từ cửa hàng at 03/07/2023 10:47 PM
+BAG:hekari add 1xTrứng vịt muối lydo: Nhặt từ map at 03/07/2023 10:50 PM
+BAG:hekari add 1xĐá Titan lydo: Nhặt từ map at 03/07/2023 10:51 PM
+BAG:hekari add 1xĐá Ruby lydo: Nhặt từ map at 03/07/2023 10:53 PM
+BAG:hekari add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/07/2023 10:53 PM
+BAG:hekari add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/07/2023 10:57 PM

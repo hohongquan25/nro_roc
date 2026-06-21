@@ -1,0 +1,77 @@
+BAG:baomiu add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/02/2023 11:01 PM
+BAG:baomiu add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/02/2023 11:01 PM
+BAG:baomiu add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 11:05 PM
+BAG:baomiu add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 11:06 PM
+BAG:baomiu add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 11:06 PM
+BAG:baomiu add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 11:07 PM
+BAG:baomiu add 1xQuần vải thô lydo: Nhặt từ map at 03/02/2023 11:07 PM
+BAG:baomiu add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 11:07 PM
+BAG:baomiu add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 11:08 PM
+BAG:baomiu add 1xBột mì lydo: Nhặt từ map at 03/02/2023 11:08 PM
+BAG:baomiu add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 11:08 PM
+BAG:baomiu add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 11:08 PM
+BAG:baomiu add 1xQuần vải thô lydo: Nhặt từ map at 03/02/2023 11:08 PM
+BAG:baomiu add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 11:09 PM
+BAG:baomiu add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 11:09 PM
+BAG:baomiu add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 11:09 PM
+BAG:baomiu add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 11:09 PM
+BAG:baomiu add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/02/2023 11:09 PM
+BAG:baomiu add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 11:10 PM
+BAG:baomiu add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 11:10 PM
+BAG:baomiu add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/02/2023 11:10 PM
+BAG:baomiu add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 11:11 PM
+BAG:baomiu add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/02/2023 11:11 PM
+BAG:baomiu add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/02/2023 11:12 PM
+BAG:baomiu add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 11:12 PM
+BAG:baomiu add 7xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 03/02/2023 11:13 PM
+BAG:baomiu add 10xĐậu thần cấp 1 (old: 7) lydo: Thu hoạch đậu at 03/02/2023 11:14 PM
+BAG:baomiu add 1xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/02/2023 11:16 PM
+BAG:baomiu add 7xĐậu thần cấp 2 (old: 1) lydo: Lấy từ rương qua người at 03/02/2023 11:16 PM
+BAG:baomiu add 11xĐậu thần cấp 1 (old: 9) lydo: Lấy từ rương qua người at 03/02/2023 11:16 PM
+BAG:baomiu add 1xGăng vải thô lydo: Nhặt từ map at 03/02/2023 11:17 PM
+BAG:baomiu add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 11:18 PM
+BAG:baomiu add 1xBột mì lydo: Nhặt từ map at 03/02/2023 11:19 PM
+BAG:baomiu add 1xĐá Saphia lydo: Nhặt từ map at 03/02/2023 11:20 PM
+BAG:baomiu add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 11:21 PM
+BAG:baomiu add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 03/02/2023 11:23 PM
+BAG:baomiu add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 03/02/2023 11:23 PM
+BAG:baomiu add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 03/02/2023 11:23 PM
+BAG:baomiu add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 03/02/2023 11:23 PM
+BAG:baomiu add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 03/02/2023 11:23 PM
+BAG:baomiu add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 03/02/2023 11:23 PM
+BAG:baomiu add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 03/02/2023 11:24 PM
+BAG:baomiu add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/02/2023 11:24 PM
+BAG:baomiu add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/02/2023 11:24 PM
+BAG:baomiu add 1xAvatar lydo: Mua từ cửa hàng at 03/02/2023 11:25 PM
+BAG:baomiu add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/02/2023 11:25 PM
+BAG:baomiu add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 11:29 PM
+BAG:baomiu add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 11:30 PM
+BAG:baomiu add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 11:32 PM
+BAG:baomiu add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 11:32 PM
+BAG:baomiu add 10xĐậu thần cấp 2 (old: 4) lydo: Thu hoạch đậu at 03/02/2023 11:34 PM
+BAG:baomiu add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/02/2023 11:34 PM
+BAG:baomiu add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 11:36 PM
+BAG:baomiu add 1000000xThỏi vàng lydo: Giftcode at 03/02/2023 11:38 PM
+BAG:baomiu add 10000xĐá ngũ sắc lydo: Giftcode at 03/02/2023 11:38 PM
+BAG:baomiu add 1000020xThỏi vàng (old: 1000000) lydo: Đổi vàng at 03/02/2023 11:39 PM
+BAG:baomiu add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 11:40 PM
+BAG:baomiu add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 11:40 PM
+BAG:baomiu add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 11:40 PM
+BAG:baomiu add 1xCánh thiên thần 2 lydo: Mua từ cửa hàng at 03/02/2023 11:40 PM
+BAG:baomiu add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/02/2023 11:41 PM
+BAG:baomiu add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/02/2023 11:41 PM
+BAG:baomiu add 1xCải Trang Cumber lydo: Mua từ bill at 03/02/2023 11:41 PM
+BAG:baomiu add 1xCải trang Super Cumber lydo: Mua từ bill at 03/02/2023 11:41 PM
+BAG:baomiu add 1000020xThỏi vàng lydo: Lấy từ rương qua người at 03/02/2023 11:42 PM
+BAG:baomiu add 9998xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/02/2023 11:42 PM
+BAG:baomiu add 9xĐậu thần cấp 2 (old: 8) lydo: Lấy từ rương qua người at 03/02/2023 11:43 PM
+BAG:baomiu add 2xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/02/2023 11:47 PM
+BAG:baomiu add 22xĐậu thần cấp 10 (old: 2) lydo: Lấy từ rương qua người at 03/02/2023 11:47 PM
+BAG:baomiu add 42xĐậu thần cấp 10 (old: 22) lydo: Lấy từ rương qua người at 03/02/2023 11:47 PM
+BAG:baomiu add 62xĐậu thần cấp 10 (old: 42) lydo: Lấy từ rương qua người at 03/02/2023 11:48 PM
+BAG:baomiu add 82xĐậu thần cấp 10 (old: 62) lydo: Lấy từ rương qua người at 03/02/2023 11:48 PM
+BAG:baomiu add 3xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/02/2023 11:48 PM
+BAG:baomiu add 99xĐậu thần cấp 10 (old: 82) lydo: Lấy từ rương qua người at 03/02/2023 11:48 PM
+BAG:baomiu add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/02/2023 11:52 PM
+BAG:baomiu add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/02/2023 11:52 PM
+BAG:baomiu add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/02/2023 11:52 PM

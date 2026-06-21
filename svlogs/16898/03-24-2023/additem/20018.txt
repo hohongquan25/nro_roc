@@ -1,0 +1,682 @@
+BAG:virus add 7xĐá lục bảo lydo: Lấy từ rương qua người at 03/24/2023 4:36 AM
+BAG:virus add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/24/2023 4:37 AM
+BAG:virus add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/24/2023 4:37 AM
+BAG:virus add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 4:37 AM
+BAG:virus add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 4:37 AM
+BAG:virus add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/24/2023 4:37 AM
+BAG:virus add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 03/24/2023 4:40 AM
+BAG:virus add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/24/2023 4:41 AM
+BAG:virus add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/24/2023 4:42 AM
+BAG:virus add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/24/2023 4:43 AM
+BAG:virus add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 4:43 AM
+BAG:virus add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/24/2023 4:43 AM
+BAG:virus add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 4:43 AM
+BAG:virus add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/24/2023 4:44 AM
+BAG:virus add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 4:44 AM
+BAG:virus add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 4:44 AM
+BAG:virus add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/24/2023 4:44 AM
+BAG:virus add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/24/2023 4:46 AM
+BAG:virus add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/24/2023 4:49 AM
+BAG:virus add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 4:50 AM
+BAG:virus add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 4:50 AM
+BAG:virus add 1xGiày vàng lydo: Lấy từ body vào hành trang at 03/24/2023 4:50 AM
+BAG:virus add 10xĐậu thần cấp 6 (old: 3) lydo: Thu hoạch đậu at 03/24/2023 4:51 AM
+BAG:virus add 1xGăng đồng lydo: Mua từ cửa hàng at 03/24/2023 4:51 AM
+BAG:virus add 1xGăng vàng lydo: Mua từ cửa hàng at 03/24/2023 4:51 AM
+BAG:virus add 1xGăng lông Xayda lydo: Mua từ cửa hàng at 03/24/2023 4:51 AM
+BAG:virus add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/24/2023 4:51 AM
+BAG:virus add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/24/2023 4:52 AM
+BAG:virus add 1xGiầy vải thô lydo: Mua từ cửa hàng at 03/24/2023 4:52 AM
+BAG:virus add 50xThỏi vàng lydo: Lấy từ rương qua người at 03/24/2023 4:53 AM
+BAG:virus add 10xSao pha lê lydo: Lấy từ rương qua người at 03/24/2023 4:53 AM
+BAG:virus add 1xÁo vải thô lydo: Mua từ cửa hàng at 03/24/2023 4:56 AM
+BAG:virus add 1xQuần vải thô lydo: Mua từ cửa hàng at 03/24/2023 4:56 AM
+BAG:virus add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/24/2023 4:56 AM
+BAG:virus add 1xÁo giáp đồng lydo: Mua từ cửa hàng at 03/24/2023 4:56 AM
+BAG:virus add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 5:00 AM
+BAG:virus add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/24/2023 5:02 AM
+BAG:virus add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/24/2023 5:02 AM
+BAG:virus add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/24/2023 5:02 AM
+BAG:virus add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/24/2023 5:02 AM
+BAG:virus add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/24/2023 5:03 AM
+BAG:virus add 1xCải trang Mabư Noel lydo: Lấy từ body đệ vào hành trang at 03/24/2023 5:06 AM
+BAG:virus add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/24/2023 5:06 AM
+BAG:virus add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 5:06 AM
+BAG:virus add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 5:06 AM
+BAG:virus add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 5:06 AM
+BAG:virus add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/24/2023 5:07 AM
+BAG:virus add 1xCải trang lydo: Mua từ cửa hàng at 03/24/2023 5:08 AM
+BAG:virus add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/24/2023 5:08 AM
+BAG:virus add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/24/2023 5:08 AM
+BAG:virus add 1xGăng lông Xayda lydo: Lấy từ body vào hành trang at 03/24/2023 5:09 AM
+BAG:virus add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/24/2023 5:09 AM
+BAG:virus add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/24/2023 5:09 AM
+BAG:virus add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/24/2023 5:09 AM
+BAG:virus add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 03/24/2023 5:09 AM
+BAG:virus add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/24/2023 5:12 AM
+BAG:virus add 1xGăng lông đỏ lydo: Lấy từ body vào hành trang at 03/24/2023 5:12 AM
+BAG:virus add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/24/2023 5:12 AM
+BAG:virus add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/24/2023 5:12 AM
+BAG:virus add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/24/2023 5:12 AM
+BAG:virus add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/24/2023 5:13 AM
+BAG:virus add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 5:13 AM
+BAG:virus add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 5:13 AM
+BAG:virus add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/24/2023 5:13 AM
+BAG:virus add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 5:13 AM
+BAG:virus add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 5:13 AM
+BAG:virus add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/24/2023 5:13 AM
+BAG:virus add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/24/2023 5:13 AM
+BAG:virus add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/24/2023 5:13 AM
+BAG:virus add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/24/2023 5:14 AM
+BAG:virus add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/24/2023 5:14 AM
+BAG:virus add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/24/2023 5:14 AM
+BAG:virus add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/24/2023 5:15 AM
+BAG:virus add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/24/2023 5:16 AM
+BAG:virus add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/24/2023 5:16 AM
+BAG:virus add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/24/2023 5:18 AM
+BAG:virus add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/24/2023 5:19 AM
+BAG:virus add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/24/2023 5:19 AM
+BAG:virus add 30xĐậu thần cấp 5 lydo: Mua từ cửa hàng at 03/24/2023 5:20 AM
+BAG:virus add 60xĐậu thần cấp 5 (old: 30) lydo: Mua từ cửa hàng at 03/24/2023 5:20 AM
+BAG:virus add 90xĐậu thần cấp 5 (old: 60) lydo: Mua từ cửa hàng at 03/24/2023 5:20 AM
+BAG:virus add 21xĐậu thần cấp 5 lydo: Mua từ cửa hàng at 03/24/2023 5:20 AM
+BAG:virus add 99xĐậu thần cấp 5 (old: 90) lydo: Mua từ cửa hàng at 03/24/2023 5:20 AM
+BAG:virus add 51xĐậu thần cấp 5 (old: 21) lydo: Mua từ cửa hàng at 03/24/2023 5:20 AM
+BAG:virus add 81xĐậu thần cấp 5 (old: 51) lydo: Mua từ cửa hàng at 03/24/2023 5:20 AM
+BAG:virus add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/24/2023 5:21 AM
+BAG:virus add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/24/2023 5:21 AM
+BAG:virus add 10xSao pha lê lydo: Lấy từ rương qua người at 03/24/2023 5:22 AM
+BAG:virus add 10xSao pha lê lydo: Lấy từ rương qua người at 03/24/2023 5:22 AM
+BAG:virus add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/24/2023 5:24 AM
+BAG:virus add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 5:24 AM
+BAG:virus add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 5:24 AM
+BAG:virus add 1xGiày vàng lydo: Lấy từ body vào hành trang at 03/24/2023 5:24 AM
+BAG:virus add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/24/2023 5:24 AM
+BAG:virus add 1xGăng da Xayda lydo: Lấy từ body vào hành trang at 03/24/2023 5:25 AM
+BAG:virus add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/24/2023 5:26 AM
+BAG:virus add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/24/2023 5:27 AM
+BAG:virus add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/24/2023 5:27 AM
+BAG:virus add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/24/2023 5:29 AM
+BAG:virus add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/24/2023 5:29 AM
+BAG:virus add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/24/2023 5:36 AM
+BAG:virus add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/24/2023 5:37 AM
+BAG:virus add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/24/2023 5:38 AM
+BAG:virus add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/24/2023 5:38 AM
+BAG:virus add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/24/2023 5:39 AM
+BAG:virus add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/24/2023 5:39 AM
+BAG:virus add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/24/2023 5:39 AM
+BAG:virus add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/24/2023 5:39 AM
+BAG:virus add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/24/2023 5:41 AM
+BAG:virus add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/24/2023 5:41 AM
+BAG:virus add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/24/2023 5:41 AM
+BAG:virus add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/24/2023 5:42 AM
+BAG:virus add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/24/2023 5:44 AM
+BAG:virus add 1xGiày vàng lydo: Lấy từ body đệ vào hành trang at 03/24/2023 5:44 AM
+BAG:virus add 1xGăng da Xayda lydo: Lấy từ body đệ vào hành trang at 03/24/2023 5:44 AM
+BAG:virus add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/24/2023 5:44 AM
+BAG:virus add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/24/2023 5:44 AM
+BAG:virus add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/24/2023 5:44 AM
+BAG:virus add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 5:44 AM
+BAG:virus add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 5:44 AM
+BAG:virus add 1xCải trang lydo: Lấy từ body đệ vào hành trang at 03/24/2023 5:44 AM
+BAG:virus add 1xGăng đồng lydo: Mua từ cửa hàng at 03/24/2023 5:45 AM
+BAG:virus add 1xGăng bạc lydo: Mua từ cửa hàng at 03/24/2023 5:45 AM
+BAG:virus add 1xGăng vàng lydo: Mua từ cửa hàng at 03/24/2023 5:45 AM
+BAG:virus add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/24/2023 5:47 AM
+BAG:virus add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 03/24/2023 5:47 AM
+BAG:virus add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/24/2023 5:48 AM
+BAG:virus add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 5:48 AM
+BAG:virus add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 5:48 AM
+BAG:virus add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/24/2023 5:48 AM
+BAG:virus add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/24/2023 5:48 AM
+BAG:virus add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/24/2023 5:48 AM
+BAG:virus add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/24/2023 5:51 AM
+BAG:virus add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/24/2023 5:52 AM
+BAG:virus add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/24/2023 5:53 AM
+BAG:virus add 1xGăng lông đỏ lydo: Lấy từ body vào hành trang at 03/24/2023 5:54 AM
+BAG:virus add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/24/2023 5:55 AM
+BAG:virus add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 5:55 AM
+BAG:virus add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 5:55 AM
+BAG:virus add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/24/2023 5:55 AM
+BAG:virus add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/24/2023 5:55 AM
+BAG:virus add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/24/2023 5:55 AM
+BAG:virus add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/24/2023 5:56 AM
+BAG:virus add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/24/2023 5:58 AM
+BAG:virus add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/24/2023 6:00 AM
+BAG:virus add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/24/2023 6:00 AM
+BAG:virus add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/24/2023 6:01 AM
+BAG:virus add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/24/2023 6:01 AM
+BAG:virus add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/24/2023 6:02 AM
+BAG:virus add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/24/2023 6:03 AM
+BAG:virus add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/24/2023 6:03 AM
+BAG:virus add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/24/2023 6:05 AM
+BAG:virus add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/24/2023 6:06 AM
+BAG:virus add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/24/2023 6:08 AM
+BAG:virus add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/24/2023 6:08 AM
+BAG:virus add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/24/2023 6:08 AM
+BAG:virus add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/24/2023 6:08 AM
+BAG:virus add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/24/2023 6:09 AM
+BAG:virus add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/24/2023 6:10 AM
+BAG:virus add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/24/2023 6:10 AM
+BAG:virus add 1xGăng lông đỏ lydo: Lấy từ body đệ vào hành trang at 03/24/2023 6:10 AM
+BAG:virus add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/24/2023 6:10 AM
+BAG:virus add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/24/2023 6:11 AM
+BAG:virus add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/24/2023 6:12 AM
+BAG:virus add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/24/2023 6:15 AM
+BAG:virus add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/24/2023 6:16 AM
+BAG:virus add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/24/2023 6:17 AM
+BAG:virus add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/24/2023 6:17 AM
+BAG:virus add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/24/2023 6:19 AM
+BAG:virus add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/24/2023 6:20 AM
+BAG:virus add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/24/2023 6:20 AM
+BAG:virus add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/24/2023 6:20 AM
+BAG:virus add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/24/2023 6:20 AM
+BAG:virus add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/24/2023 6:21 AM
+BAG:virus add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/24/2023 6:21 AM
+BAG:virus add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/24/2023 6:21 AM
+BAG:virus add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/24/2023 6:23 AM
+BAG:virus add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/24/2023 6:23 AM
+BAG:virus add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 6:24 AM
+BAG:virus add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/24/2023 6:25 AM
+BAG:virus add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/24/2023 6:25 AM
+BAG:virus add 1xGiày vàng lydo: Lấy từ body đệ vào hành trang at 03/24/2023 6:25 AM
+BAG:virus add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/24/2023 6:25 AM
+BAG:virus add 1xCải trang Mabư Noel lydo: Lấy từ body đệ vào hành trang at 03/24/2023 6:25 AM
+BAG:virus add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/24/2023 6:26 AM
+BAG:virus add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 6:26 AM
+BAG:virus add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 6:26 AM
+BAG:virus add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/24/2023 6:26 AM
+BAG:virus add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 6:26 AM
+BAG:virus add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 6:26 AM
+BAG:virus add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 6:26 AM
+BAG:virus add 5xPháo hoa lydo: Nhặt từ map at 03/24/2023 6:27 AM
+BAG:virus add 1xGăng lông Xayda lydo: Mua từ cửa hàng at 03/24/2023 6:27 AM
+BAG:virus add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/24/2023 6:27 AM
+BAG:virus add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/24/2023 6:28 AM
+BAG:virus add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/24/2023 6:29 AM
+BAG:virus add 5xPháo hoa lydo: Nhặt từ map at 03/24/2023 6:30 AM
+BAG:virus add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/24/2023 6:30 AM
+BAG:virus add 5xPháo hoa lydo: Nhặt từ map at 03/24/2023 6:30 AM
+BAG:virus add 1xBổ huyết lydo: HQT at 03/24/2023 6:30 AM
+BAG:virus add 5xPháo hoa lydo: Nhặt từ map at 03/24/2023 6:30 AM
+BAG:virus add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/24/2023 6:30 AM
+BAG:virus add 1xBổ khí lydo: HQT at 03/24/2023 6:30 AM
+BAG:virus add 5xPháo hoa lydo: Nhặt từ map at 03/24/2023 6:31 AM
+BAG:virus add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/24/2023 6:31 AM
+BAG:virus add 2xBổ khí (old: 1) lydo: HQT at 03/24/2023 6:31 AM
+BAG:virus add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 03/24/2023 6:31 AM
+BAG:virus add 5xPháo hoa lydo: Nhặt từ map at 03/24/2023 6:32 AM
+BAG:virus add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/24/2023 6:32 AM
+BAG:virus add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/24/2023 6:32 AM
+BAG:virus add 1xNgọc Rồng 7 sao lydo: HQT at 03/24/2023 6:32 AM
+BAG:virus add 3xBổ khí (old: 2) lydo: HQT at 03/24/2023 6:32 AM
+BAG:virus add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/24/2023 6:33 AM
+BAG:virus add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/24/2023 6:33 AM
+BAG:virus add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/24/2023 6:33 AM
+BAG:virus add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/24/2023 6:33 AM
+BAG:virus add 5xPháo hoa lydo: Nhặt từ map at 03/24/2023 6:34 AM
+BAG:virus add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/24/2023 6:34 AM
+BAG:virus add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/24/2023 6:35 AM
+BAG:virus add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/24/2023 6:36 AM
+BAG:virus add 1xGăng lông đỏ lydo: Lấy từ body vào hành trang at 03/24/2023 6:36 AM
+BAG:virus add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/24/2023 6:37 AM
+BAG:virus add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/24/2023 6:37 AM
+BAG:virus add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/24/2023 6:37 AM
+BAG:virus add 1xGiáp Xên bọ hung lydo: HQT at 03/24/2023 6:37 AM
+BAG:virus add 4xBổ khí (old: 3) lydo: HQT at 03/24/2023 6:38 AM
+BAG:virus add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/24/2023 6:38 AM
+BAG:virus add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/24/2023 6:38 AM
+BAG:virus add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 6:38 AM
+BAG:virus add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 6:38 AM
+BAG:virus add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/24/2023 6:39 AM
+BAG:virus add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/24/2023 6:39 AM
+BAG:virus add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/24/2023 6:39 AM
+BAG:virus add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/24/2023 6:40 AM
+BAG:virus add 1xGăng Kaio lydo: Mua từ cửa hàng at 03/24/2023 6:42 AM
+BAG:virus add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/24/2023 6:48 AM
+BAG:virus add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/24/2023 6:48 AM
+BAG:virus add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/24/2023 6:50 AM
+BAG:virus add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/24/2023 6:50 AM
+BAG:virus add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/24/2023 6:51 AM
+BAG:virus add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/24/2023 6:51 AM
+BAG:virus add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/24/2023 6:51 AM
+BAG:virus add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/24/2023 6:51 AM
+BAG:virus add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/24/2023 8:03 AM
+BAG:virus add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/24/2023 8:05 AM
+BAG:virus add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/24/2023 8:06 AM
+BAG:virus add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/24/2023 8:06 AM
+BAG:virus add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/24/2023 8:06 AM
+BAG:virus add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/24/2023 8:07 AM
+BAG:virus add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/24/2023 8:08 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 8:09 AM
+BAG:virus add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/24/2023 8:09 AM
+BAG:virus add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/24/2023 8:10 AM
+BAG:virus add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/24/2023 8:10 AM
+BAG:virus add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/24/2023 8:11 AM
+BAG:virus add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/24/2023 8:12 AM
+BAG:virus add 1xRada cấp 1 lydo: Nhặt từ map at 03/24/2023 8:13 AM
+BAG:virus add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/24/2023 8:13 AM
+BAG:virus add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/24/2023 8:13 AM
+BAG:virus add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/24/2023 8:13 AM
+BAG:virus add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/24/2023 8:14 AM
+BAG:virus add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/24/2023 8:14 AM
+BAG:virus add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/24/2023 8:14 AM
+BAG:virus add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/24/2023 8:15 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 8:15 AM
+BAG:virus add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/24/2023 8:16 AM
+BAG:virus add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/24/2023 8:16 AM
+BAG:virus add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/24/2023 8:16 AM
+BAG:virus add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/24/2023 8:17 AM
+BAG:virus add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/24/2023 8:18 AM
+BAG:virus add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/24/2023 8:18 AM
+BAG:virus add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/24/2023 8:18 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 8:18 AM
+BAG:virus add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/24/2023 8:18 AM
+BAG:virus add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 03/24/2023 8:18 AM
+BAG:virus add 1xGiầy vải thô lydo: Nhặt từ map at 03/24/2023 8:18 AM
+BAG:virus add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/24/2023 8:18 AM
+BAG:virus add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/24/2023 8:18 AM
+BAG:virus add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 03/24/2023 8:18 AM
+BAG:virus add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/24/2023 8:18 AM
+BAG:virus add 5xMảnh Quỷ bay (old: 4) lydo: Nhặt từ map at 03/24/2023 8:19 AM
+BAG:virus add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/24/2023 8:19 AM
+BAG:virus add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/24/2023 8:19 AM
+BAG:virus add 6xMảnh Quỷ bay (old: 5) lydo: Nhặt từ map at 03/24/2023 8:19 AM
+BAG:virus add 3xMảnh Quỷ đất mẹ (old: 2) lydo: Nhặt từ map at 03/24/2023 8:19 AM
+BAG:virus add 1xGăng vải thô lydo: Nhặt từ map at 03/24/2023 8:20 AM
+BAG:virus add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/24/2023 8:20 AM
+BAG:virus add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/24/2023 8:21 AM
+BAG:virus add 7xMảnh Quỷ bay (old: 6) lydo: Nhặt từ map at 03/24/2023 8:21 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 8:21 AM
+BAG:virus add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/24/2023 8:21 AM
+BAG:virus add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/24/2023 8:21 AM
+BAG:virus add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/24/2023 8:22 AM
+BAG:virus add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/24/2023 8:22 AM
+BAG:virus add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/24/2023 8:22 AM
+BAG:virus add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/24/2023 8:22 AM
+BAG:virus add 8xMảnh Quỷ bay (old: 7) lydo: Nhặt từ map at 03/24/2023 8:23 AM
+BAG:virus add 1xRada cấp 1 lydo: Nhặt từ map at 03/24/2023 8:24 AM
+BAG:virus add 4xMảnh Quỷ đất mẹ (old: 3) lydo: Nhặt từ map at 03/24/2023 8:24 AM
+BAG:virus add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/24/2023 8:24 AM
+BAG:virus add 9xMảnh Quỷ bay (old: 8) lydo: Nhặt từ map at 03/24/2023 8:24 AM
+BAG:virus add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/24/2023 8:25 AM
+BAG:virus add 10xMảnh Quỷ bay (old: 9) lydo: Nhặt từ map at 03/24/2023 8:25 AM
+BAG:virus add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/24/2023 8:25 AM
+BAG:virus add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/24/2023 8:25 AM
+BAG:virus add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/24/2023 8:25 AM
+BAG:virus add 5xMảnh Quỷ đất mẹ (old: 4) lydo: Nhặt từ map at 03/24/2023 8:25 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 8:25 AM
+BAG:virus add 11xMảnh Quỷ bay (old: 10) lydo: Nhặt từ map at 03/24/2023 8:26 AM
+BAG:virus add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/24/2023 8:26 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 8:27 AM
+BAG:virus add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/24/2023 8:27 AM
+BAG:virus add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/24/2023 8:27 AM
+BAG:virus add 1xGăng vải thô lydo: Nhặt từ map at 03/24/2023 8:27 AM
+BAG:virus add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/24/2023 8:27 AM
+BAG:virus add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/24/2023 8:27 AM
+BAG:virus add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/24/2023 8:27 AM
+BAG:virus add 12xMảnh Quỷ bay (old: 11) lydo: Nhặt từ map at 03/24/2023 8:27 AM
+BAG:virus add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/24/2023 8:28 AM
+BAG:virus add 6xMảnh Quỷ đất mẹ (old: 5) lydo: Nhặt từ map at 03/24/2023 8:28 AM
+BAG:virus add 1xRada cấp 1 lydo: Nhặt từ map at 03/24/2023 8:28 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 8:28 AM
+BAG:virus add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/24/2023 8:28 AM
+BAG:virus add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/24/2023 8:28 AM
+BAG:virus add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/24/2023 8:28 AM
+BAG:virus add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/24/2023 8:30 AM
+BAG:virus add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/24/2023 8:30 AM
+BAG:virus add 1xRada cấp 1 lydo: Nhặt từ map at 03/24/2023 8:31 AM
+BAG:virus add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/24/2023 8:31 AM
+BAG:virus add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/24/2023 8:32 AM
+BAG:virus add 13xMảnh Quỷ bay (old: 12) lydo: Nhặt từ map at 03/24/2023 8:32 AM
+BAG:virus add 14xMảnh Quỷ bay (old: 13) lydo: Nhặt từ map at 03/24/2023 8:32 AM
+BAG:virus add 7xMảnh Quỷ đất mẹ (old: 6) lydo: Nhặt từ map at 03/24/2023 8:32 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 8:32 AM
+BAG:virus add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/24/2023 8:32 AM
+BAG:virus add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/24/2023 8:32 AM
+BAG:virus add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 03/24/2023 8:32 AM
+BAG:virus add 1xRada cấp 1 lydo: Nhặt từ map at 03/24/2023 8:33 AM
+BAG:virus add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 03/24/2023 8:33 AM
+BAG:virus add 8xMảnh Quỷ đất mẹ (old: 7) lydo: Nhặt từ map at 03/24/2023 8:33 AM
+BAG:virus add 9xMảnh Quỷ đất mẹ (old: 8) lydo: Nhặt từ map at 03/24/2023 8:33 AM
+BAG:virus add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/24/2023 8:34 AM
+BAG:virus add 1xRada cấp 1 lydo: Nhặt từ map at 03/24/2023 8:34 AM
+BAG:virus add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 03/24/2023 8:34 AM
+BAG:virus add 10xMảnh Quỷ đất mẹ (old: 9) lydo: Nhặt từ map at 03/24/2023 8:34 AM
+BAG:virus add 15xMảnh Quỷ bay (old: 14) lydo: Nhặt từ map at 03/24/2023 8:35 AM
+BAG:virus add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 03/24/2023 8:47 AM
+BAG:virus add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/24/2023 8:47 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 8:48 AM
+BAG:virus add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 03/24/2023 8:48 AM
+BAG:virus add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/24/2023 8:48 AM
+BAG:virus add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/24/2023 8:48 AM
+BAG:virus add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/24/2023 8:48 AM
+BAG:virus add 16xMảnh Quỷ bay (old: 15) lydo: Nhặt từ map at 03/24/2023 8:48 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 8:48 AM
+BAG:virus add 17xMảnh Quỷ bay (old: 16) lydo: Nhặt từ map at 03/24/2023 8:49 AM
+BAG:virus add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/24/2023 8:49 AM
+BAG:virus add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/24/2023 8:49 AM
+BAG:virus add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/24/2023 8:49 AM
+BAG:virus add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/24/2023 8:49 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 8:49 AM
+BAG:virus add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/24/2023 8:50 AM
+BAG:virus add 18xMảnh Quỷ bay (old: 17) lydo: Nhặt từ map at 03/24/2023 8:50 AM
+BAG:virus add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 03/24/2023 8:50 AM
+BAG:virus add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/24/2023 8:50 AM
+BAG:virus add 24xMảnh Quỷ đất (old: 23) lydo: Nhặt từ map at 03/24/2023 8:51 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 8:51 AM
+BAG:virus add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/24/2023 8:51 AM
+BAG:virus add 1xGăng vải thô lydo: Nhặt từ map at 03/24/2023 8:51 AM
+BAG:virus add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/24/2023 8:52 AM
+BAG:virus add 19xMảnh Quỷ bay (old: 18) lydo: Nhặt từ map at 03/24/2023 8:52 AM
+BAG:virus add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/24/2023 8:52 AM
+BAG:virus add 11xMảnh Quỷ đất mẹ (old: 10) lydo: Nhặt từ map at 03/24/2023 8:52 AM
+BAG:virus add 1xGiầy vải thô lydo: Nhặt từ map at 03/24/2023 8:52 AM
+BAG:virus add 20xMảnh Quỷ bay (old: 19) lydo: Nhặt từ map at 03/24/2023 8:52 AM
+BAG:virus add 21xMảnh Quỷ bay (old: 20) lydo: Nhặt từ map at 03/24/2023 8:53 AM
+BAG:virus add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/24/2023 8:53 AM
+BAG:virus add 25xMảnh Quỷ đất (old: 24) lydo: Nhặt từ map at 03/24/2023 8:53 AM
+BAG:virus add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/24/2023 8:53 AM
+BAG:virus add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/24/2023 8:53 AM
+BAG:virus add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/24/2023 8:53 AM
+BAG:virus add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/24/2023 8:53 AM
+BAG:virus add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/24/2023 8:54 AM
+BAG:virus add 1xGiầy vải thô lydo: Nhặt từ map at 03/24/2023 8:54 AM
+BAG:virus add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/24/2023 8:54 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 8:54 AM
+BAG:virus add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/24/2023 8:54 AM
+BAG:virus add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/24/2023 8:54 AM
+BAG:virus add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/24/2023 8:55 AM
+BAG:virus add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/24/2023 8:55 AM
+BAG:virus add 1xGiầy vải thô lydo: Nhặt từ map at 03/24/2023 8:55 AM
+BAG:virus add 22xMảnh Quỷ bay (old: 21) lydo: Nhặt từ map at 03/24/2023 8:55 AM
+BAG:virus add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/24/2023 8:55 AM
+BAG:virus add 26xMảnh Quỷ đất (old: 25) lydo: Nhặt từ map at 03/24/2023 8:55 AM
+BAG:virus add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/24/2023 8:55 AM
+BAG:virus add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/24/2023 8:55 AM
+BAG:virus add 12xMảnh Quỷ đất mẹ (old: 11) lydo: Nhặt từ map at 03/24/2023 8:56 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 8:56 AM
+BAG:virus add 23xMảnh Quỷ bay (old: 22) lydo: Nhặt từ map at 03/24/2023 8:56 AM
+BAG:virus add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/24/2023 8:56 AM
+BAG:virus add 1xGiầy vải thô lydo: Nhặt từ map at 03/24/2023 8:56 AM
+BAG:virus add 24xMảnh Quỷ bay (old: 23) lydo: Nhặt từ map at 03/24/2023 8:56 AM
+BAG:virus add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/24/2023 8:56 AM
+BAG:virus add 1xGiầy vải thô lydo: Nhặt từ map at 03/24/2023 8:56 AM
+BAG:virus add 1xGăng vải thô lydo: Nhặt từ map at 03/24/2023 8:57 AM
+BAG:virus add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/24/2023 8:57 AM
+BAG:virus add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/24/2023 8:57 AM
+BAG:virus add 25xMảnh Quỷ bay (old: 24) lydo: Nhặt từ map at 03/24/2023 8:57 AM
+BAG:virus add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/24/2023 8:57 AM
+BAG:virus add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/24/2023 8:57 AM
+BAG:virus add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/24/2023 8:57 AM
+BAG:virus add 27xMảnh Quỷ đất (old: 26) lydo: Nhặt từ map at 03/24/2023 8:58 AM
+BAG:virus add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/24/2023 8:58 AM
+BAG:virus add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/24/2023 8:58 AM
+BAG:virus add 28xMảnh Quỷ đất (old: 27) lydo: Nhặt từ map at 03/24/2023 8:59 AM
+BAG:virus add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/24/2023 8:59 AM
+BAG:virus add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/24/2023 8:59 AM
+BAG:virus add 11xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ rương qua người at 03/24/2023 9:01 AM
+BAG:virus add 16xNgọc Rồng 5 sao (old: 13) lydo: Lấy từ rương qua người at 03/24/2023 9:01 AM
+BAG:virus add 20xPháo hoa lydo: Lấy từ rương qua người at 03/24/2023 9:01 AM
+BAG:virus add 29xMảnh Quỷ đất (old: 28) lydo: Nhặt từ map at 03/24/2023 9:02 AM
+BAG:virus add 13xMảnh Quỷ đất mẹ (old: 12) lydo: Nhặt từ map at 03/24/2023 9:02 AM
+BAG:virus add 14xMảnh Quỷ đất mẹ (old: 13) lydo: Nhặt từ map at 03/24/2023 9:03 AM
+BAG:virus add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/24/2023 9:03 AM
+BAG:virus add 5xBổ khí (old: 4) lydo: HQT at 03/24/2023 9:03 AM
+BAG:virus add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/24/2023 9:03 AM
+BAG:virus add 6xBổ khí (old: 5) lydo: HQT at 03/24/2023 9:03 AM
+BAG:virus add 2xBổ huyết (old: 1) lydo: HQT at 03/24/2023 9:03 AM
+BAG:virus add 1xGiầy vải thô lydo: Nhặt từ map at 03/24/2023 9:03 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 9:03 AM
+BAG:virus add 7xBổ khí (old: 6) lydo: HQT at 03/24/2023 9:03 AM
+BAG:virus add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/24/2023 9:03 AM
+BAG:virus add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/24/2023 9:03 AM
+BAG:virus add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/24/2023 9:03 AM
+BAG:virus add 3xBổ huyết (old: 2) lydo: HQT at 03/24/2023 9:03 AM
+BAG:virus add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/24/2023 9:03 AM
+BAG:virus add 1xRada cấp 1 lydo: Nhặt từ map at 03/24/2023 9:04 AM
+BAG:virus add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/24/2023 9:04 AM
+BAG:virus add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/24/2023 9:04 AM
+BAG:virus add 26xMảnh Quỷ bay (old: 25) lydo: Nhặt từ map at 03/24/2023 9:04 AM
+BAG:virus add 27xMảnh Quỷ bay (old: 26) lydo: Nhặt từ map at 03/24/2023 9:04 AM
+BAG:virus add 30xMảnh Quỷ đất (old: 29) lydo: Nhặt từ map at 03/24/2023 9:04 AM
+BAG:virus add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/24/2023 9:04 AM
+BAG:virus add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/24/2023 9:04 AM
+BAG:virus add 15xMảnh Quỷ đất mẹ (old: 14) lydo: Nhặt từ map at 03/24/2023 9:05 AM
+BAG:virus add 31xMảnh Quỷ đất (old: 30) lydo: Nhặt từ map at 03/24/2023 9:05 AM
+BAG:virus add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/24/2023 9:05 AM
+BAG:virus add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/24/2023 9:05 AM
+BAG:virus add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/24/2023 9:06 AM
+BAG:virus add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/24/2023 9:06 AM
+BAG:virus add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/24/2023 9:06 AM
+BAG:virus add 28xMảnh Quỷ bay (old: 27) lydo: Nhặt từ map at 03/24/2023 9:06 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 9:06 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 9:07 AM
+BAG:virus add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/24/2023 9:07 AM
+BAG:virus add 1xGiầy vải thô lydo: Nhặt từ map at 03/24/2023 9:07 AM
+BAG:virus add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/24/2023 9:07 AM
+BAG:virus add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/24/2023 9:07 AM
+BAG:virus add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/24/2023 9:07 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 9:08 AM
+BAG:virus add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/24/2023 9:08 AM
+BAG:virus add 29xMảnh Quỷ bay (old: 28) lydo: Nhặt từ map at 03/24/2023 9:08 AM
+BAG:virus add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/24/2023 9:08 AM
+BAG:virus add 32xMảnh Quỷ đất (old: 31) lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 30xMảnh Quỷ bay (old: 29) lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 1xGăng vải thô lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 16xMảnh Quỷ đất mẹ (old: 15) lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/24/2023 9:09 AM
+BAG:virus add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/24/2023 9:10 AM
+BAG:virus add 1xRada cấp 1 lydo: Nhặt từ map at 03/24/2023 9:10 AM
+BAG:virus add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/24/2023 9:10 AM
+BAG:virus add 33xMảnh Quỷ đất (old: 32) lydo: Nhặt từ map at 03/24/2023 9:11 AM
+BAG:virus add 31xMảnh Quỷ bay (old: 30) lydo: Nhặt từ map at 03/24/2023 9:11 AM
+BAG:virus add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/24/2023 9:11 AM
+BAG:virus add 34xMảnh Quỷ đất (old: 33) lydo: Nhặt từ map at 03/24/2023 9:11 AM
+BAG:virus add 17xMảnh Quỷ đất mẹ (old: 16) lydo: Nhặt từ map at 03/24/2023 9:11 AM
+BAG:virus add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/24/2023 9:11 AM
+BAG:virus add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/24/2023 9:12 AM
+BAG:virus add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/24/2023 9:12 AM
+BAG:virus add 32xMảnh Quỷ bay (old: 31) lydo: Nhặt từ map at 03/24/2023 9:12 AM
+BAG:virus add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/24/2023 9:12 AM
+BAG:virus add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/24/2023 9:12 AM
+BAG:virus add 33xMảnh Quỷ bay (old: 32) lydo: Nhặt từ map at 03/24/2023 9:12 AM
+BAG:virus add 35xMảnh Quỷ đất (old: 34) lydo: Nhặt từ map at 03/24/2023 9:12 AM
+BAG:virus add 18xMảnh Quỷ đất mẹ (old: 17) lydo: Nhặt từ map at 03/24/2023 9:13 AM
+BAG:virus add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/24/2023 9:13 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 9:13 AM
+BAG:virus add 19xMảnh Quỷ đất mẹ (old: 18) lydo: Nhặt từ map at 03/24/2023 9:13 AM
+BAG:virus add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/24/2023 9:13 AM
+BAG:virus add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/24/2023 9:14 AM
+BAG:virus add 36xMảnh Quỷ đất (old: 35) lydo: Nhặt từ map at 03/24/2023 9:14 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 9:14 AM
+BAG:virus add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/24/2023 9:14 AM
+BAG:virus add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/24/2023 9:15 AM
+BAG:virus add 34xMảnh Quỷ bay (old: 33) lydo: Nhặt từ map at 03/24/2023 9:15 AM
+BAG:virus add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/24/2023 9:15 AM
+BAG:virus add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/24/2023 9:15 AM
+BAG:virus add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 03/24/2023 9:16 AM
+BAG:virus add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/24/2023 9:16 AM
+BAG:virus add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/24/2023 9:16 AM
+BAG:virus add 1xGăng vải thô lydo: Nhặt từ map at 03/24/2023 9:16 AM
+BAG:virus add 37xMảnh Quỷ đất (old: 36) lydo: Nhặt từ map at 03/24/2023 9:16 AM
+BAG:virus add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/24/2023 9:17 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 9:17 AM
+BAG:virus add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/24/2023 9:17 AM
+BAG:virus add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 03/24/2023 9:17 AM
+BAG:virus add 1xRada cấp 1 lydo: Nhặt từ map at 03/24/2023 9:17 AM
+BAG:virus add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/24/2023 9:17 AM
+BAG:virus add 38xMảnh Quỷ đất (old: 37) lydo: Nhặt từ map at 03/24/2023 9:18 AM
+BAG:virus add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/24/2023 9:18 AM
+BAG:virus add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 03/24/2023 9:18 AM
+BAG:virus add 39xMảnh Quỷ đất (old: 38) lydo: Nhặt từ map at 03/24/2023 9:18 AM
+BAG:virus add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/24/2023 9:18 AM
+BAG:virus add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/24/2023 9:18 AM
+BAG:virus add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 03/24/2023 9:19 AM
+BAG:virus add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/24/2023 9:19 AM
+BAG:virus add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/24/2023 9:20 AM
+BAG:virus add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/24/2023 9:20 AM
+BAG:virus add 35xMảnh Quỷ bay (old: 34) lydo: Nhặt từ map at 03/24/2023 9:20 AM
+BAG:virus add 1xGăng vải thô lydo: Nhặt từ map at 03/24/2023 9:20 AM
+BAG:virus add 40xMảnh Quỷ đất (old: 39) lydo: Nhặt từ map at 03/24/2023 9:20 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 9:21 AM
+BAG:virus add 36xMảnh Quỷ bay (old: 35) lydo: Nhặt từ map at 03/24/2023 9:21 AM
+BAG:virus add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 03/24/2023 9:21 AM
+BAG:virus add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/24/2023 9:21 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 9:21 AM
+BAG:virus add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/24/2023 9:22 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 9:22 AM
+BAG:virus add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/24/2023 9:22 AM
+BAG:virus add 37xMảnh Quỷ bay (old: 36) lydo: Nhặt từ map at 03/24/2023 9:22 AM
+BAG:virus add 38xMảnh Quỷ bay (old: 37) lydo: Nhặt từ map at 03/24/2023 9:22 AM
+BAG:virus add 41xMảnh Quỷ đất (old: 40) lydo: Nhặt từ map at 03/24/2023 9:22 AM
+BAG:virus add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/24/2023 9:22 AM
+BAG:virus add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/24/2023 9:23 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 9:23 AM
+BAG:virus add 1xÁo vải thô lydo: Nhặt từ map at 03/24/2023 9:23 AM
+BAG:virus add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/24/2023 9:23 AM
+BAG:virus add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/24/2023 9:23 AM
+BAG:virus add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/24/2023 9:23 AM
+BAG:virus add 42xMảnh Quỷ đất (old: 41) lydo: Nhặt từ map at 03/24/2023 9:23 AM
+BAG:virus add 43xMảnh Quỷ đất (old: 42) lydo: Nhặt từ map at 03/24/2023 9:23 AM
+BAG:virus add 39xMảnh Quỷ bay (old: 38) lydo: Nhặt từ map at 03/24/2023 9:23 AM
+BAG:virus add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/24/2023 9:23 AM
+BAG:virus add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/24/2023 9:24 AM
+BAG:virus add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/24/2023 9:24 AM
+BAG:virus add 44xMảnh Quỷ đất (old: 43) lydo: Nhặt từ map at 03/24/2023 9:24 AM
+BAG:virus add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 03/24/2023 9:24 AM
+BAG:virus add 45xMảnh Quỷ đất (old: 44) lydo: Nhặt từ map at 03/24/2023 9:34 AM
+BAG:virus add 46xMảnh Quỷ đất (old: 45) lydo: Nhặt từ map at 03/24/2023 9:34 AM
+BAG:virus add 47xMảnh Quỷ đất (old: 46) lydo: Nhặt từ map at 03/24/2023 9:35 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 9:35 AM
+BAG:virus add 48xMảnh Quỷ đất (old: 47) lydo: Nhặt từ map at 03/24/2023 9:35 AM
+BAG:virus add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 03/24/2023 9:36 AM
+BAG:virus add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/24/2023 9:36 AM
+BAG:virus add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 03/24/2023 9:36 AM
+BAG:virus add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 03/24/2023 9:36 AM
+BAG:virus add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 03/24/2023 9:36 AM
+BAG:virus add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/24/2023 9:36 AM
+BAG:virus add 49xMảnh Quỷ đất (old: 48) lydo: Nhặt từ map at 03/24/2023 9:36 AM
+BAG:virus add 40xMảnh Quỷ bay (old: 39) lydo: Nhặt từ map at 03/24/2023 9:36 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 9:37 AM
+BAG:virus add 50xMảnh Quỷ đất (old: 49) lydo: Nhặt từ map at 03/24/2023 9:37 AM
+BAG:virus add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 03/24/2023 9:37 AM
+BAG:virus add 1xQuần vải thô lydo: Nhặt từ map at 03/24/2023 9:37 AM
+BAG:virus add 20xMảnh Quỷ đất mẹ (old: 19) lydo: Nhặt từ map at 03/24/2023 9:38 AM
+BAG:virus add 1xGăng vải thô lydo: Nhặt từ map at 03/24/2023 9:38 AM
+BAG:virus add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 03/24/2023 9:38 AM
+BAG:virus add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 03/24/2023 9:38 AM
+BAG:virus add 51xMảnh Quỷ đất (old: 50) lydo: Nhặt từ map at 03/24/2023 9:38 AM
+BAG:virus add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 03/24/2023 9:39 AM
+BAG:virus add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 03/24/2023 9:39 AM
+BAG:virus add 52xMảnh Quỷ đất (old: 51) lydo: Nhặt từ map at 03/24/2023 9:39 AM
+BAG:virus add 41xMảnh Quỷ bay (old: 40) lydo: Nhặt từ map at 03/24/2023 9:39 AM
+BAG:virus add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/24/2023 9:39 AM
+BAG:virus add 53xMảnh Quỷ đất (old: 52) lydo: Nhặt từ map at 03/24/2023 9:39 AM
+BAG:virus add 42xMảnh Quỷ bay (old: 41) lydo: Nhặt từ map at 03/24/2023 9:39 AM
+BAG:virus add 54xMảnh Quỷ đất (old: 53) lydo: Nhặt từ map at 03/24/2023 9:39 AM
+BAG:virus add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/24/2023 9:39 AM
+BAG:virus add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/24/2023 9:40 AM
+BAG:virus add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 03/24/2023 9:40 AM
+BAG:virus add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/24/2023 9:40 AM
+BAG:virus add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 03/24/2023 9:40 AM
+BAG:virus add 43xMảnh Quỷ bay (old: 42) lydo: Nhặt từ map at 03/24/2023 9:40 AM
+BAG:virus add 55xMảnh Quỷ đất (old: 54) lydo: Nhặt từ map at 03/24/2023 9:40 AM
+BAG:virus add 44xMảnh Quỷ bay (old: 43) lydo: Nhặt từ map at 03/24/2023 9:41 AM
+BAG:virus add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/24/2023 9:41 AM
+BAG:virus add 21xMảnh Quỷ đất mẹ (old: 20) lydo: Nhặt từ map at 03/24/2023 9:41 AM
+BAG:virus add 45xMảnh Quỷ bay (old: 44) lydo: Nhặt từ map at 03/24/2023 9:41 AM
+BAG:virus add 56xMảnh Quỷ đất (old: 55) lydo: Nhặt từ map at 03/24/2023 9:41 AM
+BAG:virus add 57xMảnh Quỷ đất (old: 56) lydo: Nhặt từ map at 03/24/2023 9:41 AM
+BAG:virus add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 03/24/2023 9:41 AM
+BAG:virus add 58xMảnh Quỷ đất (old: 57) lydo: Nhặt từ map at 03/24/2023 9:42 AM
+BAG:virus add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/24/2023 9:42 AM
+BAG:virus add 46xMảnh Quỷ bay (old: 45) lydo: Nhặt từ map at 03/24/2023 9:42 AM
+BAG:virus add 59xMảnh Quỷ đất (old: 58) lydo: Nhặt từ map at 03/24/2023 9:42 AM
+BAG:virus add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 03/24/2023 9:42 AM
+BAG:virus add 60xMảnh Quỷ đất (old: 59) lydo: Nhặt từ map at 03/24/2023 9:42 AM
+BAG:virus add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/24/2023 9:43 AM
+BAG:virus add 47xMảnh Quỷ bay (old: 46) lydo: Nhặt từ map at 03/24/2023 9:43 AM
+BAG:virus add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 03/24/2023 9:43 AM
+BAG:virus add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/24/2023 9:43 AM
+BAG:virus add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/24/2023 9:43 AM
+BAG:virus add 48xMảnh Quỷ bay (old: 47) lydo: Nhặt từ map at 03/24/2023 9:44 AM
+BAG:virus add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/24/2023 9:45 AM
+BAG:virus add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 03/24/2023 9:45 AM
+BAG:virus add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/24/2023 9:45 AM
+BAG:virus add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/24/2023 9:45 AM
+BAG:virus add 61xMảnh Quỷ đất (old: 60) lydo: Nhặt từ map at 03/24/2023 9:46 AM
+BAG:virus add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 03/24/2023 9:46 AM
+BAG:virus add 22xMảnh Quỷ đất mẹ (old: 21) lydo: Nhặt từ map at 03/24/2023 9:46 AM
+BAG:virus add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/24/2023 9:46 AM
+BAG:virus add 49xMảnh Quỷ bay (old: 48) lydo: Nhặt từ map at 03/24/2023 9:46 AM
+BAG:virus add 50xMảnh Quỷ bay (old: 49) lydo: Nhặt từ map at 03/24/2023 9:46 AM
+BAG:virus add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 03/24/2023 9:47 AM
+BAG:virus add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/24/2023 9:47 AM
+BAG:virus add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/24/2023 9:47 AM
+BAG:virus add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/24/2023 9:47 AM
+BAG:virus add 62xMảnh Quỷ đất (old: 61) lydo: Nhặt từ map at 03/24/2023 9:48 AM
+BAG:virus add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 03/24/2023 9:48 AM
+BAG:virus add 51xMảnh Quỷ bay (old: 50) lydo: Nhặt từ map at 03/24/2023 9:48 AM
+BAG:virus add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 03/24/2023 9:48 AM
+BAG:virus add 52xMảnh Quỷ bay (old: 51) lydo: Nhặt từ map at 03/24/2023 9:48 AM
+BAG:virus add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/24/2023 9:48 AM
+BAG:virus add 67xĐá Titan (old: 66) lydo: Nhặt từ map at 03/24/2023 9:49 AM
+BAG:virus add 53xMảnh Quỷ bay (old: 52) lydo: Nhặt từ map at 03/24/2023 9:49 AM
+BAG:virus add 54xMảnh Quỷ bay (old: 53) lydo: Nhặt từ map at 03/24/2023 9:49 AM
+BAG:virus add 63xMảnh Quỷ đất (old: 62) lydo: Nhặt từ map at 03/24/2023 9:49 AM
+BAG:virus add 64xMảnh Quỷ đất (old: 63) lydo: Nhặt từ map at 03/24/2023 9:49 AM
+BAG:virus add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 03/24/2023 9:50 AM
+BAG:virus add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/24/2023 9:50 AM
+BAG:virus add 65xMảnh Quỷ đất (old: 64) lydo: Nhặt từ map at 03/24/2023 9:50 AM
+BAG:virus add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/24/2023 9:50 AM
+BAG:virus add 55xMảnh Quỷ bay (old: 54) lydo: Nhặt từ map at 03/24/2023 9:50 AM
+BAG:virus add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/24/2023 9:50 AM
+BAG:virus add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/24/2023 9:51 AM
+BAG:virus add 56xMảnh Quỷ bay (old: 55) lydo: Nhặt từ map at 03/24/2023 9:51 AM
+BAG:virus add 66xMảnh Quỷ đất (old: 65) lydo: Nhặt từ map at 03/24/2023 9:51 AM
+BAG:virus add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/24/2023 9:51 AM
+BAG:virus add 67xMảnh Quỷ đất (old: 66) lydo: Nhặt từ map at 03/24/2023 9:51 AM
+BAG:virus add 68xMảnh Quỷ đất (old: 67) lydo: Nhặt từ map at 03/24/2023 9:52 AM
+BAG:virus add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/24/2023 9:52 AM
+BAG:virus add 57xMảnh Quỷ bay (old: 56) lydo: Nhặt từ map at 03/24/2023 9:52 AM
+BAG:virus add 69xMảnh Quỷ đất (old: 68) lydo: Nhặt từ map at 03/24/2023 9:53 AM
+BAG:virus add 1xRada cấp 1 lydo: Nhặt từ map at 03/24/2023 9:53 AM
+BAG:virus add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/24/2023 9:55 AM
+BAG:virus add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/24/2023 9:55 AM
+BAG:virus add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/24/2023 9:55 AM
+BAG:virus add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/24/2023 9:56 AM
+BAG:virus add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/24/2023 9:56 AM
+BAG:virus add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/24/2023 9:56 AM
+BAG:virus add 1xCải trang Chaien lydo: Lấy từ rương qua người at 03/24/2023 9:58 AM
+BAG:virus add 1xCải trang VIP lydo: Lấy từ rương qua người at 03/24/2023 9:58 AM
+BAG:virus add 1xCải trang Đôrêmon lydo: Lấy từ rương qua người at 03/24/2023 9:58 AM
+BAG:virus add 1xCải trang Hit lydo: Lấy từ rương qua người at 03/24/2023 9:58 AM
+BAG:virus add 1xCải trang Xuka lydo: Lấy từ rương qua người at 03/24/2023 9:58 AM
+BAG:virus add 1xCải trang Nobita lydo: Lấy từ rương qua người at 03/24/2023 9:58 AM
+BAG:virus add 1xCải trang Xekô lydo: Lấy từ rương qua người at 03/24/2023 9:58 AM
+BAG:virus add 1xCải trang Mabư Noel lydo: Lấy từ rương qua người at 03/24/2023 9:58 AM
+BAG:virus add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 11:34 AM
+BAG:virus add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 11:34 AM
+BAG:virus add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 11:34 AM
+BAG:virus add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/24/2023 11:34 AM
+BAG:virus add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/24/2023 11:34 AM
+BAG:virus add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM
+BAG:virus add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM
+BAG:virus add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM
+BAG:virus add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM
+BAG:virus add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM
+BAG:virus add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM
+BAG:virus add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM
+BAG:virus add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM
+BAG:virus add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM
+BAG:virus add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM
+BAG:virus add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM
+BAG:virus add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/24/2023 11:35 AM

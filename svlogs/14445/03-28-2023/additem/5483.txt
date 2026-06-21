@@ -1,0 +1,291 @@
+BAG:ngocquyen add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/28/2023 9:59 PM
+BAG:ngocquyen add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 10:00 PM
+BAG:ngocquyen add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 10:00 PM
+BAG:ngocquyen add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/28/2023 10:01 PM
+BAG:ngocquyen add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/28/2023 10:01 PM
+BAG:ngocquyen add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/28/2023 10:01 PM
+BAG:ngocquyen add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/28/2023 10:01 PM
+BAG:ngocquyen add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/28/2023 10:01 PM
+BAG:ngocquyen add 31xĐậu thần cấp 10 (old: 11) lydo: Lấy từ rương qua người at 03/28/2023 10:01 PM
+BAG:ngocquyen add 51xĐậu thần cấp 10 (old: 31) lydo: Lấy từ rương qua người at 03/28/2023 10:02 PM
+BAG:ngocquyen add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 10:08 PM
+BAG:ngocquyen add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/28/2023 10:09 PM
+BAG:ngocquyen add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:10 PM
+BAG:ngocquyen add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:10 PM
+BAG:ngocquyen add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:10 PM
+BAG:ngocquyen add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:10 PM
+BAG:ngocquyen add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:10 PM
+BAG:ngocquyen add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:10 PM
+BAG:ngocquyen add 1xAvatar lydo: Mua từ cửa hàng at 03/28/2023 10:11 PM
+BAG:ngocquyen add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 10:12 PM
+BAG:ngocquyen add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 10:12 PM
+BAG:ngocquyen add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 10:14 PM
+BAG:ngocquyen add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 10:17 PM
+BAG:ngocquyen add 25xThỏi vàng lydo: Đổi vàng at 03/28/2023 10:21 PM
+BAG:ngocquyen add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 10:22 PM
+BAG:ngocquyen add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 10:22 PM
+BAG:ngocquyen add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 10:22 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:ngocquyen add 1xKiếm ánh sáng lydo: Mua từ cửa hàng at 03/28/2023 10:23 PM
+BAG:ngocquyen add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/28/2023 10:23 PM
+BAG:ngocquyen add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/28/2023 10:24 PM
+BAG:ngocquyen add 1xCải trang Trâu trắng lydo: Mua từ bill at 03/28/2023 10:25 PM
+BAG:ngocquyen add 1xCải trang Trâu vàng lydo: Mua từ bill at 03/28/2023 10:26 PM
+BAG:ngocquyen add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 10:27 PM
+BAG:ngocquyen add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 10:30 PM
+BAG:ngocquyen add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 10:31 PM
+BAG:ngocquyen add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 10:34 PM
+BAG:ngocquyen add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 10:35 PM
+BAG:ngocquyen add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/28/2023 10:35 PM
+BAG:ngocquyen add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 10:36 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:37 PM
+BAG:ngocquyen add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 10:38 PM
+BAG:ngocquyen add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 10:38 PM
+BAG:ngocquyen add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 10:38 PM
+BAG:ngocquyen add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 10:38 PM
+BAG:ngocquyen add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 10:38 PM
+BAG:ngocquyen add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 10:38 PM
+BAG:ngocquyen add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 10:38 PM
+BAG:ngocquyen add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 10:38 PM
+BAG:ngocquyen add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 10:39 PM
+BAG:ngocquyen add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/28/2023 10:39 PM
+BAG:ngocquyen add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/28/2023 10:39 PM
+BAG:ngocquyen add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/28/2023 10:40 PM
+BAG:ngocquyen add 1xBổ khí lydo: HQT at 03/28/2023 10:40 PM
+BAG:ngocquyen add 1xBổ huyết lydo: HQT at 03/28/2023 10:40 PM
+BAG:ngocquyen add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 10:40 PM
+BAG:ngocquyen add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 10:42 PM
+BAG:ngocquyen add 2xBổ khí (old: 1) lydo: HQT at 03/28/2023 10:42 PM
+BAG:ngocquyen add 1xCuồng nộ lydo: HQT at 03/28/2023 10:42 PM
+BAG:ngocquyen add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 10:42 PM
+BAG:ngocquyen add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 10:42 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:42 PM
+BAG:ngocquyen add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 10:42 PM
+BAG:ngocquyen add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 10:43 PM
+BAG:ngocquyen add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 10:43 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:44 PM
+BAG:ngocquyen add 1xNgọc Rồng 4 sao lydo: HQT at 03/28/2023 10:45 PM
+BAG:ngocquyen add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/28/2023 10:45 PM
+BAG:ngocquyen add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/28/2023 10:45 PM
+BAG:ngocquyen add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 10:46 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:46 PM
+BAG:ngocquyen add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 10:48 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:48 PM
+BAG:ngocquyen add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 21xĐổi đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 22xĐổi đệ tử (old: 21) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 23xĐổi đệ tử (old: 22) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 24xĐổi đệ tử (old: 23) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 25xĐổi đệ tử (old: 24) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 26xĐổi đệ tử (old: 25) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 27xĐổi đệ tử (old: 26) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 28xĐổi đệ tử (old: 27) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 29xĐổi đệ tử (old: 28) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 30xĐổi đệ tử (old: 29) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 31xĐổi đệ tử (old: 30) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 32xĐổi đệ tử (old: 31) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 33xĐổi đệ tử (old: 32) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 34xĐổi đệ tử (old: 33) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 35xĐổi đệ tử (old: 34) lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:ngocquyen add 36xĐổi đệ tử (old: 35) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 37xĐổi đệ tử (old: 36) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 38xĐổi đệ tử (old: 37) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 39xĐổi đệ tử (old: 38) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 40xĐổi đệ tử (old: 39) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 41xĐổi đệ tử (old: 40) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 42xĐổi đệ tử (old: 41) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 43xĐổi đệ tử (old: 42) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 44xĐổi đệ tử (old: 43) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 45xĐổi đệ tử (old: 44) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 46xĐổi đệ tử (old: 45) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 47xĐổi đệ tử (old: 46) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 48xĐổi đệ tử (old: 47) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 49xĐổi đệ tử (old: 48) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 50xĐổi đệ tử (old: 49) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 51xĐổi đệ tử (old: 50) lydo: Mua từ cửa hàng at 03/28/2023 10:50 PM
+BAG:ngocquyen add 3xBổ khí (old: 2) lydo: HQT at 03/28/2023 10:51 PM
+BAG:ngocquyen add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 10:51 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:51 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:54 PM
+BAG:ngocquyen add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/28/2023 10:56 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:56 PM
+BAG:ngocquyen add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/28/2023 10:58 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 10:59 PM
+BAG:ngocquyen add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/28/2023 11:01 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:02 PM
+BAG:ngocquyen add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/28/2023 11:03 PM
+BAG:ngocquyen add 2xBổ huyết (old: 1) lydo: HQT at 03/28/2023 11:03 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:03 PM
+BAG:ngocquyen add 23xPháo hoa (old: 18) lydo: Nhặt từ map at 03/28/2023 11:03 PM
+BAG:ngocquyen add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 11:05 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:05 PM
+BAG:ngocquyen add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 11:07 PM
+BAG:ngocquyen add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 11:09 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:09 PM
+BAG:ngocquyen add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 11:10 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:11 PM
+BAG:ngocquyen add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 11:12 PM
+BAG:ngocquyen add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 11:13 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:13 PM
+BAG:ngocquyen add 28xPháo hoa (old: 23) lydo: Nhặt từ map at 03/28/2023 11:14 PM
+BAG:ngocquyen add 33xPháo hoa (old: 28) lydo: Nhặt từ map at 03/28/2023 11:14 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:15 PM
+BAG:ngocquyen add 38xPháo hoa (old: 33) lydo: Nhặt từ map at 03/28/2023 11:17 PM
+BAG:ngocquyen add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 11:17 PM
+BAG:ngocquyen add 43xPháo hoa (old: 38) lydo: Nhặt từ map at 03/28/2023 11:17 PM
+BAG:ngocquyen add 48xPháo hoa (old: 43) lydo: Nhặt từ map at 03/28/2023 11:18 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:18 PM
+BAG:ngocquyen add 53xPháo hoa (old: 48) lydo: Nhặt từ map at 03/28/2023 11:18 PM
+BAG:ngocquyen add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 11:20 PM
+BAG:ngocquyen add 58xPháo hoa (old: 53) lydo: Nhặt từ map at 03/28/2023 11:21 PM
+BAG:ngocquyen add 63xPháo hoa (old: 58) lydo: Nhặt từ map at 03/28/2023 11:23 PM
+BAG:ngocquyen add 68xPháo hoa (old: 63) lydo: Nhặt từ map at 03/28/2023 11:23 PM
+BAG:ngocquyen add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 11:23 PM
+BAG:ngocquyen add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 11:23 PM
+BAG:ngocquyen add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 11:23 PM
+BAG:ngocquyen add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 11:23 PM
+BAG:ngocquyen add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 11:23 PM
+BAG:ngocquyen add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 11:23 PM
+BAG:ngocquyen add 73xPháo hoa (old: 68) lydo: Nhặt từ map at 03/28/2023 11:23 PM
+BAG:ngocquyen add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 11:23 PM
+BAG:ngocquyen add 1xGiáp Xên bọ hung lydo: HQT at 03/28/2023 11:25 PM
+BAG:ngocquyen add 4xBổ khí (old: 3) lydo: HQT at 03/28/2023 11:25 PM
+BAG:ngocquyen add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/28/2023 11:25 PM
+BAG:ngocquyen add 2xCuồng nộ (old: 1) lydo: HQT at 03/28/2023 11:25 PM
+BAG:ngocquyen add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/28/2023 11:25 PM
+BAG:ngocquyen add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/28/2023 11:25 PM
+BAG:ngocquyen add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/28/2023 11:25 PM
+BAG:ngocquyen add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/28/2023 11:25 PM
+BAG:ngocquyen add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/28/2023 11:25 PM
+BAG:ngocquyen add 3xCuồng nộ (old: 2) lydo: HQT at 03/28/2023 11:25 PM
+BAG:ngocquyen add 1xNgọc Rồng 7 sao lydo: HQT at 03/28/2023 11:26 PM
+BAG:ngocquyen add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/28/2023 11:26 PM
+BAG:ngocquyen add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/28/2023 11:26 PM
+BAG:ngocquyen add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/28/2023 11:26 PM
+BAG:ngocquyen add 4xCuồng nộ (old: 3) lydo: HQT at 03/28/2023 11:26 PM
+BAG:ngocquyen add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 11:28 PM
+BAG:ngocquyen add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 11:29 PM
+BAG:ngocquyen add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/28/2023 11:29 PM
+BAG:ngocquyen add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/28/2023 11:29 PM
+BAG:ngocquyen add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/28/2023 11:29 PM
+BAG:ngocquyen add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/28/2023 11:29 PM
+BAG:ngocquyen add 5xBổ khí (old: 4) lydo: HQT at 03/28/2023 11:29 PM
+BAG:ngocquyen add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 11:31 PM
+BAG:ngocquyen add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 11:31 PM
+BAG:ngocquyen add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 11:31 PM
+BAG:ngocquyen add 6xBổ khí (old: 5) lydo: HQT at 03/28/2023 11:32 PM
+BAG:ngocquyen add 7xBổ khí (old: 6) lydo: HQT at 03/28/2023 11:32 PM
+BAG:ngocquyen add 8xBổ khí (old: 7) lydo: HQT at 03/28/2023 11:32 PM
+BAG:ngocquyen add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/28/2023 11:32 PM
+BAG:ngocquyen add 3xBổ huyết (old: 2) lydo: HQT at 03/28/2023 11:32 PM
+BAG:ngocquyen add 9xBổ khí (old: 8) lydo: HQT at 03/28/2023 11:32 PM
+BAG:ngocquyen add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/28/2023 11:32 PM
+BAG:ngocquyen add 4xBổ huyết (old: 3) lydo: HQT at 03/28/2023 11:32 PM
+BAG:ngocquyen add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/28/2023 11:32 PM
+BAG:ngocquyen add 5xBổ huyết (old: 4) lydo: HQT at 03/28/2023 11:32 PM
+BAG:ngocquyen add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/28/2023 11:33 PM
+BAG:ngocquyen add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 11:33 PM
+BAG:ngocquyen add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 11:33 PM
+BAG:ngocquyen add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 11:33 PM
+BAG:ngocquyen add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 11:33 PM
+BAG:ngocquyen add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 11:34 PM
+BAG:ngocquyen add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 11:34 PM
+BAG:ngocquyen add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 11:35 PM
+BAG:ngocquyen add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/28/2023 11:35 PM
+BAG:ngocquyen add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 11:37 PM
+BAG:ngocquyen add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 11:37 PM
+BAG:ngocquyen add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/28/2023 11:38 PM
+BAG:ngocquyen add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/28/2023 11:39 PM
+BAG:ngocquyen add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 11:39 PM
+BAG:ngocquyen add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 11:40 PM
+BAG:ngocquyen add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 11:40 PM
+BAG:ngocquyen add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 11:42 PM
+BAG:ngocquyen add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/28/2023 11:42 PM
+BAG:ngocquyen add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 11:42 PM
+BAG:ngocquyen add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 11:44 PM
+BAG:ngocquyen add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 11:44 PM
+BAG:ngocquyen add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 11:45 PM
+BAG:ngocquyen add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/28/2023 11:45 PM
+BAG:ngocquyen add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/28/2023 11:47 PM
+BAG:ngocquyen add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 11:48 PM
+BAG:ngocquyen add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/28/2023 11:48 PM
+BAG:ngocquyen add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 11:49 PM
+BAG:ngocquyen add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/28/2023 11:49 PM
+BAG:ngocquyen add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/28/2023 11:49 PM
+BAG:ngocquyen add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 11:49 PM
+BAG:ngocquyen add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/28/2023 11:50 PM
+BAG:ngocquyen add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/28/2023 11:51 PM
+BAG:ngocquyen add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/28/2023 11:51 PM
+BAG:ngocquyen add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:52 PM
+BAG:ngocquyen add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:52 PM
+BAG:ngocquyen add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/28/2023 11:52 PM
+BAG:ngocquyen add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/28/2023 11:52 PM
+BAG:ngocquyen add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/28/2023 11:52 PM
+BAG:ngocquyen add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 03/28/2023 11:52 PM
+BAG:ngocquyen add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xQuả cầu Kênh Khi lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xQuả cầu Kênh Khi lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xQuả cầu Kênh Khi lv4 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xQuả cầu Kênh Khi lv5 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xQuả cầu Kênh Khi lv6 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xQuả cầu Kênh Khi lv7 lydo: Mua từ cửa hàng at 03/28/2023 11:53 PM
+BAG:ngocquyen add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/28/2023 11:54 PM
+BAG:ngocquyen add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:54 PM
+BAG:ngocquyen add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:54 PM
+BAG:ngocquyen add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/28/2023 11:59 PM
+BAG:ngocquyen add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/28/2023 11:59 PM
+BAG:ngocquyen add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/28/2023 11:59 PM
+BAG:ngocquyen add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/28/2023 11:59 PM

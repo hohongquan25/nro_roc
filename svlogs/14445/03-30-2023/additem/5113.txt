@@ -1,0 +1,535 @@
+BAG:painesville add 67xNgọc Rồng 6 sao (old: 66) lydo: HQT at 03/30/2023 4:46 AM
+BAG:painesville add 59xNgọc Rồng 5 sao (old: 58) lydo: HQT at 03/30/2023 4:46 AM
+BAG:painesville add 68xNgọc Rồng 6 sao (old: 67) lydo: HQT at 03/30/2023 4:46 AM
+BAG:painesville add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/30/2023 4:46 AM
+BAG:painesville add 53xNgọc Rồng 4 sao (old: 52) lydo: HQT at 03/30/2023 4:46 AM
+BAG:painesville add 54xNgọc Rồng 4 sao (old: 53) lydo: HQT at 03/30/2023 4:46 AM
+BAG:painesville add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/30/2023 4:46 AM
+BAG:painesville add 69xNgọc Rồng 6 sao (old: 68) lydo: HQT at 03/30/2023 4:46 AM
+BAG:painesville add 5xPháo hoa lydo: Nhặt từ map at 03/30/2023 4:47 AM
+BAG:painesville add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/30/2023 4:48 AM
+BAG:painesville add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/30/2023 4:49 AM
+BAG:painesville add 1xBổ huyết lydo: HQT at 03/30/2023 4:49 AM
+BAG:painesville add 2xBổ huyết (old: 1) lydo: HQT at 03/30/2023 4:49 AM
+BAG:painesville add 6xBổ khí (old: 5) lydo: HQT at 03/30/2023 4:49 AM
+BAG:painesville add 70xNgọc Rồng 6 sao (old: 69) lydo: HQT at 03/30/2023 4:49 AM
+BAG:painesville add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/30/2023 4:49 AM
+BAG:painesville add 7xBổ khí (old: 6) lydo: HQT at 03/30/2023 4:49 AM
+BAG:painesville add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/30/2023 4:49 AM
+BAG:painesville add 8xBổ khí (old: 7) lydo: HQT at 03/30/2023 4:49 AM
+BAG:painesville add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/30/2023 4:49 AM
+BAG:painesville add 1xPháo hoa lydo: Nhặt từ map at 03/30/2023 4:55 AM
+BAG:painesville add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 4:55 AM
+BAG:painesville add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 4:55 AM
+BAG:painesville add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 4:55 AM
+BAG:painesville add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/30/2023 4:55 AM
+BAG:painesville add 1xCải trang Trâu Đốm lydo: Lấy từ body đệ vào hành trang at 03/30/2023 4:55 AM
+BAG:painesville add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/30/2023 4:55 AM
+BAG:painesville add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/30/2023 4:57 AM
+BAG:painesville add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/30/2023 4:57 AM
+BAG:painesville add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/30/2023 4:57 AM
+BAG:painesville add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/30/2023 4:57 AM
+BAG:painesville add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/30/2023 4:57 AM
+BAG:painesville add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/30/2023 4:57 AM
+BAG:painesville add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/30/2023 4:57 AM
+BAG:painesville add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/30/2023 4:57 AM
+BAG:painesville add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/30/2023 4:57 AM
+BAG:painesville add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/30/2023 4:57 AM
+BAG:painesville add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/30/2023 4:57 AM
+BAG:painesville add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/30/2023 4:57 AM
+BAG:painesville add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/30/2023 4:58 AM
+BAG:painesville add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/30/2023 5:10 AM
+BAG:painesville add 1xCải trang Trâu Đốm lydo: Lấy từ body vào hành trang at 03/30/2023 5:10 AM
+BAG:painesville add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/30/2023 5:16 AM
+BAG:painesville add 79xĐậu thần cấp 10 (old: 59) lydo: Lấy từ rương qua người at 03/30/2023 5:18 AM
+BAG:painesville add 99xĐậu thần cấp 10 (old: 79) lydo: Lấy từ rương qua người at 03/30/2023 5:18 AM
+BAG:painesville add 20xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/30/2023 5:18 AM
+BAG:painesville add 40xĐậu thần cấp 10 (old: 20) lydo: Lấy từ rương qua người at 03/30/2023 5:18 AM
+BAG:painesville add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/30/2023 5:19 AM
+BAG:painesville add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 5:27 AM
+BAG:painesville add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 5:27 AM
+BAG:painesville add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 5:27 AM
+BAG:painesville add 1xNhẫn Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/30/2023 5:27 AM
+BAG:painesville add 1xGăng Thần Xayda lydo: Lấy từ body đệ vào hành trang at 03/30/2023 5:27 AM
+BAG:painesville add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/30/2023 5:30 AM
+BAG:painesville add 5xPháo hoa lydo: Nhặt từ map at 03/30/2023 5:31 AM
+BAG:painesville add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/30/2023 5:32 AM
+BAG:painesville add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/30/2023 5:32 AM
+BAG:painesville add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/30/2023 5:32 AM
+BAG:painesville add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/30/2023 5:33 AM
+BAG:painesville add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/30/2023 5:33 AM
+BAG:painesville add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/30/2023 5:33 AM
+BAG:painesville add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/30/2023 5:33 AM
+BAG:painesville add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/30/2023 5:33 AM
+BAG:painesville add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/30/2023 5:33 AM
+BAG:painesville add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/30/2023 5:34 AM
+BAG:painesville add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/30/2023 5:34 AM
+BAG:painesville add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/30/2023 5:34 AM
+BAG:painesville add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/30/2023 5:34 AM
+BAG:painesville add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/30/2023 5:34 AM
+BAG:painesville add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/30/2023 5:34 AM
+BAG:painesville add 50xPháo hoa (old: 45) lydo: Nhặt từ map at 03/30/2023 5:34 AM
+BAG:painesville add 55xPháo hoa (old: 50) lydo: Nhặt từ map at 03/30/2023 5:34 AM
+BAG:painesville add 60xPháo hoa (old: 55) lydo: Nhặt từ map at 03/30/2023 5:35 AM
+BAG:painesville add 65xPháo hoa (old: 60) lydo: Nhặt từ map at 03/30/2023 5:35 AM
+BAG:painesville add 59xNgọc Rồng 5 sao (old: 58) lydo: Nhặt từ map at 03/30/2023 5:36 AM
+BAG:painesville add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/30/2023 5:36 AM
+BAG:painesville add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/30/2023 5:36 AM
+BAG:painesville add 70xPháo hoa (old: 65) lydo: Nhặt từ map at 03/30/2023 5:37 AM
+BAG:painesville add 75xPháo hoa (old: 70) lydo: Nhặt từ map at 03/30/2023 5:37 AM
+BAG:painesville add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/30/2023 5:39 AM
+BAG:painesville add 80xPháo hoa (old: 75) lydo: Nhặt từ map at 03/30/2023 5:40 AM
+BAG:painesville add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/30/2023 5:40 AM
+BAG:painesville add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/30/2023 5:40 AM
+BAG:painesville add 85xPháo hoa (old: 80) lydo: Nhặt từ map at 03/30/2023 5:41 AM
+BAG:painesville add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/30/2023 5:41 AM
+BAG:painesville add 70xNgọc Rồng 6 sao (old: 69) lydo: Nhặt từ map at 03/30/2023 5:41 AM
+BAG:painesville add 90xPháo hoa (old: 85) lydo: Nhặt từ map at 03/30/2023 5:42 AM
+BAG:painesville add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/30/2023 5:42 AM
+BAG:painesville add 95xPháo hoa (old: 90) lydo: Nhặt từ map at 03/30/2023 5:42 AM
+BAG:painesville add 71xNgọc Rồng 6 sao (old: 70) lydo: Nhặt từ map at 03/30/2023 5:42 AM
+BAG:painesville add 60xNgọc Rồng 5 sao (old: 59) lydo: Nhặt từ map at 03/30/2023 5:42 AM
+BAG:painesville add 1xPháo hoa lydo: Nhặt từ map at 03/30/2023 5:43 AM
+BAG:painesville add 99xPháo hoa (old: 95) lydo: Nhặt từ map at 03/30/2023 5:43 AM
+BAG:painesville add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/30/2023 5:43 AM
+BAG:painesville add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/30/2023 5:44 AM
+BAG:painesville add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/30/2023 5:44 AM
+BAG:painesville add 6xPháo hoa (old: 1) lydo: Nhặt từ map at 03/30/2023 5:44 AM
+BAG:painesville add 61xNgọc Rồng 5 sao (old: 60) lydo: Nhặt từ map at 03/30/2023 5:45 AM
+BAG:painesville add 11xPháo hoa (old: 6) lydo: Nhặt từ map at 03/30/2023 5:46 AM
+BAG:painesville add 16xPháo hoa (old: 11) lydo: Nhặt từ map at 03/30/2023 5:46 AM
+BAG:painesville add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/30/2023 5:46 AM
+BAG:painesville add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/30/2023 5:46 AM
+BAG:painesville add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/30/2023 5:46 AM
+BAG:painesville add 21xPháo hoa (old: 16) lydo: Nhặt từ map at 03/30/2023 5:47 AM
+BAG:painesville add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/30/2023 5:47 AM
+BAG:painesville add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/30/2023 5:48 AM
+BAG:painesville add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/30/2023 5:48 AM
+BAG:painesville add 26xPháo hoa (old: 21) lydo: Nhặt từ map at 03/30/2023 5:48 AM
+BAG:painesville add 31xPháo hoa (old: 26) lydo: Nhặt từ map at 03/30/2023 5:48 AM
+BAG:painesville add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/30/2023 5:48 AM
+BAG:painesville add 36xPháo hoa (old: 31) lydo: Nhặt từ map at 03/30/2023 5:48 AM
+BAG:painesville add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/30/2023 5:48 AM
+BAG:painesville add 41xPháo hoa (old: 36) lydo: Nhặt từ map at 03/30/2023 5:50 AM
+BAG:painesville add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/30/2023 5:50 AM
+BAG:painesville add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/30/2023 5:51 AM
+BAG:painesville add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/30/2023 5:51 AM
+BAG:painesville add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/30/2023 5:53 AM
+BAG:painesville add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/30/2023 5:53 AM
+BAG:painesville add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/30/2023 5:53 AM
+BAG:painesville add 62xNgọc Rồng 5 sao (old: 61) lydo: Nhặt từ map at 03/30/2023 5:54 AM
+BAG:painesville add 46xPháo hoa (old: 41) lydo: Nhặt từ map at 03/30/2023 5:54 AM
+BAG:painesville add 51xPháo hoa (old: 46) lydo: Nhặt từ map at 03/30/2023 5:54 AM
+BAG:painesville add 56xPháo hoa (old: 51) lydo: Nhặt từ map at 03/30/2023 5:55 AM
+BAG:painesville add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/30/2023 5:55 AM
+BAG:painesville add 61xPháo hoa (old: 56) lydo: Nhặt từ map at 03/30/2023 5:56 AM
+BAG:painesville add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/30/2023 5:56 AM
+BAG:painesville add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/30/2023 5:56 AM
+BAG:painesville add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/30/2023 10:59 AM
+BAG:painesville add 66xPháo hoa (old: 61) lydo: Nhặt từ map at 03/30/2023 10:59 AM
+BAG:painesville add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/30/2023 11:00 AM
+BAG:painesville add 71xPháo hoa (old: 66) lydo: Nhặt từ map at 03/30/2023 11:00 AM
+BAG:painesville add 2xBổ huyết (old: 1) lydo: HQT at 03/30/2023 11:00 AM
+BAG:painesville add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/30/2023 11:00 AM
+BAG:painesville add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/30/2023 11:00 AM
+BAG:painesville add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/30/2023 11:00 AM
+BAG:painesville add 72xPháo hoa (old: 67) lydo: Nhặt từ map at 03/30/2023 11:01 AM
+BAG:painesville add 77xPháo hoa (old: 72) lydo: Nhặt từ map at 03/30/2023 11:01 AM
+BAG:painesville add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/30/2023 11:01 AM
+BAG:painesville add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 54xNgọc Rồng 4 sao (old: 53) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 55xNgọc Rồng 4 sao (old: 54) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 9xBổ khí (old: 8) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 17xGiáp Xên bọ hung (old: 16) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 63xNgọc Rồng 5 sao (old: 62) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 64xNgọc Rồng 5 sao (old: 63) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 65xNgọc Rồng 5 sao (old: 64) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 72xNgọc Rồng 6 sao (old: 71) lydo: Nhặt từ map at 03/30/2023 11:01 AM
+BAG:painesville add 56xNgọc Rồng 4 sao (old: 55) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/30/2023 11:01 AM
+BAG:painesville add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/30/2023 11:02 AM
+BAG:painesville add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/30/2023 11:02 AM
+BAG:painesville add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/30/2023 11:02 AM
+BAG:painesville add 63xPháo hoa (old: 58) lydo: Nhặt từ map at 03/30/2023 11:02 AM
+BAG:painesville add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/30/2023 11:03 AM
+BAG:painesville add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/30/2023 11:03 AM
+BAG:painesville add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/30/2023 11:03 AM
+BAG:painesville add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/30/2023 11:03 AM
+BAG:painesville add 68xPháo hoa (old: 63) lydo: Nhặt từ map at 03/30/2023 11:04 AM
+BAG:painesville add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/30/2023 11:04 AM
+BAG:painesville add 73xPháo hoa (old: 68) lydo: Nhặt từ map at 03/30/2023 11:04 AM
+BAG:painesville add 78xPháo hoa (old: 73) lydo: Nhặt từ map at 03/30/2023 11:04 AM
+BAG:painesville add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/30/2023 11:04 AM
+BAG:painesville add 83xPháo hoa (old: 78) lydo: Nhặt từ map at 03/30/2023 11:04 AM
+BAG:painesville add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/30/2023 11:04 AM
+BAG:painesville add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/30/2023 11:05 AM
+BAG:painesville add 88xPháo hoa (old: 83) lydo: Nhặt từ map at 03/30/2023 11:05 AM
+BAG:painesville add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/30/2023 11:05 AM
+BAG:painesville add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/30/2023 11:06 AM
+BAG:painesville add 93xPháo hoa (old: 88) lydo: Nhặt từ map at 03/30/2023 11:07 AM
+BAG:painesville add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/30/2023 11:07 AM
+BAG:painesville add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/30/2023 11:08 AM
+BAG:painesville add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/30/2023 11:08 AM
+BAG:painesville add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/30/2023 11:08 AM
+BAG:painesville add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/30/2023 11:09 AM
+BAG:painesville add 98xPháo hoa (old: 93) lydo: Nhặt từ map at 03/30/2023 11:10 AM
+BAG:painesville add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/30/2023 11:10 AM
+BAG:painesville add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/30/2023 11:10 AM
+BAG:painesville add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/30/2023 11:10 AM
+BAG:painesville add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/30/2023 11:11 AM
+BAG:painesville add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/30/2023 11:11 AM
+BAG:painesville add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/30/2023 11:11 AM
+BAG:painesville add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/30/2023 11:12 AM
+BAG:painesville add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/30/2023 11:12 AM
+BAG:painesville add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/30/2023 11:12 AM
+BAG:painesville add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/30/2023 11:12 AM
+BAG:painesville add 4xPháo hoa lydo: Nhặt từ map at 03/30/2023 11:13 AM
+BAG:painesville add 99xPháo hoa (old: 98) lydo: Nhặt từ map at 03/30/2023 11:13 AM
+BAG:painesville add 9xPháo hoa (old: 4) lydo: Nhặt từ map at 03/30/2023 11:13 AM
+BAG:painesville add 14xPháo hoa (old: 9) lydo: Nhặt từ map at 03/30/2023 11:13 AM
+BAG:painesville add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/30/2023 11:14 AM
+BAG:painesville add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/30/2023 11:14 AM
+BAG:painesville add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/30/2023 11:15 AM
+BAG:painesville add 19xPháo hoa (old: 14) lydo: Nhặt từ map at 03/30/2023 11:15 AM
+BAG:painesville add 24xPháo hoa (old: 19) lydo: Nhặt từ map at 03/30/2023 11:15 AM
+BAG:painesville add 29xPháo hoa (old: 24) lydo: Nhặt từ map at 03/30/2023 11:15 AM
+BAG:painesville add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/30/2023 11:16 AM
+BAG:painesville add 34xPháo hoa (old: 29) lydo: Nhặt từ map at 03/30/2023 11:16 AM
+BAG:painesville add 39xPháo hoa (old: 34) lydo: Nhặt từ map at 03/30/2023 11:16 AM
+BAG:painesville add 44xPháo hoa (old: 39) lydo: Nhặt từ map at 03/30/2023 11:16 AM
+BAG:painesville add 49xPháo hoa (old: 44) lydo: Nhặt từ map at 03/30/2023 11:17 AM
+BAG:painesville add 54xPháo hoa (old: 49) lydo: Nhặt từ map at 03/30/2023 11:18 AM
+BAG:painesville add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/30/2023 11:18 AM
+BAG:painesville add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/30/2023 11:18 AM
+BAG:painesville add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 03/30/2023 11:19 AM
+BAG:painesville add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/30/2023 11:19 AM
+BAG:painesville add 59xPháo hoa (old: 54) lydo: Nhặt từ map at 03/30/2023 11:20 AM
+BAG:painesville add 64xPháo hoa (old: 59) lydo: Nhặt từ map at 03/30/2023 11:20 AM
+BAG:painesville add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 03/30/2023 11:21 AM
+BAG:painesville add 69xPháo hoa (old: 64) lydo: Nhặt từ map at 03/30/2023 11:21 AM
+BAG:painesville add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/30/2023 11:21 AM
+BAG:painesville add 74xPháo hoa (old: 69) lydo: Nhặt từ map at 03/30/2023 11:21 AM
+BAG:painesville add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/30/2023 11:22 AM
+BAG:painesville add 79xPháo hoa (old: 74) lydo: Nhặt từ map at 03/30/2023 11:22 AM
+BAG:painesville add 84xPháo hoa (old: 79) lydo: Nhặt từ map at 03/30/2023 11:23 AM
+BAG:painesville add 89xPháo hoa (old: 84) lydo: Nhặt từ map at 03/30/2023 11:23 AM
+BAG:painesville add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/30/2023 11:23 AM
+BAG:painesville add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/30/2023 11:23 AM
+BAG:painesville add 94xPháo hoa (old: 89) lydo: Nhặt từ map at 03/30/2023 11:23 AM
+BAG:painesville add 99xPháo hoa (old: 94) lydo: Nhặt từ map at 03/30/2023 11:23 AM
+BAG:painesville add 5xPháo hoa lydo: Nhặt từ map at 03/30/2023 11:24 AM
+BAG:painesville add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/30/2023 11:24 AM
+BAG:painesville add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/30/2023 11:24 AM
+BAG:painesville add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 03/30/2023 11:24 AM
+BAG:painesville add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 03/30/2023 11:24 AM
+BAG:painesville add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/30/2023 11:25 AM
+BAG:painesville add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/30/2023 2:48 PM
+BAG:painesville add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/30/2023 2:48 PM
+BAG:painesville add 73xNgọc Rồng 6 sao (old: 72) lydo: Nhặt từ map at 03/30/2023 2:48 PM
+BAG:painesville add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/30/2023 2:48 PM
+BAG:painesville add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 03/30/2023 2:50 PM
+BAG:painesville add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:50 PM
+BAG:painesville add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:50 PM
+BAG:painesville add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/30/2023 2:50 PM
+BAG:painesville add 1xGăng Thần Xayda lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:50 PM
+BAG:painesville add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:50 PM
+BAG:painesville add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:50 PM
+BAG:painesville add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/30/2023 2:50 PM
+BAG:painesville add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:50 PM
+BAG:painesville add 1xCải trang Trâu Đốm lydo: Lấy từ body đệ vào hành trang at 03/30/2023 2:50 PM
+BAG:painesville add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/30/2023 2:50 PM
+BAG:painesville add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 03/30/2023 2:51 PM
+BAG:painesville add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/30/2023 2:52 PM
+BAG:painesville add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/30/2023 2:52 PM
+BAG:painesville add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 03/30/2023 2:52 PM
+BAG:painesville add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/30/2023 2:53 PM
+BAG:painesville add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/30/2023 2:53 PM
+BAG:painesville add 59xĐá Saphia (old: 58) lydo: Nhặt từ map at 03/30/2023 2:55 PM
+BAG:painesville add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/30/2023 2:55 PM
+BAG:painesville add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/30/2023 2:57 PM
+BAG:painesville add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 03/30/2023 4:07 PM
+BAG:painesville add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/30/2023 4:07 PM
+BAG:painesville add 50xPháo hoa (old: 45) lydo: Nhặt từ map at 03/30/2023 4:08 PM
+BAG:painesville add 55xPháo hoa (old: 50) lydo: Nhặt từ map at 03/30/2023 4:08 PM
+BAG:painesville add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/30/2023 4:09 PM
+BAG:painesville add 60xĐá Saphia (old: 59) lydo: Nhặt từ map at 03/30/2023 4:09 PM
+BAG:painesville add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 03/30/2023 4:09 PM
+BAG:painesville add 60xPháo hoa (old: 55) lydo: Nhặt từ map at 03/30/2023 4:10 PM
+BAG:painesville add 65xPháo hoa (old: 60) lydo: Nhặt từ map at 03/30/2023 4:14 PM
+BAG:painesville add 66xNgọc Rồng 5 sao (old: 65) lydo: Nhặt từ map at 03/30/2023 4:23 PM
+BAG:painesville add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/30/2023 4:48 PM
+BAG:painesville add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/30/2023 4:57 PM
+BAG:painesville add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/30/2023 6:01 PM
+BAG:painesville add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 03/30/2023 6:01 PM
+BAG:painesville add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 03/30/2023 6:06 PM
+BAG:painesville add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 03/30/2023 6:06 PM
+BAG:painesville add 1xNhẫn Thần Linh lydo: Lấy từ body vào hành trang at 03/30/2023 6:08 PM
+BAG:painesville add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/30/2023 6:08 PM
+BAG:painesville add 61xĐá Saphia (old: 60) lydo: Nhặt từ map at 03/30/2023 6:12 PM
+BAG:painesville add 74xNgọc Rồng 6 sao (old: 73) lydo: Nhặt từ map at 03/30/2023 6:15 PM
+BAG:painesville add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 03/30/2023 6:16 PM
+BAG:painesville add 62xĐá Saphia (old: 61) lydo: Nhặt từ map at 03/30/2023 6:19 PM
+BAG:painesville add 63xĐá Saphia (old: 62) lydo: Nhặt từ map at 03/30/2023 6:19 PM
+BAG:painesville add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/30/2023 6:24 PM
+BAG:painesville add 64xĐá Saphia (old: 63) lydo: Nhặt từ map at 03/30/2023 6:24 PM
+BAG:painesville add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/30/2023 6:25 PM
+BAG:painesville add 65xĐá Saphia (old: 64) lydo: Nhặt từ map at 03/30/2023 6:26 PM
+BAG:painesville add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 03/30/2023 6:26 PM
+BAG:painesville add 67xNgọc Rồng 5 sao (old: 66) lydo: HQT at 03/30/2023 6:28 PM
+BAG:painesville add 3xBổ huyết (old: 2) lydo: HQT at 03/30/2023 6:28 PM
+BAG:painesville add 58xNgọc Rồng 4 sao (old: 57) lydo: HQT at 03/30/2023 6:28 PM
+BAG:painesville add 68xNgọc Rồng 5 sao (old: 67) lydo: HQT at 03/30/2023 6:28 PM
+BAG:painesville add 69xNgọc Rồng 5 sao (old: 68) lydo: HQT at 03/30/2023 6:28 PM
+BAG:painesville add 75xNgọc Rồng 6 sao (old: 74) lydo: HQT at 03/30/2023 6:28 PM
+BAG:painesville add 16xCuồng nộ (old: 15) lydo: HQT at 03/30/2023 6:28 PM
+BAG:painesville add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:28 PM
+BAG:painesville add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:28 PM
+BAG:painesville add 1xGăng Thần Xayda lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:28 PM
+BAG:painesville add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:28 PM
+BAG:painesville add 1xTanjiro lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:28 PM
+BAG:painesville add 1xNhẫn Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:28 PM
+BAG:painesville add 59xNgọc Rồng 4 sao (old: 58) lydo: HQT at 03/30/2023 6:29 PM
+BAG:painesville add 70xNgọc Rồng 5 sao (old: 69) lydo: HQT at 03/30/2023 6:29 PM
+BAG:painesville add 71xNgọc Rồng 5 sao (old: 70) lydo: HQT at 03/30/2023 6:29 PM
+BAG:painesville add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/30/2023 6:29 PM
+BAG:painesville add 17xCuồng nộ (old: 16) lydo: HQT at 03/30/2023 6:29 PM
+BAG:painesville add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/30/2023 6:29 PM
+BAG:painesville add 10xBổ khí (old: 9) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 60xNgọc Rồng 4 sao (old: 59) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 18xCuồng nộ (old: 17) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 18xGiáp Xên bọ hung (old: 17) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 19xGiáp Xên bọ hung (old: 18) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 19xCuồng nộ (old: 18) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 4xBổ huyết (old: 3) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 20xGiáp Xên bọ hung (old: 19) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 76xNgọc Rồng 6 sao (old: 75) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 21xGiáp Xên bọ hung (old: 20) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 11xBổ khí (old: 10) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 5xBổ huyết (old: 4) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 61xNgọc Rồng 4 sao (old: 60) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 20xCuồng nộ (old: 19) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 77xNgọc Rồng 6 sao (old: 76) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 78xNgọc Rồng 6 sao (old: 77) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 72xNgọc Rồng 5 sao (old: 71) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 79xNgọc Rồng 6 sao (old: 78) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 80xNgọc Rồng 6 sao (old: 79) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 22xGiáp Xên bọ hung (old: 21) lydo: HQT at 03/30/2023 6:30 PM
+BAG:painesville add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:36 PM
+BAG:painesville add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:36 PM
+BAG:painesville add 1xGăng Thần Xayda lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:36 PM
+BAG:painesville add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:36 PM
+BAG:painesville add 1xNhẫn Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:36 PM
+BAG:painesville add 1xCải trang Trâu Đốm lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:36 PM
+BAG:painesville add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/30/2023 6:36 PM
+BAG:painesville add 73xNgọc Rồng 5 sao (old: 72) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 74xNgọc Rồng 5 sao (old: 73) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 12xBổ khí (old: 11) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 5xBổ huyết (old: 4) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 23xGiáp Xên bọ hung (old: 22) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 81xNgọc Rồng 6 sao (old: 80) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 82xNgọc Rồng 6 sao (old: 81) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 25xGiáp Xên bọ hung (old: 24) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 75xNgọc Rồng 5 sao (old: 74) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 83xNgọc Rồng 6 sao (old: 82) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 76xNgọc Rồng 5 sao (old: 75) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 26xGiáp Xên bọ hung (old: 25) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 27xGiáp Xên bọ hung (old: 26) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 84xNgọc Rồng 6 sao (old: 83) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 13xBổ khí (old: 12) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 6xBổ huyết (old: 5) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 28xGiáp Xên bọ hung (old: 27) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 7xBổ huyết (old: 6) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 8xBổ huyết (old: 7) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 20xCuồng nộ (old: 19) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 9xBổ huyết (old: 8) lydo: HQT at 03/30/2023 6:37 PM
+BAG:painesville add 85xNgọc Rồng 6 sao (old: 84) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 10xBổ huyết (old: 9) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 77xNgọc Rồng 5 sao (old: 76) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 14xBổ khí (old: 13) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 21xCuồng nộ (old: 20) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 29xGiáp Xên bọ hung (old: 28) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 15xBổ khí (old: 14) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 30xGiáp Xên bọ hung (old: 29) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 11xBổ huyết (old: 10) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 12xBổ huyết (old: 11) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 16xBổ khí (old: 15) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 62xNgọc Rồng 4 sao (old: 61) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 86xNgọc Rồng 6 sao (old: 85) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 78xNgọc Rồng 5 sao (old: 77) lydo: HQT at 03/30/2023 6:38 PM
+BAG:painesville add 79xNgọc Rồng 5 sao (old: 78) lydo: HQT at 03/30/2023 6:39 PM
+BAG:painesville add 13xBổ huyết (old: 12) lydo: HQT at 03/30/2023 6:39 PM
+BAG:painesville add 22xCuồng nộ (old: 21) lydo: HQT at 03/30/2023 6:39 PM
+BAG:painesville add 14xBổ huyết (old: 13) lydo: HQT at 03/30/2023 6:39 PM
+BAG:painesville add 31xGiáp Xên bọ hung (old: 30) lydo: HQT at 03/30/2023 6:39 PM
+BAG:painesville add 87xNgọc Rồng 6 sao (old: 86) lydo: HQT at 03/30/2023 6:39 PM
+BAG:painesville add 32xGiáp Xên bọ hung (old: 31) lydo: HQT at 03/30/2023 6:39 PM
+BAG:painesville add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 03/30/2023 7:06 PM
+BAG:painesville add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/30/2023 7:15 PM
+BAG:painesville add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/30/2023 7:19 PM
+BAG:painesville add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/30/2023 7:19 PM
+BAG:painesville add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/30/2023 7:20 PM
+BAG:painesville add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 03/30/2023 7:21 PM
+BAG:painesville add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/30/2023 7:21 PM
+BAG:painesville add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 03/30/2023 7:22 PM
+BAG:painesville add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 03/30/2023 7:22 PM
+BAG:painesville add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 03/30/2023 7:23 PM
+BAG:painesville add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 03/30/2023 7:24 PM
+BAG:painesville add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 03/30/2023 7:24 PM
+BAG:painesville add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 03/30/2023 7:25 PM
+BAG:painesville add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 03/30/2023 7:26 PM
+BAG:painesville add 66xĐá Saphia (old: 65) lydo: Nhặt từ map at 03/30/2023 7:27 PM
+BAG:painesville add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/30/2023 7:27 PM
+BAG:painesville add 67xĐá Saphia (old: 66) lydo: Nhặt từ map at 03/30/2023 7:28 PM
+BAG:painesville add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 03/30/2023 7:30 PM
+BAG:painesville add 68xĐá Saphia (old: 67) lydo: Nhặt từ map at 03/30/2023 7:30 PM
+BAG:painesville add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 03/30/2023 7:32 PM
+BAG:painesville add 64xĐá Titan (old: 63) lydo: Nhặt từ map at 03/30/2023 7:33 PM
+BAG:painesville add 69xĐá Saphia (old: 68) lydo: Nhặt từ map at 03/30/2023 7:33 PM
+BAG:painesville add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/30/2023 7:34 PM
+BAG:painesville add 65xĐá Titan (old: 64) lydo: Nhặt từ map at 03/30/2023 7:34 PM
+BAG:painesville add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 03/30/2023 7:34 PM
+BAG:painesville add 70xĐá Saphia (old: 69) lydo: Nhặt từ map at 03/30/2023 7:35 PM
+BAG:painesville add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 03/30/2023 7:35 PM
+BAG:painesville add 70xĐá lục bảo (old: 69) lydo: Nhặt từ map at 03/30/2023 7:35 PM
+BAG:painesville add 71xĐá Saphia (old: 70) lydo: Nhặt từ map at 03/30/2023 7:36 PM
+BAG:painesville add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 03/30/2023 7:38 PM
+BAG:painesville add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 03/30/2023 7:39 PM
+BAG:painesville add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 03/30/2023 7:39 PM
+BAG:painesville add 72xĐá Saphia (old: 71) lydo: Nhặt từ map at 03/30/2023 7:39 PM
+BAG:painesville add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/30/2023 7:39 PM
+BAG:painesville add 73xĐá Saphia (old: 72) lydo: Nhặt từ map at 03/30/2023 7:40 PM
+BAG:painesville add 66xĐá Titan (old: 65) lydo: Nhặt từ map at 03/30/2023 7:42 PM
+BAG:painesville add 71xĐá lục bảo (old: 70) lydo: Nhặt từ map at 03/30/2023 7:43 PM
+BAG:painesville add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/30/2023 7:44 PM
+BAG:painesville add 67xĐá Titan (old: 66) lydo: Nhặt từ map at 03/30/2023 7:44 PM
+BAG:painesville add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/30/2023 7:45 PM
+BAG:painesville add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 03/30/2023 7:46 PM
+BAG:painesville add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/30/2023 7:46 PM
+BAG:painesville add 72xĐá lục bảo (old: 71) lydo: Nhặt từ map at 03/30/2023 7:46 PM
+BAG:painesville add 73xĐá lục bảo (old: 72) lydo: Nhặt từ map at 03/30/2023 7:47 PM
+BAG:painesville add 74xĐá lục bảo (old: 73) lydo: Nhặt từ map at 03/30/2023 7:48 PM
+BAG:painesville add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/30/2023 7:48 PM
+BAG:painesville add 74xĐá Saphia (old: 73) lydo: Nhặt từ map at 03/30/2023 7:56 PM
+BAG:painesville add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 7:56 PM
+BAG:painesville add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 7:56 PM
+BAG:painesville add 1xGăng Thần Xayda lydo: Lấy từ body đệ vào hành trang at 03/30/2023 7:56 PM
+BAG:painesville add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/30/2023 7:56 PM
+BAG:painesville add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/30/2023 7:56 PM
+BAG:painesville add 1xCải trang Trâu Đốm lydo: Lấy từ body đệ vào hành trang at 03/30/2023 7:56 PM
+BAG:painesville add 68xĐá Titan (old: 67) lydo: Nhặt từ map at 03/30/2023 7:56 PM
+BAG:painesville add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/30/2023 7:56 PM
+BAG:painesville add 75xĐá Saphia (old: 74) lydo: Nhặt từ map at 03/30/2023 7:56 PM
+BAG:painesville add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 03/30/2023 7:57 PM
+BAG:painesville add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 03/30/2023 7:57 PM
+BAG:painesville add 75xĐá lục bảo (old: 74) lydo: Nhặt từ map at 03/30/2023 7:58 PM
+BAG:painesville add 16xCuồng nộ (old: 15) lydo: HQT at 03/30/2023 8:14 PM
+BAG:painesville add 88xNgọc Rồng 6 sao (old: 87) lydo: HQT at 03/30/2023 8:14 PM
+BAG:painesville add 9xBổ huyết (old: 8) lydo: HQT at 03/30/2023 8:14 PM
+BAG:painesville add 89xNgọc Rồng 6 sao (old: 88) lydo: HQT at 03/30/2023 8:14 PM
+BAG:painesville add 10xBổ huyết (old: 9) lydo: HQT at 03/30/2023 8:14 PM
+BAG:painesville add 63xNgọc Rồng 4 sao (old: 62) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 64xNgọc Rồng 4 sao (old: 63) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 80xNgọc Rồng 5 sao (old: 79) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 17xCuồng nộ (old: 16) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 65xNgọc Rồng 4 sao (old: 64) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 18xCuồng nộ (old: 17) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 17xBổ khí (old: 16) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 81xNgọc Rồng 5 sao (old: 80) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 33xGiáp Xên bọ hung (old: 32) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 66xNgọc Rồng 4 sao (old: 65) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 19xCuồng nộ (old: 18) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 82xNgọc Rồng 5 sao (old: 81) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 18xBổ khí (old: 17) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 90xNgọc Rồng 6 sao (old: 89) lydo: HQT at 03/30/2023 8:15 PM
+BAG:painesville add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/30/2023 8:17 PM
+BAG:painesville add 20xCuồng nộ (old: 19) lydo: HQT at 03/30/2023 8:17 PM
+BAG:painesville add 67xNgọc Rồng 4 sao (old: 66) lydo: HQT at 03/30/2023 8:17 PM
+BAG:painesville add 21xCuồng nộ (old: 20) lydo: HQT at 03/30/2023 8:17 PM
+BAG:painesville add 22xCuồng nộ (old: 21) lydo: HQT at 03/30/2023 8:17 PM
+BAG:painesville add 68xNgọc Rồng 4 sao (old: 67) lydo: HQT at 03/30/2023 8:17 PM
+BAG:painesville add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 03/30/2023 8:32 PM
+BAG:painesville add 69xĐá Titan (old: 68) lydo: Nhặt từ map at 03/30/2023 8:32 PM
+BAG:painesville add 9xBổ huyết (old: 8) lydo: HQT at 03/30/2023 8:38 PM
+BAG:painesville add 10xBổ huyết (old: 9) lydo: HQT at 03/30/2023 8:38 PM
+BAG:painesville add 19xBổ khí (old: 18) lydo: HQT at 03/30/2023 8:38 PM
+BAG:painesville add 20xCuồng nộ (old: 19) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 11xBổ huyết (old: 10) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 91xNgọc Rồng 6 sao (old: 90) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 12xBổ huyết (old: 11) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 13xBổ huyết (old: 12) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 92xNgọc Rồng 6 sao (old: 91) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 69xNgọc Rồng 4 sao (old: 68) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 83xNgọc Rồng 5 sao (old: 82) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 21xCuồng nộ (old: 20) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 93xNgọc Rồng 6 sao (old: 92) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 94xNgọc Rồng 6 sao (old: 93) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 34xGiáp Xên bọ hung (old: 33) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 70xNgọc Rồng 4 sao (old: 69) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 22xCuồng nộ (old: 21) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 84xNgọc Rồng 5 sao (old: 83) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 71xNgọc Rồng 4 sao (old: 70) lydo: HQT at 03/30/2023 8:39 PM
+BAG:painesville add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/30/2023 8:57 PM
+BAG:painesville add 32xGiáp Xên bọ hung (old: 31) lydo: HQT at 03/30/2023 9:31 PM
+BAG:painesville add 85xNgọc Rồng 5 sao (old: 84) lydo: HQT at 03/30/2023 9:31 PM
+BAG:painesville add 95xNgọc Rồng 6 sao (old: 94) lydo: HQT at 03/30/2023 9:31 PM
+BAG:painesville add 33xGiáp Xên bọ hung (old: 32) lydo: HQT at 03/30/2023 9:31 PM
+BAG:painesville add 20xCuồng nộ (old: 19) lydo: HQT at 03/30/2023 9:31 PM
+BAG:painesville add 11xBổ huyết (old: 10) lydo: HQT at 03/30/2023 9:31 PM
+BAG:painesville add 96xNgọc Rồng 6 sao (old: 95) lydo: HQT at 03/30/2023 9:31 PM
+BAG:painesville add 20xBổ khí (old: 19) lydo: HQT at 03/30/2023 9:31 PM
+BAG:painesville add 86xNgọc Rồng 5 sao (old: 85) lydo: HQT at 03/30/2023 9:31 PM
+BAG:painesville add 72xNgọc Rồng 4 sao (old: 71) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 97xNgọc Rồng 6 sao (old: 96) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 98xNgọc Rồng 6 sao (old: 97) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 21xBổ khí (old: 20) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 73xNgọc Rồng 4 sao (old: 72) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 21xCuồng nộ (old: 20) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 87xNgọc Rồng 5 sao (old: 86) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 34xGiáp Xên bọ hung (old: 33) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 22xCuồng nộ (old: 21) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 74xNgọc Rồng 4 sao (old: 73) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 22xBổ khí (old: 21) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 12xBổ huyết (old: 11) lydo: HQT at 03/30/2023 9:32 PM
+BAG:painesville add 99xNgọc Rồng 6 sao (old: 98) lydo: HQT at 03/30/2023 9:34 PM
+BAG:painesville add 88xNgọc Rồng 5 sao (old: 87) lydo: Nhặt từ map at 03/30/2023 9:35 PM
+BAG:painesville add 76xĐá lục bảo (old: 75) lydo: Nhặt từ map at 03/30/2023 11:20 PM
+BAG:painesville add 70xĐá Titan (old: 69) lydo: Nhặt từ map at 03/30/2023 11:32 PM
+BAG:painesville add 71xĐá Titan (old: 70) lydo: Nhặt từ map at 03/30/2023 11:35 PM
+BAG:painesville add 1xQuần lưỡng long lydo: Lấy từ body vào hành trang at 03/30/2023 11:38 PM

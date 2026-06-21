@@ -1,0 +1,664 @@
+BAG:vitcon add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 04/08/2023 5:09 AM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 04/08/2023 5:09 AM
+BAG:vitcon add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 04/08/2023 5:09 AM
+BAG:vitcon add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 04/08/2023 5:09 AM
+BAG:vitcon add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/08/2023 5:10 AM
+BAG:vitcon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 04/08/2023 5:12 AM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 04/08/2023 5:17 AM
+BAG:vitcon add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 04/08/2023 5:17 AM
+BAG:vitcon add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 04/08/2023 5:17 AM
+BAG:vitcon add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 04/08/2023 5:17 AM
+BAG:vitcon add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 04/08/2023 5:18 AM
+BAG:vitcon add 1xÁo jean Calic lydo: Lấy từ body vào hành trang at 04/08/2023 9:53 AM
+BAG:vitcon add 1xQuần bạc Goku lydo: Lấy từ body vào hành trang at 04/08/2023 9:53 AM
+BAG:vitcon add 1xGăng Thần Linh lydo: Lấy từ body vào hành trang at 04/08/2023 9:53 AM
+BAG:vitcon add 1xGiày bạc Goku lydo: Lấy từ body vào hành trang at 04/08/2023 9:53 AM
+BAG:vitcon add 1xRada cấp 12 lydo: Lấy từ body vào hành trang at 04/08/2023 9:53 AM
+BAG:vitcon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 04/08/2023 1:02 PM
+BAG:vitcon add 1xPhóng lợn lydo: Mua từ cửa hàng at 04/08/2023 1:07 PM
+BAG:vitcon add 1xGăng Thần Linh lydo: Lấy từ rương qua người at 04/08/2023 1:13 PM
+BAG:vitcon add 1xGăng Thần Linh lydo: Lấy từ rương qua người at 04/08/2023 1:13 PM
+BAG:vitcon add 1xGiày Thần Linh lydo: Lấy từ rương qua người at 04/08/2023 1:13 PM
+BAG:vitcon add 1xGăng Thần Linh lydo: Lấy từ rương qua người at 04/08/2023 1:13 PM
+BAG:vitcon add 1xViên Capsule đặc biệt lydo: Lấy từ rương qua người at 04/08/2023 1:13 PM
+BAG:vitcon add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 04/08/2023 1:14 PM
+BAG:vitcon add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 04/08/2023 1:14 PM
+BAG:vitcon add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/08/2023 1:14 PM
+BAG:vitcon add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/08/2023 1:14 PM
+BAG:vitcon add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/08/2023 1:15 PM
+BAG:vitcon add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/08/2023 1:16 PM
+BAG:vitcon add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/08/2023 1:16 PM
+BAG:vitcon add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/08/2023 1:16 PM
+BAG:vitcon add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/08/2023 1:16 PM
+BAG:vitcon add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/08/2023 1:16 PM
+BAG:vitcon add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/08/2023 1:16 PM
+BAG:vitcon add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 1:16 PM
+BAG:vitcon add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/08/2023 1:17 PM
+BAG:vitcon add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/08/2023 1:17 PM
+BAG:vitcon add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/08/2023 1:17 PM
+BAG:vitcon add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/08/2023 1:17 PM
+BAG:vitcon add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/08/2023 1:17 PM
+BAG:vitcon add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/08/2023 1:17 PM
+BAG:vitcon add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/08/2023 1:17 PM
+BAG:vitcon add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/08/2023 1:17 PM
+BAG:vitcon add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/08/2023 1:17 PM
+BAG:vitcon add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/08/2023 1:17 PM
+BAG:vitcon add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/08/2023 1:18 PM
+BAG:vitcon add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 1:18 PM
+BAG:vitcon add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/08/2023 1:19 PM
+BAG:vitcon add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/08/2023 1:20 PM
+BAG:vitcon add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/08/2023 1:20 PM
+BAG:vitcon add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/08/2023 1:20 PM
+BAG:vitcon add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/08/2023 1:20 PM
+BAG:vitcon add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/08/2023 1:20 PM
+BAG:vitcon add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/08/2023 1:20 PM
+BAG:vitcon add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 04/08/2023 1:20 PM
+BAG:vitcon add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 04/08/2023 1:20 PM
+BAG:vitcon add 70xNgọc Rồng 3 sao lydo: (GD) Nhận từ huypemhet at 04/08/2023 1:21 PM
+BAG:vitcon add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 1:22 PM
+BAG:vitcon add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 1:22 PM
+BAG:vitcon add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/08/2023 2:47 PM
+BAG:vitcon add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/08/2023 2:47 PM
+BAG:vitcon add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/08/2023 2:47 PM
+BAG:vitcon add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/08/2023 2:47 PM
+BAG:vitcon add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/08/2023 2:47 PM
+BAG:vitcon add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/08/2023 2:47 PM
+BAG:vitcon add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/08/2023 2:47 PM
+BAG:vitcon add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/08/2023 2:47 PM
+BAG:vitcon add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/08/2023 2:47 PM
+BAG:vitcon add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/08/2023 2:47 PM
+BAG:vitcon add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/08/2023 2:48 PM
+BAG:vitcon add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/08/2023 2:48 PM
+BAG:vitcon add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 2:48 PM
+BAG:vitcon add 1xRada cấp 1 lydo: Lấy từ rương qua người at 04/08/2023 3:02 PM
+BAG:vitcon add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/08/2023 3:03 PM
+BAG:vitcon add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/08/2023 3:03 PM
+BAG:vitcon add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/08/2023 3:04 PM
+BAG:vitcon add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/08/2023 3:05 PM
+BAG:vitcon add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/08/2023 3:05 PM
+BAG:vitcon add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/08/2023 3:05 PM
+BAG:vitcon add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/08/2023 3:05 PM
+BAG:vitcon add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/08/2023 3:05 PM
+BAG:vitcon add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/08/2023 3:05 PM
+BAG:vitcon add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/08/2023 3:05 PM
+BAG:vitcon add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/08/2023 3:05 PM
+BAG:vitcon add 1xRada cấp 9 lydo: Cường Hóa trang bị at 04/08/2023 3:08 PM
+BAG:vitcon add 1xRada cấp 12 lydo: Cường Hóa trang bị at 04/08/2023 3:08 PM
+BAG:vitcon add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 04/08/2023 3:09 PM
+BAG:vitcon add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/08/2023 3:09 PM
+BAG:vitcon add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/08/2023 3:09 PM
+BAG:vitcon add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 04/08/2023 3:17 PM
+BAG:vitcon add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 04/08/2023 3:17 PM
+BAG:vitcon add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 04/08/2023 3:17 PM
+BAG:vitcon add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 04/08/2023 3:17 PM
+BAG:vitcon add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 04/08/2023 3:20 PM
+BAG:vitcon add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 04/08/2023 3:22 PM
+BAG:vitcon add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 04/08/2023 3:23 PM
+BAG:vitcon add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 04/08/2023 3:23 PM
+BAG:vitcon add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 04/08/2023 3:24 PM
+BAG:vitcon add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 04/08/2023 3:24 PM
+BAG:vitcon add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/08/2023 3:25 PM
+BAG:vitcon add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/08/2023 3:25 PM
+BAG:vitcon add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/08/2023 3:25 PM
+BAG:vitcon add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/08/2023 3:25 PM
+BAG:vitcon add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/08/2023 3:25 PM
+BAG:vitcon add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/08/2023 3:25 PM
+BAG:vitcon add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/08/2023 3:25 PM
+BAG:vitcon add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/08/2023 3:25 PM
+BAG:vitcon add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 3:26 PM
+BAG:vitcon add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 04/08/2023 3:26 PM
+BAG:vitcon add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 04/08/2023 3:26 PM
+BAG:vitcon add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 04/08/2023 3:26 PM
+BAG:vitcon add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 04/08/2023 3:26 PM
+BAG:vitcon add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 04/08/2023 3:26 PM
+BAG:vitcon add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/08/2023 3:26 PM
+BAG:vitcon add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/08/2023 3:26 PM
+BAG:vitcon add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/08/2023 3:26 PM
+BAG:vitcon add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/08/2023 3:26 PM
+BAG:vitcon add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/08/2023 3:27 PM
+BAG:vitcon add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/08/2023 3:28 PM
+BAG:vitcon add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/08/2023 3:28 PM
+BAG:vitcon add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/08/2023 3:28 PM
+BAG:vitcon add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/08/2023 3:28 PM
+BAG:vitcon add 1xRada cấp 9 lydo: Cường Hóa trang bị at 04/08/2023 3:28 PM
+BAG:vitcon add 1xRada cấp 12 lydo: Cường Hóa trang bị at 04/08/2023 3:28 PM
+BAG:vitcon add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 04/08/2023 3:29 PM
+BAG:vitcon add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/08/2023 3:29 PM
+BAG:vitcon add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/08/2023 3:29 PM
+BAG:vitcon add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/08/2023 3:29 PM
+BAG:vitcon add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/08/2023 3:29 PM
+BAG:vitcon add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/08/2023 3:29 PM
+BAG:vitcon add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/08/2023 3:29 PM
+BAG:vitcon add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/08/2023 3:29 PM
+BAG:vitcon add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/08/2023 3:29 PM
+BAG:vitcon add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/08/2023 3:30 PM
+BAG:vitcon add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 3:30 PM
+BAG:vitcon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 04/08/2023 6:18 PM
+BAG:vitcon add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 04/08/2023 6:19 PM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 04/08/2023 6:20 PM
+BAG:vitcon add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 04/08/2023 6:20 PM
+BAG:vitcon add 42xMảnh Khủng long (old: 41) lydo: Nhặt từ map at 04/08/2023 6:21 PM
+BAG:vitcon add 43xMảnh Khủng long (old: 42) lydo: Nhặt từ map at 04/08/2023 6:21 PM
+BAG:vitcon add 44xMảnh Khủng long (old: 43) lydo: Nhặt từ map at 04/08/2023 6:22 PM
+BAG:vitcon add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 04/08/2023 6:23 PM
+BAG:vitcon add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 04/08/2023 6:23 PM
+BAG:vitcon add 1xQuần vải đen lydo: Nhặt từ map at 04/08/2023 6:24 PM
+BAG:vitcon add 45xMảnh Khủng long (old: 44) lydo: Nhặt từ map at 04/08/2023 6:25 PM
+BAG:vitcon add 46xMảnh Khủng long (old: 45) lydo: Nhặt từ map at 04/08/2023 6:25 PM
+BAG:vitcon add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 04/08/2023 6:25 PM
+BAG:vitcon add 47xMảnh Khủng long (old: 46) lydo: Nhặt từ map at 04/08/2023 6:25 PM
+BAG:vitcon add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 04/08/2023 6:25 PM
+BAG:vitcon add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 04/08/2023 6:26 PM
+BAG:vitcon add 48xMảnh Khủng long (old: 47) lydo: Nhặt từ map at 04/08/2023 6:26 PM
+BAG:vitcon add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 04/08/2023 6:26 PM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 04/08/2023 6:26 PM
+BAG:vitcon add 49xMảnh Khủng long (old: 48) lydo: Nhặt từ map at 04/08/2023 6:27 PM
+BAG:vitcon add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 04/08/2023 6:27 PM
+BAG:vitcon add 50xMảnh Khủng long (old: 49) lydo: Nhặt từ map at 04/08/2023 6:28 PM
+BAG:vitcon add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 04/08/2023 6:30 PM
+BAG:vitcon add 51xMảnh Khủng long (old: 50) lydo: Nhặt từ map at 04/08/2023 6:30 PM
+BAG:vitcon add 1xRada cấp 1 lydo: Nhặt từ map at 04/08/2023 6:31 PM
+BAG:vitcon add 52xMảnh Khủng long (old: 51) lydo: Nhặt từ map at 04/08/2023 6:32 PM
+BAG:vitcon add 53xMảnh Khủng long (old: 52) lydo: Nhặt từ map at 04/08/2023 6:32 PM
+BAG:vitcon add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 04/08/2023 6:33 PM
+BAG:vitcon add 54xMảnh Khủng long (old: 53) lydo: Nhặt từ map at 04/08/2023 6:33 PM
+BAG:vitcon add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 04/08/2023 6:33 PM
+BAG:vitcon add 8xMảnh Khủng long mẹ (old: 7) lydo: Nhặt từ map at 04/08/2023 6:33 PM
+BAG:vitcon add 55xMảnh Khủng long (old: 54) lydo: Nhặt từ map at 04/08/2023 6:34 PM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 04/08/2023 6:34 PM
+BAG:vitcon add 56xMảnh Khủng long (old: 55) lydo: Nhặt từ map at 04/08/2023 6:35 PM
+BAG:vitcon add 57xMảnh Khủng long (old: 56) lydo: Nhặt từ map at 04/08/2023 6:35 PM
+BAG:vitcon add 1xGăng vải đen lydo: Nhặt từ map at 04/08/2023 6:35 PM
+BAG:vitcon add 58xMảnh Khủng long (old: 57) lydo: Nhặt từ map at 04/08/2023 6:35 PM
+BAG:vitcon add 59xMảnh Khủng long (old: 58) lydo: Nhặt từ map at 04/08/2023 6:36 PM
+BAG:vitcon add 60xMảnh Khủng long (old: 59) lydo: Nhặt từ map at 04/08/2023 6:36 PM
+BAG:vitcon add 61xMảnh Khủng long (old: 60) lydo: Nhặt từ map at 04/08/2023 6:36 PM
+BAG:vitcon add 9xMảnh Khủng long mẹ (old: 8) lydo: Nhặt từ map at 04/08/2023 6:36 PM
+BAG:vitcon add 62xMảnh Khủng long (old: 61) lydo: Nhặt từ map at 04/08/2023 6:37 PM
+BAG:vitcon add 1xQuần vải đen lydo: Nhặt từ map at 04/08/2023 6:38 PM
+BAG:vitcon add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 04/08/2023 6:38 PM
+BAG:vitcon add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 04/08/2023 6:38 PM
+BAG:vitcon add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 04/08/2023 6:39 PM
+BAG:vitcon add 1xGăng vải đen lydo: Nhặt từ map at 04/08/2023 6:39 PM
+BAG:vitcon add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 04/08/2023 6:39 PM
+BAG:vitcon add 63xMảnh Khủng long (old: 62) lydo: Nhặt từ map at 04/08/2023 6:40 PM
+BAG:vitcon add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 04/08/2023 6:40 PM
+BAG:vitcon add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 04/08/2023 6:41 PM
+BAG:vitcon add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 04/08/2023 6:41 PM
+BAG:vitcon add 10xMảnh Khủng long mẹ (old: 9) lydo: Nhặt từ map at 04/08/2023 6:41 PM
+BAG:vitcon add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 04/08/2023 6:42 PM
+BAG:vitcon add 11xMảnh Khủng long mẹ (old: 10) lydo: Nhặt từ map at 04/08/2023 6:42 PM
+BAG:vitcon add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 04/08/2023 6:42 PM
+BAG:vitcon add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 04/08/2023 6:43 PM
+BAG:vitcon add 64xMảnh Khủng long (old: 63) lydo: Nhặt từ map at 04/08/2023 6:43 PM
+BAG:vitcon add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 04/08/2023 6:43 PM
+BAG:vitcon add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 04/08/2023 6:44 PM
+BAG:vitcon add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 04/08/2023 6:44 PM
+BAG:vitcon add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 04/08/2023 6:44 PM
+BAG:vitcon add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 04/08/2023 6:44 PM
+BAG:vitcon add 65xMảnh Khủng long (old: 64) lydo: Nhặt từ map at 04/08/2023 6:44 PM
+BAG:vitcon add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 04/08/2023 6:44 PM
+BAG:vitcon add 66xMảnh Khủng long (old: 65) lydo: Nhặt từ map at 04/08/2023 6:45 PM
+BAG:vitcon add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 04/08/2023 6:45 PM
+BAG:vitcon add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 04/08/2023 6:46 PM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 04/08/2023 6:46 PM
+BAG:vitcon add 67xMảnh Khủng long (old: 66) lydo: Nhặt từ map at 04/08/2023 6:46 PM
+BAG:vitcon add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 04/08/2023 6:47 PM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 04/08/2023 6:47 PM
+BAG:vitcon add 1xRada cấp 1 lydo: Nhặt từ map at 04/08/2023 6:48 PM
+BAG:vitcon add 68xMảnh Khủng long (old: 67) lydo: Nhặt từ map at 04/08/2023 6:48 PM
+BAG:vitcon add 69xMảnh Khủng long (old: 68) lydo: Nhặt từ map at 04/08/2023 6:48 PM
+BAG:vitcon add 70xMảnh Khủng long (old: 69) lydo: Nhặt từ map at 04/08/2023 6:48 PM
+BAG:vitcon add 71xMảnh Khủng long (old: 70) lydo: Nhặt từ map at 04/08/2023 6:49 PM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 04/08/2023 6:50 PM
+BAG:vitcon add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 04/08/2023 6:51 PM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 04/08/2023 6:51 PM
+BAG:vitcon add 1xGiầy nhựa lydo: Nhặt từ map at 04/08/2023 6:51 PM
+BAG:vitcon add 12xMảnh Khủng long mẹ (old: 11) lydo: Nhặt từ map at 04/08/2023 6:51 PM
+BAG:vitcon add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 04/08/2023 6:53 PM
+BAG:vitcon add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 04/08/2023 6:53 PM
+BAG:vitcon add 72xMảnh Khủng long (old: 71) lydo: Nhặt từ map at 04/08/2023 6:53 PM
+BAG:vitcon add 1xQuần vải đen lydo: Nhặt từ map at 04/08/2023 6:54 PM
+BAG:vitcon add 73xMảnh Khủng long (old: 72) lydo: Nhặt từ map at 04/08/2023 6:54 PM
+BAG:vitcon add 74xMảnh Khủng long (old: 73) lydo: Nhặt từ map at 04/08/2023 6:55 PM
+BAG:vitcon add 1xGiầy nhựa lydo: Nhặt từ map at 04/08/2023 6:55 PM
+BAG:vitcon add 75xMảnh Khủng long (old: 74) lydo: Nhặt từ map at 04/08/2023 6:55 PM
+BAG:vitcon add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 04/08/2023 6:55 PM
+BAG:vitcon add 1xQuần vải đen lydo: Nhặt từ map at 04/08/2023 6:55 PM
+BAG:vitcon add 76xMảnh Khủng long (old: 75) lydo: Nhặt từ map at 04/08/2023 6:56 PM
+BAG:vitcon add 77xMảnh Khủng long (old: 76) lydo: Nhặt từ map at 04/08/2023 6:57 PM
+BAG:vitcon add 78xMảnh Khủng long (old: 77) lydo: Nhặt từ map at 04/08/2023 6:57 PM
+BAG:vitcon add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 04/08/2023 6:58 PM
+BAG:vitcon add 79xMảnh Khủng long (old: 78) lydo: Nhặt từ map at 04/08/2023 6:58 PM
+BAG:vitcon add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 04/08/2023 6:58 PM
+BAG:vitcon add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 04/08/2023 6:58 PM
+BAG:vitcon add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 04/08/2023 6:59 PM
+BAG:vitcon add 80xMảnh Khủng long (old: 79) lydo: Nhặt từ map at 04/08/2023 7:00 PM
+BAG:vitcon add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 04/08/2023 7:00 PM
+BAG:vitcon add 81xMảnh Khủng long (old: 80) lydo: Nhặt từ map at 04/08/2023 7:01 PM
+BAG:vitcon add 82xMảnh Khủng long (old: 81) lydo: Nhặt từ map at 04/08/2023 7:01 PM
+BAG:vitcon add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 04/08/2023 7:02 PM
+BAG:vitcon add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 04/08/2023 7:02 PM
+BAG:vitcon add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 04/08/2023 7:02 PM
+BAG:vitcon add 83xMảnh Khủng long (old: 82) lydo: Nhặt từ map at 04/08/2023 7:03 PM
+BAG:vitcon add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 04/08/2023 7:03 PM
+BAG:vitcon add 1xGăng vải đen lydo: Nhặt từ map at 04/08/2023 7:04 PM
+BAG:vitcon add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 04/08/2023 7:05 PM
+BAG:vitcon add 1xGiầy nhựa lydo: Nhặt từ map at 04/08/2023 7:05 PM
+BAG:vitcon add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 04/08/2023 7:05 PM
+BAG:vitcon add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 04/08/2023 7:05 PM
+BAG:vitcon add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 04/08/2023 7:05 PM
+BAG:vitcon add 84xMảnh Khủng long (old: 83) lydo: Nhặt từ map at 04/08/2023 7:05 PM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 04/08/2023 7:06 PM
+BAG:vitcon add 85xMảnh Khủng long (old: 84) lydo: Nhặt từ map at 04/08/2023 7:07 PM
+BAG:vitcon add 86xMảnh Khủng long (old: 85) lydo: Nhặt từ map at 04/08/2023 7:07 PM
+BAG:vitcon add 87xMảnh Khủng long (old: 86) lydo: Nhặt từ map at 04/08/2023 7:08 PM
+BAG:vitcon add 88xMảnh Khủng long (old: 87) lydo: Nhặt từ map at 04/08/2023 7:08 PM
+BAG:vitcon add 89xMảnh Khủng long (old: 88) lydo: Nhặt từ map at 04/08/2023 7:09 PM
+BAG:vitcon add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 04/08/2023 7:09 PM
+BAG:vitcon add 90xMảnh Khủng long (old: 89) lydo: Nhặt từ map at 04/08/2023 7:10 PM
+BAG:vitcon add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 04/08/2023 7:10 PM
+BAG:vitcon add 91xMảnh Khủng long (old: 90) lydo: Nhặt từ map at 04/08/2023 7:11 PM
+BAG:vitcon add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 04/08/2023 7:12 PM
+BAG:vitcon add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 04/08/2023 7:12 PM
+BAG:vitcon add 92xMảnh Khủng long (old: 91) lydo: Nhặt từ map at 04/08/2023 7:12 PM
+BAG:vitcon add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 04/08/2023 7:14 PM
+BAG:vitcon add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 04/08/2023 7:15 PM
+BAG:vitcon add 93xMảnh Khủng long (old: 92) lydo: Nhặt từ map at 04/08/2023 7:15 PM
+BAG:vitcon add 94xMảnh Khủng long (old: 93) lydo: Nhặt từ map at 04/08/2023 7:15 PM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 04/08/2023 7:16 PM
+BAG:vitcon add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 04/08/2023 7:16 PM
+BAG:vitcon add 95xMảnh Khủng long (old: 94) lydo: Nhặt từ map at 04/08/2023 7:17 PM
+BAG:vitcon add 96xMảnh Khủng long (old: 95) lydo: Nhặt từ map at 04/08/2023 7:20 PM
+BAG:vitcon add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 04/08/2023 7:20 PM
+BAG:vitcon add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 04/08/2023 7:21 PM
+BAG:vitcon add 1xGăng vải đen lydo: Nhặt từ map at 04/08/2023 7:21 PM
+BAG:vitcon add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 04/08/2023 7:21 PM
+BAG:vitcon add 97xMảnh Khủng long (old: 96) lydo: Nhặt từ map at 04/08/2023 7:24 PM
+BAG:vitcon add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 04/08/2023 7:25 PM
+BAG:vitcon add 98xMảnh Khủng long (old: 97) lydo: Nhặt từ map at 04/08/2023 7:26 PM
+BAG:vitcon add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 04/08/2023 7:26 PM
+BAG:vitcon add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 04/08/2023 7:26 PM
+BAG:vitcon add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 04/08/2023 7:27 PM
+BAG:vitcon add 99xMảnh Khủng long (old: 98) lydo: Nhặt từ map at 04/08/2023 7:27 PM
+BAG:vitcon add 1xGiầy nhựa lydo: Nhặt từ map at 04/08/2023 7:27 PM
+BAG:vitcon add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 04/08/2023 7:28 PM
+BAG:vitcon add 1xGăng vải đen lydo: Nhặt từ map at 04/08/2023 7:28 PM
+BAG:vitcon add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 04/08/2023 7:28 PM
+BAG:vitcon add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 04/08/2023 7:28 PM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 04/08/2023 7:28 PM
+BAG:vitcon add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/08/2023 7:42 PM
+BAG:vitcon add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/08/2023 7:42 PM
+BAG:vitcon add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/08/2023 7:42 PM
+BAG:vitcon add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/08/2023 7:42 PM
+BAG:vitcon add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/08/2023 7:43 PM
+BAG:vitcon add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/08/2023 7:43 PM
+BAG:vitcon add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/08/2023 7:43 PM
+BAG:vitcon add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/08/2023 7:43 PM
+BAG:vitcon add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/08/2023 7:43 PM
+BAG:vitcon add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/08/2023 7:43 PM
+BAG:vitcon add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/08/2023 7:43 PM
+BAG:vitcon add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/08/2023 7:43 PM
+BAG:vitcon add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/08/2023 7:44 PM
+BAG:vitcon add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 04/08/2023 7:45 PM
+BAG:vitcon add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 04/08/2023 7:46 PM
+BAG:vitcon add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 04/08/2023 7:47 PM
+BAG:vitcon add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 04/08/2023 7:47 PM
+BAG:vitcon add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 04/08/2023 7:47 PM
+BAG:vitcon add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 04/08/2023 7:47 PM
+BAG:vitcon add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 04/08/2023 7:47 PM
+BAG:vitcon add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 04/08/2023 7:47 PM
+BAG:vitcon add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 04/08/2023 7:47 PM
+BAG:vitcon add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 04/08/2023 7:47 PM
+BAG:vitcon add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 04/08/2023 7:47 PM
+BAG:vitcon add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 04/08/2023 7:47 PM
+BAG:vitcon add 40xĐá Vĩnh Hằng (old: 39) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 40xĐá Hắc Hóa (old: 39) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 41xĐá Vĩnh Hằng (old: 40) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 41xĐá Hắc Hóa (old: 40) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 42xĐá Vĩnh Hằng (old: 41) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 42xĐá Hắc Hóa (old: 41) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 43xĐá Vĩnh Hằng (old: 42) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 43xĐá Hắc Hóa (old: 42) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 44xĐá Vĩnh Hằng (old: 43) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 44xĐá Hắc Hóa (old: 43) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 45xĐá Vĩnh Hằng (old: 44) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 45xĐá Hắc Hóa (old: 44) lydo: Mua santa at 04/08/2023 7:48 PM
+BAG:vitcon add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 04/08/2023 7:51 PM
+BAG:vitcon add 1xÁo jean Calic lydo: Cường Hóa trang bị at 04/08/2023 7:51 PM
+BAG:vitcon add 1xÁo Thần Linh lydo: Cường Hóa trang bị at 04/08/2023 7:52 PM
+BAG:vitcon add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 7:52 PM
+BAG:vitcon add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 04/08/2023 7:53 PM
+BAG:vitcon add 1xQuần jean Calic lydo: Cường Hóa trang bị at 04/08/2023 7:53 PM
+BAG:vitcon add 1xQuần Thần Linh lydo: Cường Hóa trang bị at 04/08/2023 7:53 PM
+BAG:vitcon add 1xQuần Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 7:53 PM
+BAG:vitcon add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/08/2023 7:54 PM
+BAG:vitcon add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/08/2023 7:54 PM
+BAG:vitcon add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/08/2023 7:54 PM
+BAG:vitcon add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/08/2023 7:54 PM
+BAG:vitcon add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/08/2023 7:54 PM
+BAG:vitcon add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/08/2023 7:54 PM
+BAG:vitcon add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/08/2023 7:54 PM
+BAG:vitcon add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/08/2023 7:54 PM
+BAG:vitcon add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/08/2023 7:54 PM
+BAG:vitcon add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/08/2023 7:54 PM
+BAG:vitcon add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/08/2023 7:55 PM
+BAG:vitcon add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/08/2023 7:56 PM
+BAG:vitcon add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/08/2023 7:56 PM
+BAG:vitcon add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 04/08/2023 7:57 PM
+BAG:vitcon add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 04/08/2023 7:58 PM
+BAG:vitcon add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 04/08/2023 7:58 PM
+BAG:vitcon add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 04/08/2023 7:58 PM
+BAG:vitcon add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 04/08/2023 7:58 PM
+BAG:vitcon add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 04/08/2023 7:58 PM
+BAG:vitcon add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 04/08/2023 7:58 PM
+BAG:vitcon add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 04/08/2023 7:58 PM
+BAG:vitcon add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 04/08/2023 7:58 PM
+BAG:vitcon add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 04/08/2023 7:58 PM
+BAG:vitcon add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 04/08/2023 7:58 PM
+BAG:vitcon add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 40xĐá Vĩnh Hằng (old: 39) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 40xĐá Hắc Hóa (old: 39) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 41xĐá Vĩnh Hằng (old: 40) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 41xĐá Hắc Hóa (old: 40) lydo: Mua santa at 04/08/2023 8:00 PM
+BAG:vitcon add 42xĐá Vĩnh Hằng (old: 41) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 42xĐá Hắc Hóa (old: 41) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 43xĐá Vĩnh Hằng (old: 42) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 43xĐá Hắc Hóa (old: 42) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 44xĐá Vĩnh Hằng (old: 43) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 44xĐá Hắc Hóa (old: 43) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 45xĐá Vĩnh Hằng (old: 44) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 45xĐá Hắc Hóa (old: 44) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 46xĐá Vĩnh Hằng (old: 45) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 46xĐá Hắc Hóa (old: 45) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 47xĐá Vĩnh Hằng (old: 46) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 47xĐá Hắc Hóa (old: 46) lydo: Mua santa at 04/08/2023 8:01 PM
+BAG:vitcon add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 04/08/2023 8:02 PM
+BAG:vitcon add 1xGiầy Hủy Diệt lydo: Lấy từ rương qua người at 04/08/2023 8:03 PM
+BAG:vitcon add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 04/08/2023 8:05 PM
+BAG:vitcon add 1xQuần jean Calic lydo: Cường Hóa trang bị at 04/08/2023 8:05 PM
+BAG:vitcon add 1xQuần Thần Linh lydo: Cường Hóa trang bị at 04/08/2023 8:06 PM
+BAG:vitcon add 1xQuần Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 8:06 PM
+BAG:vitcon add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 04/08/2023 8:07 PM
+BAG:vitcon add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 04/08/2023 8:08 PM
+BAG:vitcon add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 04/08/2023 8:08 PM
+BAG:vitcon add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 04/08/2023 8:08 PM
+BAG:vitcon add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 04/08/2023 8:08 PM
+BAG:vitcon add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 04/08/2023 8:08 PM
+BAG:vitcon add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 04/08/2023 8:08 PM
+BAG:vitcon add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 04/08/2023 8:08 PM
+BAG:vitcon add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 04/08/2023 8:08 PM
+BAG:vitcon add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 04/08/2023 8:08 PM
+BAG:vitcon add 1xQuần jean Calic lydo: Cường Hóa trang bị at 04/08/2023 8:08 PM
+BAG:vitcon add 1xQuần Thần Linh lydo: Cường Hóa trang bị at 04/08/2023 8:09 PM
+BAG:vitcon add 1xQuần Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 8:09 PM
+BAG:vitcon add 1xGăng Hủy Diệt lydo: Lấy từ rương qua người at 04/08/2023 8:10 PM
+BAG:vitcon add 1xNhẫn Hủy Diệt lydo: Lấy từ rương qua người at 04/08/2023 8:10 PM
+BAG:vitcon add 1xGăng Hủy Diệt lydo: Lấy từ rương qua người at 04/08/2023 8:10 PM
+BAG:vitcon add 1xQuần Hủy Diệt lydo: Lấy từ rương qua người at 04/08/2023 8:10 PM
+BAG:vitcon add 1xÁo jean Calic lydo: Lấy từ rương qua người at 04/08/2023 8:10 PM
+BAG:vitcon add 1xQuần bạc Goku lydo: Lấy từ rương qua người at 04/08/2023 8:10 PM
+BAG:vitcon add 1xGiày bạc Goku lydo: Lấy từ rương qua người at 04/08/2023 8:10 PM
+BAG:vitcon add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 04/08/2023 8:11 PM
+BAG:vitcon add 1xÁo jean Calic lydo: Cường Hóa trang bị at 04/08/2023 8:11 PM
+BAG:vitcon add 1xÁo Thần Linh lydo: Cường Hóa trang bị at 04/08/2023 8:12 PM
+BAG:vitcon add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 04/08/2023 8:12 PM
+BAG:vitcon add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 04/08/2023 8:12 PM
+BAG:vitcon add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 04/08/2023 8:12 PM
+BAG:vitcon add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 04/08/2023 8:12 PM
+BAG:vitcon add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 04/08/2023 8:12 PM
+BAG:vitcon add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 04/08/2023 8:12 PM
+BAG:vitcon add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 04/08/2023 8:12 PM
+BAG:vitcon add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 04/08/2023 8:12 PM
+BAG:vitcon add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 04/08/2023 8:12 PM
+BAG:vitcon add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 04/08/2023 8:12 PM
+BAG:vitcon add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/08/2023 8:13 PM
+BAG:vitcon add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 8:14 PM
+BAG:vitcon add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 04/08/2023 8:14 PM
+BAG:vitcon add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 04/08/2023 8:15 PM
+BAG:vitcon add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 04/08/2023 8:15 PM
+BAG:vitcon add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 04/08/2023 8:15 PM
+BAG:vitcon add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 04/08/2023 8:15 PM
+BAG:vitcon add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 04/08/2023 8:15 PM
+BAG:vitcon add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 04/08/2023 8:15 PM
+BAG:vitcon add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 04/08/2023 8:15 PM
+BAG:vitcon add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 04/08/2023 8:15 PM
+BAG:vitcon add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 04/08/2023 8:15 PM
+BAG:vitcon add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 04/08/2023 8:15 PM
+BAG:vitcon add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 04/08/2023 8:15 PM
+BAG:vitcon add 1xÁo jean Calic lydo: Cường Hóa trang bị at 04/08/2023 8:15 PM
+BAG:vitcon add 1xÁo Thần Linh lydo: Cường Hóa trang bị at 04/08/2023 8:16 PM
+BAG:vitcon add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 04/08/2023 8:16 PM
+BAG:vitcon add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 04/08/2023 8:19 PM
+BAG:vitcon add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 04/08/2023 8:19 PM
+BAG:vitcon add 1xQuần Hủy Diệt lydo: Lấy từ body vào hành trang at 04/08/2023 8:19 PM
+BAG:vitcon add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 04/08/2023 8:20 PM
+BAG:vitcon add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 04/08/2023 8:20 PM
+BAG:vitcon add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 04/08/2023 8:20 PM
+BAG:vitcon add 99xCuồng nộ lydo: (GD) Nhận từ vjtcon at 04/08/2023 8:24 PM
+BAG:vitcon add 50xNgọc Rồng 3 sao lydo: (GD) Nhận từ vjtcon at 04/08/2023 8:24 PM
+BAG:vitcon add 10xSao pha lê lydo: (GD) Nhận từ oiconcu at 04/08/2023 9:22 PM
+BAG:vitcon add 94xThỏi vàng lydo: (GD) Nhận từ huypemhet at 04/08/2023 9:33 PM
+BAG:vitcon add 99xThỏi vàng lydo: (GD) Nhận từ huypemhet at 04/08/2023 9:33 PM
+BAG:vitcon add 99xThỏi vàng lydo: (GD) Nhận từ huypemhet at 04/08/2023 9:33 PM
+BAG:vitcon add 99xThỏi vàng lydo: (GD) Nhận từ huypemhet at 04/08/2023 9:33 PM
+BAG:vitcon add 2xSao pha lê lydo: (GD) Nhận từ huypemhet at 04/08/2023 9:33 PM
+BAG:vitcon add 71xPháo hoa (old: 66) lydo: Nhặt từ map at 04/08/2023 9:42 PM
+BAG:vitcon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 04/08/2023 9:43 PM

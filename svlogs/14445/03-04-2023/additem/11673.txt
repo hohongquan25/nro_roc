@@ -1,0 +1,126 @@
+BAG:tiger add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:tiger add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 10:11 AM
+BAG:tiger add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:16 AM
+BAG:tiger add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:16 AM
+BAG:tiger add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:16 AM
+BAG:tiger add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:16 AM
+BAG:tiger add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:16 AM
+BAG:tiger add 1xCải trang Super Cumber lydo: Lấy từ body đệ vào hành trang at 03/04/2023 10:16 AM
+BAG:tiger add 1xCải trang lydo: Mua từ bill at 03/04/2023 10:21 AM
+BAG:tiger add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 10:21 AM
+BAG:tiger add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 10:22 AM
+BAG:tiger add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/04/2023 10:23 AM
+BAG:tiger add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/04/2023 11:11 AM
+BAG:tiger add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/04/2023 11:11 AM
+BAG:tiger add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/04/2023 11:12 AM
+BAG:tiger add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/04/2023 11:13 AM
+BAG:tiger add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/04/2023 11:13 AM
+BAG:tiger add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 11:14 AM
+BAG:tiger add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 11:14 AM
+BAG:tiger add 1xGăng vải thô lydo: Nhặt từ map at 03/04/2023 11:14 AM
+BAG:tiger add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 11:15 AM
+BAG:tiger add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 11:15 AM
+BAG:tiger add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 11:15 AM
+BAG:tiger add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 11:15 AM
+BAG:tiger add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 11:16 AM
+BAG:tiger add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 11:16 AM
+BAG:tiger add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 11:16 AM
+BAG:tiger add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/04/2023 11:17 AM
+BAG:tiger add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/04/2023 11:18 AM
+BAG:tiger add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/04/2023 11:19 AM
+BAG:tiger add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 03/04/2023 11:20 AM
+BAG:tiger add 1xQuần lông đỏ lydo: Cường Hóa trang bị at 03/04/2023 11:20 AM
+BAG:tiger add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/04/2023 11:20 AM
+BAG:tiger add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 03/04/2023 11:20 AM
+BAG:tiger add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/04/2023 11:20 AM
+BAG:tiger add 1xÁo lưỡng long lydo: Cường Hóa trang bị at 03/04/2023 11:21 AM
+BAG:tiger add 1xQuần lưỡng long lydo: Cường Hóa trang bị at 03/04/2023 11:21 AM
+BAG:tiger add 1xGăng lưỡng long lydo: Cường Hóa trang bị at 03/04/2023 11:21 AM
+BAG:tiger add 1xGiày lưỡng long lydo: Cường Hóa trang bị at 03/04/2023 11:21 AM
+BAG:tiger add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/04/2023 11:21 AM
+BAG:tiger add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 11:22 AM
+BAG:tiger add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 11:22 AM
+BAG:tiger add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 11:22 AM
+BAG:tiger add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 11:22 AM
+BAG:tiger add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 11:22 AM
+BAG:tiger add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 11:22 AM

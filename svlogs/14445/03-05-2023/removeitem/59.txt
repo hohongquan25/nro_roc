@@ -1,0 +1,921 @@
+BAG:yoriichi remove Cải trang Hit lydo: Mặc vào người at 03/05/2023 5:58 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 5:59 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 5:59 PM
+BAG:yoriichi remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 5:59 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 5:59 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 5:59 PM
+BAG:yoriichi remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 5:59 PM
+BAG:yoriichi remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 5:59 PM
+BAG:yoriichi remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 5:59 PM
+BAG:yoriichi remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/05/2023 6:00 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:02 PM
+BAG:yoriichi remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/05/2023 6:03 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:03 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:03 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:03 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 6:03 PM
+BAG:yoriichi remove Bổ khí lydo: Tự Xóa vật phẩm at 03/05/2023 6:03 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:03 PM
+BAG:yoriichi remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/05/2023 6:04 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:04 PM
+BAG:yoriichi remove Đậu thần cấp 2 lydo: Tự Xóa vật phẩm at 03/05/2023 6:04 PM
+BAG:yoriichi remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 6:04 PM
+BAG:yoriichi remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/05/2023 6:06 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:06 PM
+BAG:yoriichi remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 03/05/2023 6:06 PM
+BAG:yoriichi remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/05/2023 6:06 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:06 PM
+BAG:yoriichi remove Mảnh Quỷ đất mẹ lydo: Tự Xóa vật phẩm at 03/05/2023 6:06 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:06 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 6:06 PM
+BAG:yoriichi remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/05/2023 6:07 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 6:07 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:10 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:10 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:10 PM
+BAG:yoriichi remove Đậu thần cấp 4 lydo: Tự Xóa vật phẩm at 03/05/2023 6:10 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 6:10 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:11 PM
+BAG:yoriichi remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 6:11 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 6:11 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:11 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:11 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:11 PM
+BAG:yoriichi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/05/2023 6:11 PM
+BAG:yoriichi remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 6:12 PM
+BAG:yoriichi remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 6:12 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:12 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:12 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 6:12 PM
+BAG:yoriichi remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 6:12 PM
+BAG:yoriichi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/05/2023 6:12 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:12 PM
+BAG:yoriichi remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 03/05/2023 6:12 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:12 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:12 PM
+BAG:yoriichi remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 6:13 PM
+BAG:yoriichi remove Quần vải thô lydo: Cất vào rương at 03/05/2023 6:13 PM
+BAG:yoriichi remove Rada cấp 1 lydo: Cất vào rương at 03/05/2023 6:13 PM
+BAG:yoriichi remove Thỏi vàng lydo: Cất vào rương at 03/05/2023 6:13 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:13 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:13 PM
+BAG:yoriichi remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 6:13 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:15 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 6:15 PM
+BAG:yoriichi remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 6:15 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:15 PM
+BAG:yoriichi remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 03/05/2023 6:15 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:15 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 6:15 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:15 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 6:15 PM
+BAG:yoriichi remove Giầy vải thô lydo: Cất vào rương at 03/05/2023 6:15 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:16 PM
+BAG:yoriichi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/05/2023 6:16 PM
+BAG:yoriichi remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/05/2023 6:16 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:16 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:16 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 6:16 PM
+BAG:yoriichi remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 6:17 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:17 PM
+BAG:yoriichi remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/05/2023 6:17 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:17 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:17 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 6:17 PM
+BAG:yoriichi remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 03/05/2023 6:18 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:18 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:18 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:18 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 6:19 PM
+BAG:yoriichi remove 1xĐá Titan lydo: Bán cho shop at 03/05/2023 6:19 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:22 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:22 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:22 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:22 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:22 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:22 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:22 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:22 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:23 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:23 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:23 PM
+BAG:yoriichi remove Áo vải thô lydo: Mặc vào người at 03/05/2023 6:23 PM
+BAG:yoriichi remove Quần vải thô lydo: Mặc vào người at 03/05/2023 6:23 PM
+BAG:yoriichi remove Giầy vải thô lydo: Mặc vào người at 03/05/2023 6:23 PM
+BAG:yoriichi remove Rada cấp 1 lydo: Mặc vào người at 03/05/2023 6:23 PM
+BAG:yoriichi remove Găng vải thô lydo: Mặc vào người at 03/05/2023 6:23 PM
+BAG:yoriichi remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 03/05/2023 6:23 PM
+BAG:yoriichi remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 03/05/2023 6:23 PM
+BAG:yoriichi remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 03/05/2023 6:23 PM
+BAG:yoriichi remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 03/05/2023 6:23 PM
+BAG:yoriichi remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 03/05/2023 6:23 PM
+BAG:yoriichi remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 03/05/2023 6:23 PM
+BAG:yoriichi remove 18xĐậu thần cấp 8 lydo: Bán cho shop at 03/05/2023 6:23 PM
+BAG:yoriichi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/05/2023 6:24 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:26 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:26 PM
+BAG:yoriichi remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/05/2023 6:26 PM
+BAG:yoriichi remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 6:26 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 6:26 PM
+BAG:yoriichi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/05/2023 6:27 PM
+BAG:yoriichi remove Thỏi vàng lydo: Cất vào rương at 03/05/2023 6:27 PM
+BAG:yoriichi remove Giáp Xên bọ hung lydo: Cất vào rương at 03/05/2023 6:27 PM
+BAG:yoriichi remove Bổ huyết lydo: Cất vào rương at 03/05/2023 6:27 PM
+BAG:yoriichi remove Sao pha lê lydo: Cất vào rương at 03/05/2023 6:27 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:27 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 6:27 PM
+BAG:yoriichi remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 6:28 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:28 PM
+BAG:yoriichi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/05/2023 6:29 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 6:29 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 6:29 PM
+BAG:yoriichi remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 6:29 PM
+BAG:yoriichi remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 6:29 PM
+BAG:yoriichi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/05/2023 6:29 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:29 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:30 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 6:30 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:31 PM
+BAG:yoriichi remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 6:31 PM
+BAG:yoriichi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/05/2023 6:31 PM
+BAG:yoriichi remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 6:31 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 6:31 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 6:32 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:32 PM
+BAG:yoriichi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/05/2023 6:32 PM
+BAG:yoriichi remove Áo vải thô lydo: Cất vào rương at 03/05/2023 6:33 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:33 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 6:34 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:34 PM
+BAG:yoriichi remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/05/2023 6:34 PM
+BAG:yoriichi remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 6:34 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 6:34 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:34 PM
+BAG:yoriichi remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/05/2023 6:34 PM
+BAG:yoriichi remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 03/05/2023 6:35 PM
+BAG:yoriichi remove Đậu thần cấp 7 lydo: Tự Xóa vật phẩm at 03/05/2023 6:35 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 6:35 PM
+BAG:yoriichi remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/05/2023 6:35 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 6:35 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 6:35 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 6:36 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 6:36 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:36 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 6:38 PM
+BAG:yoriichi remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/05/2023 6:38 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:39 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:39 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:39 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:40 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:40 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:40 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:40 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:40 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:40 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:40 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:41 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:41 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:41 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:41 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:41 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:41 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:41 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:41 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:41 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:41 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:41 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:42 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:43 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:44 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:45 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:46 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:46 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:46 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:46 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:46 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:47 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:47 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:47 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:47 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:47 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:48 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:49 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:50 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 6:51 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:53 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:54 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:54 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:54 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:54 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:54 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:54 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:54 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:54 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:54 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:55 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:55 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:55 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:55 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:55 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:55 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 6:55 PM
+BAG:yoriichi remove Áo vải thô lydo: Mặc vào người at 03/05/2023 6:56 PM
+BAG:yoriichi remove Quần vải thô lydo: Mặc vào người at 03/05/2023 6:56 PM
+BAG:yoriichi remove Găng vải thô lydo: Mặc vào người at 03/05/2023 6:56 PM
+BAG:yoriichi remove Giầy vải thô lydo: Mặc vào người at 03/05/2023 6:56 PM
+BAG:yoriichi remove Rada cấp 1 lydo: Mặc vào người at 03/05/2023 6:56 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 6:56 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 7:03 PM
+BAG:yoriichi remove Sao pha lê lydo: Cất vào rương at 03/05/2023 7:05 PM
+BAG:yoriichi remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/05/2023 7:05 PM
+BAG:yoriichi remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 7:05 PM
+BAG:yoriichi remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 7:59 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:02 PM
+BAG:yoriichi remove Ngọc Rồng 3 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:02 PM
+BAG:yoriichi remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/05/2023 8:02 PM
+BAG:yoriichi remove Cuồng nộ lydo: Tự Xóa vật phẩm at 03/05/2023 8:03 PM
+BAG:yoriichi remove 99xThỏi vàng lydo: Tách thỏi vàng at 03/05/2023 8:03 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:05 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:07 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:08 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:10 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:11 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:11 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:11 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:11 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:12 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:12 PM
+BAG:yoriichi remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 8:12 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:12 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:12 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:13 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:13 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:13 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:13 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:14 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:14 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:14 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:14 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:15 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:15 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:15 PM
+BAG:yoriichi remove Gà quay nguyên con lydo: Tự Xóa vật phẩm at 03/05/2023 8:15 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:15 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:16 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:16 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:16 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:16 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:16 PM
+BAG:yoriichi remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:16 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:16 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:16 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:16 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:16 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:16 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:16 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:17 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:17 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:17 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:17 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:17 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:18 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:18 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:18 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:18 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:18 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:18 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:18 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:18 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:18 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:18 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:19 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:19 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:19 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:19 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:19 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:19 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:19 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:19 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:19 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:19 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:20 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:20 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:20 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:20 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:20 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:20 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:20 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:20 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:21 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:21 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:21 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:21 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:21 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:21 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:21 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:21 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:21 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:21 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:21 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:22 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:22 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:22 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:22 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:22 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:22 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:22 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:22 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:23 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:23 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:23 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:23 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:23 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:23 PM
+BAG:yoriichi remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 8:23 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:23 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:23 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:23 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:24 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:24 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:24 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:24 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:24 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:24 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:24 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:25 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:25 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:25 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:25 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:25 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:25 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:26 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:26 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:26 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:26 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:26 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:26 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:26 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:26 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:27 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:27 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:27 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:27 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:27 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:27 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:27 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:27 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:27 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:27 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:28 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:28 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:28 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:28 PM
+BAG:yoriichi remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:28 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:28 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:28 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:28 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:28 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:29 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:29 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:29 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:29 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:29 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:29 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:29 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:29 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:30 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:30 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:30 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:30 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:31 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:31 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:32 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:33 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:33 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:34 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:34 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:34 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:34 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:34 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:35 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:35 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:35 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:35 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:35 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:35 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:36 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:36 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:36 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:36 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:36 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:36 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:36 PM
+BAG:yoriichi remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:36 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:36 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:36 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:37 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:37 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:37 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:37 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:38 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:38 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:38 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:38 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:39 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:39 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:39 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:40 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:40 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:40 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:40 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:40 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:41 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:41 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:41 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:41 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:41 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:42 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:42 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:42 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:42 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:43 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:43 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:43 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:43 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:43 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:43 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:43 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:44 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:44 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:44 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:44 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:45 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:45 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:45 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:45 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:45 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:46 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:46 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:46 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:46 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:46 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:46 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:46 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:46 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:47 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:47 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:47 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:47 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:48 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:48 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:48 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:49 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:49 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:49 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:49 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:49 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:49 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:50 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:50 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:50 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:50 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:50 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:50 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:50 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:50 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:51 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:51 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:51 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:51 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:52 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:52 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:52 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:53 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:53 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:53 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:53 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:53 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:53 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:53 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:53 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:54 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:54 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:54 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:54 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:54 PM
+BAG:yoriichi remove Thỏi vàng lydo: Cất vào rương at 03/05/2023 8:54 PM
+BAG:yoriichi remove Sao pha lê lydo: Cất vào rương at 03/05/2023 8:54 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 8:54 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:54 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:54 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:54 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:55 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:55 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 8:55 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:55 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:55 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:56 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:56 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 8:57 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:57 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 8:57 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:57 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:57 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:57 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 8:58 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:58 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:58 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:58 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:58 PM
+BAG:yoriichi remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/05/2023 8:58 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 8:58 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 8:59 PM
+BAG:yoriichi remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 8:59 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 8:59 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:00 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:00 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:00 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:02 PM
+BAG:yoriichi remove Cải trang lydo: Tự Xóa vật phẩm at 03/05/2023 9:02 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:03 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:03 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:03 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:05 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:05 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:06 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:09 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:09 PM
+BAG:yoriichi remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 9:10 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:12 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:12 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:12 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:12 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:13 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:15 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:16 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:16 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:17 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:17 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:18 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:18 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:19 PM
+BAG:yoriichi remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 9:20 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:20 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:21 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:21 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:21 PM
+BAG:yoriichi remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/05/2023 9:23 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 9:23 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 9:23 PM
+BAG:yoriichi remove Đậu thần cấp 8 lydo: Tự Xóa vật phẩm at 03/05/2023 9:24 PM
+BAG:yoriichi remove Đậu thần cấp 8 lydo: Tự Xóa vật phẩm at 03/05/2023 9:24 PM
+BAG:yoriichi remove Đậu thần cấp 8 lydo: Tự Xóa vật phẩm at 03/05/2023 9:24 PM
+BAG:yoriichi remove Đậu thần cấp 8 lydo: Tự Xóa vật phẩm at 03/05/2023 9:24 PM
+BAG:yoriichi remove Đậu thần cấp 8 lydo: Tự Xóa vật phẩm at 03/05/2023 9:24 PM
+BAG:yoriichi remove Hóa khỉ khổng lồ lv1 lydo: Sách kĩ năng at 03/05/2023 9:26 PM
+BAG:yoriichi remove 1xHóa khỉ khổng lồ lv6 lydo: Bán cho shop at 03/05/2023 9:26 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:28 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:28 PM
+BAG:yoriichi remove Hóa khỉ khổng lồ lv2 lydo: Sách kĩ năng at 03/05/2023 9:28 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:29 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:29 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:29 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:29 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:29 PM
+BAG:yoriichi remove Hóa khỉ khổng lồ lv3 lydo: Sách kĩ năng at 03/05/2023 9:30 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:30 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:30 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:30 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:30 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:31 PM
+BAG:yoriichi remove Hóa khỉ khổng lồ lv4 lydo: Sách kĩ năng at 03/05/2023 9:31 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:31 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:31 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:32 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:32 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:32 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:32 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:32 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:33 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:33 PM
+BAG:yoriichi remove Hóa khỉ khổng lồ lv5 lydo: Sách kĩ năng at 03/05/2023 9:33 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:33 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:33 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:34 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:34 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:34 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:34 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:34 PM
+BAG:yoriichi remove Hóa khỉ khổng lồ lv6 lydo: Sách kĩ năng at 03/05/2023 9:35 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 9:35 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 9:35 PM
+BAG:yoriichi remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/05/2023 9:35 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:35 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 9:35 PM
+BAG:yoriichi remove Đậu xanh lydo: Tự Xóa vật phẩm at 03/05/2023 9:35 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:35 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:35 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:35 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 9:36 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:36 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:36 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:36 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:36 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:37 PM
+BAG:yoriichi remove Hóa khỉ khổng lồ lv7 lydo: Sách kĩ năng at 03/05/2023 9:37 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:37 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:37 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:37 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:38 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 9:38 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 9:38 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 9:38 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 9:38 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 9:38 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 9:38 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 9:38 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 9:38 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 9:38 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 9:40 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 9:40 PM
+BAG:yoriichi remove 1xSao pha lê lydo: Ép ngọc rồng at 03/05/2023 9:40 PM
+BAG:yoriichi remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/05/2023 9:40 PM
+BAG:yoriichi remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 9:41 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:43 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:44 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:44 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:45 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:46 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:47 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:47 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:49 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:50 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:50 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:51 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:51 PM
+BAG:yoriichi remove 1xCuồng nộ lydo: Dùng buff at 03/05/2023 9:51 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:52 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:53 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:53 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:55 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:56 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:57 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 9:59 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 10:00 PM
+BAG:yoriichi remove 1xĐậu xanh lydo: Bán cho shop at 03/05/2023 10:11 PM
+BAG:yoriichi remove 1xĐá Ruby lydo: Bán cho shop at 03/05/2023 10:11 PM
+BAG:yoriichi remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/05/2023 10:14 PM
+BAG:yoriichi remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/05/2023 10:14 PM
+BAG:yoriichi remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove Áo vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove Quần vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove Găng vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove Giầy vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/05/2023 10:14 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 10:16 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 10:16 PM
+BAG:yoriichi remove Bột mì lydo: Tự Xóa vật phẩm at 03/05/2023 10:18 PM
+BAG:yoriichi remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/05/2023 10:18 PM
+BAG:yoriichi remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/05/2023 10:18 PM
+BAG:yoriichi remove Đá Titan lydo: Tự Xóa vật phẩm at 03/05/2023 10:18 PM
+BAG:yoriichi remove Trứng vịt muối lydo: Tự Xóa vật phẩm at 03/05/2023 10:18 PM
+BAG:yoriichi remove Sách Trói lv1 lydo: Sách kĩ năng at 03/05/2023 10:19 PM
+BAG:yoriichi remove Sách Trói lv2 lydo: Sách kĩ năng at 03/05/2023 10:19 PM
+BAG:yoriichi remove Sách Trói lv3 lydo: Sách kĩ năng at 03/05/2023 10:19 PM
+BAG:yoriichi remove Sách Trói lv4 lydo: Sách kĩ năng at 03/05/2023 10:19 PM
+BAG:yoriichi remove Sách Trói lv5 lydo: Sách kĩ năng at 03/05/2023 10:19 PM
+BAG:yoriichi remove Sách Trói lv6 lydo: Sách kĩ năng at 03/05/2023 10:19 PM
+BAG:yoriichi remove Sách Trói lv7 lydo: Sách kĩ năng at 03/05/2023 10:19 PM
+BAG:yoriichi remove Cuồng nộ lydo: Cất vào rương at 03/05/2023 10:26 PM
+BAG:yoriichi remove 9xNgọc Rồng 6 sao lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:yoriichi remove 14xGà quay nguyên con lydo: Bán cho shop at 03/05/2023 10:30 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:31 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:32 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:32 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:32 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:32 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:33 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:33 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:34 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:35 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:35 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:35 PM
+BAG:yoriichi remove Găng vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:35 PM
+BAG:yoriichi remove Áo vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:35 PM
+BAG:yoriichi remove Quần vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:35 PM
+BAG:yoriichi remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/05/2023 10:35 PM
+BAG:yoriichi remove Giầy vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:35 PM
+BAG:yoriichi remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 03/05/2023 10:35 PM
+BAG:yoriichi remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 03/05/2023 10:41 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 10:56 PM
+BAG:yoriichi remove Áo vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:57 PM
+BAG:yoriichi remove Quần vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:57 PM
+BAG:yoriichi remove Giầy vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:57 PM
+BAG:yoriichi remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/05/2023 10:57 PM
+BAG:yoriichi remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 03/05/2023 10:57 PM
+BAG:yoriichi remove Găng vải thô lydo: Mặc cho đệ tử at 03/05/2023 10:57 PM
+BAG:yoriichi remove Găng da Xayda lydo: Cất vào rương at 03/05/2023 10:59 PM
+BAG:yoriichi remove Đá thạch anh tím lydo: Cất vào rương at 03/05/2023 11:00 PM
+BAG:yoriichi remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/05/2023 11:03 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 11:17 PM
+BAG:yoriichi remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/05/2023 11:17 PM
+BAG:yoriichi remove Áo vải thô lydo: Mặc cho đệ tử at 03/05/2023 11:17 PM
+BAG:yoriichi remove Quần vải thô lydo: Mặc cho đệ tử at 03/05/2023 11:17 PM
+BAG:yoriichi remove Giầy vải thô lydo: Mặc cho đệ tử at 03/05/2023 11:17 PM
+BAG:yoriichi remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/05/2023 11:17 PM
+BAG:yoriichi remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 03/05/2023 11:17 PM
+BAG:yoriichi remove Găng vải thô lydo: Mặc cho đệ tử at 03/05/2023 11:17 PM
+BAG:yoriichi remove 14xThỏi vàng lydo: Giao dịch với concacne at 03/05/2023 11:35 PM
+BAG:yoriichi remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/05/2023 11:46 PM
+BAG:yoriichi remove Hộp bánh Trung Thu lydo: Tự Xóa vật phẩm at 03/05/2023 11:52 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:52 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:53 PM
+BAG:yoriichi remove 1xThỏi vàng lydo: Bán cho shop at 03/05/2023 11:53 PM
+BAG:yoriichi remove 2xPháo hoa lydo: Bán cho shop at 03/05/2023 11:53 PM
+BAG:yoriichi remove Áo vải thô lydo: Mặc cho đệ tử at 03/05/2023 11:59 PM
+BAG:yoriichi remove Quần vải thô lydo: Mặc cho đệ tử at 03/05/2023 11:59 PM
+BAG:yoriichi remove Giầy vải thô lydo: Mặc cho đệ tử at 03/05/2023 11:59 PM
+BAG:yoriichi remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/05/2023 11:59 PM
+BAG:yoriichi remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 03/05/2023 11:59 PM
+BAG:yoriichi remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 03/05/2023 11:59 PM
+BAG:yoriichi remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 03/05/2023 11:59 PM
+BAG:yoriichi remove Găng vải thô lydo: Mặc cho đệ tử at 03/05/2023 11:59 PM

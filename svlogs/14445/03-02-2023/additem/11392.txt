@@ -1,0 +1,527 @@
+BAG:ember add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/02/2023 12:52 PM
+BAG:ember add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/02/2023 12:54 PM
+BAG:ember add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 03/02/2023 12:54 PM
+BAG:ember add 10xĐậu thần cấp 1 (old: 9) lydo: Thu hoạch đậu at 03/02/2023 12:54 PM
+BAG:ember add 24xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 12:54 PM
+BAG:ember add 44xĐậu thần cấp 1 (old: 24) lydo: Lấy từ rương qua người at 03/02/2023 12:55 PM
+BAG:ember add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 12:58 PM
+BAG:ember add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 12:58 PM
+BAG:ember add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 12:58 PM
+BAG:ember add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 1:01 PM
+BAG:ember add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 1:01 PM
+BAG:ember add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 1:01 PM
+BAG:ember add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 1:02 PM
+BAG:ember add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 1:02 PM
+BAG:ember add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 1:02 PM
+BAG:ember add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 1:02 PM
+BAG:ember add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 1:02 PM
+BAG:ember add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 1:03 PM
+BAG:ember add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 1:03 PM
+BAG:ember add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 1:08 PM
+BAG:ember add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 1:08 PM
+BAG:ember add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 1:09 PM
+BAG:ember add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 1:14 PM
+BAG:ember add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 1:14 PM
+BAG:ember add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 1:14 PM
+BAG:ember add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/02/2023 1:16 PM
+BAG:ember add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/02/2023 1:16 PM
+BAG:ember add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 1:16 PM
+BAG:ember add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 1:16 PM
+BAG:ember add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/02/2023 1:16 PM
+BAG:ember add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/02/2023 1:17 PM
+BAG:ember add 1xBột mì lydo: Nhặt từ map at 03/02/2023 1:17 PM
+BAG:ember add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 1:17 PM
+BAG:ember add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 1:17 PM
+BAG:ember add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 1:17 PM
+BAG:ember add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 1:17 PM
+BAG:ember add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/02/2023 1:18 PM
+BAG:ember add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 1:18 PM
+BAG:ember add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/02/2023 1:18 PM
+BAG:ember add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/02/2023 1:18 PM
+BAG:ember add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/02/2023 1:19 PM
+BAG:ember add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 1:19 PM
+BAG:ember add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 1:19 PM
+BAG:ember add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 1:19 PM
+BAG:ember add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 1:19 PM
+BAG:ember add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 1:19 PM
+BAG:ember add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/02/2023 1:20 PM
+BAG:ember add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/02/2023 1:24 PM
+BAG:ember add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/02/2023 1:24 PM
+BAG:ember add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/02/2023 1:25 PM
+BAG:ember add 1000000xThỏi vàng lydo: Giftcode at 03/02/2023 1:29 PM
+BAG:ember add 10000xĐá ngũ sắc lydo: Giftcode at 03/02/2023 1:29 PM
+BAG:ember add 1xHợp thể Kamioren lydo: Mua từ bill at 03/02/2023 1:29 PM
+BAG:ember add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/02/2023 1:30 PM
+BAG:ember add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 1:31 PM
+BAG:ember add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 1:31 PM
+BAG:ember add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 3:40 PM
+BAG:ember add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/02/2023 3:41 PM
+BAG:ember add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/02/2023 3:41 PM
+BAG:ember add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/02/2023 3:41 PM
+BAG:ember add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/02/2023 3:41 PM
+BAG:ember add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/02/2023 3:42 PM
+BAG:ember add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 3:42 PM
+BAG:ember add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/02/2023 3:42 PM
+BAG:ember add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/02/2023 3:42 PM
+BAG:ember add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/02/2023 3:42 PM
+BAG:ember add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/02/2023 3:42 PM
+BAG:ember add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/02/2023 3:43 PM
+BAG:ember add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 3:43 PM
+BAG:ember add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/02/2023 3:43 PM
+BAG:ember add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/02/2023 3:43 PM
+BAG:ember add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 3:43 PM
+BAG:ember add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/02/2023 3:43 PM
+BAG:ember add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 3:43 PM
+BAG:ember add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/02/2023 3:43 PM
+BAG:ember add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 3:43 PM
+BAG:ember add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 3:43 PM
+BAG:ember add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 3:44 PM
+BAG:ember add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/02/2023 3:44 PM
+BAG:ember add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 3:45 PM
+BAG:ember add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 3:45 PM
+BAG:ember add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 3:45 PM
+BAG:ember add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 3:45 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:47 PM
+BAG:ember add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 4xNgọc Rồng 5 sao (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:48 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/02/2023 3:49 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/02/2023 3:51 PM
+BAG:ember add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/02/2023 3:53 PM
+BAG:ember add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 3:54 PM
+BAG:ember add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/02/2023 3:55 PM
+BAG:ember add 403xNgọc Rồng 7 sao lydo: Giftcode at 03/02/2023 3:55 PM
+BAG:ember add 99xNgọc Rồng 7 sao (old: 2) lydo: Giftcode at 03/02/2023 3:55 PM
+BAG:ember add 12xSao pha lê (old: 2) lydo: Lấy từ rương qua người at 03/02/2023 3:56 PM
+BAG:ember add 9xSao pha lê (old: 1) lydo: Lấy từ rương qua người at 03/02/2023 3:56 PM
+BAG:ember add 12xSao pha lê lydo: Lấy từ rương qua người at 03/02/2023 3:56 PM
+BAG:ember add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/02/2023 3:56 PM
+BAG:ember add 1xGiầy nhựa lydo: Mua từ cửa hàng at 03/02/2023 3:56 PM
+BAG:ember add 1xQuần vải đen lydo: Mua từ cửa hàng at 03/02/2023 3:56 PM
+BAG:ember add 1xÁo thun 3 lỗ lydo: Mua từ cửa hàng at 03/02/2023 3:56 PM
+BAG:ember add 999999xThỏi vàng (old: 999979) lydo: Đổi vàng at 03/02/2023 6:07 PM
+BAG:ember add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 6:07 PM
+BAG:ember add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 6:07 PM
+BAG:ember add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 6:07 PM
+BAG:ember add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 6:07 PM
+BAG:ember add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/02/2023 6:08 PM
+BAG:ember add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 6:09 PM
+BAG:ember add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 6:09 PM
+BAG:ember add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 6:09 PM
+BAG:ember add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 6:09 PM
+BAG:ember add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 6:09 PM
+BAG:ember add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 6:09 PM
+BAG:ember add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 6:09 PM
+BAG:ember add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 03/02/2023 6:11 PM
+BAG:ember add 18xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 6:12 PM
+BAG:ember add 12xĐậu thần cấp 9 lydo: Lấy từ rương qua người at 03/02/2023 6:12 PM
+BAG:ember add 20xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/02/2023 6:12 PM
+BAG:ember add 500xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/02/2023 6:22 PM
+BAG:ember add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 16xNgọc Rồng 2 sao (old: 15) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 17xNgọc Rồng 2 sao (old: 16) lydo: Nhập ngọc at 03/02/2023 6:23 PM
+BAG:ember add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/02/2023 6:24 PM
+BAG:ember add 2xNgọc Rồng 1 sao (old: 1) lydo: Nhập ngọc at 03/02/2023 6:24 PM
+BAG:ember add 12xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/02/2023 6:24 PM
+BAG:ember add 99xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/02/2023 6:24 PM
+BAG:ember add 10xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/02/2023 6:24 PM
+BAG:ember add 12xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/02/2023 6:25 PM
+BAG:ember add 1xÁo thun 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/02/2023 6:28 PM
+BAG:ember add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/02/2023 6:29 PM
+BAG:ember add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/02/2023 6:29 PM
+BAG:ember add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/02/2023 6:29 PM
+BAG:ember add 1xCải Trang Thần Zeno lydo: Lấy từ body đệ vào hành trang at 03/02/2023 6:29 PM
+BAG:ember add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/02/2023 6:29 PM
+BAG:ember add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/02/2023 6:30 PM
+BAG:ember add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/02/2023 6:30 PM
+BAG:ember add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/02/2023 6:30 PM
+BAG:ember add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/02/2023 6:30 PM
+BAG:ember add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/02/2023 6:30 PM
+BAG:ember add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/02/2023 6:30 PM
+BAG:ember add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/02/2023 6:30 PM
+BAG:ember add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 6:33 PM
+BAG:ember add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 6:34 PM
+BAG:ember add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 6:34 PM
+BAG:ember add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 6:35 PM
+BAG:ember add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/02/2023 7:33 PM
+BAG:ember add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 7:35 PM
+BAG:ember add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 7:35 PM
+BAG:ember add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 7:35 PM
+BAG:ember add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/02/2023 7:37 PM
+BAG:ember add 39xĐậu thần cấp 10 (old: 19) lydo: Lấy từ rương qua người at 03/02/2023 7:39 PM
+BAG:ember add 9xVệ tinh trí tuệ lydo: Lấy từ rương qua người at 03/02/2023 7:39 PM
+BAG:ember add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/02/2023 7:41 PM
+BAG:ember add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/02/2023 8:01 PM
+BAG:ember add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 8:03 PM
+BAG:ember add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 8:03 PM
+BAG:ember add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 8:03 PM
+BAG:ember add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 8:03 PM
+BAG:ember add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 8:03 PM
+BAG:ember add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 8:03 PM
+BAG:ember add 1xCải trang lydo: Mua từ bill at 03/02/2023 8:06 PM
+BAG:ember add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 8:06 PM
+BAG:ember add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 8:06 PM
+BAG:ember add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 8:06 PM
+BAG:ember add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 8:06 PM
+BAG:ember add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 8:06 PM
+BAG:ember add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 8:06 PM
+BAG:ember add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 8:06 PM
+BAG:ember add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 8:06 PM
+BAG:ember add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/02/2023 8:07 PM
+BAG:ember add 99xCuồng nộ lydo: Admin at 03/02/2023 8:13 PM
+BAG:ember add 1xÁo thun 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:33 PM
+BAG:ember add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:33 PM
+BAG:ember add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:33 PM
+BAG:ember add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:33 PM
+BAG:ember add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:33 PM
+BAG:ember add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 8:35 PM
+BAG:ember add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 8:35 PM
+BAG:ember add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 8:35 PM
+BAG:ember add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 8:35 PM
+BAG:ember add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 8:35 PM
+BAG:ember add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 8:35 PM
+BAG:ember add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 8:41 PM
+BAG:ember add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/02/2023 8:42 PM
+BAG:ember add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/02/2023 8:59 PM
+BAG:ember add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 8:59 PM
+BAG:ember add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 9:01 PM
+BAG:ember add 1xBột mì lydo: Nhặt từ map at 03/02/2023 9:01 PM
+BAG:ember add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 9:01 PM
+BAG:ember add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 9:01 PM
+BAG:ember add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 9:01 PM
+BAG:ember add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 9:02 PM
+BAG:ember add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 9:02 PM
+BAG:ember add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 9:02 PM
+BAG:ember add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 9:02 PM
+BAG:ember add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/02/2023 9:02 PM
+BAG:ember add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 9:02 PM
+BAG:ember add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/02/2023 9:02 PM
+BAG:ember add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:ember add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:ember add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:ember add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:ember add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:ember add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 9:03 PM
+BAG:ember add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/02/2023 9:04 PM
+BAG:ember add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/02/2023 9:04 PM
+BAG:ember add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 9:04 PM
+BAG:ember add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/02/2023 9:04 PM
+BAG:ember add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/02/2023 9:04 PM
+BAG:ember add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/02/2023 9:04 PM
+BAG:ember add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:ember add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:ember add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:ember add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:ember add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:ember add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:ember add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:ember add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/02/2023 9:05 PM
+BAG:ember add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/02/2023 9:06 PM
+BAG:ember add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/02/2023 9:06 PM
+BAG:ember add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 9:10 PM
+BAG:ember add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 9:10 PM
+BAG:ember add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 9:10 PM
+BAG:ember add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 9:10 PM
+BAG:ember add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 9:10 PM
+BAG:ember add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 9:10 PM
+BAG:ember add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/02/2023 9:26 PM
+BAG:ember add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:ember add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:ember add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:ember add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:ember add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:ember add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:ember add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/02/2023 9:28 PM
+BAG:ember add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/02/2023 9:28 PM
+BAG:ember add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/02/2023 9:28 PM
+BAG:ember add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/02/2023 9:28 PM
+BAG:ember add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/02/2023 9:29 PM
+BAG:ember add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/02/2023 9:29 PM
+BAG:ember add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/02/2023 9:29 PM
+BAG:ember add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/02/2023 9:29 PM
+BAG:ember add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/02/2023 9:30 PM
+BAG:ember add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/02/2023 9:30 PM
+BAG:ember add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/02/2023 9:30 PM
+BAG:ember add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/02/2023 9:30 PM
+BAG:ember add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/02/2023 9:30 PM
+BAG:ember add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/02/2023 9:30 PM
+BAG:ember add 1xĐá Titan lydo: Nhặt từ map at 03/02/2023 9:30 PM
+BAG:ember add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/02/2023 9:31 PM
+BAG:ember add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/02/2023 9:31 PM
+BAG:ember add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/02/2023 9:31 PM
+BAG:ember add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/02/2023 9:31 PM
+BAG:ember add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/02/2023 9:31 PM
+BAG:ember add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/02/2023 9:31 PM
+BAG:ember add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/02/2023 9:31 PM
+BAG:ember add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/02/2023 9:31 PM
+BAG:ember add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/02/2023 9:31 PM
+BAG:ember add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/02/2023 9:32 PM
+BAG:ember add 1xÁo thun 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/02/2023 9:33 PM
+BAG:ember add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/02/2023 9:33 PM
+BAG:ember add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/02/2023 9:33 PM
+BAG:ember add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/02/2023 9:33 PM
+BAG:ember add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/02/2023 9:35 PM
+BAG:ember add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/02/2023 9:46 PM
+BAG:ember add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/02/2023 9:46 PM
+BAG:ember add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/02/2023 9:46 PM
+BAG:ember add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/02/2023 9:46 PM
+BAG:ember add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/02/2023 9:46 PM
+BAG:ember add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/02/2023 9:46 PM
+BAG:ember add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/02/2023 9:46 PM
+BAG:ember add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/02/2023 9:46 PM
+BAG:ember add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/02/2023 9:50 PM
+BAG:ember add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/02/2023 9:50 PM
+BAG:ember add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/02/2023 9:51 PM
+BAG:ember add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/02/2023 9:51 PM
+BAG:ember add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/02/2023 9:51 PM
+BAG:ember add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/02/2023 9:52 PM
+BAG:ember add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/02/2023 11:20 PM
+BAG:ember add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/02/2023 11:20 PM
+BAG:ember add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/02/2023 11:21 PM
+BAG:ember add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/02/2023 11:25 PM
+BAG:ember add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/02/2023 11:25 PM
+BAG:ember add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/02/2023 11:25 PM
+BAG:ember add 1xÁo thun 3 lỗ lydo: Lấy từ body vào hành trang at 03/02/2023 11:25 PM
+BAG:ember add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/02/2023 11:26 PM
+BAG:ember add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/02/2023 11:27 PM
+BAG:ember add 1xĐá lục bảo lydo: Nhặt từ map at 03/02/2023 11:29 PM
+BAG:ember add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/02/2023 11:30 PM
+BAG:ember add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/02/2023 11:34 PM

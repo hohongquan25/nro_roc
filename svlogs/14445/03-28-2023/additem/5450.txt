@@ -1,0 +1,205 @@
+BAG:onetop add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/28/2023 8:09 PM
+BAG:onetop add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 03/28/2023 8:13 PM
+BAG:onetop add 10xĐậu thần cấp 1 (old: 6) lydo: Thu hoạch đậu at 03/28/2023 8:13 PM
+BAG:onetop add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 8:14 PM
+BAG:onetop add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/28/2023 8:16 PM
+BAG:onetop add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 8:16 PM
+BAG:onetop add 8xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 03/28/2023 8:17 PM
+BAG:onetop add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 03/28/2023 8:17 PM
+BAG:onetop add 24xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 8:17 PM
+BAG:onetop add 1xMảnh Phi long lydo: Nhặt từ map at 03/28/2023 8:18 PM
+BAG:onetop add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/28/2023 8:20 PM
+BAG:onetop add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 8:20 PM
+BAG:onetop add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 8:20 PM
+BAG:onetop add 1xPhóng lợn lydo: Mua từ cửa hàng at 03/28/2023 8:23 PM
+BAG:onetop add 1xCải trang Mighty Mask lydo: Mua từ cửa hàng at 03/28/2023 8:23 PM
+BAG:onetop add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 8:25 PM
+BAG:onetop add 5000xThỏi vàng lydo: Đổi vàng at 03/28/2023 8:25 PM
+BAG:onetop add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/28/2023 8:26 PM
+BAG:onetop add 1xĐá Hắc Hóa lydo: Mua santa at 03/28/2023 8:26 PM
+BAG:onetop add 2000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 8:26 PM
+BAG:onetop add 1xCá heo lydo: Mua từ bill at 03/28/2023 8:26 PM
+BAG:onetop add 1xTanjiro lydo: Mua từ bill at 03/28/2023 8:26 PM
+BAG:onetop add 1xCải trang Mị Nương lydo: Mua từ bill at 03/28/2023 8:27 PM
+BAG:onetop add 1xCải trang than meo Karin lydo: Mua từ bill at 03/28/2023 8:27 PM
+BAG:onetop add 1xTanjiro lydo: Lấy từ body đệ vào hành trang at 03/28/2023 8:27 PM
+BAG:onetop add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/28/2023 8:29 PM
+BAG:onetop add 1xCột nhà lydo: Mua từ cửa hàng at 03/28/2023 8:29 PM
+BAG:onetop add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 8:30 PM
+BAG:onetop add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 8:34 PM
+BAG:onetop add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 8:34 PM
+BAG:onetop add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 8:34 PM
+BAG:onetop add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:onetop add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:onetop add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:onetop add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:onetop add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:onetop add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:onetop add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:onetop add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 8:35 PM
+BAG:onetop add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/28/2023 8:36 PM
+BAG:onetop add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 8:36 PM
+BAG:onetop add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 8:36 PM
+BAG:onetop add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/28/2023 8:37 PM
+BAG:onetop add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 8:37 PM
+BAG:onetop add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 8:37 PM
+BAG:onetop add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 8:37 PM
+BAG:onetop add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 8:37 PM
+BAG:onetop add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 8:38 PM
+BAG:onetop add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/28/2023 8:38 PM
+BAG:onetop add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/28/2023 8:38 PM
+BAG:onetop add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/28/2023 8:39 PM
+BAG:onetop add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 8:39 PM
+BAG:onetop add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/28/2023 8:39 PM
+BAG:onetop add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 8:39 PM
+BAG:onetop add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/28/2023 8:39 PM
+BAG:onetop add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 03/28/2023 8:40 PM
+BAG:onetop add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/28/2023 8:41 PM
+BAG:onetop add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 03/28/2023 8:41 PM
+BAG:onetop add 5xMảnh Quỷ bay (old: 4) lydo: Nhặt từ map at 03/28/2023 8:41 PM
+BAG:onetop add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 8:41 PM
+BAG:onetop add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/28/2023 8:58 PM
+BAG:onetop add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/28/2023 9:32 PM
+BAG:onetop add 21xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/28/2023 9:34 PM
+BAG:onetop add 9xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/28/2023 9:34 PM
+BAG:onetop add 29xĐậu thần cấp 10 (old: 9) lydo: Lấy từ rương qua người at 03/28/2023 9:35 PM
+BAG:onetop add 49xĐậu thần cấp 10 (old: 29) lydo: Lấy từ rương qua người at 03/28/2023 9:35 PM
+BAG:onetop add 69xĐậu thần cấp 10 (old: 49) lydo: Lấy từ rương qua người at 03/28/2023 9:35 PM
+BAG:onetop add 89xĐậu thần cấp 10 (old: 69) lydo: Lấy từ rương qua người at 03/28/2023 9:35 PM
+BAG:onetop add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 9:37 PM
+BAG:onetop add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 9:38 PM
+BAG:onetop add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/28/2023 9:38 PM
+BAG:onetop add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/28/2023 9:38 PM
+BAG:onetop add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 9:38 PM
+BAG:onetop add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 9:39 PM
+BAG:onetop add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 9:41 PM
+BAG:onetop add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 9:41 PM
+BAG:onetop add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 9:41 PM
+BAG:onetop add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 9:41 PM
+BAG:onetop add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/28/2023 9:41 PM
+BAG:onetop add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 9:41 PM
+BAG:onetop add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 9:42 PM
+BAG:onetop add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 9:42 PM
+BAG:onetop add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/28/2023 9:42 PM
+BAG:onetop add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 9:42 PM
+BAG:onetop add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 9:42 PM
+BAG:onetop add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/28/2023 9:42 PM
+BAG:onetop add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/28/2023 9:43 PM
+BAG:onetop add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/28/2023 9:43 PM
+BAG:onetop add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/28/2023 9:43 PM
+BAG:onetop add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/28/2023 9:43 PM
+BAG:onetop add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/28/2023 9:43 PM
+BAG:onetop add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/28/2023 9:43 PM
+BAG:onetop add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/28/2023 9:43 PM
+BAG:onetop add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 9:43 PM
+BAG:onetop add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 03/28/2023 9:44 PM
+BAG:onetop add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/28/2023 9:44 PM
+BAG:onetop add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/28/2023 9:44 PM
+BAG:onetop add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/28/2023 9:44 PM
+BAG:onetop add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/28/2023 9:44 PM
+BAG:onetop add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/28/2023 9:44 PM
+BAG:onetop add 5xMảnh Quỷ bay (old: 4) lydo: Nhặt từ map at 03/28/2023 9:45 PM
+BAG:onetop add 6xMảnh Quỷ bay (old: 5) lydo: Nhặt từ map at 03/28/2023 9:45 PM
+BAG:onetop add 7xMảnh Quỷ bay (old: 6) lydo: Nhặt từ map at 03/28/2023 9:45 PM
+BAG:onetop add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/28/2023 9:46 PM
+BAG:onetop add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 9:46 PM
+BAG:onetop add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/28/2023 9:46 PM
+BAG:onetop add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/28/2023 9:46 PM
+BAG:onetop add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/28/2023 9:46 PM
+BAG:onetop add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/28/2023 9:47 PM
+BAG:onetop add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/28/2023 9:47 PM
+BAG:onetop add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/28/2023 9:48 PM
+BAG:onetop add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/28/2023 9:48 PM
+BAG:onetop add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/28/2023 9:48 PM
+BAG:onetop add 1xRada cấp 1 lydo: Nhặt từ map at 03/28/2023 9:48 PM
+BAG:onetop add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 9:48 PM
+BAG:onetop add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 9:48 PM
+BAG:onetop add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:onetop add 1xGiầy sợi len lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:onetop add 1xGăng sợi len lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:onetop add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:onetop add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:onetop add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:onetop add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:onetop add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/28/2023 9:49 PM
+BAG:onetop add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/28/2023 9:51 PM
+BAG:onetop add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/28/2023 9:51 PM
+BAG:onetop add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/28/2023 9:52 PM
+BAG:onetop add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/28/2023 9:52 PM
+BAG:onetop add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 9:52 PM
+BAG:onetop add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/28/2023 9:52 PM
+BAG:onetop add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:onetop add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:onetop add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:onetop add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/28/2023 9:53 PM
+BAG:onetop add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/28/2023 9:54 PM
+BAG:onetop add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/28/2023 9:54 PM
+BAG:onetop add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/28/2023 9:54 PM
+BAG:onetop add 5025xThỏi vàng (old: 5000) lydo: Đổi vàng at 03/28/2023 9:54 PM
+BAG:onetop add 1xMảnh Khủng long lydo: Nhặt từ map at 03/28/2023 9:55 PM
+BAG:onetop add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/28/2023 9:55 PM
+BAG:onetop add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 9:55 PM
+BAG:onetop add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/28/2023 9:55 PM
+BAG:onetop add 1xQuần sợi len lydo: Nhặt từ map at 03/28/2023 9:55 PM
+BAG:onetop add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/28/2023 9:56 PM
+BAG:onetop add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/28/2023 9:56 PM
+BAG:onetop add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/28/2023 9:56 PM
+BAG:onetop add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/28/2023 9:56 PM
+BAG:onetop add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/28/2023 9:56 PM
+BAG:onetop add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/28/2023 9:57 PM
+BAG:onetop add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/28/2023 10:02 PM
+BAG:onetop add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/28/2023 10:02 PM
+BAG:onetop add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 10:05 PM
+BAG:onetop add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/28/2023 10:06 PM
+BAG:onetop add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/28/2023 10:08 PM
+BAG:onetop add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/28/2023 10:08 PM
+BAG:onetop add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/28/2023 10:08 PM
+BAG:onetop add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/28/2023 10:13 PM
+BAG:onetop add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/28/2023 10:13 PM
+BAG:onetop add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/28/2023 10:13 PM
+BAG:onetop add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/28/2023 10:13 PM
+BAG:onetop add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/28/2023 10:13 PM
+BAG:onetop add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/28/2023 10:15 PM
+BAG:onetop add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/28/2023 10:18 PM
+BAG:onetop add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/28/2023 10:20 PM
+BAG:onetop add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/28/2023 10:22 PM
+BAG:onetop add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/28/2023 10:24 PM
+BAG:onetop add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/28/2023 10:29 PM
+BAG:onetop add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/28/2023 10:32 PM
+BAG:onetop add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/28/2023 10:40 PM
+BAG:onetop add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/28/2023 10:43 PM
+BAG:onetop add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/28/2023 10:43 PM
+BAG:onetop add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/28/2023 10:44 PM
+BAG:onetop add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/28/2023 10:47 PM
+BAG:onetop add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:onetop add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:49 PM
+BAG:onetop add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:51 PM
+BAG:onetop add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:51 PM
+BAG:onetop add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:51 PM
+BAG:onetop add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:51 PM
+BAG:onetop add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:51 PM
+BAG:onetop add 1xĐẻ trứng lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:52 PM
+BAG:onetop add 1xĐẻ trứng lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:52 PM
+BAG:onetop add 1xĐẻ trứng lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:52 PM
+BAG:onetop add 1xĐẻ trứng lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:52 PM
+BAG:onetop add 1xĐẻ trứng lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:52 PM
+BAG:onetop add 1xĐẻ trứng lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:52 PM
+BAG:onetop add 1xĐẻ trứng lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:52 PM
+BAG:onetop add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/28/2023 10:53 PM
+BAG:onetop add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/28/2023 10:53 PM
+BAG:onetop add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/28/2023 10:53 PM
+BAG:onetop add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/28/2023 10:53 PM
+BAG:onetop add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/28/2023 10:53 PM
+BAG:onetop add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/28/2023 10:53 PM
+BAG:onetop add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/28/2023 10:53 PM
+BAG:onetop add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 10:56 PM
+BAG:onetop add 50xSao pha lê lydo: Giftcode at 03/28/2023 10:56 PM
+BAG:onetop add 50xSao pha lê lydo: Giftcode at 03/28/2023 10:56 PM
+BAG:onetop add 99xCuồng nộ lydo: Giftcode at 03/28/2023 10:56 PM
+BAG:onetop add 4953xMảnh vỡ bông tai lydo: Giftcode at 03/28/2023 10:56 PM
+BAG:onetop add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 10:57 PM
+BAG:onetop add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:57 PM
+BAG:onetop add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:57 PM
+BAG:onetop add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:57 PM
+BAG:onetop add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/28/2023 10:57 PM
+BAG:onetop add 99xThỏi vàng lydo: Tách thỏi vàng at 03/28/2023 11:02 PM

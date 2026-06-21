@@ -1,0 +1,993 @@
+BAG:provip add 1xCải trang Jiren lydo: Mua từ bill at 03/29/2023 6:18 AM
+BAG:provip add 1xCT Genma 02 lydo: Mua từ bill at 03/29/2023 6:18 AM
+BAG:provip add 1xNezuko lydo: Mua từ bill at 03/29/2023 6:22 AM
+BAG:provip add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/29/2023 6:29 AM
+BAG:provip add 1xĐá Hắc Hóa lydo: Mua santa at 03/29/2023 6:29 AM
+BAG:provip add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/29/2023 6:33 AM
+BAG:provip add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/29/2023 6:33 AM
+BAG:provip add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/29/2023 6:33 AM
+BAG:provip add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/29/2023 6:34 AM
+BAG:provip add 1xGiày lưỡng long lydo: Mua từ cửa hàng at 03/29/2023 6:34 AM
+BAG:provip add 1xRada cấp 12 lydo: Mua từ cửa hàng at 03/29/2023 6:34 AM
+BAG:provip add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 7:05 AM
+BAG:provip add 1xNgọc Rồng 7 sao lydo: HQT at 03/29/2023 7:05 AM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 7:13 AM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 4xNgọc Rồng 5 sao (old: 3) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 6xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 5xNgọc Rồng 5 sao (old: 4) lydo: Lấy từ lucky box at 03/29/2023 7:20 AM
+BAG:provip add 1xQuần vàng Zealot lydo: (GD) Nhận từ khanhvy at 03/29/2023 5:37 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 6xNgọc Rồng 5 sao (old: 5) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 7xNgọc Rồng 5 sao (old: 6) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 03/29/2023 5:37 PM
+BAG:provip add 11xVệ tinh trí lực (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 8xNgọc Rồng 5 sao (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 9xNgọc Rồng 4 sao (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 12xVệ tinh trí lực (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 8xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 10xNgọc Rồng 4 sao (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 13xVệ tinh trí lực (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 9xNgọc Rồng 5 sao (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 9xNgọc Rồng 6 sao (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 8xNgọc Rồng 7 sao (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 9xNgọc Rồng 7 sao (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 10xNgọc Rồng 6 sao (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 10xNgọc Rồng 7 sao (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 11xNgọc Rồng 7 sao (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 11xNgọc Rồng 4 sao (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 10xNgọc Rồng 5 sao (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 14xVệ tinh trí lực (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 15xVệ tinh trí lực (old: 14) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 11xNgọc Rồng 6 sao (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:29 PM
+BAG:provip add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 12xNgọc Rồng 7 sao (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 13xNgọc Rồng 7 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 14xNgọc Rồng 7 sao (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 12xNgọc Rồng 6 sao (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 11xNgọc Rồng 5 sao (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 13xNgọc Rồng 6 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 14xNgọc Rồng 6 sao (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 15xNgọc Rồng 6 sao (old: 14) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 12xNgọc Rồng 5 sao (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 13xNgọc Rồng 5 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 16xNgọc Rồng 6 sao (old: 15) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 13xNgọc Rồng 4 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 14xNgọc Rồng 5 sao (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 17xNgọc Rồng 6 sao (old: 16) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 15xNgọc Rồng 5 sao (old: 14) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 16xNgọc Rồng 5 sao (old: 15) lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 6:43 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 14xNgọc Rồng 4 sao (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 18xNgọc Rồng 6 sao (old: 17) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 19xNgọc Rồng 6 sao (old: 18) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 17xNgọc Rồng 5 sao (old: 16) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 18xNgọc Rồng 5 sao (old: 17) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 15xNgọc Rồng 7 sao (old: 14) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 20xNgọc Rồng 6 sao (old: 19) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 15xNgọc Rồng 4 sao (old: 14) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 21xNgọc Rồng 6 sao (old: 20) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 22xNgọc Rồng 6 sao (old: 21) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 19xNgọc Rồng 5 sao (old: 18) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 20xNgọc Rồng 5 sao (old: 19) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 21xNgọc Rồng 5 sao (old: 20) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 16xNgọc Rồng 7 sao (old: 15) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 23xNgọc Rồng 6 sao (old: 22) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 24xNgọc Rồng 6 sao (old: 23) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 25xNgọc Rồng 6 sao (old: 24) lydo: Lấy từ lucky box at 03/29/2023 6:47 PM
+BAG:provip add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 22xNgọc Rồng 5 sao (old: 21) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 26xNgọc Rồng 6 sao (old: 25) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 23xNgọc Rồng 5 sao (old: 22) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 17xNgọc Rồng 7 sao (old: 16) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 16xNgọc Rồng 4 sao (old: 15) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 11xVệ tinh trí lực (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 12xVệ tinh trí lực (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 24xNgọc Rồng 5 sao (old: 23) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 25xNgọc Rồng 5 sao (old: 24) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 27xNgọc Rồng 6 sao (old: 26) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 26xNgọc Rồng 5 sao (old: 25) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 18xNgọc Rồng 7 sao (old: 17) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 17xNgọc Rồng 4 sao (old: 16) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 19xNgọc Rồng 7 sao (old: 18) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 27xNgọc Rồng 5 sao (old: 26) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 28xNgọc Rồng 5 sao (old: 27) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 28xNgọc Rồng 6 sao (old: 27) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 20xNgọc Rồng 7 sao (old: 19) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 21xNgọc Rồng 7 sao (old: 20) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 18xNgọc Rồng 4 sao (old: 17) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 13xVệ tinh trí lực (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 19xNgọc Rồng 4 sao (old: 18) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 29xNgọc Rồng 6 sao (old: 28) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 29xNgọc Rồng 5 sao (old: 28) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 8xVệ tinh phòng thủ (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 9xVệ tinh phòng thủ (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 22xNgọc Rồng 7 sao (old: 21) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 30xNgọc Rồng 6 sao (old: 29) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 31xNgọc Rồng 6 sao (old: 30) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 32xNgọc Rồng 6 sao (old: 31) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 6:51 PM
+BAG:provip add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/29/2023 6:55 PM
+BAG:provip add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/29/2023 6:55 PM
+BAG:provip add 30xNgọc Rồng 5 sao (old: 29) lydo: Nhập ngọc at 03/29/2023 6:56 PM
+BAG:provip add 31xNgọc Rồng 5 sao (old: 30) lydo: Nhập ngọc at 03/29/2023 6:56 PM
+BAG:provip add 32xNgọc Rồng 5 sao (old: 31) lydo: Nhập ngọc at 03/29/2023 6:56 PM
+BAG:provip add 33xNgọc Rồng 5 sao (old: 32) lydo: Nhập ngọc at 03/29/2023 6:56 PM
+BAG:provip add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhập ngọc at 03/29/2023 6:56 PM
+BAG:provip add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhập ngọc at 03/29/2023 6:56 PM
+BAG:provip add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhập ngọc at 03/29/2023 6:56 PM
+BAG:provip add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhập ngọc at 03/29/2023 6:56 PM
+BAG:provip add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/29/2023 6:57 PM
+BAG:provip add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/29/2023 7:04 PM
+BAG:provip add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/29/2023 7:04 PM
+BAG:provip add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/29/2023 7:05 PM
+BAG:provip add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/29/2023 7:05 PM
+BAG:provip add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/29/2023 7:05 PM
+BAG:provip add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/29/2023 7:05 PM
+BAG:provip add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/29/2023 7:05 PM
+BAG:provip add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/29/2023 7:05 PM
+BAG:provip add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/29/2023 7:05 PM
+BAG:provip add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/29/2023 7:05 PM
+BAG:provip add 1xÁo lưỡng long lydo: Lấy từ body vào hành trang at 03/29/2023 7:06 PM
+BAG:provip add 1xCải Trang Thần Zeno Xayda lydo: Lấy từ body vào hành trang at 03/29/2023 7:13 PM
+BAG:provip add 5xPháo hoa lydo: Nhặt từ map at 03/29/2023 7:14 PM
+BAG:provip add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/29/2023 7:14 PM
+BAG:provip add 1xĐá Ruby lydo: Nhặt từ map at 03/29/2023 7:37 PM
+BAG:provip add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/29/2023 7:43 PM
+BAG:provip add 1xGiáp Xên bọ hung lydo: HQT at 03/29/2023 7:43 PM
+BAG:provip add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/29/2023 7:43 PM
+BAG:provip add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/29/2023 7:43 PM
+BAG:provip add 1xĐá Titan lydo: Nhặt từ map at 03/29/2023 7:47 PM
+BAG:provip add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/29/2023 7:54 PM
+BAG:provip add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/29/2023 8:07 PM
+BAG:provip add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/29/2023 8:14 PM
+BAG:provip add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/29/2023 8:14 PM
+BAG:provip add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 9xNgọc Rồng 5 sao (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 10xNgọc Rồng 5 sao (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 23xNgọc Rồng 7 sao (old: 22) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 6xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 24xNgọc Rồng 7 sao (old: 23) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 11xNgọc Rồng 5 sao (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 12xNgọc Rồng 5 sao (old: 11) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 8xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 9xNgọc Rồng 6 sao (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 10xNgọc Rồng 6 sao (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 25xNgọc Rồng 7 sao (old: 24) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 13xNgọc Rồng 5 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 11xNgọc Rồng 6 sao (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 9xNgọc Rồng 4 sao (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 26xNgọc Rồng 7 sao (old: 25) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 14xNgọc Rồng 5 sao (old: 13) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 12xNgọc Rồng 6 sao (old: 11) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 27xNgọc Rồng 7 sao (old: 26) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 10xNgọc Rồng 4 sao (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:21 PM
+BAG:provip add 28xNgọc Rồng 7 sao (old: 27) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 11xNgọc Rồng 4 sao (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 29xNgọc Rồng 7 sao (old: 28) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 13xNgọc Rồng 4 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 15xNgọc Rồng 5 sao (old: 14) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 14xNgọc Rồng 4 sao (old: 13) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 16xNgọc Rồng 5 sao (old: 15) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 15xNgọc Rồng 4 sao (old: 14) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 16xNgọc Rồng 4 sao (old: 15) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 30xNgọc Rồng 7 sao (old: 29) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 13xNgọc Rồng 6 sao (old: 12) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 31xNgọc Rồng 7 sao (old: 30) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 23xSao pha lê (old: 22) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 17xNgọc Rồng 4 sao (old: 16) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 24xSao pha lê (old: 23) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 12xVệ tinh trí tuệ (old: 11) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 25xSao pha lê (old: 24) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 18xNgọc Rồng 4 sao (old: 17) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 32xNgọc Rồng 7 sao (old: 31) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 8xVệ tinh phòng thủ (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 11xVệ tinh trí lực (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 14xNgọc Rồng 6 sao (old: 13) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 26xSao pha lê (old: 25) lydo: Lấy từ lucky box at 03/29/2023 8:47 PM
+BAG:provip add 17xNgọc Rồng 5 sao (old: 16) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 18xNgọc Rồng 5 sao (old: 17) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 19xNgọc Rồng 4 sao (old: 18) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 20xNgọc Rồng 4 sao (old: 19) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 19xNgọc Rồng 5 sao (old: 18) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 33xNgọc Rồng 7 sao (old: 32) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 34xNgọc Rồng 7 sao (old: 33) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 35xNgọc Rồng 7 sao (old: 34) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xSao pha lê lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 15xNgọc Rồng 6 sao (old: 14) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 20xNgọc Rồng 5 sao (old: 19) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 21xNgọc Rồng 5 sao (old: 20) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 22xNgọc Rồng 5 sao (old: 21) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 21xNgọc Rồng 4 sao (old: 20) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 23xNgọc Rồng 5 sao (old: 22) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 22xNgọc Rồng 4 sao (old: 21) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 16xNgọc Rồng 6 sao (old: 15) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 8xVệ tinh phòng thủ (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 9xVệ tinh phòng thủ (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 24xNgọc Rồng 5 sao (old: 23) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 17xNgọc Rồng 6 sao (old: 16) lydo: Lấy từ lucky box at 03/29/2023 8:53 PM
+BAG:provip add 36xNgọc Rồng 7 sao (old: 35) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 37xNgọc Rồng 7 sao (old: 36) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 10xVệ tinh phòng thủ (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 23xNgọc Rồng 4 sao (old: 22) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 18xNgọc Rồng 6 sao (old: 17) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 19xNgọc Rồng 6 sao (old: 18) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 20xNgọc Rồng 6 sao (old: 19) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 21xNgọc Rồng 6 sao (old: 20) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 38xNgọc Rồng 7 sao (old: 37) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 22xNgọc Rồng 6 sao (old: 21) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 24xNgọc Rồng 4 sao (old: 23) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 39xNgọc Rồng 7 sao (old: 38) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 11xVệ tinh phòng thủ (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 40xNgọc Rồng 7 sao (old: 39) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 23xNgọc Rồng 6 sao (old: 22) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 12xVệ tinh phòng thủ (old: 11) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 25xNgọc Rồng 4 sao (old: 24) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 24xNgọc Rồng 6 sao (old: 23) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 26xNgọc Rồng 4 sao (old: 25) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 13xVệ tinh phòng thủ (old: 12) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 14xVệ tinh phòng thủ (old: 13) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 41xNgọc Rồng 7 sao (old: 40) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 25xNgọc Rồng 5 sao (old: 24) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 27xNgọc Rồng 4 sao (old: 26) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 13xVệ tinh sinh lực (old: 12) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 26xNgọc Rồng 5 sao (old: 25) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 14xVệ tinh sinh lực (old: 13) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 25xNgọc Rồng 6 sao (old: 24) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 15xVệ tinh phòng thủ (old: 14) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 15xVệ tinh sinh lực (old: 14) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 26xNgọc Rồng 6 sao (old: 25) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 27xNgọc Rồng 5 sao (old: 26) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 28xNgọc Rồng 5 sao (old: 27) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 16xVệ tinh sinh lực (old: 15) lydo: Lấy từ lucky box at 03/29/2023 8:57 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 29xNgọc Rồng 5 sao (old: 28) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 42xNgọc Rồng 7 sao (old: 41) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 28xNgọc Rồng 4 sao (old: 27) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 16xVệ tinh phòng thủ (old: 15) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 29xNgọc Rồng 4 sao (old: 28) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 30xNgọc Rồng 4 sao (old: 29) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 27xNgọc Rồng 6 sao (old: 26) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 28xNgọc Rồng 6 sao (old: 27) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 29xNgọc Rồng 6 sao (old: 28) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 30xNgọc Rồng 5 sao (old: 29) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 17xVệ tinh phòng thủ (old: 16) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 17xVệ tinh sinh lực (old: 16) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 31xNgọc Rồng 4 sao (old: 30) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 18xVệ tinh phòng thủ (old: 17) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 18xVệ tinh sinh lực (old: 17) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 19xVệ tinh sinh lực (old: 18) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 20xVệ tinh sinh lực (old: 19) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 19xVệ tinh phòng thủ (old: 18) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 43xNgọc Rồng 7 sao (old: 42) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 21xVệ tinh sinh lực (old: 20) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 32xNgọc Rồng 4 sao (old: 31) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 30xNgọc Rồng 6 sao (old: 29) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 33xNgọc Rồng 4 sao (old: 32) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 31xNgọc Rồng 5 sao (old: 30) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 20xVệ tinh phòng thủ (old: 19) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 21xVệ tinh phòng thủ (old: 20) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 31xNgọc Rồng 6 sao (old: 30) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 22xVệ tinh sinh lực (old: 21) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 11xVệ tinh trí lực (old: 10) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 44xNgọc Rồng 7 sao (old: 43) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 22xVệ tinh phòng thủ (old: 21) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 23xVệ tinh phòng thủ (old: 22) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 23xVệ tinh sinh lực (old: 22) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 24xVệ tinh phòng thủ (old: 23) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 45xNgọc Rồng 7 sao (old: 44) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 34xNgọc Rồng 4 sao (old: 33) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 12xVệ tinh trí lực (old: 11) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 32xNgọc Rồng 6 sao (old: 31) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 35xNgọc Rồng 4 sao (old: 34) lydo: Lấy từ lucky box at 03/29/2023 9:00 PM
+BAG:provip add 36xNgọc Rồng 4 sao (old: 35) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 24xVệ tinh sinh lực (old: 23) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 13xVệ tinh trí lực (old: 12) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 32xNgọc Rồng 5 sao (old: 31) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 14xVệ tinh trí lực (old: 13) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 33xNgọc Rồng 6 sao (old: 32) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 25xVệ tinh sinh lực (old: 24) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 23xSao pha lê (old: 22) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 24xSao pha lê (old: 23) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 25xVệ tinh phòng thủ (old: 24) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 12xVệ tinh trí tuệ (old: 11) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 46xNgọc Rồng 7 sao (old: 45) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 13xVệ tinh trí tuệ (old: 12) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 34xNgọc Rồng 6 sao (old: 33) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 25xSao pha lê (old: 24) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 37xNgọc Rồng 4 sao (old: 36) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 38xNgọc Rồng 4 sao (old: 37) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 14xVệ tinh trí tuệ (old: 13) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 15xVệ tinh trí lực (old: 14) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 26xVệ tinh phòng thủ (old: 25) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 15xVệ tinh trí tuệ (old: 14) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 33xNgọc Rồng 5 sao (old: 32) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 27xVệ tinh phòng thủ (old: 26) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 39xNgọc Rồng 4 sao (old: 38) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 28xVệ tinh phòng thủ (old: 27) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 34xNgọc Rồng 5 sao (old: 33) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 16xVệ tinh trí tuệ (old: 15) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 17xVệ tinh trí tuệ (old: 16) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 16xVệ tinh trí lực (old: 15) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 35xNgọc Rồng 6 sao (old: 34) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 35xNgọc Rồng 5 sao (old: 34) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 40xNgọc Rồng 4 sao (old: 39) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 36xNgọc Rồng 6 sao (old: 35) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 47xNgọc Rồng 7 sao (old: 46) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 48xNgọc Rồng 7 sao (old: 47) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 36xNgọc Rồng 5 sao (old: 35) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 49xNgọc Rồng 7 sao (old: 48) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 17xVệ tinh trí lực (old: 16) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 18xVệ tinh trí tuệ (old: 17) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 41xNgọc Rồng 4 sao (old: 40) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 26xVệ tinh sinh lực (old: 25) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 18xVệ tinh trí lực (old: 17) lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:05 PM
+BAG:provip add 27xVệ tinh sinh lực (old: 26) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 19xVệ tinh trí tuệ (old: 18) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 29xVệ tinh phòng thủ (old: 28) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 37xNgọc Rồng 6 sao (old: 36) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 28xVệ tinh sinh lực (old: 27) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 20xVệ tinh trí tuệ (old: 19) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 42xNgọc Rồng 4 sao (old: 41) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 29xVệ tinh sinh lực (old: 28) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 37xNgọc Rồng 5 sao (old: 36) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 38xNgọc Rồng 5 sao (old: 37) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 39xNgọc Rồng 5 sao (old: 38) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 30xVệ tinh phòng thủ (old: 29) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 21xVệ tinh trí tuệ (old: 20) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 26xSao pha lê (old: 25) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 27xSao pha lê (old: 26) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 31xVệ tinh phòng thủ (old: 30) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 50xNgọc Rồng 7 sao (old: 49) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 22xVệ tinh trí tuệ (old: 21) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 43xNgọc Rồng 4 sao (old: 42) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 51xNgọc Rồng 7 sao (old: 50) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 30xVệ tinh sinh lực (old: 29) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 31xVệ tinh sinh lực (old: 30) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 44xNgọc Rồng 4 sao (old: 43) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 38xNgọc Rồng 6 sao (old: 37) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 19xVệ tinh trí lực (old: 18) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 45xNgọc Rồng 4 sao (old: 44) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 28xSao pha lê (old: 27) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 32xVệ tinh phòng thủ (old: 31) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 20xVệ tinh trí lực (old: 19) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 32xVệ tinh sinh lực (old: 31) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 33xVệ tinh phòng thủ (old: 32) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 21xVệ tinh trí lực (old: 20) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 23xVệ tinh trí tuệ (old: 22) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 33xVệ tinh sinh lực (old: 32) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 34xVệ tinh sinh lực (old: 33) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 29xSao pha lê (old: 28) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 39xNgọc Rồng 6 sao (old: 38) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 52xNgọc Rồng 7 sao (old: 51) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 30xSao pha lê (old: 29) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 31xSao pha lê (old: 30) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/29/2023 9:08 PM
+BAG:provip add 35xVệ tinh sinh lực (old: 34) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 40xNgọc Rồng 5 sao (old: 39) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 41xNgọc Rồng 5 sao (old: 40) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 42xNgọc Rồng 5 sao (old: 41) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 34xVệ tinh phòng thủ (old: 33) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 43xNgọc Rồng 5 sao (old: 42) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 32xSao pha lê (old: 31) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 35xVệ tinh phòng thủ (old: 34) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 24xVệ tinh trí tuệ (old: 23) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 33xSao pha lê (old: 32) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 53xNgọc Rồng 7 sao (old: 52) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 23xSao pha lê (old: 22) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 22xVệ tinh trí lực (old: 21) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 40xNgọc Rồng 6 sao (old: 39) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 36xVệ tinh phòng thủ (old: 35) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 25xVệ tinh trí tuệ (old: 24) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 44xNgọc Rồng 5 sao (old: 43) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 41xNgọc Rồng 6 sao (old: 40) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 22xSao pha lê (old: 21) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 42xNgọc Rồng 6 sao (old: 41) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 54xNgọc Rồng 7 sao (old: 53) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 23xSao pha lê (old: 22) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 34xSao pha lê (old: 33) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 43xNgọc Rồng 6 sao (old: 42) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 45xNgọc Rồng 5 sao (old: 44) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 44xNgọc Rồng 6 sao (old: 43) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 55xNgọc Rồng 7 sao (old: 54) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 46xNgọc Rồng 4 sao (old: 45) lydo: Lấy từ lucky box at 03/29/2023 9:11 PM
+BAG:provip add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 9xNgọc Rồng 3 sao (old: 8) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhập ngọc at 03/29/2023 9:36 PM
+BAG:provip add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhập ngọc at 03/29/2023 9:37 PM
+BAG:provip add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhập ngọc at 03/29/2023 9:37 PM
+BAG:provip add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhập ngọc at 03/29/2023 9:37 PM
+BAG:provip add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhập ngọc at 03/29/2023 9:37 PM
+BAG:provip add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhập ngọc at 03/29/2023 9:37 PM
+BAG:provip add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhập ngọc at 03/29/2023 9:37 PM
+BAG:provip add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhập ngọc at 03/29/2023 9:37 PM
+BAG:provip add 10xNgọc Rồng 3 sao (old: 9) lydo: Nhập ngọc at 03/29/2023 9:37 PM
+BAG:provip add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/29/2023 9:38 PM

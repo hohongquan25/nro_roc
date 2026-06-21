@@ -1,0 +1,60 @@
+BAG:kutaden add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 11:35 AM
+BAG:kutaden add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 11:44 AM
+BAG:kutaden add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/03/2023 12:00 PM
+BAG:kutaden add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/03/2023 12:02 PM
+BAG:kutaden add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/03/2023 12:02 PM
+BAG:kutaden add 2000xThỏi vàng lydo: Đổi vàng at 03/03/2023 12:02 PM
+BAG:kutaden add 2020xThỏi vàng (old: 2000) lydo: Đổi vàng at 03/03/2023 12:02 PM
+BAG:kutaden add 1xĐá ngũ sắc lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 2xĐá ngũ sắc (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 3xĐá ngũ sắc (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 4xĐá ngũ sắc (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 5xĐá ngũ sắc (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 6xĐá ngũ sắc (old: 5) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 7xĐá ngũ sắc (old: 6) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 8xĐá ngũ sắc (old: 7) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 9xĐá ngũ sắc (old: 8) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 10xĐá ngũ sắc (old: 9) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 11xĐá ngũ sắc (old: 10) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 12xĐá ngũ sắc (old: 11) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 13xĐá ngũ sắc (old: 12) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 14xĐá ngũ sắc (old: 13) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 15xĐá ngũ sắc (old: 14) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 16xĐá ngũ sắc (old: 15) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 17xĐá ngũ sắc (old: 16) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 18xĐá ngũ sắc (old: 17) lydo: Mua từ cửa hàng at 03/03/2023 12:06 PM
+BAG:kutaden add 19xĐá ngũ sắc (old: 18) lydo: Mua từ cửa hàng at 03/03/2023 12:07 PM
+BAG:kutaden add 20xĐá ngũ sắc (old: 19) lydo: Mua từ cửa hàng at 03/03/2023 12:07 PM
+BAG:kutaden add 1xHồn ma Ca đíc lydo: Mua từ cửa hàng at 03/03/2023 12:07 PM
+BAG:kutaden add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 12:07 PM
+BAG:kutaden add 1xCải trang Super Cumber lydo: Mua từ bill at 03/03/2023 12:07 PM
+BAG:kutaden add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/03/2023 12:10 PM
+BAG:kutaden add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 12:11 PM
+BAG:kutaden add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/03/2023 12:11 PM
+BAG:kutaden add 1xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/03/2023 12:12 PM
+BAG:kutaden add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/03/2023 12:13 PM
+BAG:kutaden add 24xĐậu thần cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 12:14 PM
+BAG:kutaden add 6xĐậu thần cấp 2 lydo: Lấy từ rương qua người at 03/03/2023 12:14 PM
+BAG:kutaden add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 12:14 PM
+BAG:kutaden add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/03/2023 12:15 PM
+BAG:kutaden add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/03/2023 12:15 PM
+BAG:kutaden add 1xCải Trang Zeno lydo: Mua từ bill at 03/03/2023 12:15 PM
+BAG:kutaden add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 12:24 PM
+BAG:kutaden add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/03/2023 12:25 PM
+BAG:kutaden add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/03/2023 12:26 PM
+BAG:kutaden add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:kutaden add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:kutaden add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:kutaden add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:kutaden add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:kutaden add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:kutaden add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/03/2023 12:33 PM
+BAG:kutaden add 1xCải trang Super Cumber lydo: Lấy từ body vào hành trang at 03/03/2023 12:40 PM
+BAG:kutaden add 1002012xThỏi vàng (old: 2012) lydo: Giftcode at 03/03/2023 5:41 PM
+BAG:kutaden add 9919xĐá ngũ sắc lydo: Giftcode at 03/03/2023 5:41 PM
+BAG:kutaden add 99xĐá ngũ sắc (old: 18) lydo: Giftcode at 03/03/2023 5:41 PM
+BAG:kutaden add 99xCuồng nộ lydo: Giftcode at 03/03/2023 5:42 PM
+BAG:kutaden add 25xĐậu thần cấp 10 (old: 24) lydo: Clan cho đậu at 03/03/2023 5:57 PM
+BAG:kutaden add 26xĐậu thần cấp 10 (old: 25) lydo: Clan cho đậu at 03/03/2023 5:57 PM
+BAG:kutaden add 27xĐậu thần cấp 10 (old: 26) lydo: Clan cho đậu at 03/03/2023 5:57 PM
+BAG:kutaden add 2xĐậu thần cấp 1 lydo: Nhận đậu từ clan at 03/03/2023 9:50 PM

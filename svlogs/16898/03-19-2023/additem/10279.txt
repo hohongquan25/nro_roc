@@ -1,0 +1,525 @@
+BAG:sunny add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/19/2023 12:13 AM
+BAG:sunny add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/19/2023 12:17 AM
+BAG:sunny add 3xBí ngô 4 sao lydo: Nhặt từ map at 03/19/2023 12:17 AM
+BAG:sunny add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/19/2023 12:20 AM
+BAG:sunny add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/19/2023 12:20 AM
+BAG:sunny add 1xViên Capsule đặc biệt lydo: Lấy từ rương qua người at 03/19/2023 12:21 AM
+BAG:sunny add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/19/2023 12:21 AM
+BAG:sunny add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/19/2023 12:22 AM
+BAG:sunny add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/19/2023 12:22 AM
+BAG:sunny add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/19/2023 12:23 AM
+BAG:sunny add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/19/2023 12:24 AM
+BAG:sunny add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/19/2023 12:24 AM
+BAG:sunny add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/19/2023 12:29 AM
+BAG:sunny add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/19/2023 12:30 AM
+BAG:sunny add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhặt từ map at 03/19/2023 12:31 AM
+BAG:sunny add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/19/2023 12:41 AM
+BAG:sunny add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhặt từ map at 03/19/2023 12:43 AM
+BAG:sunny add 1xPháo hoa lydo: Nhặt từ map at 03/19/2023 12:43 AM
+BAG:sunny add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/19/2023 12:49 AM
+BAG:sunny add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/19/2023 12:50 AM
+BAG:sunny add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/19/2023 12:50 AM
+BAG:sunny add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/19/2023 12:51 AM
+BAG:sunny add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/19/2023 12:52 AM
+BAG:sunny add 2xPháo hoa (old: 1) lydo: Nhặt từ map at 03/19/2023 12:52 AM
+BAG:sunny add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhặt từ map at 03/19/2023 12:52 AM
+BAG:sunny add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhặt từ map at 03/19/2023 12:52 AM
+BAG:sunny add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/19/2023 12:59 AM
+BAG:sunny add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/19/2023 1:00 AM
+BAG:sunny add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/19/2023 1:01 AM
+BAG:sunny add 3xPháo hoa (old: 2) lydo: Nhặt từ map at 03/19/2023 1:02 AM
+BAG:sunny add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhặt từ map at 03/19/2023 1:02 AM
+BAG:sunny add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/19/2023 1:06 AM
+BAG:sunny add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhặt từ map at 03/19/2023 1:07 AM
+BAG:sunny add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/19/2023 1:08 AM
+BAG:sunny add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/19/2023 12:27 PM
+BAG:sunny add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/19/2023 12:27 PM
+BAG:sunny add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/19/2023 12:27 PM
+BAG:sunny add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/19/2023 12:27 PM
+BAG:sunny add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/19/2023 12:27 PM
+BAG:sunny add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/19/2023 12:59 PM
+BAG:sunny add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/19/2023 12:59 PM
+BAG:sunny add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/19/2023 12:59 PM
+BAG:sunny add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/19/2023 1:00 PM
+BAG:sunny add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/19/2023 1:01 PM
+BAG:sunny add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/19/2023 1:02 PM
+BAG:sunny add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/19/2023 1:03 PM
+BAG:sunny add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/19/2023 1:03 PM
+BAG:sunny add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/19/2023 1:04 PM
+BAG:sunny add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/19/2023 1:05 PM
+BAG:sunny add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/19/2023 1:06 PM
+BAG:sunny add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/19/2023 1:07 PM
+BAG:sunny add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/19/2023 1:07 PM
+BAG:sunny add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/19/2023 1:07 PM
+BAG:sunny add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/19/2023 1:07 PM
+BAG:sunny add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/19/2023 1:07 PM
+BAG:sunny add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/19/2023 1:07 PM
+BAG:sunny add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/19/2023 1:07 PM
+BAG:sunny add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/19/2023 1:07 PM
+BAG:sunny add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/19/2023 1:08 PM
+BAG:sunny add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/19/2023 1:08 PM
+BAG:sunny add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/19/2023 1:08 PM
+BAG:sunny add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/19/2023 1:08 PM
+BAG:sunny add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/19/2023 1:08 PM
+BAG:sunny add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/19/2023 1:08 PM
+BAG:sunny add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/19/2023 1:09 PM
+BAG:sunny add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/19/2023 1:09 PM
+BAG:sunny add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/19/2023 1:09 PM
+BAG:sunny add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/19/2023 1:09 PM
+BAG:sunny add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/19/2023 1:09 PM
+BAG:sunny add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/19/2023 1:10 PM
+BAG:sunny add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/19/2023 1:10 PM
+BAG:sunny add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/19/2023 1:10 PM
+BAG:sunny add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/19/2023 1:10 PM
+BAG:sunny add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/19/2023 1:10 PM
+BAG:sunny add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/19/2023 1:10 PM
+BAG:sunny add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/19/2023 1:16 PM
+BAG:sunny add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/19/2023 1:16 PM
+BAG:sunny add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/19/2023 1:16 PM
+BAG:sunny add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/19/2023 1:17 PM
+BAG:sunny add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/19/2023 1:18 PM
+BAG:sunny add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/19/2023 1:19 PM
+BAG:sunny add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/19/2023 1:19 PM
+BAG:sunny add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/19/2023 1:19 PM
+BAG:sunny add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/19/2023 1:19 PM
+BAG:sunny add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/19/2023 1:19 PM
+BAG:sunny add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/19/2023 1:19 PM
+BAG:sunny add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/19/2023 1:19 PM
+BAG:sunny add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/19/2023 1:20 PM
+BAG:sunny add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/19/2023 1:20 PM
+BAG:sunny add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/19/2023 1:20 PM
+BAG:sunny add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/19/2023 1:20 PM
+BAG:sunny add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/19/2023 1:20 PM
+BAG:sunny add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/19/2023 1:20 PM
+BAG:sunny add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/19/2023 1:20 PM
+BAG:sunny add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/19/2023 1:20 PM
+BAG:sunny add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/19/2023 1:20 PM
+BAG:sunny add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/19/2023 1:20 PM
+BAG:sunny add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/19/2023 1:20 PM
+BAG:sunny add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/19/2023 1:21 PM
+BAG:sunny add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/19/2023 1:21 PM
+BAG:sunny add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/19/2023 1:21 PM
+BAG:sunny add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/19/2023 1:21 PM
+BAG:sunny add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/19/2023 1:21 PM
+BAG:sunny add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/19/2023 1:21 PM
+BAG:sunny add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/19/2023 1:21 PM
+BAG:sunny add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/19/2023 1:22 PM
+BAG:sunny add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/19/2023 1:22 PM
+BAG:sunny add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/19/2023 1:22 PM
+BAG:sunny add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/19/2023 1:22 PM
+BAG:sunny add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/19/2023 1:22 PM
+BAG:sunny add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/19/2023 1:22 PM
+BAG:sunny add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/19/2023 1:23 PM
+BAG:sunny add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/19/2023 1:23 PM
+BAG:sunny add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/19/2023 1:23 PM
+BAG:sunny add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/19/2023 1:23 PM
+BAG:sunny add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/19/2023 1:23 PM
+BAG:sunny add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/19/2023 1:23 PM
+BAG:sunny add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/19/2023 1:23 PM
+BAG:sunny add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/19/2023 1:23 PM
+BAG:sunny add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/19/2023 1:24 PM
+BAG:sunny add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/19/2023 1:24 PM
+BAG:sunny add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/19/2023 1:24 PM
+BAG:sunny add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/19/2023 1:25 PM
+BAG:sunny add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/19/2023 1:25 PM
+BAG:sunny add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/19/2023 1:25 PM
+BAG:sunny add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/19/2023 1:25 PM
+BAG:sunny add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/19/2023 1:25 PM
+BAG:sunny add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/19/2023 1:26 PM
+BAG:sunny add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/19/2023 1:26 PM
+BAG:sunny add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/19/2023 1:26 PM
+BAG:sunny add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/19/2023 1:26 PM
+BAG:sunny add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/19/2023 1:29 PM
+BAG:sunny add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/19/2023 1:29 PM
+BAG:sunny add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/19/2023 1:30 PM
+BAG:sunny add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/19/2023 1:31 PM
+BAG:sunny add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/19/2023 1:31 PM
+BAG:sunny add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/19/2023 1:31 PM
+BAG:sunny add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/19/2023 1:31 PM
+BAG:sunny add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/19/2023 1:31 PM
+BAG:sunny add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/19/2023 1:31 PM
+BAG:sunny add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/19/2023 1:31 PM
+BAG:sunny add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/19/2023 1:32 PM
+BAG:sunny add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/19/2023 1:32 PM
+BAG:sunny add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/19/2023 1:32 PM
+BAG:sunny add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/19/2023 1:32 PM
+BAG:sunny add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/19/2023 1:32 PM
+BAG:sunny add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/19/2023 1:33 PM
+BAG:sunny add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/19/2023 1:36 PM
+BAG:sunny add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/19/2023 1:36 PM
+BAG:sunny add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/19/2023 1:36 PM
+BAG:sunny add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/19/2023 1:36 PM
+BAG:sunny add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/19/2023 1:36 PM
+BAG:sunny add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/19/2023 1:36 PM
+BAG:sunny add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/19/2023 1:37 PM
+BAG:sunny add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/19/2023 1:38 PM
+BAG:sunny add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/19/2023 1:38 PM
+BAG:sunny add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/19/2023 1:38 PM
+BAG:sunny add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/19/2023 1:38 PM
+BAG:sunny add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/19/2023 1:38 PM
+BAG:sunny add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/19/2023 1:38 PM
+BAG:sunny add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/19/2023 1:38 PM
+BAG:sunny add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/19/2023 1:38 PM
+BAG:sunny add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/19/2023 1:38 PM
+BAG:sunny add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/19/2023 1:38 PM
+BAG:sunny add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/19/2023 1:39 PM
+BAG:sunny add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/19/2023 1:39 PM
+BAG:sunny add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/19/2023 1:39 PM
+BAG:sunny add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/19/2023 1:39 PM
+BAG:sunny add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/19/2023 1:39 PM
+BAG:sunny add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/19/2023 1:39 PM
+BAG:sunny add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/19/2023 1:40 PM
+BAG:sunny add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/19/2023 1:40 PM
+BAG:sunny add 63xMảnh hồn bông tai lydo: (GD) Nhận từ trummom at 03/19/2023 1:41 PM
+BAG:sunny add 1xĐá xanh lam lydo: Mua từ cửa hàng at 03/19/2023 1:42 PM
+BAG:sunny add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/19/2023 1:46 PM
+BAG:sunny add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/19/2023 1:46 PM
+BAG:sunny add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/19/2023 2:36 PM
+BAG:sunny add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/19/2023 2:36 PM
+BAG:sunny add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/19/2023 2:36 PM
+BAG:sunny add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/19/2023 2:36 PM
+BAG:sunny add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/19/2023 2:36 PM
+BAG:sunny add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/19/2023 2:36 PM
+BAG:sunny add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/19/2023 2:36 PM
+BAG:sunny add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/19/2023 2:36 PM
+BAG:sunny add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/19/2023 2:36 PM
+BAG:sunny add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/19/2023 2:37 PM
+BAG:sunny add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/19/2023 2:38 PM
+BAG:sunny add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/19/2023 2:39 PM
+BAG:sunny add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/19/2023 2:40 PM
+BAG:sunny add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/19/2023 2:41 PM
+BAG:sunny add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/19/2023 2:42 PM
+BAG:sunny add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/19/2023 2:43 PM
+BAG:sunny add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/19/2023 2:44 PM
+BAG:sunny add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/19/2023 2:45 PM
+BAG:sunny add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/19/2023 2:46 PM
+BAG:sunny add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/19/2023 2:47 PM
+BAG:sunny add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/19/2023 2:47 PM
+BAG:sunny add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/19/2023 2:47 PM
+BAG:sunny add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/19/2023 2:47 PM
+BAG:sunny add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/19/2023 2:47 PM
+BAG:sunny add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/19/2023 2:47 PM
+BAG:sunny add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/19/2023 2:47 PM
+BAG:sunny add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/19/2023 2:47 PM
+BAG:sunny add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/19/2023 2:47 PM
+BAG:sunny add 40xThỏi vàng lydo: (GD) Nhận từ topnm at 03/19/2023 5:13 PM

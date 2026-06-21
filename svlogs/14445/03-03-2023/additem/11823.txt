@@ -1,0 +1,90 @@
+BAG:vegeta add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 1:17 PM
+BAG:vegeta add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 1:20 PM
+BAG:vegeta add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 1:20 PM
+BAG:vegeta add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 1:20 PM
+BAG:vegeta add 1xBột mì lydo: Nhặt từ map at 03/03/2023 1:22 PM
+BAG:vegeta add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 1:22 PM
+BAG:vegeta add 1xÁo vải thô lydo: Nhặt từ map at 03/03/2023 1:22 PM
+BAG:vegeta add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 1:22 PM
+BAG:vegeta add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 1:23 PM
+BAG:vegeta add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 1:23 PM
+BAG:vegeta add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/03/2023 1:23 PM
+BAG:vegeta add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/03/2023 1:24 PM
+BAG:vegeta add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/03/2023 1:24 PM
+BAG:vegeta add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 1:25 PM
+BAG:vegeta add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 1:26 PM
+BAG:vegeta add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:26 PM
+BAG:vegeta add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/03/2023 1:27 PM
+BAG:vegeta add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 1:27 PM
+BAG:vegeta add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 1:27 PM
+BAG:vegeta add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 1:27 PM
+BAG:vegeta add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 1:27 PM
+BAG:vegeta add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 03/03/2023 1:27 PM
+BAG:vegeta add 2000xThỏi vàng lydo: Đổi vàng at 03/03/2023 1:28 PM
+BAG:vegeta add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:32 PM
+BAG:vegeta add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:32 PM
+BAG:vegeta add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:32 PM
+BAG:vegeta add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:33 PM
+BAG:vegeta add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:33 PM
+BAG:vegeta add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 1:33 PM
+BAG:vegeta add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/03/2023 1:33 PM
+BAG:vegeta add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/03/2023 1:33 PM
+BAG:vegeta add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/03/2023 1:33 PM
+BAG:vegeta add 1002000xThỏi vàng (old: 2000) lydo: Giftcode at 03/03/2023 1:34 PM
+BAG:vegeta add 10000xĐá ngũ sắc lydo: Giftcode at 03/03/2023 1:34 PM
+BAG:vegeta add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 1:34 PM
+BAG:vegeta add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 1:34 PM
+BAG:vegeta add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/03/2023 1:34 PM
+BAG:vegeta add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/03/2023 1:34 PM
+BAG:vegeta add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/03/2023 1:35 PM
+BAG:vegeta add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/03/2023 1:35 PM
+BAG:vegeta add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/03/2023 1:35 PM
+BAG:vegeta add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/03/2023 1:35 PM
+BAG:vegeta add 1xÁo lông đỏ lydo: Cường Hóa trang bị at 03/03/2023 1:35 PM
+BAG:vegeta add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/03/2023 1:35 PM
+BAG:vegeta add 1xCải Trang Cumber lydo: Mua từ bill at 03/03/2023 1:35 PM
+BAG:vegeta add 1xCải Trang Thần Zeno Xayda lydo: Mua từ bill at 03/03/2023 1:35 PM
+BAG:vegeta add 1xCải Trang Thần Zeno Xayda lydo: Mua từ bill at 03/03/2023 1:35 PM
+BAG:vegeta add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/03/2023 1:48 PM
+BAG:vegeta add 1xÁo vải thô lydo: Mua từ cửa hàng at 03/03/2023 1:49 PM
+BAG:vegeta add 1xQuần vải thô lydo: Mua từ cửa hàng at 03/03/2023 1:53 PM
+BAG:vegeta add 1xGiầy vải thô lydo: Mua từ cửa hàng at 03/03/2023 1:53 PM
+BAG:vegeta add 1xRada cấp 6 lydo: Mua từ cửa hàng at 03/03/2023 1:53 PM
+BAG:vegeta add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/03/2023 6:42 PM
+BAG:vegeta add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/03/2023 6:42 PM
+BAG:vegeta add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/03/2023 6:42 PM
+BAG:vegeta add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/03/2023 6:43 PM
+BAG:vegeta add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 6:57 PM
+BAG:vegeta add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/03/2023 6:57 PM
+BAG:vegeta add 1xGiầy vải thô lydo: Nhặt từ map at 03/03/2023 6:57 PM
+BAG:vegeta add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 6:57 PM
+BAG:vegeta add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/03/2023 6:57 PM
+BAG:vegeta add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 6:57 PM
+BAG:vegeta add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 6:58 PM
+BAG:vegeta add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/03/2023 6:58 PM
+BAG:vegeta add 1xGăng vải thô lydo: Nhặt từ map at 03/03/2023 6:58 PM
+BAG:vegeta add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 6:58 PM
+BAG:vegeta add 1xGiầy vải thô lydo: Nhặt từ map at 03/03/2023 6:58 PM
+BAG:vegeta add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/03/2023 6:58 PM
+BAG:vegeta add 1xGăng vải thô lydo: Nhặt từ map at 03/03/2023 6:59 PM
+BAG:vegeta add 1xGăng vải thô lydo: Nhặt từ map at 03/03/2023 6:59 PM
+BAG:vegeta add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 6:59 PM
+BAG:vegeta add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/03/2023 6:59 PM
+BAG:vegeta add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/03/2023 6:59 PM
+BAG:vegeta add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 6:59 PM
+BAG:vegeta add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/03/2023 6:59 PM
+BAG:vegeta add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/03/2023 7:00 PM
+BAG:vegeta add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/03/2023 7:00 PM
+BAG:vegeta add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/03/2023 7:00 PM
+BAG:vegeta add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/03/2023 7:00 PM
+BAG:vegeta add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/03/2023 7:00 PM
+BAG:vegeta add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/03/2023 7:00 PM
+BAG:vegeta add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/03/2023 7:00 PM
+BAG:vegeta add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/03/2023 7:00 PM
+BAG:vegeta add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/03/2023 7:00 PM
+BAG:vegeta add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/03/2023 7:01 PM
+BAG:vegeta add 1xGiầy vải thô lydo: Nhặt từ map at 03/03/2023 7:01 PM
+BAG:vegeta add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 7:01 PM
+BAG:vegeta add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/03/2023 7:01 PM
+BAG:vegeta add 1xGăng vải thô lydo: Nhặt từ map at 03/03/2023 7:01 PM
+BAG:vegeta add 1xGăng vải thô lydo: Nhặt từ map at 03/03/2023 7:01 PM

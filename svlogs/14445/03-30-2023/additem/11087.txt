@@ -1,0 +1,304 @@
+BAG:nivobi add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/30/2023 12:00 AM
+BAG:nivobi add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/30/2023 12:00 AM
+BAG:nivobi add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/30/2023 12:01 AM
+BAG:nivobi add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/30/2023 12:01 AM
+BAG:nivobi add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/30/2023 12:01 AM
+BAG:nivobi add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/30/2023 12:02 AM
+BAG:nivobi add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/30/2023 12:05 AM
+BAG:nivobi add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/30/2023 12:05 AM
+BAG:nivobi add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/30/2023 12:10 AM
+BAG:nivobi add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/30/2023 12:10 AM
+BAG:nivobi add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/30/2023 12:12 AM
+BAG:nivobi add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/30/2023 12:12 AM
+BAG:nivobi add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/30/2023 12:12 AM
+BAG:nivobi add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/30/2023 12:13 AM
+BAG:nivobi add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/30/2023 12:13 AM
+BAG:nivobi add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/30/2023 12:13 AM
+BAG:nivobi add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 03/30/2023 12:16 AM
+BAG:nivobi add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/30/2023 12:18 AM
+BAG:nivobi add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/30/2023 12:24 AM
+BAG:nivobi add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/30/2023 12:34 AM
+BAG:nivobi add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/30/2023 12:37 AM
+BAG:nivobi add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/30/2023 12:37 AM
+BAG:nivobi add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/30/2023 12:37 AM
+BAG:nivobi add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/30/2023 12:37 AM
+BAG:nivobi add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/30/2023 12:37 AM
+BAG:nivobi add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/30/2023 12:37 AM
+BAG:nivobi add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/30/2023 12:37 AM
+BAG:nivobi add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/30/2023 12:37 AM
+BAG:nivobi add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/30/2023 12:37 AM
+BAG:nivobi add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/30/2023 12:38 AM
+BAG:nivobi add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/30/2023 12:41 AM
+BAG:nivobi add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/30/2023 12:41 AM
+BAG:nivobi add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/30/2023 12:42 AM
+BAG:nivobi add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 03/30/2023 12:42 AM
+BAG:nivobi add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/30/2023 12:42 AM
+BAG:nivobi add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/30/2023 12:42 AM
+BAG:nivobi add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/30/2023 12:43 AM
+BAG:nivobi add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/30/2023 12:45 AM
+BAG:nivobi add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/30/2023 12:46 AM
+BAG:nivobi add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/30/2023 12:47 AM
+BAG:nivobi add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/30/2023 12:47 AM
+BAG:nivobi add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/30/2023 12:48 AM
+BAG:nivobi add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/30/2023 12:48 AM
+BAG:nivobi add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/30/2023 12:48 AM
+BAG:nivobi add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/30/2023 12:48 AM
+BAG:nivobi add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/30/2023 12:48 AM
+BAG:nivobi add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/30/2023 12:49 AM
+BAG:nivobi add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/30/2023 12:50 AM
+BAG:nivobi add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/30/2023 12:50 AM
+BAG:nivobi add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/30/2023 12:51 AM
+BAG:nivobi add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/30/2023 12:51 AM
+BAG:nivobi add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/30/2023 12:52 AM
+BAG:nivobi add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/30/2023 12:52 AM
+BAG:nivobi add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/30/2023 12:52 AM
+BAG:nivobi add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/30/2023 12:55 AM
+BAG:nivobi add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/30/2023 12:55 AM
+BAG:nivobi add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/30/2023 12:55 AM
+BAG:nivobi add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/30/2023 12:55 AM
+BAG:nivobi add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/30/2023 12:56 AM
+BAG:nivobi add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/30/2023 12:57 AM
+BAG:nivobi add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/30/2023 12:58 AM
+BAG:nivobi add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/30/2023 12:58 AM
+BAG:nivobi add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/30/2023 12:58 AM
+BAG:nivobi add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/30/2023 12:58 AM
+BAG:nivobi add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/30/2023 12:58 AM
+BAG:nivobi add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/30/2023 12:58 AM
+BAG:nivobi add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/30/2023 12:59 AM
+BAG:nivobi add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/30/2023 12:59 AM
+BAG:nivobi add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/30/2023 12:59 AM
+BAG:nivobi add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/30/2023 1:00 AM
+BAG:nivobi add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/30/2023 1:00 AM
+BAG:nivobi add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/30/2023 1:01 AM
+BAG:nivobi add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/30/2023 1:01 AM
+BAG:nivobi add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/30/2023 1:01 AM
+BAG:nivobi add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/30/2023 1:02 AM
+BAG:nivobi add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/30/2023 1:02 AM
+BAG:nivobi add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/30/2023 1:03 AM
+BAG:nivobi add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/30/2023 1:03 AM
+BAG:nivobi add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/30/2023 1:03 AM
+BAG:nivobi add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/30/2023 1:03 AM
+BAG:nivobi add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 03/30/2023 1:04 AM
+BAG:nivobi add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 03/30/2023 1:04 AM
+BAG:nivobi add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/30/2023 1:09 AM
+BAG:nivobi add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/30/2023 1:10 AM
+BAG:nivobi add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/30/2023 1:10 AM
+BAG:nivobi add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/30/2023 1:10 AM
+BAG:nivobi add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/30/2023 1:11 AM
+BAG:nivobi add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/30/2023 1:11 AM
+BAG:nivobi add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/30/2023 1:11 AM
+BAG:nivobi add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/30/2023 1:12 AM
+BAG:nivobi add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 03/30/2023 1:12 AM
+BAG:nivobi add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/30/2023 1:12 AM
+BAG:nivobi add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/30/2023 1:12 AM
+BAG:nivobi add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/30/2023 1:12 AM
+BAG:nivobi add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/30/2023 1:13 AM
+BAG:nivobi add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 03/30/2023 1:13 AM
+BAG:nivobi add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/30/2023 1:14 AM
+BAG:nivobi add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/30/2023 1:14 AM
+BAG:nivobi add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/30/2023 1:14 AM
+BAG:nivobi add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/30/2023 1:15 AM
+BAG:nivobi add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 03/30/2023 1:15 AM
+BAG:nivobi add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/30/2023 1:16 AM
+BAG:nivobi add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 03/30/2023 1:16 AM
+BAG:nivobi add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/30/2023 9:52 AM
+BAG:nivobi add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/30/2023 9:53 AM
+BAG:nivobi add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/30/2023 9:53 AM
+BAG:nivobi add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/30/2023 9:53 AM
+BAG:nivobi add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/30/2023 9:53 AM
+BAG:nivobi add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/30/2023 9:55 AM
+BAG:nivobi add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 03/30/2023 9:56 AM
+BAG:nivobi add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/30/2023 9:57 AM
+BAG:nivobi add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/30/2023 9:57 AM
+BAG:nivobi add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/30/2023 9:57 AM
+BAG:nivobi add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/30/2023 9:57 AM
+BAG:nivobi add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhặt từ map at 03/30/2023 9:57 AM
+BAG:nivobi add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/30/2023 9:58 AM
+BAG:nivobi add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/30/2023 9:58 AM
+BAG:nivobi add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/30/2023 9:58 AM
+BAG:nivobi add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/30/2023 9:59 AM
+BAG:nivobi add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/30/2023 9:59 AM
+BAG:nivobi add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/30/2023 9:59 AM
+BAG:nivobi add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhặt từ map at 03/30/2023 10:00 AM
+BAG:nivobi add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/30/2023 10:00 AM
+BAG:nivobi add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhặt từ map at 03/30/2023 10:00 AM
+BAG:nivobi add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/30/2023 10:00 AM
+BAG:nivobi add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/30/2023 10:00 AM
+BAG:nivobi add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/30/2023 10:01 AM
+BAG:nivobi add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/30/2023 10:01 AM
+BAG:nivobi add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/30/2023 10:01 AM
+BAG:nivobi add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/30/2023 10:01 AM
+BAG:nivobi add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/30/2023 10:01 AM
+BAG:nivobi add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/30/2023 10:01 AM
+BAG:nivobi add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/30/2023 10:01 AM
+BAG:nivobi add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/30/2023 10:02 AM
+BAG:nivobi add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/30/2023 10:02 AM
+BAG:nivobi add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/30/2023 10:03 AM
+BAG:nivobi add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/30/2023 10:03 AM
+BAG:nivobi add 27xNgọc Rồng 5 sao (old: 26) lydo: Nhặt từ map at 03/30/2023 10:03 AM
+BAG:nivobi add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/30/2023 10:04 AM
+BAG:nivobi add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/30/2023 10:05 AM
+BAG:nivobi add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/30/2023 10:05 AM
+BAG:nivobi add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/30/2023 10:05 AM
+BAG:nivobi add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/30/2023 10:05 AM
+BAG:nivobi add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/30/2023 10:05 AM
+BAG:nivobi add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/30/2023 10:06 AM
+BAG:nivobi add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/30/2023 10:06 AM
+BAG:nivobi add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/30/2023 10:06 AM
+BAG:nivobi add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/30/2023 10:06 AM
+BAG:nivobi add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/30/2023 10:07 AM
+BAG:nivobi add 28xNgọc Rồng 5 sao (old: 27) lydo: Nhặt từ map at 03/30/2023 10:07 AM
+BAG:nivobi add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/30/2023 10:07 AM
+BAG:nivobi add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/30/2023 10:08 AM
+BAG:nivobi add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/30/2023 10:08 AM
+BAG:nivobi add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/30/2023 10:08 AM
+BAG:nivobi add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 03/30/2023 10:08 AM
+BAG:nivobi add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/30/2023 10:09 AM
+BAG:nivobi add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 03/30/2023 10:09 AM
+BAG:nivobi add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/30/2023 10:09 AM
+BAG:nivobi add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/30/2023 10:09 AM
+BAG:nivobi add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/30/2023 10:10 AM
+BAG:nivobi add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/30/2023 10:10 AM
+BAG:nivobi add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/30/2023 10:10 AM
+BAG:nivobi add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/30/2023 10:10 AM
+BAG:nivobi add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/30/2023 10:10 AM
+BAG:nivobi add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/30/2023 10:10 AM
+BAG:nivobi add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/30/2023 10:10 AM
+BAG:nivobi add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/30/2023 10:11 AM
+BAG:nivobi add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/30/2023 10:11 AM
+BAG:nivobi add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/30/2023 10:12 AM
+BAG:nivobi add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/30/2023 10:12 AM
+BAG:nivobi add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/30/2023 10:13 AM
+BAG:nivobi add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/30/2023 10:13 AM
+BAG:nivobi add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/30/2023 10:13 AM
+BAG:nivobi add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/30/2023 10:13 AM
+BAG:nivobi add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/30/2023 10:14 AM
+BAG:nivobi add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/30/2023 10:14 AM
+BAG:nivobi add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/30/2023 10:15 AM
+BAG:nivobi add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 03/30/2023 10:15 AM
+BAG:nivobi add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/30/2023 10:15 AM
+BAG:nivobi add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 03/30/2023 10:15 AM
+BAG:nivobi add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/30/2023 10:15 AM
+BAG:nivobi add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/30/2023 10:16 AM
+BAG:nivobi add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/30/2023 10:16 AM
+BAG:nivobi add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/30/2023 10:16 AM
+BAG:nivobi add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/30/2023 10:16 AM
+BAG:nivobi add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/30/2023 10:16 AM
+BAG:nivobi add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/30/2023 10:17 AM
+BAG:nivobi add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/30/2023 10:17 AM
+BAG:nivobi add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 03/30/2023 10:17 AM
+BAG:nivobi add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/30/2023 10:17 AM
+BAG:nivobi add 29xNgọc Rồng 5 sao (old: 28) lydo: Nhặt từ map at 03/30/2023 10:17 AM
+BAG:nivobi add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/30/2023 10:18 AM
+BAG:nivobi add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhặt từ map at 03/30/2023 10:18 AM
+BAG:nivobi add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 03/30/2023 10:18 AM
+BAG:nivobi add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/30/2023 10:18 AM
+BAG:nivobi add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/30/2023 10:18 AM
+BAG:nivobi add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/30/2023 10:19 AM
+BAG:nivobi add 30xNgọc Rồng 5 sao (old: 29) lydo: Nhặt từ map at 03/30/2023 10:19 AM
+BAG:nivobi add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/30/2023 10:19 AM
+BAG:nivobi add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/30/2023 10:20 AM
+BAG:nivobi add 27xNgọc Rồng 6 sao (old: 26) lydo: Nhặt từ map at 03/30/2023 10:20 AM
+BAG:nivobi add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/30/2023 10:20 AM
+BAG:nivobi add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/30/2023 10:20 AM
+BAG:nivobi add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 03/30/2023 10:20 AM
+BAG:nivobi add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/30/2023 10:21 AM
+BAG:nivobi add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/30/2023 10:22 AM
+BAG:nivobi add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/30/2023 10:22 AM
+BAG:nivobi add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 03/30/2023 10:22 AM
+BAG:nivobi add 31xNgọc Rồng 5 sao (old: 30) lydo: Nhặt từ map at 03/30/2023 10:22 AM
+BAG:nivobi add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/30/2023 10:22 AM
+BAG:nivobi add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/30/2023 10:22 AM
+BAG:nivobi add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/30/2023 10:23 AM
+BAG:nivobi add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/30/2023 10:23 AM
+BAG:nivobi add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/30/2023 10:23 AM
+BAG:nivobi add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/30/2023 10:24 AM
+BAG:nivobi add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/30/2023 10:24 AM
+BAG:nivobi add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/30/2023 10:24 AM
+BAG:nivobi add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/30/2023 10:25 AM
+BAG:nivobi add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/30/2023 10:25 AM
+BAG:nivobi add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/30/2023 10:25 AM
+BAG:nivobi add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/30/2023 10:26 AM
+BAG:nivobi add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 03/30/2023 10:26 AM
+BAG:nivobi add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/30/2023 10:27 AM
+BAG:nivobi add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/30/2023 10:28 AM
+BAG:nivobi add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhặt từ map at 03/30/2023 10:28 AM
+BAG:nivobi add 32xNgọc Rồng 5 sao (old: 31) lydo: Nhặt từ map at 03/30/2023 10:28 AM
+BAG:nivobi add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/30/2023 10:28 AM
+BAG:nivobi add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 03/30/2023 10:28 AM
+BAG:nivobi add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/30/2023 10:28 AM
+BAG:nivobi add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 03/30/2023 10:29 AM
+BAG:nivobi add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 03/30/2023 10:29 AM
+BAG:nivobi add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/30/2023 10:29 AM
+BAG:nivobi add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/30/2023 10:29 AM
+BAG:nivobi add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 03/30/2023 10:30 AM
+BAG:nivobi add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 03/30/2023 10:30 AM
+BAG:nivobi add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/30/2023 10:30 AM
+BAG:nivobi add 50xĐá Saphia (old: 49) lydo: Nhặt từ map at 03/30/2023 10:31 AM
+BAG:nivobi add 29xNgọc Rồng 6 sao (old: 28) lydo: Nhặt từ map at 03/30/2023 10:31 AM
+BAG:nivobi add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/30/2023 10:31 AM
+BAG:nivobi add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 03/30/2023 10:31 AM
+BAG:nivobi add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/30/2023 10:31 AM
+BAG:nivobi add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/30/2023 10:31 AM
+BAG:nivobi add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/30/2023 10:32 AM
+BAG:nivobi add 33xNgọc Rồng 5 sao (old: 32) lydo: Nhặt từ map at 03/30/2023 10:32 AM
+BAG:nivobi add 30xNgọc Rồng 6 sao (old: 29) lydo: Nhặt từ map at 03/30/2023 10:32 AM
+BAG:nivobi add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 03/30/2023 10:32 AM
+BAG:nivobi add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/30/2023 10:33 AM
+BAG:nivobi add 51xĐá Saphia (old: 50) lydo: Nhặt từ map at 03/30/2023 10:33 AM
+BAG:nivobi add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/30/2023 10:33 AM
+BAG:nivobi add 52xĐá Saphia (old: 51) lydo: Nhặt từ map at 03/30/2023 10:33 AM
+BAG:nivobi add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/30/2023 10:34 AM
+BAG:nivobi add 34xNgọc Rồng 5 sao (old: 33) lydo: Nhặt từ map at 03/30/2023 10:34 AM
+BAG:nivobi add 31xNgọc Rồng 6 sao (old: 30) lydo: Nhặt từ map at 03/30/2023 10:34 AM
+BAG:nivobi add 53xĐá Saphia (old: 52) lydo: Nhặt từ map at 03/30/2023 10:34 AM
+BAG:nivobi add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/30/2023 10:35 AM
+BAG:nivobi add 54xĐá Saphia (old: 53) lydo: Nhặt từ map at 03/30/2023 10:35 AM
+BAG:nivobi add 55xĐá Saphia (old: 54) lydo: Nhặt từ map at 03/30/2023 10:35 AM
+BAG:nivobi add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/30/2023 10:35 AM
+BAG:nivobi add 56xĐá Saphia (old: 55) lydo: Nhặt từ map at 03/30/2023 10:35 AM
+BAG:nivobi add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 03/30/2023 10:36 AM
+BAG:nivobi add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/30/2023 10:36 AM
+BAG:nivobi add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/30/2023 10:36 AM
+BAG:nivobi add 35xNgọc Rồng 5 sao (old: 34) lydo: Nhặt từ map at 03/30/2023 10:37 AM
+BAG:nivobi add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/30/2023 10:37 AM
+BAG:nivobi add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/30/2023 12:16 PM
+BAG:nivobi add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/30/2023 12:16 PM
+BAG:nivobi add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 03/30/2023 12:16 PM
+BAG:nivobi add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/30/2023 11:50 PM
+BAG:nivobi add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/30/2023 11:54 PM
+BAG:nivobi add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/30/2023 11:55 PM
+BAG:nivobi add 36xNgọc Rồng 5 sao (old: 35) lydo: Nhặt từ map at 03/30/2023 11:55 PM
+BAG:nivobi add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/30/2023 11:55 PM
+BAG:nivobi add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/30/2023 11:55 PM
+BAG:nivobi add 32xNgọc Rồng 6 sao (old: 31) lydo: Nhặt từ map at 03/30/2023 11:56 PM
+BAG:nivobi add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 03/30/2023 11:56 PM
+BAG:nivobi add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 03/30/2023 11:56 PM
+BAG:nivobi add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/30/2023 11:56 PM
+BAG:nivobi add 57xĐá Saphia (old: 56) lydo: Nhặt từ map at 03/30/2023 11:57 PM
+BAG:nivobi add 33xNgọc Rồng 6 sao (old: 32) lydo: Nhặt từ map at 03/30/2023 11:57 PM
+BAG:nivobi add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/30/2023 11:57 PM
+BAG:nivobi add 58xĐá Saphia (old: 57) lydo: Nhặt từ map at 03/30/2023 11:57 PM
+BAG:nivobi add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/30/2023 11:58 PM
+BAG:nivobi add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 03/30/2023 11:58 PM
+BAG:nivobi add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/30/2023 11:58 PM
+BAG:nivobi add 37xNgọc Rồng 5 sao (old: 36) lydo: Nhặt từ map at 03/30/2023 11:58 PM
+BAG:nivobi add 38xNgọc Rồng 5 sao (old: 37) lydo: Nhặt từ map at 03/30/2023 11:59 PM
+BAG:nivobi add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 03/30/2023 11:59 PM
+BAG:nivobi add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/30/2023 11:59 PM
+BAG:nivobi add 34xNgọc Rồng 6 sao (old: 33) lydo: Nhặt từ map at 03/30/2023 11:59 PM
+BAG:nivobi add 39xNgọc Rồng 5 sao (old: 38) lydo: Nhặt từ map at 03/30/2023 11:59 PM

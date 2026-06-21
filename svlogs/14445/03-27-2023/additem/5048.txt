@@ -1,0 +1,98 @@
+BAG:changcodon add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/27/2023 10:03 PM
+BAG:changcodon add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/27/2023 10:04 PM
+BAG:changcodon add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/27/2023 10:08 PM
+BAG:changcodon add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 03/27/2023 10:10 PM
+BAG:changcodon add 1xĐá Titan lydo: Nhặt từ map at 03/27/2023 10:12 PM
+BAG:changcodon add 1xMảnh Khủng long lydo: Nhặt từ map at 03/27/2023 10:12 PM
+BAG:changcodon add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/27/2023 10:13 PM
+BAG:changcodon add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/27/2023 10:13 PM
+BAG:changcodon add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/27/2023 10:13 PM
+BAG:changcodon add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/27/2023 10:13 PM
+BAG:changcodon add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/27/2023 10:14 PM
+BAG:changcodon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/27/2023 10:14 PM
+BAG:changcodon add 1xĐá lục bảo lydo: Nhặt từ map at 03/27/2023 10:14 PM
+BAG:changcodon add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/27/2023 10:15 PM
+BAG:changcodon add 1xGiầy nhựa lydo: Nhặt từ map at 03/27/2023 10:15 PM
+BAG:changcodon add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/27/2023 10:15 PM
+BAG:changcodon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/27/2023 10:15 PM
+BAG:changcodon add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/27/2023 10:15 PM
+BAG:changcodon add 1xGiầy nhựa lydo: Nhặt từ map at 03/27/2023 10:15 PM
+BAG:changcodon add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/27/2023 10:15 PM
+BAG:changcodon add 1xGiầy nhựa lydo: Nhặt từ map at 03/27/2023 10:15 PM
+BAG:changcodon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/27/2023 10:15 PM
+BAG:changcodon add 1xĐá Ruby lydo: Nhặt từ map at 03/27/2023 10:15 PM
+BAG:changcodon add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/27/2023 10:16 PM
+BAG:changcodon add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/27/2023 10:16 PM
+BAG:changcodon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/27/2023 10:17 PM
+BAG:changcodon add 1xGăng vải đen lydo: Nhặt từ map at 03/27/2023 10:17 PM
+BAG:changcodon add 1xĐá Ruby lydo: Nhặt từ map at 03/27/2023 10:18 PM
+BAG:changcodon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/27/2023 10:18 PM
+BAG:changcodon add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/27/2023 10:18 PM
+BAG:changcodon add 1xĐá lục bảo lydo: Nhặt từ map at 03/27/2023 10:20 PM
+BAG:changcodon add 10xĐậu thần cấp 1 (old: 7) lydo: Thu hoạch đậu at 03/27/2023 10:22 PM
+BAG:changcodon add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/27/2023 10:23 PM
+BAG:changcodon add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/27/2023 10:24 PM
+BAG:changcodon add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/27/2023 10:24 PM
+BAG:changcodon add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/27/2023 10:24 PM
+BAG:changcodon add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/27/2023 10:24 PM
+BAG:changcodon add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/27/2023 10:25 PM
+BAG:changcodon add 1xĐá Ruby lydo: Nhặt từ map at 03/27/2023 10:25 PM
+BAG:changcodon add 1xĐá Titan lydo: Nhặt từ map at 03/27/2023 10:25 PM
+BAG:changcodon add 8xMảnh Khủng long mẹ (old: 7) lydo: Nhặt từ map at 03/27/2023 10:38 PM
+BAG:changcodon add 1xGăng vải đen lydo: Nhặt từ map at 03/27/2023 10:38 PM
+BAG:changcodon add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/27/2023 10:39 PM
+BAG:changcodon add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/27/2023 10:40 PM
+BAG:changcodon add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/27/2023 10:41 PM
+BAG:changcodon add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/27/2023 10:43 PM
+BAG:changcodon add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/27/2023 10:44 PM
+BAG:changcodon add 11xMảnh Khủng long (old: 10) lydo: Nhặt từ map at 03/27/2023 10:44 PM
+BAG:changcodon add 12xMảnh Khủng long (old: 11) lydo: Nhặt từ map at 03/27/2023 10:44 PM
+BAG:changcodon add 13xMảnh Khủng long (old: 12) lydo: Nhặt từ map at 03/27/2023 10:44 PM
+BAG:changcodon add 1xĐá Titan lydo: Nhặt từ map at 03/27/2023 10:45 PM
+BAG:changcodon add 1xGiầy nhựa lydo: Nhặt từ map at 03/27/2023 10:46 PM
+BAG:changcodon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/27/2023 10:47 PM
+BAG:changcodon add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/27/2023 10:47 PM
+BAG:changcodon add 14xMảnh Khủng long (old: 13) lydo: Nhặt từ map at 03/27/2023 10:48 PM
+BAG:changcodon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/27/2023 10:48 PM
+BAG:changcodon add 15xMảnh Khủng long (old: 14) lydo: Nhặt từ map at 03/27/2023 10:49 PM
+BAG:changcodon add 16xMảnh Khủng long (old: 15) lydo: Nhặt từ map at 03/27/2023 10:49 PM
+BAG:changcodon add 17xMảnh Khủng long (old: 16) lydo: Nhặt từ map at 03/27/2023 10:49 PM
+BAG:changcodon add 18xMảnh Khủng long (old: 17) lydo: Nhặt từ map at 03/27/2023 10:49 PM
+BAG:changcodon add 19xMảnh Khủng long (old: 18) lydo: Nhặt từ map at 03/27/2023 10:50 PM
+BAG:changcodon add 1xĐá Saphia lydo: Nhặt từ map at 03/27/2023 10:50 PM
+BAG:changcodon add 1xGăng vải đen lydo: Nhặt từ map at 03/27/2023 10:50 PM
+BAG:changcodon add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/27/2023 10:51 PM
+BAG:changcodon add 20xMảnh Khủng long (old: 19) lydo: Nhặt từ map at 03/27/2023 10:51 PM
+BAG:changcodon add 1xĐá Ruby lydo: Nhặt từ map at 03/27/2023 10:51 PM
+BAG:changcodon add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/27/2023 10:51 PM
+BAG:changcodon add 1xĐá lục bảo lydo: Nhặt từ map at 03/27/2023 10:51 PM
+BAG:changcodon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/27/2023 10:52 PM
+BAG:changcodon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/27/2023 10:52 PM
+BAG:changcodon add 21xMảnh Khủng long (old: 20) lydo: Nhặt từ map at 03/27/2023 10:53 PM
+BAG:changcodon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/27/2023 10:54 PM
+BAG:changcodon add 22xMảnh Khủng long (old: 21) lydo: Nhặt từ map at 03/27/2023 10:54 PM
+BAG:changcodon add 1xGiầy nhựa lydo: Nhặt từ map at 03/27/2023 10:55 PM
+BAG:changcodon add 23xMảnh Khủng long (old: 22) lydo: Nhặt từ map at 03/27/2023 10:55 PM
+BAG:changcodon add 24xMảnh Khủng long (old: 23) lydo: Nhặt từ map at 03/27/2023 10:55 PM
+BAG:changcodon add 25xMảnh Khủng long (old: 24) lydo: Nhặt từ map at 03/27/2023 10:56 PM
+BAG:changcodon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/27/2023 10:56 PM
+BAG:changcodon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/27/2023 10:56 PM
+BAG:changcodon add 1xGăng vải đen lydo: Nhặt từ map at 03/27/2023 10:57 PM
+BAG:changcodon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/27/2023 10:57 PM
+BAG:changcodon add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/27/2023 10:57 PM
+BAG:changcodon add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/27/2023 10:57 PM
+BAG:changcodon add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/27/2023 10:59 PM
+BAG:changcodon add 26xMảnh Khủng long (old: 25) lydo: Nhặt từ map at 03/27/2023 10:59 PM
+BAG:changcodon add 27xMảnh Khủng long (old: 26) lydo: Nhặt từ map at 03/27/2023 10:59 PM
+BAG:changcodon add 28xMảnh Khủng long (old: 27) lydo: Nhặt từ map at 03/27/2023 10:59 PM
+BAG:changcodon add 29xMảnh Khủng long (old: 28) lydo: Nhặt từ map at 03/27/2023 11:00 PM
+BAG:changcodon add 30xMảnh Khủng long (old: 29) lydo: Nhặt từ map at 03/27/2023 11:00 PM
+BAG:changcodon add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/27/2023 11:01 PM
+BAG:changcodon add 31xMảnh Khủng long (old: 30) lydo: Nhặt từ map at 03/27/2023 11:02 PM
+BAG:changcodon add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/27/2023 11:03 PM
+BAG:changcodon add 32xMảnh Khủng long (old: 31) lydo: Nhặt từ map at 03/27/2023 11:04 PM
+BAG:changcodon add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/27/2023 11:04 PM
+BAG:changcodon add 33xMảnh Khủng long (old: 32) lydo: Nhặt từ map at 03/27/2023 11:04 PM
+BAG:changcodon add 34xMảnh Khủng long (old: 33) lydo: Nhặt từ map at 03/27/2023 11:05 PM
+BAG:changcodon add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/27/2023 11:05 PM
+BAG:changcodon add 35xMảnh Khủng long (old: 34) lydo: Nhặt từ map at 03/27/2023 11:05 PM

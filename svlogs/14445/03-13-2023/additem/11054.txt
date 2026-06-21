@@ -1,0 +1,430 @@
+BAG:huleo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 4:27 PM
+BAG:huleo add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/13/2023 4:28 PM
+BAG:huleo add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/13/2023 4:28 PM
+BAG:huleo add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/13/2023 4:28 PM
+BAG:huleo add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 4:32 PM
+BAG:huleo add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/13/2023 4:33 PM
+BAG:huleo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 4:34 PM
+BAG:huleo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 4:35 PM
+BAG:huleo add 1xQuần vải đen lydo: Nhặt từ map at 03/13/2023 4:36 PM
+BAG:huleo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 4:36 PM
+BAG:huleo add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 4:37 PM
+BAG:huleo add 1xMảnh Khủng long lydo: Nhặt từ map at 03/13/2023 4:37 PM
+BAG:huleo add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 4:37 PM
+BAG:huleo add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/13/2023 4:37 PM
+BAG:huleo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 4:37 PM
+BAG:huleo add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/13/2023 4:38 PM
+BAG:huleo add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/13/2023 4:38 PM
+BAG:huleo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 4:39 PM
+BAG:huleo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 4:39 PM
+BAG:huleo add 1xQuần vải đen lydo: Nhặt từ map at 03/13/2023 4:39 PM
+BAG:huleo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 4:40 PM
+BAG:huleo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/13/2023 4:40 PM
+BAG:huleo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/13/2023 4:41 PM
+BAG:huleo add 1xGhế bay lydo: Mua từ cửa hàng at 03/13/2023 4:41 PM
+BAG:huleo add 50xThỏi vàng lydo: Giftcode at 03/13/2023 4:42 PM
+BAG:huleo add 10xSao pha lê lydo: Giftcode at 03/13/2023 4:42 PM
+BAG:huleo add 10xSao pha lê lydo: Giftcode at 03/13/2023 4:42 PM
+BAG:huleo add 10xSao pha lê lydo: Giftcode at 03/13/2023 4:42 PM
+BAG:huleo add 1xCải trang Hit lydo: Giftcode at 03/13/2023 4:42 PM
+BAG:huleo add 10xCuồng nộ lydo: Giftcode at 03/13/2023 4:44 PM
+BAG:huleo add 10xBổ huyết lydo: Giftcode at 03/13/2023 4:44 PM
+BAG:huleo add 56xĐậu thần cấp 10 (old: 36) lydo: Lấy từ rương qua người at 03/13/2023 4:45 PM
+BAG:huleo add 150xThỏi vàng (old: 50) lydo: Giftcode at 03/13/2023 4:47 PM
+BAG:huleo add 1000xPháo hoa lydo: Giftcode at 03/13/2023 4:47 PM
+BAG:huleo add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 1xNgọc Rồng 4 sao lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 1xNgọc Rồng 7 sao lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 1xGiáp Xên bọ hung lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 1xBổ huyết lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/13/2023 4:47 PM
+BAG:huleo add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 1xCuồng nộ lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 2xBổ huyết (old: 1) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 3xBổ huyết (old: 2) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 2xCuồng nộ (old: 1) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 4xBổ huyết (old: 3) lydo: HQT at 03/13/2023 4:48 PM
+BAG:huleo add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 5xBổ huyết (old: 4) lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 3xCuồng nộ (old: 2) lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 1xBổ khí lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/13/2023 4:49 PM
+BAG:huleo add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/13/2023 4:50 PM
+BAG:huleo add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/13/2023 4:50 PM
+BAG:huleo add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/13/2023 4:50 PM
+BAG:huleo add 6xBổ huyết (old: 5) lydo: HQT at 03/13/2023 4:50 PM
+BAG:huleo add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/13/2023 4:50 PM
+BAG:huleo add 7xBổ huyết (old: 6) lydo: HQT at 03/13/2023 4:51 PM
+BAG:huleo add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/13/2023 4:51 PM
+BAG:huleo add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/13/2023 4:51 PM
+BAG:huleo add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/13/2023 4:51 PM
+BAG:huleo add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/13/2023 4:51 PM
+BAG:huleo add 8xBổ huyết (old: 7) lydo: HQT at 03/13/2023 4:51 PM
+BAG:huleo add 4xCuồng nộ (old: 3) lydo: HQT at 03/13/2023 4:51 PM
+BAG:huleo add 9xBổ huyết (old: 8) lydo: HQT at 03/13/2023 4:51 PM
+BAG:huleo add 2xBổ khí (old: 1) lydo: HQT at 03/13/2023 4:51 PM
+BAG:huleo add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/13/2023 4:51 PM
+BAG:huleo add 3xBổ khí (old: 2) lydo: HQT at 03/13/2023 4:51 PM
+BAG:huleo add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/13/2023 4:52 PM
+BAG:huleo add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/13/2023 4:52 PM
+BAG:huleo add 10xBổ huyết (old: 9) lydo: HQT at 03/13/2023 4:52 PM
+BAG:huleo add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/13/2023 4:52 PM
+BAG:huleo add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/13/2023 4:53 PM
+BAG:huleo add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/13/2023 4:53 PM
+BAG:huleo add 5xCuồng nộ (old: 4) lydo: HQT at 03/13/2023 4:53 PM
+BAG:huleo add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/13/2023 4:53 PM
+BAG:huleo add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/13/2023 4:53 PM
+BAG:huleo add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/13/2023 4:53 PM
+BAG:huleo add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/13/2023 4:53 PM
+BAG:huleo add 6xCuồng nộ (old: 5) lydo: HQT at 03/13/2023 4:54 PM
+BAG:huleo add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/13/2023 4:54 PM
+BAG:huleo add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/13/2023 4:54 PM
+BAG:huleo add 11xBổ huyết (old: 10) lydo: HQT at 03/13/2023 4:54 PM
+BAG:huleo add 1xMảnh vỡ bông tai lydo: Mua mảnh vỡ từ cửa hàng at 03/13/2023 4:55 PM
+BAG:huleo add 7xCuồng nộ (old: 6) lydo: HQT at 03/13/2023 4:55 PM
+BAG:huleo add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/13/2023 4:55 PM
+BAG:huleo add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/13/2023 4:55 PM
+BAG:huleo add 12xBổ huyết (old: 11) lydo: HQT at 03/13/2023 4:55 PM
+BAG:huleo add 4xBổ khí (old: 3) lydo: HQT at 03/13/2023 4:55 PM
+BAG:huleo add 9xGiáp Xên bọ hung (old: 8) lydo: HQT at 03/13/2023 4:55 PM
+BAG:huleo add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 8xCuồng nộ (old: 7) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 9xCuồng nộ (old: 8) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 13xBổ huyết (old: 12) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 10xCuồng nộ (old: 9) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 11xCuồng nộ (old: 10) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 12xCuồng nộ (old: 11) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 5xBổ khí (old: 4) lydo: HQT at 03/13/2023 4:56 PM
+BAG:huleo add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 13xCuồng nộ (old: 12) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 10xGiáp Xên bọ hung (old: 9) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 14xBổ huyết (old: 13) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 14xCuồng nộ (old: 13) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 15xBổ huyết (old: 14) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 15xCuồng nộ (old: 14) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 6xBổ khí (old: 5) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 7xBổ khí (old: 6) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 16xBổ huyết (old: 15) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 8xBổ khí (old: 7) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 17xBổ huyết (old: 16) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 9xBổ khí (old: 8) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 18xBổ huyết (old: 17) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 10xBổ khí (old: 9) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 19xBổ huyết (old: 18) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 11xBổ khí (old: 10) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 16xCuồng nộ (old: 15) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 20xBổ huyết (old: 19) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 17xGiáp Xên bọ hung (old: 16) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 18xNgọc Rồng 7 sao (old: 17) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 15xNgọc Rồng 6 sao (old: 14) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 16xNgọc Rồng 6 sao (old: 15) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 12xBổ khí (old: 11) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 19xNgọc Rồng 7 sao (old: 18) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 20xNgọc Rồng 7 sao (old: 19) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/13/2023 4:57 PM
+BAG:huleo add 21xBổ huyết (old: 20) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 22xBổ huyết (old: 21) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 23xBổ huyết (old: 22) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 18xGiáp Xên bọ hung (old: 17) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 21xNgọc Rồng 7 sao (old: 20) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 13xBổ khí (old: 12) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 24xBổ huyết (old: 23) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 25xBổ huyết (old: 24) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 22xNgọc Rồng 7 sao (old: 21) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 22xNgọc Rồng 4 sao (old: 21) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 23xNgọc Rồng 7 sao (old: 22) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 24xNgọc Rồng 7 sao (old: 23) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 26xBổ huyết (old: 25) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 17xCuồng nộ (old: 16) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 18xCuồng nộ (old: 17) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 27xBổ huyết (old: 26) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 19xCuồng nộ (old: 18) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 23xNgọc Rồng 4 sao (old: 22) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 14xBổ khí (old: 13) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 19xGiáp Xên bọ hung (old: 18) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 20xCuồng nộ (old: 19) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 25xNgọc Rồng 7 sao (old: 24) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 28xBổ huyết (old: 27) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 20xGiáp Xên bọ hung (old: 19) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 21xGiáp Xên bọ hung (old: 20) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 24xNgọc Rồng 4 sao (old: 23) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 22xGiáp Xên bọ hung (old: 21) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 26xNgọc Rồng 7 sao (old: 25) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 27xNgọc Rồng 7 sao (old: 26) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 15xBổ khí (old: 14) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 23xGiáp Xên bọ hung (old: 22) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 28xNgọc Rồng 7 sao (old: 27) lydo: HQT at 03/13/2023 4:58 PM
+BAG:huleo add 26xNgọc Rồng 4 sao (old: 25) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 25xGiáp Xên bọ hung (old: 24) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 26xGiáp Xên bọ hung (old: 25) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 29xBổ huyết (old: 28) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 21xNgọc Rồng 6 sao (old: 20) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 16xBổ khí (old: 15) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 21xCuồng nộ (old: 20) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 27xGiáp Xên bọ hung (old: 26) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 19xNgọc Rồng 5 sao (old: 18) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 28xGiáp Xên bọ hung (old: 27) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 22xCuồng nộ (old: 21) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 22xNgọc Rồng 6 sao (old: 21) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 17xBổ khí (old: 16) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 30xBổ huyết (old: 29) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 29xNgọc Rồng 7 sao (old: 28) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 20xNgọc Rồng 5 sao (old: 19) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 29xGiáp Xên bọ hung (old: 28) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 21xNgọc Rồng 5 sao (old: 20) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 27xNgọc Rồng 4 sao (old: 26) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 22xNgọc Rồng 5 sao (old: 21) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 23xCuồng nộ (old: 22) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 31xBổ huyết (old: 30) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 32xBổ huyết (old: 31) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 23xNgọc Rồng 5 sao (old: 22) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 33xBổ huyết (old: 32) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 23xNgọc Rồng 6 sao (old: 22) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 24xNgọc Rồng 6 sao (old: 23) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 24xCuồng nộ (old: 23) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 34xBổ huyết (old: 33) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 30xGiáp Xên bọ hung (old: 29) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 24xNgọc Rồng 5 sao (old: 23) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 28xNgọc Rồng 4 sao (old: 27) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 29xNgọc Rồng 4 sao (old: 28) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 25xNgọc Rồng 6 sao (old: 24) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 31xGiáp Xên bọ hung (old: 30) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 18xBổ khí (old: 17) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 26xNgọc Rồng 6 sao (old: 25) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 32xGiáp Xên bọ hung (old: 31) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 25xNgọc Rồng 5 sao (old: 24) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 35xBổ huyết (old: 34) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 27xNgọc Rồng 6 sao (old: 26) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 33xGiáp Xên bọ hung (old: 32) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 25xCuồng nộ (old: 24) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 30xNgọc Rồng 4 sao (old: 29) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 34xGiáp Xên bọ hung (old: 33) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 35xGiáp Xên bọ hung (old: 34) lydo: HQT at 03/13/2023 4:59 PM
+BAG:huleo add 19xBổ khí (old: 18) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 20xBổ khí (old: 19) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 36xGiáp Xên bọ hung (old: 35) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 36xBổ huyết (old: 35) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 31xNgọc Rồng 4 sao (old: 30) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 30xNgọc Rồng 7 sao (old: 29) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 26xCuồng nộ (old: 25) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 28xNgọc Rồng 6 sao (old: 27) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 29xNgọc Rồng 6 sao (old: 28) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 30xNgọc Rồng 6 sao (old: 29) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 31xNgọc Rồng 7 sao (old: 30) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 21xBổ khí (old: 20) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 32xNgọc Rồng 7 sao (old: 31) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 33xNgọc Rồng 7 sao (old: 32) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 32xNgọc Rồng 4 sao (old: 31) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 31xNgọc Rồng 6 sao (old: 30) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 32xNgọc Rồng 6 sao (old: 31) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 37xBổ huyết (old: 36) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 26xNgọc Rồng 5 sao (old: 25) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 38xBổ huyết (old: 37) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 37xGiáp Xên bọ hung (old: 36) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 27xCuồng nộ (old: 26) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 33xNgọc Rồng 6 sao (old: 32) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 34xNgọc Rồng 6 sao (old: 33) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 34xNgọc Rồng 7 sao (old: 33) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 39xBổ huyết (old: 38) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 33xNgọc Rồng 4 sao (old: 32) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 34xNgọc Rồng 4 sao (old: 33) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 27xNgọc Rồng 5 sao (old: 26) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 28xNgọc Rồng 5 sao (old: 27) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 22xBổ khí (old: 21) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 38xGiáp Xên bọ hung (old: 37) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 35xNgọc Rồng 6 sao (old: 34) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 36xNgọc Rồng 6 sao (old: 35) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 39xGiáp Xên bọ hung (old: 38) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 40xGiáp Xên bọ hung (old: 39) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 35xNgọc Rồng 7 sao (old: 34) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 41xGiáp Xên bọ hung (old: 40) lydo: HQT at 03/13/2023 5:00 PM
+BAG:huleo add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/13/2023 5:00 PM
+BAG:huleo add 35xNgọc Rồng 4 sao (old: 34) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 28xCuồng nộ (old: 27) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 29xNgọc Rồng 5 sao (old: 28) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 37xNgọc Rồng 6 sao (old: 36) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 38xNgọc Rồng 6 sao (old: 37) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 30xNgọc Rồng 5 sao (old: 29) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 23xBổ khí (old: 22) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 36xNgọc Rồng 4 sao (old: 35) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 39xNgọc Rồng 6 sao (old: 38) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 29xCuồng nộ (old: 28) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 36xNgọc Rồng 7 sao (old: 35) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 24xBổ khí (old: 23) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 40xBổ huyết (old: 39) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 37xNgọc Rồng 4 sao (old: 36) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 31xNgọc Rồng 5 sao (old: 30) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 37xNgọc Rồng 7 sao (old: 36) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 38xNgọc Rồng 4 sao (old: 37) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 42xGiáp Xên bọ hung (old: 41) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 38xNgọc Rồng 7 sao (old: 37) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 30xCuồng nộ (old: 29) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 31xCuồng nộ (old: 30) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 39xNgọc Rồng 7 sao (old: 38) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 25xBổ khí (old: 24) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 32xNgọc Rồng 5 sao (old: 31) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 43xGiáp Xên bọ hung (old: 42) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 33xNgọc Rồng 5 sao (old: 32) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 44xGiáp Xên bọ hung (old: 43) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 26xBổ khí (old: 25) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 32xCuồng nộ (old: 31) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 39xNgọc Rồng 4 sao (old: 38) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 45xGiáp Xên bọ hung (old: 44) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 27xBổ khí (old: 26) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 40xNgọc Rồng 6 sao (old: 39) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 40xNgọc Rồng 4 sao (old: 39) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 46xGiáp Xên bọ hung (old: 45) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 47xGiáp Xên bọ hung (old: 46) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 41xNgọc Rồng 4 sao (old: 40) lydo: HQT at 03/13/2023 5:02 PM
+BAG:huleo add 99xThỏi vàng lydo: Tách thỏi vàng at 03/13/2023 5:02 PM
+BAG:huleo add 34xNgọc Rồng 5 sao (old: 33) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 40xNgọc Rồng 7 sao (old: 39) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 41xBổ huyết (old: 40) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 35xNgọc Rồng 5 sao (old: 34) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 33xCuồng nộ (old: 32) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 42xNgọc Rồng 4 sao (old: 41) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 41xNgọc Rồng 7 sao (old: 40) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 42xNgọc Rồng 7 sao (old: 41) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 43xNgọc Rồng 7 sao (old: 42) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 34xCuồng nộ (old: 33) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 35xCuồng nộ (old: 34) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 42xBổ huyết (old: 41) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 28xBổ khí (old: 27) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 48xGiáp Xên bọ hung (old: 47) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 36xNgọc Rồng 5 sao (old: 35) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 43xNgọc Rồng 4 sao (old: 42) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 29xBổ khí (old: 28) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 43xBổ huyết (old: 42) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 37xNgọc Rồng 5 sao (old: 36) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 44xBổ huyết (old: 43) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 30xBổ khí (old: 29) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 31xBổ khí (old: 30) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 49xGiáp Xên bọ hung (old: 48) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 38xNgọc Rồng 5 sao (old: 37) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 32xBổ khí (old: 31) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 33xBổ khí (old: 32) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 34xBổ khí (old: 33) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 44xNgọc Rồng 7 sao (old: 43) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 44xNgọc Rồng 4 sao (old: 43) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 45xNgọc Rồng 7 sao (old: 44) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 35xBổ khí (old: 34) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 50xGiáp Xên bọ hung (old: 49) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 46xNgọc Rồng 7 sao (old: 45) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 45xBổ huyết (old: 44) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 51xGiáp Xên bọ hung (old: 50) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 39xNgọc Rồng 5 sao (old: 38) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 45xNgọc Rồng 4 sao (old: 44) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 36xCuồng nộ (old: 35) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 46xBổ huyết (old: 45) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 47xNgọc Rồng 7 sao (old: 46) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 36xBổ khí (old: 35) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 37xCuồng nộ (old: 36) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 38xCuồng nộ (old: 37) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 40xNgọc Rồng 5 sao (old: 39) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 52xGiáp Xên bọ hung (old: 51) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 53xGiáp Xên bọ hung (old: 52) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 54xGiáp Xên bọ hung (old: 53) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 41xNgọc Rồng 6 sao (old: 40) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 47xBổ huyết (old: 46) lydo: HQT at 03/13/2023 5:03 PM
+BAG:huleo add 55xGiáp Xên bọ hung (old: 54) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 46xNgọc Rồng 4 sao (old: 45) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 41xNgọc Rồng 5 sao (old: 40) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 42xNgọc Rồng 5 sao (old: 41) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 48xNgọc Rồng 7 sao (old: 47) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 49xNgọc Rồng 7 sao (old: 48) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 42xNgọc Rồng 6 sao (old: 41) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 56xGiáp Xên bọ hung (old: 55) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 50xNgọc Rồng 7 sao (old: 49) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 37xBổ khí (old: 36) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 39xCuồng nộ (old: 38) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 43xNgọc Rồng 5 sao (old: 42) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 47xNgọc Rồng 4 sao (old: 46) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 38xBổ khí (old: 37) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 48xBổ huyết (old: 47) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 49xBổ huyết (old: 48) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 44xNgọc Rồng 5 sao (old: 43) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 51xNgọc Rồng 7 sao (old: 50) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 45xNgọc Rồng 5 sao (old: 44) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 46xNgọc Rồng 5 sao (old: 45) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 52xNgọc Rồng 7 sao (old: 51) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 48xNgọc Rồng 4 sao (old: 47) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 57xGiáp Xên bọ hung (old: 56) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 53xNgọc Rồng 7 sao (old: 52) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 43xNgọc Rồng 6 sao (old: 42) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 40xCuồng nộ (old: 39) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 54xNgọc Rồng 7 sao (old: 53) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 47xNgọc Rồng 5 sao (old: 46) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 41xCuồng nộ (old: 40) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 50xBổ huyết (old: 49) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 42xCuồng nộ (old: 41) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 51xBổ huyết (old: 50) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 55xNgọc Rồng 7 sao (old: 54) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 58xGiáp Xên bọ hung (old: 57) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 56xNgọc Rồng 7 sao (old: 55) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 44xNgọc Rồng 6 sao (old: 43) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 45xNgọc Rồng 6 sao (old: 44) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 57xNgọc Rồng 7 sao (old: 56) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 46xNgọc Rồng 6 sao (old: 45) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 39xBổ khí (old: 38) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 49xNgọc Rồng 4 sao (old: 48) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 59xGiáp Xên bọ hung (old: 58) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 47xNgọc Rồng 6 sao (old: 46) lydo: HQT at 03/13/2023 5:04 PM
+BAG:huleo add 10xSao pha lê lydo: Lấy từ rương qua người at 03/13/2023 5:06 PM
+BAG:huleo add 10xSao pha lê lydo: Lấy từ rương qua người at 03/13/2023 5:06 PM
+BAG:huleo add 10xSao pha lê lydo: Lấy từ rương qua người at 03/13/2023 5:06 PM
+BAG:huleo add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/13/2023 5:07 PM

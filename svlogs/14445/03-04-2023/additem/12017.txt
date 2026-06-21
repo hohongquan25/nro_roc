@@ -1,0 +1,444 @@
+BAG:android add 1000020xThỏi vàng (old: 1000000) lydo: Đổi vàng at 03/04/2023 12:07 AM
+BAG:android add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 12:07 AM
+BAG:android add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 12:07 AM
+BAG:android add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/04/2023 12:08 AM
+BAG:android add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/04/2023 12:09 AM
+BAG:android add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 12:09 AM
+BAG:android add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 12:09 AM
+BAG:android add 1xGiày lông đỏ lydo: Cường Hóa trang bị at 03/04/2023 12:09 AM
+BAG:android add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/04/2023 12:11 AM
+BAG:android add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/04/2023 12:11 AM
+BAG:android add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/04/2023 12:12 AM
+BAG:android add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 12:12 AM
+BAG:android add 1xMèo mun lydo: Mua từ cửa hàng at 03/04/2023 12:13 AM
+BAG:android add 1002020xThỏi vàng (old: 1000020) lydo: Đổi vàng at 03/04/2023 12:13 AM
+BAG:android add 1004020xThỏi vàng (old: 1002020) lydo: Đổi vàng at 03/04/2023 12:13 AM
+BAG:android add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 12:15 AM
+BAG:android add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:android add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:android add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:android add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:android add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:android add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/04/2023 12:16 AM
+BAG:android add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/04/2023 12:17 AM
+BAG:android add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/04/2023 12:17 AM
+BAG:android add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/04/2023 12:17 AM
+BAG:android add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/04/2023 12:17 AM
+BAG:android add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/04/2023 12:17 AM
+BAG:android add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/04/2023 12:18 AM
+BAG:android add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/04/2023 12:18 AM
+BAG:android add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 12:19 AM
+BAG:android add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/04/2023 12:19 AM
+BAG:android add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/04/2023 12:20 AM
+BAG:android add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/04/2023 12:21 AM
+BAG:android add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 12:21 AM
+BAG:android add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 12:21 AM
+BAG:android add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 12:22 AM
+BAG:android add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 12:22 AM
+BAG:android add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 12:22 AM
+BAG:android add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 12:22 AM
+BAG:android add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 12:22 AM
+BAG:android add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 12:22 AM
+BAG:android add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 12:22 AM
+BAG:android add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 12:22 AM
+BAG:android add 1xGiày lưỡng long lydo: Cường Hóa trang bị at 03/04/2023 12:22 AM
+BAG:android add 1xPháo hoa lydo: Nhặt từ map at 03/04/2023 12:29 AM
+BAG:android add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 12:30 AM
+BAG:android add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 12:31 AM
+BAG:android add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/04/2023 12:31 AM
+BAG:android add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 12:31 AM
+BAG:android add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 12:32 AM
+BAG:android add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/04/2023 12:32 AM
+BAG:android add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/04/2023 12:32 AM
+BAG:android add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/04/2023 12:39 AM
+BAG:android add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 12:39 AM
+BAG:android add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/04/2023 12:39 AM
+BAG:android add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/04/2023 12:39 AM
+BAG:android add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/04/2023 12:39 AM
+BAG:android add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/04/2023 12:39 AM
+BAG:android add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/04/2023 12:39 AM
+BAG:android add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/04/2023 12:39 AM
+BAG:android add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/04/2023 12:39 AM
+BAG:android add 1xCải Trang Thần Zeno lydo: Lấy từ body đệ vào hành trang at 03/04/2023 12:41 AM
+BAG:android add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 12:43 AM
+BAG:android add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/04/2023 12:45 AM
+BAG:android add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/04/2023 12:46 AM
+BAG:android add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/04/2023 12:46 AM
+BAG:android add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/04/2023 12:46 AM
+BAG:android add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/04/2023 12:51 AM
+BAG:android add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/04/2023 12:52 AM
+BAG:android add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/04/2023 12:52 AM
+BAG:android add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/04/2023 12:52 AM
+BAG:android add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/04/2023 12:52 AM
+BAG:android add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 03/04/2023 12:52 AM
+BAG:android add 1xGăng vàng lydo: Mua từ cửa hàng at 03/04/2023 12:55 AM
+BAG:android add 1xGăng bạc lydo: Mua từ cửa hàng at 03/04/2023 12:55 AM
+BAG:android add 1xGăng lông Xayda lydo: Mua từ cửa hàng at 03/04/2023 12:55 AM
+BAG:android add 1xCải trang lydo: Mua từ bill at 03/04/2023 12:58 AM
+BAG:android add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 1:01 AM
+BAG:android add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 1:01 AM
+BAG:android add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 1:01 AM
+BAG:android add 1xBột mì lydo: Nhặt từ map at 03/04/2023 1:01 AM
+BAG:android add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 1:01 AM
+BAG:android add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 1:02 AM
+BAG:android add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 1:02 AM
+BAG:android add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 1:08 AM
+BAG:android add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 1:08 AM
+BAG:android add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 1:08 AM
+BAG:android add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 1:08 AM
+BAG:android add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 1:08 AM
+BAG:android add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 1:09 AM
+BAG:android add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 1:13 AM
+BAG:android add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/04/2023 1:13 AM
+BAG:android add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 1:13 AM
+BAG:android add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/04/2023 1:18 AM
+BAG:android add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 03/04/2023 1:18 AM
+BAG:android add 1xGăng lông đỏ lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:24 AM
+BAG:android add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:24 AM
+BAG:android add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 1:25 AM
+BAG:android add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:29 AM
+BAG:android add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/04/2023 1:31 AM
+BAG:android add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/04/2023 1:31 AM
+BAG:android add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:31 AM
+BAG:android add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:31 AM
+BAG:android add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/04/2023 1:31 AM
+BAG:android add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/04/2023 1:31 AM
+BAG:android add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:31 AM
+BAG:android add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/04/2023 1:31 AM
+BAG:android add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 1:31 AM
+BAG:android add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 4xNgọc Rồng 5 sao (old: 3) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 5xNgọc Rồng 5 sao (old: 4) lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/04/2023 1:32 AM
+BAG:android add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/04/2023 1:33 AM
+BAG:android add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/04/2023 1:33 AM
+BAG:android add 6xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ lucky box at 03/04/2023 1:33 AM
+BAG:android add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 1:33 AM
+BAG:android add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/04/2023 1:34 AM
+BAG:android add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:34 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:34 AM
+BAG:android add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/04/2023 1:34 AM
+BAG:android add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:android add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:android add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:android add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:android add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:android add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:android add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/04/2023 1:35 AM
+BAG:android add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/04/2023 1:36 AM
+BAG:android add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/04/2023 1:36 AM
+BAG:android add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 1:36 AM
+BAG:android add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/04/2023 1:36 AM
+BAG:android add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/04/2023 1:37 AM
+BAG:android add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/04/2023 1:37 AM
+BAG:android add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/04/2023 1:37 AM
+BAG:android add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/04/2023 1:38 AM
+BAG:android add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/04/2023 1:38 AM
+BAG:android add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/04/2023 1:38 AM
+BAG:android add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/04/2023 1:39 AM
+BAG:android add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/04/2023 1:39 AM
+BAG:android add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 1:39 AM
+BAG:android add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/04/2023 1:39 AM
+BAG:android add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/04/2023 1:39 AM
+BAG:android add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/04/2023 1:39 AM
+BAG:android add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/04/2023 1:40 AM
+BAG:android add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/04/2023 1:40 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:40 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 1:40 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 1:40 AM
+BAG:android add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/04/2023 1:41 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 1:41 AM
+BAG:android add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 1:41 AM
+BAG:android add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/04/2023 1:41 AM
+BAG:android add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/04/2023 1:41 AM
+BAG:android add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/04/2023 1:41 AM
+BAG:android add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/04/2023 1:42 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:42 AM
+BAG:android add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/04/2023 1:42 AM
+BAG:android add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/04/2023 1:42 AM
+BAG:android add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/04/2023 1:42 AM
+BAG:android add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/04/2023 1:42 AM
+BAG:android add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/04/2023 1:42 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 1:43 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 1:43 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:43 AM
+BAG:android add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/04/2023 1:43 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:43 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 1:43 AM
+BAG:android add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/04/2023 1:43 AM
+BAG:android add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/04/2023 1:43 AM
+BAG:android add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/04/2023 1:44 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 1:44 AM
+BAG:android add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/04/2023 1:44 AM
+BAG:android add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/04/2023 1:44 AM
+BAG:android add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/04/2023 1:44 AM
+BAG:android add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/04/2023 1:44 AM
+BAG:android add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/04/2023 1:45 AM
+BAG:android add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/04/2023 1:45 AM
+BAG:android add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/04/2023 1:45 AM
+BAG:android add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/04/2023 1:45 AM
+BAG:android add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/04/2023 1:45 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:45 AM
+BAG:android add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/04/2023 1:45 AM
+BAG:android add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/04/2023 1:46 AM
+BAG:android add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/04/2023 1:46 AM
+BAG:android add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/04/2023 1:46 AM
+BAG:android add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/04/2023 1:46 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 1:46 AM
+BAG:android add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/04/2023 1:47 AM
+BAG:android add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/04/2023 1:47 AM
+BAG:android add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/04/2023 1:47 AM
+BAG:android add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/04/2023 1:47 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 1:47 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:47 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:47 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 1:47 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 1:47 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 1:48 AM
+BAG:android add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/04/2023 1:48 AM
+BAG:android add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/04/2023 1:48 AM
+BAG:android add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/04/2023 1:48 AM
+BAG:android add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/04/2023 1:48 AM
+BAG:android add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/04/2023 1:48 AM
+BAG:android add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/04/2023 1:49 AM
+BAG:android add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/04/2023 1:49 AM
+BAG:android add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/04/2023 1:49 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:49 AM
+BAG:android add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/04/2023 1:49 AM
+BAG:android add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/04/2023 1:49 AM
+BAG:android add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/04/2023 1:49 AM
+BAG:android add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/04/2023 1:50 AM
+BAG:android add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/04/2023 1:50 AM
+BAG:android add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/04/2023 1:50 AM
+BAG:android add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/04/2023 1:50 AM
+BAG:android add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/04/2023 1:50 AM
+BAG:android add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/04/2023 1:51 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:51 AM
+BAG:android add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/04/2023 1:51 AM
+BAG:android add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/04/2023 1:52 AM
+BAG:android add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/04/2023 1:52 AM
+BAG:android add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/04/2023 1:52 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 1:52 AM
+BAG:android add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/04/2023 1:52 AM
+BAG:android add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/04/2023 1:52 AM
+BAG:android add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/04/2023 1:53 AM
+BAG:android add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 1:53 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 1:53 AM
+BAG:android add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/04/2023 1:53 AM
+BAG:android add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/04/2023 1:54 AM
+BAG:android add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/04/2023 1:54 AM
+BAG:android add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/04/2023 1:54 AM
+BAG:android add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/04/2023 1:54 AM
+BAG:android add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/04/2023 1:54 AM
+BAG:android add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/04/2023 1:55 AM
+BAG:android add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/04/2023 1:55 AM
+BAG:android add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/04/2023 1:55 AM
+BAG:android add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/04/2023 1:55 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 1:55 AM
+BAG:android add 1xGăng vải thô lydo: Nhặt từ map at 03/04/2023 1:56 AM
+BAG:android add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/04/2023 1:56 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 1:56 AM
+BAG:android add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/04/2023 1:56 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 1:56 AM
+BAG:android add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/04/2023 1:56 AM
+BAG:android add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/04/2023 1:56 AM
+BAG:android add 1xGăng vải thô lydo: Nhặt từ map at 03/04/2023 1:56 AM
+BAG:android add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/04/2023 1:56 AM
+BAG:android add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/04/2023 1:56 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 1:56 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 1:57 AM
+BAG:android add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/04/2023 1:57 AM
+BAG:android add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/04/2023 1:57 AM
+BAG:android add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/04/2023 1:57 AM
+BAG:android add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/04/2023 1:57 AM
+BAG:android add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/04/2023 1:57 AM
+BAG:android add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/04/2023 1:58 AM
+BAG:android add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/04/2023 1:58 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 1:58 AM
+BAG:android add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/04/2023 1:58 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:android add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:android add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:android add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:android add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/04/2023 1:59 AM
+BAG:android add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:android add 1xÁo vải thô lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:android add 1xQuần vải thô lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:android add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:android add 44xGà quay nguyên con (old: 43) lydo: Nhặt từ map at 03/04/2023 2:00 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:android add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:android add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:android add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:android add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:android add 45xGà quay nguyên con (old: 44) lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:android add 1xGiầy vải thô lydo: Nhặt từ map at 03/04/2023 2:01 AM
+BAG:android add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 2:03 AM
+BAG:android add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 8:54 AM
+BAG:android add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 8:54 AM
+BAG:android add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 8:54 AM
+BAG:android add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 8:54 AM
+BAG:android add 1xGăng lông đỏ lydo: Cường Hóa trang bị at 03/04/2023 8:54 AM
+BAG:android add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:54 AM
+BAG:android add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 8:55 AM
+BAG:android add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 8:55 AM
+BAG:android add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 8:55 AM
+BAG:android add 500xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/04/2023 8:56 AM
+BAG:android add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:23 PM
+BAG:android add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:23 PM
+BAG:android add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:23 PM
+BAG:android add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 1:23 PM
+BAG:android add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/04/2023 1:26 PM
+BAG:android add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/04/2023 1:36 PM
+BAG:android add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 1:38 PM
+BAG:android add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 1:38 PM
+BAG:android add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 1:38 PM
+BAG:android add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 1:38 PM
+BAG:android add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 1:38 PM
+BAG:android add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 1:38 PM
+BAG:android add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/04/2023 1:40 PM
+BAG:android add 2xBánh trung thu thập cẩm (old: 1) lydo: Làm bánh at 03/04/2023 1:40 PM
+BAG:android add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:42 PM
+BAG:android add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/04/2023 8:42 PM
+BAG:android add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 8:42 PM
+BAG:android add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 8:42 PM
+BAG:android add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 8:42 PM
+BAG:android add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/04/2023 8:42 PM
+BAG:android add 500xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/04/2023 8:46 PM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 6xNgọc Rồng 5 sao (old: 5) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 8xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xCải trang Dr Lychee lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 9xNgọc Rồng 6 sao (old: 8) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 4xNgọc Rồng 7 sao (old: 3) lydo: Lấy từ lucky box at 03/04/2023 8:54 PM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 10xNgọc Rồng 6 sao (old: 9) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 11xNgọc Rồng 6 sao (old: 10) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 5xNgọc Rồng 7 sao (old: 4) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 12xNgọc Rồng 6 sao (old: 11) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 13xNgọc Rồng 6 sao (old: 12) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 6xNgọc Rồng 7 sao (old: 5) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 7xNgọc Rồng 7 sao (old: 6) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 1xSao pha lê lydo: Lấy từ lucky box at 03/04/2023 8:55 PM
+BAG:android add 9xNgọc Rồng 4 sao (old: 8) lydo: Lấy từ lucky box at 03/04/2023 8:56 PM
+BAG:android add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/04/2023 8:56 PM
+BAG:android add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/04/2023 8:58 PM
+BAG:android add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 8:59 PM
+BAG:android add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 9:02 PM
+BAG:android add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 9:02 PM
+BAG:android add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 9:02 PM
+BAG:android add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 9:02 PM
+BAG:android add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 9:02 PM
+BAG:android add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 9:02 PM
+BAG:android add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/04/2023 9:09 PM
+BAG:android add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/04/2023 9:13 PM
+BAG:android add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 9:22 PM
+BAG:android add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 9:23 PM
+BAG:android add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 9:23 PM
+BAG:android add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 9:23 PM
+BAG:android add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 9:23 PM
+BAG:android add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 9:23 PM
+BAG:android add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 9:23 PM
+BAG:android add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 9:23 PM
+BAG:android add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 9:23 PM
+BAG:android add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 9:23 PM
+BAG:android add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 9:23 PM
+BAG:android add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 9:23 PM
+BAG:android add 1xCải Trang Thần Zeno lydo: Lấy từ rương qua người at 03/04/2023 10:52 PM
+BAG:android add 1xCải Trang Thần Zeno lydo: Lấy từ rương qua người at 03/04/2023 10:52 PM
+BAG:android add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/04/2023 10:53 PM
+BAG:android add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/04/2023 10:54 PM

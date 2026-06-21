@@ -1,0 +1,101 @@
+BAG:messi add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/20/2023 11:27 AM
+BAG:messi add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/20/2023 11:28 AM
+BAG:messi add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/20/2023 11:35 AM
+BAG:messi add 1xGhế bay lydo: Mua từ cửa hàng at 03/20/2023 11:36 AM
+BAG:messi add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 03/20/2023 11:36 AM
+BAG:messi add 1xCải trang Chill lydo: Mua từ cửa hàng at 03/20/2023 11:38 AM
+BAG:messi add 50xThỏi vàng lydo: Giftcode at 03/20/2023 11:38 AM
+BAG:messi add 10xSao pha lê lydo: Giftcode at 03/20/2023 11:38 AM
+BAG:messi add 10xSao pha lê lydo: Giftcode at 03/20/2023 11:38 AM
+BAG:messi add 10xSao pha lê lydo: Giftcode at 03/20/2023 11:38 AM
+BAG:messi add 1xCải trang Hit lydo: Giftcode at 03/20/2023 11:38 AM
+BAG:messi add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/20/2023 11:42 AM
+BAG:messi add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/20/2023 11:42 AM
+BAG:messi add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/20/2023 11:42 AM
+BAG:messi add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/20/2023 11:43 AM
+BAG:messi add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/20/2023 11:43 AM
+BAG:messi add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/20/2023 11:43 AM
+BAG:messi add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/20/2023 11:43 AM
+BAG:messi add 1xĐá Saphia lydo: Nhặt từ map at 03/20/2023 11:43 AM
+BAG:messi add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/20/2023 11:47 AM
+BAG:messi add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/20/2023 11:47 AM
+BAG:messi add 5xPháo hoa lydo: Nhặt từ map at 03/20/2023 11:47 AM
+BAG:messi add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/20/2023 11:47 AM
+BAG:messi add 1xNgọc Rồng 4 sao lydo: HQT at 03/20/2023 11:47 AM
+BAG:messi add 5xPháo hoa lydo: Nhặt từ map at 03/20/2023 11:48 AM
+BAG:messi add 1xCuồng nộ lydo: HQT at 03/20/2023 11:48 AM
+BAG:messi add 1xNgọc Rồng 6 sao lydo: HQT at 03/20/2023 11:48 AM
+BAG:messi add 1xBổ khí lydo: HQT at 03/20/2023 11:48 AM
+BAG:messi add 2xBổ khí (old: 1) lydo: HQT at 03/20/2023 11:48 AM
+BAG:messi add 1xĐá Ruby lydo: Nhặt từ map at 03/20/2023 11:48 AM
+BAG:messi add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/20/2023 11:49 AM
+BAG:messi add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/20/2023 11:51 AM
+BAG:messi add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/20/2023 11:51 AM
+BAG:messi add 5xPháo hoa lydo: Nhặt từ map at 03/20/2023 11:51 AM
+BAG:messi add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/20/2023 11:51 AM
+BAG:messi add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/20/2023 11:52 AM
+BAG:messi add 10xĐậu thần cấp 2 (old: 5) lydo: Thu hoạch đậu at 03/20/2023 11:53 AM
+BAG:messi add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/20/2023 11:54 AM
+BAG:messi add 1xĐá Titan lydo: Nhặt từ map at 03/20/2023 11:55 AM
+BAG:messi add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/20/2023 11:55 AM
+BAG:messi add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/20/2023 11:55 AM
+BAG:messi add 1xNgọc Rồng 5 sao lydo: HQT at 03/20/2023 11:55 AM
+BAG:messi add 1xBổ huyết lydo: HQT at 03/20/2023 11:55 AM
+BAG:messi add 1xNgọc Rồng 6 sao lydo: HQT at 03/20/2023 11:55 AM
+BAG:messi add 1xBổ khí lydo: HQT at 03/20/2023 11:55 AM
+BAG:messi add 5xPháo hoa lydo: Nhặt từ map at 03/20/2023 11:56 AM
+BAG:messi add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/20/2023 11:57 AM
+BAG:messi add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/20/2023 11:57 AM
+BAG:messi add 1xGăng len cứng lydo: Lấy từ body vào hành trang at 03/20/2023 11:57 AM
+BAG:messi add 10xĐậu thần cấp 2 (old: 7) lydo: Thu hoạch đậu at 03/20/2023 11:57 AM
+BAG:messi add 30xĐậu thần cấp 2 (old: 10) lydo: Lấy từ rương qua người at 03/20/2023 11:57 AM
+BAG:messi add 44xĐậu thần cấp 2 (old: 30) lydo: Lấy từ rương qua người at 03/20/2023 11:57 AM
+BAG:messi add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/20/2023 11:58 AM
+BAG:messi add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/20/2023 11:59 AM
+BAG:messi add 15xPháo hoa (old: 10) lydo: Nhặt từ map at 03/20/2023 12:01 PM
+BAG:messi add 20xPháo hoa (old: 15) lydo: Nhặt từ map at 03/20/2023 12:01 PM
+BAG:messi add 1xĐá Saphia lydo: Nhặt từ map at 03/20/2023 12:03 PM
+BAG:messi add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/20/2023 12:04 PM
+BAG:messi add 25xPháo hoa (old: 20) lydo: Nhặt từ map at 03/20/2023 12:04 PM
+BAG:messi add 1xĐá lục bảo lydo: Nhặt từ map at 03/20/2023 12:05 PM
+BAG:messi add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/20/2023 12:06 PM
+BAG:messi add 30xPháo hoa (old: 25) lydo: Nhặt từ map at 03/20/2023 12:06 PM
+BAG:messi add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/20/2023 12:07 PM
+BAG:messi add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/20/2023 12:07 PM
+BAG:messi add 35xPháo hoa (old: 30) lydo: Nhặt từ map at 03/20/2023 12:08 PM
+BAG:messi add 40xPháo hoa (old: 35) lydo: Nhặt từ map at 03/20/2023 12:09 PM
+BAG:messi add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/20/2023 12:10 PM
+BAG:messi add 45xPháo hoa (old: 40) lydo: Nhặt từ map at 03/20/2023 12:11 PM
+BAG:messi add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/20/2023 12:11 PM
+BAG:messi add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/20/2023 12:13 PM
+BAG:messi add 2xBổ huyết (old: 1) lydo: HQT at 03/20/2023 12:13 PM
+BAG:messi add 1xNgọc Rồng 7 sao lydo: HQT at 03/20/2023 12:13 PM
+BAG:messi add 2xBổ khí (old: 1) lydo: HQT at 03/20/2023 12:13 PM
+BAG:messi add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/20/2023 12:13 PM
+BAG:messi add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/20/2023 12:13 PM
+BAG:messi add 3xBổ khí (old: 2) lydo: HQT at 03/20/2023 12:13 PM
+BAG:messi add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/20/2023 12:13 PM
+BAG:messi add 4xBổ khí (old: 3) lydo: HQT at 03/20/2023 12:13 PM
+BAG:messi add 1xCuồng nộ lydo: HQT at 03/20/2023 12:13 PM
+BAG:messi add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/20/2023 12:13 PM
+BAG:messi add 3xBổ huyết (old: 2) lydo: HQT at 03/20/2023 12:14 PM
+BAG:messi add 1xGiáp Xên bọ hung lydo: HQT at 03/20/2023 12:14 PM
+BAG:messi add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/20/2023 12:14 PM
+BAG:messi add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/20/2023 12:14 PM
+BAG:messi add 4xBổ huyết (old: 3) lydo: HQT at 03/20/2023 12:14 PM
+BAG:messi add 2xCuồng nộ (old: 1) lydo: HQT at 03/20/2023 12:14 PM
+BAG:messi add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/20/2023 12:14 PM
+BAG:messi add 5xBổ khí (old: 4) lydo: HQT at 03/20/2023 12:14 PM
+BAG:messi add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/20/2023 12:14 PM
+BAG:messi add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/20/2023 12:14 PM
+BAG:messi add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/20/2023 12:14 PM
+BAG:messi add 47xĐậu thần cấp 2 (old: 27) lydo: Lấy từ rương qua người at 03/20/2023 12:16 PM
+BAG:messi add 67xĐậu thần cấp 2 (old: 47) lydo: Lấy từ rương qua người at 03/20/2023 12:16 PM
+BAG:messi add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/20/2023 12:17 PM
+BAG:messi add 5xPháo hoa lydo: Nhặt từ map at 03/20/2023 12:18 PM
+BAG:messi add 10xPháo hoa (old: 5) lydo: Nhặt từ map at 03/20/2023 12:19 PM
+BAG:messi add 6xBổ khí (old: 5) lydo: HQT at 03/20/2023 12:19 PM
+BAG:messi add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/20/2023 12:19 PM
+BAG:messi add 3xCuồng nộ (old: 2) lydo: HQT at 03/20/2023 12:19 PM
+BAG:messi add 5xBổ huyết (old: 4) lydo: HQT at 03/20/2023 12:19 PM
+BAG:messi add 6xBổ huyết (old: 5) lydo: HQT at 03/20/2023 12:19 PM

@@ -1,0 +1,1268 @@
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 11:51 AM
+BAG:trunks add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 11:51 AM
+BAG:trunks add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 11:52 AM
+BAG:trunks add 1000000xThỏi vàng lydo: Giftcode at 03/02/2023 11:52 AM
+BAG:trunks add 10000xĐá ngũ sắc lydo: Giftcode at 03/02/2023 11:52 AM
+BAG:trunks add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/02/2023 11:55 AM
+BAG:trunks add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 11:55 AM
+BAG:trunks add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/02/2023 11:55 AM
+BAG:trunks add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 11:56 AM
+BAG:trunks add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 11:56 AM
+BAG:trunks add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 11:58 AM
+BAG:trunks add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 12:01 PM
+BAG:trunks add 1xBột mì lydo: Nhặt từ map at 03/02/2023 12:03 PM
+BAG:trunks add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 12:03 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 12:04 PM
+BAG:trunks add 1xAvatar lydo: Mua từ cửa hàng at 03/02/2023 12:04 PM
+BAG:trunks add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/02/2023 12:05 PM
+BAG:trunks add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/02/2023 12:07 PM
+BAG:trunks add 1xCải Trang Zeno lydo: Mua từ bill at 03/02/2023 12:09 PM
+BAG:trunks add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/02/2023 12:10 PM
+BAG:trunks add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 12:11 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 12:12 PM
+BAG:trunks add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/02/2023 12:12 PM
+BAG:trunks add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 12:12 PM
+BAG:trunks add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/02/2023 12:12 PM
+BAG:trunks add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 12:12 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 12:12 PM
+BAG:trunks add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/02/2023 12:12 PM
+BAG:trunks add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 12:12 PM
+BAG:trunks add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/02/2023 12:12 PM
+BAG:trunks add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/02/2023 12:12 PM
+BAG:trunks add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/02/2023 12:13 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 12:13 PM
+BAG:trunks add 1xMèo mun lydo: Mua từ cửa hàng at 03/02/2023 12:13 PM
+BAG:trunks add 1000016xThỏi vàng (old: 999996) lydo: Đổi vàng at 03/02/2023 12:14 PM
+BAG:trunks add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 12:14 PM
+BAG:trunks add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 12:14 PM
+BAG:trunks add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 12:15 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/02/2023 12:16 PM
+BAG:trunks add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 39xĐá Vĩnh Hằng (old: 38) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 39xĐá Hắc Hóa (old: 38) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 40xĐá Vĩnh Hằng (old: 39) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 40xĐá Hắc Hóa (old: 39) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 41xĐá Vĩnh Hằng (old: 40) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 41xĐá Hắc Hóa (old: 40) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 42xĐá Vĩnh Hằng (old: 41) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 42xĐá Hắc Hóa (old: 41) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 43xĐá Vĩnh Hằng (old: 42) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 43xĐá Hắc Hóa (old: 42) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 44xĐá Vĩnh Hằng (old: 43) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 44xĐá Hắc Hóa (old: 43) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 45xĐá Vĩnh Hằng (old: 44) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 45xĐá Hắc Hóa (old: 44) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 46xĐá Vĩnh Hằng (old: 45) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 46xĐá Hắc Hóa (old: 45) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 47xĐá Vĩnh Hằng (old: 46) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 47xĐá Hắc Hóa (old: 46) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 48xĐá Vĩnh Hằng (old: 47) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 48xĐá Hắc Hóa (old: 47) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 49xĐá Vĩnh Hằng (old: 48) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 49xĐá Hắc Hóa (old: 48) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 50xĐá Vĩnh Hằng (old: 49) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 50xĐá Hắc Hóa (old: 49) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 51xĐá Vĩnh Hằng (old: 50) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 51xĐá Hắc Hóa (old: 50) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 52xĐá Vĩnh Hằng (old: 51) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 52xĐá Hắc Hóa (old: 51) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 53xĐá Vĩnh Hằng (old: 52) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 53xĐá Hắc Hóa (old: 52) lydo: Mua santa at 03/02/2023 12:17 PM
+BAG:trunks add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 12:18 PM
+BAG:trunks add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 12:18 PM
+BAG:trunks add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 12:18 PM
+BAG:trunks add 48xĐá Vĩnh Hằng (old: 47) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 48xĐá Hắc Hóa (old: 47) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 49xĐá Vĩnh Hằng (old: 48) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 49xĐá Hắc Hóa (old: 48) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 50xĐá Vĩnh Hằng (old: 49) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 50xĐá Hắc Hóa (old: 49) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 51xĐá Vĩnh Hằng (old: 50) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 51xĐá Hắc Hóa (old: 50) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 52xĐá Vĩnh Hằng (old: 51) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 52xĐá Hắc Hóa (old: 51) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 53xĐá Vĩnh Hằng (old: 52) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 53xĐá Hắc Hóa (old: 52) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 54xĐá Vĩnh Hằng (old: 53) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 54xĐá Hắc Hóa (old: 53) lydo: Mua santa at 03/02/2023 12:20 PM
+BAG:trunks add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 12:20 PM
+BAG:trunks add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 12:20 PM
+BAG:trunks add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 12:20 PM
+BAG:trunks add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 12:20 PM
+BAG:trunks add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 12:20 PM
+BAG:trunks add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 12:20 PM
+BAG:trunks add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/02/2023 12:20 PM
+BAG:trunks add 28xĐậu thần cấp 10 (old: 12) lydo: Lấy từ rương qua người at 03/02/2023 12:22 PM
+BAG:trunks add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 12:23 PM
+BAG:trunks add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/02/2023 12:24 PM
+BAG:trunks add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/02/2023 12:24 PM
+BAG:trunks add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 12:25 PM
+BAG:trunks add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 12:26 PM
+BAG:trunks add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 12:27 PM
+BAG:trunks add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/02/2023 12:35 PM
+BAG:trunks add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/02/2023 12:35 PM
+BAG:trunks add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/02/2023 12:35 PM
+BAG:trunks add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/02/2023 12:35 PM
+BAG:trunks add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/02/2023 12:37 PM
+BAG:trunks add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/02/2023 12:37 PM
+BAG:trunks add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/02/2023 12:40 PM
+BAG:trunks add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/02/2023 12:41 PM
+BAG:trunks add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/02/2023 12:42 PM
+BAG:trunks add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/02/2023 12:42 PM
+BAG:trunks add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/02/2023 12:42 PM
+BAG:trunks add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/02/2023 12:42 PM
+BAG:trunks add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/02/2023 12:43 PM
+BAG:trunks add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/02/2023 12:43 PM
+BAG:trunks add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/02/2023 12:43 PM
+BAG:trunks add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/02/2023 12:44 PM
+BAG:trunks add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/02/2023 12:44 PM
+BAG:trunks add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/02/2023 12:44 PM
+BAG:trunks add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 12:45 PM
+BAG:trunks add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/02/2023 12:46 PM
+BAG:trunks add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/02/2023 12:46 PM
+BAG:trunks add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/02/2023 12:47 PM
+BAG:trunks add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/02/2023 12:47 PM
+BAG:trunks add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/02/2023 12:48 PM
+BAG:trunks add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/02/2023 12:48 PM
+BAG:trunks add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/02/2023 12:48 PM
+BAG:trunks add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/02/2023 12:49 PM
+BAG:trunks add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/02/2023 12:50 PM
+BAG:trunks add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/02/2023 12:50 PM
+BAG:trunks add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/02/2023 12:51 PM
+BAG:trunks add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/02/2023 12:51 PM
+BAG:trunks add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/02/2023 12:51 PM
+BAG:trunks add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/02/2023 12:51 PM
+BAG:trunks add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/02/2023 12:51 PM
+BAG:trunks add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/02/2023 12:52 PM
+BAG:trunks add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/02/2023 12:52 PM
+BAG:trunks add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/02/2023 12:53 PM
+BAG:trunks add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/02/2023 12:53 PM
+BAG:trunks add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/02/2023 12:54 PM
+BAG:trunks add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/02/2023 12:54 PM
+BAG:trunks add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/02/2023 12:54 PM
+BAG:trunks add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/02/2023 12:54 PM
+BAG:trunks add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/02/2023 1:05 PM
+BAG:trunks add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/02/2023 1:06 PM
+BAG:trunks add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/02/2023 1:06 PM
+BAG:trunks add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/02/2023 1:06 PM
+BAG:trunks add 1xĐá Ruby lydo: Nhặt từ map at 03/02/2023 1:07 PM
+BAG:trunks add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/02/2023 1:08 PM
+BAG:trunks add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/02/2023 1:08 PM
+BAG:trunks add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/02/2023 1:14 PM
+BAG:trunks add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/02/2023 1:16 PM
+BAG:trunks add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/02/2023 1:16 PM
+BAG:trunks add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/02/2023 1:17 PM
+BAG:trunks add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/02/2023 1:18 PM
+BAG:trunks add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/02/2023 1:18 PM
+BAG:trunks add 10xĐậu thần cấp 10 (old: 5) lydo: Thu hoạch đậu at 03/02/2023 1:21 PM
+BAG:trunks add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 1:22 PM
+BAG:trunks add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/02/2023 1:22 PM
+BAG:trunks add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/02/2023 1:22 PM
+BAG:trunks add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/02/2023 1:22 PM
+BAG:trunks add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/02/2023 1:54 PM
+BAG:trunks add 1xĐá Titan lydo: Nhặt từ map at 03/02/2023 2:20 PM
+BAG:trunks add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/02/2023 2:22 PM
+BAG:trunks add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/02/2023 2:22 PM
+BAG:trunks add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 2:22 PM
+BAG:trunks add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 2:23 PM
+BAG:trunks add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 2:26 PM
+BAG:trunks add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 2:26 PM
+BAG:trunks add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 2:26 PM
+BAG:trunks add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 2:26 PM
+BAG:trunks add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 2:26 PM
+BAG:trunks add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/02/2023 2:26 PM
+BAG:trunks add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/02/2023 2:26 PM
+BAG:trunks add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/02/2023 2:26 PM
+BAG:trunks add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 21xĐổi đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/02/2023 2:28 PM
+BAG:trunks add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/02/2023 2:52 PM
+BAG:trunks add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/02/2023 2:52 PM
+BAG:trunks add 1xGăng lưỡng long lydo: (GD) Nhận từ light at 03/02/2023 4:17 PM
+BAG:trunks add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/02/2023 4:17 PM
+BAG:trunks add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 4:21 PM
+BAG:trunks add 1xBánh trung thu thập cẩm lydo: Làm bánh at 03/02/2023 4:23 PM
+BAG:trunks add 1xRada cấp 6 lydo: Mua từ cửa hàng at 03/02/2023 4:30 PM
+BAG:trunks add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/02/2023 5:02 PM
+BAG:trunks add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/02/2023 5:02 PM
+BAG:trunks add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/02/2023 5:02 PM
+BAG:trunks add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 5:02 PM
+BAG:trunks add 1xSao pha lê lydo: Lấy từ lucky box at 03/02/2023 5:03 PM
+BAG:trunks add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/02/2023 5:05 PM
+BAG:trunks add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 5:10 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 5:10 PM
+BAG:trunks add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 5:10 PM
+BAG:trunks add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 5:10 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 5:11 PM
+BAG:trunks add 1xBột mì lydo: Nhặt từ map at 03/02/2023 5:11 PM
+BAG:trunks add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 5:11 PM
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 5:11 PM
+BAG:trunks add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 5:11 PM
+BAG:trunks add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 5:11 PM
+BAG:trunks add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 5:12 PM
+BAG:trunks add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 5:12 PM
+BAG:trunks add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 5:12 PM
+BAG:trunks add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 5:12 PM
+BAG:trunks add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 5:12 PM
+BAG:trunks add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 5:12 PM
+BAG:trunks add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 5:12 PM
+BAG:trunks add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 5:13 PM
+BAG:trunks add 1xĐá Ruby lydo: Nhặt từ map at 03/02/2023 5:13 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 5:13 PM
+BAG:trunks add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 5:13 PM
+BAG:trunks add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 5:13 PM
+BAG:trunks add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 5:17 PM
+BAG:trunks add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 5:18 PM
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 5:18 PM
+BAG:trunks add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 5:18 PM
+BAG:trunks add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 5:18 PM
+BAG:trunks add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 5:18 PM
+BAG:trunks add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 5:19 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 5:19 PM
+BAG:trunks add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 5:19 PM
+BAG:trunks add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 5:19 PM
+BAG:trunks add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 5:19 PM
+BAG:trunks add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 5:19 PM
+BAG:trunks add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 5:19 PM
+BAG:trunks add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 5:20 PM
+BAG:trunks add 1xCải trang Super Cumber lydo: Mua từ bill at 03/02/2023 5:22 PM
+BAG:trunks add 1xÁo jean Calic lydo: Mua từ cửa hàng at 03/02/2023 5:22 PM
+BAG:trunks add 1xQuần jean Calic lydo: Mua từ cửa hàng at 03/02/2023 5:22 PM
+BAG:trunks add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/02/2023 5:22 PM
+BAG:trunks add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/02/2023 5:22 PM
+BAG:trunks add 1xRada cấp 12 lydo: Mua từ cửa hàng at 03/02/2023 5:22 PM
+BAG:trunks add 1xRada cấp 12 lydo: Lấy từ body vào hành trang at 03/02/2023 5:34 PM
+BAG:trunks add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/02/2023 5:34 PM
+BAG:trunks add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/02/2023 5:34 PM
+BAG:trunks add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/02/2023 5:34 PM
+BAG:trunks add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/02/2023 5:34 PM
+BAG:trunks add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/02/2023 5:34 PM
+BAG:trunks add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/02/2023 5:34 PM
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 5:35 PM
+BAG:trunks add 1xRada cấp 6 lydo: Lấy từ body vào hành trang at 03/02/2023 5:36 PM
+BAG:trunks add 1xCải trang Đôrêmon lydo: Lấy từ body vào hành trang at 03/02/2023 5:37 PM
+BAG:trunks add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 6:02 PM
+BAG:trunks add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/02/2023 6:04 PM
+BAG:trunks add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/02/2023 6:05 PM
+BAG:trunks add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/02/2023 6:05 PM
+BAG:trunks add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/02/2023 6:05 PM
+BAG:trunks add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/02/2023 6:05 PM
+BAG:trunks add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/02/2023 6:05 PM
+BAG:trunks add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/02/2023 6:05 PM
+BAG:trunks add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/02/2023 6:05 PM
+BAG:trunks add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/02/2023 6:05 PM
+BAG:trunks add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/02/2023 6:07 PM
+BAG:trunks add 1xRada cấp 6 lydo: Lấy từ body đệ vào hành trang at 03/02/2023 6:29 PM
+BAG:trunks add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/02/2023 6:32 PM
+BAG:trunks add 1xRada cấp 6 lydo: Lấy từ body vào hành trang at 03/02/2023 6:34 PM
+BAG:trunks add 1xĐá Titan lydo: Nhặt từ map at 03/02/2023 6:40 PM
+BAG:trunks add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/02/2023 7:28 PM
+BAG:trunks add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/02/2023 7:28 PM
+BAG:trunks add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/02/2023 7:28 PM
+BAG:trunks add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/02/2023 7:28 PM
+BAG:trunks add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/02/2023 7:28 PM
+BAG:trunks add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 7:51 PM
+BAG:trunks add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 7:51 PM
+BAG:trunks add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 7:51 PM
+BAG:trunks add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 7:51 PM
+BAG:trunks add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 7:52 PM
+BAG:trunks add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 7:52 PM
+BAG:trunks add 1xCải trang lydo: Mua từ bill at 03/02/2023 7:54 PM
+BAG:trunks add 99xCuồng nộ lydo: Admin at 03/02/2023 8:13 PM
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 8:44 PM
+BAG:trunks add 1xÁo jean Calic lydo: Lấy từ body vào hành trang at 03/02/2023 8:44 PM
+BAG:trunks add 1xQuần jean Calic lydo: Lấy từ body vào hành trang at 03/02/2023 8:44 PM
+BAG:trunks add 1xGăng jean Calic lydo: Lấy từ body vào hành trang at 03/02/2023 8:44 PM
+BAG:trunks add 1xRada cấp 12 lydo: Lấy từ body vào hành trang at 03/02/2023 8:44 PM
+BAG:trunks add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 8:44 PM
+BAG:trunks add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 8:44 PM
+BAG:trunks add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 8:45 PM
+BAG:trunks add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 8:45 PM
+BAG:trunks add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 8:45 PM
+BAG:trunks add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 8:45 PM
+BAG:trunks add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 8:46 PM
+BAG:trunks add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 8:46 PM
+BAG:trunks add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 8:46 PM
+BAG:trunks add 1xBột mì lydo: Nhặt từ map at 03/02/2023 8:46 PM
+BAG:trunks add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/02/2023 8:46 PM
+BAG:trunks add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/02/2023 8:46 PM
+BAG:trunks add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 8:46 PM
+BAG:trunks add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/02/2023 8:46 PM
+BAG:trunks add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 8:46 PM
+BAG:trunks add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 8:47 PM
+BAG:trunks add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 8:47 PM
+BAG:trunks add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/02/2023 8:47 PM
+BAG:trunks add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 8:47 PM
+BAG:trunks add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/02/2023 8:48 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 8:48 PM
+BAG:trunks add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 8:48 PM
+BAG:trunks add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 8:48 PM
+BAG:trunks add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 8:49 PM
+BAG:trunks add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/02/2023 8:49 PM
+BAG:trunks add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/02/2023 8:49 PM
+BAG:trunks add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/02/2023 8:49 PM
+BAG:trunks add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 8:49 PM
+BAG:trunks add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/02/2023 8:49 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 8:49 PM
+BAG:trunks add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:trunks add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:trunks add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:trunks add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:trunks add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:trunks add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 8:50 PM
+BAG:trunks add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/02/2023 8:51 PM
+BAG:trunks add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/02/2023 8:51 PM
+BAG:trunks add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 8:51 PM
+BAG:trunks add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/02/2023 8:51 PM
+BAG:trunks add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/02/2023 8:51 PM
+BAG:trunks add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/02/2023 8:51 PM
+BAG:trunks add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/02/2023 8:51 PM
+BAG:trunks add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/02/2023 8:52 PM
+BAG:trunks add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 8:52 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/02/2023 8:53 PM
+BAG:trunks add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 33xĐá Vĩnh Hằng (old: 32) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 33xĐá Hắc Hóa (old: 32) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 34xĐá Vĩnh Hằng (old: 33) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 34xĐá Hắc Hóa (old: 33) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 35xĐá Vĩnh Hằng (old: 34) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 35xĐá Hắc Hóa (old: 34) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 36xĐá Vĩnh Hằng (old: 35) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 36xĐá Hắc Hóa (old: 35) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 37xĐá Vĩnh Hằng (old: 36) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 37xĐá Hắc Hóa (old: 36) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 38xĐá Vĩnh Hằng (old: 37) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 38xĐá Hắc Hóa (old: 37) lydo: Mua santa at 03/02/2023 8:54 PM
+BAG:trunks add 1xÁo bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 8:54 PM
+BAG:trunks add 1xQuần bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 8:54 PM
+BAG:trunks add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 8:54 PM
+BAG:trunks add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 8:54 PM
+BAG:trunks add 1xRada cấp 9 lydo: Cường Hóa trang bị at 03/02/2023 8:55 PM
+BAG:trunks add 1xÁo jean Calic lydo: Cường Hóa trang bị at 03/02/2023 8:55 PM
+BAG:trunks add 1xQuần jean Calic lydo: Cường Hóa trang bị at 03/02/2023 8:55 PM
+BAG:trunks add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/02/2023 8:55 PM
+BAG:trunks add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/02/2023 8:55 PM
+BAG:trunks add 1xRada cấp 12 lydo: Cường Hóa trang bị at 03/02/2023 8:55 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 8:55 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 8:55 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 8:55 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 8:55 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/02/2023 8:56 PM
+BAG:trunks add 1xÁo Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 8:57 PM
+BAG:trunks add 1xQuần Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 8:57 PM
+BAG:trunks add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 8:57 PM
+BAG:trunks add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 8:57 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 1xNhẫn Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 8:57 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 8:57 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/02/2023 8:58 PM
+BAG:trunks add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/02/2023 8:59 PM
+BAG:trunks add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/02/2023 8:59 PM
+BAG:trunks add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/02/2023 8:59 PM
+BAG:trunks add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/02/2023 8:59 PM
+BAG:trunks add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/02/2023 8:59 PM
+BAG:trunks add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/02/2023 8:59 PM
+BAG:trunks add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/02/2023 8:59 PM
+BAG:trunks add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/02/2023 8:59 PM
+BAG:trunks add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/02/2023 8:59 PM
+BAG:trunks add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/02/2023 8:59 PM
+BAG:trunks add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 8:59 PM
+BAG:trunks add 1xQuần Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 8:59 PM
+BAG:trunks add 1xÁo Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 8:59 PM
+BAG:trunks add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 9:00 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/02/2023 9:01 PM
+BAG:trunks add 1xNhẫn Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 9:02 PM
+BAG:trunks add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 9:02 PM
+BAG:trunks add 1xGăng bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 9:03 PM
+BAG:trunks add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 9:03 PM
+BAG:trunks add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 9:03 PM
+BAG:trunks add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 27xĐá Vĩnh Hằng (old: 26) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 27xĐá Hắc Hóa (old: 26) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 28xĐá Vĩnh Hằng (old: 27) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 28xĐá Hắc Hóa (old: 27) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 29xĐá Vĩnh Hằng (old: 28) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 29xĐá Hắc Hóa (old: 28) lydo: Mua santa at 03/02/2023 9:04 PM
+BAG:trunks add 30xĐá Vĩnh Hằng (old: 29) lydo: Mua santa at 03/02/2023 9:05 PM
+BAG:trunks add 30xĐá Hắc Hóa (old: 29) lydo: Mua santa at 03/02/2023 9:05 PM
+BAG:trunks add 31xĐá Vĩnh Hằng (old: 30) lydo: Mua santa at 03/02/2023 9:05 PM
+BAG:trunks add 31xĐá Hắc Hóa (old: 30) lydo: Mua santa at 03/02/2023 9:05 PM
+BAG:trunks add 32xĐá Vĩnh Hằng (old: 31) lydo: Mua santa at 03/02/2023 9:05 PM
+BAG:trunks add 32xĐá Hắc Hóa (old: 31) lydo: Mua santa at 03/02/2023 9:05 PM
+BAG:trunks add 1xGăng jean Calic lydo: Cường Hóa trang bị at 03/02/2023 9:05 PM
+BAG:trunks add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/02/2023 9:05 PM
+BAG:trunks add 1xGăng Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 9:05 PM
+BAG:trunks add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 9:05 PM
+BAG:trunks add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 9:05 PM
+BAG:trunks add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 9:05 PM
+BAG:trunks add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/02/2023 9:06 PM
+BAG:trunks add 1xGăng Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 9:07 PM
+BAG:trunks add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/02/2023 9:07 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 9:07 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 9:07 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 9:07 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 9:07 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 9:07 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 9:07 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 9:07 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 9:07 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 9:08 PM
+BAG:trunks add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 9:09 PM
+BAG:trunks add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 9:09 PM
+BAG:trunks add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/02/2023 9:09 PM
+BAG:trunks add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:09 PM
+BAG:trunks add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/02/2023 9:09 PM
+BAG:trunks add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/02/2023 9:09 PM
+BAG:trunks add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 9:10 PM
+BAG:trunks add 1xBột mì lydo: Nhặt từ map at 03/02/2023 9:10 PM
+BAG:trunks add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:10 PM
+BAG:trunks add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:10 PM
+BAG:trunks add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 9:10 PM
+BAG:trunks add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 9:10 PM
+BAG:trunks add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/02/2023 9:11 PM
+BAG:trunks add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 21xĐá Vĩnh Hằng (old: 20) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 21xĐá Hắc Hóa (old: 20) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 22xĐá Vĩnh Hằng (old: 21) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 22xĐá Hắc Hóa (old: 21) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 23xĐá Vĩnh Hằng (old: 22) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 23xĐá Hắc Hóa (old: 22) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 24xĐá Vĩnh Hằng (old: 23) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 24xĐá Hắc Hóa (old: 23) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 25xĐá Vĩnh Hằng (old: 24) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 25xĐá Hắc Hóa (old: 24) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 26xĐá Vĩnh Hằng (old: 25) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 26xĐá Hắc Hóa (old: 25) lydo: Mua santa at 03/02/2023 9:12 PM
+BAG:trunks add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 9:12 PM
+BAG:trunks add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/02/2023 9:12 PM
+BAG:trunks add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 9:12 PM
+BAG:trunks add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 9:12 PM
+BAG:trunks add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 9:12 PM
+BAG:trunks add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/02/2023 9:13 PM
+BAG:trunks add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 9:13 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 9:14 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 9:14 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 9:14 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 9:14 PM
+BAG:trunks add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 9:14 PM
+BAG:trunks add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 9:14 PM
+BAG:trunks add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 9:14 PM
+BAG:trunks add 1xBột mì lydo: Nhặt từ map at 03/02/2023 9:14 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:trunks add 1xBột mì lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:trunks add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:trunks add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 9:15 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:trunks add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:trunks add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 9:16 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:trunks add 1xBột mì lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:trunks add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:trunks add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:trunks add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:trunks add 1xBột mì lydo: Nhặt từ map at 03/02/2023 9:17 PM
+BAG:trunks add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:trunks add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:trunks add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:trunks add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:trunks add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 9:18 PM
+BAG:trunks add 1xCải trang lydo: Lấy từ body vào hành trang at 03/02/2023 9:19 PM
+BAG:trunks add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:trunks add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:trunks add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:trunks add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:trunks add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:trunks add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:trunks add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:trunks add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:trunks add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:19 PM
+BAG:trunks add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:trunks add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:trunks add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:trunks add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/02/2023 9:20 PM
+BAG:trunks add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 9:21 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/02/2023 9:22 PM
+BAG:trunks add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 9:22 PM
+BAG:trunks add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/02/2023 9:22 PM
+BAG:trunks add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 9:22 PM
+BAG:trunks add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 9:22 PM
+BAG:trunks add 1xBột mì lydo: Nhặt từ map at 03/02/2023 9:23 PM
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 9:23 PM
+BAG:trunks add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/02/2023 9:23 PM
+BAG:trunks add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 9:23 PM
+BAG:trunks add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/02/2023 9:23 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:trunks add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:trunks add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:trunks add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:trunks add 1xRada cấp 1 lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:trunks add 1xBột mì lydo: Nhặt từ map at 03/02/2023 9:24 PM
+BAG:trunks add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/02/2023 9:25 PM
+BAG:trunks add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/02/2023 9:25 PM
+BAG:trunks add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 9:25 PM
+BAG:trunks add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/02/2023 9:25 PM
+BAG:trunks add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 9:25 PM
+BAG:trunks add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 9:25 PM
+BAG:trunks add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:25 PM
+BAG:trunks add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/02/2023 9:25 PM
+BAG:trunks add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 9:26 PM
+BAG:trunks add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/02/2023 9:26 PM
+BAG:trunks add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/02/2023 9:26 PM
+BAG:trunks add 1xGăng vải đen lydo: Nhặt từ map at 03/02/2023 9:26 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 9:26 PM
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 9:26 PM
+BAG:trunks add 1xTrứng vịt muối lydo: Nhặt từ map at 03/02/2023 9:26 PM
+BAG:trunks add 1xGà quay nguyên con lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:trunks add 1xQuần vải đen lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:trunks add 1xBột mì lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:trunks add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:trunks add 1xGiầy nhựa lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:trunks add 1xĐậu xanh lydo: Nhặt từ map at 03/02/2023 9:27 PM
+BAG:trunks add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/02/2023 9:28 PM
+BAG:trunks add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/02/2023 9:28 PM
+BAG:trunks add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 9:28 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/02/2023 9:29 PM
+BAG:trunks add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 9:29 PM
+BAG:trunks add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/02/2023 9:29 PM
+BAG:trunks add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 9:29 PM
+BAG:trunks add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 9:29 PM
+BAG:trunks add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 1xĐá Hắc Hóa lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 5xĐá Vĩnh Hằng (old: 4) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 5xĐá Hắc Hóa (old: 4) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 6xĐá Vĩnh Hằng (old: 5) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 6xĐá Hắc Hóa (old: 5) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 7xĐá Vĩnh Hằng (old: 6) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 7xĐá Hắc Hóa (old: 6) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 8xĐá Vĩnh Hằng (old: 7) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 8xĐá Hắc Hóa (old: 7) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 9xĐá Vĩnh Hằng (old: 8) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 9xĐá Hắc Hóa (old: 8) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 10xĐá Vĩnh Hằng (old: 9) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 10xĐá Hắc Hóa (old: 9) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 11xĐá Vĩnh Hằng (old: 10) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 11xĐá Hắc Hóa (old: 10) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 12xĐá Vĩnh Hằng (old: 11) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 12xĐá Hắc Hóa (old: 11) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 13xĐá Vĩnh Hằng (old: 12) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 13xĐá Hắc Hóa (old: 12) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 14xĐá Vĩnh Hằng (old: 13) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 14xĐá Hắc Hóa (old: 13) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 15xĐá Vĩnh Hằng (old: 14) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 15xĐá Hắc Hóa (old: 14) lydo: Mua santa at 03/02/2023 9:30 PM
+BAG:trunks add 16xĐá Vĩnh Hằng (old: 15) lydo: Mua santa at 03/02/2023 9:31 PM
+BAG:trunks add 16xĐá Hắc Hóa (old: 15) lydo: Mua santa at 03/02/2023 9:31 PM
+BAG:trunks add 17xĐá Vĩnh Hằng (old: 16) lydo: Mua santa at 03/02/2023 9:31 PM
+BAG:trunks add 17xĐá Hắc Hóa (old: 16) lydo: Mua santa at 03/02/2023 9:31 PM
+BAG:trunks add 18xĐá Vĩnh Hằng (old: 17) lydo: Mua santa at 03/02/2023 9:31 PM
+BAG:trunks add 18xĐá Hắc Hóa (old: 17) lydo: Mua santa at 03/02/2023 9:31 PM
+BAG:trunks add 19xĐá Vĩnh Hằng (old: 18) lydo: Mua santa at 03/02/2023 9:31 PM
+BAG:trunks add 19xĐá Hắc Hóa (old: 18) lydo: Mua santa at 03/02/2023 9:31 PM
+BAG:trunks add 20xĐá Vĩnh Hằng (old: 19) lydo: Mua santa at 03/02/2023 9:31 PM
+BAG:trunks add 20xĐá Hắc Hóa (old: 19) lydo: Mua santa at 03/02/2023 9:31 PM
+BAG:trunks add 1xGiày bạc Goku lydo: Cường Hóa trang bị at 03/02/2023 9:31 PM
+BAG:trunks add 1xGiày jean Calic lydo: Cường Hóa trang bị at 03/02/2023 9:31 PM
+BAG:trunks add 1xGiày Thần Linh lydo: Cường Hóa trang bị at 03/02/2023 9:31 PM
+BAG:trunks add 1xGiầy Hủy Diệt lydo: Cường Hóa trang bị at 03/02/2023 9:31 PM
+BAG:trunks add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 03/02/2023 9:32 PM
+BAG:trunks add 1xQuần Hủy Diệt lydo: Lấy từ body vào hành trang at 03/02/2023 9:32 PM
+BAG:trunks add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 03/02/2023 9:32 PM
+BAG:trunks add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 03/02/2023 9:32 PM
+BAG:trunks add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 03/02/2023 9:32 PM
+BAG:trunks add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/02/2023 9:41 PM
+BAG:trunks add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/02/2023 9:41 PM
+BAG:trunks add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xQuả cầu Kênh Khi lv2 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xQuả cầu Kênh Khi lv3 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xQuả cầu Kênh Khi lv4 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xQuả cầu Kênh Khi lv5 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xQuả cầu Kênh Khi lv6 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xQuả cầu Kênh Khi lv7 lydo: Mua từ cửa hàng at 03/02/2023 9:43 PM
+BAG:trunks add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/02/2023 9:44 PM
+BAG:trunks add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/02/2023 9:44 PM
+BAG:trunks add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/02/2023 9:44 PM
+BAG:trunks add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/02/2023 9:44 PM
+BAG:trunks add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/02/2023 9:44 PM
+BAG:trunks add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/02/2023 9:44 PM
+BAG:trunks add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 03/02/2023 9:44 PM
+BAG:trunks add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/02/2023 9:46 PM
+BAG:trunks add 1xRada cấp 6 lydo: Lấy từ body đệ vào hành trang at 03/02/2023 9:49 PM
+BAG:trunks add 1xCải Trang Zeno lydo: Lấy từ body đệ vào hành trang at 03/02/2023 9:49 PM
+BAG:trunks add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/02/2023 9:49 PM
+BAG:trunks add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/02/2023 9:50 PM
+BAG:trunks add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 8xNâng cấp kỹ năng 1 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 9xNâng cấp kỹ năng 1 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 10xNâng cấp kỹ năng 1 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 11xNâng cấp kỹ năng 1 đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 12xNâng cấp kỹ năng 1 đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 13xNâng cấp kỹ năng 1 đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 14xNâng cấp kỹ năng 1 đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 15xNâng cấp kỹ năng 1 đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 16xNâng cấp kỹ năng 1 đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 17xNâng cấp kỹ năng 1 đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 18xNâng cấp kỹ năng 1 đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 19xNâng cấp kỹ năng 1 đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 20xNâng cấp kỹ năng 1 đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 21xNâng cấp kỹ năng 1 đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 22xNâng cấp kỹ năng 1 đệ tử (old: 21) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 23xNâng cấp kỹ năng 1 đệ tử (old: 22) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 24xNâng cấp kỹ năng 1 đệ tử (old: 23) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 25xNâng cấp kỹ năng 1 đệ tử (old: 24) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 26xNâng cấp kỹ năng 1 đệ tử (old: 25) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 27xNâng cấp kỹ năng 1 đệ tử (old: 26) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 28xNâng cấp kỹ năng 1 đệ tử (old: 27) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 29xNâng cấp kỹ năng 1 đệ tử (old: 28) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 30xNâng cấp kỹ năng 1 đệ tử (old: 29) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 31xNâng cấp kỹ năng 1 đệ tử (old: 30) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 32xNâng cấp kỹ năng 1 đệ tử (old: 31) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 33xNâng cấp kỹ năng 1 đệ tử (old: 32) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 34xNâng cấp kỹ năng 1 đệ tử (old: 33) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 35xNâng cấp kỹ năng 1 đệ tử (old: 34) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 36xNâng cấp kỹ năng 1 đệ tử (old: 35) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 37xNâng cấp kỹ năng 1 đệ tử (old: 36) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 38xNâng cấp kỹ năng 1 đệ tử (old: 37) lydo: Mua từ cửa hàng at 03/02/2023 9:51 PM
+BAG:trunks add 39xNâng cấp kỹ năng 1 đệ tử (old: 38) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 40xNâng cấp kỹ năng 1 đệ tử (old: 39) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 41xNâng cấp kỹ năng 1 đệ tử (old: 40) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 42xNâng cấp kỹ năng 1 đệ tử (old: 41) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 43xNâng cấp kỹ năng 1 đệ tử (old: 42) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 44xNâng cấp kỹ năng 1 đệ tử (old: 43) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 45xNâng cấp kỹ năng 1 đệ tử (old: 44) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 46xNâng cấp kỹ năng 1 đệ tử (old: 45) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 47xNâng cấp kỹ năng 1 đệ tử (old: 46) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 48xNâng cấp kỹ năng 1 đệ tử (old: 47) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 49xNâng cấp kỹ năng 1 đệ tử (old: 48) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 50xNâng cấp kỹ năng 1 đệ tử (old: 49) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 51xNâng cấp kỹ năng 1 đệ tử (old: 50) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 52xNâng cấp kỹ năng 1 đệ tử (old: 51) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 53xNâng cấp kỹ năng 1 đệ tử (old: 52) lydo: Mua từ cửa hàng at 03/02/2023 9:52 PM
+BAG:trunks add 1xGăng thun Kame lydo: Mua từ cửa hàng at 03/02/2023 9:53 PM
+BAG:trunks add 1xGăng võ Kame lydo: Mua từ cửa hàng at 03/02/2023 9:53 PM
+BAG:trunks add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/02/2023 9:53 PM
+BAG:trunks add 1xGăng bạc Goku lydo: Mua từ cửa hàng at 03/02/2023 9:53 PM
+BAG:trunks add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/02/2023 9:53 PM
+BAG:trunks add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/02/2023 9:58 PM
+BAG:trunks add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/02/2023 10:02 PM
+BAG:trunks add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 10:05 PM
+BAG:trunks add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 10:05 PM
+BAG:trunks add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 10:05 PM
+BAG:trunks add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 10:05 PM
+BAG:trunks add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 10:05 PM
+BAG:trunks add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 10:05 PM
+BAG:trunks add 99xThỏi vàng lydo: Tách thỏi vàng at 03/02/2023 10:13 PM
+BAG:trunks add 99xThỏi vàng lydo: Tách thỏi vàng at 03/02/2023 10:13 PM
+BAG:trunks add 99xThỏi vàng lydo: Tách thỏi vàng at 03/02/2023 10:13 PM
+BAG:trunks add 99xThỏi vàng lydo: Tách thỏi vàng at 03/02/2023 10:13 PM
+BAG:trunks add 99xThỏi vàng lydo: Tách thỏi vàng at 03/02/2023 10:13 PM
+BAG:trunks add 99xThỏi vàng lydo: Tách thỏi vàng at 03/02/2023 10:13 PM
+BAG:trunks add 99xThỏi vàng lydo: Tách thỏi vàng at 03/02/2023 10:13 PM
+BAG:trunks add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 10:17 PM
+BAG:trunks add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 10:17 PM
+BAG:trunks add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 10:17 PM
+BAG:trunks add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 10:17 PM
+BAG:trunks add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 10:17 PM
+BAG:trunks add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 10:17 PM
+BAG:trunks add 999339xThỏi vàng (old: 999240) lydo: Lấy từ rương qua người at 03/02/2023 10:18 PM
+BAG:trunks add 999438xThỏi vàng (old: 999339) lydo: Lấy từ rương qua người at 03/02/2023 10:18 PM
+BAG:trunks add 999537xThỏi vàng (old: 999438) lydo: Lấy từ rương qua người at 03/02/2023 10:18 PM
+BAG:trunks add 999636xThỏi vàng (old: 999537) lydo: Lấy từ rương qua người at 03/02/2023 10:18 PM
+BAG:trunks add 999735xThỏi vàng (old: 999636) lydo: Lấy từ rương qua người at 03/02/2023 10:18 PM
+BAG:trunks add 999834xThỏi vàng (old: 999735) lydo: Lấy từ rương qua người at 03/02/2023 10:18 PM
+BAG:trunks add 999933xThỏi vàng (old: 999834) lydo: Lấy từ rương qua người at 03/02/2023 10:18 PM
+BAG:trunks add 13xĐậu thần cấp 10 (old: 4) lydo: Lấy từ rương qua người at 03/02/2023 10:18 PM
+BAG:trunks add 33xĐậu thần cấp 10 (old: 13) lydo: Lấy từ rương qua người at 03/02/2023 10:18 PM
+BAG:trunks add 53xĐậu thần cấp 10 (old: 33) lydo: Lấy từ rương qua người at 03/02/2023 10:19 PM
+BAG:trunks add 73xĐậu thần cấp 10 (old: 53) lydo: Lấy từ rương qua người at 03/02/2023 10:19 PM
+BAG:trunks add 93xĐậu thần cấp 10 (old: 73) lydo: Lấy từ rương qua người at 03/02/2023 10:19 PM
+BAG:trunks add 95xĐậu thần cấp 10 (old: 93) lydo: Lấy từ rương qua người at 03/02/2023 10:19 PM
+BAG:trunks add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/02/2023 10:19 PM
+BAG:trunks add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/02/2023 10:24 PM
+BAG:trunks add 1xĐá Ruby lydo: Nhặt từ map at 03/02/2023 10:33 PM
+BAG:trunks add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/02/2023 10:52 PM
+BAG:trunks add 1xRada cấp 6 lydo: Lấy từ body đệ vào hành trang at 03/02/2023 10:52 PM
+BAG:trunks add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/02/2023 10:52 PM
+BAG:trunks add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM
+BAG:trunks add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM
+BAG:trunks add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM
+BAG:trunks add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM
+BAG:trunks add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM
+BAG:trunks add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM
+BAG:trunks add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM
+BAG:trunks add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM
+BAG:trunks add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM
+BAG:trunks add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM
+BAG:trunks add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM
+BAG:trunks add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/02/2023 11:02 PM

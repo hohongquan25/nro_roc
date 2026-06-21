@@ -1,0 +1,461 @@
+BAG:xibuda add 1xGhế bay lydo: Mua từ cửa hàng at 03/18/2023 1:57 AM
+BAG:xibuda add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/18/2023 1:57 AM
+BAG:xibuda add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/18/2023 2:30 AM
+BAG:xibuda add 1xCải trang Black Goku SSJ White lydo: Lấy từ rương qua người at 03/18/2023 2:30 AM
+BAG:xibuda add 1xCải trang Hit lydo: Lấy từ rương qua người at 03/18/2023 2:30 AM
+BAG:xibuda add 77xCuồng nộ lydo: Lấy từ rương qua người at 03/18/2023 2:30 AM
+BAG:xibuda add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/18/2023 2:31 AM
+BAG:xibuda add 100xThỏi vàng lydo: Giftcode at 03/18/2023 2:34 AM
+BAG:xibuda add 1000xPháo hoa lydo: Giftcode at 03/18/2023 2:34 AM
+BAG:xibuda add 1xBổ khí lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 1xNgọc Rồng 5 sao lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 2xBổ khí (old: 1) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 3xBổ khí (old: 2) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 1xBổ huyết lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 78xCuồng nộ (old: 77) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 2xBổ huyết (old: 1) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 1xNgọc Rồng 4 sao lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 3xBổ huyết (old: 2) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 1xGiáp Xên bọ hung lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 79xCuồng nộ (old: 78) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 4xBổ huyết (old: 3) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 4xBổ khí (old: 3) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 80xCuồng nộ (old: 79) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 5xBổ huyết (old: 4) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 5xBổ khí (old: 4) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 6xBổ huyết (old: 5) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 7xBổ huyết (old: 6) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 81xCuồng nộ (old: 80) lydo: HQT at 03/18/2023 2:34 AM
+BAG:xibuda add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 6xBổ khí (old: 5) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 1xNgọc Rồng 6 sao lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 7xBổ khí (old: 6) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 8xBổ khí (old: 7) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 8xBổ huyết (old: 7) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 1xNgọc Rồng 7 sao lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/18/2023 2:35 AM
+BAG:xibuda add 1xPháo hoa lydo: Nhặt từ map at 03/18/2023 2:39 AM
+BAG:xibuda add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/18/2023 2:42 AM
+BAG:xibuda add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/18/2023 2:42 AM
+BAG:xibuda add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/18/2023 2:42 AM
+BAG:xibuda add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/18/2023 2:42 AM
+BAG:xibuda add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/18/2023 2:42 AM
+BAG:xibuda add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/18/2023 2:42 AM
+BAG:xibuda add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/18/2023 2:43 AM
+BAG:xibuda add 1xGiầy sợi len lydo: Mua từ cửa hàng at 03/18/2023 2:45 AM
+BAG:xibuda add 1xCải trang lydo: Mua từ cửa hàng at 03/18/2023 2:46 AM
+BAG:xibuda add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/18/2023 2:47 AM
+BAG:xibuda add 1xĐá Saphia lydo: Nhặt từ map at 03/18/2023 2:47 AM
+BAG:xibuda add 1xSao pha lê lydo: Nhặt từ map at 03/18/2023 2:48 AM
+BAG:xibuda add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/18/2023 2:48 AM
+BAG:xibuda add 1xĐá lục bảo lydo: Nhặt từ map at 03/18/2023 2:48 AM
+BAG:xibuda add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/18/2023 2:49 AM
+BAG:xibuda add 10xĐậu thần cấp 10 (old: 8) lydo: Thu hoạch đậu at 03/18/2023 2:51 AM
+BAG:xibuda add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/18/2023 2:51 AM
+BAG:xibuda add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/18/2023 2:51 AM
+BAG:xibuda add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/18/2023 2:51 AM
+BAG:xibuda add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/18/2023 2:52 AM
+BAG:xibuda add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 9xBổ khí (old: 8) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 9xBổ huyết (old: 8) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 82xCuồng nộ (old: 81) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 10xBổ huyết (old: 9) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 10xBổ khí (old: 9) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 11xBổ huyết (old: 10) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 11xBổ khí (old: 10) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 12xBổ khí (old: 11) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 83xCuồng nộ (old: 82) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 84xCuồng nộ (old: 83) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 12xBổ huyết (old: 11) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 85xCuồng nộ (old: 84) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 13xBổ huyết (old: 12) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 86xCuồng nộ (old: 85) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 14xBổ huyết (old: 13) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 87xCuồng nộ (old: 86) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 15xBổ huyết (old: 14) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 16xBổ huyết (old: 15) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/18/2023 2:55 AM
+BAG:xibuda add 17xBổ huyết (old: 16) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 13xBổ khí (old: 12) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 18xBổ huyết (old: 17) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 15xNgọc Rồng 6 sao (old: 14) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 9xGiáp Xên bọ hung (old: 8) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 10xGiáp Xên bọ hung (old: 9) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 88xCuồng nộ (old: 87) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 14xBổ khí (old: 13) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 16xNgọc Rồng 6 sao (old: 15) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 89xCuồng nộ (old: 88) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 90xCuồng nộ (old: 89) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 15xBổ khí (old: 14) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 16xBổ khí (old: 15) lydo: HQT at 03/18/2023 2:56 AM
+BAG:xibuda add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 19xBổ huyết (old: 18) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 17xBổ khí (old: 16) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 91xCuồng nộ (old: 90) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 18xBổ khí (old: 17) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 18xNgọc Rồng 7 sao (old: 17) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 17xGiáp Xên bọ hung (old: 16) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 19xBổ khí (old: 18) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 18xGiáp Xên bọ hung (old: 17) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 19xGiáp Xên bọ hung (old: 18) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 92xCuồng nộ (old: 91) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 20xBổ khí (old: 19) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/18/2023 2:57 AM
+BAG:xibuda add 20xBổ huyết (old: 19) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 21xBổ huyết (old: 20) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 22xBổ huyết (old: 21) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 21xBổ khí (old: 20) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 23xBổ huyết (old: 22) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 93xCuồng nộ (old: 92) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 19xNgọc Rồng 7 sao (old: 18) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 20xGiáp Xên bọ hung (old: 19) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 24xBổ huyết (old: 23) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 21xGiáp Xên bọ hung (old: 20) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 21xNgọc Rồng 6 sao (old: 20) lydo: HQT at 03/18/2023 2:58 AM
+BAG:xibuda add 22xBổ khí (old: 21) lydo: HQT at 03/18/2023 2:59 AM
+BAG:xibuda add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/18/2023 2:59 AM
+BAG:xibuda add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/18/2023 2:59 AM
+BAG:xibuda add 22xGiáp Xên bọ hung (old: 21) lydo: HQT at 03/18/2023 2:59 AM
+BAG:xibuda add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/18/2023 2:59 AM
+BAG:xibuda add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/18/2023 2:59 AM
+BAG:xibuda add 23xBổ khí (old: 22) lydo: HQT at 03/18/2023 2:59 AM
+BAG:xibuda add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 2:59 AM
+BAG:xibuda add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 2:59 AM
+BAG:xibuda add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 2:59 AM
+BAG:xibuda add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 2:59 AM
+BAG:xibuda add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/18/2023 2:59 AM
+BAG:xibuda add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 24xBổ khí (old: 23) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 22xNgọc Rồng 6 sao (old: 21) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 23xNgọc Rồng 6 sao (old: 22) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 25xBổ huyết (old: 24) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 24xNgọc Rồng 6 sao (old: 23) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 25xNgọc Rồng 6 sao (old: 24) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 26xBổ huyết (old: 25) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 26xNgọc Rồng 6 sao (old: 25) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 94xCuồng nộ (old: 93) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 95xCuồng nộ (old: 94) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 96xCuồng nộ (old: 95) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 27xBổ huyết (old: 26) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 25xBổ khí (old: 24) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 97xCuồng nộ (old: 96) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 26xBổ khí (old: 25) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 27xBổ khí (old: 26) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 28xBổ huyết (old: 27) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 27xNgọc Rồng 6 sao (old: 26) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 29xBổ huyết (old: 28) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 30xBổ huyết (old: 29) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 23xGiáp Xên bọ hung (old: 22) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 28xBổ khí (old: 27) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 19xNgọc Rồng 5 sao (old: 18) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 20xNgọc Rồng 5 sao (old: 19) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 25xGiáp Xên bọ hung (old: 24) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 28xNgọc Rồng 6 sao (old: 27) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 29xNgọc Rồng 6 sao (old: 28) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 98xCuồng nộ (old: 97) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 20xNgọc Rồng 7 sao (old: 19) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 30xNgọc Rồng 6 sao (old: 29) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 99xCuồng nộ (old: 98) lydo: HQT at 03/18/2023 3:00 AM
+BAG:xibuda add 1xCuồng nộ lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 21xNgọc Rồng 5 sao (old: 20) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 31xBổ huyết (old: 30) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 26xGiáp Xên bọ hung (old: 25) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 22xNgọc Rồng 5 sao (old: 21) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 27xGiáp Xên bọ hung (old: 26) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 28xGiáp Xên bọ hung (old: 27) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 21xNgọc Rồng 7 sao (old: 20) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 2xCuồng nộ (old: 1) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 29xGiáp Xên bọ hung (old: 28) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 31xNgọc Rồng 6 sao (old: 30) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 22xNgọc Rồng 7 sao (old: 21) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 29xBổ khí (old: 28) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 23xNgọc Rồng 7 sao (old: 22) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 24xNgọc Rồng 7 sao (old: 23) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 30xGiáp Xên bọ hung (old: 29) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 32xNgọc Rồng 6 sao (old: 31) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 25xNgọc Rồng 7 sao (old: 24) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 26xNgọc Rồng 7 sao (old: 25) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 33xNgọc Rồng 6 sao (old: 32) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 32xBổ huyết (old: 31) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 33xBổ huyết (old: 32) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 30xBổ khí (old: 29) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 3xCuồng nộ (old: 2) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 27xNgọc Rồng 7 sao (old: 26) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 28xNgọc Rồng 7 sao (old: 27) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 4xCuồng nộ (old: 3) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 34xNgọc Rồng 6 sao (old: 33) lydo: HQT at 03/18/2023 3:01 AM
+BAG:xibuda add 1xGăng vải Pico lydo: Mua từ cửa hàng at 03/18/2023 3:02 AM
+BAG:xibuda add 1xGăng da Pico lydo: Mua từ cửa hàng at 03/18/2023 3:02 AM
+BAG:xibuda add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 03/18/2023 3:02 AM
+BAG:xibuda add 1xGăng đồng Tron lydo: Mua từ cửa hàng at 03/18/2023 3:02 AM
+BAG:xibuda add 1xGăng bạc Zealot lydo: Mua từ cửa hàng at 03/18/2023 3:02 AM
+BAG:xibuda add 1xGăng vàng Zealot lydo: Mua từ cửa hàng at 03/18/2023 3:02 AM
+BAG:xibuda add 22xNgọc Rồng 4 sao (old: 21) lydo: HQT at 03/18/2023 3:02 AM
+BAG:xibuda add 5xCuồng nộ (old: 4) lydo: HQT at 03/18/2023 3:02 AM
+BAG:xibuda add 34xBổ huyết (old: 33) lydo: HQT at 03/18/2023 3:02 AM
+BAG:xibuda add 31xGiáp Xên bọ hung (old: 30) lydo: HQT at 03/18/2023 3:02 AM
+BAG:xibuda add 31xBổ khí (old: 30) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 35xBổ huyết (old: 34) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 23xNgọc Rồng 4 sao (old: 22) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 24xNgọc Rồng 4 sao (old: 23) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 35xNgọc Rồng 6 sao (old: 34) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 32xBổ khí (old: 31) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 32xGiáp Xên bọ hung (old: 31) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 36xBổ huyết (old: 35) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 33xBổ khí (old: 32) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 6xCuồng nộ (old: 5) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 23xNgọc Rồng 5 sao (old: 22) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 34xBổ khí (old: 33) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 35xBổ khí (old: 34) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 36xNgọc Rồng 6 sao (old: 35) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 33xGiáp Xên bọ hung (old: 32) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 37xBổ huyết (old: 36) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 37xNgọc Rồng 6 sao (old: 36) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 24xNgọc Rồng 5 sao (old: 23) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 7xCuồng nộ (old: 6) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 34xGiáp Xên bọ hung (old: 33) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 8xCuồng nộ (old: 7) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 29xNgọc Rồng 7 sao (old: 28) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 25xNgọc Rồng 5 sao (old: 24) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 26xNgọc Rồng 5 sao (old: 25) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 38xNgọc Rồng 6 sao (old: 37) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 35xGiáp Xên bọ hung (old: 34) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 36xGiáp Xên bọ hung (old: 35) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 39xNgọc Rồng 6 sao (old: 38) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 30xNgọc Rồng 7 sao (old: 29) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 37xGiáp Xên bọ hung (old: 36) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 38xGiáp Xên bọ hung (old: 37) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 39xGiáp Xên bọ hung (old: 38) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 40xGiáp Xên bọ hung (old: 39) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 31xNgọc Rồng 7 sao (old: 30) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 41xGiáp Xên bọ hung (old: 40) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 38xBổ huyết (old: 37) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 9xCuồng nộ (old: 8) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 26xNgọc Rồng 4 sao (old: 25) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 36xBổ khí (old: 35) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 39xBổ huyết (old: 38) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 40xNgọc Rồng 6 sao (old: 39) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 27xNgọc Rồng 4 sao (old: 26) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 42xGiáp Xên bọ hung (old: 41) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 41xNgọc Rồng 6 sao (old: 40) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 10xCuồng nộ (old: 9) lydo: HQT at 03/18/2023 3:03 AM
+BAG:xibuda add 37xBổ khí (old: 36) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 42xNgọc Rồng 6 sao (old: 41) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 11xCuồng nộ (old: 10) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 43xNgọc Rồng 6 sao (old: 42) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 27xNgọc Rồng 5 sao (old: 26) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 38xBổ khí (old: 37) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 44xNgọc Rồng 6 sao (old: 43) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 28xNgọc Rồng 4 sao (old: 27) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 28xNgọc Rồng 5 sao (old: 27) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 29xNgọc Rồng 5 sao (old: 28) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 32xNgọc Rồng 7 sao (old: 31) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 45xNgọc Rồng 6 sao (old: 44) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 29xNgọc Rồng 4 sao (old: 28) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 46xNgọc Rồng 6 sao (old: 45) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 47xNgọc Rồng 6 sao (old: 46) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 40xBổ huyết (old: 39) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 43xGiáp Xên bọ hung (old: 42) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 44xGiáp Xên bọ hung (old: 43) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 30xNgọc Rồng 5 sao (old: 29) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 39xBổ khí (old: 38) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 41xBổ huyết (old: 40) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 45xGiáp Xên bọ hung (old: 44) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 31xNgọc Rồng 5 sao (old: 30) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 30xNgọc Rồng 4 sao (old: 29) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 42xBổ huyết (old: 41) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 33xNgọc Rồng 7 sao (old: 32) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 48xNgọc Rồng 6 sao (old: 47) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 49xNgọc Rồng 6 sao (old: 48) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 31xNgọc Rồng 4 sao (old: 30) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 50xNgọc Rồng 6 sao (old: 49) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 46xGiáp Xên bọ hung (old: 45) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 51xNgọc Rồng 6 sao (old: 50) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 32xNgọc Rồng 5 sao (old: 31) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 40xBổ khí (old: 39) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 47xGiáp Xên bọ hung (old: 46) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 41xBổ khí (old: 40) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 12xCuồng nộ (old: 11) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 48xGiáp Xên bọ hung (old: 47) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 42xBổ khí (old: 41) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 43xBổ khí (old: 42) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 44xBổ khí (old: 43) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 32xNgọc Rồng 4 sao (old: 31) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 43xBổ huyết (old: 42) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 33xNgọc Rồng 4 sao (old: 32) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 33xNgọc Rồng 5 sao (old: 32) lydo: HQT at 03/18/2023 3:04 AM
+BAG:xibuda add 45xBổ khí (old: 44) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 46xBổ khí (old: 45) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 44xBổ huyết (old: 43) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 34xNgọc Rồng 7 sao (old: 33) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 34xNgọc Rồng 5 sao (old: 33) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 34xNgọc Rồng 4 sao (old: 33) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 49xGiáp Xên bọ hung (old: 48) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 52xNgọc Rồng 6 sao (old: 51) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 35xNgọc Rồng 7 sao (old: 34) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 36xNgọc Rồng 7 sao (old: 35) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 37xNgọc Rồng 7 sao (old: 36) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 38xNgọc Rồng 7 sao (old: 37) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 35xNgọc Rồng 4 sao (old: 34) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 45xBổ huyết (old: 44) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 35xNgọc Rồng 5 sao (old: 34) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 47xBổ khí (old: 46) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 13xCuồng nộ (old: 12) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 36xNgọc Rồng 5 sao (old: 35) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 39xNgọc Rồng 7 sao (old: 38) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 50xGiáp Xên bọ hung (old: 49) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 46xBổ huyết (old: 45) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 40xNgọc Rồng 7 sao (old: 39) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 41xNgọc Rồng 7 sao (old: 40) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 42xNgọc Rồng 7 sao (old: 41) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 48xBổ khí (old: 47) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 47xBổ huyết (old: 46) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 14xCuồng nộ (old: 13) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 53xNgọc Rồng 6 sao (old: 52) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 49xBổ khí (old: 48) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 51xGiáp Xên bọ hung (old: 50) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 37xNgọc Rồng 5 sao (old: 36) lydo: HQT at 03/18/2023 3:05 AM
+BAG:xibuda add 15xCuồng nộ (old: 14) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 48xBổ huyết (old: 47) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 54xNgọc Rồng 6 sao (old: 53) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 52xGiáp Xên bọ hung (old: 51) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 16xCuồng nộ (old: 15) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 49xBổ huyết (old: 48) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 55xNgọc Rồng 6 sao (old: 54) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 17xCuồng nộ (old: 16) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 50xBổ khí (old: 49) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 18xCuồng nộ (old: 17) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 51xBổ khí (old: 50) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 50xBổ huyết (old: 49) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 19xCuồng nộ (old: 18) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 51xBổ huyết (old: 50) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 38xNgọc Rồng 5 sao (old: 37) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 52xBổ khí (old: 51) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 20xCuồng nộ (old: 19) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 52xBổ huyết (old: 51) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 53xBổ khí (old: 52) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 21xCuồng nộ (old: 20) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 54xBổ khí (old: 53) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 39xNgọc Rồng 5 sao (old: 38) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 55xBổ khí (old: 54) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 40xNgọc Rồng 5 sao (old: 39) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 56xBổ khí (old: 55) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 53xGiáp Xên bọ hung (old: 52) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 57xBổ khí (old: 56) lydo: HQT at 03/18/2023 3:06 AM
+BAG:xibuda add 21xCuồng nộ lydo: Lấy từ rương qua người at 03/18/2023 3:25 AM
+BAG:xibuda add 99xThỏi vàng lydo: Lấy từ rương qua người at 03/18/2023 3:25 AM
+BAG:xibuda add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/18/2023 3:25 AM
+BAG:xibuda add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/18/2023 3:25 AM
+BAG:xibuda add 1xGăng sắt Tron lydo: Lấy từ body đệ vào hành trang at 03/18/2023 3:25 AM
+BAG:xibuda add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/18/2023 3:25 AM
+BAG:xibuda add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/18/2023 3:25 AM
+BAG:xibuda add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/18/2023 3:25 AM
+BAG:xibuda add 69xĐậu thần cấp 10 (old: 49) lydo: Lấy từ rương qua người at 03/18/2023 3:26 AM
+BAG:xibuda add 89xĐậu thần cấp 10 (old: 69) lydo: Lấy từ rương qua người at 03/18/2023 3:26 AM
+BAG:xibuda add 10xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/18/2023 3:26 AM
+BAG:xibuda add 99xĐậu thần cấp 10 (old: 89) lydo: Lấy từ rương qua người at 03/18/2023 3:26 AM
+BAG:xibuda add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/18/2023 3:26 AM
+BAG:xibuda add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 3:28 AM
+BAG:xibuda add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/18/2023 8:23 AM
+BAG:xibuda add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/18/2023 8:23 AM
+BAG:xibuda add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/18/2023 8:26 AM
+BAG:xibuda add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/18/2023 8:26 AM
+BAG:xibuda add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/18/2023 8:26 AM
+BAG:xibuda add 1xCải trang Hit lydo: Lấy từ body vào hành trang at 03/18/2023 8:51 AM
+BAG:xibuda add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 8:51 AM
+BAG:xibuda add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 8:51 AM
+BAG:xibuda add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 8:52 AM
+BAG:xibuda add 1xCải trang Hit lydo: Lấy từ body vào hành trang at 03/18/2023 8:52 AM
+BAG:xibuda add 1xGăng vàng Zealot lydo: Lấy từ body vào hành trang at 03/18/2023 8:53 AM
+BAG:xibuda add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 8:53 AM
+BAG:xibuda add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 8:53 AM
+BAG:xibuda add 1xCải trang Hit lydo: Lấy từ body vào hành trang at 03/18/2023 8:53 AM
+BAG:xibuda add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/18/2023 8:53 AM
+BAG:xibuda add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/18/2023 12:24 PM
+BAG:xibuda add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/18/2023 12:24 PM
+BAG:xibuda add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/18/2023 12:24 PM
+BAG:xibuda add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/18/2023 12:24 PM
+BAG:xibuda add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 12:29 PM
+BAG:xibuda add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/18/2023 12:29 PM
+BAG:xibuda add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/18/2023 12:29 PM
+BAG:xibuda add 1xCải trang lydo: Mua từ cửa hàng at 03/18/2023 8:21 PM
+BAG:xibuda add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/18/2023 8:21 PM
+BAG:xibuda add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/18/2023 8:21 PM
+BAG:xibuda add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/18/2023 8:21 PM
+BAG:xibuda add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/18/2023 8:21 PM
+BAG:xibuda add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/18/2023 8:21 PM
+BAG:xibuda add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/18/2023 8:21 PM

@@ -1,0 +1,986 @@
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 12:11 AM
+BAG:sanhoangtu add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhặt từ map at 03/21/2023 12:11 AM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 12:16 AM
+BAG:sanhoangtu add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/21/2023 12:33 AM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 7:02 AM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 7:11 AM
+BAG:sanhoangtu add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhặt từ map at 03/21/2023 7:14 AM
+BAG:sanhoangtu add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhặt từ map at 03/21/2023 7:14 AM
+BAG:sanhoangtu add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhặt từ map at 03/21/2023 7:17 AM
+BAG:sanhoangtu add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/21/2023 7:17 AM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 7:24 AM
+BAG:sanhoangtu add 5xPháo hoa (old: 4) lydo: Nhặt từ map at 03/21/2023 7:26 AM
+BAG:sanhoangtu add 1xĐá Titan lydo: Nhặt từ map at 03/21/2023 7:33 AM
+BAG:sanhoangtu add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/21/2023 7:33 AM
+BAG:sanhoangtu add 78xĐá Saphia (old: 77) lydo: Nhặt từ map at 03/21/2023 7:33 AM
+BAG:sanhoangtu add 99xBổ huyết lydo: Lấy từ rương qua người at 03/21/2023 7:37 AM
+BAG:sanhoangtu add 91xGiáp Xên bọ hung lydo: Lấy từ rương qua người at 03/21/2023 7:37 AM
+BAG:sanhoangtu add 99xGiáp Xên bọ hung (old: 91) lydo: Lấy từ rương qua người at 03/21/2023 7:37 AM
+BAG:sanhoangtu add 79xĐá Saphia (old: 78) lydo: Nhặt từ map at 03/21/2023 7:42 AM
+BAG:sanhoangtu add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/21/2023 7:44 AM
+BAG:sanhoangtu add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/21/2023 7:44 AM
+BAG:sanhoangtu add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/21/2023 7:45 AM
+BAG:sanhoangtu add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/21/2023 7:45 AM
+BAG:sanhoangtu add 83xNgọc Rồng 5 sao (old: 82) lydo: Nhặt từ map at 03/21/2023 7:45 AM
+BAG:sanhoangtu add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/21/2023 7:45 AM
+BAG:sanhoangtu add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/21/2023 7:46 AM
+BAG:sanhoangtu add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/21/2023 7:47 AM
+BAG:sanhoangtu add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/21/2023 7:48 AM
+BAG:sanhoangtu add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/21/2023 7:48 AM
+BAG:sanhoangtu add 80xNgọc Rồng 6 sao (old: 79) lydo: Nhặt từ map at 03/21/2023 7:48 AM
+BAG:sanhoangtu add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/21/2023 7:48 AM
+BAG:sanhoangtu add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/21/2023 7:49 AM
+BAG:sanhoangtu add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/21/2023 7:49 AM
+BAG:sanhoangtu add 80xĐá Saphia (old: 79) lydo: Nhặt từ map at 03/21/2023 7:49 AM
+BAG:sanhoangtu add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/21/2023 7:49 AM
+BAG:sanhoangtu add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/21/2023 7:49 AM
+BAG:sanhoangtu add 81xĐá Saphia (old: 80) lydo: Nhặt từ map at 03/21/2023 7:49 AM
+BAG:sanhoangtu add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/21/2023 7:49 AM
+BAG:sanhoangtu add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/21/2023 7:49 AM
+BAG:sanhoangtu add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/21/2023 7:49 AM
+BAG:sanhoangtu add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/21/2023 7:49 AM
+BAG:sanhoangtu add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/21/2023 7:50 AM
+BAG:sanhoangtu add 81xNgọc Rồng 6 sao (old: 80) lydo: Nhặt từ map at 03/21/2023 7:50 AM
+BAG:sanhoangtu add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 03/21/2023 7:50 AM
+BAG:sanhoangtu add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/21/2023 7:50 AM
+BAG:sanhoangtu add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/21/2023 7:50 AM
+BAG:sanhoangtu add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/21/2023 7:50 AM
+BAG:sanhoangtu add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/21/2023 7:50 AM
+BAG:sanhoangtu add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/21/2023 7:50 AM
+BAG:sanhoangtu add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/21/2023 7:50 AM
+BAG:sanhoangtu add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/21/2023 7:50 AM
+BAG:sanhoangtu add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/21/2023 7:50 AM
+BAG:sanhoangtu add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/21/2023 7:51 AM
+BAG:sanhoangtu add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 03/21/2023 7:51 AM
+BAG:sanhoangtu add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/21/2023 7:51 AM
+BAG:sanhoangtu add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/21/2023 7:51 AM
+BAG:sanhoangtu add 82xNgọc Rồng 6 sao (old: 81) lydo: Nhặt từ map at 03/21/2023 7:51 AM
+BAG:sanhoangtu add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 03/21/2023 7:51 AM
+BAG:sanhoangtu add 82xĐá Saphia (old: 81) lydo: Nhặt từ map at 03/21/2023 7:51 AM
+BAG:sanhoangtu add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/21/2023 7:51 AM
+BAG:sanhoangtu add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 03/21/2023 7:52 AM
+BAG:sanhoangtu add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/21/2023 7:52 AM
+BAG:sanhoangtu add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 03/21/2023 7:52 AM
+BAG:sanhoangtu add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/21/2023 7:52 AM
+BAG:sanhoangtu add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/21/2023 7:52 AM
+BAG:sanhoangtu add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/21/2023 7:52 AM
+BAG:sanhoangtu add 83xĐá Saphia (old: 82) lydo: Nhặt từ map at 03/21/2023 7:52 AM
+BAG:sanhoangtu add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/21/2023 7:52 AM
+BAG:sanhoangtu add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 03/21/2023 7:52 AM
+BAG:sanhoangtu add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/21/2023 7:52 AM
+BAG:sanhoangtu add 84xNgọc Rồng 5 sao (old: 83) lydo: Nhặt từ map at 03/21/2023 7:53 AM
+BAG:sanhoangtu add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/21/2023 7:53 AM
+BAG:sanhoangtu add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/21/2023 7:53 AM
+BAG:sanhoangtu add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/21/2023 7:53 AM
+BAG:sanhoangtu add 83xNgọc Rồng 6 sao (old: 82) lydo: Nhặt từ map at 03/21/2023 7:53 AM
+BAG:sanhoangtu add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/21/2023 7:53 AM
+BAG:sanhoangtu add 84xĐá Saphia (old: 83) lydo: Nhặt từ map at 03/21/2023 7:53 AM
+BAG:sanhoangtu add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 03/21/2023 7:53 AM
+BAG:sanhoangtu add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/21/2023 7:54 AM
+BAG:sanhoangtu add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 03/21/2023 7:54 AM
+BAG:sanhoangtu add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 03/21/2023 7:54 AM
+BAG:sanhoangtu add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/21/2023 7:54 AM
+BAG:sanhoangtu add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/21/2023 7:54 AM
+BAG:sanhoangtu add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/21/2023 7:54 AM
+BAG:sanhoangtu add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/21/2023 7:54 AM
+BAG:sanhoangtu add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/21/2023 7:55 AM
+BAG:sanhoangtu add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 03/21/2023 7:55 AM
+BAG:sanhoangtu add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 03/21/2023 7:55 AM
+BAG:sanhoangtu add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 03/21/2023 7:55 AM
+BAG:sanhoangtu add 85xĐá Saphia (old: 84) lydo: Nhặt từ map at 03/21/2023 7:55 AM
+BAG:sanhoangtu add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/21/2023 7:56 AM
+BAG:sanhoangtu add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/21/2023 7:56 AM
+BAG:sanhoangtu add 85xNgọc Rồng 5 sao (old: 84) lydo: Nhặt từ map at 03/21/2023 7:56 AM
+BAG:sanhoangtu add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 03/21/2023 7:56 AM
+BAG:sanhoangtu add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 03/21/2023 7:56 AM
+BAG:sanhoangtu add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 03/21/2023 7:56 AM
+BAG:sanhoangtu add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/21/2023 7:57 AM
+BAG:sanhoangtu add 84xNgọc Rồng 6 sao (old: 83) lydo: Nhặt từ map at 03/21/2023 7:57 AM
+BAG:sanhoangtu add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/21/2023 7:57 AM
+BAG:sanhoangtu add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/21/2023 7:57 AM
+BAG:sanhoangtu add 86xĐá Saphia (old: 85) lydo: Nhặt từ map at 03/21/2023 7:57 AM
+BAG:sanhoangtu add 85xNgọc Rồng 6 sao (old: 84) lydo: Nhặt từ map at 03/21/2023 7:57 AM
+BAG:sanhoangtu add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/21/2023 7:57 AM
+BAG:sanhoangtu add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 03/21/2023 7:57 AM
+BAG:sanhoangtu add 86xNgọc Rồng 5 sao (old: 85) lydo: Nhặt từ map at 03/21/2023 7:57 AM
+BAG:sanhoangtu add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/21/2023 7:57 AM
+BAG:sanhoangtu add 87xĐá Saphia (old: 86) lydo: Nhặt từ map at 03/21/2023 7:58 AM
+BAG:sanhoangtu add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 03/21/2023 7:58 AM
+BAG:sanhoangtu add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/21/2023 7:58 AM
+BAG:sanhoangtu add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 03/21/2023 7:58 AM
+BAG:sanhoangtu add 87xNgọc Rồng 5 sao (old: 86) lydo: Nhặt từ map at 03/21/2023 7:59 AM
+BAG:sanhoangtu add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/21/2023 7:59 AM
+BAG:sanhoangtu add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/21/2023 7:59 AM
+BAG:sanhoangtu add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/21/2023 8:00 AM
+BAG:sanhoangtu add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 03/21/2023 8:00 AM
+BAG:sanhoangtu add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 03/21/2023 8:00 AM
+BAG:sanhoangtu add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 03/21/2023 8:00 AM
+BAG:sanhoangtu add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/21/2023 8:00 AM
+BAG:sanhoangtu add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/21/2023 8:00 AM
+BAG:sanhoangtu add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 03/21/2023 8:00 AM
+BAG:sanhoangtu add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/21/2023 8:01 AM
+BAG:sanhoangtu add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 03/21/2023 8:01 AM
+BAG:sanhoangtu add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 03/21/2023 8:01 AM
+BAG:sanhoangtu add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 03/21/2023 8:01 AM
+BAG:sanhoangtu add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 03/21/2023 8:01 AM
+BAG:sanhoangtu add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/21/2023 8:01 AM
+BAG:sanhoangtu add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 03/21/2023 8:01 AM
+BAG:sanhoangtu add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 03/21/2023 8:02 AM
+BAG:sanhoangtu add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/21/2023 8:02 AM
+BAG:sanhoangtu add 88xĐá Saphia (old: 87) lydo: Nhặt từ map at 03/21/2023 8:02 AM
+BAG:sanhoangtu add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 03/21/2023 8:02 AM
+BAG:sanhoangtu add 86xNgọc Rồng 6 sao (old: 85) lydo: Nhặt từ map at 03/21/2023 8:02 AM
+BAG:sanhoangtu add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 03/21/2023 8:02 AM
+BAG:sanhoangtu add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/21/2023 8:02 AM
+BAG:sanhoangtu add 1xMáy dò Capsule kì bí lydo: Mua từ cửa hàng at 03/21/2023 8:05 AM
+BAG:sanhoangtu add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/21/2023 8:05 AM
+BAG:sanhoangtu add 88xNgọc Rồng 5 sao (old: 87) lydo: Nhặt từ map at 03/21/2023 8:06 AM
+BAG:sanhoangtu add 89xĐá Saphia (old: 88) lydo: Nhặt từ map at 03/21/2023 8:06 AM
+BAG:sanhoangtu add 89xNgọc Rồng 5 sao (old: 88) lydo: Nhặt từ map at 03/21/2023 8:06 AM
+BAG:sanhoangtu add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/21/2023 8:07 AM
+BAG:sanhoangtu add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 03/21/2023 8:07 AM
+BAG:sanhoangtu add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/21/2023 8:07 AM
+BAG:sanhoangtu add 90xĐá Saphia (old: 89) lydo: Nhặt từ map at 03/21/2023 8:07 AM
+BAG:sanhoangtu add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/21/2023 8:07 AM
+BAG:sanhoangtu add 91xĐá Saphia (old: 90) lydo: Nhặt từ map at 03/21/2023 8:07 AM
+BAG:sanhoangtu add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/21/2023 8:08 AM
+BAG:sanhoangtu add 92xĐá Saphia (old: 91) lydo: Nhặt từ map at 03/21/2023 8:08 AM
+BAG:sanhoangtu add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/21/2023 8:08 AM
+BAG:sanhoangtu add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/21/2023 8:08 AM
+BAG:sanhoangtu add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/21/2023 8:09 AM
+BAG:sanhoangtu add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/21/2023 8:09 AM
+BAG:sanhoangtu add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/21/2023 8:09 AM
+BAG:sanhoangtu add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/21/2023 8:09 AM
+BAG:sanhoangtu add 1xMáy dò Capsule kì bí lydo: Mua từ cửa hàng at 03/21/2023 8:09 AM
+BAG:sanhoangtu add 2xMáy dò Capsule kì bí (old: 1) lydo: Mua từ cửa hàng at 03/21/2023 8:09 AM
+BAG:sanhoangtu add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/21/2023 8:09 AM
+BAG:sanhoangtu add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/21/2023 8:10 AM
+BAG:sanhoangtu add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/21/2023 8:10 AM
+BAG:sanhoangtu add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/21/2023 8:10 AM
+BAG:sanhoangtu add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/21/2023 8:10 AM
+BAG:sanhoangtu add 87xNgọc Rồng 6 sao (old: 86) lydo: Nhặt từ map at 03/21/2023 8:10 AM
+BAG:sanhoangtu add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 03/21/2023 8:10 AM
+BAG:sanhoangtu add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/21/2023 8:11 AM
+BAG:sanhoangtu add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/21/2023 8:11 AM
+BAG:sanhoangtu add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 03/21/2023 8:11 AM
+BAG:sanhoangtu add 93xĐá Saphia (old: 92) lydo: Nhặt từ map at 03/21/2023 8:11 AM
+BAG:sanhoangtu add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/21/2023 8:11 AM
+BAG:sanhoangtu add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/21/2023 8:11 AM
+BAG:sanhoangtu add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 03/21/2023 8:11 AM
+BAG:sanhoangtu add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 03/21/2023 8:11 AM
+BAG:sanhoangtu add 90xNgọc Rồng 5 sao (old: 89) lydo: Nhặt từ map at 03/21/2023 8:11 AM
+BAG:sanhoangtu add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/21/2023 8:12 AM
+BAG:sanhoangtu add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/21/2023 8:12 AM
+BAG:sanhoangtu add 94xĐá Saphia (old: 93) lydo: Nhặt từ map at 03/21/2023 8:12 AM
+BAG:sanhoangtu add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/21/2023 8:12 AM
+BAG:sanhoangtu add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/21/2023 8:13 AM
+BAG:sanhoangtu add 91xNgọc Rồng 5 sao (old: 90) lydo: Nhặt từ map at 03/21/2023 8:13 AM
+BAG:sanhoangtu add 88xNgọc Rồng 6 sao (old: 87) lydo: Nhặt từ map at 03/21/2023 8:13 AM
+BAG:sanhoangtu add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/21/2023 8:13 AM
+BAG:sanhoangtu add 80xĐá thạch anh tím (old: 79) lydo: Nhặt từ map at 03/21/2023 8:17 AM
+BAG:sanhoangtu add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/21/2023 8:17 AM
+BAG:sanhoangtu add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/21/2023 8:17 AM
+BAG:sanhoangtu add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 03/21/2023 8:17 AM
+BAG:sanhoangtu add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/21/2023 8:18 AM
+BAG:sanhoangtu add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 03/21/2023 8:18 AM
+BAG:sanhoangtu add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 03/21/2023 8:18 AM
+BAG:sanhoangtu add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/21/2023 8:18 AM
+BAG:sanhoangtu add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/21/2023 8:18 AM
+BAG:sanhoangtu add 95xĐá Saphia (old: 94) lydo: Nhặt từ map at 03/21/2023 8:18 AM
+BAG:sanhoangtu add 96xĐá Saphia (old: 95) lydo: Nhặt từ map at 03/21/2023 8:18 AM
+BAG:sanhoangtu add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/21/2023 8:18 AM
+BAG:sanhoangtu add 82xĐá thạch anh tím (old: 81) lydo: Nhặt từ map at 03/21/2023 8:18 AM
+BAG:sanhoangtu add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/21/2023 8:19 AM
+BAG:sanhoangtu add 89xNgọc Rồng 6 sao (old: 88) lydo: Nhặt từ map at 03/21/2023 8:19 AM
+BAG:sanhoangtu add 83xĐá thạch anh tím (old: 82) lydo: Nhặt từ map at 03/21/2023 8:19 AM
+BAG:sanhoangtu add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/21/2023 8:19 AM
+BAG:sanhoangtu add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/21/2023 8:19 AM
+BAG:sanhoangtu add 92xNgọc Rồng 5 sao (old: 91) lydo: Nhặt từ map at 03/21/2023 8:19 AM
+BAG:sanhoangtu add 93xNgọc Rồng 5 sao (old: 92) lydo: Nhặt từ map at 03/21/2023 8:20 AM
+BAG:sanhoangtu add 90xNgọc Rồng 6 sao (old: 89) lydo: Nhặt từ map at 03/21/2023 8:20 AM
+BAG:sanhoangtu add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/21/2023 8:20 AM
+BAG:sanhoangtu add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/21/2023 8:20 AM
+BAG:sanhoangtu add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/21/2023 8:20 AM
+BAG:sanhoangtu add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/21/2023 8:20 AM
+BAG:sanhoangtu add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 03/21/2023 8:20 AM
+BAG:sanhoangtu add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/21/2023 8:20 AM
+BAG:sanhoangtu add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/21/2023 8:21 AM
+BAG:sanhoangtu add 94xNgọc Rồng 5 sao (old: 93) lydo: Nhặt từ map at 03/21/2023 8:21 AM
+BAG:sanhoangtu add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/21/2023 8:21 AM
+BAG:sanhoangtu add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/21/2023 8:21 AM
+BAG:sanhoangtu add 84xĐá thạch anh tím (old: 83) lydo: Nhặt từ map at 03/21/2023 8:22 AM
+BAG:sanhoangtu add 97xĐá Saphia (old: 96) lydo: Nhặt từ map at 03/21/2023 8:22 AM
+BAG:sanhoangtu add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/21/2023 8:22 AM
+BAG:sanhoangtu add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhặt từ map at 03/21/2023 8:22 AM
+BAG:sanhoangtu add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/21/2023 8:22 AM
+BAG:sanhoangtu add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/21/2023 8:22 AM
+BAG:sanhoangtu add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/21/2023 8:23 AM
+BAG:sanhoangtu add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhặt từ map at 03/21/2023 8:23 AM
+BAG:sanhoangtu add 91xNgọc Rồng 6 sao (old: 90) lydo: Nhặt từ map at 03/21/2023 8:23 AM
+BAG:sanhoangtu add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/21/2023 8:23 AM
+BAG:sanhoangtu add 95xNgọc Rồng 5 sao (old: 94) lydo: Nhặt từ map at 03/21/2023 8:23 AM
+BAG:sanhoangtu add 98xĐá Saphia (old: 97) lydo: Nhặt từ map at 03/21/2023 8:23 AM
+BAG:sanhoangtu add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/21/2023 8:23 AM
+BAG:sanhoangtu add 55xNgọc Rồng 4 sao (old: 54) lydo: Nhặt từ map at 03/21/2023 8:23 AM
+BAG:sanhoangtu add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 03/21/2023 8:23 AM
+BAG:sanhoangtu add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/21/2023 8:24 AM
+BAG:sanhoangtu add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/21/2023 8:24 AM
+BAG:sanhoangtu add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/21/2023 8:24 AM
+BAG:sanhoangtu add 85xĐá thạch anh tím (old: 84) lydo: Nhặt từ map at 03/21/2023 8:24 AM
+BAG:sanhoangtu add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/21/2023 8:24 AM
+BAG:sanhoangtu add 92xNgọc Rồng 6 sao (old: 91) lydo: Nhặt từ map at 03/21/2023 8:24 AM
+BAG:sanhoangtu add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/21/2023 8:24 AM
+BAG:sanhoangtu add 96xNgọc Rồng 5 sao (old: 95) lydo: Nhặt từ map at 03/21/2023 8:24 AM
+BAG:sanhoangtu add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/21/2023 8:24 AM
+BAG:sanhoangtu add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/21/2023 8:24 AM
+BAG:sanhoangtu add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/21/2023 8:25 AM
+BAG:sanhoangtu add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/21/2023 8:25 AM
+BAG:sanhoangtu add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/21/2023 8:25 AM
+BAG:sanhoangtu add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/21/2023 8:25 AM
+BAG:sanhoangtu add 86xĐá thạch anh tím (old: 85) lydo: Nhặt từ map at 03/21/2023 8:26 AM
+BAG:sanhoangtu add 99xĐá Saphia (old: 98) lydo: Nhặt từ map at 03/21/2023 8:26 AM
+BAG:sanhoangtu add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 03/21/2023 8:26 AM
+BAG:sanhoangtu add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/21/2023 8:27 AM
+BAG:sanhoangtu add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/21/2023 8:27 AM
+BAG:sanhoangtu add 58xNgọc Rồng 4 sao (old: 57) lydo: Nhặt từ map at 03/21/2023 8:27 AM
+BAG:sanhoangtu add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/21/2023 8:27 AM
+BAG:sanhoangtu add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/21/2023 8:27 AM
+BAG:sanhoangtu add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/21/2023 8:28 AM
+BAG:sanhoangtu add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/21/2023 8:28 AM
+BAG:sanhoangtu add 1xĐá Saphia lydo: Nhặt từ map at 03/21/2023 8:28 AM
+BAG:sanhoangtu add 87xĐá thạch anh tím (old: 86) lydo: Nhặt từ map at 03/21/2023 8:28 AM
+BAG:sanhoangtu add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 03/21/2023 8:28 AM
+BAG:sanhoangtu add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/21/2023 8:28 AM
+BAG:sanhoangtu add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/21/2023 8:28 AM
+BAG:sanhoangtu add 59xNgọc Rồng 4 sao (old: 58) lydo: Nhặt từ map at 03/21/2023 8:29 AM
+BAG:sanhoangtu add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 03/21/2023 8:29 AM
+BAG:sanhoangtu add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/21/2023 8:29 AM
+BAG:sanhoangtu add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/21/2023 8:30 AM
+BAG:sanhoangtu add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 03/21/2023 8:30 AM
+BAG:sanhoangtu add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/21/2023 8:30 AM
+BAG:sanhoangtu add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/21/2023 8:30 AM
+BAG:sanhoangtu add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/21/2023 8:30 AM
+BAG:sanhoangtu add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/21/2023 8:30 AM
+BAG:sanhoangtu add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/21/2023 8:31 AM
+BAG:sanhoangtu add 88xĐá thạch anh tím (old: 87) lydo: Nhặt từ map at 03/21/2023 8:31 AM
+BAG:sanhoangtu add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/21/2023 8:31 AM
+BAG:sanhoangtu add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/21/2023 8:31 AM
+BAG:sanhoangtu add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/21/2023 8:31 AM
+BAG:sanhoangtu add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/21/2023 8:31 AM
+BAG:sanhoangtu add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/21/2023 8:32 AM
+BAG:sanhoangtu add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 03/21/2023 8:32 AM
+BAG:sanhoangtu add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/21/2023 8:32 AM
+BAG:sanhoangtu add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/21/2023 8:32 AM
+BAG:sanhoangtu add 93xNgọc Rồng 6 sao (old: 92) lydo: Nhặt từ map at 03/21/2023 8:32 AM
+BAG:sanhoangtu add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/21/2023 8:32 AM
+BAG:sanhoangtu add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/21/2023 8:33 AM
+BAG:sanhoangtu add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/21/2023 8:33 AM
+BAG:sanhoangtu add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 03/21/2023 8:34 AM
+BAG:sanhoangtu add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/21/2023 8:34 AM
+BAG:sanhoangtu add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/21/2023 8:34 AM
+BAG:sanhoangtu add 89xĐá thạch anh tím (old: 88) lydo: Nhặt từ map at 03/21/2023 8:34 AM
+BAG:sanhoangtu add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/21/2023 8:35 AM
+BAG:sanhoangtu add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 03/21/2023 8:35 AM
+BAG:sanhoangtu add 90xĐá thạch anh tím (old: 89) lydo: Nhặt từ map at 03/21/2023 8:35 AM
+BAG:sanhoangtu add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/21/2023 8:35 AM
+BAG:sanhoangtu add 97xNgọc Rồng 5 sao (old: 96) lydo: Nhặt từ map at 03/21/2023 8:35 AM
+BAG:sanhoangtu add 91xĐá thạch anh tím (old: 90) lydo: Nhặt từ map at 03/21/2023 8:36 AM
+BAG:sanhoangtu add 92xĐá thạch anh tím (old: 91) lydo: Nhặt từ map at 03/21/2023 8:36 AM
+BAG:sanhoangtu add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 03/21/2023 8:36 AM
+BAG:sanhoangtu add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/21/2023 8:36 AM
+BAG:sanhoangtu add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/21/2023 8:36 AM
+BAG:sanhoangtu add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/21/2023 8:36 AM
+BAG:sanhoangtu add 94xNgọc Rồng 6 sao (old: 93) lydo: Nhặt từ map at 03/21/2023 8:36 AM
+BAG:sanhoangtu add 95xNgọc Rồng 6 sao (old: 94) lydo: Nhặt từ map at 03/21/2023 8:36 AM
+BAG:sanhoangtu add 93xĐá thạch anh tím (old: 92) lydo: Nhặt từ map at 03/21/2023 8:36 AM
+BAG:sanhoangtu add 98xNgọc Rồng 5 sao (old: 97) lydo: Nhặt từ map at 03/21/2023 8:36 AM
+BAG:sanhoangtu add 99xNgọc Rồng 5 sao (old: 98) lydo: Nhặt từ map at 03/21/2023 8:37 AM
+BAG:sanhoangtu add 94xĐá thạch anh tím (old: 93) lydo: Nhặt từ map at 03/21/2023 8:37 AM
+BAG:sanhoangtu add 60xNgọc Rồng 4 sao (old: 59) lydo: Nhặt từ map at 03/21/2023 8:38 AM
+BAG:sanhoangtu add 96xNgọc Rồng 6 sao (old: 95) lydo: Nhặt từ map at 03/21/2023 8:38 AM
+BAG:sanhoangtu add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/21/2023 8:38 AM
+BAG:sanhoangtu add 61xNgọc Rồng 4 sao (old: 60) lydo: Nhặt từ map at 03/21/2023 8:38 AM
+BAG:sanhoangtu add 95xĐá thạch anh tím (old: 94) lydo: Nhặt từ map at 03/21/2023 8:38 AM
+BAG:sanhoangtu add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/21/2023 8:39 AM
+BAG:sanhoangtu add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/21/2023 8:39 AM
+BAG:sanhoangtu add 96xĐá thạch anh tím (old: 95) lydo: Nhặt từ map at 03/21/2023 8:39 AM
+BAG:sanhoangtu add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 03/21/2023 8:39 AM
+BAG:sanhoangtu add 62xNgọc Rồng 4 sao (old: 61) lydo: Nhặt từ map at 03/21/2023 8:39 AM
+BAG:sanhoangtu add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/21/2023 8:39 AM
+BAG:sanhoangtu add 63xNgọc Rồng 4 sao (old: 62) lydo: Nhặt từ map at 03/21/2023 8:40 AM
+BAG:sanhoangtu add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/21/2023 8:40 AM
+BAG:sanhoangtu add 97xĐá thạch anh tím (old: 96) lydo: Nhặt từ map at 03/21/2023 8:40 AM
+BAG:sanhoangtu add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 03/21/2023 8:40 AM
+BAG:sanhoangtu add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/21/2023 8:40 AM
+BAG:sanhoangtu add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/21/2023 8:40 AM
+BAG:sanhoangtu add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/21/2023 8:41 AM
+BAG:sanhoangtu add 98xĐá thạch anh tím (old: 97) lydo: Nhặt từ map at 03/21/2023 8:41 AM
+BAG:sanhoangtu add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/21/2023 8:42 AM
+BAG:sanhoangtu add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 03/21/2023 8:42 AM
+BAG:sanhoangtu add 64xNgọc Rồng 4 sao (old: 63) lydo: Nhặt từ map at 03/21/2023 8:42 AM
+BAG:sanhoangtu add 65xNgọc Rồng 4 sao (old: 64) lydo: Nhặt từ map at 03/21/2023 8:43 AM
+BAG:sanhoangtu add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/21/2023 8:44 AM
+BAG:sanhoangtu add 99xĐá thạch anh tím (old: 98) lydo: Nhặt từ map at 03/21/2023 8:44 AM
+BAG:sanhoangtu add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/21/2023 8:44 AM
+BAG:sanhoangtu add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/21/2023 8:44 AM
+BAG:sanhoangtu add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 03/21/2023 8:45 AM
+BAG:sanhoangtu add 66xNgọc Rồng 4 sao (old: 65) lydo: Nhặt từ map at 03/21/2023 8:45 AM
+BAG:sanhoangtu add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/21/2023 8:45 AM
+BAG:sanhoangtu add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/21/2023 8:45 AM
+BAG:sanhoangtu add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/21/2023 8:45 AM
+BAG:sanhoangtu add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/21/2023 8:46 AM
+BAG:sanhoangtu add 97xNgọc Rồng 6 sao (old: 96) lydo: Nhặt từ map at 03/21/2023 8:46 AM
+BAG:sanhoangtu add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 03/21/2023 8:46 AM
+BAG:sanhoangtu add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/21/2023 8:46 AM
+BAG:sanhoangtu add 67xNgọc Rồng 4 sao (old: 66) lydo: Nhặt từ map at 03/21/2023 8:46 AM
+BAG:sanhoangtu add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/21/2023 8:46 AM
+BAG:sanhoangtu add 98xNgọc Rồng 6 sao (old: 97) lydo: Nhặt từ map at 03/21/2023 8:46 AM
+BAG:sanhoangtu add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/21/2023 8:46 AM
+BAG:sanhoangtu add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/21/2023 8:46 AM
+BAG:sanhoangtu add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/21/2023 8:47 AM
+BAG:sanhoangtu add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/21/2023 8:47 AM
+BAG:sanhoangtu add 99xNgọc Rồng 6 sao (old: 98) lydo: Nhặt từ map at 03/21/2023 8:47 AM
+BAG:sanhoangtu add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/21/2023 8:47 AM
+BAG:sanhoangtu add 68xNgọc Rồng 4 sao (old: 67) lydo: Nhặt từ map at 03/21/2023 8:47 AM
+BAG:sanhoangtu add 69xNgọc Rồng 4 sao (old: 68) lydo: Nhặt từ map at 03/21/2023 8:48 AM
+BAG:sanhoangtu add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/21/2023 8:48 AM
+BAG:sanhoangtu add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/21/2023 8:48 AM
+BAG:sanhoangtu add 70xNgọc Rồng 4 sao (old: 69) lydo: Nhặt từ map at 03/21/2023 8:49 AM
+BAG:sanhoangtu add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/21/2023 8:51 AM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 8:52 AM
+BAG:sanhoangtu add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/21/2023 8:55 AM
+BAG:sanhoangtu add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhặt từ map at 03/21/2023 8:56 AM
+BAG:sanhoangtu add 6xPháo hoa (old: 5) lydo: Nhặt từ map at 03/21/2023 8:56 AM
+BAG:sanhoangtu add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhặt từ map at 03/21/2023 8:56 AM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 9:01 AM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 9:04 AM
+BAG:sanhoangtu add 7xPháo hoa (old: 6) lydo: Nhặt từ map at 03/21/2023 9:06 AM
+BAG:sanhoangtu add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhặt từ map at 03/21/2023 9:06 AM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 1 lydo: Lấy từ rương qua người at 03/21/2023 11:19 AM
+BAG:sanhoangtu add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/21/2023 11:19 AM
+BAG:sanhoangtu add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/21/2023 11:20 AM
+BAG:sanhoangtu add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/21/2023 11:20 AM
+BAG:sanhoangtu add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/21/2023 11:20 AM
+BAG:sanhoangtu add 70xĐá lục bảo (old: 69) lydo: Nhặt từ map at 03/21/2023 11:20 AM
+BAG:sanhoangtu add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/21/2023 11:24 AM
+BAG:sanhoangtu add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/21/2023 11:28 AM
+BAG:sanhoangtu add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/21/2023 11:29 AM
+BAG:sanhoangtu add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/21/2023 11:31 AM
+BAG:sanhoangtu add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/21/2023 11:32 AM
+BAG:sanhoangtu add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/21/2023 11:35 AM
+BAG:sanhoangtu add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/21/2023 11:35 AM
+BAG:sanhoangtu add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 03/21/2023 11:38 AM
+BAG:sanhoangtu add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/21/2023 11:38 AM
+BAG:sanhoangtu add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/21/2023 11:39 AM
+BAG:sanhoangtu add 71xĐá lục bảo (old: 70) lydo: Nhặt từ map at 03/21/2023 11:39 AM
+BAG:sanhoangtu add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/21/2023 11:40 AM
+BAG:sanhoangtu add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 03/21/2023 11:41 AM
+BAG:sanhoangtu add 72xĐá lục bảo (old: 71) lydo: Nhặt từ map at 03/21/2023 11:42 AM
+BAG:sanhoangtu add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/21/2023 11:42 AM
+BAG:sanhoangtu add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/21/2023 11:43 AM
+BAG:sanhoangtu add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/21/2023 11:44 AM
+BAG:sanhoangtu add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/21/2023 11:44 AM
+BAG:sanhoangtu add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 03/21/2023 11:45 AM
+BAG:sanhoangtu add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/21/2023 11:46 AM
+BAG:sanhoangtu add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/21/2023 11:46 AM
+BAG:sanhoangtu add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/21/2023 11:47 AM
+BAG:sanhoangtu add 73xĐá lục bảo (old: 72) lydo: Nhặt từ map at 03/21/2023 11:49 AM
+BAG:sanhoangtu add 71xNgọc Rồng 4 sao (old: 70) lydo: Nhặt từ map at 03/21/2023 11:50 AM
+BAG:sanhoangtu add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/21/2023 11:52 AM
+BAG:sanhoangtu add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/21/2023 11:52 AM
+BAG:sanhoangtu add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 03/21/2023 11:53 AM
+BAG:sanhoangtu add 74xĐá lục bảo (old: 73) lydo: Nhặt từ map at 03/21/2023 11:54 AM
+BAG:sanhoangtu add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/21/2023 11:57 AM
+BAG:sanhoangtu add 81xCuồng nộ (old: 80) lydo: CSKB at 03/21/2023 11:57 AM
+BAG:sanhoangtu add 7xBổ khí (old: 6) lydo: CSKB at 03/21/2023 11:58 AM
+BAG:sanhoangtu add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/21/2023 11:59 AM
+BAG:sanhoangtu add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/21/2023 12:00 PM
+BAG:sanhoangtu add 1xẨn danh lydo: CSKB at 03/21/2023 12:01 PM
+BAG:sanhoangtu add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/21/2023 12:01 PM
+BAG:sanhoangtu add 2xẨn danh (old: 1) lydo: CSKB at 03/21/2023 12:01 PM
+BAG:sanhoangtu add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/21/2023 12:01 PM
+BAG:sanhoangtu add 82xCuồng nộ (old: 81) lydo: CSKB at 03/21/2023 12:01 PM
+BAG:sanhoangtu add 8xBổ khí (old: 7) lydo: CSKB at 03/21/2023 12:01 PM
+BAG:sanhoangtu add 83xCuồng nộ (old: 82) lydo: CSKB at 03/21/2023 12:02 PM
+BAG:sanhoangtu add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/21/2023 12:02 PM
+BAG:sanhoangtu add 9xBổ khí (old: 8) lydo: CSKB at 03/21/2023 12:02 PM
+BAG:sanhoangtu add 84xCuồng nộ (old: 83) lydo: CSKB at 03/21/2023 12:02 PM
+BAG:sanhoangtu add 3xẨn danh (old: 2) lydo: CSKB at 03/21/2023 12:02 PM
+BAG:sanhoangtu add 4xẨn danh (old: 3) lydo: CSKB at 03/21/2023 12:02 PM
+BAG:sanhoangtu add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/21/2023 12:02 PM
+BAG:sanhoangtu add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/21/2023 12:03 PM
+BAG:sanhoangtu add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/21/2023 12:04 PM
+BAG:sanhoangtu add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/21/2023 12:04 PM
+BAG:sanhoangtu add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/21/2023 12:04 PM
+BAG:sanhoangtu add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/21/2023 12:04 PM
+BAG:sanhoangtu add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/21/2023 12:04 PM
+BAG:sanhoangtu add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/21/2023 12:05 PM
+BAG:sanhoangtu add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/21/2023 12:05 PM
+BAG:sanhoangtu add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/21/2023 12:05 PM
+BAG:sanhoangtu add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/21/2023 12:06 PM
+BAG:sanhoangtu add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/21/2023 12:06 PM
+BAG:sanhoangtu add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/21/2023 12:06 PM
+BAG:sanhoangtu add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/21/2023 12:06 PM
+BAG:sanhoangtu add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/21/2023 12:06 PM
+BAG:sanhoangtu add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 03/21/2023 12:06 PM
+BAG:sanhoangtu add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/21/2023 12:06 PM
+BAG:sanhoangtu add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/21/2023 12:06 PM
+BAG:sanhoangtu add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/21/2023 12:06 PM
+BAG:sanhoangtu add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 03/21/2023 12:06 PM
+BAG:sanhoangtu add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/21/2023 12:07 PM
+BAG:sanhoangtu add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 75xĐá lục bảo (old: 74) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 76xĐá lục bảo (old: 75) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/21/2023 12:08 PM
+BAG:sanhoangtu add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 72xNgọc Rồng 4 sao (old: 71) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/21/2023 12:09 PM
+BAG:sanhoangtu add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/21/2023 12:10 PM
+BAG:sanhoangtu add 73xNgọc Rồng 4 sao (old: 72) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/21/2023 12:11 PM
+BAG:sanhoangtu add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/21/2023 12:12 PM
+BAG:sanhoangtu add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/21/2023 12:12 PM
+BAG:sanhoangtu add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/21/2023 12:12 PM
+BAG:sanhoangtu add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/21/2023 12:12 PM
+BAG:sanhoangtu add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/21/2023 12:12 PM
+BAG:sanhoangtu add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/21/2023 12:12 PM
+BAG:sanhoangtu add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/21/2023 12:12 PM
+BAG:sanhoangtu add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/21/2023 12:12 PM
+BAG:sanhoangtu add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/21/2023 12:12 PM
+BAG:sanhoangtu add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/21/2023 12:12 PM
+BAG:sanhoangtu add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/21/2023 12:13 PM
+BAG:sanhoangtu add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/21/2023 12:13 PM
+BAG:sanhoangtu add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/21/2023 12:13 PM
+BAG:sanhoangtu add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/21/2023 12:13 PM
+BAG:sanhoangtu add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/21/2023 12:13 PM
+BAG:sanhoangtu add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/21/2023 12:13 PM
+BAG:sanhoangtu add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/21/2023 12:13 PM
+BAG:sanhoangtu add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/21/2023 12:13 PM
+BAG:sanhoangtu add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/21/2023 12:13 PM
+BAG:sanhoangtu add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/21/2023 12:13 PM
+BAG:sanhoangtu add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/21/2023 12:13 PM
+BAG:sanhoangtu add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 77xĐá lục bảo (old: 76) lydo: Nhặt từ map at 03/21/2023 12:14 PM
+BAG:sanhoangtu add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 78xĐá lục bảo (old: 77) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/21/2023 12:15 PM
+BAG:sanhoangtu add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 79xĐá lục bảo (old: 78) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/21/2023 12:16 PM
+BAG:sanhoangtu add 80xĐá lục bảo (old: 79) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 81xĐá lục bảo (old: 80) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 03/21/2023 12:17 PM
+BAG:sanhoangtu add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/21/2023 12:18 PM
+BAG:sanhoangtu add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/21/2023 12:18 PM
+BAG:sanhoangtu add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/21/2023 12:18 PM
+BAG:sanhoangtu add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/21/2023 12:18 PM
+BAG:sanhoangtu add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/21/2023 12:18 PM
+BAG:sanhoangtu add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/21/2023 12:18 PM
+BAG:sanhoangtu add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/21/2023 12:19 PM
+BAG:sanhoangtu add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/21/2023 12:19 PM
+BAG:sanhoangtu add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/21/2023 12:19 PM
+BAG:sanhoangtu add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/21/2023 12:19 PM
+BAG:sanhoangtu add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/21/2023 12:19 PM
+BAG:sanhoangtu add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/21/2023 12:20 PM
+BAG:sanhoangtu add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/21/2023 12:21 PM
+BAG:sanhoangtu add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/21/2023 12:22 PM
+BAG:sanhoangtu add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 82xĐá lục bảo (old: 81) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/21/2023 12:23 PM
+BAG:sanhoangtu add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/21/2023 12:24 PM
+BAG:sanhoangtu add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/21/2023 12:25 PM
+BAG:sanhoangtu add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/21/2023 12:26 PM
+BAG:sanhoangtu add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 70xĐá Ruby (old: 69) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/21/2023 12:27 PM
+BAG:sanhoangtu add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/21/2023 12:28 PM
+BAG:sanhoangtu add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/21/2023 12:28 PM
+BAG:sanhoangtu add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/21/2023 12:28 PM
+BAG:sanhoangtu add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/21/2023 12:28 PM
+BAG:sanhoangtu add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/21/2023 12:28 PM
+BAG:sanhoangtu add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/21/2023 12:28 PM
+BAG:sanhoangtu add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/21/2023 12:28 PM
+BAG:sanhoangtu add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/21/2023 12:28 PM
+BAG:sanhoangtu add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/21/2023 12:28 PM
+BAG:sanhoangtu add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/21/2023 12:28 PM
+BAG:sanhoangtu add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/21/2023 12:29 PM
+BAG:sanhoangtu add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/21/2023 12:30 PM
+BAG:sanhoangtu add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/21/2023 12:30 PM
+BAG:sanhoangtu add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/21/2023 12:30 PM
+BAG:sanhoangtu add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/21/2023 12:30 PM
+BAG:sanhoangtu add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/21/2023 12:30 PM
+BAG:sanhoangtu add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/21/2023 12:30 PM
+BAG:sanhoangtu add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/21/2023 12:30 PM
+BAG:sanhoangtu add 71xĐá Ruby (old: 70) lydo: Nhặt từ map at 03/21/2023 12:30 PM
+BAG:sanhoangtu add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/21/2023 12:30 PM
+BAG:sanhoangtu add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/21/2023 12:30 PM
+BAG:sanhoangtu add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 72xĐá Ruby (old: 71) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 83xĐá lục bảo (old: 82) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 84xĐá lục bảo (old: 83) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/21/2023 12:31 PM
+BAG:sanhoangtu add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 1xMảnh hồn bông tai lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 2xMảnh hồn bông tai (old: 1) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 3xMảnh hồn bông tai (old: 2) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 4xMảnh hồn bông tai (old: 3) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 5xMảnh hồn bông tai (old: 4) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 6xMảnh hồn bông tai (old: 5) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 7xMảnh hồn bông tai (old: 6) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 8xMảnh hồn bông tai (old: 7) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 9xMảnh hồn bông tai (old: 8) lydo: Nhặt từ map at 03/21/2023 12:32 PM
+BAG:sanhoangtu add 10xMảnh hồn bông tai (old: 9) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 11xMảnh hồn bông tai (old: 10) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 12xMảnh hồn bông tai (old: 11) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 13xMảnh hồn bông tai (old: 12) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 73xĐá Ruby (old: 72) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 14xMảnh hồn bông tai (old: 13) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 15xMảnh hồn bông tai (old: 14) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 16xMảnh hồn bông tai (old: 15) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 17xMảnh hồn bông tai (old: 16) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 74xĐá Ruby (old: 73) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 18xMảnh hồn bông tai (old: 17) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 19xMảnh hồn bông tai (old: 18) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 20xMảnh hồn bông tai (old: 19) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 21xMảnh hồn bông tai (old: 20) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 22xMảnh hồn bông tai (old: 21) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 23xMảnh hồn bông tai (old: 22) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 24xMảnh hồn bông tai (old: 23) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 25xMảnh hồn bông tai (old: 24) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 26xMảnh hồn bông tai (old: 25) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 27xMảnh hồn bông tai (old: 26) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 28xMảnh hồn bông tai (old: 27) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 29xMảnh hồn bông tai (old: 28) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 30xMảnh hồn bông tai (old: 29) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 31xMảnh hồn bông tai (old: 30) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 85xĐá lục bảo (old: 84) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 32xMảnh hồn bông tai (old: 31) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 33xMảnh hồn bông tai (old: 32) lydo: Nhặt từ map at 03/21/2023 12:33 PM
+BAG:sanhoangtu add 34xMảnh hồn bông tai (old: 33) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 35xMảnh hồn bông tai (old: 34) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 36xMảnh hồn bông tai (old: 35) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 37xMảnh hồn bông tai (old: 36) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 38xMảnh hồn bông tai (old: 37) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 39xMảnh hồn bông tai (old: 38) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 40xMảnh hồn bông tai (old: 39) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 41xMảnh hồn bông tai (old: 40) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 42xMảnh hồn bông tai (old: 41) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 43xMảnh hồn bông tai (old: 42) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 44xMảnh hồn bông tai (old: 43) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 45xMảnh hồn bông tai (old: 44) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 46xMảnh hồn bông tai (old: 45) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 47xMảnh hồn bông tai (old: 46) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 48xMảnh hồn bông tai (old: 47) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 49xMảnh hồn bông tai (old: 48) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 50xMảnh hồn bông tai (old: 49) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 51xMảnh hồn bông tai (old: 50) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 52xMảnh hồn bông tai (old: 51) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 53xMảnh hồn bông tai (old: 52) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 54xMảnh hồn bông tai (old: 53) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 55xMảnh hồn bông tai (old: 54) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 56xMảnh hồn bông tai (old: 55) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 57xMảnh hồn bông tai (old: 56) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 58xMảnh hồn bông tai (old: 57) lydo: Nhặt từ map at 03/21/2023 12:34 PM
+BAG:sanhoangtu add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 59xMảnh hồn bông tai (old: 58) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 60xMảnh hồn bông tai (old: 59) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 61xMảnh hồn bông tai (old: 60) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 62xMảnh hồn bông tai (old: 61) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 63xMảnh hồn bông tai (old: 62) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 64xMảnh hồn bông tai (old: 63) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 65xMảnh hồn bông tai (old: 64) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 66xMảnh hồn bông tai (old: 65) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 67xMảnh hồn bông tai (old: 66) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 68xMảnh hồn bông tai (old: 67) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 69xMảnh hồn bông tai (old: 68) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 70xMảnh hồn bông tai (old: 69) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 71xMảnh hồn bông tai (old: 70) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 72xMảnh hồn bông tai (old: 71) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 73xMảnh hồn bông tai (old: 72) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 74xMảnh hồn bông tai (old: 73) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 86xĐá lục bảo (old: 85) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 75xMảnh hồn bông tai (old: 74) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 76xMảnh hồn bông tai (old: 75) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 77xMảnh hồn bông tai (old: 76) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 78xMảnh hồn bông tai (old: 77) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 79xMảnh hồn bông tai (old: 78) lydo: Nhặt từ map at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/21/2023 12:35 PM
+BAG:sanhoangtu add 80xMảnh hồn bông tai (old: 79) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 91xGiáp Xên bọ hung (old: 90) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 81xMảnh hồn bông tai (old: 80) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 84xCuồng nộ (old: 83) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 82xMảnh hồn bông tai (old: 81) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 83xMảnh hồn bông tai (old: 82) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 92xGiáp Xên bọ hung (old: 91) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 99xBổ huyết (old: 98) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 84xMảnh hồn bông tai (old: 83) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 93xGiáp Xên bọ hung (old: 92) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 85xMảnh hồn bông tai (old: 84) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 10xBổ khí (old: 9) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 86xMảnh hồn bông tai (old: 85) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 87xMảnh hồn bông tai (old: 86) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 74xNgọc Rồng 4 sao (old: 73) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 75xNgọc Rồng 4 sao (old: 74) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 94xGiáp Xên bọ hung (old: 93) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 75xĐá Ruby (old: 74) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 88xMảnh hồn bông tai (old: 87) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 89xMảnh hồn bông tai (old: 88) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 76xNgọc Rồng 4 sao (old: 75) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 90xMảnh hồn bông tai (old: 89) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 91xMảnh hồn bông tai (old: 90) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 11xBổ khí (old: 10) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 95xGiáp Xên bọ hung (old: 94) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 87xĐá lục bảo (old: 86) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 92xMảnh hồn bông tai (old: 91) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 93xMảnh hồn bông tai (old: 92) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 94xMảnh hồn bông tai (old: 93) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 95xMảnh hồn bông tai (old: 94) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 96xMảnh hồn bông tai (old: 95) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 97xMảnh hồn bông tai (old: 96) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 1xBổ huyết lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 98xMảnh hồn bông tai (old: 97) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 99xMảnh hồn bông tai (old: 98) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 85xCuồng nộ (old: 84) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 86xCuồng nộ (old: 85) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 87xCuồng nộ (old: 86) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 88xCuồng nộ (old: 87) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 96xGiáp Xên bọ hung (old: 95) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 2xBổ huyết (old: 1) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 97xGiáp Xên bọ hung (old: 96) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 89xCuồng nộ (old: 88) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 88xĐá lục bảo (old: 87) lydo: Nhặt từ map at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 98xGiáp Xên bọ hung (old: 97) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 12xBổ khí (old: 11) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/21/2023 12:36 PM
+BAG:sanhoangtu add 13xBổ khí (old: 12) lydo: HQT at 03/21/2023 12:37 PM
+BAG:sanhoangtu add 90xCuồng nộ (old: 89) lydo: HQT at 03/21/2023 12:37 PM
+BAG:sanhoangtu add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 03/21/2023 12:37 PM
+BAG:sanhoangtu add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/21/2023 12:37 PM
+BAG:sanhoangtu add 77xNgọc Rồng 4 sao (old: 76) lydo: HQT at 03/21/2023 12:37 PM
+BAG:sanhoangtu add 76xĐá Ruby (old: 75) lydo: Nhặt từ map at 03/21/2023 12:37 PM
+BAG:sanhoangtu add 91xCuồng nộ (old: 90) lydo: HQT at 03/21/2023 12:37 PM
+BAG:sanhoangtu add 3xBổ huyết (old: 2) lydo: HQT at 03/21/2023 12:37 PM
+BAG:sanhoangtu add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/21/2023 12:37 PM
+BAG:sanhoangtu add 77xĐá Ruby (old: 76) lydo: Nhặt từ map at 03/21/2023 12:37 PM
+BAG:sanhoangtu add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 03/21/2023 12:37 PM
+BAG:sanhoangtu add 14xĐá xanh lam lydo: Lấy từ rương qua người at 03/21/2023 12:41 PM
+BAG:sanhoangtu add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 03/21/2023 12:53 PM
+BAG:sanhoangtu add 61xĐá Titan (old: 60) lydo: Nhặt từ map at 03/21/2023 2:59 PM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 3:00 PM
+BAG:sanhoangtu add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/21/2023 3:00 PM
+BAG:sanhoangtu add 9xNgọc Rồng 3 sao (old: 8) lydo: Nhặt từ map at 03/21/2023 3:00 PM
+BAG:sanhoangtu add 10xNgọc Rồng 3 sao (old: 9) lydo: Nhặt từ map at 03/21/2023 3:00 PM
+BAG:sanhoangtu add 11xNgọc Rồng 3 sao (old: 10) lydo: Nhặt từ map at 03/21/2023 3:00 PM
+BAG:sanhoangtu add 1xGiày vàng Zealot lydo: Nhặt từ map at 03/21/2023 3:00 PM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 3:01 PM
+BAG:sanhoangtu add 78xNgọc Rồng 4 sao (old: 77) lydo: Nhặt từ map at 03/21/2023 3:01 PM
+BAG:sanhoangtu add 78xĐá Ruby (old: 77) lydo: Nhặt từ map at 03/21/2023 4:14 PM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 4:15 PM
+BAG:sanhoangtu add 96xPháo hoa (old: 91) lydo: Nhặt từ map at 03/21/2023 4:18 PM
+BAG:sanhoangtu add 2xPháo hoa lydo: Nhặt từ map at 03/21/2023 4:20 PM
+BAG:sanhoangtu add 99xPháo hoa (old: 96) lydo: Nhặt từ map at 03/21/2023 4:20 PM
+BAG:sanhoangtu add 14xBổ khí (old: 13) lydo: HQT at 03/21/2023 4:20 PM
+BAG:sanhoangtu add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/21/2023 4:20 PM
+BAG:sanhoangtu add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/21/2023 4:20 PM
+BAG:sanhoangtu add 4xBổ huyết (old: 3) lydo: HQT at 03/21/2023 4:20 PM
+BAG:sanhoangtu add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/21/2023 4:20 PM
+BAG:sanhoangtu add 97xPháo hoa (old: 92) lydo: Nhặt từ map at 03/21/2023 4:20 PM
+BAG:sanhoangtu add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/21/2023 4:21 PM
+BAG:sanhoangtu add 12xNgọc Rồng 3 sao (old: 11) lydo: Nhặt từ map at 03/21/2023 4:23 PM
+BAG:sanhoangtu add 1xGăng jean Calic lydo: Nhặt từ map at 03/21/2023 4:24 PM
+BAG:sanhoangtu add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/21/2023 4:25 PM
+BAG:sanhoangtu add 79xĐá Ruby (old: 78) lydo: Nhặt từ map at 03/21/2023 4:26 PM
+BAG:sanhoangtu add 80xĐá Ruby (old: 79) lydo: Nhặt từ map at 03/21/2023 4:26 PM
+BAG:sanhoangtu add 81xĐá Ruby (old: 80) lydo: Nhặt từ map at 03/21/2023 4:26 PM
+BAG:sanhoangtu add 82xĐá Ruby (old: 81) lydo: Nhặt từ map at 03/21/2023 4:26 PM
+BAG:sanhoangtu add 62xĐá Titan (old: 61) lydo: Nhặt từ map at 03/21/2023 4:26 PM
+BAG:sanhoangtu add 79xNgọc Rồng 4 sao (old: 78) lydo: Nhặt từ map at 03/21/2023 4:26 PM
+BAG:sanhoangtu add 83xĐá Ruby (old: 82) lydo: Nhặt từ map at 03/21/2023 4:26 PM
+BAG:sanhoangtu add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/21/2023 4:26 PM
+BAG:sanhoangtu add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/21/2023 4:26 PM
+BAG:sanhoangtu add 89xĐá lục bảo (old: 88) lydo: Nhặt từ map at 03/21/2023 4:26 PM
+BAG:sanhoangtu add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/21/2023 4:26 PM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 4:27 PM
+BAG:sanhoangtu add 80xNgọc Rồng 4 sao (old: 79) lydo: Nhặt từ map at 03/21/2023 4:35 PM
+BAG:sanhoangtu add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/21/2023 4:35 PM
+BAG:sanhoangtu add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/21/2023 4:36 PM
+BAG:sanhoangtu add 13xNgọc Rồng 3 sao (old: 12) lydo: Nhặt từ map at 03/21/2023 4:37 PM
+BAG:sanhoangtu add 14xNgọc Rồng 3 sao (old: 13) lydo: Nhặt từ map at 03/21/2023 4:37 PM
+BAG:sanhoangtu add 15xNgọc Rồng 3 sao (old: 14) lydo: Nhặt từ map at 03/21/2023 4:38 PM
+BAG:sanhoangtu add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhặt từ map at 03/21/2023 4:44 PM
+BAG:sanhoangtu add 16xNgọc Rồng 2 sao (old: 15) lydo: Nhặt từ map at 03/21/2023 4:48 PM
+BAG:sanhoangtu add 81xNgọc Rồng 4 sao (old: 80) lydo: Nhặt từ map at 03/21/2023 4:49 PM
+BAG:sanhoangtu add 16xNgọc Rồng 3 sao (old: 15) lydo: Nhặt từ map at 03/21/2023 4:49 PM
+BAG:sanhoangtu add 17xNgọc Rồng 3 sao (old: 16) lydo: Nhặt từ map at 03/21/2023 4:50 PM
+BAG:sanhoangtu add 17xNgọc Rồng 2 sao (old: 16) lydo: Nhặt từ map at 03/21/2023 4:52 PM
+BAG:sanhoangtu add 1xQuần vàng Zealot lydo: Nhặt từ map at 03/21/2023 4:52 PM
+BAG:sanhoangtu add 18xNgọc Rồng 2 sao (old: 17) lydo: Nhặt từ map at 03/21/2023 4:55 PM
+BAG:sanhoangtu add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/21/2023 4:57 PM
+BAG:sanhoangtu add 63xĐá Titan (old: 62) lydo: Nhặt từ map at 03/21/2023 5:12 PM
+BAG:sanhoangtu add 18xNgọc Rồng 3 sao (old: 17) lydo: Nhặt từ map at 03/21/2023 5:13 PM
+BAG:sanhoangtu add 19xNgọc Rồng 3 sao (old: 18) lydo: Nhặt từ map at 03/21/2023 5:13 PM
+BAG:sanhoangtu add 20xNgọc Rồng 3 sao (old: 19) lydo: Nhặt từ map at 03/21/2023 5:13 PM
+BAG:sanhoangtu add 8xPháo hoa (old: 7) lydo: Nhặt từ map at 03/21/2023 5:14 PM
+BAG:sanhoangtu add 1xÁo jean Calic lydo: Nhặt từ map at 03/21/2023 5:15 PM
+BAG:sanhoangtu add 90xĐá lục bảo (old: 89) lydo: Nhặt từ map at 03/21/2023 5:16 PM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 5:52 PM
+BAG:sanhoangtu add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/21/2023 7:28 PM
+BAG:sanhoangtu add 82xNgọc Rồng 4 sao (old: 81) lydo: Nhặt từ map at 03/21/2023 7:29 PM

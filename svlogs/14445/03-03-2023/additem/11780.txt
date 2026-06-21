@@ -1,0 +1,44 @@
+BAG:viral add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/03/2023 12:19 PM
+BAG:viral add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/03/2023 12:19 PM
+BAG:viral add 20xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/03/2023 12:19 PM
+BAG:viral add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/03/2023 12:19 PM
+BAG:viral add 1xQuần sợi len lydo: Nhặt từ map at 03/03/2023 12:25 PM
+BAG:viral add 1xGà quay nguyên con lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:viral add 1xBột mì lydo: Nhặt từ map at 03/03/2023 12:26 PM
+BAG:viral add 1xÁo sợi len lydo: Nhặt từ map at 03/03/2023 12:28 PM
+BAG:viral add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:viral add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:viral add 1xĐậu xanh lydo: Nhặt từ map at 03/03/2023 12:30 PM
+BAG:viral add 1xTrứng vịt muối lydo: Nhặt từ map at 03/03/2023 12:35 PM
+BAG:viral add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/03/2023 12:36 PM
+BAG:viral add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/03/2023 12:37 PM
+BAG:viral add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/03/2023 12:37 PM
+BAG:viral add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/03/2023 12:38 PM
+BAG:viral add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/03/2023 12:38 PM
+BAG:viral add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/03/2023 12:38 PM
+BAG:viral add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/03/2023 12:39 PM
+BAG:viral add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/03/2023 12:39 PM
+BAG:viral add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/03/2023 12:41 PM
+BAG:viral add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/03/2023 12:42 PM
+BAG:viral add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/03/2023 12:42 PM
+BAG:viral add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/03/2023 12:42 PM
+BAG:viral add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/03/2023 12:42 PM
+BAG:viral add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/03/2023 12:43 PM
+BAG:viral add 1000000xThỏi vàng lydo: Giftcode at 03/03/2023 12:44 PM
+BAG:viral add 10000xĐá ngũ sắc lydo: Giftcode at 03/03/2023 12:44 PM
+BAG:viral add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/03/2023 12:44 PM
+BAG:viral add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/03/2023 12:44 PM
+BAG:viral add 1000020xThỏi vàng (old: 1000000) lydo: Đổi vàng at 03/03/2023 12:45 PM
+BAG:viral add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/03/2023 12:45 PM
+BAG:viral add 1xĐá Hắc Hóa lydo: Mua santa at 03/03/2023 12:45 PM
+BAG:viral add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 12:46 PM
+BAG:viral add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/03/2023 12:46 PM
+BAG:viral add 20xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/03/2023 12:50 PM
+BAG:viral add 40xĐậu thần cấp 10 (old: 20) lydo: Lấy từ rương qua người at 03/03/2023 12:50 PM
+BAG:viral add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/03/2023 12:51 PM
+BAG:viral add 1xCải Trang Zeno lydo: Mua từ bill at 03/03/2023 12:51 PM
+BAG:viral add 1xCải trang lydo: Mua từ bill at 03/03/2023 12:51 PM
+BAG:viral add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/03/2023 12:53 PM
+BAG:viral add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/03/2023 1:49 PM
+BAG:viral add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/03/2023 1:49 PM
+BAG:viral add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/03/2023 1:49 PM

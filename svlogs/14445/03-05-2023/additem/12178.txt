@@ -1,0 +1,151 @@
+BAG:triphan add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/05/2023 3:09 AM
+BAG:triphan add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 3:10 AM
+BAG:triphan add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 3:10 AM
+BAG:triphan add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/05/2023 3:11 AM
+BAG:triphan add 4xĐậu thần cấp 1 (old: 3) lydo: Thu hoạch đậu at 03/05/2023 3:12 AM
+BAG:triphan add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/05/2023 3:12 AM
+BAG:triphan add 1xBột mì lydo: Nhặt từ map at 03/05/2023 3:12 AM
+BAG:triphan add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/05/2023 3:13 AM
+BAG:triphan add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/05/2023 3:13 AM
+BAG:triphan add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/05/2023 3:13 AM
+BAG:triphan add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/05/2023 3:13 AM
+BAG:triphan add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 3:13 AM
+BAG:triphan add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/05/2023 3:13 AM
+BAG:triphan add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/05/2023 3:14 AM
+BAG:triphan add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/05/2023 3:14 AM
+BAG:triphan add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/05/2023 3:14 AM
+BAG:triphan add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/05/2023 3:14 AM
+BAG:triphan add 1xGiầy nhựa lydo: Nhặt từ map at 03/05/2023 3:14 AM
+BAG:triphan add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/05/2023 3:15 AM
+BAG:triphan add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/05/2023 3:15 AM
+BAG:triphan add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/05/2023 3:15 AM
+BAG:triphan add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/05/2023 3:16 AM
+BAG:triphan add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/05/2023 3:26 AM
+BAG:triphan add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/05/2023 3:27 AM
+BAG:triphan add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/05/2023 3:27 AM
+BAG:triphan add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/05/2023 3:29 AM
+BAG:triphan add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/05/2023 3:29 AM
+BAG:triphan add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/05/2023 3:29 AM
+BAG:triphan add 25xThỏi vàng lydo: Đổi vàng at 03/05/2023 3:30 AM
+BAG:triphan add 1000025xThỏi vàng (old: 25) lydo: Giftcode at 03/05/2023 3:31 AM
+BAG:triphan add 10000xĐá ngũ sắc lydo: Giftcode at 03/05/2023 3:31 AM
+BAG:triphan add 99xCuồng nộ lydo: Giftcode at 03/05/2023 3:31 AM
+BAG:triphan add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/05/2023 3:32 AM
+BAG:triphan add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/05/2023 3:32 AM
+BAG:triphan add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/05/2023 3:33 AM
+BAG:triphan add 1xCánh thiên thần 2 lydo: Mua từ bill at 03/05/2023 3:33 AM
+BAG:triphan add 1xCải trang lydo: Mua từ bill at 03/05/2023 3:34 AM
+BAG:triphan add 1xCải Trang Thần Zeno lydo: Lấy từ body vào hành trang at 03/05/2023 3:40 AM
+BAG:triphan add 1xCải trang lydo: Lấy từ body đệ vào hành trang at 03/05/2023 3:40 AM
+BAG:triphan add 1xCải trang lydo: Lấy từ body vào hành trang at 03/05/2023 3:40 AM
+BAG:triphan add 99xThỏi vàng lydo: Tách thỏi vàng at 03/05/2023 3:41 AM
+BAG:triphan add 7xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/05/2023 3:42 AM
+BAG:triphan add 23xĐậu thần cấp 10 (old: 7) lydo: Lấy từ rương qua người at 03/05/2023 3:42 AM
+BAG:triphan add 40xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/05/2023 3:42 AM
+BAG:triphan add 57xĐậu thần cấp 10 (old: 40) lydo: Lấy từ rương qua người at 03/05/2023 3:42 AM
+BAG:triphan add 74xĐậu thần cấp 10 (old: 57) lydo: Lấy từ rương qua người at 03/05/2023 3:42 AM
+BAG:triphan add 91xĐậu thần cấp 10 (old: 74) lydo: Lấy từ rương qua người at 03/05/2023 3:43 AM
+BAG:triphan add 4xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/05/2023 3:43 AM
+BAG:triphan add 99xĐậu thần cấp 10 (old: 91) lydo: Lấy từ rương qua người at 03/05/2023 3:43 AM
+BAG:triphan add 1xCải Trang Thần Zeno lydo: Lấy từ body đệ vào hành trang at 03/05/2023 3:46 AM
+BAG:triphan add 1xĐá lục bảo lydo: Nhặt từ map at 03/05/2023 10:19 AM
+BAG:triphan add 2xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/05/2023 10:21 AM
+BAG:triphan add 99xĐậu thần cấp 10 (old: 84) lydo: Lấy từ rương qua người at 03/05/2023 10:21 AM
+BAG:triphan add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 10:23 AM
+BAG:triphan add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 10:24 AM
+BAG:triphan add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 10:24 AM
+BAG:triphan add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 10:24 AM
+BAG:triphan add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 10:24 AM
+BAG:triphan add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 10:24 AM
+BAG:triphan add 1xCải trang lydo: Mua từ cửa hàng at 03/05/2023 10:25 AM
+BAG:triphan add 1xCải trang lydo: Lấy từ body vào hành trang at 03/05/2023 10:26 AM
+BAG:triphan add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/05/2023 10:26 AM
+BAG:triphan add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/05/2023 10:26 AM
+BAG:triphan add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/05/2023 10:26 AM
+BAG:triphan add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:triphan add 1xGiầy nhựa lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:triphan add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:triphan add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:triphan add 1xGiầy nhựa lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:triphan add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:triphan add 1xSao pha lê lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:triphan add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:triphan add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:triphan add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:27 AM
+BAG:triphan add 1xQuần vải đen lydo: Nhặt từ map at 03/05/2023 10:28 AM
+BAG:triphan add 1xGiầy nhựa lydo: Nhặt từ map at 03/05/2023 10:28 AM
+BAG:triphan add 1xGăng vải đen lydo: Nhặt từ map at 03/05/2023 10:28 AM
+BAG:triphan add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:28 AM
+BAG:triphan add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:28 AM
+BAG:triphan add 1xQuần vải đen lydo: Nhặt từ map at 03/05/2023 10:28 AM
+BAG:triphan add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:28 AM
+BAG:triphan add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xGăng vải đen lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xQuần vải đen lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xQuần vải đen lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xGăng vải đen lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:29 AM
+BAG:triphan add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xGăng vải đen lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xQuần vải đen lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xQuần vải đen lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:30 AM
+BAG:triphan add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xGăng vải đen lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xGiầy nhựa lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xGăng vải đen lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xGà quay nguyên con lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xĐậu xanh lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xTrứng vịt muối lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 1xBột mì lydo: Nhặt từ map at 03/05/2023 10:31 AM
+BAG:triphan add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 10:34 AM
+BAG:triphan add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/05/2023 10:34 AM
+BAG:triphan add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/05/2023 10:37 AM
+BAG:triphan add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/05/2023 10:37 AM
+BAG:triphan add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/05/2023 10:37 AM
+BAG:triphan add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/05/2023 10:37 AM
+BAG:triphan add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/05/2023 10:37 AM
+BAG:triphan add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 10:37 AM
+BAG:triphan add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/05/2023 10:37 AM
+BAG:triphan add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/05/2023 10:37 AM
+BAG:triphan add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/05/2023 10:37 AM
+BAG:triphan add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 10:37 AM
+BAG:triphan add 1xSao pha lê lydo: Lấy từ lucky box at 03/05/2023 10:38 AM
+BAG:triphan add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 10:40 AM
+BAG:triphan add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/05/2023 10:40 AM
+BAG:triphan add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 10:40 AM
+BAG:triphan add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/05/2023 10:40 AM
+BAG:triphan add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/05/2023 10:40 AM
+BAG:triphan add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/05/2023 10:41 AM
+BAG:triphan add 1xÁo jean Calic lydo: Mua từ cửa hàng at 03/05/2023 11:26 AM
+BAG:triphan add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/05/2023 11:26 AM
+BAG:triphan add 1xQuần jean Calic lydo: Mua từ cửa hàng at 03/05/2023 11:28 AM
+BAG:triphan add 1xRada cấp 12 lydo: Mua từ cửa hàng at 03/05/2023 11:28 AM
+BAG:triphan add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/05/2023 11:34 AM
+BAG:triphan add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/05/2023 11:34 AM
+BAG:triphan add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/05/2023 11:34 AM
+BAG:triphan add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/05/2023 11:34 AM
+BAG:triphan add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/05/2023 11:34 AM
+BAG:triphan add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/05/2023 11:34 AM
+BAG:triphan add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/05/2023 11:35 AM
+BAG:triphan add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/05/2023 11:35 AM
+BAG:triphan add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/05/2023 11:36 AM

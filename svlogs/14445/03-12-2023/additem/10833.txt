@@ -1,0 +1,80 @@
+BAG:namespace add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 12:48 AM
+BAG:namespace add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/12/2023 12:48 AM
+BAG:namespace add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 12:53 AM
+BAG:namespace add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/12/2023 12:53 AM
+BAG:namespace add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/12/2023 12:53 AM
+BAG:namespace add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 12:54 AM
+BAG:namespace add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 12:54 AM
+BAG:namespace add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/12/2023 12:54 AM
+BAG:namespace add 50xThỏi vàng lydo: Giftcode at 03/12/2023 12:58 AM
+BAG:namespace add 10xSao pha lê lydo: Giftcode at 03/12/2023 12:58 AM
+BAG:namespace add 10xSao pha lê lydo: Giftcode at 03/12/2023 12:58 AM
+BAG:namespace add 10xSao pha lê lydo: Giftcode at 03/12/2023 12:58 AM
+BAG:namespace add 1xCải trang Hit lydo: Giftcode at 03/12/2023 12:58 AM
+BAG:namespace add 10xCuồng nộ lydo: Giftcode at 03/12/2023 12:58 AM
+BAG:namespace add 10xBổ huyết lydo: Giftcode at 03/12/2023 12:58 AM
+BAG:namespace add 10xBổ khí lydo: Giftcode at 03/12/2023 12:58 AM
+BAG:namespace add 10xGiáp Xên bọ hung lydo: Giftcode at 03/12/2023 12:58 AM
+BAG:namespace add 150xThỏi vàng (old: 50) lydo: Giftcode at 03/12/2023 12:59 AM
+BAG:namespace add 1000xPháo hoa lydo: Giftcode at 03/12/2023 12:59 AM
+BAG:namespace add 1xNgọc Rồng 6 sao lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 1xNgọc Rồng 4 sao lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 1xNgọc Rồng 5 sao lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 11xCuồng nộ (old: 10) lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 11xBổ huyết (old: 10) lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 12xCuồng nộ (old: 11) lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 12xBổ huyết (old: 11) lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/12/2023 12:59 AM
+BAG:namespace add 1xNgọc Rồng 7 sao lydo: HQT at 03/12/2023 1:00 AM
+BAG:namespace add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/12/2023 1:00 AM
+BAG:namespace add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/12/2023 1:00 AM
+BAG:namespace add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/12/2023 1:00 AM
+BAG:namespace add 11xBổ khí (old: 10) lydo: HQT at 03/12/2023 1:00 AM
+BAG:namespace add 13xBổ huyết (old: 12) lydo: HQT at 03/12/2023 1:00 AM
+BAG:namespace add 12xBổ khí (old: 11) lydo: HQT at 03/12/2023 1:00 AM
+BAG:namespace add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/12/2023 1:00 AM
+BAG:namespace add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/12/2023 1:00 AM
+BAG:namespace add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/12/2023 1:00 AM
+BAG:namespace add 13xBổ khí (old: 12) lydo: HQT at 03/12/2023 1:00 AM
+BAG:namespace add 13xCuồng nộ (old: 12) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 14xCuồng nộ (old: 13) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 15xCuồng nộ (old: 14) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 16xCuồng nộ (old: 15) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 14xBổ khí (old: 13) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 15xBổ khí (old: 14) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 14xBổ huyết (old: 13) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 17xCuồng nộ (old: 16) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 16xBổ khí (old: 15) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 17xBổ khí (old: 16) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 15xBổ huyết (old: 14) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 18xCuồng nộ (old: 17) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 16xBổ huyết (old: 15) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 18xBổ khí (old: 17) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 19xBổ khí (old: 18) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 17xBổ huyết (old: 16) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/12/2023 1:01 AM
+BAG:namespace add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/12/2023 1:01 AM

@@ -1,0 +1,125 @@
+BAG:cuocvuicodon add 1xCải trang lydo: Mua từ bill at 03/04/2023 5:29 AM
+BAG:cuocvuicodon add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 5:29 AM
+BAG:cuocvuicodon add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 5:29 AM
+BAG:cuocvuicodon add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 5:29 AM
+BAG:cuocvuicodon add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 5:29 AM
+BAG:cuocvuicodon add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 5:29 AM
+BAG:cuocvuicodon add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 5:29 AM
+BAG:cuocvuicodon add 1xĐá ngũ sắc lydo: Mua từ cửa hàng at 03/04/2023 5:31 AM
+BAG:cuocvuicodon add 10xĐậu thần cấp 6 (old: 1) lydo: Thu hoạch đậu at 03/04/2023 5:34 AM
+BAG:cuocvuicodon add 21xĐậu thần cấp 6 (old: 10) lydo: Lấy từ rương qua người at 03/04/2023 5:34 AM
+BAG:cuocvuicodon add 41xĐậu thần cấp 6 (old: 21) lydo: Lấy từ rương qua người at 03/04/2023 5:34 AM
+BAG:cuocvuicodon add 56xĐậu thần cấp 6 (old: 41) lydo: Lấy từ rương qua người at 03/04/2023 5:34 AM
+BAG:cuocvuicodon add 1xÁo choàng thun lydo: Mua từ cửa hàng at 03/04/2023 5:36 AM
+BAG:cuocvuicodon add 1xQuần thun cứng lydo: Mua từ cửa hàng at 03/04/2023 5:36 AM
+BAG:cuocvuicodon add 1xGiày da Pico lydo: Mua từ cửa hàng at 03/04/2023 5:37 AM
+BAG:cuocvuicodon add 1xRada cấp 6 lydo: Mua từ cửa hàng at 03/04/2023 5:37 AM
+BAG:cuocvuicodon add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/04/2023 5:40 AM
+BAG:cuocvuicodon add 1xGăng thun cứng lydo: Mua từ cửa hàng at 03/04/2023 5:40 AM
+BAG:cuocvuicodon add 1xGăng vải Pico lydo: Mua từ cửa hàng at 03/04/2023 5:40 AM
+BAG:cuocvuicodon add 1xGăng da Pico lydo: Mua từ cửa hàng at 03/04/2023 5:40 AM
+BAG:cuocvuicodon add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 03/04/2023 5:40 AM
+BAG:cuocvuicodon add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 5:46 AM
+BAG:cuocvuicodon add 1xÁo choàng thun lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:44 AM
+BAG:cuocvuicodon add 1xQuần thun cứng lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:44 AM
+BAG:cuocvuicodon add 1xGăng sắt Tron lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:44 AM
+BAG:cuocvuicodon add 1xGiày da Pico lydo: Lấy từ body đệ vào hành trang at 03/04/2023 8:45 AM
+BAG:cuocvuicodon add 1xRada cấp 6 lydo: Lấy từ body đệ vào hành trang at 03/04/2023 4:06 PM
+BAG:cuocvuicodon add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/04/2023 4:06 PM
+BAG:cuocvuicodon add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/04/2023 4:06 PM
+BAG:cuocvuicodon add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 4:06 PM
+BAG:cuocvuicodon add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 4:06 PM
+BAG:cuocvuicodon add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 4:06 PM
+BAG:cuocvuicodon add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 4:06 PM
+BAG:cuocvuicodon add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 4:06 PM
+BAG:cuocvuicodon add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/04/2023 4:06 PM
+BAG:cuocvuicodon add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/04/2023 4:06 PM
+BAG:cuocvuicodon add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/04/2023 4:06 PM
+BAG:cuocvuicodon add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 4:07 PM
+BAG:cuocvuicodon add 1xCải trang lydo: Mua từ bill at 03/04/2023 4:13 PM
+BAG:cuocvuicodon add 1xQuần vải thô Pico lydo: Mua từ cửa hàng at 03/04/2023 4:17 PM
+BAG:cuocvuicodon add 1xQuần đồng Tron lydo: Mua từ cửa hàng at 03/04/2023 4:17 PM
+BAG:cuocvuicodon add 1xÁo đồng Tron lydo: Mua từ cửa hàng at 03/04/2023 4:17 PM
+BAG:cuocvuicodon add 1xGăng đồng Tron lydo: Mua từ cửa hàng at 03/04/2023 4:17 PM
+BAG:cuocvuicodon add 1xGiày đồng Tron lydo: Mua từ cửa hàng at 03/04/2023 4:21 PM
+BAG:cuocvuicodon add 1xRada cấp 10 lydo: Mua từ cửa hàng at 03/04/2023 4:21 PM
+BAG:cuocvuicodon add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 9:18 PM
+BAG:cuocvuicodon add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 9:18 PM
+BAG:cuocvuicodon add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 9:19 PM
+BAG:cuocvuicodon add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 9:19 PM
+BAG:cuocvuicodon add 4xĐá Vĩnh Hằng (old: 3) lydo: Mua santa at 03/04/2023 9:19 PM
+BAG:cuocvuicodon add 4xĐá Hắc Hóa (old: 3) lydo: Mua santa at 03/04/2023 9:19 PM
+BAG:cuocvuicodon add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/04/2023 9:19 PM
+BAG:cuocvuicodon add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 9:20 PM
+BAG:cuocvuicodon add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/04/2023 9:20 PM
+BAG:cuocvuicodon add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 9:20 PM
+BAG:cuocvuicodon add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 9:20 PM
+BAG:cuocvuicodon add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 9:21 PM
+BAG:cuocvuicodon add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 9:21 PM
+BAG:cuocvuicodon add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 9:22 PM
+BAG:cuocvuicodon add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 9:22 PM
+BAG:cuocvuicodon add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 9:22 PM
+BAG:cuocvuicodon add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 9:22 PM
+BAG:cuocvuicodon add 1xBột mì lydo: Nhặt từ map at 03/04/2023 9:23 PM
+BAG:cuocvuicodon add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 9:23 PM
+BAG:cuocvuicodon add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 9:23 PM
+BAG:cuocvuicodon add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 9:23 PM
+BAG:cuocvuicodon add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 9:23 PM
+BAG:cuocvuicodon add 1xBột mì lydo: Nhặt từ map at 03/04/2023 9:23 PM
+BAG:cuocvuicodon add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 9:24 PM
+BAG:cuocvuicodon add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 9:33 PM
+BAG:cuocvuicodon add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 9:33 PM
+BAG:cuocvuicodon add 1xCải Trang Thần Zeno Namec lydo: Lấy từ body vào hành trang at 03/04/2023 9:33 PM
+BAG:cuocvuicodon add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 9:33 PM
+BAG:cuocvuicodon add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 9:33 PM
+BAG:cuocvuicodon add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 9:34 PM
+BAG:cuocvuicodon add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 9:35 PM
+BAG:cuocvuicodon add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/04/2023 9:36 PM
+BAG:cuocvuicodon add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/04/2023 9:36 PM
+BAG:cuocvuicodon add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 9:38 PM
+BAG:cuocvuicodon add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 9:38 PM
+BAG:cuocvuicodon add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 9:38 PM
+BAG:cuocvuicodon add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 9:38 PM
+BAG:cuocvuicodon add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 9:40 PM
+BAG:cuocvuicodon add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 9:40 PM
+BAG:cuocvuicodon add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/04/2023 9:40 PM
+BAG:cuocvuicodon add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 9:40 PM
+BAG:cuocvuicodon add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/04/2023 9:40 PM
+BAG:cuocvuicodon add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 9:41 PM
+BAG:cuocvuicodon add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 9:41 PM
+BAG:cuocvuicodon add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/04/2023 9:41 PM
+BAG:cuocvuicodon add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 9:41 PM
+BAG:cuocvuicodon add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 9:41 PM
+BAG:cuocvuicodon add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 9:41 PM
+BAG:cuocvuicodon add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/04/2023 9:41 PM
+BAG:cuocvuicodon add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 9:41 PM
+BAG:cuocvuicodon add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/04/2023 9:41 PM
+BAG:cuocvuicodon add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/04/2023 9:42 PM
+BAG:cuocvuicodon add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 9:42 PM
+BAG:cuocvuicodon add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 9:42 PM
+BAG:cuocvuicodon add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/04/2023 9:42 PM
+BAG:cuocvuicodon add 1xGăng sắt Tron lydo: Cường Hóa trang bị at 03/04/2023 9:43 PM
+BAG:cuocvuicodon add 1xĐá Vĩnh Hằng lydo: Mua santa at 03/04/2023 9:44 PM
+BAG:cuocvuicodon add 1xĐá Hắc Hóa lydo: Mua santa at 03/04/2023 9:44 PM
+BAG:cuocvuicodon add 2xĐá Vĩnh Hằng (old: 1) lydo: Mua santa at 03/04/2023 9:44 PM
+BAG:cuocvuicodon add 2xĐá Hắc Hóa (old: 1) lydo: Mua santa at 03/04/2023 9:44 PM
+BAG:cuocvuicodon add 3xĐá Vĩnh Hằng (old: 2) lydo: Mua santa at 03/04/2023 9:44 PM
+BAG:cuocvuicodon add 3xĐá Hắc Hóa (old: 2) lydo: Mua santa at 03/04/2023 9:44 PM
+BAG:cuocvuicodon add 1xQuần sắt Tron lydo: Cường Hóa trang bị at 03/04/2023 9:44 PM
+BAG:cuocvuicodon add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/04/2023 9:52 PM

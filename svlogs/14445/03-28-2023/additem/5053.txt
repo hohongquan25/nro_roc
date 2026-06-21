@@ -1,0 +1,482 @@
+BAG:readyys add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 12:00 AM
+BAG:readyys add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 12:01 AM
+BAG:readyys add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 12:01 AM
+BAG:readyys add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 12:02 AM
+BAG:readyys add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 12:02 AM
+BAG:readyys add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 12:02 AM
+BAG:readyys add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 12:04 AM
+BAG:readyys add 1xSao pha lê lydo: Lấy từ lucky box at 03/28/2023 12:35 AM
+BAG:readyys add 1xSao pha lê lydo: Lấy từ lucky box at 03/28/2023 12:35 AM
+BAG:readyys add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/28/2023 12:35 AM
+BAG:readyys add 1xSao pha lê lydo: Lấy từ lucky box at 03/28/2023 12:35 AM
+BAG:readyys add 1xSao pha lê lydo: Lấy từ lucky box at 03/28/2023 12:36 AM
+BAG:readyys add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/28/2023 12:36 AM
+BAG:readyys add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/28/2023 12:36 AM
+BAG:readyys add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/28/2023 12:36 AM
+BAG:readyys add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/28/2023 12:38 AM
+BAG:readyys add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/28/2023 12:39 AM
+BAG:readyys add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/28/2023 12:39 AM
+BAG:readyys add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/28/2023 12:39 AM
+BAG:readyys add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/28/2023 12:39 AM
+BAG:readyys add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/28/2023 12:40 AM
+BAG:readyys add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/28/2023 12:40 AM
+BAG:readyys add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/28/2023 12:40 AM
+BAG:readyys add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/28/2023 12:41 AM
+BAG:readyys add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/28/2023 12:41 AM
+BAG:readyys add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/28/2023 12:41 AM
+BAG:readyys add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/28/2023 12:41 AM
+BAG:readyys add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/28/2023 12:41 AM
+BAG:readyys add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/28/2023 12:41 AM
+BAG:readyys add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/28/2023 12:41 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 12:43 AM
+BAG:readyys add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 12:51 AM
+BAG:readyys add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 12:54 AM
+BAG:readyys add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 12:54 AM
+BAG:readyys add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 1:07 AM
+BAG:readyys add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 1:09 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 1:10 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 1:10 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 1:10 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 1:10 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 1:11 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 1:11 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 1:11 AM
+BAG:readyys add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 1:13 AM
+BAG:readyys add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/28/2023 1:13 AM
+BAG:readyys add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/28/2023 1:13 AM
+BAG:readyys add 55xPháo hoa (old: 50) lydo: Nhặt từ map at 03/28/2023 1:14 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:15 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:15 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:15 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:15 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:15 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:15 AM
+BAG:readyys add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 1:15 AM
+BAG:readyys add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/28/2023 1:16 AM
+BAG:readyys add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/28/2023 1:17 AM
+BAG:readyys add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/28/2023 1:17 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 1:18 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 1:18 AM
+BAG:readyys add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 1:20 AM
+BAG:readyys add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 1:21 AM
+BAG:readyys add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 1:21 AM
+BAG:readyys add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 1:22 AM
+BAG:readyys add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 1:22 AM
+BAG:readyys add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 1:22 AM
+BAG:readyys add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/28/2023 1:23 AM
+BAG:readyys add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 1:24 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:24 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:24 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:24 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:24 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:24 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:24 AM
+BAG:readyys add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 1:24 AM
+BAG:readyys add 60xPháo hoa (old: 55) lydo: Nhặt từ map at 03/28/2023 1:25 AM
+BAG:readyys add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 1:28 AM
+BAG:readyys add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 1:29 AM
+BAG:readyys add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 1:29 AM
+BAG:readyys add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 1:30 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:31 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:31 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:32 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:32 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:32 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:32 AM
+BAG:readyys add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 1:35 AM
+BAG:readyys add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 1:35 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 1:35 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 1:35 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 1:35 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 1:35 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 1:35 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 1:35 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 1:35 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 1:35 AM
+BAG:readyys add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 1:39 AM
+BAG:readyys add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 1:40 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:40 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:40 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:40 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:40 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:40 AM
+BAG:readyys add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 1:40 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:41 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 1:41 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 1:41 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 1:41 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 1:41 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 1:41 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 1:41 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 1:41 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 1:41 AM
+BAG:readyys add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 1:41 AM
+BAG:readyys add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 1:43 AM
+BAG:readyys add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 1:43 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 1:43 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 1:43 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 1:43 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 1:43 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 1:43 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 1:43 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 1:43 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 1:43 AM
+BAG:readyys add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 1:44 AM
+BAG:readyys add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 1:44 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 1:44 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 1:44 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 1:45 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 1:45 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 1:45 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 1:45 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 1:45 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 1:45 AM
+BAG:readyys add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 1:46 AM
+BAG:readyys add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 1:46 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 1:46 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 1:46 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 1:46 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 1:46 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 1:46 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 1:46 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 1:46 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 21xĐổi đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/28/2023 1:47 AM
+BAG:readyys add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 1:49 AM
+BAG:readyys add 65xPháo hoa (old: 60) lydo: Nhặt từ map at 03/28/2023 1:50 AM
+BAG:readyys add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 1:50 AM
+BAG:readyys add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 1:51 AM
+BAG:readyys add 70xPháo hoa (old: 65) lydo: Nhặt từ map at 03/28/2023 1:51 AM
+BAG:readyys add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 1:52 AM
+BAG:readyys add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 1:52 AM
+BAG:readyys add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 1:52 AM
+BAG:readyys add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 1:52 AM
+BAG:readyys add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 1:52 AM
+BAG:readyys add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 1:52 AM
+BAG:readyys add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 1:52 AM
+BAG:readyys add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/28/2023 1:54 AM
+BAG:readyys add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 1:54 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:55 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:55 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:55 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:55 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:55 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:55 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 1:58 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 1:58 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 1:58 AM
+BAG:readyys add 75xPháo hoa (old: 70) lydo: Nhặt từ map at 03/28/2023 1:58 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 1:58 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 1:59 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:59 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:59 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:59 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:59 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:59 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 1:59 AM
+BAG:readyys add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 2:04 AM
+BAG:readyys add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 2:07 AM
+BAG:readyys add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 2:07 AM
+BAG:readyys add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 2:07 AM
+BAG:readyys add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 2:07 AM
+BAG:readyys add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 2:07 AM
+BAG:readyys add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 2:08 AM
+BAG:readyys add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 2:08 AM
+BAG:readyys add 80xPháo hoa (old: 75) lydo: Nhặt từ map at 03/28/2023 2:08 AM
+BAG:readyys add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 2:12 AM
+BAG:readyys add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 2:13 AM
+BAG:readyys add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 2:13 AM
+BAG:readyys add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 2:13 AM
+BAG:readyys add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 2:14 AM
+BAG:readyys add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 2:15 AM
+BAG:readyys add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 2:15 AM
+BAG:readyys add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 2:16 AM
+BAG:readyys add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/28/2023 2:16 AM
+BAG:readyys add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/28/2023 2:18 AM
+BAG:readyys add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 2:19 AM
+BAG:readyys add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 2:19 AM
+BAG:readyys add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 2:21 AM
+BAG:readyys add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 2:23 AM
+BAG:readyys add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 2:25 AM
+BAG:readyys add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 2:25 AM
+BAG:readyys add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 2:25 AM
+BAG:readyys add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 2:25 AM
+BAG:readyys add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 2:25 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:25 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:25 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:25 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:25 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:25 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:25 AM
+BAG:readyys add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 2:26 AM
+BAG:readyys add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 2:26 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 2:26 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 2:26 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 2:26 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 2:26 AM
+BAG:readyys add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 2:28 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:29 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:29 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:29 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:29 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:29 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:29 AM
+BAG:readyys add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 2:30 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:35 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:35 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:35 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:35 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:35 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:35 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 2:36 AM
+BAG:readyys add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 2:41 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:43 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:43 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:43 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:43 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:43 AM
+BAG:readyys add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 2:43 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 2:43 AM
+BAG:readyys add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 2:44 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 2:46 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 2:46 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 2:46 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 2:46 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/28/2023 2:46 AM
+BAG:readyys add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 2:48 AM
+BAG:readyys add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 2:49 AM
+BAG:readyys add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 2:49 AM
+BAG:readyys add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 2:49 AM
+BAG:readyys add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 2:49 AM
+BAG:readyys add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 2:49 AM
+BAG:readyys add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 2:49 AM
+BAG:readyys add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 2:49 AM
+BAG:readyys add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 2:49 AM
+BAG:readyys add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 2:49 AM
+BAG:readyys add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 2:50 AM
+BAG:readyys add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 2:50 AM
+BAG:readyys add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 2:50 AM
+BAG:readyys add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/28/2023 2:51 AM
+BAG:readyys add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 2:51 AM
+BAG:readyys add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 2:51 AM
+BAG:readyys add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 2:53 AM
+BAG:readyys add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 2:53 AM
+BAG:readyys add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 2:54 AM
+BAG:readyys add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 2:54 AM
+BAG:readyys add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/28/2023 2:54 AM
+BAG:readyys add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 2:57 AM
+BAG:readyys add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 2:57 AM
+BAG:readyys add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 2:58 AM
+BAG:readyys add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 2:58 AM
+BAG:readyys add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 2:59 AM
+BAG:readyys add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 2:59 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:01 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:01 AM
+BAG:readyys add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 3:02 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 3:02 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 3:02 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 3:02 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 3:02 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 3:02 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 3:02 AM
+BAG:readyys add 85xPháo hoa (old: 80) lydo: Nhặt từ map at 03/28/2023 3:02 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:02 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:02 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:02 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:02 AM
+BAG:readyys add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 3:03 AM
+BAG:readyys add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 3:04 AM
+BAG:readyys add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 3:04 AM
+BAG:readyys add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 3:04 AM
+BAG:readyys add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 3:04 AM
+BAG:readyys add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 3:04 AM
+BAG:readyys add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 3:04 AM
+BAG:readyys add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 3:04 AM
+BAG:readyys add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 3:04 AM
+BAG:readyys add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 3:04 AM
+BAG:readyys add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 3:04 AM
+BAG:readyys add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 3:04 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:10 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:11 AM
+BAG:readyys add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 3:11 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:11 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:11 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:11 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:11 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:13 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:13 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:13 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:13 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:13 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:13 AM
+BAG:readyys add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 3:16 AM
+BAG:readyys add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 3:16 AM
+BAG:readyys add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 3:16 AM
+BAG:readyys add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 3:16 AM
+BAG:readyys add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 3:17 AM
+BAG:readyys add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/28/2023 3:17 AM
+BAG:readyys add 1xĐá Titan lydo: Nhặt từ map at 03/28/2023 3:17 AM
+BAG:readyys add 1xĐá Ruby lydo: Nhặt từ map at 03/28/2023 3:18 AM
+BAG:readyys add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/28/2023 3:18 AM
+BAG:readyys add 90xPháo hoa (old: 85) lydo: Nhặt từ map at 03/28/2023 3:19 AM
+BAG:readyys add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 3:19 AM
+BAG:readyys add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 3:19 AM
+BAG:readyys add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 3:19 AM
+BAG:readyys add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 3:19 AM
+BAG:readyys add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 3:19 AM
+BAG:readyys add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 3:19 AM
+BAG:readyys add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 3:19 AM
+BAG:readyys add 7xNâng cấp kỹ năng 3 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 3:19 AM
+BAG:readyys add 8xNâng cấp kỹ năng 3 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 3:19 AM
+BAG:readyys add 9xNâng cấp kỹ năng 3 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 3:19 AM
+BAG:readyys add 10xNâng cấp kỹ năng 3 đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 3:19 AM
+BAG:readyys add 4xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 3:20 AM
+BAG:readyys add 10xĐậu thần cấp 10 (old: 4) lydo: Thu hoạch đậu at 03/28/2023 3:20 AM
+BAG:readyys add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/28/2023 3:23 AM
+BAG:readyys add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 3:23 AM
+BAG:readyys add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/28/2023 3:23 AM
+BAG:readyys add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/28/2023 3:25 AM
+BAG:readyys add 1xĐá lục bảo lydo: Nhặt từ map at 03/28/2023 3:26 AM
+BAG:readyys add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/28/2023 3:27 AM
+BAG:readyys add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/28/2023 3:27 AM
+BAG:readyys add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/28/2023 3:28 AM
+BAG:readyys add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/28/2023 3:28 AM
+BAG:readyys add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 3:28 AM
+BAG:readyys add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/28/2023 3:28 AM
+BAG:readyys add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/28/2023 3:29 AM
+BAG:readyys add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 3:31 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:32 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:32 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:32 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:32 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:32 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:32 AM
+BAG:readyys add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 3:32 AM
+BAG:readyys add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 3:32 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 3:32 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 3:33 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 3:33 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 3:33 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 3:33 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 3:33 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 3:33 AM
+BAG:readyys add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 3:36 AM
+BAG:readyys add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 3:36 AM
+BAG:readyys add 95xPháo hoa (old: 90) lydo: Nhặt từ map at 03/28/2023 3:37 AM
+BAG:readyys add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 3:37 AM
+BAG:readyys add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 3:37 AM
+BAG:readyys add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 3:37 AM
+BAG:readyys add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 3:37 AM
+BAG:readyys add 1xPháo hoa lydo: Nhặt từ map at 03/28/2023 3:37 AM
+BAG:readyys add 99xPháo hoa (old: 95) lydo: Nhặt từ map at 03/28/2023 3:37 AM
+BAG:readyys add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 3:38 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:41 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:41 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:41 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:42 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:42 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:42 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/28/2023 3:42 AM
+BAG:readyys add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:45 AM
+BAG:readyys add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:45 AM
+BAG:readyys add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:45 AM
+BAG:readyys add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:45 AM
+BAG:readyys add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:45 AM
+BAG:readyys add 1xCải trang Đôrêmon lydo: Lấy từ body đệ vào hành trang at 03/28/2023 3:45 AM
+BAG:readyys add 5xPháo hoa lydo: Nhặt từ map at 03/28/2023 3:45 AM
+BAG:readyys add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 3:45 AM
+BAG:readyys add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 3:45 AM
+BAG:readyys add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 3:45 AM
+BAG:readyys add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 3:45 AM
+BAG:readyys add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 3:45 AM
+BAG:readyys add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 3:45 AM
+BAG:readyys add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 3:45 AM
+BAG:readyys add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 3:45 AM
+BAG:readyys add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 3:45 AM
+BAG:readyys add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 3:45 AM
+BAG:readyys add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 3:50 AM
+BAG:readyys add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 3:50 AM
+BAG:readyys add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 3:50 AM
+BAG:readyys add 7xNâng cấp kỹ năng 2 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 3:50 AM
+BAG:readyys add 8xNâng cấp kỹ năng 2 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 3:50 AM
+BAG:readyys add 9xNâng cấp kỹ năng 2 đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 3:50 AM
+BAG:readyys add 9xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 3:54 AM
+BAG:readyys add 10xĐậu thần cấp 10 (old: 9) lydo: Thu hoạch đậu at 03/28/2023 3:54 AM

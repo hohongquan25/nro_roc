@@ -1,0 +1,578 @@
+BAG:vitdonah add 6xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/07/2023 12:16 AM
+BAG:vitdonah add 23xĐậu thần cấp 10 (old: 6) lydo: Lấy từ rương qua người at 03/07/2023 12:16 AM
+BAG:vitdonah add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/07/2023 12:16 AM
+BAG:vitdonah add 1xTrứng vịt muối lydo: Nhặt từ map at 03/07/2023 8:47 AM
+BAG:vitdonah add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/07/2023 8:47 AM
+BAG:vitdonah add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/07/2023 8:47 AM
+BAG:vitdonah add 1xGà quay nguyên con lydo: Nhặt từ map at 03/07/2023 8:48 AM
+BAG:vitdonah add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/07/2023 8:48 AM
+BAG:vitdonah add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/07/2023 8:48 AM
+BAG:vitdonah add 1xĐá Titan lydo: Nhặt từ map at 03/07/2023 8:49 AM
+BAG:vitdonah add 1xĐá Ruby lydo: Nhặt từ map at 03/07/2023 8:49 AM
+BAG:vitdonah add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/07/2023 8:49 AM
+BAG:vitdonah add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/07/2023 8:50 AM
+BAG:vitdonah add 1xĐá Saphia lydo: Nhặt từ map at 03/07/2023 8:50 AM
+BAG:vitdonah add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/07/2023 8:50 AM
+BAG:vitdonah add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/07/2023 8:50 AM
+BAG:vitdonah add 1xĐậu xanh lydo: Nhặt từ map at 03/07/2023 8:50 AM
+BAG:vitdonah add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/07/2023 8:50 AM
+BAG:vitdonah add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/07/2023 8:51 AM
+BAG:vitdonah add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/07/2023 8:51 AM
+BAG:vitdonah add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/07/2023 8:52 AM
+BAG:vitdonah add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/07/2023 8:52 AM
+BAG:vitdonah add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/07/2023 8:52 AM
+BAG:vitdonah add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/07/2023 8:52 AM
+BAG:vitdonah add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/07/2023 8:52 AM
+BAG:vitdonah add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/07/2023 8:54 AM
+BAG:vitdonah add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/07/2023 8:54 AM
+BAG:vitdonah add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/07/2023 8:55 AM
+BAG:vitdonah add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/07/2023 8:55 AM
+BAG:vitdonah add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/07/2023 8:55 AM
+BAG:vitdonah add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/07/2023 8:55 AM
+BAG:vitdonah add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/07/2023 8:55 AM
+BAG:vitdonah add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/07/2023 8:55 AM
+BAG:vitdonah add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/07/2023 8:56 AM
+BAG:vitdonah add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/07/2023 8:56 AM
+BAG:vitdonah add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/07/2023 8:56 AM
+BAG:vitdonah add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/07/2023 8:56 AM
+BAG:vitdonah add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/07/2023 8:56 AM
+BAG:vitdonah add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/07/2023 8:56 AM
+BAG:vitdonah add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/07/2023 8:57 AM
+BAG:vitdonah add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/07/2023 8:57 AM
+BAG:vitdonah add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/07/2023 8:57 AM
+BAG:vitdonah add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/07/2023 8:57 AM
+BAG:vitdonah add 1xVán bay VIP lydo: Mua từ cửa hàng at 03/07/2023 8:57 AM
+BAG:vitdonah add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/07/2023 8:58 AM
+BAG:vitdonah add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/07/2023 8:58 AM
+BAG:vitdonah add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/07/2023 8:58 AM
+BAG:vitdonah add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/07/2023 8:59 AM
+BAG:vitdonah add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/07/2023 8:59 AM
+BAG:vitdonah add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/07/2023 8:59 AM
+BAG:vitdonah add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/07/2023 9:00 AM
+BAG:vitdonah add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/07/2023 9:01 AM
+BAG:vitdonah add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/07/2023 9:01 AM
+BAG:vitdonah add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/07/2023 9:01 AM
+BAG:vitdonah add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/07/2023 9:01 AM
+BAG:vitdonah add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/07/2023 9:02 AM
+BAG:vitdonah add 1xCải trang Black Gohan Rose lydo: Lấy từ lucky box at 03/07/2023 9:04 AM
+BAG:vitdonah add 50xThỏi vàng lydo: Giftcode at 03/07/2023 9:04 AM
+BAG:vitdonah add 10xSao pha lê lydo: Giftcode at 03/07/2023 9:04 AM
+BAG:vitdonah add 10xSao pha lê lydo: Giftcode at 03/07/2023 9:04 AM
+BAG:vitdonah add 10xSao pha lê lydo: Giftcode at 03/07/2023 9:04 AM
+BAG:vitdonah add 1xCải trang Hit lydo: Giftcode at 03/07/2023 9:04 AM
+BAG:vitdonah add 1xGăng sắt lydo: Mua từ cửa hàng at 03/07/2023 9:05 AM
+BAG:vitdonah add 1xGăng đồng lydo: Mua từ cửa hàng at 03/07/2023 9:05 AM
+BAG:vitdonah add 1xGăng bạc lydo: Mua từ cửa hàng at 03/07/2023 9:05 AM
+BAG:vitdonah add 1xGăng vàng lydo: Mua từ cửa hàng at 03/07/2023 9:05 AM
+BAG:vitdonah add 1xGăng lông Xayda lydo: Mua từ cửa hàng at 03/07/2023 9:05 AM
+BAG:vitdonah add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/07/2023 9:05 AM
+BAG:vitdonah add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 03/07/2023 9:05 AM
+BAG:vitdonah add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 03/07/2023 9:05 AM
+BAG:vitdonah add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/07/2023 9:06 AM
+BAG:vitdonah add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/07/2023 9:06 AM
+BAG:vitdonah add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/07/2023 9:06 AM
+BAG:vitdonah add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/07/2023 9:06 AM
+BAG:vitdonah add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/07/2023 9:11 AM
+BAG:vitdonah add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/07/2023 9:11 AM
+BAG:vitdonah add 1xGiầy vải thô lydo: Mua từ cửa hàng at 03/07/2023 9:12 AM
+BAG:vitdonah add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:10 AM
+BAG:vitdonah add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:10 AM
+BAG:vitdonah add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:10 AM
+BAG:vitdonah add 1xGăng lông đỏ lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:10 AM
+BAG:vitdonah add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:10 AM
+BAG:vitdonah add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:10 AM
+BAG:vitdonah add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/07/2023 10:11 AM
+BAG:vitdonah add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/07/2023 10:11 AM
+BAG:vitdonah add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/07/2023 10:11 AM
+BAG:vitdonah add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/07/2023 10:11 AM
+BAG:vitdonah add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/07/2023 10:11 AM
+BAG:vitdonah add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/07/2023 10:11 AM
+BAG:vitdonah add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:42 AM
+BAG:vitdonah add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:42 AM
+BAG:vitdonah add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:42 AM
+BAG:vitdonah add 1xGăng lông đỏ lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:42 AM
+BAG:vitdonah add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:42 AM
+BAG:vitdonah add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/07/2023 10:42 AM
+BAG:vitdonah add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/07/2023 10:44 AM
+BAG:vitdonah add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/07/2023 10:46 AM
+BAG:vitdonah add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/07/2023 10:46 AM
+BAG:vitdonah add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/07/2023 10:46 AM
+BAG:vitdonah add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/07/2023 10:46 AM
+BAG:vitdonah add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/07/2023 10:46 AM
+BAG:vitdonah add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/07/2023 10:46 AM
+BAG:vitdonah add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/07/2023 11:16 AM
+BAG:vitdonah add 1xGăng Kaio lydo: Mua từ cửa hàng at 03/07/2023 11:19 AM
+BAG:vitdonah add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/07/2023 11:19 AM
+BAG:vitdonah add 1xMảnh vỡ bông tai lydo: Nhặt từ map at 03/07/2023 11:21 AM
+BAG:vitdonah add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/07/2023 11:53 AM
+BAG:vitdonah add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/07/2023 11:59 AM
+BAG:vitdonah add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 12:00 PM
+BAG:vitdonah add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 12:00 PM
+BAG:vitdonah add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 12:00 PM
+BAG:vitdonah add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/07/2023 12:00 PM
+BAG:vitdonah add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 03/07/2023 12:00 PM
+BAG:vitdonah add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/07/2023 12:01 PM
+BAG:vitdonah add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/07/2023 12:01 PM
+BAG:vitdonah add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/07/2023 12:02 PM
+BAG:vitdonah add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/07/2023 12:02 PM
+BAG:vitdonah add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/07/2023 12:02 PM
+BAG:vitdonah add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/07/2023 12:02 PM
+BAG:vitdonah add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/07/2023 12:02 PM
+BAG:vitdonah add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/07/2023 12:02 PM
+BAG:vitdonah add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/07/2023 12:02 PM
+BAG:vitdonah add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/07/2023 12:02 PM
+BAG:vitdonah add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/07/2023 12:02 PM
+BAG:vitdonah add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/07/2023 12:02 PM
+BAG:vitdonah add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/07/2023 12:03 PM
+BAG:vitdonah add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/07/2023 12:03 PM
+BAG:vitdonah add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/07/2023 12:03 PM
+BAG:vitdonah add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/07/2023 12:03 PM
+BAG:vitdonah add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/07/2023 12:03 PM
+BAG:vitdonah add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/07/2023 12:03 PM
+BAG:vitdonah add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/07/2023 12:03 PM
+BAG:vitdonah add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/07/2023 12:04 PM
+BAG:vitdonah add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/07/2023 12:04 PM
+BAG:vitdonah add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/07/2023 12:04 PM
+BAG:vitdonah add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/07/2023 12:04 PM
+BAG:vitdonah add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:vitdonah add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:vitdonah add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:vitdonah add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:vitdonah add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:vitdonah add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:vitdonah add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:vitdonah add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:vitdonah add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/07/2023 12:05 PM
+BAG:vitdonah add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/07/2023 12:06 PM
+BAG:vitdonah add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/07/2023 12:06 PM
+BAG:vitdonah add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/07/2023 12:06 PM
+BAG:vitdonah add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/07/2023 12:06 PM
+BAG:vitdonah add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/07/2023 12:06 PM
+BAG:vitdonah add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/07/2023 12:06 PM
+BAG:vitdonah add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/07/2023 12:06 PM
+BAG:vitdonah add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/07/2023 12:07 PM
+BAG:vitdonah add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/07/2023 12:07 PM
+BAG:vitdonah add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/07/2023 12:07 PM
+BAG:vitdonah add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/07/2023 12:07 PM
+BAG:vitdonah add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/07/2023 12:07 PM
+BAG:vitdonah add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/07/2023 12:07 PM
+BAG:vitdonah add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/07/2023 12:07 PM
+BAG:vitdonah add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/07/2023 12:08 PM
+BAG:vitdonah add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/07/2023 12:08 PM
+BAG:vitdonah add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/07/2023 12:08 PM
+BAG:vitdonah add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/07/2023 12:08 PM
+BAG:vitdonah add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/07/2023 12:08 PM
+BAG:vitdonah add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/07/2023 12:08 PM
+BAG:vitdonah add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/07/2023 12:09 PM
+BAG:vitdonah add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/07/2023 12:09 PM
+BAG:vitdonah add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/07/2023 12:10 PM
+BAG:vitdonah add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/07/2023 12:11 PM
+BAG:vitdonah add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/07/2023 12:11 PM
+BAG:vitdonah add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/07/2023 12:11 PM
+BAG:vitdonah add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/07/2023 12:11 PM
+BAG:vitdonah add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/07/2023 12:12 PM
+BAG:vitdonah add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/07/2023 12:12 PM
+BAG:vitdonah add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/07/2023 12:12 PM
+BAG:vitdonah add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/07/2023 12:12 PM
+BAG:vitdonah add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/07/2023 12:12 PM
+BAG:vitdonah add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/07/2023 12:12 PM
+BAG:vitdonah add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/07/2023 12:12 PM
+BAG:vitdonah add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/07/2023 12:12 PM
+BAG:vitdonah add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/07/2023 12:12 PM
+BAG:vitdonah add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/07/2023 12:13 PM
+BAG:vitdonah add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/07/2023 12:13 PM
+BAG:vitdonah add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/07/2023 12:13 PM
+BAG:vitdonah add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/07/2023 12:13 PM
+BAG:vitdonah add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/07/2023 12:13 PM
+BAG:vitdonah add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/07/2023 12:13 PM
+BAG:vitdonah add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/07/2023 12:13 PM
+BAG:vitdonah add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/07/2023 12:13 PM
+BAG:vitdonah add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/07/2023 12:14 PM
+BAG:vitdonah add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/07/2023 12:14 PM
+BAG:vitdonah add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/07/2023 12:14 PM
+BAG:vitdonah add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/07/2023 12:14 PM
+BAG:vitdonah add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/07/2023 12:14 PM
+BAG:vitdonah add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/07/2023 12:14 PM
+BAG:vitdonah add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/07/2023 12:15 PM
+BAG:vitdonah add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/07/2023 12:15 PM
+BAG:vitdonah add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/07/2023 12:15 PM
+BAG:vitdonah add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/07/2023 12:15 PM
+BAG:vitdonah add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/07/2023 12:15 PM
+BAG:vitdonah add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/07/2023 12:15 PM
+BAG:vitdonah add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/07/2023 12:16 PM
+BAG:vitdonah add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/07/2023 12:16 PM
+BAG:vitdonah add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/07/2023 12:16 PM
+BAG:vitdonah add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/07/2023 12:16 PM
+BAG:vitdonah add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/07/2023 12:16 PM
+BAG:vitdonah add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/07/2023 12:16 PM
+BAG:vitdonah add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/07/2023 12:16 PM
+BAG:vitdonah add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/07/2023 12:16 PM
+BAG:vitdonah add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/07/2023 12:17 PM
+BAG:vitdonah add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/07/2023 12:28 PM
+BAG:vitdonah add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/07/2023 12:28 PM
+BAG:vitdonah add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/07/2023 12:28 PM
+BAG:vitdonah add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/07/2023 12:29 PM
+BAG:vitdonah add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/07/2023 12:29 PM
+BAG:vitdonah add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/07/2023 12:29 PM
+BAG:vitdonah add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/07/2023 12:29 PM
+BAG:vitdonah add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/07/2023 12:29 PM
+BAG:vitdonah add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/07/2023 12:29 PM
+BAG:vitdonah add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/07/2023 12:30 PM
+BAG:vitdonah add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/07/2023 12:30 PM
+BAG:vitdonah add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/07/2023 12:30 PM
+BAG:vitdonah add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/07/2023 12:30 PM
+BAG:vitdonah add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/07/2023 12:30 PM
+BAG:vitdonah add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/07/2023 12:30 PM
+BAG:vitdonah add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/07/2023 12:30 PM
+BAG:vitdonah add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/07/2023 12:30 PM
+BAG:vitdonah add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/07/2023 12:30 PM
+BAG:vitdonah add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/07/2023 12:31 PM
+BAG:vitdonah add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/07/2023 12:31 PM
+BAG:vitdonah add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/07/2023 12:31 PM
+BAG:vitdonah add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/07/2023 12:31 PM
+BAG:vitdonah add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/07/2023 12:31 PM
+BAG:vitdonah add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/07/2023 12:31 PM
+BAG:vitdonah add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/07/2023 12:31 PM
+BAG:vitdonah add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/07/2023 12:31 PM
+BAG:vitdonah add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/07/2023 12:32 PM
+BAG:vitdonah add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/07/2023 12:32 PM
+BAG:vitdonah add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/07/2023 12:32 PM
+BAG:vitdonah add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/07/2023 12:32 PM
+BAG:vitdonah add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/07/2023 12:33 PM
+BAG:vitdonah add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/07/2023 12:33 PM
+BAG:vitdonah add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/07/2023 12:33 PM
+BAG:vitdonah add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/07/2023 12:33 PM
+BAG:vitdonah add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/07/2023 12:33 PM
+BAG:vitdonah add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/07/2023 12:33 PM
+BAG:vitdonah add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/07/2023 12:33 PM
+BAG:vitdonah add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/07/2023 12:33 PM
+BAG:vitdonah add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/07/2023 12:34 PM
+BAG:vitdonah add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/07/2023 12:34 PM
+BAG:vitdonah add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/07/2023 12:34 PM
+BAG:vitdonah add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/07/2023 12:34 PM
+BAG:vitdonah add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/07/2023 12:34 PM
+BAG:vitdonah add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/07/2023 12:34 PM
+BAG:vitdonah add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/07/2023 12:34 PM
+BAG:vitdonah add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/07/2023 12:34 PM
+BAG:vitdonah add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/07/2023 12:34 PM
+BAG:vitdonah add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/07/2023 12:34 PM
+BAG:vitdonah add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/07/2023 12:34 PM
+BAG:vitdonah add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/07/2023 12:35 PM
+BAG:vitdonah add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/07/2023 12:35 PM
+BAG:vitdonah add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/07/2023 12:35 PM
+BAG:vitdonah add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/07/2023 12:35 PM
+BAG:vitdonah add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/07/2023 12:35 PM
+BAG:vitdonah add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/07/2023 12:35 PM
+BAG:vitdonah add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/07/2023 12:35 PM
+BAG:vitdonah add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/07/2023 12:35 PM
+BAG:vitdonah add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/07/2023 12:36 PM
+BAG:vitdonah add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/07/2023 12:36 PM
+BAG:vitdonah add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/07/2023 12:36 PM
+BAG:vitdonah add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/07/2023 12:36 PM
+BAG:vitdonah add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/07/2023 12:36 PM
+BAG:vitdonah add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/07/2023 12:36 PM
+BAG:vitdonah add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/07/2023 12:36 PM
+BAG:vitdonah add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/07/2023 12:37 PM
+BAG:vitdonah add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/07/2023 12:37 PM
+BAG:vitdonah add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/07/2023 12:37 PM
+BAG:vitdonah add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/07/2023 12:37 PM
+BAG:vitdonah add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/07/2023 12:37 PM
+BAG:vitdonah add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/07/2023 12:37 PM
+BAG:vitdonah add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/07/2023 12:37 PM
+BAG:vitdonah add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/07/2023 12:38 PM
+BAG:vitdonah add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/07/2023 12:38 PM
+BAG:vitdonah add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/07/2023 12:38 PM
+BAG:vitdonah add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/07/2023 12:38 PM
+BAG:vitdonah add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/07/2023 12:38 PM
+BAG:vitdonah add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/07/2023 12:38 PM
+BAG:vitdonah add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/07/2023 12:38 PM
+BAG:vitdonah add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/07/2023 12:39 PM
+BAG:vitdonah add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/07/2023 12:39 PM
+BAG:vitdonah add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/07/2023 12:39 PM
+BAG:vitdonah add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/07/2023 12:39 PM
+BAG:vitdonah add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/07/2023 12:39 PM
+BAG:vitdonah add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/07/2023 12:40 PM
+BAG:vitdonah add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/07/2023 12:40 PM
+BAG:vitdonah add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/07/2023 12:40 PM
+BAG:vitdonah add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/07/2023 12:40 PM
+BAG:vitdonah add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/07/2023 12:40 PM
+BAG:vitdonah add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/07/2023 12:41 PM
+BAG:vitdonah add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/07/2023 12:41 PM
+BAG:vitdonah add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/07/2023 12:41 PM
+BAG:vitdonah add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/07/2023 12:41 PM
+BAG:vitdonah add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/07/2023 12:41 PM
+BAG:vitdonah add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/07/2023 12:41 PM
+BAG:vitdonah add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/07/2023 12:41 PM
+BAG:vitdonah add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/07/2023 12:41 PM
+BAG:vitdonah add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/07/2023 12:42 PM
+BAG:vitdonah add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 03/07/2023 12:42 PM
+BAG:vitdonah add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/07/2023 12:42 PM
+BAG:vitdonah add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/07/2023 12:42 PM
+BAG:vitdonah add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/07/2023 12:42 PM
+BAG:vitdonah add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/07/2023 12:43 PM
+BAG:vitdonah add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/07/2023 12:44 PM
+BAG:vitdonah add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/07/2023 12:44 PM
+BAG:vitdonah add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/07/2023 12:44 PM
+BAG:vitdonah add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 03/07/2023 12:45 PM
+BAG:vitdonah add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/07/2023 12:45 PM
+BAG:vitdonah add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/07/2023 12:45 PM
+BAG:vitdonah add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/07/2023 12:45 PM
+BAG:vitdonah add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/07/2023 12:46 PM
+BAG:vitdonah add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/07/2023 12:46 PM
+BAG:vitdonah add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/07/2023 12:46 PM
+BAG:vitdonah add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/07/2023 12:46 PM
+BAG:vitdonah add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/07/2023 12:46 PM
+BAG:vitdonah add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/07/2023 12:46 PM
+BAG:vitdonah add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/07/2023 12:46 PM
+BAG:vitdonah add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/07/2023 12:46 PM
+BAG:vitdonah add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/07/2023 12:46 PM
+BAG:vitdonah add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/07/2023 12:47 PM
+BAG:vitdonah add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/07/2023 12:47 PM
+BAG:vitdonah add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/07/2023 12:47 PM
+BAG:vitdonah add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/07/2023 12:47 PM
+BAG:vitdonah add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/07/2023 12:47 PM
+BAG:vitdonah add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/07/2023 12:47 PM
+BAG:vitdonah add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/07/2023 12:47 PM
+BAG:vitdonah add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/07/2023 12:48 PM
+BAG:vitdonah add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/07/2023 12:48 PM
+BAG:vitdonah add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/07/2023 12:48 PM
+BAG:vitdonah add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/07/2023 12:48 PM
+BAG:vitdonah add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/07/2023 12:48 PM
+BAG:vitdonah add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/07/2023 12:48 PM
+BAG:vitdonah add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/07/2023 12:49 PM
+BAG:vitdonah add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/07/2023 12:49 PM
+BAG:vitdonah add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/07/2023 12:49 PM
+BAG:vitdonah add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/07/2023 12:49 PM
+BAG:vitdonah add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/07/2023 12:49 PM
+BAG:vitdonah add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/07/2023 12:49 PM
+BAG:vitdonah add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/07/2023 12:49 PM
+BAG:vitdonah add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/07/2023 12:49 PM
+BAG:vitdonah add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/07/2023 12:49 PM
+BAG:vitdonah add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/07/2023 12:50 PM
+BAG:vitdonah add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/07/2023 12:50 PM
+BAG:vitdonah add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 03/07/2023 12:50 PM
+BAG:vitdonah add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/07/2023 12:50 PM
+BAG:vitdonah add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/07/2023 12:51 PM
+BAG:vitdonah add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/07/2023 12:51 PM
+BAG:vitdonah add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/07/2023 12:51 PM
+BAG:vitdonah add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/07/2023 12:52 PM
+BAG:vitdonah add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/07/2023 12:52 PM
+BAG:vitdonah add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/07/2023 12:52 PM
+BAG:vitdonah add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 03/07/2023 12:52 PM
+BAG:vitdonah add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 03/07/2023 12:52 PM
+BAG:vitdonah add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/07/2023 12:52 PM
+BAG:vitdonah add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/07/2023 12:52 PM
+BAG:vitdonah add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 03/07/2023 12:53 PM
+BAG:vitdonah add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/07/2023 12:53 PM
+BAG:vitdonah add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/07/2023 12:53 PM
+BAG:vitdonah add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/07/2023 12:53 PM
+BAG:vitdonah add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/07/2023 12:54 PM
+BAG:vitdonah add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/07/2023 12:54 PM
+BAG:vitdonah add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/07/2023 12:54 PM
+BAG:vitdonah add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/07/2023 12:54 PM
+BAG:vitdonah add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/07/2023 12:54 PM
+BAG:vitdonah add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/07/2023 12:54 PM
+BAG:vitdonah add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/07/2023 12:54 PM
+BAG:vitdonah add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/07/2023 12:54 PM
+BAG:vitdonah add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/07/2023 12:54 PM
+BAG:vitdonah add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/07/2023 12:54 PM
+BAG:vitdonah add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 03/07/2023 12:55 PM
+BAG:vitdonah add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/07/2023 12:55 PM
+BAG:vitdonah add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/07/2023 12:55 PM
+BAG:vitdonah add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/07/2023 12:55 PM
+BAG:vitdonah add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/07/2023 12:55 PM
+BAG:vitdonah add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/07/2023 12:55 PM
+BAG:vitdonah add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 03/07/2023 12:55 PM
+BAG:vitdonah add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/07/2023 12:56 PM
+BAG:vitdonah add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/07/2023 12:56 PM
+BAG:vitdonah add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/07/2023 12:56 PM
+BAG:vitdonah add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/07/2023 12:56 PM
+BAG:vitdonah add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 03/07/2023 12:56 PM
+BAG:vitdonah add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/07/2023 12:56 PM
+BAG:vitdonah add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 03/07/2023 12:56 PM
+BAG:vitdonah add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/07/2023 12:56 PM
+BAG:vitdonah add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/07/2023 12:57 PM
+BAG:vitdonah add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/07/2023 12:57 PM
+BAG:vitdonah add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/07/2023 12:58 PM
+BAG:vitdonah add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 03/07/2023 12:58 PM
+BAG:vitdonah add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/07/2023 12:59 PM
+BAG:vitdonah add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 03/07/2023 12:59 PM
+BAG:vitdonah add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/07/2023 12:59 PM
+BAG:vitdonah add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/07/2023 1:00 PM
+BAG:vitdonah add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/07/2023 1:00 PM
+BAG:vitdonah add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 03/07/2023 1:01 PM
+BAG:vitdonah add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/07/2023 1:01 PM
+BAG:vitdonah add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/07/2023 1:01 PM
+BAG:vitdonah add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/07/2023 1:02 PM
+BAG:vitdonah add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/07/2023 1:02 PM
+BAG:vitdonah add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/07/2023 1:02 PM
+BAG:vitdonah add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/07/2023 1:03 PM
+BAG:vitdonah add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/07/2023 1:03 PM
+BAG:vitdonah add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/07/2023 1:03 PM
+BAG:vitdonah add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 03/07/2023 1:05 PM
+BAG:vitdonah add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/07/2023 1:05 PM
+BAG:vitdonah add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 03/07/2023 1:05 PM
+BAG:vitdonah add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/07/2023 1:05 PM
+BAG:vitdonah add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/07/2023 1:05 PM
+BAG:vitdonah add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/07/2023 1:06 PM
+BAG:vitdonah add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/07/2023 1:06 PM
+BAG:vitdonah add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/07/2023 1:06 PM
+BAG:vitdonah add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/07/2023 1:07 PM
+BAG:vitdonah add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/07/2023 1:07 PM
+BAG:vitdonah add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 03/07/2023 1:07 PM
+BAG:vitdonah add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/07/2023 1:08 PM
+BAG:vitdonah add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/07/2023 1:08 PM
+BAG:vitdonah add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/07/2023 1:08 PM
+BAG:vitdonah add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/07/2023 1:09 PM
+BAG:vitdonah add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/07/2023 1:09 PM
+BAG:vitdonah add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/07/2023 1:09 PM
+BAG:vitdonah add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 03/07/2023 1:09 PM
+BAG:vitdonah add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/07/2023 1:09 PM
+BAG:vitdonah add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/07/2023 1:09 PM
+BAG:vitdonah add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/07/2023 1:09 PM
+BAG:vitdonah add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/07/2023 1:09 PM
+BAG:vitdonah add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/07/2023 1:10 PM
+BAG:vitdonah add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/07/2023 1:10 PM
+BAG:vitdonah add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 03/07/2023 1:10 PM
+BAG:vitdonah add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/07/2023 1:10 PM
+BAG:vitdonah add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 03/07/2023 1:11 PM
+BAG:vitdonah add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/07/2023 1:11 PM
+BAG:vitdonah add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/07/2023 1:11 PM
+BAG:vitdonah add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/07/2023 1:11 PM
+BAG:vitdonah add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/07/2023 1:12 PM
+BAG:vitdonah add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/07/2023 1:12 PM
+BAG:vitdonah add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/07/2023 1:12 PM
+BAG:vitdonah add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/07/2023 1:12 PM
+BAG:vitdonah add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 03/07/2023 1:12 PM
+BAG:vitdonah add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/07/2023 1:12 PM
+BAG:vitdonah add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/07/2023 1:12 PM
+BAG:vitdonah add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/07/2023 1:12 PM
+BAG:vitdonah add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/07/2023 1:13 PM
+BAG:vitdonah add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 03/07/2023 1:13 PM
+BAG:vitdonah add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/07/2023 1:13 PM
+BAG:vitdonah add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/07/2023 1:13 PM
+BAG:vitdonah add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/07/2023 1:14 PM
+BAG:vitdonah add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/07/2023 1:14 PM
+BAG:vitdonah add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 03/07/2023 1:14 PM
+BAG:vitdonah add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/07/2023 1:14 PM
+BAG:vitdonah add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/07/2023 1:15 PM
+BAG:vitdonah add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/07/2023 1:15 PM
+BAG:vitdonah add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/07/2023 1:15 PM
+BAG:vitdonah add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/07/2023 1:15 PM
+BAG:vitdonah add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/07/2023 1:15 PM
+BAG:vitdonah add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/07/2023 1:23 PM
+BAG:vitdonah add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/07/2023 1:24 PM
+BAG:vitdonah add 1xGiáp tập luyện cấp 3 lydo: Lấy từ rương qua người at 03/07/2023 1:27 PM
+BAG:vitdonah add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/07/2023 1:27 PM
+BAG:vitdonah add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/07/2023 1:27 PM
+BAG:vitdonah add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/07/2023 1:27 PM
+BAG:vitdonah add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/07/2023 1:27 PM
+BAG:vitdonah add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/07/2023 1:27 PM
+BAG:vitdonah add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/07/2023 1:28 PM
+BAG:vitdonah add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/07/2023 1:28 PM
+BAG:vitdonah add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/07/2023 1:28 PM
+BAG:vitdonah add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/07/2023 1:28 PM
+BAG:vitdonah add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/07/2023 1:28 PM
+BAG:vitdonah add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/07/2023 1:28 PM
+BAG:vitdonah add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/07/2023 1:28 PM
+BAG:vitdonah add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/07/2023 1:28 PM
+BAG:vitdonah add 1xGiáp tập luyện cấp 3 lydo: Lấy từ rương qua người at 03/07/2023 1:29 PM
+BAG:vitdonah add 10xCuồng nộ lydo: Giftcode at 03/07/2023 1:30 PM
+BAG:vitdonah add 10xBổ huyết lydo: Giftcode at 03/07/2023 1:30 PM
+BAG:vitdonah add 10xBổ khí lydo: Giftcode at 03/07/2023 1:30 PM
+BAG:vitdonah add 10xGiáp Xên bọ hung lydo: Giftcode at 03/07/2023 1:30 PM
+BAG:vitdonah add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/07/2023 1:31 PM
+BAG:vitdonah add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 03/07/2023 1:32 PM
+BAG:vitdonah add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/07/2023 1:40 PM
+BAG:vitdonah add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/07/2023 1:57 PM
+BAG:vitdonah add 28xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/07/2023 1:57 PM
+BAG:vitdonah add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/07/2023 1:59 PM
+BAG:vitdonah add 1xGiáp tập luyện cấp 1 lydo: Lấy từ rương qua người at 03/07/2023 1:59 PM
+BAG:vitdonah add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/07/2023 2:03 PM
+BAG:vitdonah add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/07/2023 2:03 PM
+BAG:vitdonah add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/07/2023 2:03 PM
+BAG:vitdonah add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/07/2023 2:03 PM
+BAG:vitdonah add 1xCải trang Black Gohan Rose lydo: Lấy từ body vào hành trang at 03/07/2023 2:06 PM
+BAG:vitdonah add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/07/2023 2:24 PM
+BAG:vitdonah add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/07/2023 2:26 PM
+BAG:vitdonah add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/07/2023 2:27 PM
+BAG:vitdonah add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/07/2023 2:27 PM
+BAG:vitdonah add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/07/2023 2:27 PM
+BAG:vitdonah add 1xCải trang Black Goku SSJ White lydo: Lấy từ lucky box at 03/07/2023 2:53 PM
+BAG:vitdonah add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 03/07/2023 2:54 PM
+BAG:vitdonah add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 03/07/2023 2:54 PM
+BAG:vitdonah add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 03/07/2023 2:54 PM
+BAG:vitdonah add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 03/07/2023 2:54 PM
+BAG:vitdonah add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 03/07/2023 2:54 PM
+BAG:vitdonah add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 03/07/2023 2:54 PM
+BAG:vitdonah add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 03/07/2023 2:54 PM
+BAG:vitdonah add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/07/2023 3:03 PM
+BAG:vitdonah add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/07/2023 3:04 PM
+BAG:vitdonah add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 03/07/2023 3:05 PM
+BAG:vitdonah add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/07/2023 3:06 PM
+BAG:vitdonah add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/07/2023 3:06 PM
+BAG:vitdonah add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/07/2023 3:07 PM
+BAG:vitdonah add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhặt từ map at 03/07/2023 3:07 PM
+BAG:vitdonah add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/07/2023 3:07 PM
+BAG:vitdonah add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhặt từ map at 03/07/2023 3:09 PM
+BAG:vitdonah add 55xNgọc Rồng 4 sao (old: 54) lydo: Nhặt từ map at 03/07/2023 3:09 PM
+BAG:vitdonah add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/07/2023 3:09 PM
+BAG:vitdonah add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/07/2023 3:10 PM
+BAG:vitdonah add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/07/2023 3:10 PM
+BAG:vitdonah add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/07/2023 3:11 PM
+BAG:vitdonah add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/07/2023 3:11 PM
+BAG:vitdonah add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/07/2023 3:14 PM
+BAG:vitdonah add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/07/2023 3:38 PM
+BAG:vitdonah add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/07/2023 4:14 PM
+BAG:vitdonah add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/07/2023 4:15 PM
+BAG:vitdonah add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/07/2023 4:23 PM
+BAG:vitdonah add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/07/2023 4:24 PM
+BAG:vitdonah add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/07/2023 4:25 PM
+BAG:vitdonah add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/07/2023 4:25 PM
+BAG:vitdonah add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/07/2023 4:25 PM
+BAG:vitdonah add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/07/2023 4:25 PM
+BAG:vitdonah add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/07/2023 4:34 PM
+BAG:vitdonah add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/07/2023 4:34 PM
+BAG:vitdonah add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/07/2023 4:35 PM
+BAG:vitdonah add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 03/07/2023 4:35 PM
+BAG:vitdonah add 57xNgọc Rồng 4 sao (old: 56) lydo: Nhặt từ map at 03/07/2023 4:36 PM
+BAG:vitdonah add 58xNgọc Rồng 4 sao (old: 57) lydo: Nhặt từ map at 03/07/2023 4:38 PM
+BAG:vitdonah add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/07/2023 4:40 PM
+BAG:vitdonah add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/07/2023 4:40 PM
+BAG:vitdonah add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/07/2023 4:42 PM
+BAG:vitdonah add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/07/2023 4:42 PM
+BAG:vitdonah add 59xNgọc Rồng 4 sao (old: 58) lydo: Nhặt từ map at 03/07/2023 4:43 PM
+BAG:vitdonah add 1xPháo hoa lydo: Nhặt từ map at 03/07/2023 4:43 PM
+BAG:vitdonah add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/07/2023 5:06 PM
+BAG:vitdonah add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 5:10 PM
+BAG:vitdonah add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 5:10 PM
+BAG:vitdonah add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/07/2023 5:10 PM
+BAG:vitdonah add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/07/2023 5:10 PM
+BAG:vitdonah add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/07/2023 5:12 PM
+BAG:vitdonah add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/07/2023 5:12 PM
+BAG:vitdonah add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/07/2023 5:12 PM
+BAG:vitdonah add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/07/2023 5:12 PM
+BAG:vitdonah add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/07/2023 5:28 PM
+BAG:vitdonah add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/07/2023 5:28 PM
+BAG:vitdonah add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/07/2023 5:28 PM

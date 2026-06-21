@@ -1,0 +1,60 @@
+BAG:holora add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/28/2023 10:43 AM
+BAG:holora add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/28/2023 10:43 AM
+BAG:holora add 5xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/28/2023 10:44 AM
+BAG:holora add 23xĐậu thần cấp 10 (old: 5) lydo: Lấy từ rương qua người at 03/28/2023 10:44 AM
+BAG:holora add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/28/2023 10:44 AM
+BAG:holora add 1xĐá Saphia lydo: Nhặt từ map at 03/28/2023 10:58 AM
+BAG:holora add 1xQuần vải đen lydo: Nhặt từ map at 03/28/2023 11:01 AM
+BAG:holora add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/28/2023 11:02 AM
+BAG:holora add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/28/2023 11:03 AM
+BAG:holora add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/28/2023 11:03 AM
+BAG:holora add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/28/2023 11:04 AM
+BAG:holora add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/28/2023 11:04 AM
+BAG:holora add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/28/2023 11:04 AM
+BAG:holora add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/28/2023 11:04 AM
+BAG:holora add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/28/2023 11:05 AM
+BAG:holora add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/28/2023 11:05 AM
+BAG:holora add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 03/28/2023 11:05 AM
+BAG:holora add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/28/2023 11:05 AM
+BAG:holora add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 03/28/2023 11:05 AM
+BAG:holora add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/28/2023 11:05 AM
+BAG:holora add 10xNgọc Rồng 1 sao lydo: Giftcode at 03/28/2023 11:08 AM
+BAG:holora add 10xNgọc Rồng 2 sao lydo: Giftcode at 03/28/2023 11:08 AM
+BAG:holora add 50xNgọc Rồng 3 sao lydo: Giftcode at 03/28/2023 11:08 AM
+BAG:holora add 10xNgọc Rồng 4 sao lydo: Giftcode at 03/28/2023 11:08 AM
+BAG:holora add 10xNgọc Rồng 5 sao lydo: Giftcode at 03/28/2023 11:08 AM
+BAG:holora add 10xNgọc Rồng 6 sao lydo: Giftcode at 03/28/2023 11:08 AM
+BAG:holora add 10xNgọc Rồng 7 sao lydo: Giftcode at 03/28/2023 11:08 AM
+BAG:holora add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 11:08 AM
+BAG:holora add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/28/2023 11:09 AM
+BAG:holora add 1xCải trang Siêu Thần Trái Đất lydo: Mua từ cửa hàng at 03/28/2023 11:09 AM
+BAG:holora add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/28/2023 11:09 AM
+BAG:holora add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 11:09 AM
+BAG:holora add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 11:09 AM
+BAG:holora add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 11:09 AM
+BAG:holora add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/28/2023 11:10 AM
+BAG:holora add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 11:11 AM
+BAG:holora add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 11:11 AM
+BAG:holora add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 11:11 AM
+BAG:holora add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 11:11 AM
+BAG:holora add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/28/2023 11:11 AM
+BAG:holora add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/28/2023 11:11 AM
+BAG:holora add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/28/2023 11:11 AM
+BAG:holora add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/28/2023 11:11 AM
+BAG:holora add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/28/2023 11:12 AM
+BAG:holora add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/28/2023 11:12 AM
+BAG:holora add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/28/2023 11:12 AM
+BAG:holora add 5000xĐá ngũ sắc lydo: Đổi đá ngũ sắc at 03/28/2023 12:43 PM

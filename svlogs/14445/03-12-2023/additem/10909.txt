@@ -1,0 +1,366 @@
+BAG:bunma add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 10:56 AM
+BAG:bunma add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 10:57 AM
+BAG:bunma add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/12/2023 10:57 AM
+BAG:bunma add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/12/2023 10:57 AM
+BAG:bunma add 90xĐậu thần cấp 10 (old: 70) lydo: Lấy từ rương qua người at 03/12/2023 10:57 AM
+BAG:bunma add 11xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/12/2023 10:57 AM
+BAG:bunma add 99xĐậu thần cấp 10 (old: 90) lydo: Lấy từ rương qua người at 03/12/2023 10:57 AM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:59 AM
+BAG:bunma add 1xCột nhà lydo: Mua từ cửa hàng at 03/12/2023 11:04 AM
+BAG:bunma add 1xAvatar lydo: Mua từ cửa hàng at 03/12/2023 11:04 AM
+BAG:bunma add 1xAvatar lydo: Mua từ cửa hàng at 03/12/2023 11:04 AM
+BAG:bunma add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 11:05 AM
+BAG:bunma add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/12/2023 11:05 AM
+BAG:bunma add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 11:06 AM
+BAG:bunma add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 11:08 AM
+BAG:bunma add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 11:09 AM
+BAG:bunma add 27xĐậu thần cấp 10 (old: 7) lydo: Lấy từ rương qua người at 03/12/2023 11:11 AM
+BAG:bunma add 10xCuồng nộ lydo: Giftcode at 03/12/2023 11:11 AM
+BAG:bunma add 10xBổ huyết lydo: Giftcode at 03/12/2023 11:11 AM
+BAG:bunma add 10xBổ khí lydo: Giftcode at 03/12/2023 11:11 AM
+BAG:bunma add 10xGiáp Xên bọ hung lydo: Giftcode at 03/12/2023 11:11 AM
+BAG:bunma add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/12/2023 11:12 AM
+BAG:bunma add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 11:12 AM
+BAG:bunma add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 11:12 AM
+BAG:bunma add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 11:13 AM
+BAG:bunma add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:bunma add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:bunma add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:bunma add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:bunma add 3xMảnh Quỷ đất mẹ (old: 2) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:bunma add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:bunma add 100xThỏi vàng lydo: Giftcode at 03/12/2023 11:15 AM
+BAG:bunma add 1000xPháo hoa lydo: Giftcode at 03/12/2023 11:15 AM
+BAG:bunma add 1xNgọc Rồng 7 sao lydo: HQT at 03/12/2023 11:16 AM
+BAG:bunma add 1xBổ huyết lydo: HQT at 03/12/2023 11:16 AM
+BAG:bunma add 150xThỏi vàng (old: 100) lydo: Giftcode at 03/12/2023 11:16 AM
+BAG:bunma add 10xSao pha lê lydo: Giftcode at 03/12/2023 11:16 AM
+BAG:bunma add 10xSao pha lê lydo: Giftcode at 03/12/2023 11:16 AM
+BAG:bunma add 10xSao pha lê lydo: Giftcode at 03/12/2023 11:16 AM
+BAG:bunma add 1xCải trang Hit lydo: Giftcode at 03/12/2023 11:16 AM
+BAG:bunma add 1xCuồng nộ lydo: HQT at 03/12/2023 11:16 AM
+BAG:bunma add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 21xĐổi đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 22xĐổi đệ tử (old: 21) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 23xĐổi đệ tử (old: 22) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 24xĐổi đệ tử (old: 23) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 25xĐổi đệ tử (old: 24) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 26xĐổi đệ tử (old: 25) lydo: Mua từ cửa hàng at 03/12/2023 11:18 AM
+BAG:bunma add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:bunma add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:bunma add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:bunma add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:bunma add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:bunma add 4xMảnh Quỷ đất mẹ (old: 3) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:bunma add 2xMảnh Quỷ bay (old: 1) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:bunma add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:bunma add 3xMảnh Quỷ bay (old: 2) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:bunma add 4xMảnh Quỷ bay (old: 3) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:bunma add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/12/2023 12:02 PM
+BAG:bunma add 1xGiáp Xên bọ hung lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 1xNgọc Rồng 7 sao lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 1xBổ huyết lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 2xBổ huyết (old: 1) lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 1xCuồng nộ lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 1xNgọc Rồng 5 sao lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 2xCuồng nộ (old: 1) lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 1xNgọc Rồng 4 sao lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 3xBổ huyết (old: 2) lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 1xNgọc Rồng 6 sao lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/12/2023 12:03 PM
+BAG:bunma add 1xBổ khí lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 4xBổ huyết (old: 3) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 5xBổ huyết (old: 4) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 6xBổ huyết (old: 5) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 3xCuồng nộ (old: 2) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 2xBổ khí (old: 1) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 7xBổ huyết (old: 6) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 4xCuồng nộ (old: 3) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 5xCuồng nộ (old: 4) lydo: HQT at 03/12/2023 12:04 PM
+BAG:bunma add 8xBổ huyết (old: 7) lydo: HQT at 03/12/2023 12:05 PM
+BAG:bunma add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:bunma add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 12:10 PM
+BAG:bunma add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 12:10 PM
+BAG:bunma add 1xGăng bạc lydo: Mua từ cửa hàng at 03/12/2023 12:12 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:bunma add 1xBổ khí lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 1xNgọc Rồng 4 sao lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 1xBổ huyết lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 1xCuồng nộ lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 1xNgọc Rồng 5 sao lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 2xCuồng nộ (old: 1) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 1xNgọc Rồng 7 sao lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 1xGiáp Xên bọ hung lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:bunma add 2xBổ khí (old: 1) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 2xBổ huyết (old: 1) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 3xCuồng nộ (old: 2) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 4xCuồng nộ (old: 3) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:bunma add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 5xCuồng nộ (old: 4) lydo: HQT at 03/12/2023 12:15 PM
+BAG:bunma add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:bunma add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:bunma add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:bunma add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:bunma add 3xMảnh Quỷ đất lydo: Lấy từ rương qua người at 03/12/2023 12:17 PM
+BAG:bunma add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:bunma add 3xMảnh Quỷ đất lydo: Lấy từ rương qua người at 03/12/2023 12:17 PM
+BAG:bunma add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:bunma add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:bunma add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:bunma add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:bunma add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:bunma add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:bunma add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:bunma add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:bunma add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:bunma add 3xMảnh Thằn lằn bay (old: 2) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:bunma add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:bunma add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:bunma add 1xGăng bạc lydo: Lấy từ body vào hành trang at 03/12/2023 12:21 PM
+BAG:bunma add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:bunma add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:bunma add 4xMảnh Thằn lằn bay (old: 3) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:bunma add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:bunma add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:bunma add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:bunma add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:bunma add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:bunma add 5xMảnh Thằn lằn bay (old: 4) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:bunma add 6xMảnh Thằn lằn bay (old: 5) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:bunma add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:bunma add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:bunma add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:bunma add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:bunma add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:bunma add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:26 PM
+BAG:bunma add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 12:26 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:26 PM
+BAG:bunma add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:26 PM
+BAG:bunma add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:bunma add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:bunma add 7xMảnh Thằn lằn bay (old: 6) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:bunma add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:bunma add 6xMảnh Khủng long mẹ (old: 5) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:bunma add 8xMảnh Thằn lằn bay (old: 7) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:bunma add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:bunma add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:bunma add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:bunma add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:bunma add 7xMảnh Khủng long mẹ (old: 6) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:bunma add 3xMảnh Quỷ đất lydo: Lấy từ rương qua người at 03/12/2023 12:31 PM
+BAG:bunma add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:bunma add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:bunma add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:bunma add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:bunma add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:bunma add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:bunma add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:bunma add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:bunma add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:bunma add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:bunma add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:bunma add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:bunma add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:bunma add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:bunma add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:bunma add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:bunma add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:bunma add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:bunma add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:bunma add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:bunma add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:bunma add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:bunma add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:bunma add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:bunma add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:bunma add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:bunma add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:bunma add 2xMảnh Thằn lằn bay (old: 1) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:bunma add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:bunma add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:bunma add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:bunma add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:bunma add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:bunma add 2xMảnh Khủng long mẹ (old: 1) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:bunma add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:bunma add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:bunma add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:bunma add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:bunma add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:bunma add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:bunma add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:bunma add 3xMảnh Khủng long mẹ (old: 2) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:bunma add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:bunma add 4xMảnh Khủng long mẹ (old: 3) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:bunma add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:bunma add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:bunma add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:bunma add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:bunma add 5xMảnh Khủng long mẹ (old: 4) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:bunma add 10xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/12/2023 12:50 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:bunma add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:bunma add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:bunma add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:bunma add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:bunma add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:bunma add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:bunma add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:bunma add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:bunma add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:bunma add 3xMảnh Khủng long (old: 2) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:bunma add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:bunma add 4xMảnh Khủng long (old: 3) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:bunma add 5xMảnh Khủng long (old: 4) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:bunma add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:bunma add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:bunma add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:bunma add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:bunma add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:bunma add 7xMảnh Khủng long (old: 6) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:bunma add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:bunma add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:bunma add 8xMảnh Khủng long (old: 7) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:bunma add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:bunma add 9xMảnh Khủng long (old: 8) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:bunma add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:bunma add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:bunma add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:bunma add 10xMảnh Khủng long (old: 9) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:bunma add 6xMảnh Khủng long (old: 5) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:bunma add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:bunma add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:bunma add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:bunma add 2xMảnh Lợn lòi lydo: Lấy từ rương qua người at 03/12/2023 1:08 PM
+BAG:bunma add 5xMảnh Quỷ đất mẹ lydo: Lấy từ rương qua người at 03/12/2023 1:08 PM
+BAG:bunma add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 1:09 PM
+BAG:bunma add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/12/2023 1:09 PM
+BAG:bunma add 4xMảnh Quỷ bay lydo: Lấy từ rương qua người at 03/12/2023 1:09 PM
+BAG:bunma add 14xMảnh Khủng long mẹ lydo: Lấy từ rương qua người at 03/12/2023 1:09 PM
+BAG:bunma add 11xMảnh Thằn lằn bay lydo: Lấy từ rương qua người at 03/12/2023 1:09 PM
+BAG:bunma add 3xMảnh Quỷ đất lydo: Lấy từ rương qua người at 03/12/2023 1:09 PM
+BAG:bunma add 26xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/12/2023 1:10 PM
+BAG:bunma add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/12/2023 1:11 PM
+BAG:bunma add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/12/2023 1:11 PM
+BAG:bunma add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/12/2023 1:11 PM
+BAG:bunma add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/12/2023 1:11 PM
+BAG:bunma add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/12/2023 1:12 PM
+BAG:bunma add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/12/2023 1:12 PM
+BAG:bunma add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/12/2023 1:12 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:bunma add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:bunma add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:bunma add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:bunma add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:bunma add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:bunma add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:bunma add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:bunma add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:bunma add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 1:27 PM
+BAG:bunma add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 1:28 PM
+BAG:bunma add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/12/2023 1:29 PM

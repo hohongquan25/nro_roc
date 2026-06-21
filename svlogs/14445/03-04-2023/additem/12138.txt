@@ -1,0 +1,336 @@
+BAG:hungnamec add 1xTrứng vịt muối lydo: Nhặt từ map at 03/04/2023 9:21 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 9:23 AM
+BAG:hungnamec add 1xĐậu xanh lydo: Nhặt từ map at 03/04/2023 9:23 AM
+BAG:hungnamec add 1xGà quay nguyên con lydo: Nhặt từ map at 03/04/2023 9:26 AM
+BAG:hungnamec add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/04/2023 9:26 AM
+BAG:hungnamec add 20xThỏi vàng lydo: Đổi vàng at 03/04/2023 9:28 AM
+BAG:hungnamec add 1xCải trang Đôrêmon lydo: Mua từ cửa hàng at 03/04/2023 9:29 AM
+BAG:hungnamec add 1xĐá ngũ sắc lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 2xĐá ngũ sắc (old: 1) lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 3xĐá ngũ sắc (old: 2) lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 4xĐá ngũ sắc (old: 3) lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 5xĐá ngũ sắc (old: 4) lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 6xĐá ngũ sắc (old: 5) lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 7xĐá ngũ sắc (old: 6) lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 8xĐá ngũ sắc (old: 7) lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 9xĐá ngũ sắc (old: 8) lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 10xĐá ngũ sắc (old: 9) lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 11xĐá ngũ sắc (old: 10) lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 12xĐá ngũ sắc (old: 11) lydo: Mua từ cửa hàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 2016xThỏi vàng (old: 16) lydo: Đổi vàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 4016xThỏi vàng (old: 2016) lydo: Đổi vàng at 03/04/2023 9:30 AM
+BAG:hungnamec add 1xCải Trang Thần Zeno lydo: Mua từ bill at 03/04/2023 9:31 AM
+BAG:hungnamec add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/04/2023 9:31 AM
+BAG:hungnamec add 1xCải trang lydo: Mua từ bill at 03/04/2023 9:31 AM
+BAG:hungnamec add 500xNgọc Rồng 3 sao lydo: Giftcode at 03/04/2023 9:36 AM
+BAG:hungnamec add 500xNgọc Rồng 7 sao lydo: Giftcode at 03/04/2023 9:36 AM
+BAG:hungnamec add 1xCánh thiên thần lydo: Mua từ cửa hàng at 03/04/2023 9:37 AM
+BAG:hungnamec add 99xCuồng nộ lydo: Giftcode at 03/04/2023 9:37 AM
+BAG:hungnamec add 1004016xThỏi vàng (old: 4016) lydo: Giftcode at 03/04/2023 9:39 AM
+BAG:hungnamec add 9910xĐá ngũ sắc lydo: Giftcode at 03/04/2023 9:39 AM
+BAG:hungnamec add 99xĐá ngũ sắc (old: 9) lydo: Giftcode at 03/04/2023 9:39 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 9:40 AM
+BAG:hungnamec add 2xTrứng vịt muối (old: 1) lydo: Nhặt từ map at 03/04/2023 9:40 AM
+BAG:hungnamec add 2xGà quay nguyên con (old: 1) lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:hungnamec add 3xTrứng vịt muối (old: 2) lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:hungnamec add 2xĐậu xanh (old: 1) lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:hungnamec add 3xGà quay nguyên con (old: 2) lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:hungnamec add 3xĐậu xanh (old: 2) lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:hungnamec add 1xĐá Titan lydo: Nhặt từ map at 03/04/2023 9:41 AM
+BAG:hungnamec add 4xTrứng vịt muối (old: 3) lydo: Nhặt từ map at 03/04/2023 9:42 AM
+BAG:hungnamec add 4xGà quay nguyên con (old: 3) lydo: Nhặt từ map at 03/04/2023 9:43 AM
+BAG:hungnamec add 4xĐậu xanh (old: 3) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:hungnamec add 5xTrứng vịt muối (old: 4) lydo: Nhặt từ map at 03/04/2023 9:49 AM
+BAG:hungnamec add 6xTrứng vịt muối (old: 5) lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:hungnamec add 5xGà quay nguyên con (old: 4) lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:hungnamec add 1xBột mì lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:hungnamec add 7xTrứng vịt muối (old: 6) lydo: Nhặt từ map at 03/04/2023 9:50 AM
+BAG:hungnamec add 6xGà quay nguyên con (old: 5) lydo: Nhặt từ map at 03/04/2023 9:51 AM
+BAG:hungnamec add 2xBột mì (old: 1) lydo: Nhặt từ map at 03/04/2023 9:51 AM
+BAG:hungnamec add 3xBột mì (old: 2) lydo: Nhặt từ map at 03/04/2023 9:51 AM
+BAG:hungnamec add 7xGà quay nguyên con (old: 6) lydo: Nhặt từ map at 03/04/2023 9:51 AM
+BAG:hungnamec add 8xGà quay nguyên con (old: 7) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:hungnamec add 8xTrứng vịt muối (old: 7) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:hungnamec add 9xGà quay nguyên con (old: 8) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:hungnamec add 9xTrứng vịt muối (old: 8) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:hungnamec add 5xĐậu xanh (old: 4) lydo: Nhặt từ map at 03/04/2023 9:52 AM
+BAG:hungnamec add 10xTrứng vịt muối (old: 9) lydo: Nhặt từ map at 03/04/2023 9:53 AM
+BAG:hungnamec add 6xĐậu xanh (old: 5) lydo: Nhặt từ map at 03/04/2023 9:53 AM
+BAG:hungnamec add 4xBột mì (old: 3) lydo: Nhặt từ map at 03/04/2023 9:53 AM
+BAG:hungnamec add 7xĐậu xanh (old: 6) lydo: Nhặt từ map at 03/04/2023 9:53 AM
+BAG:hungnamec add 8xĐậu xanh (old: 7) lydo: Nhặt từ map at 03/04/2023 9:53 AM
+BAG:hungnamec add 5xBột mì (old: 4) lydo: Nhặt từ map at 03/04/2023 9:53 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:hungnamec add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:hungnamec add 10xGà quay nguyên con (old: 9) lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:hungnamec add 9xĐậu xanh (old: 8) lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:hungnamec add 11xGà quay nguyên con (old: 10) lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:hungnamec add 11xTrứng vịt muối (old: 10) lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:hungnamec add 6xBột mì (old: 5) lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 9:54 AM
+BAG:hungnamec add 12xGà quay nguyên con (old: 11) lydo: Nhặt từ map at 03/04/2023 9:55 AM
+BAG:hungnamec add 12xTrứng vịt muối (old: 11) lydo: Nhặt từ map at 03/04/2023 9:55 AM
+BAG:hungnamec add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 9:56 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 9:56 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 9:56 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 9:56 AM
+BAG:hungnamec add 10xĐậu xanh (old: 9) lydo: Nhặt từ map at 03/04/2023 9:56 AM
+BAG:hungnamec add 7xBột mì (old: 6) lydo: Nhặt từ map at 03/04/2023 9:56 AM
+BAG:hungnamec add 11xĐậu xanh (old: 10) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:hungnamec add 13xTrứng vịt muối (old: 12) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:hungnamec add 12xĐậu xanh (old: 11) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:hungnamec add 14xTrứng vịt muối (old: 13) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:hungnamec add 8xBột mì (old: 7) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:hungnamec add 13xGà quay nguyên con (old: 12) lydo: Nhặt từ map at 03/04/2023 9:57 AM
+BAG:hungnamec add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/04/2023 9:58 AM
+BAG:hungnamec add 13xĐậu xanh (old: 12) lydo: Nhặt từ map at 03/04/2023 9:58 AM
+BAG:hungnamec add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 9:58 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:hungnamec add 14xĐậu xanh (old: 13) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:hungnamec add 1xĐá Titan lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:hungnamec add 15xTrứng vịt muối (old: 14) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:hungnamec add 14xGà quay nguyên con (old: 13) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:hungnamec add 16xTrứng vịt muối (old: 15) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:hungnamec add 9xBột mì (old: 8) lydo: Nhặt từ map at 03/04/2023 9:59 AM
+BAG:hungnamec add 15xGà quay nguyên con (old: 14) lydo: Nhặt từ map at 03/04/2023 10:00 AM
+BAG:hungnamec add 10xBột mì (old: 9) lydo: Nhặt từ map at 03/04/2023 10:00 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:00 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:00 AM
+BAG:hungnamec add 17xTrứng vịt muối (old: 16) lydo: Nhặt từ map at 03/04/2023 10:00 AM
+BAG:hungnamec add 11xBột mì (old: 10) lydo: Nhặt từ map at 03/04/2023 10:00 AM
+BAG:hungnamec add 15xĐậu xanh (old: 14) lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:hungnamec add 16xĐậu xanh (old: 15) lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:hungnamec add 18xTrứng vịt muối (old: 17) lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:hungnamec add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:hungnamec add 19xTrứng vịt muối (old: 18) lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:hungnamec add 16xGà quay nguyên con (old: 15) lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:hungnamec add 12xBột mì (old: 11) lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:hungnamec add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:hungnamec add 20xTrứng vịt muối (old: 19) lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:01 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:02 AM
+BAG:hungnamec add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 10:02 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:02 AM
+BAG:hungnamec add 13xBột mì (old: 12) lydo: Nhặt từ map at 03/04/2023 10:02 AM
+BAG:hungnamec add 17xĐậu xanh (old: 16) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:hungnamec add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:hungnamec add 18xĐậu xanh (old: 17) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:hungnamec add 19xĐậu xanh (old: 18) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:hungnamec add 17xGà quay nguyên con (old: 16) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:hungnamec add 20xĐậu xanh (old: 19) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:hungnamec add 21xĐậu xanh (old: 20) lydo: Nhặt từ map at 03/04/2023 10:03 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:hungnamec add 14xBột mì (old: 13) lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:hungnamec add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:hungnamec add 21xTrứng vịt muối (old: 20) lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:hungnamec add 22xĐậu xanh (old: 21) lydo: Nhặt từ map at 03/04/2023 10:04 AM
+BAG:hungnamec add 15xBột mì (old: 14) lydo: Nhặt từ map at 03/04/2023 10:05 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:05 AM
+BAG:hungnamec add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 10:05 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:05 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:05 AM
+BAG:hungnamec add 23xĐậu xanh (old: 22) lydo: Nhặt từ map at 03/04/2023 10:05 AM
+BAG:hungnamec add 24xĐậu xanh (old: 23) lydo: Nhặt từ map at 03/04/2023 10:05 AM
+BAG:hungnamec add 16xBột mì (old: 15) lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:hungnamec add 22xTrứng vịt muối (old: 21) lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:hungnamec add 18xGà quay nguyên con (old: 17) lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:hungnamec add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:hungnamec add 19xGà quay nguyên con (old: 18) lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:06 AM
+BAG:hungnamec add 17xBột mì (old: 16) lydo: Nhặt từ map at 03/04/2023 10:07 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:07 AM
+BAG:hungnamec add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 10:07 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:07 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:hungnamec add 23xTrứng vịt muối (old: 22) lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:hungnamec add 18xBột mì (old: 17) lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:08 AM
+BAG:hungnamec add 20xGà quay nguyên con (old: 19) lydo: Nhặt từ map at 03/04/2023 10:09 AM
+BAG:hungnamec add 24xTrứng vịt muối (old: 23) lydo: Nhặt từ map at 03/04/2023 10:09 AM
+BAG:hungnamec add 25xĐậu xanh (old: 24) lydo: Nhặt từ map at 03/04/2023 10:09 AM
+BAG:hungnamec add 26xĐậu xanh (old: 25) lydo: Nhặt từ map at 03/04/2023 10:09 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:09 AM
+BAG:hungnamec add 27xĐậu xanh (old: 26) lydo: Nhặt từ map at 03/04/2023 10:10 AM
+BAG:hungnamec add 21xGà quay nguyên con (old: 20) lydo: Nhặt từ map at 03/04/2023 10:10 AM
+BAG:hungnamec add 19xBột mì (old: 18) lydo: Nhặt từ map at 03/04/2023 10:10 AM
+BAG:hungnamec add 25xTrứng vịt muối (old: 24) lydo: Nhặt từ map at 03/04/2023 10:10 AM
+BAG:hungnamec add 20xBột mì (old: 19) lydo: Nhặt từ map at 03/04/2023 10:11 AM
+BAG:hungnamec add 21xBột mì (old: 20) lydo: Nhặt từ map at 03/04/2023 10:11 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:11 AM
+BAG:hungnamec add 22xGà quay nguyên con (old: 21) lydo: Nhặt từ map at 03/04/2023 10:12 AM
+BAG:hungnamec add 23xGà quay nguyên con (old: 22) lydo: Nhặt từ map at 03/04/2023 10:12 AM
+BAG:hungnamec add 22xBột mì (old: 21) lydo: Nhặt từ map at 03/04/2023 10:12 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:12 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:12 AM
+BAG:hungnamec add 23xBột mì (old: 22) lydo: Nhặt từ map at 03/04/2023 10:12 AM
+BAG:hungnamec add 26xTrứng vịt muối (old: 25) lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:hungnamec add 24xGà quay nguyên con (old: 23) lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:hungnamec add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:hungnamec add 25xGà quay nguyên con (old: 24) lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:hungnamec add 24xBột mì (old: 23) lydo: Nhặt từ map at 03/04/2023 10:13 AM
+BAG:hungnamec add 25xBột mì (old: 24) lydo: Nhặt từ map at 03/04/2023 10:14 AM
+BAG:hungnamec add 26xGà quay nguyên con (old: 25) lydo: Nhặt từ map at 03/04/2023 10:15 AM
+BAG:hungnamec add 27xGà quay nguyên con (old: 26) lydo: Nhặt từ map at 03/04/2023 10:15 AM
+BAG:hungnamec add 28xĐậu xanh (old: 27) lydo: Nhặt từ map at 03/04/2023 10:15 AM
+BAG:hungnamec add 27xTrứng vịt muối (old: 26) lydo: Nhặt từ map at 03/04/2023 10:15 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:15 AM
+BAG:hungnamec add 26xBột mì (old: 25) lydo: Nhặt từ map at 03/04/2023 10:15 AM
+BAG:hungnamec add 28xTrứng vịt muối (old: 27) lydo: Nhặt từ map at 03/04/2023 10:16 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:16 AM
+BAG:hungnamec add 29xĐậu xanh (old: 28) lydo: Nhặt từ map at 03/04/2023 10:16 AM
+BAG:hungnamec add 29xTrứng vịt muối (old: 28) lydo: Nhặt từ map at 03/04/2023 10:16 AM
+BAG:hungnamec add 28xGà quay nguyên con (old: 27) lydo: Nhặt từ map at 03/04/2023 10:16 AM
+BAG:hungnamec add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 10:17 AM
+BAG:hungnamec add 27xBột mì (old: 26) lydo: Nhặt từ map at 03/04/2023 10:17 AM
+BAG:hungnamec add 28xBột mì (old: 27) lydo: Nhặt từ map at 03/04/2023 10:17 AM
+BAG:hungnamec add 29xGà quay nguyên con (old: 28) lydo: Nhặt từ map at 03/04/2023 10:17 AM
+BAG:hungnamec add 30xĐậu xanh (old: 29) lydo: Nhặt từ map at 03/04/2023 10:17 AM
+BAG:hungnamec add 30xTrứng vịt muối (old: 29) lydo: Nhặt từ map at 03/04/2023 10:18 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:18 AM
+BAG:hungnamec add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 10:19 AM
+BAG:hungnamec add 31xĐậu xanh (old: 30) lydo: Nhặt từ map at 03/04/2023 10:19 AM
+BAG:hungnamec add 30xGà quay nguyên con (old: 29) lydo: Nhặt từ map at 03/04/2023 10:19 AM
+BAG:hungnamec add 31xGà quay nguyên con (old: 30) lydo: Nhặt từ map at 03/04/2023 10:20 AM
+BAG:hungnamec add 32xGà quay nguyên con (old: 31) lydo: Nhặt từ map at 03/04/2023 10:20 AM
+BAG:hungnamec add 31xTrứng vịt muối (old: 30) lydo: Nhặt từ map at 03/04/2023 10:20 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:20 AM
+BAG:hungnamec add 32xĐậu xanh (old: 31) lydo: Nhặt từ map at 03/04/2023 10:20 AM
+BAG:hungnamec add 29xBột mì (old: 28) lydo: Nhặt từ map at 03/04/2023 10:21 AM
+BAG:hungnamec add 30xBột mì (old: 29) lydo: Nhặt từ map at 03/04/2023 10:21 AM
+BAG:hungnamec add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 10:21 AM
+BAG:hungnamec add 1xĐá Ruby lydo: Nhặt từ map at 03/04/2023 10:21 AM
+BAG:hungnamec add 33xGà quay nguyên con (old: 32) lydo: Nhặt từ map at 03/04/2023 10:22 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:22 AM
+BAG:hungnamec add 31xBột mì (old: 30) lydo: Nhặt từ map at 03/04/2023 10:22 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:23 AM
+BAG:hungnamec add 32xTrứng vịt muối (old: 31) lydo: Nhặt từ map at 03/04/2023 10:23 AM
+BAG:hungnamec add 32xBột mì (old: 31) lydo: Nhặt từ map at 03/04/2023 10:23 AM
+BAG:hungnamec add 33xĐậu xanh (old: 32) lydo: Nhặt từ map at 03/04/2023 10:23 AM
+BAG:hungnamec add 33xBột mì (old: 32) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:hungnamec add 34xĐậu xanh (old: 33) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:hungnamec add 35xĐậu xanh (old: 34) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:hungnamec add 33xTrứng vịt muối (old: 32) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:hungnamec add 34xGà quay nguyên con (old: 33) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:hungnamec add 35xGà quay nguyên con (old: 34) lydo: Nhặt từ map at 03/04/2023 10:24 AM
+BAG:hungnamec add 36xĐậu xanh (old: 35) lydo: Nhặt từ map at 03/04/2023 10:25 AM
+BAG:hungnamec add 34xBột mì (old: 33) lydo: Nhặt từ map at 03/04/2023 10:25 AM
+BAG:hungnamec add 34xTrứng vịt muối (old: 33) lydo: Nhặt từ map at 03/04/2023 10:26 AM
+BAG:hungnamec add 35xTrứng vịt muối (old: 34) lydo: Nhặt từ map at 03/04/2023 10:26 AM
+BAG:hungnamec add 36xGà quay nguyên con (old: 35) lydo: Nhặt từ map at 03/04/2023 10:26 AM
+BAG:hungnamec add 36xTrứng vịt muối (old: 35) lydo: Nhặt từ map at 03/04/2023 10:26 AM
+BAG:hungnamec add 35xBột mì (old: 34) lydo: Nhặt từ map at 03/04/2023 10:26 AM
+BAG:hungnamec add 37xGà quay nguyên con (old: 36) lydo: Nhặt từ map at 03/04/2023 10:27 AM
+BAG:hungnamec add 37xTrứng vịt muối (old: 36) lydo: Nhặt từ map at 03/04/2023 10:27 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:27 AM
+BAG:hungnamec add 38xTrứng vịt muối (old: 37) lydo: Nhặt từ map at 03/04/2023 10:27 AM
+BAG:hungnamec add 38xGà quay nguyên con (old: 37) lydo: Nhặt từ map at 03/04/2023 10:27 AM
+BAG:hungnamec add 37xĐậu xanh (old: 36) lydo: Nhặt từ map at 03/04/2023 10:28 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:28 AM
+BAG:hungnamec add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 10:28 AM
+BAG:hungnamec add 36xBột mì (old: 35) lydo: Nhặt từ map at 03/04/2023 10:28 AM
+BAG:hungnamec add 39xGà quay nguyên con (old: 38) lydo: Nhặt từ map at 03/04/2023 10:28 AM
+BAG:hungnamec add 1xRada cấp 1 lydo: Nhặt từ map at 03/04/2023 10:28 AM
+BAG:hungnamec add 37xBột mì (old: 36) lydo: Nhặt từ map at 03/04/2023 10:29 AM
+BAG:hungnamec add 1xQuần sợi len lydo: Nhặt từ map at 03/04/2023 10:29 AM
+BAG:hungnamec add 40xGà quay nguyên con (old: 39) lydo: Nhặt từ map at 03/04/2023 10:29 AM
+BAG:hungnamec add 38xBột mì (old: 37) lydo: Nhặt từ map at 03/04/2023 10:29 AM
+BAG:hungnamec add 39xTrứng vịt muối (old: 38) lydo: Nhặt từ map at 03/04/2023 10:29 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:30 AM
+BAG:hungnamec add 1xGiầy sợi len lydo: Nhặt từ map at 03/04/2023 10:30 AM
+BAG:hungnamec add 39xBột mì (old: 38) lydo: Nhặt từ map at 03/04/2023 10:30 AM
+BAG:hungnamec add 40xBột mì (old: 39) lydo: Nhặt từ map at 03/04/2023 10:31 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:31 AM
+BAG:hungnamec add 38xĐậu xanh (old: 37) lydo: Nhặt từ map at 03/04/2023 10:31 AM
+BAG:hungnamec add 1xGăng sợi len lydo: Nhặt từ map at 03/04/2023 10:32 AM
+BAG:hungnamec add 40xTrứng vịt muối (old: 39) lydo: Nhặt từ map at 03/04/2023 10:32 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:32 AM
+BAG:hungnamec add 41xBột mì (old: 40) lydo: Nhặt từ map at 03/04/2023 10:32 AM
+BAG:hungnamec add 41xGà quay nguyên con (old: 40) lydo: Nhặt từ map at 03/04/2023 10:32 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:32 AM
+BAG:hungnamec add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/04/2023 10:32 AM
+BAG:hungnamec add 41xTrứng vịt muối (old: 40) lydo: Nhặt từ map at 03/04/2023 10:32 AM
+BAG:hungnamec add 42xTrứng vịt muối (old: 41) lydo: Nhặt từ map at 03/04/2023 10:33 AM
+BAG:hungnamec add 43xTrứng vịt muối (old: 42) lydo: Nhặt từ map at 03/04/2023 10:33 AM
+BAG:hungnamec add 1xÁo sợi len lydo: Nhặt từ map at 03/04/2023 10:33 AM
+BAG:hungnamec add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/04/2023 10:33 AM
+BAG:hungnamec add 44xTrứng vịt muối (old: 43) lydo: Nhặt từ map at 03/04/2023 10:33 AM
+BAG:hungnamec add 42xGà quay nguyên con (old: 41) lydo: Nhặt từ map at 03/04/2023 10:33 AM
+BAG:hungnamec add 39xĐậu xanh (old: 38) lydo: Nhặt từ map at 03/04/2023 10:34 AM
+BAG:hungnamec add 45xTrứng vịt muối (old: 44) lydo: Nhặt từ map at 03/04/2023 10:34 AM
+BAG:hungnamec add 42xBột mì (old: 41) lydo: Nhặt từ map at 03/04/2023 10:34 AM
+BAG:hungnamec add 43xGà quay nguyên con (old: 42) lydo: Nhặt từ map at 03/04/2023 10:35 AM
+BAG:hungnamec add 46xTrứng vịt muối (old: 45) lydo: Nhặt từ map at 03/04/2023 10:35 AM
+BAG:hungnamec add 40xĐậu xanh (old: 39) lydo: Nhặt từ map at 03/04/2023 10:35 AM
+BAG:hungnamec add 47xTrứng vịt muối (old: 46) lydo: Nhặt từ map at 03/04/2023 10:35 AM
+BAG:hungnamec add 43xBột mì (old: 42) lydo: Nhặt từ map at 03/04/2023 10:36 AM
+BAG:hungnamec add 48xTrứng vịt muối (old: 47) lydo: Nhặt từ map at 03/04/2023 10:36 AM
+BAG:hungnamec add 41xĐậu xanh (old: 40) lydo: Nhặt từ map at 03/04/2023 10:36 AM
+BAG:hungnamec add 44xBột mì (old: 43) lydo: Nhặt từ map at 03/04/2023 10:36 AM
+BAG:hungnamec add 45xBột mì (old: 44) lydo: Nhặt từ map at 03/04/2023 10:37 AM
+BAG:hungnamec add 42xĐậu xanh (old: 41) lydo: Nhặt từ map at 03/04/2023 10:37 AM
+BAG:hungnamec add 49xTrứng vịt muối (old: 48) lydo: Nhặt từ map at 03/04/2023 10:37 AM
+BAG:hungnamec add 50xTrứng vịt muối (old: 49) lydo: Nhặt từ map at 03/04/2023 10:37 AM
+BAG:hungnamec add 51xTrứng vịt muối (old: 50) lydo: Nhặt từ map at 03/04/2023 10:37 AM
+BAG:hungnamec add 46xBột mì (old: 45) lydo: Nhặt từ map at 03/04/2023 10:37 AM
+BAG:hungnamec add 43xĐậu xanh (old: 42) lydo: Nhặt từ map at 03/04/2023 10:37 AM
+BAG:hungnamec add 52xTrứng vịt muối (old: 51) lydo: Nhặt từ map at 03/04/2023 10:38 AM
+BAG:hungnamec add 44xGà quay nguyên con (old: 43) lydo: Nhặt từ map at 03/04/2023 10:39 AM
+BAG:hungnamec add 45xGà quay nguyên con (old: 44) lydo: Nhặt từ map at 03/04/2023 10:39 AM
+BAG:hungnamec add 53xTrứng vịt muối (old: 52) lydo: Nhặt từ map at 03/04/2023 10:39 AM
+BAG:hungnamec add 46xGà quay nguyên con (old: 45) lydo: Nhặt từ map at 03/04/2023 10:39 AM
+BAG:hungnamec add 47xGà quay nguyên con (old: 46) lydo: Nhặt từ map at 03/04/2023 10:40 AM
+BAG:hungnamec add 48xGà quay nguyên con (old: 47) lydo: Nhặt từ map at 03/04/2023 10:40 AM
+BAG:hungnamec add 47xBột mì (old: 46) lydo: Nhặt từ map at 03/04/2023 10:41 AM
+BAG:hungnamec add 49xGà quay nguyên con (old: 48) lydo: Nhặt từ map at 03/04/2023 10:41 AM
+BAG:hungnamec add 44xĐậu xanh (old: 43) lydo: Nhặt từ map at 03/04/2023 10:41 AM
+BAG:hungnamec add 50xGà quay nguyên con (old: 49) lydo: Nhặt từ map at 03/04/2023 10:42 AM
+BAG:hungnamec add 51xGà quay nguyên con (old: 50) lydo: Nhặt từ map at 03/04/2023 10:42 AM
+BAG:hungnamec add 52xGà quay nguyên con (old: 51) lydo: Nhặt từ map at 03/04/2023 10:43 AM
+BAG:hungnamec add 48xBột mì (old: 47) lydo: Nhặt từ map at 03/04/2023 10:44 AM
+BAG:hungnamec add 49xBột mì (old: 48) lydo: Nhặt từ map at 03/04/2023 10:44 AM
+BAG:hungnamec add 45xĐậu xanh (old: 44) lydo: Nhặt từ map at 03/04/2023 10:44 AM
+BAG:hungnamec add 53xGà quay nguyên con (old: 52) lydo: Nhặt từ map at 03/04/2023 10:44 AM
+BAG:hungnamec add 54xGà quay nguyên con (old: 53) lydo: Nhặt từ map at 03/04/2023 10:44 AM
+BAG:hungnamec add 50xBột mì (old: 49) lydo: Nhặt từ map at 03/04/2023 10:44 AM
+BAG:hungnamec add 54xTrứng vịt muối (old: 53) lydo: Nhặt từ map at 03/04/2023 10:45 AM
+BAG:hungnamec add 51xBột mì (old: 50) lydo: Nhặt từ map at 03/04/2023 10:45 AM
+BAG:hungnamec add 55xGà quay nguyên con (old: 54) lydo: Nhặt từ map at 03/04/2023 10:45 AM
+BAG:hungnamec add 56xGà quay nguyên con (old: 55) lydo: Nhặt từ map at 03/04/2023 10:45 AM
+BAG:hungnamec add 57xGà quay nguyên con (old: 56) lydo: Nhặt từ map at 03/04/2023 10:45 AM
+BAG:hungnamec add 52xBột mì (old: 51) lydo: Nhặt từ map at 03/04/2023 10:45 AM
+BAG:hungnamec add 53xBột mì (old: 52) lydo: Nhặt từ map at 03/04/2023 10:46 AM
+BAG:hungnamec add 58xGà quay nguyên con (old: 57) lydo: Nhặt từ map at 03/04/2023 10:46 AM
+BAG:hungnamec add 55xTrứng vịt muối (old: 54) lydo: Nhặt từ map at 03/04/2023 10:47 AM
+BAG:hungnamec add 46xĐậu xanh (old: 45) lydo: Nhặt từ map at 03/04/2023 10:47 AM
+BAG:hungnamec add 54xBột mì (old: 53) lydo: Nhặt từ map at 03/04/2023 10:48 AM
+BAG:hungnamec add 55xBột mì (old: 54) lydo: Nhặt từ map at 03/04/2023 10:48 AM
+BAG:hungnamec add 56xBột mì (old: 55) lydo: Nhặt từ map at 03/04/2023 10:48 AM
+BAG:hungnamec add 56xTrứng vịt muối (old: 55) lydo: Nhặt từ map at 03/04/2023 10:49 AM
+BAG:hungnamec add 57xTrứng vịt muối (old: 56) lydo: Nhặt từ map at 03/04/2023 10:49 AM
+BAG:hungnamec add 47xĐậu xanh (old: 46) lydo: Nhặt từ map at 03/04/2023 10:49 AM
+BAG:hungnamec add 57xBột mì (old: 56) lydo: Nhặt từ map at 03/04/2023 10:49 AM
+BAG:hungnamec add 58xBột mì (old: 57) lydo: Nhặt từ map at 03/04/2023 10:50 AM
+BAG:hungnamec add 58xTrứng vịt muối (old: 57) lydo: Nhặt từ map at 03/04/2023 10:50 AM
+BAG:hungnamec add 59xTrứng vịt muối (old: 58) lydo: Nhặt từ map at 03/04/2023 10:50 AM
+BAG:hungnamec add 59xBột mì (old: 58) lydo: Nhặt từ map at 03/04/2023 10:51 AM
+BAG:hungnamec add 60xBột mì (old: 59) lydo: Nhặt từ map at 03/04/2023 10:51 AM
+BAG:hungnamec add 48xĐậu xanh (old: 47) lydo: Nhặt từ map at 03/04/2023 10:51 AM
+BAG:hungnamec add 49xĐậu xanh (old: 48) lydo: Nhặt từ map at 03/04/2023 10:51 AM
+BAG:hungnamec add 61xBột mì (old: 60) lydo: Nhặt từ map at 03/04/2023 10:52 AM
+BAG:hungnamec add 50xĐậu xanh (old: 49) lydo: Nhặt từ map at 03/04/2023 10:52 AM
+BAG:hungnamec add 51xĐậu xanh (old: 50) lydo: Nhặt từ map at 03/04/2023 10:52 AM
+BAG:hungnamec add 60xTrứng vịt muối (old: 59) lydo: Nhặt từ map at 03/04/2023 10:52 AM
+BAG:hungnamec add 61xTrứng vịt muối (old: 60) lydo: Nhặt từ map at 03/04/2023 10:52 AM
+BAG:hungnamec add 52xĐậu xanh (old: 51) lydo: Nhặt từ map at 03/04/2023 10:53 AM
+BAG:hungnamec add 62xBột mì (old: 61) lydo: Nhặt từ map at 03/04/2023 10:53 AM
+BAG:hungnamec add 53xĐậu xanh (old: 52) lydo: Nhặt từ map at 03/04/2023 10:54 AM
+BAG:hungnamec add 54xĐậu xanh (old: 53) lydo: Nhặt từ map at 03/04/2023 10:54 AM
+BAG:hungnamec add 59xGà quay nguyên con (old: 58) lydo: Nhặt từ map at 03/04/2023 10:54 AM

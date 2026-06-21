@@ -1,0 +1,581 @@
+BAG:chilllove add 1xPháo hoa lydo: Nhặt từ map at 03/13/2023 5:10 AM
+BAG:chilllove add 10xĐậu thần cấp 8 lydo: Thu hoạch đậu at 03/13/2023 5:13 AM
+BAG:chilllove add 30xĐậu thần cấp 8 (old: 10) lydo: Lấy từ rương qua người at 03/13/2023 5:13 AM
+BAG:chilllove add 50xĐậu thần cấp 8 (old: 30) lydo: Lấy từ rương qua người at 03/13/2023 5:13 AM
+BAG:chilllove add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 5:15 AM
+BAG:chilllove add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 5:17 AM
+BAG:chilllove add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 5:18 AM
+BAG:chilllove add 1xGhế bay lydo: Mua từ cửa hàng at 03/13/2023 5:19 AM
+BAG:chilllove add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 5:21 AM
+BAG:chilllove add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 5:21 AM
+BAG:chilllove add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 5:23 AM
+BAG:chilllove add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/13/2023 5:24 AM
+BAG:chilllove add 50xThỏi vàng lydo: Giftcode at 03/13/2023 5:24 AM
+BAG:chilllove add 10xSao pha lê lydo: Giftcode at 03/13/2023 5:24 AM
+BAG:chilllove add 10xSao pha lê lydo: Giftcode at 03/13/2023 5:24 AM
+BAG:chilllove add 10xSao pha lê lydo: Giftcode at 03/13/2023 5:24 AM
+BAG:chilllove add 1xCải trang Hit lydo: Giftcode at 03/13/2023 5:24 AM
+BAG:chilllove add 100xThỏi vàng lydo: Giftcode at 03/13/2023 5:25 AM
+BAG:chilllove add 1000xPháo hoa lydo: Giftcode at 03/13/2023 5:25 AM
+BAG:chilllove add 10xCuồng nộ lydo: Giftcode at 03/13/2023 5:26 AM
+BAG:chilllove add 10xBổ huyết lydo: Giftcode at 03/13/2023 5:26 AM
+BAG:chilllove add 10xBổ khí lydo: Giftcode at 03/13/2023 5:26 AM
+BAG:chilllove add 10xGiáp Xên bọ hung lydo: Giftcode at 03/13/2023 5:26 AM
+BAG:chilllove add 150xThỏi vàng (old: 100) lydo: Lấy từ rương qua người at 03/13/2023 5:26 AM
+BAG:chilllove add 1xBổ khí lydo: HQT at 03/13/2023 5:32 AM
+BAG:chilllove add 1xNgọc Rồng 5 sao lydo: HQT at 03/13/2023 5:32 AM
+BAG:chilllove add 1xNgọc Rồng 7 sao lydo: HQT at 03/13/2023 5:32 AM
+BAG:chilllove add 1xNgọc Rồng 4 sao lydo: HQT at 03/13/2023 5:32 AM
+BAG:chilllove add 2xBổ khí (old: 1) lydo: HQT at 03/13/2023 5:32 AM
+BAG:chilllove add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/13/2023 5:32 AM
+BAG:chilllove add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/13/2023 5:32 AM
+BAG:chilllove add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 5:32 AM
+BAG:chilllove add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/13/2023 5:32 AM
+BAG:chilllove add 1xNgọc Rồng 6 sao lydo: HQT at 03/13/2023 5:32 AM
+BAG:chilllove add 1xBổ huyết lydo: HQT at 03/13/2023 5:32 AM
+BAG:chilllove add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/13/2023 5:33 AM
+BAG:chilllove add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 5:34 AM
+BAG:chilllove add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/13/2023 5:34 AM
+BAG:chilllove add 2xNgọc Rồng 7 sao (old: 1) lydo: HQT at 03/13/2023 5:34 AM
+BAG:chilllove add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/13/2023 5:34 AM
+BAG:chilllove add 1xCuồng nộ lydo: HQT at 03/13/2023 5:34 AM
+BAG:chilllove add 3xNgọc Rồng 7 sao (old: 2) lydo: HQT at 03/13/2023 5:34 AM
+BAG:chilllove add 3xBổ khí (old: 2) lydo: HQT at 03/13/2023 5:34 AM
+BAG:chilllove add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 5:35 AM
+BAG:chilllove add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 5:36 AM
+BAG:chilllove add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 5:37 AM
+BAG:chilllove add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/13/2023 5:37 AM
+BAG:chilllove add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/13/2023 5:37 AM
+BAG:chilllove add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/13/2023 5:37 AM
+BAG:chilllove add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/13/2023 5:37 AM
+BAG:chilllove add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 5:37 AM
+BAG:chilllove add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 5:38 AM
+BAG:chilllove add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 5:38 AM
+BAG:chilllove add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/13/2023 5:41 AM
+BAG:chilllove add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/13/2023 5:41 AM
+BAG:chilllove add 2xMảnh Quỷ đất mẹ (old: 1) lydo: Nhặt từ map at 03/13/2023 5:41 AM
+BAG:chilllove add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/13/2023 5:42 AM
+BAG:chilllove add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 5:42 AM
+BAG:chilllove add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/13/2023 5:43 AM
+BAG:chilllove add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 5:43 AM
+BAG:chilllove add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/13/2023 5:44 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 5:44 AM
+BAG:chilllove add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 5:45 AM
+BAG:chilllove add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 5:45 AM
+BAG:chilllove add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 5:45 AM
+BAG:chilllove add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 5:46 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 5:47 AM
+BAG:chilllove add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/13/2023 5:47 AM
+BAG:chilllove add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/13/2023 5:47 AM
+BAG:chilllove add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/13/2023 5:47 AM
+BAG:chilllove add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 5:47 AM
+BAG:chilllove add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/13/2023 5:48 AM
+BAG:chilllove add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/13/2023 5:48 AM
+BAG:chilllove add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 5:48 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 5:49 AM
+BAG:chilllove add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 5:49 AM
+BAG:chilllove add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 5:49 AM
+BAG:chilllove add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 5:50 AM
+BAG:chilllove add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 5:50 AM
+BAG:chilllove add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 5:50 AM
+BAG:chilllove add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 5:50 AM
+BAG:chilllove add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 5:51 AM
+BAG:chilllove add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 5:52 AM
+BAG:chilllove add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 5:52 AM
+BAG:chilllove add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 5:52 AM
+BAG:chilllove add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 5:52 AM
+BAG:chilllove add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 5:52 AM
+BAG:chilllove add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 5:53 AM
+BAG:chilllove add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 5:53 AM
+BAG:chilllove add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 5:53 AM
+BAG:chilllove add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/13/2023 5:54 AM
+BAG:chilllove add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/13/2023 5:54 AM
+BAG:chilllove add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 5:54 AM
+BAG:chilllove add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/13/2023 5:55 AM
+BAG:chilllove add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/13/2023 5:55 AM
+BAG:chilllove add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/13/2023 5:55 AM
+BAG:chilllove add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/13/2023 5:56 AM
+BAG:chilllove add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 5:57 AM
+BAG:chilllove add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/13/2023 5:57 AM
+BAG:chilllove add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 5:57 AM
+BAG:chilllove add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/13/2023 5:57 AM
+BAG:chilllove add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 5:58 AM
+BAG:chilllove add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/13/2023 5:58 AM
+BAG:chilllove add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 5:58 AM
+BAG:chilllove add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 5:58 AM
+BAG:chilllove add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/13/2023 5:59 AM
+BAG:chilllove add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 5:59 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 5:59 AM
+BAG:chilllove add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 6:00 AM
+BAG:chilllove add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/13/2023 6:00 AM
+BAG:chilllove add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/13/2023 6:00 AM
+BAG:chilllove add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 6:00 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 6:01 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 6:02 AM
+BAG:chilllove add 1xPháo hoa lydo: Lấy từ rương qua người at 03/13/2023 6:02 AM
+BAG:chilllove add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/13/2023 6:03 AM
+BAG:chilllove add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 6:04 AM
+BAG:chilllove add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 6:04 AM
+BAG:chilllove add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/13/2023 6:04 AM
+BAG:chilllove add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 6:04 AM
+BAG:chilllove add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/13/2023 6:04 AM
+BAG:chilllove add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 6:04 AM
+BAG:chilllove add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/13/2023 6:05 AM
+BAG:chilllove add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/13/2023 6:05 AM
+BAG:chilllove add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/13/2023 6:05 AM
+BAG:chilllove add 1xGiầy vải thô lydo: Nhặt từ map at 03/13/2023 6:05 AM
+BAG:chilllove add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/13/2023 6:05 AM
+BAG:chilllove add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/13/2023 6:05 AM
+BAG:chilllove add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/13/2023 6:05 AM
+BAG:chilllove add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/13/2023 6:05 AM
+BAG:chilllove add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/13/2023 6:06 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 6:06 AM
+BAG:chilllove add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/13/2023 6:06 AM
+BAG:chilllove add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/13/2023 6:06 AM
+BAG:chilllove add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/13/2023 6:06 AM
+BAG:chilllove add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/13/2023 6:07 AM
+BAG:chilllove add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/13/2023 6:07 AM
+BAG:chilllove add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 6:07 AM
+BAG:chilllove add 10xSao pha lê lydo: Lấy từ rương qua người at 03/13/2023 6:08 AM
+BAG:chilllove add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/13/2023 6:08 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 6:08 AM
+BAG:chilllove add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/13/2023 6:08 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 6:09 AM
+BAG:chilllove add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/13/2023 6:09 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 6:12 AM
+BAG:chilllove add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/13/2023 6:12 AM
+BAG:chilllove add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/13/2023 6:13 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 6:13 AM
+BAG:chilllove add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/13/2023 6:14 AM
+BAG:chilllove add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 6:14 AM
+BAG:chilllove add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/13/2023 6:15 AM
+BAG:chilllove add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/13/2023 6:15 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 6:15 AM
+BAG:chilllove add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 6:17 AM
+BAG:chilllove add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 6:17 AM
+BAG:chilllove add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 6:17 AM
+BAG:chilllove add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/13/2023 6:17 AM
+BAG:chilllove add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/13/2023 6:18 AM
+BAG:chilllove add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 6:18 AM
+BAG:chilllove add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 6:18 AM
+BAG:chilllove add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 6:18 AM
+BAG:chilllove add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 6:18 AM
+BAG:chilllove add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/13/2023 6:19 AM
+BAG:chilllove add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 6:19 AM
+BAG:chilllove add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 6:20 AM
+BAG:chilllove add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/13/2023 6:20 AM
+BAG:chilllove add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 6:21 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 6:21 AM
+BAG:chilllove add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/13/2023 6:21 AM
+BAG:chilllove add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 6:21 AM
+BAG:chilllove add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/13/2023 6:21 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 6:21 AM
+BAG:chilllove add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 6:22 AM
+BAG:chilllove add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 6:22 AM
+BAG:chilllove add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 6:23 AM
+BAG:chilllove add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 6:23 AM
+BAG:chilllove add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/13/2023 6:23 AM
+BAG:chilllove add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/13/2023 6:24 AM
+BAG:chilllove add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/13/2023 6:24 AM
+BAG:chilllove add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/13/2023 6:24 AM
+BAG:chilllove add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/13/2023 6:24 AM
+BAG:chilllove add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/13/2023 6:24 AM
+BAG:chilllove add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 6:25 AM
+BAG:chilllove add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/13/2023 6:25 AM
+BAG:chilllove add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/13/2023 6:25 AM
+BAG:chilllove add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/13/2023 6:25 AM
+BAG:chilllove add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 6:25 AM
+BAG:chilllove add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/13/2023 6:26 AM
+BAG:chilllove add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/13/2023 6:26 AM
+BAG:chilllove add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 6:27 AM
+BAG:chilllove add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/13/2023 6:27 AM
+BAG:chilllove add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/13/2023 6:27 AM
+BAG:chilllove add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/13/2023 6:28 AM
+BAG:chilllove add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 6:28 AM
+BAG:chilllove add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/13/2023 6:28 AM
+BAG:chilllove add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/13/2023 6:28 AM
+BAG:chilllove add 1xGiầy vải thô lydo: Nhặt từ map at 03/13/2023 6:29 AM
+BAG:chilllove add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/13/2023 6:29 AM
+BAG:chilllove add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 6:29 AM
+BAG:chilllove add 1xGiầy vải thô lydo: Nhặt từ map at 03/13/2023 6:29 AM
+BAG:chilllove add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 03/13/2023 6:29 AM
+BAG:chilllove add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 03/13/2023 6:29 AM
+BAG:chilllove add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/13/2023 6:30 AM
+BAG:chilllove add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/13/2023 6:30 AM
+BAG:chilllove add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/13/2023 6:30 AM
+BAG:chilllove add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/13/2023 6:30 AM
+BAG:chilllove add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 03/13/2023 6:31 AM
+BAG:chilllove add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 6:31 AM
+BAG:chilllove add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/13/2023 6:31 AM
+BAG:chilllove add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 03/13/2023 6:31 AM
+BAG:chilllove add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 6:31 AM
+BAG:chilllove add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 03/13/2023 6:32 AM
+BAG:chilllove add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 6:32 AM
+BAG:chilllove add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 6:32 AM
+BAG:chilllove add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 03/13/2023 6:32 AM
+BAG:chilllove add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/13/2023 6:32 AM
+BAG:chilllove add 24xMảnh Quỷ đất (old: 23) lydo: Nhặt từ map at 03/13/2023 6:32 AM
+BAG:chilllove add 25xMảnh Quỷ đất (old: 24) lydo: Nhặt từ map at 03/13/2023 6:33 AM
+BAG:chilllove add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/13/2023 6:33 AM
+BAG:chilllove add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 6:33 AM
+BAG:chilllove add 26xMảnh Quỷ đất (old: 25) lydo: Nhặt từ map at 03/13/2023 6:34 AM
+BAG:chilllove add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/13/2023 6:34 AM
+BAG:chilllove add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/13/2023 6:34 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 6:35 AM
+BAG:chilllove add 8xĐá Ruby (old: 4) lydo: Lấy từ rương qua người at 03/13/2023 6:36 AM
+BAG:chilllove add 10xĐá thạch anh tím (old: 7) lydo: Lấy từ rương qua người at 03/13/2023 6:36 AM
+BAG:chilllove add 26xMảnh Quỷ đất lydo: Lấy từ rương qua người at 03/13/2023 6:36 AM
+BAG:chilllove add 3xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/13/2023 6:36 AM
+BAG:chilllove add 13xBổ khí lydo: Lấy từ rương qua người at 03/13/2023 6:36 AM
+BAG:chilllove add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/13/2023 6:37 AM
+BAG:chilllove add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/13/2023 6:37 AM
+BAG:chilllove add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/13/2023 6:37 AM
+BAG:chilllove add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 6:39 AM
+BAG:chilllove add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 6:44 AM
+BAG:chilllove add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 6:44 AM
+BAG:chilllove add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 6:45 AM
+BAG:chilllove add 1xGiầy vải thô lydo: Nhặt từ map at 03/13/2023 6:45 AM
+BAG:chilllove add 1xGiầy vải thô lydo: Nhặt từ map at 03/13/2023 6:45 AM
+BAG:chilllove add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/13/2023 6:46 AM
+BAG:chilllove add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 6:46 AM
+BAG:chilllove add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 6:46 AM
+BAG:chilllove add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 6:46 AM
+BAG:chilllove add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/13/2023 6:46 AM
+BAG:chilllove add 4xMảnh Quỷ đất (old: 3) lydo: Nhặt từ map at 03/13/2023 6:46 AM
+BAG:chilllove add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 6:47 AM
+BAG:chilllove add 5xMảnh Quỷ đất (old: 4) lydo: Nhặt từ map at 03/13/2023 6:48 AM
+BAG:chilllove add 6xMảnh Quỷ đất (old: 5) lydo: Nhặt từ map at 03/13/2023 6:48 AM
+BAG:chilllove add 7xMảnh Quỷ đất (old: 6) lydo: Nhặt từ map at 03/13/2023 6:48 AM
+BAG:chilllove add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/13/2023 6:48 AM
+BAG:chilllove add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 6:48 AM
+BAG:chilllove add 8xMảnh Quỷ đất (old: 7) lydo: Nhặt từ map at 03/13/2023 6:49 AM
+BAG:chilllove add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 6:49 AM
+BAG:chilllove add 9xMảnh Quỷ đất (old: 8) lydo: Nhặt từ map at 03/13/2023 6:50 AM
+BAG:chilllove add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/13/2023 6:50 AM
+BAG:chilllove add 10xMảnh Quỷ đất (old: 9) lydo: Nhặt từ map at 03/13/2023 6:50 AM
+BAG:chilllove add 11xMảnh Quỷ đất (old: 10) lydo: Nhặt từ map at 03/13/2023 6:51 AM
+BAG:chilllove add 12xMảnh Quỷ đất (old: 11) lydo: Nhặt từ map at 03/13/2023 6:51 AM
+BAG:chilllove add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/13/2023 6:51 AM
+BAG:chilllove add 13xMảnh Quỷ đất (old: 12) lydo: Nhặt từ map at 03/13/2023 6:51 AM
+BAG:chilllove add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 6:51 AM
+BAG:chilllove add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 6:51 AM
+BAG:chilllove add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 6:52 AM
+BAG:chilllove add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 6:52 AM
+BAG:chilllove add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 6:52 AM
+BAG:chilllove add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/13/2023 6:52 AM
+BAG:chilllove add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 6:54 AM
+BAG:chilllove add 14xMảnh Quỷ đất (old: 13) lydo: Nhặt từ map at 03/13/2023 6:55 AM
+BAG:chilllove add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/13/2023 6:55 AM
+BAG:chilllove add 1xÁo vải thô lydo: Nhặt từ map at 03/13/2023 6:55 AM
+BAG:chilllove add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 6:55 AM
+BAG:chilllove add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/13/2023 6:55 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 6:56 AM
+BAG:chilllove add 15xMảnh Quỷ đất (old: 14) lydo: Nhặt từ map at 03/13/2023 6:56 AM
+BAG:chilllove add 16xMảnh Quỷ đất (old: 15) lydo: Nhặt từ map at 03/13/2023 6:56 AM
+BAG:chilllove add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/13/2023 6:56 AM
+BAG:chilllove add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 6:57 AM
+BAG:chilllove add 17xMảnh Quỷ đất (old: 16) lydo: Nhặt từ map at 03/13/2023 6:57 AM
+BAG:chilllove add 18xMảnh Quỷ đất (old: 17) lydo: Nhặt từ map at 03/13/2023 6:57 AM
+BAG:chilllove add 19xMảnh Quỷ đất (old: 18) lydo: Nhặt từ map at 03/13/2023 6:57 AM
+BAG:chilllove add 20xMảnh Quỷ đất (old: 19) lydo: Nhặt từ map at 03/13/2023 6:58 AM
+BAG:chilllove add 21xMảnh Quỷ đất (old: 20) lydo: Nhặt từ map at 03/13/2023 6:58 AM
+BAG:chilllove add 1xÁo vải thô lydo: Nhặt từ map at 03/13/2023 6:58 AM
+BAG:chilllove add 22xMảnh Quỷ đất (old: 21) lydo: Nhặt từ map at 03/13/2023 6:58 AM
+BAG:chilllove add 23xMảnh Quỷ đất (old: 22) lydo: Nhặt từ map at 03/13/2023 6:58 AM
+BAG:chilllove add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/13/2023 6:58 AM
+BAG:chilllove add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/13/2023 6:58 AM
+BAG:chilllove add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/13/2023 6:58 AM
+BAG:chilllove add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 6:59 AM
+BAG:chilllove add 1xÁo vải thô lydo: Nhặt từ map at 03/13/2023 7:00 AM
+BAG:chilllove add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/13/2023 7:01 AM
+BAG:chilllove add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/13/2023 7:01 AM
+BAG:chilllove add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/13/2023 7:01 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 7:01 AM
+BAG:chilllove add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/13/2023 7:02 AM
+BAG:chilllove add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 7:04 AM
+BAG:chilllove add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/13/2023 7:04 AM
+BAG:chilllove add 1xÁo vải thô lydo: Nhặt từ map at 03/13/2023 7:04 AM
+BAG:chilllove add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/13/2023 7:04 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 7:04 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 7:05 AM
+BAG:chilllove add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/13/2023 7:05 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 7:06 AM
+BAG:chilllove add 1xGiáp tập luyện cấp 2 lydo: Mua từ cửa hàng at 03/13/2023 7:07 AM
+BAG:chilllove add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/13/2023 7:08 AM
+BAG:chilllove add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 7:08 AM
+BAG:chilllove add 150xThỏi vàng lydo: Lấy từ rương qua người at 03/13/2023 7:10 AM
+BAG:chilllove add 3xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/13/2023 7:10 AM
+BAG:chilllove add 10xSao pha lê lydo: Lấy từ rương qua người at 03/13/2023 7:11 AM
+BAG:chilllove add 10xSao pha lê lydo: Lấy từ rương qua người at 03/13/2023 7:11 AM
+BAG:chilllove add 967xPháo hoa lydo: Lấy từ rương qua người at 03/13/2023 7:15 AM
+BAG:chilllove add 1xCải trang Hit lydo: Lấy từ body vào hành trang at 03/13/2023 7:15 AM
+BAG:chilllove add 1xBổ huyết lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 4xNgọc Rồng 7 sao (old: 3) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 1xNgọc Rồng 5 sao lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 1xGiáp Xên bọ hung lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 2xBổ huyết (old: 1) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 1xBổ khí lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 3xBổ huyết (old: 2) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 1xNgọc Rồng 4 sao lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 2xGiáp Xên bọ hung (old: 1) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 4xBổ huyết (old: 3) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 5xBổ huyết (old: 4) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 1xNgọc Rồng 6 sao lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 2xBổ khí (old: 1) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 2xNgọc Rồng 6 sao (old: 1) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 3xGiáp Xên bọ hung (old: 2) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 2xNgọc Rồng 4 sao (old: 1) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 3xBổ khí (old: 2) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 2xNgọc Rồng 5 sao (old: 1) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 5xNgọc Rồng 7 sao (old: 4) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 6xBổ huyết (old: 5) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 4xBổ khí (old: 3) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 3xNgọc Rồng 5 sao (old: 2) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 3xNgọc Rồng 4 sao (old: 2) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 3xNgọc Rồng 6 sao (old: 2) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 6xNgọc Rồng 7 sao (old: 5) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 7xNgọc Rồng 7 sao (old: 6) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 4xNgọc Rồng 4 sao (old: 3) lydo: HQT at 03/13/2023 7:24 AM
+BAG:chilllove add 4xNgọc Rồng 5 sao (old: 3) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 7xBổ huyết (old: 6) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 4xNgọc Rồng 6 sao (old: 3) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 8xNgọc Rồng 7 sao (old: 7) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 5xNgọc Rồng 4 sao (old: 4) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 5xNgọc Rồng 5 sao (old: 4) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 1xCuồng nộ lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 2xCuồng nộ (old: 1) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 6xNgọc Rồng 5 sao (old: 5) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 6xNgọc Rồng 4 sao (old: 5) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 8xBổ huyết (old: 7) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 5xBổ khí (old: 4) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 3xCuồng nộ (old: 2) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 9xNgọc Rồng 7 sao (old: 8) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 7xNgọc Rồng 5 sao (old: 6) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 8xNgọc Rồng 5 sao (old: 7) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 4xCuồng nộ (old: 3) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 6xBổ khí (old: 5) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 5xNgọc Rồng 6 sao (old: 4) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 7xBổ khí (old: 6) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 6xNgọc Rồng 6 sao (old: 5) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 9xBổ huyết (old: 8) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 8xBổ khí (old: 7) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 7xNgọc Rồng 6 sao (old: 6) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 9xNgọc Rồng 5 sao (old: 8) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 4xGiáp Xên bọ hung (old: 3) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 10xNgọc Rồng 7 sao (old: 9) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 10xBổ huyết (old: 9) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 7xNgọc Rồng 4 sao (old: 6) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 5xGiáp Xên bọ hung (old: 4) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 10xNgọc Rồng 5 sao (old: 9) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 11xNgọc Rồng 7 sao (old: 10) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 6xGiáp Xên bọ hung (old: 5) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 7xGiáp Xên bọ hung (old: 6) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 5xCuồng nộ (old: 4) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 9xBổ khí (old: 8) lydo: HQT at 03/13/2023 7:25 AM
+BAG:chilllove add 8xGiáp Xên bọ hung (old: 7) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 11xNgọc Rồng 5 sao (old: 10) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 8xNgọc Rồng 4 sao (old: 7) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 8xNgọc Rồng 6 sao (old: 7) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 9xNgọc Rồng 4 sao (old: 8) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 9xNgọc Rồng 6 sao (old: 8) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 12xNgọc Rồng 7 sao (old: 11) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 6xCuồng nộ (old: 5) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 12xNgọc Rồng 5 sao (old: 11) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 13xNgọc Rồng 5 sao (old: 12) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 10xNgọc Rồng 6 sao (old: 9) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 10xBổ khí (old: 9) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 11xBổ khí (old: 10) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 13xNgọc Rồng 7 sao (old: 12) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 11xBổ huyết (old: 10) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 11xNgọc Rồng 6 sao (old: 10) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 10xNgọc Rồng 4 sao (old: 9) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 7xCuồng nộ (old: 6) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 11xNgọc Rồng 4 sao (old: 10) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 9xGiáp Xên bọ hung (old: 8) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 10xGiáp Xên bọ hung (old: 9) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 14xNgọc Rồng 7 sao (old: 13) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 14xNgọc Rồng 5 sao (old: 13) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 12xBổ huyết (old: 11) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 12xBổ khí (old: 11) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 15xNgọc Rồng 7 sao (old: 14) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 13xBổ huyết (old: 12) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 16xNgọc Rồng 7 sao (old: 15) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 11xGiáp Xên bọ hung (old: 10) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 12xGiáp Xên bọ hung (old: 11) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 12xNgọc Rồng 6 sao (old: 11) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 13xNgọc Rồng 6 sao (old: 12) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 12xNgọc Rồng 4 sao (old: 11) lydo: HQT at 03/13/2023 7:26 AM
+BAG:chilllove add 15xNgọc Rồng 5 sao (old: 14) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 13xGiáp Xên bọ hung (old: 12) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 17xNgọc Rồng 7 sao (old: 16) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 13xNgọc Rồng 4 sao (old: 12) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 14xNgọc Rồng 6 sao (old: 13) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 15xNgọc Rồng 6 sao (old: 14) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 16xNgọc Rồng 5 sao (old: 15) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 13xBổ khí (old: 12) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 14xBổ huyết (old: 13) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 16xNgọc Rồng 6 sao (old: 15) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 18xNgọc Rồng 7 sao (old: 17) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 17xNgọc Rồng 5 sao (old: 16) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 19xNgọc Rồng 7 sao (old: 18) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 15xBổ huyết (old: 14) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 16xBổ huyết (old: 15) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 14xNgọc Rồng 4 sao (old: 13) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 14xBổ khí (old: 13) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 8xCuồng nộ (old: 7) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 17xBổ huyết (old: 16) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 18xBổ huyết (old: 17) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 15xNgọc Rồng 4 sao (old: 14) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 18xNgọc Rồng 5 sao (old: 17) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 16xNgọc Rồng 4 sao (old: 15) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 19xBổ huyết (old: 18) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 9xCuồng nộ (old: 8) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 17xNgọc Rồng 4 sao (old: 16) lydo: HQT at 03/13/2023 7:27 AM
+BAG:chilllove add 18xNgọc Rồng 4 sao (old: 17) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 20xBổ huyết (old: 19) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 20xNgọc Rồng 7 sao (old: 19) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 21xNgọc Rồng 7 sao (old: 20) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 15xBổ khí (old: 14) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 10xCuồng nộ (old: 9) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 21xBổ huyết (old: 20) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 11xCuồng nộ (old: 10) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 12xCuồng nộ (old: 11) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 19xNgọc Rồng 5 sao (old: 18) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 20xNgọc Rồng 5 sao (old: 19) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 19xNgọc Rồng 4 sao (old: 18) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 22xNgọc Rồng 7 sao (old: 21) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 22xBổ huyết (old: 21) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 20xNgọc Rồng 4 sao (old: 19) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 21xNgọc Rồng 5 sao (old: 20) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 23xNgọc Rồng 7 sao (old: 22) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 17xNgọc Rồng 6 sao (old: 16) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 23xBổ huyết (old: 22) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 22xNgọc Rồng 5 sao (old: 21) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 13xCuồng nộ (old: 12) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 14xCuồng nộ (old: 13) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 14xGiáp Xên bọ hung (old: 13) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 23xNgọc Rồng 5 sao (old: 22) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 24xNgọc Rồng 7 sao (old: 23) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 24xBổ huyết (old: 23) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 21xNgọc Rồng 4 sao (old: 20) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 25xBổ huyết (old: 24) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 24xNgọc Rồng 5 sao (old: 23) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 25xNgọc Rồng 5 sao (old: 24) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 15xGiáp Xên bọ hung (old: 14) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 25xNgọc Rồng 7 sao (old: 24) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 16xBổ khí (old: 15) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 16xGiáp Xên bọ hung (old: 15) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 26xNgọc Rồng 7 sao (old: 25) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 17xBổ khí (old: 16) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 26xBổ huyết (old: 25) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 17xGiáp Xên bọ hung (old: 16) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 18xGiáp Xên bọ hung (old: 17) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 19xGiáp Xên bọ hung (old: 18) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 20xGiáp Xên bọ hung (old: 19) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 21xGiáp Xên bọ hung (old: 20) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 26xNgọc Rồng 5 sao (old: 25) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 18xBổ khí (old: 17) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 27xNgọc Rồng 7 sao (old: 26) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 28xNgọc Rồng 7 sao (old: 27) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 29xNgọc Rồng 7 sao (old: 28) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 22xGiáp Xên bọ hung (old: 21) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 30xNgọc Rồng 7 sao (old: 29) lydo: HQT at 03/13/2023 7:28 AM
+BAG:chilllove add 31xNgọc Rồng 7 sao (old: 30) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 27xNgọc Rồng 5 sao (old: 26) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 15xCuồng nộ (old: 14) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 27xBổ huyết (old: 26) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 22xNgọc Rồng 4 sao (old: 21) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 18xNgọc Rồng 6 sao (old: 17) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 32xNgọc Rồng 7 sao (old: 31) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 33xNgọc Rồng 7 sao (old: 32) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 28xBổ huyết (old: 27) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 34xNgọc Rồng 7 sao (old: 33) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 28xNgọc Rồng 5 sao (old: 27) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 19xBổ khí (old: 18) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 35xNgọc Rồng 7 sao (old: 34) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 16xCuồng nộ (old: 15) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 36xNgọc Rồng 7 sao (old: 35) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 23xGiáp Xên bọ hung (old: 22) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 29xBổ huyết (old: 28) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 20xBổ khí (old: 19) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 37xNgọc Rồng 7 sao (old: 36) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 23xNgọc Rồng 4 sao (old: 22) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 17xCuồng nộ (old: 16) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 30xBổ huyết (old: 29) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 18xCuồng nộ (old: 17) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 29xNgọc Rồng 5 sao (old: 28) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 31xBổ huyết (old: 30) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 19xCuồng nộ (old: 18) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 24xNgọc Rồng 4 sao (old: 23) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 21xBổ khí (old: 20) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 32xBổ huyết (old: 31) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 25xNgọc Rồng 4 sao (old: 24) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 24xGiáp Xên bọ hung (old: 23) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 25xGiáp Xên bọ hung (old: 24) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 26xNgọc Rồng 4 sao (old: 25) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 33xBổ huyết (old: 32) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 26xGiáp Xên bọ hung (old: 25) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 30xNgọc Rồng 5 sao (old: 29) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 27xNgọc Rồng 4 sao (old: 26) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 34xBổ huyết (old: 33) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 19xNgọc Rồng 6 sao (old: 18) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 31xNgọc Rồng 5 sao (old: 30) lydo: HQT at 03/13/2023 7:29 AM
+BAG:chilllove add 32xNgọc Rồng 5 sao (old: 31) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 28xNgọc Rồng 4 sao (old: 27) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 33xNgọc Rồng 5 sao (old: 32) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 29xNgọc Rồng 4 sao (old: 28) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 38xNgọc Rồng 7 sao (old: 37) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 22xBổ khí (old: 21) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 23xBổ khí (old: 22) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 30xNgọc Rồng 4 sao (old: 29) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 20xCuồng nộ (old: 19) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 31xNgọc Rồng 4 sao (old: 30) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 20xNgọc Rồng 6 sao (old: 19) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 21xNgọc Rồng 6 sao (old: 20) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 27xGiáp Xên bọ hung (old: 26) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 21xCuồng nộ (old: 20) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 35xBổ huyết (old: 34) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 39xNgọc Rồng 7 sao (old: 38) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 34xNgọc Rồng 5 sao (old: 33) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 35xNgọc Rồng 5 sao (old: 34) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 28xGiáp Xên bọ hung (old: 27) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 22xNgọc Rồng 6 sao (old: 21) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 40xNgọc Rồng 7 sao (old: 39) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 41xNgọc Rồng 7 sao (old: 40) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 36xNgọc Rồng 5 sao (old: 35) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 36xBổ huyết (old: 35) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 37xBổ huyết (old: 36) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 32xNgọc Rồng 4 sao (old: 31) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 24xBổ khí (old: 23) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 22xCuồng nộ (old: 21) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 38xBổ huyết (old: 37) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 29xGiáp Xên bọ hung (old: 28) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 30xGiáp Xên bọ hung (old: 29) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 37xNgọc Rồng 5 sao (old: 36) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 23xCuồng nộ (old: 22) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 38xNgọc Rồng 5 sao (old: 37) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 25xBổ khí (old: 24) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 33xNgọc Rồng 4 sao (old: 32) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 31xGiáp Xên bọ hung (old: 30) lydo: HQT at 03/13/2023 7:30 AM
+BAG:chilllove add 250xThỏi vàng lydo: Giftcode at 03/13/2023 10:34 AM
+BAG:chilllove add 40xNgọc Rồng 3 sao lydo: Giftcode at 03/13/2023 10:34 AM
+BAG:chilllove add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 10:37 AM
+BAG:chilllove add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 10:44 AM
+BAG:chilllove add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 10:46 AM
+BAG:chilllove add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 10:48 AM
+BAG:chilllove add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/13/2023 10:51 AM
+BAG:chilllove add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 10:53 AM
+BAG:chilllove add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/13/2023 10:56 AM
+BAG:chilllove add 34xNgọc Rồng 4 sao (old: 33) lydo: HQT at 03/13/2023 12:19 PM
+BAG:chilllove add 39xNgọc Rồng 5 sao (old: 38) lydo: HQT at 03/13/2023 12:20 PM
+BAG:chilllove add 35xNgọc Rồng 7 sao (old: 34) lydo: HQT at 03/13/2023 12:20 PM
+BAG:chilllove add 26xBổ khí (old: 25) lydo: HQT at 03/13/2023 12:20 PM
+BAG:chilllove add 36xNgọc Rồng 7 sao (old: 35) lydo: HQT at 03/13/2023 12:20 PM
+BAG:chilllove add 27xBổ khí (old: 26) lydo: HQT at 03/13/2023 12:20 PM
+BAG:chilllove add 24xCuồng nộ (old: 23) lydo: HQT at 03/13/2023 12:20 PM
+BAG:chilllove add 39xBổ huyết (old: 38) lydo: HQT at 03/13/2023 12:20 PM
+BAG:chilllove add 28xBổ khí (old: 27) lydo: HQT at 03/13/2023 12:20 PM
+BAG:chilllove add 37xNgọc Rồng 7 sao (old: 36) lydo: HQT at 03/13/2023 12:20 PM
+BAG:chilllove add 23xNgọc Rồng 6 sao (old: 22) lydo: HQT at 03/13/2023 12:20 PM
+BAG:chilllove add 35xNgọc Rồng 4 sao (old: 34) lydo: HQT at 03/13/2023 12:20 PM
+BAG:chilllove add 1xCải trang Hit lydo: Lấy từ body đệ vào hành trang at 03/13/2023 12:24 PM

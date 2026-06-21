@@ -1,0 +1,489 @@
+BAG:ry18cm add 299xThỏi vàng (old: 298) lydo: buff at 02/22/2023 2:26 AM
+BAG:ry18cm add 398xThỏi vàng (old: 299) lydo: buff at 02/22/2023 2:26 AM
+BAG:ry18cm add 1xCải Trang Thần Zeno lydo: admin at 02/22/2023 2:42 AM
+BAG:ry18cm add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 02/22/2023 11:29 AM
+BAG:ry18cm add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/22/2023 11:29 AM
+BAG:ry18cm add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/22/2023 11:29 AM
+BAG:ry18cm add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/22/2023 11:29 AM
+BAG:ry18cm add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/22/2023 11:29 AM
+BAG:ry18cm add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/22/2023 11:29 AM
+BAG:ry18cm add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 02/22/2023 11:29 AM
+BAG:ry18cm add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 02/22/2023 11:29 AM
+BAG:ry18cm add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 02/22/2023 11:29 AM
+BAG:ry18cm add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 02/22/2023 11:29 AM
+BAG:ry18cm add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 02/22/2023 11:30 AM
+BAG:ry18cm add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 02/22/2023 11:30 AM
+BAG:ry18cm add 1xNgọc rồng Siêu Cấp lydo: buff at 02/22/2023 11:34 AM
+BAG:ry18cm add 1xSao pha lê lydo: buff at 02/22/2023 11:37 AM
+BAG:ry18cm add 3xSao pha lê (old: 1) lydo: buff at 02/22/2023 11:37 AM
+BAG:ry18cm add 3xSao pha lê lydo: buff at 02/22/2023 11:37 AM
+BAG:ry18cm add 1xSao pha lê lydo: buff at 02/22/2023 11:39 AM
+BAG:ry18cm add 1xSao pha lê lydo: buff at 02/22/2023 11:39 AM
+BAG:ry18cm add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 02/22/2023 11:40 AM
+BAG:ry18cm add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/22/2023 11:40 AM
+BAG:ry18cm add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/22/2023 11:40 AM
+BAG:ry18cm add 1xÁo bạc Zealot lydo: buff at 02/22/2023 11:48 AM
+BAG:ry18cm add 1xQuần vàng Zealot lydo: buff at 02/22/2023 11:48 AM
+BAG:ry18cm add 4xSao pha lê lydo: buff at 02/22/2023 11:51 AM
+BAG:ry18cm add 4xSao pha lê lydo: buff at 02/22/2023 11:51 AM
+BAG:ry18cm add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 02/22/2023 11:54 AM
+BAG:ry18cm add 1xĐá Ruby lydo: Nhặt từ map at 02/22/2023 11:54 AM
+BAG:ry18cm add 1xBình rượu lydo: Nhặt từ map at 02/22/2023 11:55 AM
+BAG:ry18cm add 1xLì xì lydo: Nhặt từ map at 02/22/2023 11:55 AM
+BAG:ry18cm add 1xĐá lục bảo lydo: Nhặt từ map at 02/22/2023 11:55 AM
+BAG:ry18cm add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/22/2023 11:55 AM
+BAG:ry18cm add 1xCây mai lydo: Nhặt từ map at 02/22/2023 11:56 AM
+BAG:ry18cm add 1xVệ tinh trí tuệ lydo: buff at 02/22/2023 11:56 AM
+BAG:ry18cm add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 02/22/2023 11:57 AM
+BAG:ry18cm add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/22/2023 11:57 AM
+BAG:ry18cm add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/22/2023 11:57 AM
+BAG:ry18cm add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/22/2023 11:58 AM
+BAG:ry18cm add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/22/2023 11:58 AM
+BAG:ry18cm add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/22/2023 11:58 AM
+BAG:ry18cm add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/22/2023 11:59 AM
+BAG:ry18cm add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/22/2023 12:00 PM
+BAG:ry18cm add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/22/2023 12:00 PM
+BAG:ry18cm add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/22/2023 12:00 PM
+BAG:ry18cm add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/22/2023 12:01 PM
+BAG:ry18cm add 1xĐá Saphia lydo: Nhặt từ map at 02/22/2023 12:01 PM
+BAG:ry18cm add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/22/2023 12:02 PM
+BAG:ry18cm add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/22/2023 12:02 PM
+BAG:ry18cm add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/22/2023 12:02 PM
+BAG:ry18cm add 1xĐá lục bảo lydo: Nhặt từ map at 02/22/2023 12:03 PM
+BAG:ry18cm add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/22/2023 12:03 PM
+BAG:ry18cm add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/22/2023 12:04 PM
+BAG:ry18cm add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 02/22/2023 12:04 PM
+BAG:ry18cm add 5xCây mai (old: 4) lydo: Nhặt từ map at 02/22/2023 12:05 PM
+BAG:ry18cm add 6xCây mai (old: 5) lydo: Nhặt từ map at 02/22/2023 12:06 PM
+BAG:ry18cm add 7xCây mai (old: 6) lydo: Nhặt từ map at 02/22/2023 12:06 PM
+BAG:ry18cm add 1xĐá Titan lydo: Nhặt từ map at 02/22/2023 12:07 PM
+BAG:ry18cm add 8xCây mai (old: 7) lydo: Nhặt từ map at 02/22/2023 12:07 PM
+BAG:ry18cm add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/22/2023 12:08 PM
+BAG:ry18cm add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/22/2023 12:08 PM
+BAG:ry18cm add 9xCây mai (old: 8) lydo: Nhặt từ map at 02/22/2023 12:08 PM
+BAG:ry18cm add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/22/2023 12:08 PM
+BAG:ry18cm add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 02/22/2023 12:08 PM
+BAG:ry18cm add 10xCây mai (old: 9) lydo: Nhặt từ map at 02/22/2023 12:09 PM
+BAG:ry18cm add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 02/22/2023 12:09 PM
+BAG:ry18cm add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/22/2023 12:09 PM
+BAG:ry18cm add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 02/22/2023 12:09 PM
+BAG:ry18cm add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 02/22/2023 12:11 PM
+BAG:ry18cm add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/22/2023 12:11 PM
+BAG:ry18cm add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/22/2023 12:11 PM
+BAG:ry18cm add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 02/22/2023 12:11 PM
+BAG:ry18cm add 11xCây mai (old: 10) lydo: Nhặt từ map at 02/22/2023 12:11 PM
+BAG:ry18cm add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 02/22/2023 12:12 PM
+BAG:ry18cm add 12xCây mai (old: 11) lydo: Nhặt từ map at 02/22/2023 12:12 PM
+BAG:ry18cm add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 02/22/2023 12:12 PM
+BAG:ry18cm add 13xBình rượu (old: 12) lydo: Nhặt từ map at 02/22/2023 12:12 PM
+BAG:ry18cm add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/22/2023 12:12 PM
+BAG:ry18cm add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 02/22/2023 12:12 PM
+BAG:ry18cm add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 02/22/2023 12:13 PM
+BAG:ry18cm add 14xBình rượu (old: 13) lydo: Nhặt từ map at 02/22/2023 12:13 PM
+BAG:ry18cm add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 02/22/2023 12:13 PM
+BAG:ry18cm add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 02/22/2023 12:13 PM
+BAG:ry18cm add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 02/22/2023 12:13 PM
+BAG:ry18cm add 15xBình rượu (old: 14) lydo: Nhặt từ map at 02/22/2023 12:13 PM
+BAG:ry18cm add 1xĐá thạch anh tím lydo: Nhặt từ map at 02/22/2023 12:14 PM
+BAG:ry18cm add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 02/22/2023 12:15 PM
+BAG:ry18cm add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 02/22/2023 12:15 PM
+BAG:ry18cm add 13xCây mai (old: 12) lydo: Nhặt từ map at 02/22/2023 12:15 PM
+BAG:ry18cm add 16xBình rượu (old: 15) lydo: Nhặt từ map at 02/22/2023 12:15 PM
+BAG:ry18cm add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 02/22/2023 12:16 PM
+BAG:ry18cm add 14xCây mai (old: 13) lydo: Nhặt từ map at 02/22/2023 12:16 PM
+BAG:ry18cm add 17xBình rượu (old: 16) lydo: Nhặt từ map at 02/22/2023 12:16 PM
+BAG:ry18cm add 15xCây mai (old: 14) lydo: Nhặt từ map at 02/22/2023 12:16 PM
+BAG:ry18cm add 18xBình rượu (old: 17) lydo: Nhặt từ map at 02/22/2023 12:16 PM
+BAG:ry18cm add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/22/2023 12:17 PM
+BAG:ry18cm add 19xBình rượu (old: 18) lydo: Nhặt từ map at 02/22/2023 12:17 PM
+BAG:ry18cm add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/22/2023 12:17 PM
+BAG:ry18cm add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 02/22/2023 12:17 PM
+BAG:ry18cm add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 02/22/2023 12:18 PM
+BAG:ry18cm add 20xBình rượu (old: 19) lydo: Nhặt từ map at 02/22/2023 12:18 PM
+BAG:ry18cm add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/22/2023 12:18 PM
+BAG:ry18cm add 10xLì xì (old: 9) lydo: Nhặt từ map at 02/22/2023 12:18 PM
+BAG:ry18cm add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 02/22/2023 12:18 PM
+BAG:ry18cm add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 02/22/2023 12:18 PM
+BAG:ry18cm add 16xCây mai (old: 15) lydo: Nhặt từ map at 02/22/2023 12:19 PM
+BAG:ry18cm add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 02/22/2023 12:19 PM
+BAG:ry18cm add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 02/22/2023 12:19 PM
+BAG:ry18cm add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 02/22/2023 12:19 PM
+BAG:ry18cm add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/22/2023 12:19 PM
+BAG:ry18cm add 21xBình rượu (old: 20) lydo: Nhặt từ map at 02/22/2023 12:20 PM
+BAG:ry18cm add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/22/2023 12:20 PM
+BAG:ry18cm add 17xCây mai (old: 16) lydo: Nhặt từ map at 02/22/2023 12:20 PM
+BAG:ry18cm add 22xBình rượu (old: 21) lydo: Nhặt từ map at 02/22/2023 12:21 PM
+BAG:ry18cm add 11xLì xì (old: 10) lydo: Nhặt từ map at 02/22/2023 12:21 PM
+BAG:ry18cm add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 02/22/2023 12:21 PM
+BAG:ry18cm add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/22/2023 12:21 PM
+BAG:ry18cm add 12xLì xì (old: 11) lydo: Nhặt từ map at 02/22/2023 12:22 PM
+BAG:ry18cm add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 02/22/2023 12:23 PM
+BAG:ry18cm add 13xLì xì (old: 12) lydo: Nhặt từ map at 02/22/2023 12:23 PM
+BAG:ry18cm add 14xLì xì (old: 13) lydo: Nhặt từ map at 02/22/2023 12:23 PM
+BAG:ry18cm add 18xCây mai (old: 17) lydo: Nhặt từ map at 02/22/2023 12:24 PM
+BAG:ry18cm add 23xBình rượu (old: 22) lydo: Nhặt từ map at 02/22/2023 12:24 PM
+BAG:ry18cm add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 02/22/2023 12:26 PM
+BAG:ry18cm add 15xLì xì (old: 14) lydo: Nhặt từ map at 02/22/2023 12:26 PM
+BAG:ry18cm add 16xLì xì (old: 15) lydo: Nhặt từ map at 02/22/2023 12:27 PM
+BAG:ry18cm add 24xBình rượu (old: 23) lydo: Nhặt từ map at 02/22/2023 12:27 PM
+BAG:ry18cm add 19xCây mai (old: 18) lydo: Nhặt từ map at 02/22/2023 12:28 PM
+BAG:ry18cm add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 02/22/2023 12:28 PM
+BAG:ry18cm add 25xBình rượu (old: 24) lydo: Nhặt từ map at 02/22/2023 12:29 PM
+BAG:ry18cm add 26xBình rượu (old: 25) lydo: Nhặt từ map at 02/22/2023 12:29 PM
+BAG:ry18cm add 27xBình rượu (old: 26) lydo: Nhặt từ map at 02/22/2023 12:29 PM
+BAG:ry18cm add 20xCây mai (old: 19) lydo: Nhặt từ map at 02/22/2023 12:29 PM
+BAG:ry18cm add 17xLì xì (old: 16) lydo: Nhặt từ map at 02/22/2023 12:29 PM
+BAG:ry18cm add 18xLì xì (old: 17) lydo: Nhặt từ map at 02/22/2023 12:30 PM
+BAG:ry18cm add 21xCây mai (old: 20) lydo: Nhặt từ map at 02/22/2023 12:30 PM
+BAG:ry18cm add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 02/22/2023 12:30 PM
+BAG:ry18cm add 22xCây mai (old: 21) lydo: Nhặt từ map at 02/22/2023 12:30 PM
+BAG:ry18cm add 28xBình rượu (old: 27) lydo: Nhặt từ map at 02/22/2023 12:30 PM
+BAG:ry18cm add 23xCây mai (old: 22) lydo: Nhặt từ map at 02/22/2023 12:30 PM
+BAG:ry18cm add 19xLì xì (old: 18) lydo: Nhặt từ map at 02/22/2023 12:31 PM
+BAG:ry18cm add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 02/22/2023 12:31 PM
+BAG:ry18cm add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 02/22/2023 12:32 PM
+BAG:ry18cm add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 02/22/2023 12:32 PM
+BAG:ry18cm add 20xLì xì (old: 19) lydo: Nhặt từ map at 02/22/2023 12:32 PM
+BAG:ry18cm add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 02/22/2023 12:32 PM
+BAG:ry18cm add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 02/22/2023 12:32 PM
+BAG:ry18cm add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 02/22/2023 12:32 PM
+BAG:ry18cm add 29xBình rượu (old: 28) lydo: Nhặt từ map at 02/22/2023 12:32 PM
+BAG:ry18cm add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 02/22/2023 12:33 PM
+BAG:ry18cm add 24xCây mai (old: 23) lydo: Nhặt từ map at 02/22/2023 12:33 PM
+BAG:ry18cm add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/22/2023 12:35 PM
+BAG:ry18cm add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 02/22/2023 12:35 PM
+BAG:ry18cm add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 02/22/2023 12:35 PM
+BAG:ry18cm add 25xCây mai (old: 24) lydo: Nhặt từ map at 02/22/2023 12:36 PM
+BAG:ry18cm add 30xBình rượu (old: 29) lydo: Nhặt từ map at 02/22/2023 12:36 PM
+BAG:ry18cm add 31xBình rượu (old: 30) lydo: Nhặt từ map at 02/22/2023 12:36 PM
+BAG:ry18cm add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 02/22/2023 12:36 PM
+BAG:ry18cm add 21xLì xì (old: 20) lydo: Nhặt từ map at 02/22/2023 12:36 PM
+BAG:ry18cm add 22xLì xì (old: 21) lydo: Nhặt từ map at 02/22/2023 12:38 PM
+BAG:ry18cm add 26xCây mai (old: 25) lydo: Nhặt từ map at 02/22/2023 12:38 PM
+BAG:ry18cm add 32xBình rượu (old: 31) lydo: Nhặt từ map at 02/22/2023 12:38 PM
+BAG:ry18cm add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/22/2023 12:39 PM
+BAG:ry18cm add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 02/22/2023 12:40 PM
+BAG:ry18cm add 33xBình rượu (old: 32) lydo: Nhặt từ map at 02/22/2023 12:40 PM
+BAG:ry18cm add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 02/22/2023 12:40 PM
+BAG:ry18cm add 27xCây mai (old: 26) lydo: Nhặt từ map at 02/22/2023 12:40 PM
+BAG:ry18cm add 23xLì xì (old: 22) lydo: Nhặt từ map at 02/22/2023 12:40 PM
+BAG:ry18cm add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 02/22/2023 12:40 PM
+BAG:ry18cm add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 02/22/2023 12:40 PM
+BAG:ry18cm add 24xLì xì (old: 23) lydo: Nhặt từ map at 02/22/2023 12:41 PM
+BAG:ry18cm add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 02/22/2023 12:41 PM
+BAG:ry18cm add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 02/22/2023 12:41 PM
+BAG:ry18cm add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 02/22/2023 12:42 PM
+BAG:ry18cm add 25xLì xì (old: 24) lydo: Nhặt từ map at 02/22/2023 12:42 PM
+BAG:ry18cm add 28xCây mai (old: 27) lydo: Nhặt từ map at 02/22/2023 12:42 PM
+BAG:ry18cm add 26xLì xì (old: 25) lydo: Nhặt từ map at 02/22/2023 12:42 PM
+BAG:ry18cm add 34xBình rượu (old: 33) lydo: Nhặt từ map at 02/22/2023 12:42 PM
+BAG:ry18cm add 29xCây mai (old: 28) lydo: Nhặt từ map at 02/22/2023 12:43 PM
+BAG:ry18cm add 27xLì xì (old: 26) lydo: Nhặt từ map at 02/22/2023 12:43 PM
+BAG:ry18cm add 35xBình rượu (old: 34) lydo: Nhặt từ map at 02/22/2023 12:43 PM
+BAG:ry18cm add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 02/22/2023 12:43 PM
+BAG:ry18cm add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 02/22/2023 12:43 PM
+BAG:ry18cm add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 02/22/2023 12:43 PM
+BAG:ry18cm add 36xBình rượu (old: 35) lydo: Nhặt từ map at 02/22/2023 12:43 PM
+BAG:ry18cm add 30xCây mai (old: 29) lydo: Nhặt từ map at 02/22/2023 12:43 PM
+BAG:ry18cm add 31xCây mai (old: 30) lydo: Nhặt từ map at 02/22/2023 12:44 PM
+BAG:ry18cm add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 02/22/2023 12:45 PM
+BAG:ry18cm add 28xLì xì (old: 27) lydo: Nhặt từ map at 02/22/2023 12:45 PM
+BAG:ry18cm add 32xCây mai (old: 31) lydo: Nhặt từ map at 02/22/2023 12:46 PM
+BAG:ry18cm add 33xCây mai (old: 32) lydo: Nhặt từ map at 02/22/2023 12:47 PM
+BAG:ry18cm add 37xBình rượu (old: 36) lydo: Nhặt từ map at 02/22/2023 12:47 PM
+BAG:ry18cm add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 02/22/2023 12:47 PM
+BAG:ry18cm add 29xLì xì (old: 28) lydo: Nhặt từ map at 02/22/2023 12:48 PM
+BAG:ry18cm add 34xCây mai (old: 33) lydo: Nhặt từ map at 02/22/2023 12:48 PM
+BAG:ry18cm add 35xCây mai (old: 34) lydo: Nhặt từ map at 02/22/2023 12:48 PM
+BAG:ry18cm add 30xLì xì (old: 29) lydo: Nhặt từ map at 02/22/2023 12:48 PM
+BAG:ry18cm add 31xLì xì (old: 30) lydo: Nhặt từ map at 02/22/2023 12:48 PM
+BAG:ry18cm add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 02/22/2023 12:48 PM
+BAG:ry18cm add 32xLì xì (old: 31) lydo: Nhặt từ map at 02/22/2023 12:49 PM
+BAG:ry18cm add 36xCây mai (old: 35) lydo: Nhặt từ map at 02/22/2023 12:49 PM
+BAG:ry18cm add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 02/22/2023 12:49 PM
+BAG:ry18cm add 37xCây mai (old: 36) lydo: Nhặt từ map at 02/22/2023 12:49 PM
+BAG:ry18cm add 38xBình rượu (old: 37) lydo: Nhặt từ map at 02/22/2023 12:52 PM
+BAG:ry18cm add 38xCây mai (old: 37) lydo: Nhặt từ map at 02/22/2023 12:53 PM
+BAG:ry18cm add 39xCây mai (old: 38) lydo: Nhặt từ map at 02/22/2023 12:53 PM
+BAG:ry18cm add 39xBình rượu (old: 38) lydo: Nhặt từ map at 02/22/2023 12:53 PM
+BAG:ry18cm add 40xBình rượu (old: 39) lydo: Nhặt từ map at 02/22/2023 12:54 PM
+BAG:ry18cm add 40xCây mai (old: 39) lydo: Nhặt từ map at 02/22/2023 12:54 PM
+BAG:ry18cm add 41xBình rượu (old: 40) lydo: Nhặt từ map at 02/22/2023 12:54 PM
+BAG:ry18cm add 33xLì xì (old: 32) lydo: Nhặt từ map at 02/22/2023 12:54 PM
+BAG:ry18cm add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 02/22/2023 12:54 PM
+BAG:ry18cm add 34xLì xì (old: 33) lydo: Nhặt từ map at 02/22/2023 12:54 PM
+BAG:ry18cm add 41xCây mai (old: 40) lydo: Nhặt từ map at 02/22/2023 12:55 PM
+BAG:ry18cm add 42xBình rượu (old: 41) lydo: Nhặt từ map at 02/22/2023 12:55 PM
+BAG:ry18cm add 42xCây mai (old: 41) lydo: Nhặt từ map at 02/22/2023 12:55 PM
+BAG:ry18cm add 43xCây mai (old: 42) lydo: Nhặt từ map at 02/22/2023 12:55 PM
+BAG:ry18cm add 43xBình rượu (old: 42) lydo: Nhặt từ map at 02/22/2023 12:55 PM
+BAG:ry18cm add 35xLì xì (old: 34) lydo: Nhặt từ map at 02/22/2023 12:56 PM
+BAG:ry18cm add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 02/22/2023 12:56 PM
+BAG:ry18cm add 36xLì xì (old: 35) lydo: Nhặt từ map at 02/22/2023 12:56 PM
+BAG:ry18cm add 44xCây mai (old: 43) lydo: Nhặt từ map at 02/22/2023 12:56 PM
+BAG:ry18cm add 45xCây mai (old: 44) lydo: Nhặt từ map at 02/22/2023 12:56 PM
+BAG:ry18cm add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 02/22/2023 12:57 PM
+BAG:ry18cm add 37xLì xì (old: 36) lydo: Nhặt từ map at 02/22/2023 12:57 PM
+BAG:ry18cm add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 02/22/2023 12:57 PM
+BAG:ry18cm add 44xBình rượu (old: 43) lydo: Nhặt từ map at 02/22/2023 12:57 PM
+BAG:ry18cm add 38xLì xì (old: 37) lydo: Nhặt từ map at 02/22/2023 12:57 PM
+BAG:ry18cm add 45xBình rượu (old: 44) lydo: Nhặt từ map at 02/22/2023 12:58 PM
+BAG:ry18cm add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 02/22/2023 12:58 PM
+BAG:ry18cm add 39xLì xì (old: 38) lydo: Nhặt từ map at 02/22/2023 12:58 PM
+BAG:ry18cm add 46xBình rượu (old: 45) lydo: Nhặt từ map at 02/22/2023 12:58 PM
+BAG:ry18cm add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 02/22/2023 12:58 PM
+BAG:ry18cm add 40xLì xì (old: 39) lydo: Nhặt từ map at 02/22/2023 12:59 PM
+BAG:ry18cm add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 02/22/2023 12:59 PM
+BAG:ry18cm add 41xLì xì (old: 40) lydo: Nhặt từ map at 02/22/2023 12:59 PM
+BAG:ry18cm add 46xCây mai (old: 45) lydo: Nhặt từ map at 02/22/2023 12:59 PM
+BAG:ry18cm add 47xBình rượu (old: 46) lydo: Nhặt từ map at 02/22/2023 12:59 PM
+BAG:ry18cm add 47xCây mai (old: 46) lydo: Nhặt từ map at 02/22/2023 12:59 PM
+BAG:ry18cm add 48xCây mai (old: 47) lydo: Nhặt từ map at 02/22/2023 12:59 PM
+BAG:ry18cm add 49xCây mai (old: 48) lydo: Nhặt từ map at 02/22/2023 1:00 PM
+BAG:ry18cm add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 02/22/2023 1:00 PM
+BAG:ry18cm add 50xCây mai (old: 49) lydo: Nhặt từ map at 02/22/2023 1:00 PM
+BAG:ry18cm add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 02/22/2023 1:00 PM
+BAG:ry18cm add 42xLì xì (old: 41) lydo: Nhặt từ map at 02/22/2023 1:00 PM
+BAG:ry18cm add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 02/22/2023 1:00 PM
+BAG:ry18cm add 43xLì xì (old: 42) lydo: Nhặt từ map at 02/22/2023 1:00 PM
+BAG:ry18cm add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 02/22/2023 1:01 PM
+BAG:ry18cm add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 02/22/2023 1:01 PM
+BAG:ry18cm add 51xCây mai (old: 50) lydo: Nhặt từ map at 02/22/2023 1:01 PM
+BAG:ry18cm add 44xLì xì (old: 43) lydo: Nhặt từ map at 02/22/2023 1:01 PM
+BAG:ry18cm add 45xLì xì (old: 44) lydo: Nhặt từ map at 02/22/2023 1:01 PM
+BAG:ry18cm add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 02/22/2023 1:01 PM
+BAG:ry18cm add 48xBình rượu (old: 47) lydo: Nhặt từ map at 02/22/2023 1:01 PM
+BAG:ry18cm add 46xLì xì (old: 45) lydo: Nhặt từ map at 02/22/2023 1:01 PM
+BAG:ry18cm add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 02/22/2023 1:02 PM
+BAG:ry18cm add 47xLì xì (old: 46) lydo: Nhặt từ map at 02/22/2023 1:02 PM
+BAG:ry18cm add 48xLì xì (old: 47) lydo: Nhặt từ map at 02/22/2023 1:02 PM
+BAG:ry18cm add 52xCây mai (old: 51) lydo: Nhặt từ map at 02/22/2023 1:02 PM
+BAG:ry18cm add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 02/22/2023 1:02 PM
+BAG:ry18cm add 49xBình rượu (old: 48) lydo: Nhặt từ map at 02/22/2023 1:02 PM
+BAG:ry18cm add 53xCây mai (old: 52) lydo: Nhặt từ map at 02/22/2023 1:03 PM
+BAG:ry18cm add 54xCây mai (old: 53) lydo: Nhặt từ map at 02/22/2023 1:03 PM
+BAG:ry18cm add 55xCây mai (old: 54) lydo: Nhặt từ map at 02/22/2023 1:03 PM
+BAG:ry18cm add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 02/22/2023 1:03 PM
+BAG:ry18cm add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 02/22/2023 1:04 PM
+BAG:ry18cm add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 02/22/2023 1:04 PM
+BAG:ry18cm add 56xCây mai (old: 55) lydo: Nhặt từ map at 02/22/2023 1:04 PM
+BAG:ry18cm add 57xCây mai (old: 56) lydo: Nhặt từ map at 02/22/2023 1:04 PM
+BAG:ry18cm add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 02/22/2023 1:04 PM
+BAG:ry18cm add 58xCây mai (old: 57) lydo: Nhặt từ map at 02/22/2023 1:04 PM
+BAG:ry18cm add 59xCây mai (old: 58) lydo: Nhặt từ map at 02/22/2023 1:05 PM
+BAG:ry18cm add 50xBình rượu (old: 49) lydo: Nhặt từ map at 02/22/2023 1:05 PM
+BAG:ry18cm add 51xBình rượu (old: 50) lydo: Nhặt từ map at 02/22/2023 1:05 PM
+BAG:ry18cm add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 02/22/2023 1:05 PM
+BAG:ry18cm add 49xLì xì (old: 48) lydo: Nhặt từ map at 02/22/2023 1:05 PM
+BAG:ry18cm add 60xCây mai (old: 59) lydo: Nhặt từ map at 02/22/2023 1:05 PM
+BAG:ry18cm add 50xLì xì (old: 49) lydo: Nhặt từ map at 02/22/2023 1:07 PM
+BAG:ry18cm add 52xBình rượu (old: 51) lydo: Nhặt từ map at 02/22/2023 1:07 PM
+BAG:ry18cm add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 02/22/2023 1:07 PM
+BAG:ry18cm add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 02/22/2023 1:07 PM
+BAG:ry18cm add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 02/22/2023 1:07 PM
+BAG:ry18cm add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 02/22/2023 1:08 PM
+BAG:ry18cm add 51xLì xì (old: 50) lydo: Nhặt từ map at 02/22/2023 1:08 PM
+BAG:ry18cm add 61xCây mai (old: 60) lydo: Nhặt từ map at 02/22/2023 1:08 PM
+BAG:ry18cm add 52xLì xì (old: 51) lydo: Nhặt từ map at 02/22/2023 1:08 PM
+BAG:ry18cm add 53xBình rượu (old: 52) lydo: Nhặt từ map at 02/22/2023 1:08 PM
+BAG:ry18cm add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 02/22/2023 1:08 PM
+BAG:ry18cm add 54xBình rượu (old: 53) lydo: Nhặt từ map at 02/22/2023 1:09 PM
+BAG:ry18cm add 62xCây mai (old: 61) lydo: Nhặt từ map at 02/22/2023 1:09 PM
+BAG:ry18cm add 53xLì xì (old: 52) lydo: Nhặt từ map at 02/22/2023 1:09 PM
+BAG:ry18cm add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 02/22/2023 1:09 PM
+BAG:ry18cm add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 02/22/2023 1:09 PM
+BAG:ry18cm add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 02/22/2023 1:09 PM
+BAG:ry18cm add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 02/22/2023 1:09 PM
+BAG:ry18cm add 55xBình rượu (old: 54) lydo: Nhặt từ map at 02/22/2023 1:09 PM
+BAG:ry18cm add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 02/22/2023 1:10 PM
+BAG:ry18cm add 56xBình rượu (old: 55) lydo: Nhặt từ map at 02/22/2023 1:10 PM
+BAG:ry18cm add 54xLì xì (old: 53) lydo: Nhặt từ map at 02/22/2023 1:10 PM
+BAG:ry18cm add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 02/22/2023 1:10 PM
+BAG:ry18cm add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 02/22/2023 1:11 PM
+BAG:ry18cm add 63xCây mai (old: 62) lydo: Nhặt từ map at 02/22/2023 1:11 PM
+BAG:ry18cm add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 02/22/2023 1:11 PM
+BAG:ry18cm add 64xCây mai (old: 63) lydo: Nhặt từ map at 02/22/2023 1:11 PM
+BAG:ry18cm add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 02/22/2023 1:11 PM
+BAG:ry18cm add 65xCây mai (old: 64) lydo: Nhặt từ map at 02/22/2023 1:11 PM
+BAG:ry18cm add 57xBình rượu (old: 56) lydo: Nhặt từ map at 02/22/2023 1:11 PM
+BAG:ry18cm add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 02/22/2023 1:12 PM
+BAG:ry18cm add 58xBình rượu (old: 57) lydo: Nhặt từ map at 02/22/2023 1:12 PM
+BAG:ry18cm add 55xLì xì (old: 54) lydo: Nhặt từ map at 02/22/2023 1:12 PM
+BAG:ry18cm add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 02/22/2023 1:12 PM
+BAG:ry18cm add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 02/22/2023 1:13 PM
+BAG:ry18cm add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 02/22/2023 1:13 PM
+BAG:ry18cm add 66xCây mai (old: 65) lydo: Nhặt từ map at 02/22/2023 1:13 PM
+BAG:ry18cm add 56xLì xì (old: 55) lydo: Nhặt từ map at 02/22/2023 1:14 PM
+BAG:ry18cm add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 02/22/2023 1:14 PM
+BAG:ry18cm add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 02/22/2023 1:14 PM
+BAG:ry18cm add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 02/22/2023 1:14 PM
+BAG:ry18cm add 59xBình rượu (old: 58) lydo: Nhặt từ map at 02/22/2023 1:14 PM
+BAG:ry18cm add 57xLì xì (old: 56) lydo: Nhặt từ map at 02/22/2023 1:14 PM
+BAG:ry18cm add 58xLì xì (old: 57) lydo: Nhặt từ map at 02/22/2023 1:15 PM
+BAG:ry18cm add 59xLì xì (old: 58) lydo: Nhặt từ map at 02/22/2023 1:15 PM
+BAG:ry18cm add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 02/22/2023 1:15 PM
+BAG:ry18cm add 60xBình rượu (old: 59) lydo: Nhặt từ map at 02/22/2023 1:15 PM
+BAG:ry18cm add 61xBình rượu (old: 60) lydo: Nhặt từ map at 02/22/2023 1:16 PM
+BAG:ry18cm add 62xBình rượu (old: 61) lydo: Nhặt từ map at 02/22/2023 1:17 PM
+BAG:ry18cm add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 02/22/2023 1:17 PM
+BAG:ry18cm add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 02/22/2023 1:17 PM
+BAG:ry18cm add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 02/22/2023 1:17 PM
+BAG:ry18cm add 60xLì xì (old: 59) lydo: Nhặt từ map at 02/22/2023 1:17 PM
+BAG:ry18cm add 61xLì xì (old: 60) lydo: Nhặt từ map at 02/22/2023 1:17 PM
+BAG:ry18cm add 62xLì xì (old: 61) lydo: Nhặt từ map at 02/22/2023 1:17 PM
+BAG:ry18cm add 63xLì xì (old: 62) lydo: Nhặt từ map at 02/22/2023 1:18 PM
+BAG:ry18cm add 67xCây mai (old: 66) lydo: Nhặt từ map at 02/22/2023 1:18 PM
+BAG:ry18cm add 64xLì xì (old: 63) lydo: Nhặt từ map at 02/22/2023 1:18 PM
+BAG:ry18cm add 63xBình rượu (old: 62) lydo: Nhặt từ map at 02/22/2023 1:18 PM
+BAG:ry18cm add 64xBình rượu (old: 63) lydo: Nhặt từ map at 02/22/2023 1:18 PM
+BAG:ry18cm add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/22/2023 1:19 PM
+BAG:ry18cm add 65xBình rượu (old: 64) lydo: Nhặt từ map at 02/22/2023 4:05 PM
+BAG:ry18cm add 1xĐậu thần cấp 1 lydo: buff at 02/22/2023 5:10 PM
+BAG:ry18cm add 1xNgọc Rồng 1 sao lydo: buff at 02/22/2023 5:10 PM
+BAG:ry18cm add 2xNgọc Rồng 2 sao (old: 1) lydo: buff at 02/22/2023 5:10 PM
+BAG:ry18cm add 27xNgọc Rồng 4 sao (old: 26) lydo: buff at 02/22/2023 5:10 PM
+BAG:ry18cm add 1xNgọc Rồng 5 sao lydo: buff at 02/22/2023 5:10 PM
+BAG:ry18cm add 1xNgọc Rồng 6 sao lydo: buff at 02/22/2023 5:10 PM
+BAG:ry18cm add 1xNgọc Rồng 7 sao lydo: buff at 02/22/2023 5:10 PM
+BAG:ry18cm add 1xGăng Thiên Sứ lydo: admin at 02/22/2023 5:11 PM
+BAG:ry18cm add 1xGăng Thiên Sứ lydo: admin at 02/22/2023 5:11 PM
+BAG:ry18cm add 1xÁo da Pico lydo: admin at 02/22/2023 5:12 PM
+BAG:ry18cm add 1xGăng Thiên Sứ lydo: admin at 02/22/2023 5:12 PM
+BAG:ry18cm add 1xGiầy Thiên Sứ lydo: admin at 02/22/2023 5:12 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: admin at 02/22/2023 5:12 PM
+BAG:ry18cm add 1xGiầy Thiên Sứ lydo: admin at 02/22/2023 5:13 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: admin at 02/22/2023 5:13 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: admin at 02/22/2023 5:13 PM
+BAG:ry18cm add 1xGiầy Thiên Sứ lydo: admin at 02/22/2023 5:13 PM
+BAG:ry18cm add 1xQuần Thiên Sứ lydo: admin at 02/22/2023 5:14 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: admin at 02/22/2023 5:14 PM
+BAG:ry18cm add 1xCải trang Thiên Sứ lydo: admin at 02/22/2023 5:14 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: admin at 02/22/2023 5:14 PM
+BAG:ry18cm add 1xCải trang Thiên Sứ lydo: admin at 02/22/2023 5:14 PM
+BAG:ry18cm add 1xLồng đèn lon lydo: admin at 02/22/2023 5:15 PM
+BAG:ry18cm add 1xÁo Thiên Sứ lydo: admin at 02/22/2023 5:15 PM
+BAG:ry18cm add 1xÁo Thiên Sứ lydo: admin at 02/22/2023 5:15 PM
+BAG:ry18cm add 1xÁo Thiên Sứ lydo: admin at 02/22/2023 5:15 PM
+BAG:ry18cm add 1xQuần Thiên Sứ lydo: admin at 02/22/2023 5:15 PM
+BAG:ry18cm add 1xGiầy Thiên Sứ lydo: admin at 02/22/2023 5:16 PM
+BAG:ry18cm add 1xGiầy Thiên Sứ lydo: admin at 02/22/2023 5:16 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: admin at 02/22/2023 5:16 PM
+BAG:ry18cm add 1xLồng đèn lon lydo: admin at 02/22/2023 5:16 PM
+BAG:ry18cm add 1xGiầy Thiên Sứ lydo: admin at 02/22/2023 5:16 PM
+BAG:ry18cm add 1xThỏ đỏ Chi Chi lydo: admin at 02/22/2023 5:16 PM
+BAG:ry18cm add 1xPet Khỉ Bong Bóng lydo: admin at 02/22/2023 5:17 PM
+BAG:ry18cm add 1xLồng đèn lon lydo: admin at 02/22/2023 5:17 PM
+BAG:ry18cm add 1xÁo Thiên Sứ lydo: admin at 02/22/2023 5:17 PM
+BAG:ry18cm add 1xÁo Thiên Sứ lydo: admin at 02/22/2023 5:17 PM
+BAG:ry18cm add 1xQuần Thiên Sứ lydo: admin at 02/22/2023 5:17 PM
+BAG:ry18cm add 1xQuần Thiên Sứ lydo: admin at 02/22/2023 5:17 PM
+BAG:ry18cm add 1xQuần Thiên Sứ lydo: admin at 02/22/2023 5:18 PM
+BAG:ry18cm add 1xGiầy Thiên Sứ lydo: admin at 02/22/2023 5:18 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: admin at 02/22/2023 5:18 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: admin at 02/22/2023 5:18 PM
+BAG:ry18cm add 1xCải trang Thiên Sứ lydo: admin at 02/22/2023 5:18 PM
+BAG:ry18cm add 1xCải trang Thiên Sứ lydo: admin at 02/22/2023 5:18 PM
+BAG:ry18cm add 1xGiầy Thiên Sứ lydo: admin at 02/22/2023 5:19 PM
+BAG:ry18cm add 1xGiầy Thiên Sứ lydo: admin at 02/22/2023 5:19 PM
+BAG:ry18cm add 1xGăng Thiên Sứ lydo: admin at 02/22/2023 5:19 PM
+BAG:ry18cm add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 02/22/2023 5:35 PM
+BAG:ry18cm add 1xÁo Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 02/22/2023 5:35 PM
+BAG:ry18cm add 1xQuần Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 02/22/2023 5:35 PM
+BAG:ry18cm add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 02/22/2023 5:35 PM
+BAG:ry18cm add 1xGiầy Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 02/22/2023 5:35 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 02/22/2023 5:35 PM
+BAG:ry18cm add 1xQuần Thiên Sứ lydo: admin at 02/22/2023 5:39 PM
+BAG:ry18cm add 1xGăng Thiên Sứ lydo: admin at 02/22/2023 5:39 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: admin at 02/22/2023 5:39 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: admin at 02/22/2023 5:40 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: admin at 02/22/2023 5:40 PM
+BAG:ry18cm add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 02/22/2023 5:40 PM
+BAG:ry18cm add 28xNgọc Rồng 3 sao (old: 27) lydo: buff at 02/22/2023 5:41 PM
+BAG:ry18cm add 78xNgọc Rồng 3 sao (old: 28) lydo: buff at 02/22/2023 5:41 PM
+BAG:ry18cm add 1xCờ cam lydo: buff at 02/22/2023 6:05 PM
+BAG:ry18cm add 1xĐá lục bảo lydo: Nhặt từ map at 02/22/2023 6:06 PM
+BAG:ry18cm add 1xBình rượu lydo: Nhặt từ map at 02/22/2023 6:06 PM
+BAG:ry18cm add 1xCây mai lydo: Nhặt từ map at 02/22/2023 6:07 PM
+BAG:ry18cm add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 02/22/2023 6:07 PM
+BAG:ry18cm add 1xĐá Ruby lydo: Nhặt từ map at 02/22/2023 6:07 PM
+BAG:ry18cm add 1xĐá Titan lydo: Nhặt từ map at 02/22/2023 6:08 PM
+BAG:ry18cm add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/22/2023 6:08 PM
+BAG:ry18cm add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/22/2023 6:09 PM
+BAG:ry18cm add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 02/22/2023 6:09 PM
+BAG:ry18cm add 4xBình rượu (old: 3) lydo: Nhặt từ map at 02/22/2023 6:09 PM
+BAG:ry18cm add 2xCây mai (old: 1) lydo: Nhặt từ map at 02/22/2023 6:10 PM
+BAG:ry18cm add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 02/22/2023 6:10 PM
+BAG:ry18cm add 1xLì xì lydo: Nhặt từ map at 02/22/2023 6:10 PM
+BAG:ry18cm add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/22/2023 6:11 PM
+BAG:ry18cm add 1xĐá Saphia lydo: Nhặt từ map at 02/22/2023 6:11 PM
+BAG:ry18cm add 5xBình rượu (old: 4) lydo: Nhặt từ map at 02/22/2023 6:11 PM
+BAG:ry18cm add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 02/22/2023 6:11 PM
+BAG:ry18cm add 6xBình rượu (old: 5) lydo: Nhặt từ map at 02/22/2023 6:12 PM
+BAG:ry18cm add 7xBình rượu (old: 6) lydo: Nhặt từ map at 02/22/2023 6:12 PM
+BAG:ry18cm add 8xBình rượu (old: 7) lydo: Nhặt từ map at 02/22/2023 6:12 PM
+BAG:ry18cm add 3xLì xì (old: 2) lydo: Nhặt từ map at 02/22/2023 6:13 PM
+BAG:ry18cm add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 02/22/2023 6:13 PM
+BAG:ry18cm add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 02/22/2023 6:13 PM
+BAG:ry18cm add 1xGà quay nguyên con lydo: Nhặt từ map at 02/22/2023 6:13 PM
+BAG:ry18cm add 9xBình rượu (old: 8) lydo: Nhặt từ map at 02/22/2023 6:14 PM
+BAG:ry18cm add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 02/22/2023 6:14 PM
+BAG:ry18cm add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 02/22/2023 6:14 PM
+BAG:ry18cm add 1xBúp bê lydo: buff at 02/22/2023 6:16 PM
+BAG:ry18cm add 4xLì xì (old: 3) lydo: Nhặt từ map at 02/22/2023 6:16 PM
+BAG:ry18cm add 5xLì xì (old: 4) lydo: Nhặt từ map at 02/22/2023 6:17 PM
+BAG:ry18cm add 10xBình rượu (old: 9) lydo: Nhặt từ map at 02/22/2023 6:17 PM
+BAG:ry18cm add 11xBình rượu (old: 10) lydo: Nhặt từ map at 02/22/2023 6:17 PM
+BAG:ry18cm add 6xLì xì (old: 5) lydo: Nhặt từ map at 02/22/2023 6:17 PM
+BAG:ry18cm add 3xCây mai (old: 2) lydo: Nhặt từ map at 02/22/2023 6:17 PM
+BAG:ry18cm add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 02/22/2023 6:18 PM
+BAG:ry18cm add 7xLì xì (old: 6) lydo: Nhặt từ map at 02/22/2023 6:18 PM
+BAG:ry18cm add 8xLì xì (old: 7) lydo: Nhặt từ map at 02/22/2023 6:18 PM
+BAG:ry18cm add 9xLì xì (old: 8) lydo: Nhặt từ map at 02/22/2023 6:18 PM
+BAG:ry18cm add 12xBình rượu (old: 11) lydo: Nhặt từ map at 02/22/2023 6:19 PM
+BAG:ry18cm add 1xCapsule Vàng lydo: buff at 02/22/2023 6:19 PM
+BAG:ry18cm add 1xGói 30 đậu thần cấp 5 lydo: buff at 02/22/2023 6:19 PM
+BAG:ry18cm add 14xĐá thạch anh tím lydo: buff at 02/22/2023 6:19 PM
+BAG:ry18cm add 99xĐá thạch anh tím (old: 14) lydo: buff at 02/22/2023 6:19 PM
+BAG:ry18cm add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 02/22/2023 6:20 PM
+BAG:ry18cm add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/22/2023 6:20 PM
+BAG:ry18cm add 4xCây mai (old: 3) lydo: Nhặt từ map at 02/22/2023 6:21 PM
+BAG:ry18cm add 1xHộp quà tết lydo: buff at 02/22/2023 6:21 PM
+BAG:ry18cm add 1xHộp quà tết lydo: buff at 02/22/2023 6:21 PM
+BAG:ry18cm add 1xGăng sợi len lydo: buff at 02/22/2023 6:23 PM
+BAG:ry18cm add 1xÁo jean Calic lydo: buff at 02/22/2023 6:23 PM
+BAG:ry18cm add 1xBình nước lydo: buff at 02/22/2023 6:23 PM
+BAG:ry18cm add 380xThỏi vàng (old: 379) lydo: buff at 02/22/2023 6:23 PM
+BAG:ry18cm add 1xCải trang lydo: buff at 02/22/2023 6:23 PM
+BAG:ry18cm add 1xSách Dịch Chuyển lv1 lydo: buff at 02/22/2023 6:23 PM
+BAG:ry18cm add 1xDiều rồng lydo: buff at 02/22/2023 6:23 PM
+BAG:ry18cm add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/22/2023 6:24 PM
+BAG:ry18cm add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 02/22/2023 6:24 PM
+BAG:ry18cm add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/22/2023 8:55 PM
+BAG:ry18cm add 1xBình rượu lydo: Nhặt từ map at 02/22/2023 8:58 PM
+BAG:ry18cm add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 02/22/2023 8:58 PM
+BAG:ry18cm add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 02/22/2023 8:58 PM
+BAG:ry18cm add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 02/22/2023 8:58 PM
+BAG:ry18cm add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 02/22/2023 8:58 PM
+BAG:ry18cm add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 02/22/2023 8:59 PM
+BAG:ry18cm add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 02/22/2023 8:59 PM
+BAG:ry18cm add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 02/22/2023 8:59 PM
+BAG:ry18cm add 1xĐá Ruby lydo: Nhặt từ map at 02/22/2023 9:01 PM
+BAG:ry18cm add 1xCây mai lydo: Nhặt từ map at 02/22/2023 9:02 PM
+BAG:ry18cm add 1xĐá lục bảo lydo: Nhặt từ map at 02/22/2023 9:02 PM
+BAG:ry18cm add 1xBột mì lydo: Nhặt từ map at 02/22/2023 9:07 PM
+BAG:ry18cm add 2xBình rượu (old: 1) lydo: Nhặt từ map at 02/22/2023 9:07 PM
+BAG:ry18cm add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 02/22/2023 9:10 PM
+BAG:ry18cm add 1xPháo hoa lydo: Nhặt từ map at 02/22/2023 10:12 PM
+BAG:ry18cm add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/22/2023 10:13 PM
+BAG:ry18cm add 1xLì xì lydo: Nhặt từ map at 02/22/2023 10:15 PM
+BAG:ry18cm add 3xBình rượu (old: 2) lydo: Nhặt từ map at 02/22/2023 10:15 PM
+BAG:ry18cm add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/22/2023 10:15 PM
+BAG:ry18cm add 2xLì xì (old: 1) lydo: Nhặt từ map at 02/22/2023 10:15 PM
+BAG:ry18cm add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/22/2023 10:39 PM
+BAG:ry18cm add 1xLì xì lydo: Nhặt từ map at 02/22/2023 10:43 PM
+BAG:ry18cm add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 02/22/2023 10:46 PM
+BAG:ry18cm add 1xQuần Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 02/22/2023 10:56 PM
+BAG:ry18cm add 1xÁo Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 02/22/2023 10:56 PM
+BAG:ry18cm add 1xGăng Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 02/22/2023 10:56 PM
+BAG:ry18cm add 1xGiầy Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 02/22/2023 10:56 PM
+BAG:ry18cm add 1xNhẫn Thiên Sứ lydo: Lấy từ body đệ vào hành trang at 02/22/2023 10:56 PM
