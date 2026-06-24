@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using Linq.Extras;
 using NRO_Server.Application.Constants;
@@ -61,6 +61,12 @@ namespace NRO_Server.Model.Character
 
         public void CreateNewDisciple(Character character)
         {
+            if (ServerUtils.RandomNumber(100) < 10)
+            {
+                CreateNewMaBuDisciple(character, (sbyte)ServerUtils.RandomNumber(3));
+                return;
+            }
+
             InfoChar.Gender = (sbyte)ServerUtils.RandomNumber(3);
             InfoChar.Power = 2000;
             InfoChar.Level = (sbyte)Cache.Gi().EXPS.Count(exp => exp < InfoChar.Power);

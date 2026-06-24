@@ -1,4 +1,4 @@
-﻿﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
@@ -357,7 +357,7 @@ namespace NRO_Server.Application.Threading
 		
 		#region Tau77
         private static bool IsTau77Spawn = false;
-        private static List<int> Tau77Maps = new List<int> { 20 };
+        private static List<int> Tau77Maps = new List<int> { 111 };
         private static Boss Tau77 = null;
         private static int Tau77Id = -1;
         private static bool IsTau77Notify = false;
@@ -2053,7 +2053,7 @@ namespace NRO_Server.Application.Threading
                             if (!IsTau77Spawn)
                             {
                                 IsTau77Spawn = true;
-                                int sbRandomZoneNum = ServerUtils.RandomNumber(0, 15);
+                                int sbRandomZoneNum = 0; // Always spawn in zone 0 because Map 111 has only 1 zone
                                 int sbRandomMapIndex = ServerUtils.RandomNumber(Tau77Maps.Count);
                                 int sbRandomMap = Tau77Maps[sbRandomMapIndex];
                                 var zone = MapManager.Get(sbRandomMap)?.GetZoneById(sbRandomZoneNum);

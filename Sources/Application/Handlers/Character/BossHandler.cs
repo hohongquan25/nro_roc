@@ -602,6 +602,12 @@ namespace NRO_Server.Application.Handlers.Character
                     Boss.BasePositionY = 432;
                     break;
                 }
+                case 111://Đông Nam Karin
+                {
+                    Boss.BasePositionX = 50;
+                    Boss.BasePositionY = 336;
+                    break;
+                }
                 case 161://HTTV
                 {
                     Boss.BasePositionX = 831;

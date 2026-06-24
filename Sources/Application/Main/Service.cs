@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -4283,7 +4283,18 @@ namespace NRO_Server.Application.Main
                     task = Cache.Gi().TASK_TEMPLATES_2.Values
                 .FirstOrDefault(t => t.Id == character.InfoChar.Task.Id);
                 }
-                if (task == null) return null;
+                if (task == null) 
+                {
+                    // Tự động sửa lỗi kẹt nhân vật do Task.Id không tồn tại
+                    if (Cache.Gi().TASK_TEMPLATES_0.Count > 0)
+                    {
+                        character.InfoChar.Task.Id = Cache.Gi().TASK_TEMPLATES_0.Keys.Max();
+                        character.InfoChar.Task.Index = 0;
+                        character.InfoChar.Task.Count = 0;
+                        return SendTask(character);
+                    }
+                    return null;
+                }
                 var message = new Message(40);
                 message.Writer.WriteShort(character.InfoChar.Task.Id);
                 message.Writer.WriteByte(character.InfoChar.Task.Index);

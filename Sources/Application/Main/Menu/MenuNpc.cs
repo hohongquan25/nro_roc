@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using NRO_Server.Application.IO;
 namespace NRO_Server.Main.Menu
 {
@@ -103,7 +103,8 @@ namespace NRO_Server.Main.Menu
                 //"Bật/Tắt\nhiệu ứng\nđánh boss",
                 "BXH\nSự kiện\nTop nạp",
                 "BXH\nSự kiện\nSức mạnh",
-                // "Đổi máy chủ"
+                "Hoàn thành\nnhiệm vụ",
+                // "Dổi máy chủ"
             },
             new List<string>()
             {
@@ -218,8 +219,8 @@ namespace NRO_Server.Main.Menu
         {
             new List<string>()
             {
-               // "Đổi quà sự kiện", 
-                //"Đổi quà tích nạp",
+               "Thách đấu",
+               "Từ chối"
             },
             //đổi sự kiện
             new List<string>()

@@ -3100,6 +3100,7 @@ namespace NRO_Server.Application.Main
                             if (Maintenance.Gi().IsStart)
                             {
                                 character.CharacterHandler.SendMessage(Service.ServerMessage("Máy chủ đang tiến hành bảo trì, không thể thao tác ngay lúc này, vui lòng thoát game"));
+                                character.CharacterHandler.SendMessage(Service.BuyItem(character));
                                 return;
                             }
 
@@ -3115,12 +3116,14 @@ namespace NRO_Server.Application.Main
 
                                 character.CharacterHandler.SendMessage(Service.DialogMessage(string.Format(TextServer.gI().DELAY_RESTART_SEC,
                                         delay)));
+                                character.CharacterHandler.SendMessage(Service.BuyItem(character));
                                 return;
                             }
 
                             if (character.Delay.InvAction > timeServer)
                             {
                                 character.CharacterHandler.SendMessage(Service.ServerMessage("Bạn thao tác quá nhanh, chậm lại nhé"));
+                                character.CharacterHandler.SendMessage(Service.BuyItem(character));
                                 return;
                             }
 
@@ -5048,7 +5051,7 @@ namespace NRO_Server.Application.Main
                 mapOld.JoinZone((Character) character, character.InfoChar.ZoneId);
                 return;
 			}
-			if (character.InfoChar.Task.Id < 21 && mapNext.Id > 62)
+			if (character.InfoChar.Task.Id < 21 && mapNext.Id > 62 && mapNext.Id != 111)
 			{
 				character.CharacterHandler.SendMessage(Service.OpenUiSay(5, "Bạn chưa thể đến khu vực này", false, character.InfoChar.Gender));
                 mapOld.OutZone(character, mapOld.Id);
@@ -5056,7 +5059,7 @@ namespace NRO_Server.Application.Main
                 mapOld.JoinZone((Character) character, character.InfoChar.ZoneId);
                 return;
 			}
-			if (character.InfoChar.Task.Id < 22 && mapNext.Id > 72)
+			if (character.InfoChar.Task.Id < 22 && mapNext.Id > 72 && mapNext.Id != 111)
 			{
 				character.CharacterHandler.SendMessage(Service.OpenUiSay(5, "Bạn chưa thể đến khu vực này", false, character.InfoChar.Gender));
                 mapOld.OutZone(character, mapOld.Id);
@@ -5065,7 +5068,7 @@ namespace NRO_Server.Application.Main
                 return;
 			}
 			
-			if (character.InfoChar.Task.Id < 23 && mapNext.Id > 78)
+			if (character.InfoChar.Task.Id < 23 && mapNext.Id > 78 && mapNext.Id != 111)
             {
                 character.CharacterHandler.SendMessage(Service.OpenUiSay(5, "Bạn chưa thể đến khu vực này", false, character.InfoChar.Gender));
                 mapOld.OutZone(character, mapOld.Id);
@@ -5074,7 +5077,7 @@ namespace NRO_Server.Application.Main
                 return;
             }
 			
-			if (character.InfoChar.Task.Id < 24 && mapNext.Id > 91)
+			if (character.InfoChar.Task.Id < 24 && mapNext.Id > 91 && mapNext.Id != 111)
             {
                 character.CharacterHandler.SendMessage(Service.OpenUiSay(5, "Bạn chưa thể đến khu vực này", false, character.InfoChar.Gender));
                 mapOld.OutZone(character, mapOld.Id);
@@ -5082,7 +5085,7 @@ namespace NRO_Server.Application.Main
                 mapOld.JoinZone((Character) character, character.InfoChar.ZoneId);
                 return;
             }
-			if (character.InfoChar.Task.Id < 31 && mapNext.Id > 123)
+			if (character.InfoChar.Task.Id < 31 && mapNext.Id > 123 && mapNext.Id != 111)
             {
                 character.CharacterHandler.SendMessage(Service.OpenUiSay(5, "Bạn chưa thể đến khu vực này", false, character.InfoChar.Gender));
                 mapOld.OutZone(character, mapOld.Id);
@@ -5090,7 +5093,7 @@ namespace NRO_Server.Application.Main
                 mapOld.JoinZone((Character) character, character.InfoChar.ZoneId);
                 return;
             }
-			if (character.InfoChar.Task.Id < 31 && mapNext.Id > 105)
+			if (character.InfoChar.Task.Id < 31 && mapNext.Id > 105 && mapNext.Id != 111)
             {
                 character.CharacterHandler.SendMessage(Service.OpenUiSay(5, "Bạn chưa thể đến khu vực này", false, character.InfoChar.Gender));
                 mapOld.OutZone(character, mapOld.Id);

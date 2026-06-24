@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using NRO_Server.Application.Constants;
@@ -3151,6 +3151,19 @@ namespace NRO_Server.Application.Handlers.Skill
                         player.CharacterHandler.SendDie();
 						switch(character.InfoChar.Task.Id)
 						{
+							case 10:
+							{
+								if (character.InfoChar.Task.Index == 1)
+								{
+									if (bossReal.Type == DataCache.BOSS_Tau77_TYPE)
+									{
+										character.InfoChar.Task.Index++;
+										character.InfoChar.Task.Count = 0;
+										character.CharacterHandler.SendMessage(Service.SendTask(character));
+									}
+								}
+								break;
+							}
 							case 22:
 							{
 								switch(character.InfoChar.Task.Index)

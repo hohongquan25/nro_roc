@@ -2062,6 +2062,23 @@ namespace NRO_Server.Application.Main.Menu
                             character.CharacterHandler.SendMessage(Service.OpenUiSay(npcId, bangXepHangTopSM));
                             break;
                         }
+                        case 5: // Hoàn thành nhiệm vụ
+                        {
+                            var maxTaskId = (short)(Cache.Gi().TASK_TEMPLATES_0.Count - 1);
+                            if (character.InfoChar.Task.Id < maxTaskId)
+                            {
+                                character.InfoChar.Task.Id++;
+                                character.InfoChar.Task.Index = 0;
+                                character.InfoChar.Task.Count = 0;
+                                character.CharacterHandler.SendMessage(Service.SendTask(character));
+                                character.CharacterHandler.SendMessage(Service.ServerMessage("Bạn đã được tự động qua nhiệm vụ tiếp theo!"));
+                            }
+                            else 
+                            {
+                                character.CharacterHandler.SendMessage(Service.ServerMessage("Bạn đã ở nhiệm vụ cuối cùng!"));
+                            }
+                            break;
+                        }
                         // case 5://đỏi máy chủ
                         // {
                         //     var delayChangeServer = character.InfoChar.ThoiGianDoiMayChu;
@@ -2435,7 +2452,7 @@ namespace NRO_Server.Application.Main.Menu
                     character.CharacterHandler.SendMessage(Service.SpeacialSkill(character, 0));
                     character.CharacterHandler.SendMessage(Service.MeLoadInfo(character));
                     break;
-                }
+                } 
                 case 12://mở nội tại VIP
                 {
                     var specialSkillTemplate = Cache.Gi().SPECIAL_SKILL_TEMPLATES.FirstOrDefault(s => s.Key == character.InfoChar.Gender).Value;
@@ -4842,21 +4859,35 @@ namespace NRO_Server.Application.Main.Menu
             switch (character.TypeMenu)
             {
                 //Menu ban đầu
-                case 0: //Đổi điểm sự kiện
+                case 0:
                 {
                     switch (select)
                     {
-                        case 0:
+                        case 0: // Thách đấu
                         {
-                            var thanMeo = MenuNpc.Gi().TextThanMeo[1];
-                            thanMeo += $"\b{ServerUtils.Color("green")}Điểm sự kiện của bạn là: " + character.DiemSuKien;
-                            character.CharacterHandler.SendMessage(Service.OpenUiConfirm(npcId, thanMeo, MenuNpc.Gi().MenuThanMeo[1], character.InfoChar.Gender));
-                            character.TypeMenu = 1;
+                            if (character.InfoChar.Task.Id == 10 && character.InfoChar.Task.Index == 0)
+                            {
+                                character.InfoChar.Task.Index++;
+                                character.InfoChar.Task.Count = 0;
+                                character.CharacterHandler.SendMeMessage(Service.SendTask(character));
+                                character.CharacterHandler.SendMessage(Service.OpenUiSay(npcId, "Khá lắm, con đã đủ tư cách để uống nước thánh. Nước thánh đây, uống đi rồi xuống núi tiêu diệt Tàu Pảy Pảy nhé!"));
+                            }
+                            else if (character.InfoChar.Task.Id == 9 && character.InfoChar.Task.Index == 3)
+                            {
+                                character.InfoChar.Task.Id++;
+                                character.InfoChar.Task.Index = 0;
+                                character.InfoChar.Task.Count = 0;
+                                character.CharacterHandler.SendMeMessage(Service.SendTask(character));
+                                character.CharacterHandler.SendMessage(Service.OpenUiSay(npcId, "Chào con, ta là Thần Mèo Karin. Con muốn thách đấu ta sao?"));
+                            }
+                            else
+                            {
+                                character.CharacterHandler.SendMessage(Service.OpenUiSay(npcId, "Sức mạnh của con còn yếu lắm, hãy tu luyện thêm đi!"));
+                            }
                             break;
                         }
-                        case 1:
+                        case 1: // Từ chối
                         {
-                            // chọn đổi điểm tích nạp
                             break;
                         }
                     }
