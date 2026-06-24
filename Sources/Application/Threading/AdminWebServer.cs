@@ -26,7 +26,7 @@ namespace NRO_Server.Application.Threading
             if (_isRunning) return;
 
             _listener = new HttpListener();
-            _listener.Prefixes.Add("http://localhost:5000/");
+            _listener.Prefixes.Add("http://*:5000/");
             
             try
             {
