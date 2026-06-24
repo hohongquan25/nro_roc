@@ -254,7 +254,7 @@ namespace NRO_Server.DatabaseManager
 
                     #region Read Table limitPower
 
-                    command.CommandText = "SELECT * FROM `limitPower`";
+                    command.CommandText = "SELECT * FROM `limitpower`";
                     reader = command.ExecuteReader();
                     if (reader.HasRows)
                         while (reader.Read())
