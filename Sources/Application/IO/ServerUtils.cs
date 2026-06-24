@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -17,7 +17,7 @@ namespace NRO_Server.Application.IO
     {
         public static string ProjectDir(string path)
         {
-            return $"{Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\.."))}/{path}";
+            return $"{Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "../../.."))}/{path}";
         }
         private static readonly DateTime Jan1st1970 = new DateTime(1970, 1, 1, 0, 0, 00, DateTimeKind.Utc);
 
