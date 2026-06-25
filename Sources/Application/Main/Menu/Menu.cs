@@ -2482,6 +2482,94 @@ namespace NRO_Server.Application.Main.Menu
                     character.CharacterHandler.SendMessage(Service.MeLoadInfo(character));
                     break;
                 }
+                case 20: // Chọn loại thách đấu
+                {
+                    if (select == 0) // Thách đấu thường
+                    {
+                        var player = (Character) character.Zone?.ZoneHandler?.GetCharacter(character.Test.CheckDiscipleId);
+                        if (player != null)
+                        {
+                            character.Test.CheckId = player.Id;
+                            character.CharacterHandler.SendMessage(Service.OpenUiConfirm(5,
+                                string.Format(MenuNpc.Gi().TextMeo[6], player.Name,
+                                    ServerUtils.GetPower(player.InfoChar.Power)), MenuNpc.Gi().MenuMeo[2],
+                                character.InfoChar.Gender));
+                            character.TypeMenu = 0; // Chuyển về menu Thách đấu thường
+                        }
+                    }
+                    else if (select == 1) // Thách đấu đệ tử
+                    {
+                        var player = (Character) character.Zone?.ZoneHandler?.GetCharacter(character.Test.CheckDiscipleId);
+                        if (player != null)
+                        {
+                            if (character.Disciple == null || character.Disciple.Status > 1) 
+                            {
+                                character.CharacterHandler.SendMessage(Service.ServerMessage("Bạn cần có đệ tử đang đi theo để thách đấu!"));
+                                return;
+                            }
+                            if (player.Disciple == null || player.Disciple.Status > 1)
+                            {
+                                character.CharacterHandler.SendMessage(Service.ServerMessage("Đối phương không có đệ tử hoặc đệ tử không xuất chiến!"));
+                                return;
+                            }
+
+                            // Gửi lời mời đến player
+                            player.Test.CheckDiscipleId = character.Id;
+                            var text = string.Format(MenuNpc.Gi().TextChallenge[1], character.Name, ServerUtils.GetPower(character.InfoChar.Power));
+                            player.CharacterHandler.SendMessage(Service.OpenUiConfirm(5, text, MenuNpc.Gi().MenuChallenge[1], player.InfoChar.Gender));
+                            player.TypeMenu = 21; // Menu chờ phản hồi thách đấu đệ tử
+                            character.CharacterHandler.SendMessage(Service.ServerMessage("Đã gửi lời mời thách đấu đệ tử."));
+                        }
+                    }
+                    break;
+                }
+                case 21: // Nhận lời mời thách đấu đệ tử
+                {
+                    if (select == 0) // Đồng ý
+                    {
+                        var player = (Character) character.Zone?.ZoneHandler?.GetCharacter(character.Test.CheckDiscipleId);
+                        if (player != null)
+                        {
+                            if (character.Disciple == null || character.Disciple.Status > 1 || player.Disciple == null || player.Disciple.Status > 1) 
+                            {
+                                character.CharacterHandler.SendMessage(Service.ServerMessage("Thách đấu thất bại do 1 trong 2 không có đệ tử."));
+                                player.CharacterHandler.SendMessage(Service.ServerMessage("Thách đấu thất bại do 1 trong 2 không có đệ tử."));
+                                return;
+                            }
+                            
+                            // Bắt đầu đánh nhau
+                            character.Test.IsTestDisciple = true;
+                            character.Test.TestDiscipleId = player.Id;
+                            
+                            player.Test.IsTestDisciple = true;
+                            player.Test.TestDiscipleId = character.Id;
+
+                            // Chuyển status đệ tử
+                            character.Disciple.Status = 2;
+                            player.Disciple.Status = 2;
+                            character.Disciple.InfoChar.TypePk = 3;
+                            player.Disciple.InfoChar.TypePk = 3;
+                            
+                            character.Disciple.CharacterFocus = player.Disciple;
+                            player.Disciple.CharacterFocus = character.Disciple;
+
+                            character.Zone?.ZoneHandler?.SendMessage(Service.ChangeTypePk(character.Disciple.Id, 3));
+                            character.Zone?.ZoneHandler?.SendMessage(Service.ChangeTypePk(player.Disciple.Id, 3));
+
+                            character.CharacterHandler.SendMessage(Service.ServerMessage("Thách đấu đệ tử bắt đầu!"));
+                            player.CharacterHandler.SendMessage(Service.ServerMessage("Thách đấu đệ tử bắt đầu!"));
+                        }
+                    }
+                    else 
+                    {
+                        var player = (Character) character.Zone?.ZoneHandler?.GetCharacter(character.Test.CheckDiscipleId);
+                        if (player != null)
+                        {
+                            player.CharacterHandler.SendMessage(Service.ServerMessage("Đối phương đã từ chối lời mời thách đấu đệ tử."));
+                        }
+                    }
+                    break;
+                }
             }
         }
         
@@ -6272,27 +6360,30 @@ namespace NRO_Server.Application.Main.Menu
                 case 2://Doi ky nang de tu
                 {
                     var disciple = character.Disciple;
-                    var disciplePower = disciple.InfoChar.Power;
-                    if (disciplePower >= 150000000 && disciple.Skills.Count >= 2)
+                    if (disciple != null)
                     {
-                        var randomSkill = DataCache.IdSkillDisciple2[ServerUtils.RandomNumber(DataCache.IdSkillDisciple2.Count)];
-                        disciple.Skills[1] = new SkillCharacter()
+                        var disciplePower = disciple.InfoChar.Power;
+                        if (disciplePower >= 150000000 && disciple.Skills.Count >= 2)
                         {
-                            Id = randomSkill,
-                            SkillId = Disciple.GetSkillId(randomSkill),
-                            Point = 1,
-                        };
-                    }
+                            var randomSkill = DataCache.IdSkillDisciple2[ServerUtils.RandomNumber(DataCache.IdSkillDisciple2.Count)];
+                            disciple.Skills[1] = new SkillCharacter()
+                            {
+                                Id = randomSkill,
+                                SkillId = Disciple.GetSkillId(randomSkill),
+                                Point = 1,
+                            };
+                        }
 
-                    if (disciplePower >= 1500000000 && disciple.Skills.Count >= 3)
-                    {
-                        var randomSkill = DataCache.IdSkillDisciple3[ServerUtils.RandomNumber(DataCache.IdSkillDisciple3.Count)];
-                        disciple.Skills[2] = new SkillCharacter()
+                        if (disciplePower >= 1500000000 && disciple.Skills.Count >= 3)
                         {
-                            Id = randomSkill,
-                            SkillId = Disciple.GetSkillId(randomSkill),
-                            Point = 1,
-                        };
+                            var randomSkill = DataCache.IdSkillDisciple3[ServerUtils.RandomNumber(DataCache.IdSkillDisciple3.Count)];
+                            disciple.Skills[2] = new SkillCharacter()
+                            {
+                                Id = randomSkill,
+                                SkillId = Disciple.GetSkillId(randomSkill),
+                                Point = 1,
+                            };
+                        }
                     }
                     break;
                 }
@@ -6303,6 +6394,34 @@ namespace NRO_Server.Application.Main.Menu
                     itemAdd.Quantity = 1;
                     character.CharacterHandler.AddItemToBag(true, itemAdd, "Ước NR");
                     character.CharacterHandler.SendMessage(Service.SendBag(character));
+                    break;
+                }
+                case 4://Doi chiu 4 de tu
+                {
+                    var disciple = character.Disciple;
+                    if (disciple != null)
+                    {
+                        var disciplePower = disciple.InfoChar.Power;
+                        if (disciplePower >= 20000000000 && disciple.Skills.Count >= 4)
+                        {
+                            var randomSkill = DataCache.IdSkillDisciple4[ServerUtils.RandomNumber(DataCache.IdSkillDisciple4.Count)];
+                            disciple.Skills[3] = new SkillCharacter()
+                            {
+                                Id = randomSkill,
+                                SkillId = Disciple.GetSkillId(randomSkill),
+                                Point = 1,
+                            };
+                            character.CharacterHandler.SendMessage(Service.ServerMessage("Chiêu 4 của đệ tử đã được đổi thành công!"));
+                        }
+                        else
+                        {
+                            character.CharacterHandler.SendMessage(Service.ServerMessage("Đệ tử của bạn chưa mở chiêu 4!"));
+                        }
+                    }
+                    else 
+                    {
+                        character.CharacterHandler.SendMessage(Service.ServerMessage("Bạn chưa có đệ tử!"));
+                    }
                     break;
                 }
             }

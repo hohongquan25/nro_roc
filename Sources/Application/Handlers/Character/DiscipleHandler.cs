@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Linq.Extras;
@@ -62,7 +62,19 @@ namespace NRO_Server.Application.Handlers.Character
                     }
                     LeaveFromDead();
                 }
-                else if (!Disciple.InfoChar.IsDie)
+
+                if (Disciple.CharacterFocus != null)
+                {
+                    if (Disciple.InfoChar.IsDie || Disciple.InfoChar.Hp <= 0 || Disciple.CharacterFocus.InfoChar.IsDie || Disciple.CharacterFocus.InfoChar.Hp <= 0 || Disciple.CharacterFocus.Zone.Id != Disciple.Zone.Id)
+                    {
+                        Disciple.Character.Test.IsTestDisciple = false;
+                        Disciple.InfoChar.TypePk = 0;
+                        Disciple.CharacterFocus = null;
+                        Disciple.Character.CharacterHandler.SendMessage(Service.ServerMessage("Thách đấu đệ tử đã kết thúc."));
+                        SendZoneMessage(Service.ChangeTypePk(Disciple.Id, 0));
+                    }
+                }
+                if (!Disciple.InfoChar.IsDie)
                 {
                     AutoDisciple(timeServer);
                     UpdateMask(timeServer);
@@ -215,6 +227,8 @@ namespace NRO_Server.Application.Handlers.Character
                     return;
                 }
 
+                if (infoSkill.Laze.Time > timeServer || infoSkill.Qckk.Time > timeServer) return;
+
                 // Tìm quái
                 var monster = Disciple.MonsterFocus;
 
@@ -246,7 +260,7 @@ namespace NRO_Server.Application.Handlers.Character
                     }
                 }
 
-                if (monster == null)
+                if (monster == null && Disciple.CharacterFocus == null)
                 {
                     return;
                 }
@@ -255,9 +269,11 @@ namespace NRO_Server.Application.Handlers.Character
                 var dX = 0;
                 var dY = 0;
                 try {
-                    // Kiểm tra khoản cách giữa quái và đệ
-                    var monsterDistance = Math.Abs(monster.X - Disciple.InfoChar.X);
-                    var monsterDistanceY = Math.Abs(monster.Y - Disciple.InfoChar.Y);
+                    // Kiểm tra khoản cách giữa mục tiêu và đệ
+                    var targetX = Disciple.CharacterFocus != null ? Disciple.CharacterFocus.InfoChar.X : monster.X;
+                    var targetY = Disciple.CharacterFocus != null ? Disciple.CharacterFocus.InfoChar.Y : monster.Y;
+                    var monsterDistance = Math.Abs(targetX - Disciple.InfoChar.X);
+                    var monsterDistanceY = Math.Abs(targetY - Disciple.InfoChar.Y);
                     // for skill từ trên xuống dưới
                     for (int i = Disciple.Skills.Count - 1; i >= 0; i--)
                     {
@@ -369,6 +385,26 @@ namespace NRO_Server.Application.Handlers.Character
                         return;
                     }
 
+                    // QCKK
+                    if (skillChar.Id == 10)
+                    {
+                        if (Disciple.InfoSkill.Qckk.Time == -1)
+                        {
+                            SkillHandler.SkillNotFocus(Disciple, skillChar.Id, 4);
+                            return;
+                        }
+                    }
+
+                    // Makankosappo
+                    if (skillChar.Id == 11)
+                    {
+                        if (!Disciple.InfoSkill.Laze.Hold)
+                        {
+                            SkillHandler.SkillNotFocus(Disciple, skillChar.Id, 4);
+                            return;
+                        }
+                    }
+
                     // Khiên năng lượng
                     if (skillChar.Id == 19)
                     {
@@ -389,7 +425,26 @@ namespace NRO_Server.Application.Handlers.Character
                         return;
                     }
 
-                    if (monster is {IsDie: false})
+                    if (Disciple.CharacterFocus != null && !Disciple.CharacterFocus.InfoChar.IsDie)
+                    {
+                        if (skillChar.Id == 0 || skillChar.Id == 2 || skillChar.Id == 4 || skillChar.Id == 9 || Disciple.Status == 2)
+                        {
+                            if (Disciple.CharacterFocus.InfoChar.X > Disciple.InfoChar.X)
+                            {
+                                Disciple.InfoChar.X = (short)(Disciple.CharacterFocus.InfoChar.X - dX);
+                            }
+                            else
+                            {
+                                Disciple.InfoChar.X = (short)(Disciple.CharacterFocus.InfoChar.X + dX);
+                            }
+
+                            Disciple.InfoChar.Y = Disciple.CharacterFocus.InfoChar.Y;
+                            SendZoneMessage(Service.PlayerMove(Disciple.Id, Disciple.InfoChar.X, Disciple.InfoChar.Y));
+                        }
+                        SkillHandler.AttackPlayer(Disciple, skillChar, Disciple.CharacterFocus.Id);
+                        if (skillChar.Id == 10) Disciple.InfoSkill.Qckk.Time = -1;
+                    }
+                    else if (monster is {IsDie: false})
                     {
                         if (skillChar.Id == 0 || skillChar.Id == 2 || skillChar.Id == 4 || skillChar.Id == 9 || Disciple.Status == 2)
                         {
@@ -407,6 +462,7 @@ namespace NRO_Server.Application.Handlers.Character
                         }
                         //SendZoneMessage(Service.SendPos(Disciple, 0));
                         SkillHandler.AttackMonster(Disciple, skillChar, monster.IdMap);
+                        if (skillChar.Id == 10) Disciple.InfoSkill.Qckk.Time = -1;
                     }
                 }
                 catch (Exception)

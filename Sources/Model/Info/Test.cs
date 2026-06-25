@@ -1,4 +1,4 @@
-﻿namespace NRO_Server.Model.Info
+namespace NRO_Server.Model.Info
 {
     public class Test
     {
@@ -7,6 +7,10 @@
         public int TestCharacterId { get; set; }
         public int CheckId { get; set; }
         public int GoldTest { get; set; }
+        
+        public bool IsTestDisciple { get; set; }
+        public int TestDiscipleId { get; set; }
+        public int CheckDiscipleId { get; set; }
 
         public Test()
         {
@@ -15,6 +19,10 @@
             TestCharacterId = 1;
             GoldTest = 0;
             CheckId = -1;
+            
+            IsTestDisciple = false;
+            TestDiscipleId = 1;
+            CheckDiscipleId = -1;
         }
     }
 }

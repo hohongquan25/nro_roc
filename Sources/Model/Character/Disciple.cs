@@ -3,6 +3,7 @@ using System.Linq;
 using Linq.Extras;
 using NRO_Server.Application.Constants;
 using NRO_Server.Application.Handlers.Character;
+using NRO_Server.Application.Interfaces.Character;
 using NRO_Server.Application.Interfaces.Monster;
 using NRO_Server.Application.IO;
 using NRO_Server.DatabaseManager;
@@ -22,6 +23,7 @@ namespace NRO_Server.Model.Character
         public bool IsFire { get; set; }
         public bool IsBienHinh { get; set; }
         public IMonster MonsterFocus { get; set; }
+        public ICharacter CharacterFocus { get; set; }
         public InfoDelayDisciple InfoDelayDisciple { get; set; }
         public PlusPoint PlusPoint { get; set; }
 
@@ -37,6 +39,7 @@ namespace NRO_Server.Model.Character
             InfoChar.MaxStamina = 1250;
             IsFire = true;
             MonsterFocus = null;
+            CharacterFocus = null;
             IsBienHinh = false;
             PlusPoint = new PlusPoint();
             InfoDelayDisciple = new InfoDelayDisciple();
@@ -54,6 +57,7 @@ namespace NRO_Server.Model.Character
             IsFire = true;
             IsBienHinh = false;
             MonsterFocus = null;
+            CharacterFocus = null;
             PlusPoint = new PlusPoint();
             InfoDelayDisciple = new InfoDelayDisciple();
             CharacterHandler = new DiscipleHandler(this);

@@ -4,6 +4,7 @@ using System.Net;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using NRO_Server.DatabaseManager;
 using NRO_Server.DatabaseManager.Player;
 using Newtonsoft.Json.Linq;
 using NRO_Server.Application.Manager;
@@ -271,6 +272,19 @@ namespace NRO_Server.Application.Threading
                                 resJson["message"] = "Tên tài khoản đã tồn tại hoặc có lỗi xảy ra!";
                             }
                         }
+                    }
+                    else if (request.Url.AbsolutePath == "/api/get_items_list")
+                    {
+                        JArray itemsArray = new JArray();
+                        foreach (var item in Cache.Gi().ITEM_TEMPLATES.Values)
+                        {
+                            JObject itemJson = new JObject();
+                            itemJson["id"] = item.Id;
+                            itemJson["name"] = item.Name;
+                            itemsArray.Add(itemJson);
+                        }
+                        resJson["status"] = "success";
+                        resJson["items"] = itemsArray;
                     }
                     else
                     {
@@ -582,6 +596,14 @@ namespace NRO_Server.Application.Threading
             to { opacity: 1; transform: translateY(0); }
         }
 
+        .item-list-container::-webkit-scrollbar { width: 8px; }
+        .item-list-container::-webkit-scrollbar-track { background: rgba(255, 255, 255, 0.05); border-radius: 4px; }
+        .item-list-container::-webkit-scrollbar-thumb { background: var(--primary); border-radius: 4px; }
+        .item-list-container table tbody tr { border-bottom: 1px solid rgba(255,255,255,0.05); transition: background 0.2s; }
+        .item-list-container table tbody tr:hover { background: rgba(255,255,255,0.05); }
+        .action-btn { background: transparent; border: 1px solid var(--primary); color: var(--primary); padding: 5px 10px; font-size: 12px; border-radius: 6px; width: auto; margin: 0; }
+        .action-btn:hover { background: var(--primary); color: #000; }
+
         @media (max-width: 480px) {
             .container { padding: 25px; }
             .grid { grid-template-columns: 1fr; }
@@ -598,6 +620,7 @@ namespace NRO_Server.Application.Threading
 
         <div class=""tabs"" style=""margin-bottom: 20px; margin-top: 0;"">
             <div class=""tab main-tab active"" onclick=""switchMainTab('manage', this)"">QUẢN LÝ</div>
+            <div class=""tab main-tab"" onclick=""switchMainTab('items_list', this); loadItems();"">VẬT PHẨM</div>
             <div class=""tab main-tab"" onclick=""switchMainTab('register', this)"">ĐĂNG KÝ</div>
         </div>
 
@@ -677,6 +700,27 @@ namespace NRO_Server.Application.Threading
             </div>
         </div>
         </div> <!-- end main-manage -->
+
+        <div id=""main-items_list"" class=""main-content"" style=""display: none;"">
+            <div class=""input-group"">
+                <label>Tìm kiếm vật phẩm</label>
+                <input type=""text"" id=""itemSearch"" placeholder=""Nhập ID hoặc Tên vật phẩm..."" oninput=""filterItems()"" />
+            </div>
+            
+            <div class=""item-list-container"" style=""max-height: 400px; overflow-y: auto; background: rgba(0,0,0,0.2); border-radius: 12px; padding: 10px; margin-top: 15px;"">
+                <table style=""width: 100%; border-collapse: collapse; text-align: left;"">
+                    <thead>
+                        <tr style=""border-bottom: 1px solid rgba(255,255,255,0.1);"">
+                            <th style=""padding: 10px; color: var(--primary);"">ID</th>
+                            <th style=""padding: 10px; color: var(--primary);"">Tên Vật Phẩm</th>
+                            <th style=""padding: 10px; text-align: right; color: var(--primary);"">Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody id=""itemsTableBody"">
+                    </tbody>
+                </table>
+            </div>
+        </div>
 
         <div id=""main-register"" class=""main-content"" style=""display: none;"">
             <div class=""input-group"">
@@ -837,6 +881,61 @@ namespace NRO_Server.Application.Threading
             } catch (e) {
                 showToast('Lỗi kết nối Server', 'error');
             }
+        }
+
+        let allItems = [];
+
+        async function loadItems() {
+            if (allItems.length > 0) return;
+            try {
+                const res = await fetch('/api/get_items_list', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({})
+                });
+                const data = await res.json();
+                if (data.status === 'success') {
+                    allItems = data.items;
+                    renderItems(allItems);
+                }
+            } catch (e) {
+                console.error('Lỗi tải danh sách vật phẩm', e);
+            }
+        }
+
+        function renderItems(items) {
+            const tbody = document.getElementById('itemsTableBody');
+            tbody.innerHTML = '';
+            const displayItems = items.slice(0, 100);
+            displayItems.forEach(item => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td style=""padding: 10px;"">${item.id}</td>
+                    <td style=""padding: 10px;"">${item.name}</td>
+                    <td style=""padding: 10px; text-align: right;"">
+                        <button class=""action-btn"" onclick=""selectItem(${item.id})"">Chọn</button>
+                    </td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        function filterItems() {
+            const query = document.getElementById('itemSearch').value.toLowerCase();
+            const filtered = allItems.filter(item => 
+                item.id.toString().includes(query) || 
+                item.name.toLowerCase().includes(query)
+            );
+            renderItems(filtered);
+        }
+
+        function selectItem(id) {
+            document.getElementById('itemId').value = id;
+            const tabs = document.querySelectorAll('.main-tab');
+            switchMainTab('manage', tabs[0]);
+            const subTabs = document.querySelectorAll('.sub-tab');
+            switchTab('items', subTabs[1]);
+            showToast('Đã chọn vật phẩm ID ' + id);
         }
     </script>
 </body>

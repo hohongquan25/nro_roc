@@ -1466,6 +1466,118 @@ namespace NRO_Server.Application.Handlers.Skill
             }
         }
 
+        public static void AttackPlayer(Disciple disciple, SkillCharacter skillChar, int characterId, SkillTemplate skillTemplate = null, SkillDataTemplate skillData = null)
+        {
+            try
+            {
+                if (disciple.InfoSkill.TaiTaoNangLuong.IsTTNL)
+                {
+                    RemoveTTNL(disciple);
+                }
+                if (disciple.InfoChar.Stamina <= 0)
+                {
+                    disciple.Character.CharacterHandler.SendMessage(Service.PublicChat(disciple.Id, TextServer.gI().NOT_ENOUGH_STAMINA_DISCIPLE));
+                    return;
+                }
+
+                if (skillChar == null) return;
+                var zone = disciple.Zone;
+                if (zone == null) return;
+                skillTemplate ??= Cache.Gi().SKILL_TEMPLATES.FirstOrDefault(skl => skl.Id == skillChar.Id);
+                if (skillTemplate == null) return;
+                skillData ??= skillTemplate?.SkillDataTemplates.FirstOrDefault(skl => skl.SkillId == skillChar.SkillId);
+                if (skillData == null) return;
+                
+                //Check mana
+                var manaUse = skillData.ManaUse;
+                var manaUseType = skillTemplate.ManaUseType;
+                var manaChar = disciple.InfoChar.Mp;
+                manaUse = manaUseType switch
+                {
+                    1 => manaUse * (int) disciple.MpFull / 100,
+                    2 => (int) manaChar,
+                    _ => manaUse
+                };
+
+                var timeServer = ServerUtils.CurrentTimeMillis();
+                if (manaUse > manaChar || skillChar.CoolDown > timeServer) return;
+                else
+                {
+                    disciple.CharacterHandler.MineMp(manaUse);
+                    if (skillChar.Id <= 5)
+                    {
+                        skillChar.CoolDown = timeServer + 1000;
+                    }
+                    else 
+                    {
+                        skillChar.CoolDown = (skillData.CoolDown/2) + timeServer;
+                    }
+                }
+
+                //get character id
+                var charAtt = zone.ZoneHandler.GetCharacter(characterId) ?? (ICharacter)zone.ZoneHandler.GetDisciple(characterId);
+
+                var listPlayer = new List<ICharacter>();
+                if (charAtt == null || charAtt.InfoChar.IsDie) return;
+                listPlayer.Add(charAtt);
+                
+                //Handling player attack with skill
+                switch (skillTemplate.Id)
+                {
+                    case 9:
+                    {
+                        var hpMine = disciple.HpFull / 10;
+                        if (hpMine >= disciple.InfoChar.Hp)
+                        {
+                            disciple.Character.CharacterHandler.SendMessage(Service.PublicChat(disciple.Id, TextServer.gI().NOT_ENOUGH_HP_DISCIPLE));
+                            return;
+                        }
+                        disciple.CharacterHandler.MineHp(hpMine);
+                        disciple.CharacterHandler.SendMessage(Service.PlayerLevel(disciple));
+                        zone.ZoneHandler.SendMessage(Service.PlayerAttackPlayer(disciple.Id, listPlayer, skillData.SkillId));
+                        HandlePlayerAttackPlayer(disciple, skillChar, skillData, listPlayer);
+                        break;
+                    }
+                    case 10:
+                    {
+                        if(disciple.InfoSkill.Qckk.Time > timeServer) return;
+                        var damage = ServerUtils.RandomNumber(disciple.DamageFull * 9 / 10, disciple.DamageFull);
+                        damage *= (skillData.Damage + disciple.InfoSkill.Qckk.ListId.Count*10) / 100;
+                        if (disciple.InfoSet.IsFullSetKirin)
+                        {
+                            damage*=2;
+                        }
+                        zone.ZoneHandler.SendMessage(Service.PlayerAttackPlayer(disciple.Id, listPlayer, skillData.SkillId));
+                        HandlePlayerAttackPlayer(disciple, skillChar, skillData, listPlayer, damage:damage);
+                        break;
+                    }
+                    case 11:
+                    {
+                        if (disciple.InfoSkill.Laze.Time > timeServer || !disciple.InfoSkill.Laze.Hold) return;
+                        long damage = (long)((long)manaUse*skillData.Damage / 100);
+                        disciple.InfoSkill.Laze.Hold = false;
+                        if (disciple.InfoSet.IsFullSetPicolo)
+                        {
+                            damage += damage*50/100;
+                        }
+                        zone.ZoneHandler.SendMessage(Service.PlayerAttackPlayer(disciple.Id, listPlayer, skillData.SkillId));
+                        HandlePlayerAttackPlayer(disciple, skillChar, skillData, listPlayer, damage:Math.Abs((long)damage));
+                        break;
+                    }
+                    default:
+                    {
+                        zone.ZoneHandler.SendMessage(Service.PlayerAttackPlayer(disciple.Id, listPlayer,skillData.SkillId));
+                        HandlePlayerAttackPlayer(disciple, skillChar, skillData, listPlayer);
+                        break;
+                    }
+                }
+                disciple.CharacterHandler.MineStamina(1);
+            }
+            catch (Exception e)
+            {
+                Server.Gi().Logger.Error($"Error AttackPlayer in SkillHandler.cs: {e.Message} \n {e.StackTrace}", e);
+            }
+        }
         public static void HandlePlayerAttackMonster(ICharacter character, SkillCharacter skillChar, SkillDataTemplate skillDataTemplate, IEnumerable<IMonster> monsters, long damage = 0, bool isCrit = false)  
         {
             // Update giáp luyện tập

@@ -1167,9 +1167,11 @@ namespace NRO_Server.Application.Main
                                 var @charCheck = zone.ZoneHandler.GetCharacter(charId);
                                 if (@charCheck != null)
                                 {
-                                    var levels =
-                                        Cache.Gi().LEVELS.Where(x => x.Gender == @charCheck.InfoChar.Gender)
-                                            .Select(x => x.Name).ToList()[@charCheck.InfoChar.Level - 1];
+                                    var levelIndex = @charCheck.InfoChar.Level - 1;
+                                    if (levelIndex < 0) levelIndex = 0;
+                                    var levelNames = Cache.Gi().LEVELS.Where(x => x.Gender == @charCheck.InfoChar.Gender).Select(x => x.Name).ToList();
+                                    if (levelIndex >= levelNames.Count) levelIndex = levelNames.Count - 1;
+                                    var levels = levelNames[levelIndex];
                                     character.CharacterHandler.SendMessage(Service.MenuPlayer(charId,
                                         @charCheck.InfoChar.Power, levels));
                                 }
@@ -1394,142 +1396,75 @@ namespace NRO_Server.Application.Main
                     {
                         var character = _session?.Player?.Character;
                         if (character == null || character.InfoChar.IsDie) return;
-                        character.CharacterHandler.SendMessage(Service.DialogMessage("Chức năng hiện tại đang bảo trì"));
-                        // if (DataCache.IdMapCustom.Contains(character.InfoChar.MapId))
-                        // {
-                        //     character.CharacterHandler.SendMessage(
-                        //         Service.ServerMessage(TextServer.gI().DOT_NOT_TEST_HERE));
-                        //     return;
-                        // }
+                        
+                        var action = message.Reader.ReadByte();
+                        var type = message.Reader.ReadByte();
+                        var idChar = message.Reader.ReadInt();
 
-                        // var real = (Character) character;
+                        var real = (Character) character;
 
-                        // if (!real.InfoChar.IsPremium)
-                        // {
-                        //     character.CharacterHandler.SendMessage(
-                        //         Service.ServerMessage(TextServer.gI().NOT_PREMIUM));
-                        //     return;
-                        // }
+                        if (action == 0 && type == 3)
+                        {
+                            var player = (Character) character.Zone?.ZoneHandler?.GetCharacter(idChar);
+                            if (player == null)
+                            {
+                                character.CharacterHandler.SendMessage(
+                                    Service.ServerMessage(TextServer.gI().NOT_FOUND_CHAR_IN_MAP));
+                                return;
+                            }
 
-                        // var action = message.Reader.ReadByte();
-                        // var type = message.Reader.ReadByte();
-                        // var idChar = message.Reader.ReadInt();
-                        // Server.Gi().Logger
-                        //     .Debug(
-                        //         $"Invite to TEST --------------- ------- action: {action} - type: {type} - idChar: {idChar}");
-                        // switch (action)
-                        // {
-                        //     case 0:
-                        //     {
-                        //         switch (type)
-                        //         {
-                        //             //Select Menu
-                        //             case 3:
-                        //             {
-                        //                 if (real.Test.IsTest)
-                        //                 {
-                        //                     character.CharacterHandler.SendMessage(
-                        //                         Service.ServerMessage(TextServer.gI().NOT_TEST_ME));
-                        //                     return;
-                        //                 }
+                            real.Test.CheckId = player.Id;
+                            real.Test.CheckDiscipleId = player.Id; // Lưu tạm ID để dùng cho cả 2 loại
+                            character.CharacterHandler.SendMessage(Service.OpenUiConfirm(5,
+                                MenuNpc.Gi().TextChallenge[0], MenuNpc.Gi().MenuChallenge[0],
+                                character.InfoChar.Gender));
+                            real.TypeMenu = 20; // TypeMenu mới cho chọn loại thách đấu
+                        }
+                        else if (action == 1 && type == 3)
+                        {
+                            var player = (Character) character.Zone?.ZoneHandler?.GetCharacter(idChar);
+                            if (player == null)
+                            {
+                                character.CharacterHandler.SendMessage(
+                                    Service.ServerMessage(TextServer.gI().NOT_FOUND_CHAR_IN_MAP));
+                                return;
+                            }
 
-                        //                 var player = (Character) character.Zone?.ZoneHandler?.GetCharacter(idChar);
-                        //                 if (player == null || player.Test == null)
-                        //                 {
-                        //                     character.CharacterHandler.SendMessage(
-                        //                         Service.ServerMessage(TextServer.gI().NOT_FOUND_CHAR_IN_MAP));
-                        //                     return;
-                        //                 }
+                            if (real.Test.IsTest || player.Test.IsTest)
+                            {
+                                character.CharacterHandler.SendMessage(
+                                    Service.ServerMessage(TextServer.gI().NOT_TEST_ME));
+                                return;
+                            }
 
-                        //                 if (player.Test.IsTest)
-                        //                 {
-                        //                     character.CharacterHandler.SendMessage(
-                        //                         Service.ServerMessage(TextServer.gI().NOT_TEST));
-                        //                     return;
-                        //                 }
+                            if (real.InfoChar.Gold < real.Test.GoldTest)
+                            {
+                                character.CharacterHandler.SendMessage(
+                                    Service.ServerMessage(TextServer.gI().NOT_ENOUGH_GOLD));
+                                real.Test.IsTest = false;
+                                real.Test.TestCharacterId = -1;
+                                real.Test.CheckId = -1;
+                                real.Test.GoldTest = 0;
+                                return;
+                            }
 
-                        //                 if (!player.InfoChar.IsPremium)
-                        //                 {
-                        //                     character.CharacterHandler.SendMessage(
-                        //                         Service.ServerMessage(TextServer.gI().PLAYER_NOT_PREMIUM));
-                        //                     return;
-                        //                 }
+                            real.MineGold(real.Test.GoldTest);
+                            real.Test.IsTest = true;
+                            real.Test.TestCharacterId = player.Id;
+                            real.InfoChar.TypePk = 3;
 
-                        //                 real.Test.CheckId = player.Id;
-                        //                 character.CharacterHandler.SendMessage(Service.OpenUiConfirm(5,
-                        //                     string.Format(MenuNpc.Gi().TextMeo[6], player.Name,
-                        //                         ServerUtils.GetPower(player.InfoChar.Power)), MenuNpc.Gi().MenuMeo[2],
-                        //                     character.InfoChar.Gender));
-                        //                 real.TypeMenu = 0;
-                        //                 break;
-                        //             }
-                        //         }
+                            player.MineGold(player.Test.GoldTest);
+                            player.Test.IsTest = true;
+                            player.Test.TestCharacterId = real.Id;
+                            player.InfoChar.TypePk = 3;
 
-                        //         break;
-                        //     }
-                        //     case 1:
-                        //     {
-                        //         switch (type)
-                        //         {
-                        //             //Accept test
-                        //             case 3:
-                        //             {
-                        //                 if (real.Test.IsTest)
-                        //                 {
-                        //                     character.CharacterHandler.SendMessage(
-                        //                         Service.ServerMessage(TextServer.gI().NOT_TEST_ME));
-                        //                     return;
-                        //                 }
+                            real.CharacterHandler.SendMessage(Service.MeLoadInfo(real));
+                            player.CharacterHandler.SendMessage(Service.MeLoadInfo(player));
 
-                        //                 var player = (Character) character.Zone?.ZoneHandler?.GetCharacter(idChar);
-                        //                 if (player == null)
-                        //                 {
-                        //                     character.CharacterHandler.SendMessage(
-                        //                         Service.ServerMessage(TextServer.gI().NOT_FOUND_CHAR_IN_MAP));
-                        //                     return;
-                        //                 }
-
-                        //                 if (player.Test.IsTest)
-                        //                 {
-                        //                     character.CharacterHandler.SendMessage(
-                        //                         Service.ServerMessage(TextServer.gI().NOT_TEST));
-                        //                     return;
-                        //                 }
-
-                        //                 if (real.InfoChar.Gold < real.Test.GoldTest)
-                        //                 {
-                        //                     character.CharacterHandler.SendMessage(
-                        //                         Service.ServerMessage(TextServer.gI().NOT_ENOUGH_GOLD));
-                        //                     real.Test.IsTest = false;
-                        //                     real.Test.TestCharacterId = -1;
-                        //                     real.Test.CheckId = -1;
-                        //                     real.Test.GoldTest = 0;
-                        //                     return;
-                        //                 }
-
-                        //                 real.MineGold(real.Test.GoldTest);
-                        //                 real.Test.IsTest = true;
-                        //                 real.Test.TestCharacterId = player.Id;
-                        //                 real.InfoChar.TypePk = 3;
-
-                        //                 player.MineGold(player.Test.GoldTest);
-                        //                 player.Test.IsTest = true;
-                        //                 player.Test.TestCharacterId = real.Id;
-                        //                 player.InfoChar.TypePk = 3;
-
-                        //                 real.CharacterHandler.SendMessage(Service.MeLoadInfo(real));
-                        //                 player.CharacterHandler.SendMessage(Service.MeLoadInfo(player));
-
-                        //                 real.CharacterHandler.SendZoneMessage(Service.ChangeTypePk(real.Id, 3));
-                        //                 player.CharacterHandler.SendZoneMessage(Service.ChangeTypePk(player.Id, 3));
-                        //                 break;
-                        //             }
-                        //         }
-
-                        //         break;
-                        //     }
-                        // }
-
+                            real.CharacterHandler.SendZoneMessage(Service.ChangeTypePk(real.Id, 3));
+                            player.CharacterHandler.SendZoneMessage(Service.ChangeTypePk(player.Id, 3));
+                        }
+                        
                         break;
                     }
                     //Invite to clan

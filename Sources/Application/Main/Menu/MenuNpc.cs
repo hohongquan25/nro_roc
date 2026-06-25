@@ -177,6 +177,27 @@ namespace NRO_Server.Main.Menu
             },
         };
 
+        public List<string> TextChallenge = new List<string>()
+        {
+            "Vui lòng chọn hình thức thách đấu:",
+            "Người chơi {0} (sức mạnh {1}) muốn thách đấu đệ tử với bạn. Bạn có đồng ý không?",
+        };
+
+        public List<List<string>> MenuChallenge = new List<List<string>> ()
+        {
+            new List<string>()
+            {
+                "Thách đấu\nthường",
+                "Thách đấu\nđệ tử",
+                "Đóng"
+            },
+            new List<string>()
+            {
+                "Đồng ý",
+                "Từ chối"
+            }
+        };
+
         public List<string> TextNoiBanh= new List<string>()
         {
             "Bạn muốn nấu bánh bằng gì?",
@@ -639,7 +660,8 @@ namespace NRO_Server.Main.Menu
             "2 tỷ vàng",
             "+1 Găng tay trên người (Max 7)",
             "Đổi kỹ năng của đệ",
-            "Đẹp trai nhất vũ trụ"
+            "Đẹp trai nhất vũ trụ",
+            "Đổi chiêu 4\ncủa đệ tử"
         };
 		
 		public List<string> MenuDieuUocRongXuong = new List<string>()
