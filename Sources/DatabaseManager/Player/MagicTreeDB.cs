@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Data.Common;
 using Newtonsoft.Json;
 using NRO_Server.Application.Threading;
@@ -18,7 +18,7 @@ namespace NRO_Server.DatabaseManager.Player
                     using DbCommand command = DbContext.gI()?.Connection.CreateCommand();
                     if (command == null) return;
                     command.CommandText =
-                        $"INSERT INTO `magictree` (`Id`, `idNpc`, `X`, `Y`) VALUES ('{magicTree.Id}', '{magicTree.NpcId}', '{magicTree.X}' , '{magicTree.Y}');";
+                        $"REPLACE INTO `magictree` (`Id`, `idNpc`, `X`, `Y`) VALUES ('{magicTree.Id}', '{magicTree.NpcId}', '{magicTree.X}' , '{magicTree.Y}');";
                     command.ExecuteNonQuery();
                 }
                 catch (Exception e)

@@ -26,7 +26,7 @@ namespace NRO_Server.Application.Threading
             if (_isRunning) return;
 
             _listener = new HttpListener();
-            _listener.Prefixes.Add("http://*:5000/");
+            _listener.Prefixes.Add("http://localhost:5000/");
             
             try
             {
@@ -239,6 +239,36 @@ namespace NRO_Server.Application.Threading
                         {
                             resJson["status"] = "error";
                             resJson["message"] = "Nhân vật đang Offline. Chỉ có thể thêm đồ khi nhân vật đang Online trong game để đảm bảo an toàn dữ liệu.";
+                        }
+                    }
+                    else if (request.Url.AbsolutePath == "/api/register")
+                    {
+                        string username = json["username"]?.ToString().Trim();
+                        string password = json["password"]?.ToString().Trim();
+
+                        if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
+                        {
+                            resJson["status"] = "error";
+                            resJson["message"] = "Tài khoản hoặc mật khẩu không hợp lệ";
+                        }
+                        else if (username.Length < 4 || password.Length < 4)
+                        {
+                            resJson["status"] = "error";
+                            resJson["message"] = "Tài khoản và mật khẩu phải có ít nhất 4 ký tự";
+                        }
+                        else
+                        {
+                            bool success = UserDB.CreateUser(username, password);
+                            if (success)
+                            {
+                                resJson["status"] = "success";
+                                resJson["message"] = "Đăng ký tài khoản thành công!";
+                            }
+                            else
+                            {
+                                resJson["status"] = "error";
+                                resJson["message"] = "Tên tài khoản đã tồn tại hoặc có lỗi xảy ra!";
+                            }
                         }
                     }
                     else
@@ -565,19 +595,25 @@ namespace NRO_Server.Application.Threading
     <div class=""container"">
         <h1>NRO Control Panel</h1>
 
-        <div class=""input-group"">
-            <label>Tên nhân vật</label>
-            <input type=""text"" id=""charName"" placeholder=""Nhập tên nhân vật cần quản lý..."" />
+        <div class=""tabs"" style=""margin-bottom: 20px; margin-top: 0;"">
+            <div class=""tab main-tab active"" onclick=""switchMainTab('manage', this)"">QUẢN LÝ</div>
+            <div class=""tab main-tab"" onclick=""switchMainTab('register', this)"">ĐĂNG KÝ</div>
         </div>
-        <button onclick=""findCharacter()"">TÌM KIẾM DỮ LIỆU</button>
 
-        <div id=""actionPanel"">
-            <div id=""onlineStatus"" class=""status-badge""></div>
-
-            <div class=""tabs"">
-                <div class=""tab active"" onclick=""switchTab('stats')"">CHỈ SỐ</div>
-                <div class=""tab"" onclick=""switchTab('items')"">VẬT PHẨM</div>
+        <div id=""main-manage"" class=""main-content active"" style=""display: block;"">
+            <div class=""input-group"">
+                <label>Tên nhân vật</label>
+                <input type=""text"" id=""charName"" placeholder=""Nhập tên nhân vật cần quản lý..."" />
             </div>
+            <button onclick=""findCharacter()"">TÌM KIẾM DỮ LIỆU</button>
+
+            <div id=""actionPanel"">
+                <div id=""onlineStatus"" class=""status-badge""></div>
+
+                <div class=""tabs"">
+                    <div class=""tab sub-tab active"" onclick=""switchTab('stats', this)"">CHỈ SỐ</div>
+                    <div class=""tab sub-tab"" onclick=""switchTab('items', this)"">VẬT PHẨM</div>
+                </div>
 
             <!-- TAB 1: CHỈ SỐ -->
             <div id=""tab-stats"" class=""tab-content active"">
@@ -639,6 +675,19 @@ namespace NRO_Server.Application.Threading
                 <div class=""warning-text"">* Chỉ có thể thêm vật phẩm khi nhân vật đang Online trong game</div>
             </div>
         </div>
+        </div> <!-- end main-manage -->
+
+        <div id=""main-register"" class=""main-content"" style=""display: none;"">
+            <div class=""input-group"">
+                <label>Tên tài khoản</label>
+                <input type=""text"" id=""regUsername"" placeholder=""Nhập tên tài khoản..."" />
+            </div>
+            <div class=""input-group"">
+                <label>Mật khẩu</label>
+                <input type=""password"" id=""regPassword"" placeholder=""Nhập mật khẩu..."" />
+            </div>
+            <button onclick=""registerAccount()"" style=""background: linear-gradient(135deg, #f093fb, #f5576c);"">TẠO TÀI KHOẢN MỚI</button>
+        </div>
     </div>
 
     <div id=""toast"">Thông báo</div>
@@ -653,11 +702,24 @@ namespace NRO_Server.Application.Threading
             setTimeout(() => { toast.className = toast.className.replace('show', ''); }, 3000);
         }
 
-        function switchTab(tab) {
-            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        function switchMainTab(tabId, el) {
+            document.querySelectorAll('.main-tab').forEach(t => t.classList.remove('active'));
+            document.querySelectorAll('.main-content').forEach(c => {
+                c.classList.remove('active');
+                c.style.display = 'none';
+            });
+            
+            el.classList.add('active');
+            const target = document.getElementById(`main-${tabId}`);
+            target.classList.add('active');
+            target.style.display = 'block';
+        }
+
+        function switchTab(tab, el) {
+            document.querySelectorAll('.sub-tab').forEach(t => t.classList.remove('active'));
             document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
             
-            event.target.classList.add('active');
+            el.classList.add('active');
             document.getElementById(`tab-${tab}`).classList.add('active');
         }
 
@@ -748,6 +810,29 @@ namespace NRO_Server.Application.Threading
                 });
                 const data = await res.json();
                 showToast(data.message, data.status);
+            } catch (e) {
+                showToast('Lỗi kết nối Server', 'error');
+            }
+        }
+
+        async function registerAccount() {
+            const username = document.getElementById('regUsername').value;
+            const password = document.getElementById('regPassword').value;
+
+            if(!username || !password) return showToast('Vui lòng nhập tài khoản và mật khẩu', 'error');
+
+            try {
+                const res = await fetch('/api/register', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, password })
+                });
+                const data = await res.json();
+                showToast(data.message, data.status);
+                if (data.status === 'success') {
+                    document.getElementById('regUsername').value = '';
+                    document.getElementById('regPassword').value = '';
+                }
             } catch (e) {
                 showToast('Lỗi kết nối Server', 'error');
             }

@@ -490,5 +490,38 @@ namespace NRO_Server.DatabaseManager.Player
                 }
             }
         }
+
+        public static bool CreateUser(string username, string password)
+        {
+            lock (Server.SQLLOCK)
+            {
+                try
+                {
+                    DbContext.gI()?.ConnectToAccount();
+                    using (DbCommand checkCmd = DbContext.gI()?.Connection.CreateCommand())
+                    {
+                        checkCmd.CommandText = $"SELECT COUNT(*) FROM `user` WHERE `username` = '{username}';";
+                        var count = Convert.ToInt32(checkCmd.ExecuteScalar());
+                        if (count > 0) return false;
+                    }
+
+                    using (DbCommand command = DbContext.gI()?.Connection.CreateCommand())
+                    {
+                        command.CommandText = $"INSERT INTO `user` (`username`, `password`, `created_at`, `sv_port`) VALUES ('{username}', '{password}', NOW(), {DatabaseManager.Manager.gI().ServerPort});";
+                        command.ExecuteNonQuery();
+                        return true;
+                    }
+                }
+                catch (Exception e)
+                {
+                    Server.Gi().Logger.Error($"Error Create User: {e.Message}\n{e.StackTrace}");
+                    return false;
+                }
+                finally
+                {
+                    DbContext.gI()?.CloseConnect();
+                }
+            }
+        }
     }
 }
