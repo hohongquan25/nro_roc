@@ -26,13 +26,14 @@ namespace NRO_Server.Application.Threading
             if (_isRunning) return;
 
             _listener = new HttpListener();
-            _listener.Prefixes.Add("http://localhost:5000/");
+            var prefix = DatabaseManager.Manager.gI()?.AdminWebPrefix ?? "http://*:5000/";
+            _listener.Prefixes.Add(prefix);
             
             try
             {
                 _listener.Start();
                 _isRunning = true;
-                Server.Gi().Logger.Info("Admin Web Server is running on port 5000");
+                Server.Gi().Logger.Info($"Admin Web Server is running on {prefix}");
 
                 Task.Run(() => ListenAsync());
             }

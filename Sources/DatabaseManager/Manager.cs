@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Microsoft.Extensions.Configuration;
 
 namespace NRO_Server.DatabaseManager
@@ -11,6 +11,7 @@ namespace NRO_Server.DatabaseManager
         public string Link { get; set; }
         public string ServerHost { get; set; }
         public int ServerPort { get; set; }
+        public string AdminWebPrefix { get; set; }
         public bool IsDebug { get; set; }
         public string MySqlHost { get; set; }
         public int MySqlPort { get; set; }
@@ -83,6 +84,7 @@ namespace NRO_Server.DatabaseManager
                 Link = _configuration.GetSection("server").GetSection("link").Value;
                 ServerHost = _configuration.GetSection("server").GetSection("host").Value;
                 ServerPort = int.Parse(_configuration.GetSection("server").GetSection("port").Value);
+                AdminWebPrefix = _configuration.GetSection("server").GetSection("admin-web-prefix").Value ?? "http://*:5000/";
                 IsDebug = Boolean.Parse(_configuration.GetSection("server").GetSection("debug").Value);
                 IsDropAll = Boolean.Parse(_configuration.GetSection("server").GetSection("drop-all-item").Value);
                 IsDownloadServer = Boolean.Parse(_configuration.GetSection("server").GetSection("download-server").Value);
@@ -98,6 +100,7 @@ namespace NRO_Server.DatabaseManager
                 Link = "Localhost:127.0.0.1:14445:0,0,0";
                 ServerHost = "127.0.0.1";
                 ServerPort = 14445;
+                AdminWebPrefix = "http://*:5000/";
                 IsDebug = false;
                 IsDropAll = false;
                 IsDownloadServer = false;

@@ -35,3 +35,6 @@ Desktop.ini
 
 /logging/*
 logging/*
+
+# Local config
+config.local.json

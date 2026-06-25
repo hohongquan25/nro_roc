@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Microsoft.Extensions.Configuration;
 using NRO_Server.Application.IO;
 using NRO_Server.Application.Threading;
@@ -15,7 +15,8 @@ namespace NRO_Server.Application.Main
             
             IServerLogger logger = new ServerLogger();
             var configBuilder = new ConfigurationBuilder().SetBasePath(ServerUtils.ProjectDir(""))
-                .AddJsonFile("config.json");
+                .AddJsonFile("config.json")
+                .AddJsonFile("config.local.json", optional: true);
             var configurationRoot = configBuilder.Build();
 
             DatabaseManager.Manager.CreateManager(configurationRoot);
@@ -54,7 +55,8 @@ namespace NRO_Server.Application.Main
                 {
                     logger.Print("Server restarting...");
                     configBuilder = new ConfigurationBuilder().SetBasePath(ServerUtils.ProjectDir(""))
-                        .AddJsonFile("config.json");
+                        .AddJsonFile("config.json")
+                        .AddJsonFile("config.local.json", optional: true);
                     configurationRoot = configBuilder.Build();
                     DatabaseManager.Manager.CreateManager(configurationRoot);
                     Server.Gi().RestartServer();

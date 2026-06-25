@@ -1,8 +1,8 @@
 {
   "os": 1,
   "server": {
-    //"link": "NRO Local:127.0.0.1:14445:0,0,0",
      "link": "NRO ROC:103.252.94.102:14445:0,0,0",
+    "admin-web-prefix": "http://*:5000/",
     "host": "0.0.0.0",
     "port": 14445,
     "debug": false,
