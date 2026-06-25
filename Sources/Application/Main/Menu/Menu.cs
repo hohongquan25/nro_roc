@@ -6315,6 +6315,17 @@ namespace NRO_Server.Application.Main.Menu
                 return;
             }
             character.InfoMore.VuaGoiRong = false;
+
+            if (character.TypeMenu == 1)
+            {
+                if (select == 0) select = 4;
+                else select = -1;
+            }
+            else
+            {
+                if (select >= 4) select = -1;
+            }
+
             switch (select)
             {
                 case 0: //2 ty vang

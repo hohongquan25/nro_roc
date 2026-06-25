@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Threading;
 using System.Linq;
@@ -3711,7 +3711,17 @@ namespace NRO_Server.Application.Handlers.Item
             //character.Zone.ZoneHandler.SendMessage(Service.CallDragon(0, 0, character));
             character.CharacterHandler.SendMessage(Service.CallDragon(0, 0, character));
             // Thread.Sleep(3000);
-            character.CharacterHandler.SendMessage(Service.OpenUiConfirm(24, MenuNpc.Gi().TextRongThan, MenuNpc.Gi().MenuDieuUocRongThan, 3));
+            if (item.Id == 20)
+            {
+                character.TypeMenu = 1;
+                character.CharacterHandler.SendMessage(Service.OpenUiConfirm(24, MenuNpc.Gi().TextRongThan, new List<string> { MenuNpc.Gi().MenuDieuUocRongThan[4] }, 3));
+            }
+            else
+            {
+                character.TypeMenu = 0;
+                var menuList = MenuNpc.Gi().MenuDieuUocRongThan.Take(4).ToList();
+                character.CharacterHandler.SendMessage(Service.OpenUiConfirm(24, MenuNpc.Gi().TextRongThan, menuList, 3));
+            }
         }
 		
 		private static void UseRongXuong(Model.Character.Character character, Model.Item.Item item)
