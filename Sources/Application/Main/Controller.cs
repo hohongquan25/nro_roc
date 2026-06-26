@@ -168,6 +168,12 @@ namespace NRO_Server.Application.Main
                         }
                         break;
                     }
+                    // Update Data request from client
+                    case -87:
+                    {
+                        _session.SendMessage(Service.UpdateData());
+                        break;
+                    }
                     // Special Skill
                     case 112:
                     {
@@ -4586,8 +4592,8 @@ namespace NRO_Server.Application.Main
                             _session.SendMessage(Service.SendVersionMessage());
                             _session.SendMessage(Service.SendItemBackgrounds());
                             _session.SendMessage(Service.SendTileSet());
-                            // _session.SendMessage(Service.UpdateData());
-                            // LoadCharacter();
+                            _session.SendMessage(Service.UpdateData());
+                            //LoadCharacter();
                         }
                         else
                         {
