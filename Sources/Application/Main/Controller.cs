@@ -4586,7 +4586,7 @@ namespace NRO_Server.Application.Main
                             _session.SendMessage(Service.SendVersionMessage());
                             _session.SendMessage(Service.SendItemBackgrounds());
                             _session.SendMessage(Service.SendTileSet());
-                            _session.SendMessage(Service.UpdateData());
+                            // _session.SendMessage(Service.UpdateData());
                             // LoadCharacter();
                         }
                         else
