@@ -38,3 +38,4 @@ logging/*
 
 # Local config
 config.local.json
+svlogs/
