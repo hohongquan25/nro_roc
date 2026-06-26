@@ -425,6 +425,13 @@ namespace NRO_Server.Application.Handlers.Character
                         return;
                     }
 
+                    // Tự phát nổ
+                    if (skillChar.Id == 14)
+                    {
+                        SkillHandler.SkillNotFocus(Disciple, skillChar.Id, 7);
+                        return;
+                    }
+
                     if (Disciple.CharacterFocus != null && !Disciple.CharacterFocus.InfoChar.IsDie)
                     {
                         if (skillChar.Id == 0 || skillChar.Id == 2 || skillChar.Id == 4 || skillChar.Id == 9 || Disciple.Status == 2)

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Collections.Generic;
 using NRO_Server.Application.Constants;
@@ -274,11 +274,7 @@ namespace NRO_Server.Application.Handlers.Item
                             item = ItemCache.GetItemDefault(836);
                             item.Quantity = 1;
                         }
-						else if (monsterId == 13)
-                        {
-                            item = ItemCache.GetItemDefault(1036);
-                            item.Quantity = 5;
-                        }
+
                     }
                     else 
                     {

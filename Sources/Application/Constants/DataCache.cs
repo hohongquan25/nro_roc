@@ -255,7 +255,7 @@ namespace NRO_Server.Application.Constants
         public static List<short> IdSkillDisciple1 = new List<short>() { 0, 0, 0, 2, 2, 2, 4, 4, 4 };
         public static List<short> IdSkillDisciple2 = new List<short>() { 5, 5, 5, 3, 3, 5, 1, 1 };
         public static List<short> IdSkillDisciple3 = new List<short>() { 8, 8, 9, 8, 8, 6, 6, 8, 9 };
-        public static List<short> IdSkillDisciple4 = new List<short>() { 12, 12, 12, 19, 12, 12, 19, 13, 12, 9, 10, 11 };
+        public static List<short> IdSkillDisciple4 = new List<short>() { 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 19, 19, 19, 19, 19, 19, 19, 19, 13, 13, 13, 13, 13, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 14, 14, 14, 14, 14 };
         public static List<short> RandomPointDisciple = new List<short>() { 0, 0, 0, 0, 0, 1, 1, 1, 0, 2, 2, 2, 2, 2, 2, 1, 1, 0, 1, 0, 0, 0, 2, 0, 2, 0, 2, 2, 1, 1, 0, 1, 0, 2, 1, 2, 0, 1, 0, 1, 0, 2, 1, 2 };
 
         public static List<SkillMonkey> SkillMonkeys = new List<SkillMonkey>()
