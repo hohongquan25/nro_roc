@@ -2750,7 +2750,7 @@ namespace NRO_Server.Application.Handlers.Item
             try
             {
                 var disciple = character.Disciple;
-                if (disciple == null || disciple.InfoChar.IsDie || disciple.Status >= 3)
+                if (disciple == null || disciple.InfoChar.IsDie)
                 {
                     character.CharacterHandler.SendMessage(Service.ServerMessage(TextServer.gI().NOT_GENDER));
                     return;
@@ -2804,6 +2804,10 @@ namespace NRO_Server.Application.Handlers.Item
                     disciple.CharacterHandler.UpdateInfo();
                     character.CharacterHandler.SendMessage(Service.Disciple(2, disciple));
                     DiscipleDB.SaveInventory(disciple);
+                    if (character.InfoChar.Fusion.IsFusion)
+                    {
+                        character.CharacterHandler.UpdateInfo();
+                    }
                 }
             }
             catch (Exception e)

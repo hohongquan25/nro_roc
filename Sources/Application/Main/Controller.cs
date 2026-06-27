@@ -2860,7 +2860,7 @@ namespace NRO_Server.Application.Main
                             {
                                 var charReal = (Character) character;
                                 var disciple = charReal.Disciple;
-                                if (disciple == null || disciple.InfoChar.IsDie || disciple.Status >= 3)
+                                if (disciple == null || disciple.InfoChar.IsDie)
                                 {
                                     character.CharacterHandler.SendMessage(Service.ServerMessage(TextServer.gI().NOT_GENDER));
                                     return;
@@ -2874,6 +2874,10 @@ namespace NRO_Server.Application.Main
                                     character.CharacterHandler.SendMessage(Service.SendBag(character));
                                     character.CharacterHandler.SendMessage(Service.Disciple(2, disciple));
                                     DiscipleDB.SaveInventory(disciple);
+                                    if (character.InfoChar.Fusion.IsFusion)
+                                    {
+                                        character.CharacterHandler.UpdateInfo();
+                                    }
                                 }
                                 break;
                             }

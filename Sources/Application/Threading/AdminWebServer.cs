@@ -286,6 +286,65 @@ namespace NRO_Server.Application.Threading
                         resJson["status"] = "success";
                         resJson["items"] = itemsArray;
                     }
+                    else if (request.Url.AbsolutePath == "/api/get_boss_list")
+                    {
+                        JArray bossArray = new JArray();
+                        foreach (var boss in Cache.Gi().BOSS_TEMPLATES)
+                        {
+                            JObject bossJson = new JObject();
+                            bossJson["type"] = boss.Type;
+                            bossJson["name"] = boss.Name;
+                            bossArray.Add(bossJson);
+                        }
+                        resJson["status"] = "success";
+                        resJson["bosses"] = bossArray;
+                    }
+                    else if (request.Url.AbsolutePath == "/api/get_map_list")
+                    {
+                        JArray mapArray = new JArray();
+                        foreach (var map in Cache.Gi().TILE_MAPS)
+                        {
+                            JObject mapJson = new JObject();
+                            mapJson["id"] = map.Id;
+                            mapJson["name"] = map.Name;
+                            mapArray.Add(mapJson);
+                        }
+                        resJson["status"] = "success";
+                        resJson["maps"] = mapArray;
+                    }
+                    else if (request.Url.AbsolutePath == "/api/spawn_boss")
+                    {
+                        try 
+                        {
+                            int type = (int)json["type"];
+                            int mapId = (int)json["mapId"];
+                            int zoneId = (int)json["zoneId"];
+
+                            var zone = MapManager.Get(mapId)?.GetZoneById(zoneId);
+                            if (zone != null)
+                            {
+                                var boss = new Boss();
+                                boss.CreateBoss(type);
+                                boss.CharacterHandler.SetUpInfo();
+                                zone.ZoneHandler.AddBoss(boss);
+                                
+                                ClientManager.Gi().SendMessageCharacter(Service.ServerChat($"BOSS {boss.Name} vừa xuất hiện tại {zone.Map.TileMap.Name}"));
+                                
+                                resJson["status"] = "success";
+                                resJson["message"] = $"Đã gọi thành công BOSS {boss.Name} tại Map {mapId} (Khu {zoneId})";
+                            }
+                            else
+                            {
+                                resJson["status"] = "error";
+                                resJson["message"] = $"Không tìm thấy Map {mapId} hoặc Khu {zoneId}";
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            resJson["status"] = "error";
+                            resJson["message"] = $"Lỗi khi gọi Boss: {ex.Message}";
+                        }
+                    }
                     else
                     {
                         resJson["status"] = "error";
@@ -622,6 +681,7 @@ namespace NRO_Server.Application.Threading
             <div class=""tab main-tab active"" onclick=""switchMainTab('manage', this)"">QUẢN LÝ</div>
             <div class=""tab main-tab"" onclick=""switchMainTab('items_list', this); loadItems();"">VẬT PHẨM</div>
             <div class=""tab main-tab"" onclick=""switchMainTab('register', this)"">ĐĂNG KÝ</div>
+            <div class=""tab main-tab"" onclick=""switchMainTab('boss', this); loadBosses();"">GỌI BOSS</div>
         </div>
 
         <div id=""main-manage"" class=""main-content active"" style=""display: block;"">
@@ -732,6 +792,28 @@ namespace NRO_Server.Application.Threading
                 <input type=""password"" id=""regPassword"" placeholder=""Nhập mật khẩu..."" />
             </div>
             <button onclick=""registerAccount()"" style=""background: linear-gradient(135deg, #f093fb, #f5576c);"">TẠO TÀI KHOẢN MỚI</button>
+        </div>
+
+        <div id=""main-boss"" class=""main-content"" style=""display: none;"">
+            <div class=""grid"">
+                <div class=""input-group"" style=""grid-column: 1 / -1;"">
+                    <label>Chọn Boss</label>
+                    <select id=""bossType"">
+                        <option value="""">-- Đang tải danh sách Boss --</option>
+                    </select>
+                </div>
+                <div class=""input-group"">
+                    <label>Chọn Map (Bản đồ)</label>
+                    <select id=""bossMapId"">
+                        <option value="""">-- Đang tải danh sách Map --</option>
+                    </select>
+                </div>
+                <div class=""input-group"">
+                    <label>Zone ID (Khu vực)</label>
+                    <input type=""number"" id=""bossZoneId"" value=""0"" />
+                </div>
+            </div>
+            <button onclick=""spawnBoss()"" style=""background: linear-gradient(135deg, #ff0844, #ffb199);"">TRIỆU HỒI BOSS</button>
         </div>
     </div>
 
@@ -936,6 +1018,76 @@ namespace NRO_Server.Application.Threading
             const subTabs = document.querySelectorAll('.sub-tab');
             switchTab('items', subTabs[1]);
             showToast('Đã chọn vật phẩm ID ' + id);
+        }
+
+        let isBossLoaded = false;
+        async function loadBosses() {
+            if (isBossLoaded) return;
+            try {
+                const resBoss = await fetch('/api/get_boss_list', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({})
+                });
+                const dataBoss = await resBoss.json();
+                if (dataBoss.status === 'success') {
+                    const select = document.getElementById('bossType');
+                    select.innerHTML = '';
+                    dataBoss.bosses.forEach(boss => {
+                        const opt = document.createElement('option');
+                        opt.value = boss.type;
+                        opt.textContent = `[${boss.type}] ${boss.name}`;
+                        select.appendChild(opt);
+                    });
+                }
+
+                const resMap = await fetch('/api/get_map_list', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({})
+                });
+                const dataMap = await resMap.json();
+                if (dataMap.status === 'success') {
+                    const mapSelect = document.getElementById('bossMapId');
+                    mapSelect.innerHTML = '';
+                    dataMap.maps.forEach(map => {
+                        const opt = document.createElement('option');
+                        opt.value = map.id;
+                        opt.textContent = `[${map.id}] ${map.name}`;
+                        mapSelect.appendChild(opt);
+                    });
+                }
+                
+                isBossLoaded = true;
+            } catch (e) {
+                console.error('Lỗi tải danh sách Boss/Map', e);
+                showToast('Lỗi tải danh sách Boss/Map', 'error');
+            }
+        }
+
+        async function spawnBoss() {
+            const type = document.getElementById('bossType').value;
+            const mapId = document.getElementById('bossMapId').value;
+            const zoneId = document.getElementById('bossZoneId').value;
+
+            if (type === '') return showToast('Vui lòng chọn Boss', 'error');
+            if (mapId === '' || zoneId === '') return showToast('Vui lòng nhập Map ID và Zone ID', 'error');
+
+            try {
+                const res = await fetch('/api/spawn_boss', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ 
+                        type: parseInt(type), 
+                        mapId: parseInt(mapId), 
+                        zoneId: parseInt(zoneId) 
+                    })
+                });
+                const data = await res.json();
+                showToast(data.message, data.status);
+            } catch (e) {
+                showToast('Lỗi kết nối Server', 'error');
+            }
         }
     </script>
 </body>

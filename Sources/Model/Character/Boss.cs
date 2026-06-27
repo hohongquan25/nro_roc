@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Linq.Extras;
@@ -11,6 +11,8 @@ using NRO_Server.Model.ModelBase;
 using NRO_Server.Model.Data;
 using NRO_Server.Model.Info;
 using NRO_Server.Model.Map;
+using NRO_Server.Application.Threading;
+
 
 namespace NRO_Server.Model.Character
 {
@@ -47,7 +49,17 @@ namespace NRO_Server.Model.Character
         public void CreateBoss(int type, short x = 0, short y = 0)
         {
             var bossTemplate = Cache.Gi().BOSS_TEMPLATES.FirstOrDefault(boss => boss.Type == type);
-            if (bossTemplate == null) return;
+            if (bossTemplate == null)
+            {
+                Server.Gi().Logger.Error($"[BOSS] Không tìm thấy dữ liệu BossTemplate cho loại: {type}. Ngừng tạo boss này.");
+                throw new Exception($"Boss template missing for type: {type}");
+            }
+
+            if (bossTemplate.Hp <= 0)
+            {
+                Server.Gi().Logger.Error($"[BOSS] BossTemplate cho loại {type} có Hp <= 0. Ngừng tạo boss này.");
+                throw new Exception($"Boss template has invalid Hp for type: {type}");
+            }
 
             InfoChar.Gender = 3;
             InfoChar.Power = 2000;
