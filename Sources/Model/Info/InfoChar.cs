@@ -48,6 +48,7 @@ namespace NRO_Server.Model.Info
         public short MaxStamina { get; set; }
         public int NangDong { get; set; }
         public short MountId { get; set; }
+        public bool IsMount { get; set; }
         public int Teleport { get; set; }
         public long Gold { get; set; }
         public long Diamond { get; set; }
@@ -113,6 +114,7 @@ namespace NRO_Server.Model.Info
             Stamina = 10000;
             MaxStamina = 10000;
             MountId = -1;
+            IsMount = false;
             Teleport = 1;
             LockInventory = new LockInventory();
             KSkill = new List<sbyte>();

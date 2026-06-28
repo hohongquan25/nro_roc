@@ -919,7 +919,7 @@ namespace NRO_Server.Application.Handlers.Character
         public void UpdateMountId()
         {
             var itemBag = Character.ItemBag.FirstOrDefault(item => DataCache.IdMount.Contains(item.Id));
-            if (itemBag != null)
+            if (itemBag != null && Character.InfoChar.IsMount)
             {
                 var id = itemBag.Id;
                 id = id switch

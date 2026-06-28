@@ -2597,7 +2597,7 @@ namespace NRO_Server.Application.Handlers.Skill
                 listPlayer.Add(charAtt);
 
                 var fightSize = 1;
-                while (message.Reader.Available() > 0)
+                while (message.Reader.Available() >= 4)
                 {
                     var charNextId = message.Reader.ReadInt();
                     var charNext = zone.ZoneHandler.GetCharacter(charNextId);
@@ -2996,7 +2996,7 @@ namespace NRO_Server.Application.Handlers.Skill
             }
             catch (Exception e)
             {
-                Server.Gi().Logger.Error($"Error AttackMonster in SkillHandler.cs: {e.Message} \n {e.StackTrace}", e);
+                Server.Gi().Logger.Error($"Error AttackPlayer in SkillHandler.cs: {e.Message} \n {e.StackTrace}", e);
             }
         }
 
@@ -3060,7 +3060,7 @@ namespace NRO_Server.Application.Handlers.Skill
 
                 if (damage <= player.DefenceFull)
                 {
-                    damage = 0;
+                    damage = 1;
                 }
                 else 
                 {

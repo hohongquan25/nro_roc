@@ -2135,7 +2135,7 @@ namespace NRO_Server.Application.Handlers.Item
                     character.CharacterHandler.RemoveItemBag(index, reason:"Sách kĩ năng");
                     return;
                 }
-                if (itemTemplate.Type == 11)
+                if (itemTemplate.Type == 11 && itemTemplate.Id != 954 && itemTemplate.Id != 955)
                 {
                     character.CharacterHandler.UpdatePhukien();
                     return;
@@ -2157,6 +2157,15 @@ namespace NRO_Server.Application.Handlers.Item
                 if (ItemCache.IsPetItem(itemTemplate.Id))
                 {
                     UsePetItem(character, itemUse);
+                    return;
+                }
+
+                if (itemTemplate.Type == 23 || itemTemplate.Type == 24)
+                {
+                    character.InfoChar.IsMount = !character.InfoChar.IsMount;
+                    character.CharacterHandler.UpdateMountId();
+                    character.CharacterHandler.SendMessage(Service.MeLoadPoint(character));
+                    character.CharacterHandler.SendZoneMessage(Service.PlayerLoadAll(character));
                     return;
                 }
 
@@ -2185,6 +2194,15 @@ namespace NRO_Server.Application.Handlers.Item
 					case 398:
                     {
                         UseHopcs(character, itemUse);
+                        break;
+                    }
+					case 397:
+					case 648:
+					case 668:
+					case 954:
+					case 955:
+                    {
+                        UseEventItem(character, itemUse);
                         break;
                     }
 					case 1036:
@@ -2950,6 +2968,80 @@ namespace NRO_Server.Application.Handlers.Item
                     Service.ServerMessage(string.Format(TextServer.gI().ADD_ITEM,
                         $"{temp.Name}")));
             }
+            character.CharacterHandler.SendMessage(Service.SendBag(character));
+        }
+
+        private static void UseEventItem(Model.Character.Character character, Model.Item.Item item)
+        {
+            if (character.CharacterHandler.GetItemBagById(item.Id) == null) return;
+            character.CharacterHandler.RemoveItemBagByIndex(item.IndexUI, 1, reason:"Quà Sự Kiện");
+            var tile = ServerUtils.RandomNumber(100);
+            
+            if (tile < 30)
+            {
+                var gold = ServerUtils.RandomNumber(5000000, 20000000);
+                character.CharacterHandler.SendMessage(
+                    Service.ServerMessage(string.Format($"Bạn nhận được {ServerUtils.GetMoney(gold)} vàng")));
+                character.PlusGold(gold);
+                character.CharacterHandler.SendMessage(Service.MeLoadInfo(character));
+            } 
+            else if (tile < 60)
+            {
+                var listitem = new List<short>() {1102, 1101, 1099, 1106, 1080, 1083, 1084, 1071, 1072, 999}; 
+                var itemrand = listitem[ServerUtils.RandomNumber(listitem.Count)];
+                var itemAdd = ItemCache.GetItemDefault(itemrand);
+
+                if (tile < 55)
+                {
+                    var timeServer = ServerUtils.CurrentTimeSecond();
+                    var expireDay = ServerUtils.RandomNumber(1, 2);
+                    var expireTime = timeServer + (expireDay * 86400);
+                    itemAdd.Options.Add(new OptionItem()
+                    {
+                        Id = 93,
+                        Param = expireDay
+                    });
+
+                    var optionHiden = itemAdd.Options.FirstOrDefault(option => option.Id == 73);
+                    if (optionHiden != null) 
+                    {
+                        optionHiden.Param = expireTime;
+                    }
+                    else 
+                    {
+                        itemAdd.Options.Add(new OptionItem()
+                        {
+                            Id = 73,
+                            Param = expireTime,
+                        });
+                    }
+                }
+
+                itemAdd.Options.Add(new OptionItem()
+                {
+                    Id = 30,
+                    Param = 0,
+                });
+
+                character.CharacterHandler.AddItemToBag(true, itemAdd, "Quà Sự Kiện");
+
+                var temp = ItemCache.ItemTemplate(itemAdd.Id);
+                character.CharacterHandler.SendMessage(
+                    Service.ServerMessage(string.Format(TextServer.gI().ADD_ITEM, $"{temp.Name}")));
+            }
+            else
+            {
+                var listitem = new List<short>() {14, 15, 702, 703, 704, 1093, 1094, 921}; 
+                var itemrand = listitem[ServerUtils.RandomNumber(listitem.Count)];
+                var itemAdd = ItemCache.GetItemDefault(itemrand);
+                var temp = ItemCache.ItemTemplate(itemAdd.Id);
+                character.CharacterHandler.AddItemToBag(true, itemAdd, "Quà Sự Kiện");
+                character.CharacterHandler.SendMessage(
+                    Service.ServerMessage(string.Format(TextServer.gI().ADD_ITEM, $"{temp.Name}")));
+            }
+            
+            character.DiemSuKien += 1;
+            character.CharacterHandler.SendMessage(Service.ServerMessage("Bạn nhận được 1 điểm sự kiện"));
             character.CharacterHandler.SendMessage(Service.SendBag(character));
         }
 
