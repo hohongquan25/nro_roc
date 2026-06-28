@@ -593,8 +593,8 @@ namespace NRO_Server.Application.Main
                                     }
 
                                     character.CharacterHandler.SetUpInfo();
-                                    character.CharacterHandler.PlusHp((int) character.HpFull);
-                                    character.CharacterHandler.PlusMp((int) character.MpFull);
+                                    character.CharacterHandler.PlusHp( character.HpFull);
+                                    character.CharacterHandler.PlusMp( character.MpFull);
                                     character.CharacterHandler.SendZoneMessage(Service.UpdateBody(character));
                                     character.CharacterHandler.SendMessage(Service.PlayerLoadSpeed(character));
                                     character.CharacterHandler.SendMessage(Service.MeLoadPoint(character));

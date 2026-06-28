@@ -266,7 +266,7 @@ namespace NRO_Server.Application.Handlers.Character
             // Vệ tinh trí lực
             if (Character.InfoMore.IsNearAuraTriLucItem && effect.AuraBuffKi30S.Time <= timeServer && Character.InfoChar.Mp < Character.MpFull)
             {
-                PlusMp((int)(Character.MpFull*5/100));
+                PlusMp((Character.MpFull*5/100));
                 SendMessage(Service.SendMp((int)Character.InfoChar.Mp));
                 effect.AuraBuffKi30S.Time = 30000 + timeServer;
                 Character.InfoMore.IsNearAuraTriLucItem = false;
@@ -274,7 +274,7 @@ namespace NRO_Server.Application.Handlers.Character
 
             if (Character.InfoMore.IsNearAuraSinhLucItem && effect.AuraBuffHp30S.Time <= timeServer && Character.InfoChar.Hp < Character.HpFull)
             {
-                PlusHp((int)(Character.HpFull*5/100));
+                PlusHp((Character.HpFull*5/100));
                 SendMessage(Service.SendHp((int)Character.InfoChar.Hp));
                 SendZoneMessage(Service.PlayerLevel(Character));
                 effect.AuraBuffHp30S.Time = 30000 + timeServer;
@@ -2785,11 +2785,11 @@ namespace NRO_Server.Application.Handlers.Character
 
         #endregion
 
-        public void PlusHp(int hp)
+        public void PlusHp(long hp)
         {
             lock (Character.InfoChar)
             {
-                if(Character.InfoChar.IsDie) return;
+                if(Character.InfoChar.IsDie || hp <= 0) return;
                 Character.InfoChar.Hp += hp;
                 if (Character.InfoChar.Hp >= Character.HpFull) Character.InfoChar.Hp = Character.HpFull;
             }
@@ -2818,23 +2818,30 @@ namespace NRO_Server.Application.Handlers.Character
             }
         }
 
-        public void PlusMp(int mp)
+        public void PlusMp(long mp)
         {
             lock (Character.InfoChar)
             {
-                if(Character.InfoChar.IsDie) return;
+                if(Character.InfoChar.IsDie || mp <= 0) return;
                 Character.InfoChar.Mp += mp;
                 if (Character.InfoChar.Mp >= Character.MpFull) Character.InfoChar.Mp = Character.MpFull;
             }
         }
 
-        public void MineMp(int mp)
+        public void MineMp(long mp)
         {
             lock (Character.InfoChar)
             {
-                if(Character.InfoChar.IsDie || mp < 0) return;
-                Character.InfoChar.Mp -= mp;
-                if (Character.InfoChar.Mp <= 0) Character.InfoChar.Mp = 0;
+                if(Character.InfoChar.IsDie || mp <= 0) return;
+                
+                if (mp > Character.InfoChar.Mp)
+                {
+                    Character.InfoChar.Mp = 0;
+                }
+                else 
+                {
+                    Character.InfoChar.Mp -= mp;
+                }
             }
         }
 
@@ -3053,8 +3060,8 @@ namespace NRO_Server.Application.Handlers.Character
 						}
                         case 516:
                         {
-                            PlusHp((int)Character.HpFull/10);
-                            PlusMp((int)Character.MpFull/10);
+                            PlusHp(Character.HpFull/10);
+                            PlusMp(Character.MpFull/10);
                             SendMessage(Service.SendHp((int)Character.InfoChar.Hp));
                             SendMessage(Service.SendMp((int)Character.InfoChar.Mp));
                             zone.ZoneHandler.SendMessage(Service.PlayerLevel(Character), Character.Id);
@@ -3064,8 +3071,8 @@ namespace NRO_Server.Application.Handlers.Character
                         case 74:
                         {
                             if(Character.InfoChar.MapId - 21 != Character.InfoChar.Gender) return;
-                            PlusHp((int)Character.HpFull);
-                            PlusMp((int)Character.MpFull);
+                            PlusHp(Character.HpFull);
+                            PlusMp(Character.MpFull);
                             PlusStamina((int)Character.InfoChar.MaxStamina);
                             SendMessage(Service.SendHp((int)Character.InfoChar.Hp));
                             SendMessage(Service.SendMp((int)Character.InfoChar.Mp));

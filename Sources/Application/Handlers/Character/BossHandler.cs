@@ -662,6 +662,36 @@ namespace NRO_Server.Application.Handlers.Character
                      itemMap.Y = Boss.InfoChar.Y;
                      Boss.Zone.ZoneHandler.LeaveItemMap(itemMap);
 				}
+
+            // Drop 3-5 High Stat God/Destruction Items for all bosses
+            int amountToDrop = ServerUtils.RandomNumber(3, 6); // 3 to 5
+            for (int i = 0; i < amountToDrop; i++)
+            {
+                bool isThanLinh = ServerUtils.RandomNumber(0, 2) == 0;
+                short itemId = isThanLinh 
+                    ? DataCache.ListDoThanLinh[ServerUtils.RandomNumber(DataCache.ListDoThanLinh.Count)]
+                    : DataCache.ListDoHuyDiet[ServerUtils.RandomNumber(DataCache.ListDoHuyDiet.Count)];
+                
+                var itemHighStat = ItemCache.GetItemDefault(itemId);
+                foreach (var opt in itemHighStat.Options)
+                {
+                    // Tăng chỉ số cơ bản (HP, KI, Dame, Giáp, v.v) lên 150% - 200%
+                    // Bỏ qua các option đặc biệt như Yêu cầu SM (21), Không thể GD (30)
+                    if (opt.Id != 21 && opt.Id != 30 && opt.Id != 72)
+                    {
+                        opt.Param = opt.Param * ServerUtils.RandomNumber(15, 21) / 10;
+                    }
+                }
+                
+                // Random thêm sao pha lê (4-7 sao)
+                itemHighStat.Options.Add(new Model.Item.OptionItem() { Id = 107, Param = ServerUtils.RandomNumber(4, 8) });
+
+                var highStatMapItem = new ItemMap(playerKillId, itemHighStat);
+                highStatMapItem.X = (short)(Boss.InfoChar.X + ServerUtils.RandomNumber(-40, 40));
+                highStatMapItem.Y = Boss.InfoChar.Y;
+                Boss.Zone.ZoneHandler.LeaveItemMap(highStatMapItem);
+            }
+
             switch(Boss.Type)
             {
 				

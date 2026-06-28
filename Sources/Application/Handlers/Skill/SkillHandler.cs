@@ -54,7 +54,7 @@ namespace NRO_Server.Application.Handlers.Skill
                 var manaChar = character.InfoChar.Mp;
                 manaUse = manaUseType switch
                 {
-                    1 => manaUse * (int) character.MpFull / 100,
+                    1 => (int)((long)manaUse * character.MpFull / 100),
                     2 => (int) manaChar,
                     _ => manaUse
                 };
@@ -218,13 +218,13 @@ namespace NRO_Server.Application.Handlers.Skill
 
                         if (hpNow < hpFull)
                         {
-                            character.CharacterHandler.PlusHp((int)(skillData.Damage * hpFull / 100));
+                            character.CharacterHandler.PlusHp((skillData.Damage * hpFull / 100));
                             zone.ZoneHandler.SendMessage(Service.PlayerLevel(character));
                         }
 
                         if (mpNow < mpFull)
                         {
-                            character.CharacterHandler.PlusMp((int)(skillData.Damage * mpFull / 100));
+                            character.CharacterHandler.PlusMp((skillData.Damage * mpFull / 100));
                         }
 
                         if (character.InfoSkill.TaiTaoNangLuong.IsTTNL && character.InfoSkill.TaiTaoNangLuong.Crit <= 0)
@@ -444,7 +444,7 @@ namespace NRO_Server.Application.Handlers.Skill
                                     c.InfoSkill.HuytSao.Time = timeUse*100 + timeServer;
                                     // c.CharacterHandler.SetHpFull();
                                     c.CharacterHandler.SendMessage(Service.MeLoadPoint(c));
-                                    c.CharacterHandler.PlusHp((int)(c.HpFull*c.InfoSkill.HuytSao.Percent/100));
+                                    c.CharacterHandler.PlusHp((c.HpFull*c.InfoSkill.HuytSao.Percent/100));
                                     c.CharacterHandler.SendMessage(Service.SendHp((int)c.InfoChar.Hp));
                                     c.CharacterHandler.SendZoneMessage(Service.PlayerLevel(c));
                                 }
@@ -465,7 +465,7 @@ namespace NRO_Server.Application.Handlers.Skill
                                     c.InfoSkill.HuytSao.Percent = skillData.Damage;
                                     c.InfoSkill.HuytSao.Time = timeUse*100 + timeServer;
                                     // c.CharacterHandler.SetHpFull();
-                                    c.CharacterHandler.PlusHp((int)(c.HpFull*c.InfoSkill.HuytSao.Percent/100));
+                                    c.CharacterHandler.PlusHp((c.HpFull*c.InfoSkill.HuytSao.Percent/100));
                                     c.CharacterHandler.SendZoneMessage(Service.PlayerLevel(c));
                                 }
                             });
@@ -525,7 +525,7 @@ namespace NRO_Server.Application.Handlers.Skill
                 var manaChar = disciple.InfoChar.Mp;
                 manaUse = manaUseType switch
                 {
-                    1 => manaUse * (int) disciple.MpFull / 100,
+                    1 => (int)((long)manaUse * disciple.MpFull / 100),
                     2 => (int) manaChar,
                     _ => manaUse
                 };
@@ -624,13 +624,13 @@ namespace NRO_Server.Application.Handlers.Skill
 
                         if (hpNow < hpFull)
                         {
-                            disciple.CharacterHandler.PlusHp((int)(skillData.Damage * hpFull / 100));
+                            disciple.CharacterHandler.PlusHp((skillData.Damage * hpFull / 100));
                             zone.ZoneHandler.SendMessage(Service.PlayerLevel(disciple));
                         }
 
                         if (mpNow < mpFull)
                         {
-                            disciple.CharacterHandler.PlusMp((int)(skillData.Damage * mpFull / 100));
+                            disciple.CharacterHandler.PlusMp((skillData.Damage * mpFull / 100));
                         }
 
                         if (disciple.InfoSkill.TaiTaoNangLuong.IsTTNL && disciple.InfoSkill.TaiTaoNangLuong.Crit <= 0)
@@ -816,7 +816,7 @@ namespace NRO_Server.Application.Handlers.Skill
                                     c.InfoSkill.HuytSao.Time = timeUse*100 + timeServer;
                                     c.CharacterHandler.SetHpFull();
                                     c.CharacterHandler.SendMessage(Service.MeLoadPoint(c));
-                                    c.CharacterHandler.PlusHp((int)(c.HpFull*c.InfoSkill.HuytSao.Percent/100));
+                                    c.CharacterHandler.PlusHp((c.HpFull*c.InfoSkill.HuytSao.Percent/100));
                                     c.CharacterHandler.SendMessage(Service.SendHp((int)c.InfoChar.Hp));
                                     c.CharacterHandler.SendZoneMessage(Service.PlayerLevel(c));
                                 }  
@@ -833,7 +833,7 @@ namespace NRO_Server.Application.Handlers.Skill
                                     c.InfoSkill.HuytSao.Percent = skillData.Damage;
                                     c.InfoSkill.HuytSao.Time = timeUse*100 + timeServer;
                                     c.CharacterHandler.SetHpFull();
-                                    c.CharacterHandler.PlusHp((int)(c.HpFull*c.InfoSkill.HuytSao.Percent/100));
+                                    c.CharacterHandler.PlusHp((c.HpFull*c.InfoSkill.HuytSao.Percent/100));
                                     c.CharacterHandler.SendZoneMessage(Service.PlayerLevel(c));
                                 }
                             }
@@ -878,7 +878,7 @@ namespace NRO_Server.Application.Handlers.Skill
                 var manaChar = character.InfoChar.Mp;
                 manaUse = manaUseType switch
                 {
-                    1 => manaUse * (int) character.MpFull / 100,
+                    1 => (int)((long)manaUse * character.MpFull / 100),
                     2 => (int) manaChar,
                     _ => manaUse
                 };
@@ -988,13 +988,13 @@ namespace NRO_Server.Application.Handlers.Skill
 
                         if (hpNow < hpFull)
                         {
-                            character.CharacterHandler.PlusHp((int)(skillData.Damage * hpFull / 100));
+                            character.CharacterHandler.PlusHp((skillData.Damage * hpFull / 100));
                             zone.ZoneHandler.SendMessage(Service.PlayerLevel(character));
                         }
 
                         if (mpNow < mpFull)
                         {
-                            character.CharacterHandler.PlusMp((int)(skillData.Damage * mpFull / 100));
+                            character.CharacterHandler.PlusMp((skillData.Damage * mpFull / 100));
                         }
 
                         if (character.InfoSkill.TaiTaoNangLuong.IsTTNL && character.InfoSkill.TaiTaoNangLuong.Crit <= 0)
@@ -1113,7 +1113,7 @@ namespace NRO_Server.Application.Handlers.Skill
                 var manaChar = character.InfoChar.Mp;
                 manaUse = manaUseType switch
                 {
-                    1 => manaUse * (int) character.MpFull / 100,
+                    1 => (int)((long)manaUse * character.MpFull / 100),
                     2 => (int) manaChar,
                     _ => manaUse
                 };
@@ -1342,7 +1342,7 @@ namespace NRO_Server.Application.Handlers.Skill
                 var manaChar = disciple.InfoChar.Mp;
                 manaUse = manaUseType switch
                 {
-                    1 => manaUse * (int) disciple.MpFull / 100,
+                    1 => (int)((long)manaUse * disciple.MpFull / 100),
                     2 => (int) manaChar,
                     _ => manaUse
                 };
@@ -1494,7 +1494,7 @@ namespace NRO_Server.Application.Handlers.Skill
                 var manaChar = disciple.InfoChar.Mp;
                 manaUse = manaUseType switch
                 {
-                    1 => manaUse * (int) disciple.MpFull / 100,
+                    1 => (int)((long)manaUse * disciple.MpFull / 100),
                     2 => (int) manaChar,
                     _ => manaUse
                 };
@@ -2560,7 +2560,7 @@ namespace NRO_Server.Application.Handlers.Skill
                 var manaChar = character.InfoChar.Mp;
                 manaUse = manaUseType switch
                 {
-                    1 => manaUse * (int) character.MpFull / 100,
+                    1 => (int)((long)manaUse * character.MpFull / 100),
                     2 => (int) manaChar,
                     _ => manaUse
                 };
@@ -2879,7 +2879,7 @@ namespace NRO_Server.Application.Handlers.Skill
                 var manaChar = character.InfoChar.Mp;
                 manaUse = manaUseType switch
                 {
-                    1 => manaUse * (int) character.MpFull / 100,
+                    1 => (int)((long)manaUse * character.MpFull / 100),
                     2 => (int) manaChar,
                     _ => manaUse
                 };
@@ -3235,13 +3235,13 @@ namespace NRO_Server.Application.Handlers.Skill
                 var hpPlus = damage * character.HpPlusFromDamage / 100;
                 var mpPlus = damage * character.MpPlusFromDamage / 100;
                 if(hpPlus > 0) {
-                    character.CharacterHandler.PlusHp((int)hpPlus);
+                    character.CharacterHandler.PlusHp(hpPlus);
                     character.CharacterHandler.SendMessage(Service.SendHp((int)character.InfoChar.Hp));
                     character.CharacterHandler.SendZoneMessage(Service.PlayerLevel(character));
                 }
 
                 if(mpPlus > 0) {
-                    character.CharacterHandler.PlusMp((int)mpPlus);
+                    character.CharacterHandler.PlusMp(mpPlus);
                     character.CharacterHandler.SendMessage(Service.SendMp((int)character.InfoChar.Mp));
                 }
 
@@ -3919,8 +3919,8 @@ namespace NRO_Server.Application.Handlers.Skill
                 character.CharacterHandler.SetUpInfo();
                 if (isMonkey)
                 {
-                    character.CharacterHandler.PlusHp((int)character.HpFull);
-                    character.CharacterHandler.PlusMp((int)character.MpFull);
+                    character.CharacterHandler.PlusHp(character.HpFull);
+                    character.CharacterHandler.PlusMp(character.MpFull);
                 }
                 character.CharacterHandler.SendZoneMessage(Service.UpdateBody(character));
                 character.CharacterHandler.SendMessage(Service.PlayerLoadSpeed(character));
@@ -5026,8 +5026,8 @@ namespace NRO_Server.Application.Handlers.Skill
                     }
                     else
                     {
-                        var hpPlus = (int)player.HpFull * skillData.Damage / 100;
-                        var mpPlus = (int)player.MpFull * skillData.Damage / 100;
+                        var hpPlus = (long)player.HpFull * skillData.Damage / 100;
+                        var mpPlus = (long)player.MpFull * skillData.Damage / 100;
                         player.CharacterHandler.PlusHp(hpPlus);
                         player.CharacterHandler.PlusMp(mpPlus);
                         player.CharacterHandler.SendMessage(Service.SendHp((int)player.InfoChar.Hp));
@@ -5036,13 +5036,34 @@ namespace NRO_Server.Application.Handlers.Skill
                         player.CharacterHandler.SendZoneMessage(Service.PublicChat(player.Id, string.Format(TextServer.gI().THANKS_FOR_HEAL_ME, character.Name)));
                     }
 
-                    var hpMePlus = (int)character.HpFull * skillData.Damage / 100;
-                    var mpMePlus = (int)character.MpFull * skillData.Damage / 100;
+                    var hpMePlus = (long)character.HpFull * skillData.Damage / 100;
+                    var mpMePlus = (long)character.MpFull * skillData.Damage / 100;
                     character.CharacterHandler.PlusHp(hpMePlus);
                     character.CharacterHandler.PlusMp(mpMePlus);
                     character.CharacterHandler.SendMessage(Service.SendHp((int)character.InfoChar.Hp));
                     character.CharacterHandler.SendMessage(Service.SendMp((int)character.InfoChar.Mp));
                     character.CharacterHandler.SendZoneMessage(Service.PlayerLevel(character));
+
+                    if (character is Model.Character.Character c && c.Disciple != null && c.Disciple.Status < 3 && c.Disciple.Zone != null && c.Disciple.Zone.Id == c.Zone.Id)
+                    {
+                        var disc = c.Disciple;
+                        if (disc.InfoChar.IsDie)
+                        {
+                            disc.CharacterHandler.LeaveFromDead(true);
+                            disc.CharacterHandler.SendZoneMessage(Service.PublicChat(disc.Id, TextServer.gI().THANKS_FOR_SAVE_ME_DIS));
+                        }
+                        else
+                        {
+                            var hpPlusDisc = (long)disc.HpFull * skillData.Damage / 100;
+                            var mpPlusDisc = (long)disc.MpFull * skillData.Damage / 100;
+                            disc.CharacterHandler.PlusHp(hpPlusDisc);
+                            disc.CharacterHandler.PlusMp(mpPlusDisc);
+                            disc.CharacterHandler.SendMessage(Service.SendHp((int)disc.InfoChar.Hp));
+                            disc.CharacterHandler.SendMessage(Service.SendMp((int)disc.InfoChar.Mp));
+                            disc.CharacterHandler.SendZoneMessage(Service.PlayerLevel(disc));
+                            disc.CharacterHandler.SendZoneMessage(Service.PublicChat(disc.Id, TextServer.gI().THANKS_FOR_SAVE_ME_DIS));
+                        }
+                    }
                 }
             }
             catch (Exception e)
@@ -5089,8 +5110,8 @@ namespace NRO_Server.Application.Handlers.Skill
                     }
                     else
                     {
-                        var hpPlus = (int)disciple.HpFull * skillData.Damage / 100;
-                        var mpPlus = (int)disciple.MpFull * skillData.Damage / 100;
+                        var hpPlus = (long)disciple.HpFull * skillData.Damage / 100;
+                        var mpPlus = (long)disciple.MpFull * skillData.Damage / 100;
                         disciple.CharacterHandler.PlusHp(hpPlus);
                         disciple.CharacterHandler.PlusMp(mpPlus);
                         disciple.CharacterHandler.SendMessage(Service.SendHp((int)disciple.InfoChar.Hp));
@@ -5099,8 +5120,8 @@ namespace NRO_Server.Application.Handlers.Skill
                         disciple.CharacterHandler.SendZoneMessage(Service.PublicChat(disciple.Id, TextServer.gI().THANKS_FOR_SAVE_ME_DIS));
                     }
 
-                    var hpMePlus = (int)character.HpFull * skillData.Damage / 100;
-                    var mpMePlus = (int)character.MpFull * skillData.Damage / 100;
+                    var hpMePlus = (long)character.HpFull * skillData.Damage / 100;
+                    var mpMePlus = (long)character.MpFull * skillData.Damage / 100;
                     character.CharacterHandler.PlusHp(hpMePlus);
                     character.CharacterHandler.PlusMp(mpMePlus);
                     character.CharacterHandler.SendMessage(Service.SendHp((int)character.InfoChar.Hp));
