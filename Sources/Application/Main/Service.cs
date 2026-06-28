@@ -3075,6 +3075,11 @@ namespace NRO_Server.Application.Main
                     else
                     {
                         itemTemplate = ItemCache.ItemTemplate(item.Id);
+                        if (itemTemplate == null)
+                        {
+                            message.Writer.WriteShort(-1);
+                            return;
+                        }
                         message.Writer.WriteShort(itemTemplate.Id);
                         message.Writer.WriteInt(item.Quantity);
                         message.Writer.WriteUTF(itemTemplate.Name);
@@ -3090,9 +3095,13 @@ namespace NRO_Server.Application.Main
                 
                 character.CharacterHandler.BagSort();
                 message.Writer.WriteByte(character.BagLength());
+                int bagValidCount = 0;
                 character.ItemBag.ForEach(item =>
                 {
+                    if (item == null) return;
                     itemTemplate = ItemCache.ItemTemplate(item.Id);
+                    if (itemTemplate == null) return;
+                    
                     message.Writer.WriteShort(item.Id);
                     message.Writer.WriteInt(item.Quantity);
                     message.Writer.WriteUTF(itemTemplate.Name);
@@ -3103,17 +3112,22 @@ namespace NRO_Server.Application.Main
                         message.Writer.WriteByte(op.Id);
                         message.Writer.WriteShort(op.Param); 
                     });
+                    bagValidCount++;
                 });
-                for (var i = character.ItemBag.Count; i < character.BagLength(); i++)
+                for (var i = bagValidCount; i < character.BagLength(); i++)
                 {
                     message.Writer.WriteShort(-1);
                 }
 
                 character.CharacterHandler.BoxSort();
                 message.Writer.WriteByte(character.BoxLength());
+                int boxValidCount = 0;
                 character.ItemBox.ForEach(item =>
                 {
+                    if (item == null) return;
                     itemTemplate = ItemCache.ItemTemplate(item.Id);
+                    if (itemTemplate == null) return;
+                    
                     message.Writer.WriteShort(item.Id);
                     message.Writer.WriteInt(item.Quantity);
                     message.Writer.WriteUTF(itemTemplate.Name);
@@ -3124,8 +3138,9 @@ namespace NRO_Server.Application.Main
                         message.Writer.WriteByte(op.Id);
                         message.Writer.WriteShort(op.Param); 
                     });
+                    boxValidCount++;
                 });
-                for(var i = character.ItemBox.Count; i < character.BoxLength(); i++)
+                for(var i = boxValidCount; i < character.BoxLength(); i++)
                 {
                     message.Writer.WriteShort(-1);
                 }

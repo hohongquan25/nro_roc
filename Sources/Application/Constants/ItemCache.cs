@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using NRO_Server.DatabaseManager;
 using NRO_Server.Model.Item;
@@ -13,8 +13,7 @@ namespace NRO_Server.Application.Constants
     {
         public static Item GetItemDefault(short id, int quantity = 1)
         {
-            var itemTemplate = Cache.Gi().ITEM_TEMPLATES.Values.FirstOrDefault(item => item.Id == id);
-            if (itemTemplate == null) return null;
+            if (!Cache.Gi().ITEM_TEMPLATES.TryGetValue(id, out var itemTemplate)) return null;
             var item = new Item();
             item.Id = itemTemplate.Id;
             item.Quantity = quantity;
@@ -103,7 +102,8 @@ namespace NRO_Server.Application.Constants
 
         public static ItemTemplate ItemTemplate(short id)
         {
-            return Cache.Gi().ITEM_TEMPLATES.Values.FirstOrDefault(item => item.Id == id);
+            Cache.Gi().ITEM_TEMPLATES.TryGetValue(id, out var itemTemplate);
+            return itemTemplate;
         }
 
         public static ItemOptionTemplate ItemOptionTemplate(int id)

@@ -2171,6 +2171,35 @@ namespace NRO_Server.Application.Handlers.Item
 
                 switch (itemTemplate.Id)
                 {
+                    case 1014: // Rađa dò ngọc Namếc
+                    {
+                        var listMsg = new System.Collections.Generic.List<string>();
+                        int[] namekMaps = new int[] { 7, 8, 9, 10, 11, 12, 13, 31, 32, 33, 34, 43 };
+                        foreach (var mapId in namekMaps) {
+                            var map = NRO_Server.Application.Manager.MapManager.Get(mapId);
+                            if (map != null) {
+                                foreach (var zone in map.Zones) {
+                                    int count = 0;
+                                    lock (zone.ItemMaps) {
+                                        foreach (var i in zone.ItemMaps.Values) {
+                                            if ((i.Item.Id >= 353 && i.Item.Id <= 359) || i.Item.Id == 362) {
+                                                count++;
+                                            }
+                                        }
+                                    }
+                                    if (count > 0) {
+                                        listMsg.Add($"- Khu {zone.Id} map {map.TileMap.Name} ({count} viên)");
+                                    }
+                                }
+                            }
+                        }
+                        if (listMsg.Count > 0) {
+                            character.CharacterHandler.SendMessage(Service.DialogMessage("Vị trí Ngọc rồng Namec:\n" + string.Join("\n", listMsg)));
+                        } else {
+                            character.CharacterHandler.SendMessage(Service.DialogMessage("Hiện tại không có Ngọc rồng Namec nào rơi trên bản đồ!"));
+                        }
+                        break;
+                    }
                     //Dau than
                     case 13:
 					case 14:
@@ -2218,6 +2247,10 @@ namespace NRO_Server.Application.Handlers.Item
                     //Capsule
                     case 193:
                     case 194: {
+                        if (character.InfoMore.TimeHoldNamekBall > 0 && ServerUtils.CurrentTimeMillis() - character.InfoMore.TimeHoldNamekBall < 60000) {
+                            character.CharacterHandler.SendMessage(Service.ServerMessage("Bạn đang mang Ngọc rồng Namec. Không thể dùng capsule trong lúc này!"));
+                            return;
+                        }
                         character.CharacterHandler.SendMessage(Service.MapTranspot(character.MapTranspots));
                         if (itemUse.Id == 193)
                         {

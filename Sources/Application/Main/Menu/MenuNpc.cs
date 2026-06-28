@@ -860,5 +860,19 @@ namespace NRO_Server.Main.Menu
                 //"BXH\nSự kiện\nTop nạp",
             },
         };
+
+        public List<string> MenuGoiRongNamec = new List<string>()
+        {
+            "Gọi rồng\nNamec",
+            "Từ chối"
+        };
+
+        public List<string> MenuDieuUocRongNamec = new List<string>()
+        {
+            "Tăng 70%\nHP",
+            "Tăng 70%\nMP",
+            "Tăng 50%\nSức đánh",
+            "Tăng 30%\ncả 3 chỉ số",
+        };
     }
 }

@@ -4921,11 +4921,13 @@ namespace NRO_Server.Application.Main
 
         private void NextMap()
         {
-            var character = _session?.Player?.Character;
+            var character = _session?.Player?.Character as Model.Character.Character;
             if (character == null) return;
             var mapOld = DataCache.IdMapCustom.Contains(character.InfoChar.MapId)
                 ? MapManager.GetMapCustom(character.InfoChar.MapCustomId)?.GetMapById(character.InfoChar.MapId)
                 : MapManager.Get(character.InfoChar.MapId);
+
+
             var wayPoint = mapOld?.TileMap.WayPoints
                 .FirstOrDefault(waypoint =>
                     CheckTrueWaypoint(character, waypoint));

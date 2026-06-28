@@ -2627,11 +2627,14 @@ namespace NRO_Server.Application.Main.Menu
                 {
                     if (character.InfoChar.Gender != 1)
                     {
-                        character.CharacterHandler.SendMessage(Service.OpenUiSay(npcId, MenuNpc.Gi().TextDende[1]));
+                        character.CharacterHandler.SendMessage(Service.OpenUiConfirm(npcId, MenuNpc.Gi().TextDende[1], MenuNpc.Gi().MenuGoiRongNamec, character.InfoChar.Gender));
+                        character.TypeMenu = 2;
                     }
                     else if (select == 0)
                     {
-                        character.CharacterHandler.SendMessage(Service.OpenUiConfirm(npcId, MenuNpc.Gi().TextDende[0], MenuNpc.Gi().MenuShopDistrict[1], character.InfoChar.Gender));
+                        var menu = new List<string>(MenuNpc.Gi().MenuShopDistrict[1]);
+                        menu.Insert(0, "Gọi rồng\nNamec");
+                        character.CharacterHandler.SendMessage(Service.OpenUiConfirm(npcId, MenuNpc.Gi().TextDende[0], menu, character.InfoChar.Gender));
                         character.TypeMenu = 1;
                     }
                     break;
@@ -2639,14 +2642,158 @@ namespace NRO_Server.Application.Main.Menu
                 //Show shop
                 case 1:
                 {
+                    if(select == 2) return;
+                    if(select == 0)
+                    {
+                        HandleGoiRongNamec(character, npcId);
+                        return;
+                    }
+                    if(select == 1)
+                    {
+                        var idShop = 13;
+                        character.CharacterHandler.SendMessage(Service.Shop(character, 0, idShop));
+                        character.ShopId = idShop;
+                        character.TypeMenu = 0;
+                    }
+                    break;
+                }
+                case 2:
+                {
                     if(select == 1) return;
-                    var idShop = 13;
-                    character.CharacterHandler.SendMessage(Service.Shop(character, 0, idShop));
-                    character.ShopId = idShop;
-                    character.TypeMenu = 0;
+                    if(select == 0)
+                    {
+                        HandleGoiRongNamec(character, npcId);
+                    }
+                    break;
+                }
+                case 3:
+                {
+                    HandleDieuUocRongNamec(character, select);
                     break;
                 }
             }
+        }
+
+        private static void HandleGoiRongNamec(Character character, short npcId)
+        {
+            var timeServer = ServerUtils.CurrentTimeMillis();
+            if (MapManager.delayCallDragon > timeServer)
+            {
+                var delay = (MapManager.delayCallDragon - timeServer) / 1000;
+                if (delay < 1) delay = 1;
+                character.CharacterHandler.SendMessage(Service.ServerMessage(string.Format(TextServer.gI().DELAY_CALL_DRAGON_SEC, delay)));
+                return;
+            }
+
+            var players = character.Zone.Characters.Values.ToList();
+            if (players.Count < 7)
+            {
+                character.CharacterHandler.SendMessage(Service.ServerMessage("Cần phải có 7 người tập hợp tại đây mới có thể gọi rồng Namec."));
+                return;
+            }
+
+            var contributors = new Dictionary<int, Character>();
+            for (int ballId = 353; ballId <= 359; ballId++)
+            {
+                var contributor = players.FirstOrDefault(p => !contributors.Values.Contains(p) && p.CharacterHandler.GetItemBagById((short)ballId) != null);
+                if (contributor != null)
+                {
+                    contributors.Add(ballId, contributor);
+                }
+                else
+                {
+                    character.CharacterHandler.SendMessage(Service.ServerMessage($"Thiếu người cầm {ItemCache.ItemTemplate((short)ballId).Name} hoặc 1 người cầm nhiều viên. Yêu cầu 7 người, mỗi người 1 viên khác nhau."));
+                    return;
+                }
+            }
+
+            character.InfoMore.NamekDragonContributors.Clear();
+            foreach (var kvp in contributors)
+            {
+                kvp.Value.CharacterHandler.RemoveItemBagById((short)kvp.Key, 1, reason: "Gọi rồng Namec");
+                kvp.Value.CharacterHandler.SendMessage(Service.SendBag(kvp.Value));
+                character.InfoMore.NamekDragonContributors.Add(kvp.Value.Id);
+            }
+
+            MapManager.delayCallDragon = timeServer + 300000; // 5 phut
+            MapManager.SetDragonAppeared(true);
+            
+            character.InfoChar.CountGoiRong++;
+            character.InfoMore.VuaGoiRong = true;
+
+            character.Zone.ZoneHandler.SendMessage(Service.CallDragon(0, 1, character));
+            
+            character.TypeMenu = 3;
+            character.CharacterHandler.SendMessage(Service.OpenUiConfirm(npcId, "Ta sẽ ban cho các ngươi 1 điều ước, hãy suy nghĩ thật kỹ trước khi quyết định", MenuNpc.Gi().MenuDieuUocRongNamec, character.InfoChar.Gender));
+        }
+
+        private static void HandleDieuUocRongNamec(Character character, int select)
+        {
+            if (!character.InfoMore.VuaGoiRong) {
+                character.CharacterHandler.SendMessage(Service.ServerMessage("Có lỗi xảy ra, vui lòng thử lại sau!"));
+                return;
+            }
+
+            if(select >= MenuNpc.Gi().MenuDieuUocRongNamec.Count) return;
+
+            string wishText = MenuNpc.Gi().MenuDieuUocRongNamec[select];
+            var delayCallDragon = ServerUtils.CurrentTimeMillis() + 3000;
+            MapManager.delayCallDragon = delayCallDragon;
+            MapManager.SetDragonAppeared(false);
+            
+            character.Zone.ZoneHandler.SendMessage(Service.CallDragon(1, 1, character));
+            character.InfoMore.VuaGoiRong = false;
+
+            var players = character.Zone.Characters.Values.Where(p => character.InfoMore.NamekDragonContributors.Contains(p.Id)).ToList();
+            
+            foreach (var player in players)
+            {
+                switch (select)
+                {
+                    case 0: // Tăng 70% HP
+                    {
+                        player.InfoMore.TimeNamekDragonWish = ServerUtils.CurrentTimeMillis() + (7L * 24 * 60 * 60 * 1000);
+                        player.InfoMore.NamekDragonWishType = 0;
+                        player.CharacterHandler.SetUpInfo();
+                        player.CharacterHandler.SendMessage(Service.MeLoadPoint(player));
+                        player.CharacterHandler.SendMessage(Service.MeLoadInfo(player));
+                        player.CharacterHandler.SendMessage(Service.ServerMessage($"Rồng Namec đã buff cho bạn 70% HP gốc trong 1 tuần!"));
+                        break;
+                    }
+                    case 1: // Tăng 70% MP
+                    {
+                        player.InfoMore.TimeNamekDragonWish = ServerUtils.CurrentTimeMillis() + (7L * 24 * 60 * 60 * 1000);
+                        player.InfoMore.NamekDragonWishType = 1;
+                        player.CharacterHandler.SetUpInfo();
+                        player.CharacterHandler.SendMessage(Service.MeLoadPoint(player));
+                        player.CharacterHandler.SendMessage(Service.MeLoadInfo(player));
+                        player.CharacterHandler.SendMessage(Service.ServerMessage($"Rồng Namec đã buff cho bạn 70% MP gốc trong 1 tuần!"));
+                        break;
+                    }
+                    case 2: // Tăng 50% Sức đánh
+                    {
+                        player.InfoMore.TimeNamekDragonWish = ServerUtils.CurrentTimeMillis() + (7L * 24 * 60 * 60 * 1000);
+                        player.InfoMore.NamekDragonWishType = 2;
+                        player.CharacterHandler.SetUpInfo();
+                        player.CharacterHandler.SendMessage(Service.MeLoadPoint(player));
+                        player.CharacterHandler.SendMessage(Service.MeLoadInfo(player));
+                        player.CharacterHandler.SendMessage(Service.ServerMessage($"Rồng Namec đã buff cho bạn 50% Sức đánh gốc trong 1 tuần!"));
+                        break;
+                    }
+                    case 3: // Tăng 30% cả 3
+                    {
+                        player.InfoMore.TimeNamekDragonWish = ServerUtils.CurrentTimeMillis() + (7L * 24 * 60 * 60 * 1000);
+                        player.InfoMore.NamekDragonWishType = 3;
+                        player.CharacterHandler.SetUpInfo();
+                        player.CharacterHandler.SendMessage(Service.MeLoadPoint(player));
+                        player.CharacterHandler.SendMessage(Service.MeLoadInfo(player));
+                        player.CharacterHandler.SendMessage(Service.ServerMessage($"Rồng Namec đã buff cho bạn 30% HP, MP, và Sức đánh gốc trong 1 tuần!"));
+                        break;
+                    }
+                }
+            }
+            character.InfoMore.NamekDragonContributors.Clear();
+            MapManager.InitNamekBalls(true);
         }
         
         private static void ConfirmAppule(Character character, short npcId, int select)

@@ -853,5 +853,34 @@ namespace NRO_Server.Application.Handlers.Item
             }
             return 73;
         }
+
+        public static void DropNamekBall(Model.Character.Character character)
+        {
+            try
+            {
+                if (character.Zone == null) return;
+                for (int i = 0; i < character.ItemBag.Count; i++)
+                {
+                    var item = character.ItemBag[i];
+                    if (item != null && item.Id >= 353 && item.Id <= 359)
+                    {
+                        var itemMap = new NRO_Server.Model.Item.ItemMap(-1, item)
+                        {
+                            X = character.InfoChar.X,
+                            Y = character.InfoChar.Y,
+                            LeftTime = -1 // Never despawn naturally
+                        };
+                        character.Zone.ZoneHandler.LeaveItemMap(itemMap);
+                        
+                        character.ItemBag[i] = null;
+                        character.CharacterHandler.SendMessage(NRO_Server.Application.Main.Service.SendBag(character));
+                    }
+                }
+            }
+            catch (Exception)
+            {
+                // ignore
+            }
+        }
     }
 }

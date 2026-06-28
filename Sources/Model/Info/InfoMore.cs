@@ -1,4 +1,4 @@
-﻿namespace NRO_Server.Model.Info
+namespace NRO_Server.Model.Info
 {
     public class InfoMore
     {
@@ -54,6 +54,12 @@
 
         public bool VuaGoiRong { get; set; }
 
+        public System.Collections.Generic.List<int> NamekDragonContributors { get; set; }
+        public long TimeHoldNamekBall { get; set; }
+
+        public long TimeNamekDragonWish { get; set; }
+        public int NamekDragonWishType { get; set; }
+
         public InfoMore()
         {
             Revenge = new Revenge();
@@ -106,6 +112,10 @@
             PetItemIndex = -1;
 
             VuaGoiRong = true;
+            NamekDragonContributors = new System.Collections.Generic.List<int>();
+            TimeHoldNamekBall = 0;
+            TimeNamekDragonWish = 0;
+            NamekDragonWishType = -1;
         }
     }
 }

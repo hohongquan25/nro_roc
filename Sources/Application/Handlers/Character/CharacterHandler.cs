@@ -78,6 +78,7 @@ namespace NRO_Server.Application.Handlers.Character
 
         public void Close()
         {
+            LeaveItemHandler.DropNamekBall(Character);
             Character.Zone?.ZoneHandler?.OutZone(Character);
             Character.Me = new InfoFriend(Character)
             {
@@ -1001,32 +1002,63 @@ namespace NRO_Server.Application.Handlers.Character
         public int GetParamItem(int id)
         {
             var param = 0;
-            Character.ItemBody.Where(item => item != null).ToList().ForEach(item =>
+            if (Character?.ItemBody != null)
             {
-                var option = item.Options.Where(option => option.Id == id).ToList();
-                param += option.Sum(optionItem => optionItem.Param);
-            });
-            Character.InfoChar.Cards.Values.Where(r => r.Used == 1).ToList().ForEach(r =>
-            {
-                foreach (var optionRadar in r.Options.Where(optionRadar => optionRadar.Id == id))
+                foreach (var item in Character.ItemBody)
                 {
-                    if (optionRadar.ActiveCard == r.Level)
+                    if (item == null || item.Options == null) continue;
+                    foreach (var option in item.Options)
                     {
-                        param += optionRadar.Param;
-                    }
-                    else if (r.Level == -1 && optionRadar.ActiveCard == 0)
-                    {
-                        param += optionRadar.Param;
+                        if (option != null && option.Id == id)
+                        {
+                            param += option.Param;
+                        }
                     }
                 }
-            });
-            var itemBag = Character.ItemBag.FirstOrDefault(item => ItemCache.ItemTemplate(item.Id).Type == 11);
-            if (itemBag != null) param += itemBag.GetParamOption(id);
-
-            if (Character.InfoMore.PetItemIndex != -1)
+            }
+            
+            if (Character?.InfoChar?.Cards != null)
             {
-                var petItem = Character.ItemBag.FirstOrDefault(item => item.IndexUI == Character.InfoMore.PetItemIndex);
-                if (petItem != null) param += petItem.GetParamOption(id);
+                foreach (var r in Character.InfoChar.Cards.Values)
+                {
+                    if (r == null || r.Used != 1 || r.Options == null) continue;
+                    foreach (var optionRadar in r.Options)
+                    {
+                        if (optionRadar != null && optionRadar.Id == id)
+                        {
+                            if (optionRadar.ActiveCard == r.Level || (r.Level == -1 && optionRadar.ActiveCard == 0))
+                            {
+                                param += optionRadar.Param;
+                            }
+                        }
+                    }
+                }
+            }
+
+            if (Character?.ItemBag != null)
+            {
+                foreach (var item in Character.ItemBag)
+                {
+                    if (item == null) continue;
+                    var template = ItemCache.ItemTemplate(item.Id);
+                    if (template != null && template.Type == 11)
+                    {
+                        param += item.GetParamOption(id);
+                        break; // FirstOrDefault behavior
+                    }
+                }
+            }
+
+            if (Character?.InfoMore != null && Character.InfoMore.PetItemIndex != -1 && Character.ItemBag != null)
+            {
+                foreach (var item in Character.ItemBag)
+                {
+                    if (item != null && item.IndexUI == Character.InfoMore.PetItemIndex)
+                    {
+                        param += item.GetParamOption(id);
+                        break; // FirstOrDefault behavior
+                    }
+                }
             }
             return param;
         }
@@ -1034,33 +1066,63 @@ namespace NRO_Server.Application.Handlers.Character
         public List<int> GetListParamItem(int id)
         {
             var param = new List<int>();
-            Character.ItemBody.Where(item => item != null).ToList().ForEach(item =>
+            if (Character?.ItemBody != null)
             {
-                var option = item.Options.Where(option => option.Id == id).ToList();
-                param.AddRange(option.Select(optionItem => optionItem.Param));
-            });
-            Character.InfoChar.Cards.Values.Where(r => r.Used == 1).ToList().ForEach(r =>
-            {
-                foreach (var optionRadar in r.Options.Where(optionRadar => optionRadar.Id == id))
+                foreach (var item in Character.ItemBody)
                 {
-                    if (optionRadar.ActiveCard == r.Level)
+                    if (item == null || item.Options == null) continue;
+                    foreach (var option in item.Options)
                     {
-                        param.Add(optionRadar.Param);
-                    }
-                    else if (r.Level == -1 && optionRadar.ActiveCard == 0)
-                    {
-                        param.Add(optionRadar.Param);
+                        if (option != null && option.Id == id)
+                        {
+                            param.Add(option.Param);
+                        }
                     }
                 }
-            });
+            }
             
-            var itemBag = Character.ItemBag.FirstOrDefault(item => ItemCache.ItemTemplate(item.Id).Type == 11);
-            if (itemBag != null) param.Add(itemBag.GetParamOption(id));
-
-            if (Character.InfoMore.PetItemIndex != -1)
+            if (Character?.InfoChar?.Cards != null)
             {
-                var petItem = Character.ItemBag.FirstOrDefault(item => item.IndexUI == Character.InfoMore.PetItemIndex);
-                if (petItem != null) param.Add(petItem.GetParamOption(id));
+                foreach (var r in Character.InfoChar.Cards.Values)
+                {
+                    if (r == null || r.Used != 1 || r.Options == null) continue;
+                    foreach (var optionRadar in r.Options)
+                    {
+                        if (optionRadar != null && optionRadar.Id == id)
+                        {
+                            if (optionRadar.ActiveCard == r.Level || (r.Level == -1 && optionRadar.ActiveCard == 0))
+                            {
+                                param.Add(optionRadar.Param);
+                            }
+                        }
+                    }
+                }
+            }
+            
+            if (Character?.ItemBag != null)
+            {
+                foreach (var item in Character.ItemBag)
+                {
+                    if (item == null) continue;
+                    var template = ItemCache.ItemTemplate(item.Id);
+                    if (template != null && template.Type == 11)
+                    {
+                        param.Add(item.GetParamOption(id));
+                        break; // FirstOrDefault behavior
+                    }
+                }
+            }
+
+            if (Character?.InfoMore != null && Character.InfoMore.PetItemIndex != -1 && Character.ItemBag != null)
+            {
+                foreach (var item in Character.ItemBag)
+                {
+                    if (item != null && item.IndexUI == Character.InfoMore.PetItemIndex)
+                    {
+                        param.Add(item.GetParamOption(id));
+                        break; // FirstOrDefault behavior
+                    }
+                }
             }
             return param;
         }
@@ -1542,6 +1604,11 @@ namespace NRO_Server.Application.Handlers.Character
             }
             
 
+            if (Character.InfoMore.TimeNamekDragonWish > ServerUtils.CurrentTimeMillis()) {
+                if (Character.InfoMore.NamekDragonWishType == 0 || Character.InfoMore.NamekDragonWishType == 3) {
+                    hp += Character.InfoChar.OriginalHp * (Character.InfoMore.NamekDragonWishType == 0 ? 70 : 30) / 100;
+                }
+            }
             Character.HpFull = hp;
         }
 
@@ -1621,6 +1688,11 @@ namespace NRO_Server.Application.Handlers.Character
             if (Character.InfoBuff.BoKhi)
             {
                 mp += mp;
+            }
+            if (Character.InfoMore.TimeNamekDragonWish > ServerUtils.CurrentTimeMillis()) {
+                if (Character.InfoMore.NamekDragonWishType == 1 || Character.InfoMore.NamekDragonWishType == 3) {
+                    mp += Character.InfoChar.OriginalMp * (Character.InfoMore.NamekDragonWishType == 1 ? 70 : 30) / 100;
+                }
             }
             Character.MpFull = mp;
         }
@@ -1738,6 +1810,11 @@ namespace NRO_Server.Application.Handlers.Character
                         damage += damage*25/100;
                         break;
                     }
+                }
+            }
+            if (Character.InfoMore.TimeNamekDragonWish > ServerUtils.CurrentTimeMillis()) {
+                if (Character.InfoMore.NamekDragonWishType == 2 || Character.InfoMore.NamekDragonWishType == 3) {
+                    damage += Character.InfoChar.OriginalDamage * (Character.InfoMore.NamekDragonWishType == 2 ? 50 : 30) / 100;
                 }
             }
             Character.DamageFull = damage;
@@ -1871,16 +1948,21 @@ namespace NRO_Server.Application.Handlers.Character
         public void BagSort()
         {
             var listItemCheck = Character.ItemBag
-                .Where(item => ItemCache.ItemTemplate(item.Id).IsUpToUp && item.Quantity < 99).ToList();
+                .Where(item => item != null && ItemCache.ItemTemplate(item.Id) != null && ItemCache.ItemTemplate(item.Id).IsUpToUp && item.Quantity < 99).ToList();
             Character.ItemBag.RemoveAll(item => listItemCheck.Contains(item));
             var enumerable = listItemCheck
                 .GroupBy(i => i.Id)
                 .Select(g =>
                 {
                     var item = ItemCache.GetItemDefault(g.Key);
-                    item.Quantity = g.Sum(it => it.Quantity);
+                    if (item != null)
+                    {
+                        item.Quantity = g.Sum(it => it.Quantity);
+                    }
                     return item;
-                }).ToList();
+                })
+                .Where(i => i != null)
+                .ToList();
             enumerable.ToList().ForEach(item =>
             {
                 if (item.Quantity <= 99) return;
@@ -1891,7 +1973,10 @@ namespace NRO_Server.Application.Handlers.Character
             });
             Character.ItemBag.AddRange(enumerable);
             var count = 0;
-            Character.ItemBag.ForEach(item => item.IndexUI = count++);
+            Character.ItemBag.ForEach(item => 
+            {
+                if (item != null) item.IndexUI = count++;
+            });
         }
 
         public void Upindex(int index)
@@ -1905,16 +1990,21 @@ namespace NRO_Server.Application.Handlers.Character
         public void BoxSort()
         {
             var listItemCheck = Character.ItemBox
-                .Where(item => ItemCache.ItemTemplate(item.Id).IsUpToUp && item.Quantity < 99).ToList();
+                .Where(item => item != null && ItemCache.ItemTemplate(item.Id) != null && ItemCache.ItemTemplate(item.Id).IsUpToUp && item.Quantity < 99).ToList();
             Character.ItemBox.RemoveAll(item => listItemCheck.Contains(item));
             var enumerable = listItemCheck
                 .GroupBy(i => i.Id)
                 .Select(g =>
                 {
                     var item = ItemCache.GetItemDefault(g.Key);
-                    item.Quantity = g.Sum(it => it.Quantity);
+                    if (item != null)
+                    {
+                        item.Quantity = g.Sum(it => it.Quantity);
+                    }
                     return item;
-                }).ToList();
+                })
+                .Where(i => i != null)
+                .ToList();
             enumerable.ToList().ForEach(item =>
             {
                 if (item.Quantity <= 99) return;
@@ -1925,7 +2015,10 @@ namespace NRO_Server.Application.Handlers.Character
             });
             Character.ItemBox.AddRange(enumerable);
             var count = 0;
-            Character.ItemBox.ForEach(item => item.IndexUI = count++);
+            Character.ItemBox.ForEach(item => 
+            {
+                if (item != null) item.IndexUI = count++;
+            });
         }
 
         public void HandleJoinMap(Zone zone)
@@ -2641,6 +2734,7 @@ namespace NRO_Server.Application.Handlers.Character
         {
             lock (Character)
             {
+                LeaveItemHandler.DropNamekBall(Character);
                 if (!isHeal)
                 {
                     if (Character.AllDiamond() < 5)
@@ -2989,6 +3083,7 @@ namespace NRO_Server.Application.Handlers.Character
                     if(itemNew == null) return;
                     switch (itemNew.Id)
                     {
+
 						case 20:
 						{
 							if(Character.InfoChar.Task.Id == 8 && Character.InfoChar.Task.Index == 1)
