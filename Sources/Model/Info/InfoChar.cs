@@ -1,4 +1,4 @@
-﻿using System.Collections.Concurrent;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using NRO_Server.Model.Info.Radar;
 using NRO_Server.Model.Item;
@@ -59,7 +59,7 @@ namespace NRO_Server.Model.Info
         public bool IsNhanBua { get; set; }
         public short PhukienPart { get; set; }
         public bool IsHavePet { get; set; }
-        public bool IsPremium { get; set; }
+        public bool IsPremium { get => true; set {} }
         public long ThoiGianTrungMaBu { get; set; } //Thời gian trứng Ma Bư, != 0 là có trứng
         public long TimeAutoPlay { get; set; }
         public short CountGoiRong { get; set; }

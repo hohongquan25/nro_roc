@@ -5925,7 +5925,15 @@ namespace NRO_Server.Application.Main.Menu
                     character.CharacterHandler.SendMessage(Service.SendBag(character));
                     var itemReturn = character.ItemBag.FirstOrDefault(item =>
                         item.Id == trangBi.Id && item.Options.Count == trangBi.Options.Count && item.IndexUI != trangBi.IndexUI) ?? trangBi;
-                    character.CharacterHandler.SendMessage(Service.SendCombinne1(new List<int>(){itemReturn.IndexUI}));
+                    
+                    var listReturn = new List<int>() { itemReturn.IndexUI };
+                    var ngocRongCheck = character.CharacterHandler.GetItemBagByIndex(ngocRong.IndexUI);
+                    if (ngocRongCheck != null && ngocRongCheck.Id == ngocRong.Id)
+                    {
+                        listReturn.Add(ngocRong.IndexUI);
+                    }
+
+                    character.CharacterHandler.SendMessage(Service.SendCombinne1(listReturn));
                     character.CombinneIndex.Clear();
                     character.CombinneIndex = null;
                     break;

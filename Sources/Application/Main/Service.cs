@@ -405,6 +405,7 @@ namespace NRO_Server.Application.Main
             try
             {
                 var newList = list.ToList().Select((x, i) => new KeyValuePair<int, InfoFriend>(i, x)).OrderByDescending(x => x.Key).ToList();
+                Server.Gi().Logger.Debug($"ListEmeny requested, count: {newList.Count}");
                 var message = new Message(-99);
                 message.Writer.WriteByte(0);
                 message.Writer.WriteByte(newList.ToList().Count);
@@ -416,7 +417,6 @@ namespace NRO_Server.Application.Main
                     message.Writer.WriteShort(emeny.Value.Leg);
                     message.Writer.WriteShort(emeny.Value.Bag);
                     message.Writer.WriteUTF(emeny.Value.Name);
-                    message.Writer.WriteUTF(ServerUtils.GetPower(emeny.Value.Power));
                     message.Writer.WriteBoolean(ClientManager.Gi().GetCharacter(emeny.Value.Id) != null);
                     
                 });
@@ -973,6 +973,7 @@ namespace NRO_Server.Application.Main
         {
             try
             {
+                Server.Gi().Logger.Debug($"ListFriend0 requested, count: {list.Count}");
                 var message = new Message(-80);
                 message.Writer.WriteByte(0);
                 message.Writer.WriteByte(list.Count);
@@ -986,7 +987,6 @@ namespace NRO_Server.Application.Main
                     message.Writer.WriteByte(friend.Bag);
                     message.Writer.WriteUTF((friend.Name != null ? friend.Name : "thanlong"));
                     message.Writer.WriteBoolean(isOnline);
-                    message.Writer.WriteUTF(ServerUtils.GetPower(friend.Power));
                 });
                 return message;
             }

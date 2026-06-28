@@ -2313,7 +2313,7 @@ namespace NRO_Server.Application.Handlers.Item
                         skill1.CoolDown = -1;
                         skill1.SkillId++;
                         character.CharacterHandler.SendMessage(Service.ServerMessage(TextServer.gI().SUCCESS_POINT_SKILL_DISCIPLE));
-                        character.CharacterHandler.SendMessage(Service.ClosePanel());
+                        // character.CharacterHandler.SendMessage(Service.ClosePanel());
                         // character.CharacterHandler.RemoveItemBag(index);
                         character.CharacterHandler.RemoveItemBagByIndex(itemUse.IndexUI, 1, reason:"Dùng sách kĩ năng đệ tử");
                         character.CharacterHandler.SendMessage(Service.SendBag(character));

@@ -1296,6 +1296,7 @@ namespace NRO_Server.Application.Main
                     //CHAT THẾ GIỚI
                     case -71:
                     {
+                        Server.Gi().Logger.Debug("World Chat packet received -71");
                         var character = _session?.Player?.Character;
                         if (character == null) return;
                         {
@@ -1305,28 +1306,18 @@ namespace NRO_Server.Application.Main
                             if (delayChat > timeServer)
                             {
                                 var time = (delayChat - timeServer) / 1000;
-                                character.CharacterHandler.SendMessage(
-                                    Service.ServerMessage(string.Format(TextServer.gI().DELAY_CHAT_TG, time)));
-                                return;
+                                if (time > 60)
+                                {
+                                    @char.InfoChar.ThoiGianChatTheGioi = timeServer;
+                                }
+                                else
+                                {
+                                    character.CharacterHandler.SendMessage(
+                                        Service.ServerMessage(string.Format(TextServer.gI().DELAY_CHAT_TG, time)));
+                                    return;
+                                }
                             }
-
-                            if (@char.AllDiamond() < 5)
-                            {
-                                character.CharacterHandler.SendMessage(
-                                    Service.ServerMessage(TextServer.gI().NOT_ENOUGH_DIAMOND));
-                                return;
-                            }
-
-                            if (!@char.InfoChar.IsPremium)
-                            {
-                                // @char.InfoChar.ThoiGianChatTheGioi = timeServer + 300000;
-                                character.CharacterHandler.SendMessage(Service.ServerMessage(TextServer.gI().NOT_PREMIUM));
-                                return;
-                            }
-                            else 
-                            {
-                                @char.InfoChar.ThoiGianChatTheGioi = timeServer + 60000;
-                            }
+                            @char.InfoChar.ThoiGianChatTheGioi = timeServer + 5000; // 5s cooldown chung cho tất cả
 
                             var noiDung = message.Reader.ReadUTF();
 
@@ -1338,11 +1329,10 @@ namespace NRO_Server.Application.Main
                             }
                             else if (noiDung.Length > 50)
                             {
-                                @char.InfoChar.ThoiGianChatTheGioi = timeServer + 300000;
+                                @char.InfoChar.ThoiGianChatTheGioi = timeServer + 10000; // 10s cooldown for long message
                             }
 
-                            @char.MineDiamond(5);
-                            character.CharacterHandler.SendMessage(Service.BuyItem(@char));
+                            // Removed diamond cost
                             ClientManager.Gi().SendMessageCharacter(Service.WorldChat(@char,
                                 ServerUtils.FilterWords(noiDung), 0));
                         }
@@ -3325,7 +3315,7 @@ namespace NRO_Server.Application.Main
                                 {
                                     map.OutZone(character, map.Id);
                                     map.JoinZone((Character) character, zoneId);
-                                    @char.Delay.ChangeZone = 10000 + timeServer;
+                                    @char.Delay.ChangeZone = 4000 + timeServer;
                                 }
                                 else
                                 {

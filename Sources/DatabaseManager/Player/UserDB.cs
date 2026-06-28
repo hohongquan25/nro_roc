@@ -148,7 +148,7 @@ namespace NRO_Server.DatabaseManager.Player
             {
                 try
                 {
-                    var timeServer = ServerUtils.CurrentTimeSecond() + 30;
+                    var timeServer = ServerUtils.CurrentTimeSecond() + 10;
                     DbContext.gI()?.ConnectToAccount();
                     using (DbCommand command = DbContext.gI()?.Connection.CreateCommand())
                     {

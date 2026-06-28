@@ -103,6 +103,14 @@ namespace NRO_Server.Application.Threading
                     response.ContentLength64 = buffer.Length;
                     await response.OutputStream.WriteAsync(buffer, 0, buffer.Length);
                 }
+                else if (request.HttpMethod == "GET" && request.Url.AbsolutePath == "/boss")
+                {
+                    response.ContentType = "text/html; charset=utf-8";
+                    responseString = GetBossHtmlContent();
+                    buffer = Encoding.UTF8.GetBytes(responseString);
+                    response.ContentLength64 = buffer.Length;
+                    await response.OutputStream.WriteAsync(buffer, 0, buffer.Length);
+                }
                 else if (request.HttpMethod == "POST")
                 {
                     string requestBody;
@@ -316,27 +324,36 @@ namespace NRO_Server.Application.Threading
                     {
                         try 
                         {
-                            int type = (int)json["type"];
-                            int mapId = (int)json["mapId"];
-                            int zoneId = (int)json["zoneId"];
-
-                            var zone = MapManager.Get(mapId)?.GetZoneById(zoneId);
-                            if (zone != null)
+                            string code = json["code"]?.ToString().Trim();
+                            if (code != "NROROC")
                             {
-                                var boss = new Boss();
-                                boss.CreateBoss(type);
-                                boss.CharacterHandler.SetUpInfo();
-                                zone.ZoneHandler.AddBoss(boss);
-                                
-                                ClientManager.Gi().SendMessageCharacter(Service.ServerChat($"BOSS {boss.Name} vừa xuất hiện tại {zone.Map.TileMap.Name}"));
-                                
-                                resJson["status"] = "success";
-                                resJson["message"] = $"Đã gọi thành công BOSS {boss.Name} tại Map {mapId} (Khu {zoneId})";
+                                resJson["status"] = "error";
+                                resJson["message"] = "Sai mã bảo mật!";
                             }
                             else
                             {
-                                resJson["status"] = "error";
-                                resJson["message"] = $"Không tìm thấy Map {mapId} hoặc Khu {zoneId}";
+                                int type = (int)json["type"];
+                                int mapId = (int)json["mapId"];
+                                int zoneId = (int)json["zoneId"];
+
+                                var zone = MapManager.Get(mapId)?.GetZoneById(zoneId);
+                                if (zone != null)
+                                {
+                                    var boss = new Boss();
+                                    boss.CreateBoss(type);
+                                    boss.CharacterHandler.SetUpInfo();
+                                    zone.ZoneHandler.AddBoss(boss);
+                                    
+                                    ClientManager.Gi().SendMessageCharacter(Service.ServerChat($"BOSS {boss.Name} vừa xuất hiện tại {zone.Map.TileMap.Name}"));
+                                    
+                                    resJson["status"] = "success";
+                                    resJson["message"] = $"Đã gọi thành công BOSS {boss.Name} tại Map {mapId} (Khu {zoneId})";
+                                }
+                                else
+                                {
+                                    resJson["status"] = "error";
+                                    resJson["message"] = $"Không tìm thấy Map {mapId} hoặc Khu {zoneId}";
+                                }
                             }
                         }
                         catch (Exception ex)
@@ -681,7 +698,6 @@ namespace NRO_Server.Application.Threading
             <div class=""tab main-tab active"" onclick=""switchMainTab('manage', this)"">QUẢN LÝ</div>
             <div class=""tab main-tab"" onclick=""switchMainTab('items_list', this); loadItems();"">VẬT PHẨM</div>
             <div class=""tab main-tab"" onclick=""switchMainTab('register', this)"">ĐĂNG KÝ</div>
-            <div class=""tab main-tab"" onclick=""switchMainTab('boss', this); loadBosses();"">GỌI BOSS</div>
         </div>
 
         <div id=""main-manage"" class=""main-content active"" style=""display: block;"">
@@ -794,27 +810,6 @@ namespace NRO_Server.Application.Threading
             <button onclick=""registerAccount()"" style=""background: linear-gradient(135deg, #f093fb, #f5576c);"">TẠO TÀI KHOẢN MỚI</button>
         </div>
 
-        <div id=""main-boss"" class=""main-content"" style=""display: none;"">
-            <div class=""grid"">
-                <div class=""input-group"" style=""grid-column: 1 / -1;"">
-                    <label>Chọn Boss</label>
-                    <select id=""bossType"">
-                        <option value="""">-- Đang tải danh sách Boss --</option>
-                    </select>
-                </div>
-                <div class=""input-group"">
-                    <label>Chọn Map (Bản đồ)</label>
-                    <select id=""bossMapId"">
-                        <option value="""">-- Đang tải danh sách Map --</option>
-                    </select>
-                </div>
-                <div class=""input-group"">
-                    <label>Zone ID (Khu vực)</label>
-                    <input type=""number"" id=""bossZoneId"" value=""0"" />
-                </div>
-            </div>
-            <button onclick=""spawnBoss()"" style=""background: linear-gradient(135deg, #ff0844, #ffb199);"">TRIỆU HỒI BOSS</button>
-        </div>
     </div>
 
     <div id=""toast"">Thông báo</div>
@@ -1020,6 +1015,294 @@ namespace NRO_Server.Application.Threading
             showToast('Đã chọn vật phẩm ID ' + id);
         }
 
+    </script>
+</body>
+</html>";
+        }
+
+        private static string GetBossHtmlContent()
+        {
+            return @"
+<!DOCTYPE html>
+<html lang=""vi"">
+<head>
+    <meta charset=""UTF-8"">
+    <title>NRO Boss Control - Premium</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700&display=swap');
+        
+        :root {
+            --glass-bg: rgba(25, 25, 35, 0.65);
+            --glass-border: rgba(255, 255, 255, 0.1);
+            --primary: #00f2fe;
+            --secondary: #4facfe;
+            --text-main: #f8f9fa;
+            --text-muted: #adb5bd;
+            --success: #00b09b;
+            --error: #ff416c;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Outfit', sans-serif;
+        }
+
+        body {
+            background: radial-gradient(circle at top right, #1a1a2e, #16213e, #0f3460);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow-x: hidden;
+        }
+
+        .bg-shape {
+            position: fixed;
+            border-radius: 50%;
+            filter: blur(80px);
+            z-index: -1;
+            opacity: 0.5;
+        }
+
+        .shape1 {
+            width: 400px;
+            height: 400px;
+            background: var(--primary);
+            top: -100px;
+            left: -100px;
+        }
+
+        .shape2 {
+            width: 500px;
+            height: 500px;
+            background: #ff0844;
+            bottom: -150px;
+            right: -100px;
+        }
+
+        .container {
+            background: var(--glass-bg);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 40px;
+            width: 90%;
+            max-width: 600px;
+            box-shadow: 0 25px 45px rgba(0, 0, 0, 0.3);
+            position: relative;
+            z-index: 1;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: 700;
+            font-size: 28px;
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .input-group {
+            margin-bottom: 20px;
+            position: relative;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 500;
+            color: var(--text-muted);
+            font-size: 14px;
+        }
+
+        input {
+            width: 100%;
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            color: #fff;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            outline: none;
+        }
+
+        input:focus, select:focus {
+            border-color: var(--primary);
+            background: rgba(255, 255, 255, 0.08);
+            box-shadow: 0 0 15px rgba(0, 242, 254, 0.2);
+        }
+
+        select {
+            width: 100%;
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            color: #fff;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            outline: none;
+        }
+
+        select option {
+            background: #1a1a2e;
+            color: white;
+        }
+
+        button {
+            width: 100%;
+            padding: 15px;
+            border: none;
+            border-radius: 12px;
+            background: linear-gradient(135deg, var(--secondary) 0%, var(--primary) 100%);
+            color: white;
+            font-size: 16px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(0, 242, 254, 0.3);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        /* Toast Notification */
+        #toast {
+            visibility: hidden;
+            min-width: 250px;
+            margin-left: -125px;
+            background-color: rgba(25, 25, 35, 0.9);
+            border: 1px solid;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 16px;
+            position: fixed;
+            z-index: 1000;
+            left: 50%;
+            bottom: 30px;
+            font-size: 15px;
+            font-weight: 500;
+            backdrop-filter: blur(10px);
+            transition: opacity 0.3s, bottom 0.3s;
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        #toast.show {
+            visibility: visible;
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        #toast.success { border-color: var(--success); }
+        #toast.error { border-color: var(--error); }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        #unlockScreen {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            animation: fadeIn 0.5s ease;
+        }
+
+        #bossPanel {
+            display: none;
+            animation: fadeIn 0.5s ease;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+        
+        @media (max-width: 480px) {
+            .container { padding: 25px; }
+            .grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class=""bg-shape shape1""></div>
+    <div class=""bg-shape shape2""></div>
+
+    <div class=""container"">
+        <h1>GỌI BOSS</h1>
+
+        <div id=""unlockScreen"">
+            <div class=""input-group"" style=""width: 100%;"">
+                <label>Nhập mã bảo mật để mở khóa</label>
+                <input type=""password"" id=""unlockCode"" placeholder=""Nhập mã bảo mật..."" />
+            </div>
+            <button onclick=""unlock()"" style=""background: linear-gradient(135deg, #f093fb, #f5576c);"">XÁC NHẬN</button>
+        </div>
+
+        <div id=""bossPanel"">
+            <div class=""grid"">
+                <div class=""input-group"" style=""grid-column: 1 / -1;"">
+                    <label>Chọn Boss</label>
+                    <select id=""bossType"">
+                        <option value="""">-- Đang tải danh sách Boss --</option>
+                    </select>
+                </div>
+                <div class=""input-group"">
+                    <label>Chọn Map (Bản đồ)</label>
+                    <select id=""bossMapId"">
+                        <option value="""">-- Đang tải danh sách Map --</option>
+                    </select>
+                </div>
+                <div class=""input-group"">
+                    <label>Zone ID (Khu vực)</label>
+                    <input type=""number"" id=""bossZoneId"" value=""0"" />
+                </div>
+            </div>
+            <button onclick=""spawnBoss()"" style=""background: linear-gradient(135deg, #ff0844, #ffb199);"">TRIỆU HỒI BOSS</button>
+        </div>
+    </div>
+
+    <div id=""toast"">Thông báo</div>
+
+    <script>
+        function showToast(msg, type = 'success') {
+            const toast = document.getElementById('toast');
+            toast.textContent = msg;
+            toast.className = `show ${type}`;
+            setTimeout(() => { toast.className = toast.className.replace('show', ''); }, 3000);
+        }
+
+        function unlock() {
+            const code = document.getElementById('unlockCode').value;
+            if (code === 'NROROC') {
+                document.getElementById('unlockScreen').style.display = 'none';
+                document.getElementById('bossPanel').style.display = 'block';
+                showToast('Mở khóa thành công!');
+                loadBosses();
+            } else {
+                showToast('Mã bảo mật không chính xác!', 'error');
+            }
+        }
+
         let isBossLoaded = false;
         async function loadBosses() {
             if (isBossLoaded) return;
@@ -1066,6 +1349,10 @@ namespace NRO_Server.Application.Threading
         }
 
         async function spawnBoss() {
+            const code = document.getElementById('unlockCode').value;
+            if (code !== 'NROROC') {
+                return showToast('Bạn chưa mở khóa!', 'error');
+            }
             const type = document.getElementById('bossType').value;
             const mapId = document.getElementById('bossMapId').value;
             const zoneId = document.getElementById('bossZoneId').value;
@@ -1080,7 +1367,8 @@ namespace NRO_Server.Application.Threading
                     body: JSON.stringify({ 
                         type: parseInt(type), 
                         mapId: parseInt(mapId), 
-                        zoneId: parseInt(zoneId) 
+                        zoneId: parseInt(zoneId),
+                        code: code
                     })
                 });
                 const data = await res.json();

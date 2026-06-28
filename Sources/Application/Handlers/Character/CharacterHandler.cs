@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using NRO_Server.Application.Constants;
@@ -1068,11 +1068,30 @@ namespace NRO_Server.Application.Handlers.Character
         public void SetUpFriend()
         {
             Character.Me = new InfoFriend(Character);
-            Character.Friends.ForEach(friend =>
+            
+            for (int i = 0; i < Character.Friends.Count; i++)
             {
+                var friend = Character.Friends[i];
                 var charCheck = (Model.Character.Character)ClientManager.Gi().GetCharacter(friend.Id);
-                friend = charCheck != null ? new InfoFriend(charCheck) : CharacterDB.GetInfoCharacter(friend.Id);
-            });
+                var infoFromDb = charCheck != null ? new InfoFriend(charCheck) : CharacterDB.GetInfoCharacter(friend.Id);
+                if (infoFromDb != null)
+                {
+                    Character.Friends[i] = infoFromDb;
+                }
+            }
+            Character.Friends.RemoveAll(f => f == null);
+
+            for (int i = 0; i < Character.Enemies.Count; i++)
+            {
+                var enemy = Character.Enemies[i];
+                var charCheck = (Model.Character.Character)ClientManager.Gi().GetCharacter(enemy.Id);
+                var infoFromDb = charCheck != null ? new InfoFriend(charCheck) : CharacterDB.GetInfoCharacter(enemy.Id);
+                if (infoFromDb != null)
+                {
+                    Character.Enemies[i] = infoFromDb;
+                }
+            }
+            Character.Enemies.RemoveAll(f => f == null);
         }
 
         public void SetUpInfo()
