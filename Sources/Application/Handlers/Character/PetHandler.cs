@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Linq.Extras;
@@ -106,7 +106,7 @@ namespace NRO_Server.Application.Handlers.Character
         }
         
 
-        public void PlusHp(int hp)
+        public void PlusHp(long hp)
         {
             lock (Pet.InfoChar)
             {
@@ -269,11 +269,11 @@ namespace NRO_Server.Application.Handlers.Character
         {
             //TODO set buff 10s
         }
-        public void PlusMp(int mp)
+        public void PlusMp(long mp)
         {
         }
 
-        public void MineMp(int mp)
+        public void MineMp(long mp)
         {
         }
 

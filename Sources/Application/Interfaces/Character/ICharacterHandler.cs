@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using NRO_Server.Application.Interfaces.Monster;
 using NRO_Server.Application.IO;
@@ -57,10 +57,10 @@ namespace NRO_Server.Application.Interfaces.Character
         Model.Item.Item RemoveItemBox(int index, bool isReset = true);
         Model.Item.Item RemoveItemLuckyBox(int index, bool isReset = true);
         void MoveMap(short toX, short toY, int type = 0);
-        void PlusHp(int hp);
+        void PlusHp(long hp);
         void MineHp(long hp);
-        void PlusMp(int mp);
-        void MineMp(int mp);
+        void PlusMp(long mp);
+        void MineMp(long mp);
         void PlusStamina(int stamina);
         void MineStamina(int stamina);
         void PlusPower(long power);

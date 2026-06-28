@@ -1120,7 +1120,7 @@ namespace NRO_Server.Application.Handlers.Character
             }
         }
 
-        public void PlusHp(int hp)
+        public void PlusHp(long hp)
         {
             lock (Disciple.InfoChar)
             {
@@ -1152,7 +1152,7 @@ namespace NRO_Server.Application.Handlers.Character
             }
         }
 
-        public void PlusMp(int mp)
+        public void PlusMp(long mp)
         {
             lock (Disciple.InfoChar)
             {
@@ -1162,7 +1162,7 @@ namespace NRO_Server.Application.Handlers.Character
             }
         }
 
-        public void MineMp(int mp)
+        public void MineMp(long mp)
         {
             lock (Disciple.InfoChar)
             {

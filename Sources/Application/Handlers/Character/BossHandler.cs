@@ -684,7 +684,7 @@ namespace NRO_Server.Application.Handlers.Character
                 }
                 
                 // Random thêm sao pha lê (4-7 sao)
-                itemHighStat.Options.Add(new Model.Item.OptionItem() { Id = 107, Param = ServerUtils.RandomNumber(4, 8) });
+                itemHighStat.Options.Add(new Model.Option.OptionItem() { Id = 107, Param = ServerUtils.RandomNumber(4, 8) });
 
                 var highStatMapItem = new ItemMap(playerKillId, itemHighStat);
                 highStatMapItem.X = (short)(Boss.InfoChar.X + ServerUtils.RandomNumber(-40, 40));
@@ -1508,7 +1508,7 @@ namespace NRO_Server.Application.Handlers.Character
             }
         }
 
-        public void PlusHp(int hp)
+        public void PlusHp(long hp)
         {
             lock (Boss.InfoChar)
             {
@@ -1541,7 +1541,7 @@ namespace NRO_Server.Application.Handlers.Character
             }
         }
 
-        public void PlusMp(int mp)
+        public void PlusMp(long mp)
         {
             lock (Boss.InfoChar)
             {
@@ -1551,7 +1551,7 @@ namespace NRO_Server.Application.Handlers.Character
             }
         }
 
-        public void MineMp(int mp)
+        public void MineMp(long mp)
         {
             // lock (Boss.InfoChar)
             // {
