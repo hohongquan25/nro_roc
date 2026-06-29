@@ -74,8 +74,8 @@ namespace NRO_Server.Model.Character
             Type = type;
             InfoChar.Stamina = bossTemplate.Stamina;
             InfoChar.MaxStamina = bossTemplate.Stamina;
-            InfoChar.OriginalHp = InfoChar.Hp = (long)bossTemplate.Hp * 10;
-            InfoChar.OriginalMp = InfoChar.Mp = (long)bossTemplate.Mp * 10;
+            InfoChar.OriginalHp = InfoChar.Hp = (long)bossTemplate.Hp * 5;
+            InfoChar.OriginalMp = InfoChar.Mp = (long)bossTemplate.Mp * 5;
             InfoChar.OriginalDamage = bossTemplate.Damage;
             InfoChar.OriginalDefence = bossTemplate.Defence;
             InfoChar.OriginalCrit = bossTemplate.CritChance;
