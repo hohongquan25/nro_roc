@@ -1600,7 +1600,7 @@ namespace NRO_Server.Application.Main
                         message.Writer.WriteUTF(msg.PlayerName);
                         message.Writer.WriteByte(msg.Role);
                         message.Writer.WriteInt(msg.Time);
-                        if (msg.Type == 0)
+                        if (msg.Type == 0 || msg.Type == 2)
                         {
                             message.Writer.WriteUTF(msg.Text);
                             message.Writer.WriteByte(msg.Color);
@@ -1706,6 +1706,7 @@ namespace NRO_Server.Application.Main
                 switch (msg.Type)
                 {
                     case 0:
+                    case 2:
                         message.Writer.WriteUTF(msg.Text);
                         message.Writer.WriteByte(msg.Color);
                         break;
