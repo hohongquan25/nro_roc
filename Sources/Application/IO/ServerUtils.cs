@@ -21,6 +21,8 @@ namespace NRO_Server.Application.IO
         }
         private static readonly DateTime Jan1st1970 = new DateTime(1970, 1, 1, 0, 0, 00, DateTimeKind.Utc);
 
+        public static int GetDisplayHp(long hp) { return hp > 2000000000 ? 2000000000 : (int)hp; }
+
         public static byte[] ConvertArraySByteToByte(sbyte[] data)
         {
             return Array.ConvertAll(data, b => unchecked((byte) b));

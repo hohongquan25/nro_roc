@@ -262,10 +262,10 @@ namespace NRO_Server.Application.Main
                         });
                     }
                 });
-                message.Writer.WriteInt((int)disciple.InfoChar.Hp);
-                message.Writer.WriteInt((int)disciple.HpFull);
-                message.Writer.WriteInt((int)disciple.InfoChar.Mp);
-                message.Writer.WriteInt((int)disciple.MpFull);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(disciple.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(disciple.HpFull));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(disciple.InfoChar.Mp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(disciple.MpFull));
                 message.Writer.WriteInt((int)disciple.DamageFull);
                 message.Writer.WriteUTF(disciple.Name);
                 message.Writer.WriteUTF(disciple.CurrStrLevel());
@@ -2319,8 +2319,8 @@ namespace NRO_Server.Application.Main
                 message.Writer.WriteInt((int)character.InfoChar.OriginalHp);
                 message.Writer.WriteInt((int)character.InfoChar.OriginalMp);
                 message.Writer.WriteInt(character.InfoChar.OriginalDamage);
-                message.Writer.WriteInt((int)character.HpFull);
-                message.Writer.WriteInt((int)character.MpFull);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.HpFull));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.MpFull));
                 if (character.InfoChar.Hp >= character.HpFull)
                 {
                     character.InfoChar.Hp = character.HpFull;
@@ -2329,8 +2329,8 @@ namespace NRO_Server.Application.Main
                 {
                     character.InfoChar.Mp = character.MpFull;
                 }
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
-                message.Writer.WriteInt((int)character.InfoChar.Mp);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Mp));
                 message.Writer.WriteByte(character.InfoChar.Speed);
                 message.Writer.WriteByte(character.InfoChar.HpFrom1000);
                 message.Writer.WriteByte(character.InfoChar.MpFrom1000);
@@ -2722,8 +2722,8 @@ namespace NRO_Server.Application.Main
             {
                 var message = MessageSubCommand(15);
                 message.Writer.WriteInt(character.Id);
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
-                message.Writer.WriteInt((int)character.HpFull);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.HpFull));
                 message.Writer.WriteShort(character.InfoChar.X);
                 message.Writer.WriteShort(character.InfoChar.Y);
                 return message;
@@ -2744,10 +2744,10 @@ namespace NRO_Server.Application.Main
             {
                 message = MessageSubCommand(14);
                 message.Writer.WriteInt(character.Id);
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
                 message.Writer.WriteByte(type);
                 if(character.InfoChar.Hp >= character.HpFull) {
-                    message.Writer.WriteInt((int)character.HpFull);
+                    message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.HpFull));
                 }
                 return message;
             }
@@ -2767,8 +2767,8 @@ namespace NRO_Server.Application.Main
             {
                 message = MessageSubCommand(13);
                 message.Writer.WriteInt(character.Id);
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
-                message.Writer.WriteInt((int)character.HpFull);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.HpFull));
                 message.Writer.WriteShort(0); //getEff5buffHp
                 message.Writer.WriteShort(0); //getEff5buffMp
                 return message;
@@ -2789,8 +2789,8 @@ namespace NRO_Server.Application.Main
             {
                 message = MessageSubCommand(12);
                 message.Writer.WriteInt(character.Id);
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
-                message.Writer.WriteInt((int)character.HpFull);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.HpFull));
                 message.Writer.WriteShort(0); //getEff5buffHp
                 message.Writer.WriteShort(0); //getEff5buffMp
                 message.Writer.WriteShort(character.GetLeg());
@@ -2812,8 +2812,8 @@ namespace NRO_Server.Application.Main
             {
                 message = MessageSubCommand(11);
                 message.Writer.WriteInt(character.Id);
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
-                message.Writer.WriteInt((int)character.HpFull);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.HpFull));
                 message.Writer.WriteShort(0); //getEff5buffHp
                 message.Writer.WriteShort(0); //getEff5buffMp
                 message.Writer.WriteShort(character.GetBody());
@@ -2835,8 +2835,8 @@ namespace NRO_Server.Application.Main
             {
                 message = MessageSubCommand(10);
                 message.Writer.WriteInt(character.Id);
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
-                message.Writer.WriteInt((int)character.HpFull);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.HpFull));
                 message.Writer.WriteShort(0); //getEff5buffHp
                 message.Writer.WriteShort(0); //getEff5buffMp
                 message.Writer.WriteShort(1); //Id vũ khí
@@ -2857,8 +2857,8 @@ namespace NRO_Server.Application.Main
             {
                 var message = MessageSubCommand(9);
                 message.Writer.WriteInt(character.Id);
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
-                message.Writer.WriteInt((int)character.HpFull);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.HpFull));
                 return message;
             }
             catch (Exception e)
@@ -2903,8 +2903,8 @@ namespace NRO_Server.Application.Main
                 message.Writer.WriteByte(character.InfoChar.Gender);
                 message.Writer.WriteShort(character.GetHead());
                 message.Writer.WriteUTF($"{text}{character.Name}");
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
-                message.Writer.WriteInt((int)character.HpFull);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.HpFull));
                 message.Writer.WriteShort(character.GetBody());
                 message.Writer.WriteShort(character.GetLeg());
                 message.Writer.WriteByte(character.GetBag());
@@ -2949,12 +2949,12 @@ namespace NRO_Server.Application.Main
         }
 
         //-30_5 _ ME
-        public static Message SendHp(int hp)
+        public static Message SendHp(long hp)
         {
             try
             {
                 var message = MessageSubCommand(5);
-                message.Writer.WriteInt(hp);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(hp));
                 return message;
             }
             catch (Exception e)
@@ -2985,8 +2985,8 @@ namespace NRO_Server.Application.Main
                     message.Writer.WriteInt((int)gold);
                 }
                 message.Writer.WriteInt((int)character.InfoChar.Diamond);
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
-                message.Writer.WriteInt((int)character.InfoChar.Mp);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Mp));
                 message.Writer.WriteInt((int)character.InfoChar.DiamondLock);
                 return message;
             }
@@ -3226,9 +3226,9 @@ namespace NRO_Server.Application.Main
                 //     message.Writer.WriteBoolean(monster.IsWind);
                 //     message.Writer.WriteByte(monster.Id);
                 //     message.Writer.WriteByte(monster.Sys);
-                //     message.Writer.WriteInt((int)monster.Hp);
+                //     message.Writer.WriteInt(ServerUtils.GetDisplayHp((long)monster.Hp));
                 //     message.Writer.WriteByte(monster.Level);
-                //     message.Writer.WriteInt((int)monster.HpMax);
+                //     message.Writer.WriteInt(ServerUtils.GetDisplayHp((long)monster.Hp)Max);
                 //     message.Writer.WriteShort(monster.X);
                 //     message.Writer.WriteShort(monster.Y);
                 //     message.Writer.WriteByte(monster.Status);
@@ -3586,7 +3586,7 @@ namespace NRO_Server.Application.Main
                     message.Writer.WriteBoolean(monster.IsWind);
                     message.Writer.WriteByte(monster.Id);
                     message.Writer.WriteByte(monster.Sys);
-                    message.Writer.WriteInt((int)monster.Hp);
+                    message.Writer.WriteInt(ServerUtils.GetDisplayHp((long)monster.Hp));
                     message.Writer.WriteByte(monster.Level);
                     message.Writer.WriteInt(monster.MaxExp);
                     message.Writer.WriteShort(monster.X);
@@ -3790,7 +3790,7 @@ namespace NRO_Server.Application.Main
                 message.Writer.WriteByte(monster.IdMap);
                 message.Writer.WriteByte(monster.Sys);
                 message.Writer.WriteByte(monster.LvBoss);
-                message.Writer.WriteInt((int)monster.Hp);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp((long)monster.Hp));
                 return message;
             }
             catch (Exception e)
@@ -3842,8 +3842,8 @@ namespace NRO_Server.Application.Main
                 var message = new Message(-10);
                 message.Writer.WriteByte(idMap);
                 message.Writer.WriteInt(character.Id);
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
-                message.Writer.WriteInt((int)character.InfoChar.Mp);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Mp));
                 return message;
             }
             catch (Exception e)
@@ -3860,7 +3860,7 @@ namespace NRO_Server.Application.Main
             {
                 var message = new Message(-9);
                 message.Writer.WriteByte(monster.IdMap);
-                message.Writer.WriteInt((int)monster.Hp);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp((long)monster.Hp));
                 message.Writer.WriteInt(damage);
                 message.Writer.WriteBoolean(isCrit);
                 message.Writer.WriteByte(type); //Hiệu ứng đòn đánh
@@ -3880,7 +3880,7 @@ namespace NRO_Server.Application.Main
             {
                 var message = new Message(-9);
                 message.Writer.WriteByte(monster.IdMap);
-                message.Writer.WriteInt((int)monster.Hp);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp((long)monster.Hp));
                 message.Writer.WriteInt(1);
                 return message;
             }
@@ -3966,8 +3966,8 @@ namespace NRO_Server.Application.Main
                 {
                     character.InfoChar.Hp = character.HpFull;
                 }
-                message.Writer.WriteInt((int)character.InfoChar.Hp);    //hp
-                message.Writer.WriteInt((int)character.HpFull);         //hp full
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));    //hp
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.HpFull));         //hp full
                 message.Writer.WriteShort(character.GetBody());         //body
                 message.Writer.WriteShort(character.GetLeg());          //leg
                 message.Writer.WriteByte(character.GetBag());           //bag
@@ -4171,8 +4171,8 @@ namespace NRO_Server.Application.Main
                 {
                     character.InfoChar.Hp = character.HpFull;
                 }
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
-                message.Writer.WriteInt((int)character.HpFull);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.HpFull));
                 message.Writer.WriteShort(character.InfoChar.X);
                 message.Writer.WriteShort(character.InfoChar.Y);
                 return message;
@@ -4414,7 +4414,7 @@ namespace NRO_Server.Application.Main
             {
                 var message = new Message(56);
                 message.Writer.WriteInt(character.Id);
-                message.Writer.WriteInt((int)character.InfoChar.Hp);
+                message.Writer.WriteInt(ServerUtils.GetDisplayHp(character.InfoChar.Hp));
                 message.Writer.WriteInt((int)damage);
                 message.Writer.WriteBool(isFatal);
                 message.Writer.WriteByte(type);
