@@ -5639,7 +5639,7 @@ namespace NRO_Server.Application.Main
 
                                     // Trứng linh thú
                                     var itemTrungLinhThu = character.CharacterHandler.GetItemBagByIndex(arrIndexUi[0]);
-                                    if (itemTrungLinhThu == null || itemTrungLinhThu.Id != 1088)
+                                    if (itemTrungLinhThu == null || itemTrungLinhThu.Id != 1049)
                                     {
                                         character.CharacterHandler.SendMessage(
                                             Service.DialogMessage("Cần cho trứng linh thú vào đầu tiên"));
@@ -5648,7 +5648,7 @@ namespace NRO_Server.Application.Main
 
                                     // Hồn linh thú
                                     var itemHonLinhThu = character.CharacterHandler.GetItemBagByIndex(arrIndexUi[1]);
-                                    if (itemHonLinhThu == null || itemHonLinhThu.Id != 1087 || itemHonLinhThu.Quantity < 99)
+                                    if (itemHonLinhThu == null || itemHonLinhThu.Id != 1048 || itemHonLinhThu.Quantity < 99)
                                     {
                                         character.CharacterHandler.SendMessage(
                                             Service.DialogMessage("Cần cho 99 hồn linh thú vào thứ 2"));
@@ -5862,7 +5862,7 @@ namespace NRO_Server.Application.Main
 
                             // Trứng linh thú
                             var itemTrungLinhThu = character.CharacterHandler.GetItemBagByIndex(arrIndexUi[0]);
-                            if (itemTrungLinhThu == null || itemTrungLinhThu.Id != 1088)
+                            if (itemTrungLinhThu == null || itemTrungLinhThu.Id != 1049)
                             {
                                 character.CharacterHandler.SendMessage(
                                     Service.DialogMessage("Cần cho trứng linh thú vào đầu tiên"));
@@ -5871,7 +5871,7 @@ namespace NRO_Server.Application.Main
 
                             // Hồn linh thú
                             var itemHonLinhThu = character.CharacterHandler.GetItemBagByIndex(arrIndexUi[1]);
-                            if (itemHonLinhThu == null || itemHonLinhThu.Id != 1087 || itemHonLinhThu.Quantity < 99)
+                            if (itemHonLinhThu == null || itemHonLinhThu.Id != 1048 || itemHonLinhThu.Quantity < 99)
                             {
                                 character.CharacterHandler.SendMessage(
                                     Service.DialogMessage("Cần cho 99 hồn linh thú vào thứ 2"));

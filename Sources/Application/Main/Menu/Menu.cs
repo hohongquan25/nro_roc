@@ -2466,9 +2466,10 @@ namespace NRO_Server.Application.Main.Menu
                     int RandomIndex = ServerUtils.RandomNumber(specialSkillTemplate.Count);
                     SpecialSkillTemplate SkillRandom = specialSkillTemplate[RandomIndex];
 
-                    int ValueRandom = 0;
-
-                    ValueRandom = ServerUtils.RandomNumber(SkillRandom.Min, SkillRandom.Max + 1);
+                    int roll1 = ServerUtils.RandomNumber(SkillRandom.Min, SkillRandom.Max + 1);
+                    int roll2 = ServerUtils.RandomNumber(SkillRandom.Min, SkillRandom.Max + 1);
+                    int roll3 = ServerUtils.RandomNumber(SkillRandom.Min, SkillRandom.Max + 1);
+                    ValueRandom = Math.Max(roll1, Math.Max(roll2, roll3));
                     
                     string InfoRandom = SkillRandom.InfoFormat.Replace("#", ValueRandom + "");
 
@@ -6331,17 +6332,22 @@ namespace NRO_Server.Application.Main.Menu
                     {
                         var optionRandom = DataCache.OptionPorata2[ServerUtils.RandomNumber(DataCache.OptionPorata2.Count)]; 
                         // Thành công thì lấy random option trong list
+                        int roll1 = ServerUtils.RandomNumber(optionRandom[1], optionRandom[2] + 1);
+                        int roll2 = ServerUtils.RandomNumber(optionRandom[1], optionRandom[2] + 1);
+                        int roll3 = ServerUtils.RandomNumber(optionRandom[1], optionRandom[2] + 1);
+                        int paramValue = Math.Max(roll1, Math.Max(roll2, roll3));
+
                         if (optionCheck != null)
                         {
                             optionCheck.Id = optionRandom[0];
-                            optionCheck.Param = ServerUtils.RandomNumber(optionRandom[1], optionRandom[2]);
+                            optionCheck.Param = paramValue;
                         }
                         else 
                         {
                             bongTaiPorata2.Options.Add(new OptionItem()
                             {
                                 Id = optionRandom[0],
-                                Param = ServerUtils.RandomNumber(optionRandom[1], optionRandom[2])
+                                Param = paramValue
                             });
                         }
                         character.CharacterHandler.SendMessage(Service.SendCombinne2());
