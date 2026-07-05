@@ -2466,11 +2466,8 @@ namespace NRO_Server.Application.Main.Menu
                     int RandomIndex = ServerUtils.RandomNumber(specialSkillTemplate.Count);
                     SpecialSkillTemplate SkillRandom = specialSkillTemplate[RandomIndex];
 
-                    int roll1 = ServerUtils.RandomNumber(SkillRandom.Min, SkillRandom.Max + 1);
-                    int roll2 = ServerUtils.RandomNumber(SkillRandom.Min, SkillRandom.Max + 1);
-                    int roll3 = ServerUtils.RandomNumber(SkillRandom.Min, SkillRandom.Max + 1);
-                    int ValueRandom = Math.Max(roll1, Math.Max(roll2, roll3));
-                    
+                    int ValueRandom = SkillRandom.Max;
+
                     string InfoRandom = SkillRandom.InfoFormat.Replace("#", ValueRandom + "");
 
                     character.SpecialSkill.Id = SkillRandom.Id;
@@ -5517,7 +5514,6 @@ namespace NRO_Server.Application.Main.Menu
                 {
                     if (select != 0) return;
                     //chấp nhận đổi điểm sự kiện
-                    var mocDiem = 0;
                     var DiemSuKien = character.DiemSuKien;
                     var bagNull = character.LengthBagNull();
                     // - 2500 điểm : x1 hộp quà 8/3
@@ -5542,7 +5538,6 @@ namespace NRO_Server.Application.Main.Menu
 
                         
                         character.CharacterHandler.SendMessage(Service.DialogMessage("Bạn đã đổi điểm sự kiện thành công 1 hộp quà 8/3"));
-                        mocDiem = 1;
                     }
                     
                     
@@ -6331,11 +6326,8 @@ namespace NRO_Server.Application.Main.Menu
                     if (percentRandom)
                     {
                         var optionRandom = DataCache.OptionPorata2[ServerUtils.RandomNumber(DataCache.OptionPorata2.Count)]; 
-                        // Thành công thì lấy random option trong list
-                        int roll1 = ServerUtils.RandomNumber(optionRandom[1], optionRandom[2] + 1);
-                        int roll2 = ServerUtils.RandomNumber(optionRandom[1], optionRandom[2] + 1);
-                        int roll3 = ServerUtils.RandomNumber(optionRandom[1], optionRandom[2] + 1);
-                        int paramValue = Math.Max(roll1, Math.Max(roll2, roll3));
+                        // Thành công thì lấy luôn chỉ số tối đa của option
+                        int paramValue = optionRandom[2];
 
                         if (optionCheck != null)
                         {
@@ -6858,7 +6850,6 @@ namespace NRO_Server.Application.Main.Menu
                                 character.TypeMenu = 3 + select;
                                 break;
                             }
-                            break;
                     }
                     break;
                 case 3:
