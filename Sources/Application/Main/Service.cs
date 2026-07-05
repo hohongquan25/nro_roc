@@ -2429,6 +2429,11 @@ namespace NRO_Server.Application.Main
                     ItemTemplate itemTemplate;
                     character.ItemBag.ForEach(item =>
                     {
+                        if (item == null)
+                        {
+                            message.Writer.WriteShort(-1);
+                            return;
+                        }
                         itemTemplate = ItemCache.ItemTemplate(item.Id);
                         message.Writer.WriteShort(item.Id);
                         message.Writer.WriteInt(item.Quantity);
@@ -2482,6 +2487,11 @@ namespace NRO_Server.Application.Main
                     ItemTemplate itemTemplate;
                     character.ItemBox.ForEach(item =>
                     {
+                        if (item == null)
+                        {
+                            message.Writer.WriteShort(-1);
+                            return;
+                        }
                         itemTemplate = ItemCache.ItemTemplate(item.Id);
                         message.Writer.WriteShort(item.Id);
                         message.Writer.WriteInt(item.Quantity);

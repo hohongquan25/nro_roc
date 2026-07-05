@@ -954,7 +954,7 @@ namespace NRO_Server.Application.Handlers.Character
                 Service.SendImageBag(Character.Id, 88));
                 return;
             }
-            var itemBag = Character.ItemBag.FirstOrDefault(item => ItemCache.ItemTemplate(item.Id).Type == 11);
+            var itemBag = Character.ItemBag.FirstOrDefault(item => item != null && ItemCache.ItemTemplate(item.Id).Type == 11);
             if (itemBag != null)
             {
                 var itemTemplate = ItemCache.ItemTemplate(itemBag.Id);
