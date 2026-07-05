@@ -2469,7 +2469,7 @@ namespace NRO_Server.Application.Main.Menu
                     int roll1 = ServerUtils.RandomNumber(SkillRandom.Min, SkillRandom.Max + 1);
                     int roll2 = ServerUtils.RandomNumber(SkillRandom.Min, SkillRandom.Max + 1);
                     int roll3 = ServerUtils.RandomNumber(SkillRandom.Min, SkillRandom.Max + 1);
-                    ValueRandom = Math.Max(roll1, Math.Max(roll2, roll3));
+                    int ValueRandom = Math.Max(roll1, Math.Max(roll2, roll3));
                     
                     string InfoRandom = SkillRandom.InfoFormat.Replace("#", ValueRandom + "");
 
